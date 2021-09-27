@@ -8,4 +8,4 @@ TITLE=$"Reduzir ruídos do microfone"
 
 
 cd /usr/share/bigbashview/bcc/apps/biglinux-noise-reduction-pipewire/
-QT_QPA_PLATFORM=xcb SDL_VIDEODRIVER=x11 WINIT_UNIX_BACKEND=x11 GDK_BACKEND=x11  bigbashview -s 1028x470 -i icon.png index.sh.htm
+QT_QPA_PLATFORM=xcb SDL_VIDEODRIVER=x11 WINIT_UNIX_BACKEND=x11 GDK_BACKEND=x11 bigbashview -s 1028x470 -n "$TITLE" -i icon.png index.sh.htm
