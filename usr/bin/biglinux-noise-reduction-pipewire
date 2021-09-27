@@ -1,0 +1,4 @@
+#!/bin/bash
+
+cd /usr/share/bigbashview/bcc/apps/biglinux-noise-reduction-pipewire/
+bigbashview -s 1028x670 -i icon.png index.sh.htm

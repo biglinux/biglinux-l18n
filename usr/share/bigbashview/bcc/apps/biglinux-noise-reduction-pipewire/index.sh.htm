@@ -1,0 +1,137 @@
+#!/bin/bash
+
+#Translation
+export TEXTDOMAINDIR="/usr/share/locale"
+export TEXTDOMAIN=biglinux-remove-noise-mic-pipewire
+
+# Don't group windows
+xprop -id "$(xprop -root '\t$0' _NET_ACTIVE_WINDOW | cut -f 2)" -f WM_CLASS 8s -set WM_CLASS "$$"
+
+FOLDER_CONFIG="$HOME/.config/biglinux-noise-reduction"
+mkdir -p ~/.config/biglinux-noise-reduction
+
+#############
+# First Run
+#############
+
+
+
+if [ "$active" = "0" ]
+then
+	systemctl --user start noise-reduction-pipewire
+fi
+
+if [ "$active" = "1" ]
+then
+    systemctl --user stop noise-reduction-pipewire
+fi
+
+
+if [ "$autostart" = "0" ]
+then
+	systemctl --user enable noise-reduction-pipewire
+fi
+if [ "$autostart" = "1" ]
+then
+    systemctl --user disable noise-reduction-pipewire
+fi
+
+
+if [ "$(systemctl --user is-active noise-reduction-pipewire)" = "active" ]
+then
+	checked_active="checked"
+	active=1
+else
+    active=0
+fi
+
+if [ "$(systemctl --user is-enabled noise-reduction-pipewire)" = "enabled" ]
+then
+	checked_autostart="checked"
+	autostart=1
+else
+    autostart=0
+fi
+
+
+# Import BigControlCenter base modules / Importa os módulos básicos do BigControlCenter
+# That's include jquery and materialize / Isso inclui o jquery e o materialize
+# http://materializecss.com/
+. /usr/share/bigbashview/bcc/shell/base.sh
+
+  echo '
+  <body>
+  <head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" type="text/css" href="/usr/share/bigbashview/bcc/css/base.css">
+    <link rel="stylesheet" type="text/css" href="/usr/share/bigbashview/bcc/materialize/css/materialize.css">
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <script src="/usr/share/bigbashview/bcc/materialize/js/jquery.js"></script>
+    <script src="/usr/share/bigbashview/bcc/materialize/js/materialize.js"></script>
+    <script src="/usr/share/bigbashview/bcc/js/big.js"></script>
+  </head>'
+  echo '<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />'
+
+
+
+echo '<div id=page2>'
+echo '<div id="middle" class="bar"><h1>'
+
+  echo $"Este filtro utiliza técnicas de redes neurais para remover ruídos do microfone, além da remoção de chiados, também reduz ruídos em geral, por exemplo, o barulho da digitação no teclado ou de cachorros latindo."
+  echo "<br><br>"
+  echo $"Se o microfone ainda estiver com muito ruído, experimente reduzir o volume do microfone para 50%."
+  echo "<br><br>"
+  
+  echo "<form name=noise action=make.sh.htm>"
+
+
+echo '<div id=content>'
+echo '<div id=inner>'
+
+
+TOOLTIP_ACTIVE=$"Se um programa estiver utilizando o microfone
+não será possível iniciar o filtro."
+active_text=$"Ativo"
+cat << EOF
+  <div class="switch" onchange="parent.location='index.sh.htm?active=$active'">
+    <label class="lever tooltipped " data-position="top" data-delay="50" data-tooltip="<br>$TOOLTIP_ACTIVE<br><br>">
+      <input type="checkbox" $checked_active>
+      <span class="lever"></span>
+      $active_text
+    </label>
+  </div>
+EOF
+
+echo '</div><div id=inner>'
+
+
+TOOLTIP_AUTOSTART=$"Se um programa estiver utilizando o microfone
+não será possível iniciar o filtro."
+autostart_text=$"Iniciar automaticamente"
+cat << EOF
+  <div class="switch" onchange="parent.location='index.sh.htm?autostart=$autostart'">
+    <label class="lever tooltipped " data-position="top" data-delay="50" data-tooltip="<br>$TOOLTIP_AUTOSTART<br><br>">
+      <input type="checkbox" $checked_autostart>
+      <span class="lever"></span>
+      $autostart_text
+    </label>
+  </div>
+EOF
+
+echo '</div></div>'
+echo "<div id=buttons>"
+echo '<div id=theme2-2>'
+
+tooltip_move_source=$"Se o filtro está ativo e você está utilizando o microfone em algum programa,
+<br>
+mas ele não está utilizando o filtro, clique aqui para resolver."
+
+echo "<a class=\"tooltipped with-gap btn\" data-position=\"top\" data-delay=\"250\" data-tooltip=\"$tooltip_move_source\" onclick=\"_run('./move_mic.run')\" id=link_bottom_left>" $"Fazer os programas em execução utilizarem o filtro de ruídos" '</a>'
+
+tooltip_volume_config=$"Mais configurações de áudio."
+echo "<a class=\"tooltipped with-gap btn\" data-position=\"top\" data-delay=\"250\" data-tooltip=\"$tooltip_volume_config\" onclick=\"_run('./volume_config.run')\" id=link_bottom_left>" $"Abrir o gerenciador de áudio" '</a>'
+
+
+
+echo "</div></div>"
+

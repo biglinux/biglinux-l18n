@@ -1,0 +1,9 @@
+#!/bin/sh
+
+# Change all sources to rnnoise
+for i in $(pactl list source-outputs short | cut -f1); do
+    pactl move-source-output $i effect_input.rnnoise
+done
+
+# Change default source to rnnoise
+pactl set-default-source effect_input.rnnoise
