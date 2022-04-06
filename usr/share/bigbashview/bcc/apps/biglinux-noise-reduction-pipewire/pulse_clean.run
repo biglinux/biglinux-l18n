@@ -1,5 +1,5 @@
 #!/bin/bash
-
+#kdialog --msgbox "pluse_clean.run"
 #Translation
 export TEXTDOMAINDIR="/usr/share/locale"
 export TEXTDOMAIN=biglinux-themes
