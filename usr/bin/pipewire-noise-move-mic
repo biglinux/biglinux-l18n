@@ -1,6 +1,14 @@
 #!/bin/sh
 
 
+if [ "$(pactl list sources  | grep -e Sink: -e node.name -e media.name | grep -A1 -B1 'Noise Canceling source' | grep 'node.name =' | cut -f2 -d'"')" = "" ]; then
+    sleep 2
+    if [ "$(pactl list sources  | grep -e Sink: -e node.name -e media.name | grep -A1 -B1 'Noise Canceling source' | grep 'node.name =' | cut -f2 -d'"')" = "" ]; then
+        sleep 2
+    fi
+fi
+
+
 # node.name to filter
 NODENAME="$(pactl list sources  | grep -e Sink: -e node.name -e media.name | grep -A1 -B1 'Noise Canceling source' | grep 'node.name =' | cut -f2 -d'"')"
 

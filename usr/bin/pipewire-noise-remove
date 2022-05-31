@@ -9,4 +9,6 @@ if [ ! -e "$HOME/.config/pipewire/source-rnnoise.conf" ]; then
     sed -i "s|node.description =.*|node.description = \"$mic_name\"|g" ~/.config/pipewire/source-rnnoise.conf
 fi
 
+pipewire-noise-move-mic &
+
 /usr/bin/pipewire -c "$HOME/.config/pipewire/source-rnnoise.conf"
