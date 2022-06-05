@@ -1,0 +1,32 @@
+{
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "bigbruno@gmail.com",
+                "Name": "Bruno Goncalves"
+            },
+            {
+                "Email": "rruscher@gmail.com",
+                "Name": "Rafael Ruscher"
+            }
+        ],
+        "Category": "Multimedia",
+        "Description": "Enable/Disable",
+        "Description[pt_BR]": "Ativar/Desativar",
+        "EnabledByDefault": true,
+        "Icon": "noise-reduction-on",
+        "Id": "org.biglinux.micnoise",
+        "License": "GPL-2.0+",
+        "Name": "Mic noise filter",
+        "Name[pt_BR]": "Reduzir ruídos do microfone",
+        "ServiceTypes": [
+            "Plasma/Applet"
+        ],
+        "Version": "1.0",
+        "Website": "https://kde.org/plasma-desktop"
+    },
+    "X-Plasma-API": "declarativeappletscript",
+    "X-Plasma-MainScript": "ui/main.qml",
+    "X-Plasma-NotificationArea": "true",
+    "X-Plasma-NotificationAreaCategory": "SystemServices"
+}
