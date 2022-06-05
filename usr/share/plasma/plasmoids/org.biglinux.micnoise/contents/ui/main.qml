@@ -59,7 +59,7 @@ Item {
 		}
 	}
 
-    Plasmoid.icon: outputText ? 'big-noise-reduction-off' : 'big-noise-reduction-on'
+    Plasmoid.icon: outputText ? 'big-noise-reduction-on' : 'big-noise-reduction-off'
     Plasmoid.preferredRepresentation: Plasmoid.compactRepresentation
 
     // Active = in systray and Passive in notification area
