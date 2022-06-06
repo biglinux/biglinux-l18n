@@ -52,7 +52,7 @@ Item {
 		id: timer
 		
 		// Wait in ms
-		interval: 3500
+		interval: 7000
 		onTriggered: runCommand()
 		Component.onCompleted: {
 			triggered()
@@ -72,12 +72,10 @@ Item {
         if (outputText) {
             
             executable.exec('systemctl --user stop noise-reduction-pipewire')
-            executable.exec('/usr/share/bigbashview/bcc/apps/biglinux-noise-reduction-pipewire/alert_disable.run')
-            timer.restart()
+            timer.interval = 500
         } else {
             executable.exec('systemctl --user start noise-reduction-pipewire')
-            executable.exec('/usr/share/bigbashview/bcc/apps/biglinux-noise-reduction-pipewire/alert_enable.run')
-            timer.restart()
+            timer.interval = 500
         }
     }
 
