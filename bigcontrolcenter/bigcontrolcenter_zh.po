@@ -18,10 +18,10 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit"
 
 msgid "Iniciando no BigLinux"
-msgstr ""
+msgstr "启动BigLinux"
 
 msgid "Central de Controle"
-msgstr ""
+msgstr "控制中心"
 
 msgid ""
 "A webcam já está sendo utilizada pelo programa: $WEBCAM_BUSY\n"
@@ -30,152 +30,160 @@ msgid ""
 "As alterações feitas podem ser vistas\n"
 "na imagem da sua webcam em outros programas."
 msgstr ""
+"网络摄像头已经被程序使用：$WEBCAM_BUSY\n"
+"\n"
+"我将在配置模式下打开它。\n"
+"可以看到所做的改变\n"
+"在其他程序中你的网络摄像头的图像。"
 
 msgid "Category"
-msgstr ""
+msgstr "类别"
 
 msgid "Name"
-msgstr ""
+msgstr "命名"
 
 msgid ""
 "O relatório foi salvo no arquivo $FILE_TO_SAVE\n"
 "\n"
 "Deseja visualizar o relatório agora?\n"
 msgstr ""
+"该报告被保存在$FILE_TO_SAVE文件中。\n"
+"\n"
+"你想现在查看报告吗？\n"
 
 msgid "Visualizar o relatório"
-msgstr ""
+msgstr "查看报告"
 
 msgid "Hardinfo Relatory"
-msgstr ""
+msgstr "困难情况下的相关信息"
 
 msgid "Bem vindo ao BigLinux"
-msgstr ""
+msgstr "欢迎来到BigLinux"
 
 msgid "Comece com algumas etapas simples."
-msgstr ""
+msgstr "从几个简单的步骤开始。"
 
 msgid "Mostrar na inicialização"
-msgstr ""
+msgstr "启动时显示"
 
 msgid "Olá"
-msgstr ""
+msgstr "你好"
 
 msgid "Ajustes iniciais"
-msgstr ""
+msgstr "初步调整"
 
 msgid ""
 "Disponiblizamos configurações completas para você selecionar de forma "
 "extremamente simples."
-msgstr ""
+msgstr "我们以非常简单的方式提供完整的配置供你选择。"
 
 msgid "Escolha seu navegador padrão"
-msgstr ""
+msgstr "选择你的默认浏览器"
 
 msgid "Defina seus programas padrões."
-msgstr ""
+msgstr "设置你的默认节目。"
 
 msgid "Outros navegadores"
-msgstr ""
+msgstr "其他浏览器"
 
 msgid "KDE Connect"
-msgstr ""
+msgstr "KDE连接"
 
 msgid ""
 "O KDE Connect é um aplicativo que facilita as comunicações sem fio e a "
 "transferência de dados entre dispositivos em redes locais. Disponível na "
 "Google Play Store para Android e Apple Store para iPhone."
-msgstr ""
+msgstr "KDE Connect是一个促进本地网络中设备间无线通信和数据传输的应用程序。可在安卓的谷歌游戏商店和iPhone的苹果商店购买。"
 
 msgid "Instalação de Driver e Informações de Hardware"
-msgstr ""
+msgstr "驱动程序安装和硬件信息"
 
 msgid "Instalar ou Remover Drivers e Firmwares de forma simples."
-msgstr ""
+msgstr "轻松安装或删除驱动程序和固件。"
 
 msgid "Impressoras"
-msgstr ""
+msgstr "打印机"
 
 msgid "Conheça alguns recursos"
-msgstr ""
+msgstr "了解一些资源"
 
 msgid ""
 "Nosso sistema é colaborativo, venha fazer parte dessa evolução. Confira as "
 "novidades!"
-msgstr ""
+msgstr "我们的系统是协作性的，来成为这一演变的一部分。请看新闻!"
 
 msgid "Big Store"
-msgstr ""
+msgstr "大商店"
 
 msgid "Web Apps"
-msgstr ""
+msgstr "网络应用程序"
 
 msgid "Redutor de Ruídos"
-msgstr ""
+msgstr "降噪器"
 
 msgid "Configurar a voz do sistema (TTS)"
-msgstr ""
+msgstr "设置系统语音（TTS）"
 
 msgid "OCR para PDF"
-msgstr ""
+msgstr "用于PDF的OCR"
 
 msgid "Doação e Redes sociais"
-msgstr ""
+msgstr "捐赠和社会网络"
 
 msgid "Sua doação é muito importante para o projeto e siga as redes sociais."
-msgstr ""
+msgstr "您的捐款对该项目非常重要，请关注社交网络。"
 
 msgid "Doação"
-msgstr ""
+msgstr "捐献"
 
 msgid "Fórum"
-msgstr ""
+msgstr "论坛"
 
 msgid "YouTube"
-msgstr ""
+msgstr "录像带"
 
 msgid "Twitter"
-msgstr ""
+msgstr "推特"
 
 msgid "Telegram"
-msgstr ""
+msgstr "电报"
 
 msgid "Instagram"
-msgstr ""
+msgstr "淘宝网"
 
 msgid "Facebook"
-msgstr ""
+msgstr "脸书"
 
 msgid "Parabéns, você concluiu os primeiros passo para utilizar o BigLinux."
-msgstr ""
+msgstr "恭喜你，你已经完成了使用BigLinux的第一个步骤。"
 
 msgid "Integração com Google Drive e ownCloud"
-msgstr ""
+msgstr "与Google Drive和ownCloud整合"
 
 msgid ""
 "Acesse seus arquivos que estão no Google Drive ou ownCloud diretamente no "
 "gerenciador de arquivos."
-msgstr ""
+msgstr "直接从文件管理器访问你在Google Drive或ownCloud中的文件。"
 
 msgid "Qt Assistant"
-msgstr ""
+msgstr "Qt助手"
 
 msgid "Programas de desenvolvimento para QT."
-msgstr ""
+msgstr "QT的发展方案。"
 
 msgid ""
 "Configurações de uso dos antigos CDs de música, não são válidas para músicas "
 "em MP3."
-msgstr ""
+msgstr "旧音乐光盘的使用设置对MP3音乐无效。"
 
 msgid "Procurar servidores (zeroconf)"
-msgstr ""
+msgstr "搜索服务器（Zeroconf）"
 
 msgid "Instalar ou remover programas."
-msgstr ""
+msgstr "安装或删除程序。"
 
 msgid "Restaurar a configuração de programas"
-msgstr ""
+msgstr "恢复程序配置"
 
 msgid ""
 "Utilitário que facilita a restauração do sistema instalado,\n"
@@ -186,127 +194,134 @@ msgid ""
 "<br>\n"
 "de pacotes e o terminal do sistema instalado."
 msgstr ""
+"有助于恢复已安装系统的实用程序。\n"
+"<br>\n"
+"主要是恢复系统启动（Grub）。\n"
+"<br><br>\n"
+"它也可以用来访问管理器\n"
+"<br>\n"
+"经理和安装系统的终端。"
 
 msgid "Temas do Bootsplash"
-msgstr ""
+msgstr "Bootsplash主题"
 
 msgid "Procurar servidores SSH"
-msgstr ""
+msgstr "浏览SSH服务器"
 
 msgid "Procurar servidores VNC"
-msgstr ""
+msgstr "搜索VNC服务器"
 
 msgid "Configurar este tema de borda de janelas"
-msgstr ""
+msgstr "配置这个窗口的边框主题"
 
 msgid "Configurar este tema de janelas."
-msgstr ""
+msgstr "配置这个窗口主题。"
 
 msgid "Qt Designer"
-msgstr ""
+msgstr "Qt设计师"
 
 msgid "Gerenciador de áudio avançado - Alsamixer"
-msgstr ""
+msgstr "高级音频管理器 - Alsamixer"
 
 msgid "Controlador de áudio em caso de ausência som."
-msgstr ""
+msgstr "在没有声音的情况下的音频控制器。"
 
 msgid "Particionar ou formatar"
-msgstr ""
+msgstr "分区或格式化"
 
 msgid "Cuidado, este programa poderá apagar todos os dados do computador."
-msgstr ""
+msgstr "请注意，这个程序可能会清除你电脑上的所有数据。"
 
 msgid "Informações de armazenamento (SMART)"
-msgstr ""
+msgstr "存储信息（SMART）。"
 
 msgid "Firewall"
-msgstr ""
+msgstr "防火墙"
 
 msgid "Configurar regras de segurança para a conexão com a internet."
-msgstr ""
+msgstr "配置互联网连接的安全规则。"
 
 msgid "Configurar webcam ou placa de captura"
-msgstr ""
+msgstr "设置一个网络摄像头或采集卡"
 
 msgid "Scanners HP"
-msgstr ""
+msgstr "惠普扫描器"
 
 msgid "Impressoras HP"
-msgstr ""
+msgstr "惠普打印机"
 
 msgid "Verificar o status, nível de tinta e manutenção."
-msgstr ""
+msgstr "检查状态、墨水水平和维护。"
 
 msgid "Montar Hardware Apple"
-msgstr ""
+msgstr "安装苹果硬件"
 
 msgid ""
 "Com esse programa você pode acessar os programas do seu iPhone ou iPad Apple "
 "de forma similar ao acesso de arquivos em um pendrive."
-msgstr ""
+msgstr "有了这个程序，你可以以类似于访问U盘上的文件的方式访问你的苹果iPhone或iPad上的程序。"
 
 msgid "Áreas de trabalho virtuais e atividades"
-msgstr ""
+msgstr "虚拟工作空间和活动"
 
 msgid "Crie mais de uma área de trabalho vitual alternando entre elas."
-msgstr ""
+msgstr "通过在它们之间的切换创建一个以上的虚拟桌面。"
 
 msgid ""
 "Ativar a pesquisa aumenta o consumo de memória e processamento do sistema."
-msgstr ""
+msgstr "激活搜索会增加系统内存和处理消耗。"
 
 msgid "Ajuste a data, hora e fuso horário."
-msgstr ""
+msgstr "设置日期、时间和时区。"
 
 msgid "Tema da Área de Trabalho"
-msgstr ""
+msgstr "工作区主题"
 
 msgid "Ícones e emoticons"
-msgstr ""
+msgstr "图标和表情符号"
 
 msgid "Joystick"
-msgstr ""
+msgstr "操纵杆"
 
 msgid "Configurações de layout, teclas de atalho e outras opções."
-msgstr ""
+msgstr "布局设置、快捷键和其他选项。"
 
 msgid "Gerenciar conexões"
-msgstr ""
+msgstr "管理连接"
 
 msgid ""
 "Configuração avançada de rede (VPN, wifi, cabeada, IP fixo, PPPoE, ADSL, "
 "rede com fio, banda larga móvel e outros)."
-msgstr ""
+msgstr "高级网络配置（VPN、wifi、有线、固定IP、PPPoE、ADSL、有线网络、移动宽带和其他）。"
 
 msgid "Instalar, configurar ou remover impressoras."
-msgstr ""
+msgstr "安装、配置或删除打印机。"
 
 msgid "Configurar o tema Kvantum"
-msgstr ""
+msgstr "配置Kvantum主题"
 
 msgid ""
 "Para a configuração do Kvantum funcionar, aplique o tema Kvantum em 'Estilo "
 "do aplicativo'."
-msgstr ""
+msgstr "为了使Kvantum配置发挥作用，在 \"应用风格 \"下应用Kvantum主题。"
 
 msgid "Carteira de senhas do KDE"
-msgstr ""
+msgstr "KDE密码钱包"
 
 msgid "Qt Linguist"
-msgstr ""
+msgstr "Qt语言学家"
 
 msgid "Gerenciador de usuários"
-msgstr ""
+msgstr "用户经理"
 
 msgid "Adiciona, remove ou edita usuários e grupos do sistema."
-msgstr ""
+msgstr "添加、删除或编辑系统用户和组。"
 
 msgid "Gerenciar arquivos"
-msgstr ""
+msgstr "管理文件"
 
 msgid "Tenha acesso a seus arquivos e pastas."
-msgstr ""
+msgstr "获取对你的文件和文件夹的访问权。"
 
 msgid ""
 "Esse programa pode transferir arquivos entre smartphones, tablets e outros "
@@ -317,92 +332,95 @@ msgid ""
 "Google Store em seu telefone e instale o Kde Connect.  Esse aplicativo não "
 "está disponível para iPhone."
 msgstr ""
+"这个程序可以在智能手机、平板电脑和其他电脑之间传输文件。  例如，有了它，你可以把你的智能手机当作鼠标和无线键盘来控制电脑，还有其他功能。  "
+"它与BigLinux整合得更好，是位于系统时钟附近的小程序之一。  要与你的智能手机同步，请到你手机上的谷歌商店，安装Kde Connect。  "
+"此应用程序不适用于iPhone。"
 
 msgid "Terminal"
-msgstr ""
+msgstr "终端"
 
 msgid "Acesse o terminal de comandos."
-msgstr ""
+msgstr "进入命令终端。"
 
 msgid "Gerenciar senhas salvas"
-msgstr ""
+msgstr "管理保存的密码"
 
 msgid "Som e microfone"
-msgstr ""
+msgstr "声音和话筒"
 
 msgid ""
 "Configurar ou alterar dispositivos de entrada e saída de áudio. (Ex: HDMI)"
-msgstr ""
+msgstr "配置或改变音频输入和输出设备（例如：HDMI）。"
 
 msgid "Qt QDBusViewer "
-msgstr ""
+msgstr "Qt QDBusViewer "
 
 msgid "Centro de controle do KDE"
-msgstr ""
+msgstr "KDE控制中心"
 
 msgid "Configurador avançado de energia"
-msgstr ""
+msgstr "高级电源配置器"
 
 msgid "Aparência"
-msgstr ""
+msgstr "外观"
 
 msgid "Dispositivos"
-msgstr ""
+msgstr "设备"
 
 msgid "Personalizar"
-msgstr ""
+msgstr "定制"
 
 msgid "Telefone"
-msgstr ""
+msgstr "电话"
 
 msgid "Rede e Internet"
-msgstr ""
+msgstr "网络和互联网"
 
 msgid "Contas"
-msgstr ""
+msgstr "帐户"
 
 msgid "Região e Idioma"
-msgstr ""
+msgstr "地区和语言"
 
 msgid "Privacidade"
-msgstr ""
+msgstr "隐私"
 
 msgid "Servidor"
-msgstr ""
+msgstr "服务器"
 
 msgid "Desenvolvimento"
-msgstr ""
+msgstr "发展"
 
 msgid "Sobre"
-msgstr ""
+msgstr "关于"
 
 msgid "Pesquisar..."
-msgstr ""
+msgstr "搜索..."
 
 msgid "Temas, desktop e ajustes"
-msgstr ""
+msgstr "主题、桌面和设置"
 
 msgid "Informações do sistema e hardware"
-msgstr ""
+msgstr "系统和硬件信息"
 
 msgid ""
 "Além de visualizar as informações é possível salvar em um arquivo e "
 "compartilhar na internet."
-msgstr ""
+msgstr "除了查看信息外，还可以将其保存为文件并在互联网上分享。"
 
 msgid "Conectar à internet"
-msgstr ""
+msgstr "连接到互联网"
 
 msgid "Conecte na internet por cabo de rede ou wifi."
-msgstr ""
+msgstr "通过网线或WIFI连接到互联网。"
 
 msgid "Conectar à internet utilizando o Android"
-msgstr ""
+msgstr "使用安卓系统连接到互联网"
 
 msgid ""
 "Você pode utilizar seu smartphone ou tablet Android como um dispositivo wifi "
 "usb para seu computador."
-msgstr ""
+msgstr "你可以把你的安卓智能手机或平板电脑作为电脑的wifi usb设备使用。"
 
 msgid ""
 "Como utilizar a internet do seu tablet ou  smartphone Android:\n"
@@ -423,38 +441,51 @@ msgid ""
 "*Caso esteja utilizando o dados móveis, será consumido do seu plano de dados."
 ""
 msgstr ""
+"如何从你的安卓平板电脑或智能手机使用互联网。\n"
+"<br><br>\n"
+"1.将设备插入计算机的USB端口。\n"
+"<br>\n"
+"2.进入你的安卓设备设置，寻找一些选项：\"USB绑定\"、\"USB连接 \"或 \"USB连接\"。\n"
+"<br>\n"
+"这些都是每个制造商对同一功能使用的不同方式。\n"
+"<br><br>\n"
+"*这些选项在 \"网络和互联网 \"或 \"连接和共享 \"部分。\n"
+"<br><br>\n"
+"通过激活，它将自动连接，你将使用与你的安卓设备相同的连接。\n"
+"<br>\n"
+"*如果你正在使用移动数据，它将从你的数据计划中消耗。"
 
 msgid "Visualizar informações do sistema e hardware"
-msgstr ""
+msgstr "查看系统和硬件信息"
 
 msgid ""
 "Também cria um arquivo com informações, que você pode enviar a outras "
 "pessoas para que o ajudem com o suporte."
-msgstr ""
+msgstr "它还会创建一个包含信息的文件，你可以将其发送给其他人，以帮助你获得支持。"
 
 msgid "Adicionar ou Remover Usuários"
-msgstr ""
+msgstr "添加或删除用户"
 
 msgid "Criar, remover e gerenciar contas e grupos de usuários."
-msgstr ""
+msgstr "创建、删除和管理用户账户和组。"
 
 msgid "Economia de energia"
-msgstr ""
+msgstr "节能"
 
 msgid "Monitores e Telas"
-msgstr ""
+msgstr "监视器和屏幕"
 
 msgid "Configurar resolução, cor, frequência, dpi, escala, cor noturna, etc."
-msgstr ""
+msgstr "配置分辨率、颜色、频率、dpi、比例、夜色等。"
 
 msgid "Resetar as configurações da tela"
-msgstr ""
+msgstr "重置屏幕设置"
 
 msgid "Restaurar a configuração padrão do monitor."
-msgstr ""
+msgstr "恢复默认的显示器配置。"
 
 msgid "Airmore"
-msgstr ""
+msgstr "ǞǞǞ"
 
 msgid ""
 "Instale o aplicativo Airmore na loja de aplicativos do seu smartphone.  "
@@ -464,9 +495,11 @@ msgid ""
 "também pode utilizar nosso gerenciador de Web apps para facilitar o uso "
 "desse site."
 msgstr ""
+"从你的智能手机的应用程序商店安装Airmore应用程序。  使用这个按钮可以在该计算机上打开Airmore网站。  "
+"使用智能手机上的应用程序读取将显示在电脑屏幕上的二维码，并获得文件传输和更多的权限。  你也可以使用我们的网络应用程序管理器，使之更容易使用本网站。"
 
 msgid "Airdroid"
-msgstr ""
+msgstr "空中飞人"
 
 msgid ""
 "Instale o aplicativo Airdroid na loja de aplicativos do seu smartphone.  "
@@ -476,49 +509,51 @@ msgid ""
 "também pode utilizar nosso gerenciador de Web apps para facilitar o uso "
 "desse site."
 msgstr ""
+"从你的智能手机的应用程序商店安装Airdroid应用程序。  使用这个按钮可以在该电脑上打开Airdroid网站。  "
+"使用智能手机上的应用程序读取将显示在电脑屏幕上的QR码，并获得文件传输和更多。  你也可以使用我们的网络应用程序管理器，使使用本网站更容易。"
 
 msgid "Suporte a aplicativos Android"
-msgstr ""
+msgstr "安卓应用支持"
 
 msgid ""
 "Utilizando Waydroid abra programas de Android no BigLinux. *Este recurso "
 "ainda está em fase experimental."
-msgstr ""
+msgstr "使用Waydroid在BigLinux上打开Android程序。 *这一功能仍处于实验阶段。"
 
 msgid "Instalar drivers e firmwares"
-msgstr ""
+msgstr "安装驱动程序和固件"
 
 msgid "Snapshots e backups"
-msgstr ""
+msgstr "快照和备份"
 
 msgid "Gerenciar pontos de restauração."
-msgstr ""
+msgstr "管理还原点。"
 
 msgid ""
 "A partição que o sistema foi instalado não possui pontos de restauração, mas "
 "é possível fazer backups utilizando o método rsync."
-msgstr ""
+msgstr "安装系统的分区没有还原点，但可以用rsync方法进行备份。"
 
 msgid ""
 "Sistema em modo live. Restaure pontos de restauração do sistema instalado."
-msgstr ""
+msgstr "系统处于实时模式。恢复已安装系统的还原点。"
 
 msgid ""
 "Selecione o texto desejado e utilize o atalho com a tecla [Meta] + V ou o "
 "ícone no menu do sistema para que textos escritos sejam falados."
-msgstr ""
+msgstr "选择所需的文本，并使用[Meta]+V键的快捷方式或系统菜单中的图标，让书面文本被说出。"
 
 msgid "Instalar versões de kernel"
-msgstr ""
+msgstr "安装内核版本"
 
 msgid "Regras de segurança do Java"
-msgstr ""
+msgstr "Java安全规则"
 
 msgid "OpenJDK Java 8 Policy Tool"
-msgstr ""
+msgstr "OpenJDK Java 8策略工具"
 
 msgid "Snapdrop (Não precisa de aplicativo)"
-msgstr ""
+msgstr "Snapdrop (不需要应用程序)"
 
 msgid ""
 "Basta abrir o site https://snapdrop.net nos Hardware que você quer "
@@ -529,71 +564,77 @@ msgid ""
 "smartphone para outro.  Você também pode utilizar nosso gerenciador de Web "
 "apps para facilitar o uso desse site."
 msgstr ""
+"只要打开网站https://snapdrop.net，在你要传输的硬件上，就会自动检测到它们，你可以发送你想要的文件。  "
+"使用这个按钮可以在该计算机上打开Snapdrop网站。  "
+"Snapdrop可以在任何智能手机或电脑上使用，包括将文件直接从一部智能手机传输到另一部智能手机。  "
+"你也可以使用我们的网络应用程序管理器，以方便使用本网站。"
 
 msgid "Introdução"
-msgstr ""
+msgstr "简介"
 
 msgid "Introdução ao BigLinux."
-msgstr ""
+msgstr "BigLinux简介。"
 
 msgid "As configurações da tela foram resetadas."
-msgstr ""
+msgstr "屏幕设置已被重置。"
 
 msgid "Configurações da tela"
-msgstr ""
+msgstr "屏幕设置"
 
 msgid "Maximizado"
-msgstr ""
+msgstr "最大化"
 
 msgid "Waydroid"
-msgstr ""
+msgstr "途径德律风"
 
 msgid ""
 "Utilize programas para Android no seu computador, está em fase experimental, "
 "alguns programas podem não funcionar.<br>"
-msgstr ""
+msgstr "在你的电脑上使用安卓程序，它处于实验阶段，一些程序可能无法工作。<br>"
 
 msgid ""
 "Com o Wayland instalado é possível abrir programas no formato .apk, abra "
 "pelo gerenciador de arquivos do BigLinux.<br>"
-msgstr ""
+msgstr "安装了Wayland后，你可以打开.apk格式的程序，从BigLinux文件管理器中打开它们。<br>"
 
 msgid ""
 "<b>ATIVAR</b> a aceleração 3D em placas de vídeo Intel e AMD, outras como "
 "Nvidia <b>DESATIVE</b>."
-msgstr ""
+msgstr "在英特尔和AMD显卡上<b>启用</b>3D加速，其他如Nvidia<b>关闭</b>。"
 
 msgid "Download próximo de 1 GB, pode demorar muito."
-msgstr ""
+msgstr "下载接近1GB，可能需要很长的时间。"
 
 msgid "O Waydroid também pode ser iniciado utilizando o menu do sistema"
-msgstr ""
+msgstr "Waydroid也可以通过系统菜单启动"
 
 msgid ""
 "Se a aceleração 3D estiver ativada em um hardware incompatível\n"
 "    <br> o android não passará da tela de loading"
 msgstr ""
+"如果在不兼容的硬件上启用了3D加速功能\n"
+"    <br> 安卓系统将无法通过加载屏幕"
 
 msgid "Parar o Waydroid"
-msgstr ""
+msgstr "阻止Waydroid"
 
 msgid "Iniciar o Waydroid"
-msgstr ""
+msgstr "启动Waydroid"
 
 msgid "Resolução"
-msgstr ""
+msgstr "决议"
 
 msgid "Ativar a aceleração 3D"
-msgstr ""
+msgstr "启用3D加速器"
 
 msgid "Desativar a aceleração 3D"
-msgstr ""
+msgstr "禁用3D加速"
 
 msgid "Instalar Waydroid"
-msgstr ""
+msgstr "安装Waydroid"
 
 msgid "Instalar Waydroid com Google Apps"
-msgstr ""
+msgstr "用谷歌应用程序安装Waydroid"
 
 msgid ""
 "Para ativar a PlayStore é necessário clicar em (Exibir ID do Android) e "
@@ -602,17 +643,18 @@ msgid ""
 "Google, insira seu ID do Android e faça o registro. Pode demorar alguns "
 "minutos para ativar no seu Waydroid. Feche e abra novamente. Pronto!"
 msgstr ""
+"要激活PlayStore，你需要点击（显示安卓ID）并复制安卓ID，然后点击（激活谷歌应用），打开设备注册页面，你需要登录到谷歌账户，输入安卓ID并注册。它可能需要几分钟时间才能在你的Waydroid上激活。关闭并再次打开它。完成了!"
 
 msgid "Exibir ID do Android"
-msgstr ""
+msgstr "显示安卓ID"
 
 msgid "Ativar Google Apps"
-msgstr ""
+msgstr "启用谷歌应用程序"
 
 msgid "ID do Android:"
-msgstr ""
+msgstr "安卓ID。"
 
 msgid ""
 "Não foi possível resgatar o ID do Android. \\n\\nAtenção: Waydroid precisa "
 "estar aberto."
-msgstr ""
+msgstr "无法检索到Android ID。\\Warning: Waydroid must be open."

@@ -26,9 +26,12 @@ msgid ""
 "\n"
 "Deseja prosseguir com com a instalação em modo EFI?"
 msgstr ""
+"目前的启动是使用EFI模式，然而我在这台电脑上没有发现任何EFI分区，如果这台电脑已经安装了另一个系统，并且你希望它继续安装，你可能需要改变BIOS中的设置，以Legacy模式启动，也叫BIOS模式。\n"
+"\n"
+"你想继续进行EFI安装吗？"
 
 msgid "Instalar o sistema"
-msgstr ""
+msgstr "安装系统"
 
 msgid ""
 "O boot atual está utilizando o modo Legacy/BIOS, porém encontrei pelo menos "
@@ -38,45 +41,49 @@ msgid ""
 "\n"
 "Deseja prosseguir com com a instalação em modo Legacy/BIOS?"
 msgstr ""
+"目前的启动是使用传统/"
+"BIOS模式，然而我发现这台电脑上至少有一个EFI分区。为了成功安装，你可能需要改变BIOS中的设置，在EFI或UEFI模式下启动。\n"
+"\n"
+"你想继续进行遗留/BIOS安装吗？"
 
 msgid "Instalar o BigLinux"
-msgstr ""
+msgstr "安装BigLinux"
 
 msgid "PADRÃO"
-msgstr ""
+msgstr "标准型"
 
 msgid "DESEMPENHO"
-msgstr ""
+msgstr "性能"
 
 msgid "COMPATIBILIDADE"
-msgstr ""
+msgstr "适应性"
 
 msgid "Compacta os dados"
-msgstr ""
+msgstr "压缩数据"
 
 msgid "Pontos de restauração"
-msgstr ""
+msgstr "恢复点"
 
 msgid "Adia a gravação dos dados"
-msgstr ""
+msgstr "推迟数据记录"
 
 msgid "Funciona com tabelas de particionamento antigas"
-msgstr ""
+msgstr "可与旧的分区表一起使用"
 
 msgid "BTRFS com fsync"
-msgstr ""
+msgstr "带有fsync的BTRFS"
 
 msgid "BTRFS sem fsync"
-msgstr ""
+msgstr "没有fsync的BTRFS"
 
 msgid "SELECIONAR"
-msgstr ""
+msgstr "选择"
 
 msgid "Instalar no HD"
-msgstr ""
+msgstr "安装在HD上"
 
 msgid "O sistema está em modo"
-msgstr ""
+msgstr "该系统是在"
 
 msgid "e com o kernel"
-msgstr ""
+msgstr "并与内核"

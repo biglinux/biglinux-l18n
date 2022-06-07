@@ -20,73 +20,77 @@ msgstr ""
 msgid ""
 "Restaurar&nbsp;o&nbsp;programa&nbsp;como&nbsp;modo&nbsp;padrão&nbsp;ou&nbsp;distribuição&nbsp;BigLinux."
 ""
-msgstr ""
+msgstr "将程序恢复为标准模式或BigLinux分布。"
 
 msgid "Restaurar&nbsp;o&nbsp;programa&nbsp;como&nbsp;modo&nbsp;padrão."
-msgstr ""
+msgstr "将程序恢复为默认模式。"
 
 msgid ""
 "Músicas-(Clementine) clementine.sh Multimedia clementine.png clementine skel "
 "$COMMENT_skel"
 msgstr ""
+"Music-(Clementine) clementine.sh Multimedia clementine.png clementine skel "
+"$COMMENT_skel"
 
 msgid ""
 "Gravador-de-Tela-(vokoscreenNG) vokoscreen.sh Multimedia vokoscreen.png "
 "vokoscreenNG  $COMMENT_normal"
 msgstr ""
+"Screen Recorder-(vokoscreenNG) vokoscreen.sh 多媒体 vokoscreen.png vokoscreenNG "
+"$COMMENT_normal"
 
 msgid ""
 "Vídeos-(Smplayer) smplayer.sh Multimedia smplayer.png smplayer skel "
 "$COMMENT_skel"
-msgstr ""
+msgstr "视频-(Smplayer) smplayer.sh 多媒体smplayer.png smplayer skel $COMMENT_skel"
 
 msgid "Restaurar no modo padrão da distribuição"
-msgstr ""
+msgstr "恢复到默认的分发模式"
 
 msgid "Essa opção restaura o programa com o padrão do BigLinux."
-msgstr ""
+msgstr "该选项将程序恢复到BigLinux的默认状态。"
 
 msgid "Restaurar no modo padrão do programa"
-msgstr ""
+msgstr "在标准程序模式下恢复"
 
 msgid "Essa opção restaura o programa com o padrão do desenvolvedor."
-msgstr ""
+msgstr "该选项将程序恢复到开发者默认状态。"
 
 msgid "Restaurar as configurações do programa:"
-msgstr ""
+msgstr "恢复节目设置。"
 
 msgid "Principal"
-msgstr ""
+msgstr "主要内容"
 
 msgid "Internet"
-msgstr ""
+msgstr "互联网"
 
 msgid "Multimídia"
-msgstr ""
+msgstr "多媒体"
 
 msgid "Escritório"
-msgstr ""
+msgstr "办公室"
 
 msgid "Pesquisar Restaurar"
-msgstr ""
+msgstr "搜索恢复"
 
 msgid "Restaurar Configurações"
-msgstr ""
+msgstr "恢复设置"
 
 msgid ""
 "Atenção! O programa está aberto!\\nEle será fechado para que a restauração "
 "tenha efeito."
-msgstr ""
+msgstr "注意事项!该方案是开放的！它将被关闭以使修复生效。"
 
 msgid "As configurações foram restauradas com sucesso!"
-msgstr ""
+msgstr "设置已经成功恢复了!"
 
 msgid ""
 "Você tem certeza que deseja restaurar todas as configurações do KDE/"
 "Plasma?\\nIsso apagará todas as configurações definidas por $USER!"
-msgstr ""
+msgstr "你确定你要恢复所有的KDE/Plasma设置吗？（nIsIs）擦除所有由$USER设置的设置"
 
 msgid ""
 "As configurações foram restauradas com sucesso!\\nÉ necessário fazer logoff/"
 "login para concluir a restauração!"
-msgstr ""
+msgstr "设置已成功恢复！你必须注销/开启以完成恢复！\"。"

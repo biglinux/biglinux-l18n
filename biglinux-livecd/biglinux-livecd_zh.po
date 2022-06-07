@@ -18,31 +18,31 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit"
 
 msgid "Desempenho"
-msgstr ""
+msgstr "业绩"
 
 msgid "Tema"
-msgstr ""
+msgstr "主题"
 
 msgid ""
 "Renderizar o desktop via software<br><small>(Pode ser útil em máquina "
 "virtual)"
-msgstr ""
+msgstr "通过软件渲染桌面<br><small>(可以在虚拟机中发挥作用)"
 
 msgid ""
 "Utilizar GPU nos navegadores<br><small>(Desative no caso de distorção no "
 "vídeo)"
-msgstr ""
+msgstr "在浏览器中使用GPU<br><small>(在视频失真情况下禁用)"
 
 msgid "Escolha o desktop:"
-msgstr ""
+msgstr "选择你的桌面。"
 
 msgid "Escolha o modelo do teclado:"
-msgstr ""
+msgstr "选择你的键盘型号。"
 
 msgid "Escolha o tema dos aplicativos:"
-msgstr ""
+msgstr "选择应用程序的主题。"
 
 msgid ""
 "Utilizando renderização por software, a qualidade das transparências será "
 "reduzida."
-msgstr ""
+msgstr "使用软件渲染，透明胶片的质量将被降低。"

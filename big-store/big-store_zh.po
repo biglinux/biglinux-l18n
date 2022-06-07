@@ -18,54 +18,54 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit"
 
 msgid "A Big-Store já está em uso."
-msgstr ""
+msgstr "大卖场已经在使用。"
 
 msgid "Big-Store"
-msgstr ""
+msgstr "大卖场"
 
 msgid ""
 "Para os programas Snap aparecerem no menu do sistema finalize a sessão e "
 "faça login novamente."
-msgstr ""
+msgstr "为了使 \"快照 \"程序出现在系统菜单中，请退出并重新登录。"
 
 msgid "Configurações"
-msgstr ""
+msgstr "设置"
 
 msgid "Suporte a Flatpak ativo."
-msgstr ""
+msgstr "积极支持Flatpak。"
 
 msgid "Suporte a Flatpak NÃO está ativo."
-msgstr ""
+msgstr "Flatpak支持不活跃。"
 
 msgid "Suporte a Snap ativo."
-msgstr ""
+msgstr "积极支持Snap。"
 
 msgid "Suporte a Snap NÃO está ativo."
-msgstr ""
+msgstr "Snap支持并不活跃。"
 
 msgid "Executar"
-msgstr ""
+msgstr "运转"
 
 msgid "Atualizar cache dos repositórios nativos."
-msgstr ""
+msgstr "更新本地存储库的缓存。"
 
 msgid "Procurar o servidor de repositórios nativos mais rápido no momento."
-msgstr ""
+msgstr "搜索目前最快的本地资源库服务器。"
 
 msgid "Utilize as opções a seguir com cautela:"
-msgstr ""
+msgstr "谨慎使用以下选项。"
 
 msgid ""
 "Atualizar as chaves dos repositórios BigLinux, Manjaro e Archlinux. Lembre "
 "que se você ativou repositórios complementares será necessário adicionar as "
 "chaves desses repositórios novamente."
-msgstr ""
+msgstr "更新BigLinux、Manjaro和Archlinux存储库的密钥。记住，如果你已经激活了补充库，将需要再次添加这些库的密钥。"
 
 msgid ""
 "Forçar atualizações, utilize essa opção se não estiver conseguindo atualizar "
 "o sistema, porém, na atualização forçada alguns programas podem ser "
 "removidos."
-msgstr ""
+msgstr "强制更新，如果你无法更新系统，就使用这个选项，然而，在强制更新中，一些程序可能被删除。"
 
 msgid ""
 "\n"
@@ -74,6 +74,11 @@ msgid ""
 "portanto é a melhor opção quando o programa que você<br>\n"
 "deseja está disponível em mais de um tipo de instalação.<br>"
 msgstr ""
+"\n"
+"本土方案更好地融入系统<br>\n"
+"并在发布前经过更多测试。<br>\n"
+"因此，当你的程序出现问题时，它是最好的选择。<br>\n"
+"是可以用一种以上的安装方式。<br>"
 
 msgid ""
 "\n"
@@ -84,6 +89,13 @@ msgid ""
 "bem, mas não passam pelos mesmos testes feitos<br>\n"
 "com os programas nativos."
 msgstr ""
+"\n"
+"AUR程序是由用户创建的脚本<br>\n"
+"来安装没有的程序<br>\n"
+"直接在系统的本地存储库中。<br>\n"
+"通过这种方法安装的程序可以<br>\n"
+"好，但他们没有经过与《圣经》一样的测试。<br>\n"
+"本地程序。"
 
 msgid ""
 "\n"
@@ -95,6 +107,14 @@ msgid ""
 "para quem tem computadores que possuem boa capacidade<br>\n"
 "de processamento e armazenamento."
 msgstr ""
+"\n"
+"Flatpak程序可用于所有Linux发行版。<br>\n"
+"Linux发行版，通常由程序维护。<br>\n"
+"节目的创作者，但不具备一些<br>\n"
+"优化和与系统的整合，如发生在<br>\n"
+"在本地程序中，这可能是一个很好的选择<br>\n"
+"对于那些拥有良好容量的计算机的人来说<br>\n"
+"处理和存储能力。"
 
 msgid ""
 "Programas Snap, assim como o Flatpak<br>\n"
@@ -103,278 +123,283 @@ msgid ""
 "se o programa que você procura está disponível apenas neste<br>\n"
 "formato, utilize-o."
 msgstr ""
+"Snap程序，如Flatpak<br>\n"
+"为所有Linux发行版提供软件。<br>\n"
+"它往往更重，而且与系统的整合度更低，但<br>\n"
+"如果你要找的程序只在这个地方有<br>\n"
+"格式，使用它。"
 
 msgid "Aplicando - Aguarde"
-msgstr ""
+msgstr "申请 - 请等待"
 
 msgid "Procurar programa"
-msgstr ""
+msgstr "搜索程序"
 
 msgid "Programas Nativos"
-msgstr ""
+msgstr "本地方案"
 
 msgid "Programas AUR"
-msgstr ""
+msgstr "AUR方案"
 
 msgid "Programas Flatpak"
-msgstr ""
+msgstr "Flatpak程序"
 
 msgid "Programas Snap"
-msgstr ""
+msgstr "捕捉方案"
 
 msgid "Navegadores"
-msgstr ""
+msgstr "浏览器"
 
 msgid "E-mail"
-msgstr ""
+msgstr "电子邮件"
 
 msgid "Armazenamento nas nuvens"
-msgstr ""
+msgstr "云存储"
 
 msgid "Download"
-msgstr ""
+msgstr "下载"
 
 msgid "Compartilhadores e Torrent"
-msgstr ""
+msgstr "分享者和Torrent"
 
 msgid "Mensageiros e Conferências"
-msgstr ""
+msgstr "信息员和会议"
 
 msgid "Acesso Remoto, FTP, SSH, VNC, RDP..."
-msgstr ""
+msgstr "远程访问，FTP，SSH，VNC，RDP..."
 
 msgid "Ferramentas de rede"
-msgstr ""
+msgstr "网络工具"
 
 msgid "Suíte Office"
-msgstr ""
+msgstr "办公套件"
 
 msgid "Visualizadores de PDF, Epub, e-books e mais"
-msgstr ""
+msgstr "PDF、Epub、电子书阅读器等"
 
 msgid "Editores de PDF"
-msgstr ""
+msgstr "PDF编辑"
 
 msgid "Agenda de tarefas e contatos"
-msgstr ""
+msgstr "任务和联系人的日历"
 
 msgid "Visualizadores de imagem"
-msgstr ""
+msgstr "图片浏览者"
 
 msgid "Editores de imagem e ferramentas de desenho"
-msgstr ""
+msgstr "图像编辑器和绘图工具"
 
 msgid "Captura de tela (Screenshot)"
-msgstr ""
+msgstr "屏幕截图"
 
 msgid "Converter, redimensionar ou compactar imagens"
-msgstr ""
+msgstr "转换、调整大小或压缩图像"
 
 msgid "Edição 3D e CAD"
-msgstr ""
+msgstr "3D和CAD编辑"
 
 msgid "Reprodutores de áudio"
-msgstr ""
+msgstr "音频播放器"
 
 msgid "Rádio online"
-msgstr ""
+msgstr "在线广播"
 
 msgid "Gravadores e conversores de áudio"
-msgstr ""
+msgstr "音频录音机和转换器"
 
 msgid "Editores de áudio"
-msgstr ""
+msgstr "音频编辑"
 
 msgid "Reprodutores de vídeo"
-msgstr ""
+msgstr "视频播放器"
 
 msgid "Vídeo online, IPTV, Youtube..."
-msgstr ""
+msgstr "在线视频、IPTV、Youtube..."
 
 msgid "Editores e compactadores de vídeo"
-msgstr ""
+msgstr "视频编辑和压缩器"
 
 msgid "Gravadores e copiadores de CD e DVD"
-msgstr ""
+msgstr "CD和DVD刻录机和复印机"
 
 msgid "Webcam, gravação de tela e transmissão de vídeo"
-msgstr ""
+msgstr "网络摄像头、屏幕录制和视频流"
 
 msgid "Jogos"
-msgstr ""
+msgstr "游戏"
 
 msgid "Gerenciadores de jogos"
-msgstr ""
+msgstr "游戏经理"
 
 msgid "Utilitários para jogos"
-msgstr ""
+msgstr "游戏实用工具"
 
 msgid "Emulador Retroarch"
-msgstr ""
+msgstr "Retroarch仿真器"
 
 msgid "Emuladores"
-msgstr ""
+msgstr "仿真器"
 
 msgid "Criadores de jogos"
-msgstr ""
+msgstr "游戏开发者"
 
 msgid "Ação/Arcade"
-msgstr ""
+msgstr "动作/街机"
 
 msgid "Cartas"
-msgstr ""
+msgstr "信件"
 
 msgid "Educacional"
-msgstr ""
+msgstr "教育性"
 
 msgid "Estratégia"
-msgstr ""
+msgstr "战略"
 
 msgid "Puzzles"
-msgstr ""
+msgstr "拼图"
 
 msgid "Tabuleiro"
-msgstr ""
+msgstr "董事会"
 
 msgid "RPG"
-msgstr ""
+msgstr "角色扮演"
 
 msgid "Armazenamento e partições"
-msgstr ""
+msgstr "储存和隔断"
 
 msgid "Fontes (Tipografia)"
-msgstr ""
+msgstr "字体(排版)"
 
 msgid "Java JRE"
-msgstr ""
+msgstr "Java JRE"
 
 msgid "Virtualização"
-msgstr ""
+msgstr "虚拟化"
 
 msgid "Editores de código e IDE"
-msgstr ""
+msgstr "代码编辑器和IDE"
 
 msgid "Banco de dados"
-msgstr ""
+msgstr "数据库"
 
 msgid "Servidores WEB"
-msgstr ""
+msgstr "网络服务器"
 
 msgid "Instalado na partição:"
-msgstr ""
+msgstr "安装在分区上。"
 
 msgid "Tamanho da partição:"
-msgstr ""
+msgstr "分区大小。"
 
 msgid "Espaço utilizado:"
-msgstr ""
+msgstr "使用的空间。"
 
 msgid "Espaço livre:"
-msgstr ""
+msgstr "清理空间。"
 
 msgid "Data que o sistema foi instalado:"
-msgstr ""
+msgstr "系统安装的日期。"
 
 msgid "Pacotes nativos e AUR"
-msgstr ""
+msgstr "原生包和AUR"
 
 msgid "Instalados:"
-msgstr ""
+msgstr "已安装。"
 
 msgid "Disponíveis:"
-msgstr ""
+msgstr "可用。"
 
 msgid "Pacotes Flatpak"
-msgstr ""
+msgstr "Flatpak软件包"
 
 msgid "Repositórios configurados:"
-msgstr ""
+msgstr "配置的存储库。"
 
 msgid "Pacotes Snap"
-msgstr ""
+msgstr "啪啪啪套餐"
 
 msgid "Pacotes Snap Instalados clique no pacote para remover"
-msgstr ""
+msgstr "已安装的Snap软件包，点击要删除的软件包"
 
 msgid "Versão: "
-msgstr ""
+msgstr "版本。 "
 
 msgid "Pacote: "
-msgstr ""
+msgstr "包装。 "
 
 msgid "Não informada"
-msgstr ""
+msgstr "未被告知"
 
 msgid "Atualizar"
-msgstr ""
+msgstr "更新"
 
 msgid "Versão instalada"
-msgstr ""
+msgstr "安装的版本"
 
 msgid "Versão disponível"
-msgstr ""
+msgstr "现有版本"
 
 msgid "Versão"
-msgstr ""
+msgstr "版本"
 
 msgid "Pacote .deb"
-msgstr ""
+msgstr ".deb包"
 
 msgid ""
 "Esse programa está em formato .deb, que possui a melhor integração com o "
 "sistema."
-msgstr ""
+msgstr "这个程序是.deb格式，与系统有最好的整合。"
 
 msgid "Dependências a instalar"
-msgstr ""
+msgstr "需要安装的依赖性"
 
 msgid "Ver mais"
-msgstr ""
+msgstr "查看更多"
 
 msgid "Pacotes com dependências não atendidas: "
-msgstr ""
+msgstr "具有未满足的依赖性的软件包。 "
 
 msgid "Depende de "
-msgstr ""
+msgstr "这取决于 "
 
 msgid "mas não vai ser instalado."
-msgstr ""
+msgstr "但它将不会被安装。"
 
 msgid "mas não está disponível"
-msgstr ""
+msgstr "但它是不存在的"
 
 msgid "Informações sobre programas nativos"
-msgstr ""
+msgstr "关于本地方案的信息"
 
 msgid "Pacote:"
-msgstr ""
+msgstr "包装。"
 
 msgid "Versão disponível:"
-msgstr ""
+msgstr "可用的版本。"
 
 msgid "Repositório:"
-msgstr ""
+msgstr "存储库。"
 
 msgid "Instalando"
-msgstr ""
+msgstr "安装"
 
 msgid "Removendo"
-msgstr ""
+msgstr "移除"
 
 msgid "Informações sobre programas SNAP"
-msgstr ""
+msgstr "关于SNAP方案的信息"
 
 msgid "Programas SNAP"
-msgstr ""
+msgstr "SNAP方案"
 
 msgid "Versão disponivel:"
-msgstr ""
+msgstr "可用的版本。"
 
 msgid "Licença:"
-msgstr ""
+msgstr "许可证。"
 
 msgid "AUR"
-msgstr ""
+msgstr "AUR"
 
 msgid "Empacotador:"
-msgstr ""
+msgstr "包装工。"

@@ -18,243 +18,243 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit"
 
 msgid "O Big-Hardware-Relatory já está em uso."
-msgstr ""
+msgstr "Big-Hardware-Relatory已经在使用。"
 
 msgid "Informações sobre o Hardware"
-msgstr ""
+msgstr "硬件信息"
 
 msgid "Este driver é software livre."
-msgstr ""
+msgstr "这个驱动程序是免费软件。"
 
 msgid "Este driver é proprietário."
-msgstr ""
+msgstr "这个驱动程序是专有的。"
 
 msgid "Este driver parece compatível com este computador."
-msgstr ""
+msgstr "这个驱动程序似乎与这台计算机兼容。"
 
 msgid "Remover"
-msgstr ""
+msgstr "移除"
 
 msgid "Instalar"
-msgstr ""
+msgstr "安装"
 
 msgid ""
 "Já existe outro driver nVidia instalado, para instalar este driver, remova "
 "primeiro o driver instalado."
-msgstr ""
+msgstr "已经安装了另一个nVidia驱动，要安装这个驱动，请先删除已安装的驱动。"
 
 msgid "Desativado"
-msgstr ""
+msgstr "失能"
 
 msgid "Categorias"
-msgstr ""
+msgstr "类别"
 
 msgid "Principais"
-msgstr ""
+msgstr "主要内容"
 
 msgid "Resumo"
-msgstr ""
+msgstr "摘要"
 
 msgid "Processador"
-msgstr ""
+msgstr "处理器"
 
 msgid "Placa de vídeo"
-msgstr ""
+msgstr "视频卡"
 
 msgid "Placa mãe"
-msgstr ""
+msgstr "母板"
 
 msgid "Memória"
-msgstr ""
+msgstr "记忆"
 
 msgid "Rede"
-msgstr ""
+msgstr "网络"
 
 msgid "Usb"
-msgstr ""
+msgstr "笔记本电脑"
 
 msgid "Pci"
-msgstr ""
+msgstr "芯片"
 
 msgid "Bateria"
-msgstr ""
+msgstr "电池"
 
 msgid "Armazenamento"
-msgstr ""
+msgstr "储存"
 
 msgid "Sistema"
-msgstr ""
+msgstr "系统"
 
 msgid "Bluetooth"
-msgstr ""
+msgstr "蓝牙"
 
 msgid "Temperatura"
-msgstr ""
+msgstr "温度"
 
 msgid "Impressora"
-msgstr ""
+msgstr "打印机"
 
 msgid "Áudio"
-msgstr ""
+msgstr "音频"
 
 msgid "Mais informações"
-msgstr ""
+msgstr "更多信息"
 
 msgid "Pesquisar"
-msgstr ""
+msgstr "搜索"
 
 msgid "Resultado da pesquisa"
-msgstr ""
+msgstr "搜索结果"
 
 msgid "Informações de Hardware"
-msgstr ""
+msgstr "硬件信息"
 
 msgid "Informações Sobre o Sistema e o Hardware"
-msgstr ""
+msgstr "系统和硬件信息"
 
 msgid "Instalar ou Remover Drivers"
-msgstr ""
+msgstr "安装或删除驱动程序"
 
 msgid ""
 "O BigLinux inclui milhares de drivers e firmwares por padrão, porém ainda "
 "pode ser necessário instalar mais alguns."
-msgstr ""
+msgstr "BigLinux默认包括数千个驱动程序和固件，但你可能仍然需要再安装一些。"
 
 msgid "Gerar Relatório"
-msgstr ""
+msgstr "生成报告"
 
 msgid "Ver informações do dispositivo no Linux Hardware"
-msgstr ""
+msgstr "查看Linux硬件上的设备信息"
 
 msgid "Categoria"
-msgstr ""
+msgstr "类别"
 
 msgid "ID"
-msgstr ""
+msgstr "身份证"
 
 msgid "Info"
-msgstr ""
+msgstr "信息"
 
 msgid "Enviar para transfer.sh"
-msgstr ""
+msgstr "发送到transfer.sh"
 
 msgid "Visualizar"
-msgstr ""
+msgstr "查看"
 
 msgid "O relatório foi salvo no arquivo:"
-msgstr ""
+msgstr "该报告已被保存到档案馆。"
 
 msgid ""
 "Deseja visualizar o arquivo ou envia-lo ao site transfer.sh, para ter uma "
 "URL com os dados do seu computador de forma fácil de compartilhar?"
-msgstr ""
+msgstr "你想查看文件或将其发送到transfer.sh，以一种简单的方式分享来自你电脑的数据的URL吗？"
 
 msgid "Driver detectado:"
-msgstr ""
+msgstr "检测到的驱动程序。"
 
 msgid "<small>* A detecção não inclui impressoras e scanners</small>"
-msgstr ""
+msgstr "<small>* 检测不包括打印机和扫描仪</small>"
 
 msgid "Wifi"
-msgstr ""
+msgstr "无线网络"
 
 msgid "Rede Cabeada"
-msgstr ""
+msgstr "有线网络"
 
 msgid "Impressora 3D"
-msgstr ""
+msgstr "3D打印机"
 
 msgid "Scanner"
-msgstr ""
+msgstr "扫描器"
 
 msgid "TV Digital"
-msgstr ""
+msgstr "数字电视"
 
 msgid "Webcam"
-msgstr ""
+msgstr "网络摄像头"
 
 msgid "Touchscreen"
-msgstr ""
+msgstr "触摸屏"
 
 msgid "Som"
-msgstr ""
+msgstr "声音"
 
 msgid "Outros"
-msgstr ""
+msgstr "其他"
 
 msgid "Pesquisar Driver ou Firmware"
-msgstr ""
+msgstr "搜索驱动程序或固件"
 
 msgid "Big-Driver-Manager"
-msgstr ""
+msgstr "大司机-经理人"
 
 msgid "Instalar ou Remover Drivers e Firmwares"
-msgstr ""
+msgstr "安装或删除驱动程序和固件"
 
 msgid ""
 "Geralmente é preciso reiniciar o computador para o driver ou firmware ser "
 "aplicado."
-msgstr ""
+msgstr "通常有必要重新启动计算机以应用驱动程序或固件。"
 
 msgid "Driver ou firmware"
-msgstr ""
+msgstr "驱动程序或固件"
 
 msgid "Este pacote fornece arquivos compatíveis com este computador."
-msgstr ""
+msgstr "该软件包提供与该计算机兼容的文件。"
 
 msgid "Concluído, reinicie o computador para ativar a configuração do driver."
-msgstr ""
+msgstr "完成后，重新启动计算机以激活驱动配置。"
 
 msgid "Driver"
-msgstr ""
+msgstr "驱动程序"
 
 msgid "Ocorreu um erro e o driver não pode ser aplicado."
-msgstr ""
+msgstr "发生了一个错误，无法应用该驱动程序。"
 
 msgid "Swap (Memória Virtual)"
-msgstr ""
+msgstr "交换（虚拟内存）"
 
 msgid "Gráficos"
-msgstr ""
+msgstr "图形"
 
 msgid "Conexões de Internet"
-msgstr ""
+msgstr "互联网连接"
 
 msgid "Dispositivos e conexões USB"
-msgstr ""
+msgstr "USB设备和连接"
 
 msgid "Portas PCI"
-msgstr ""
+msgstr "PCI端口"
 
 msgid "Dispositivos de armazenamento"
-msgstr ""
+msgstr "存储设备"
 
 msgid "Partições montadas"
-msgstr ""
+msgstr "安装的隔断"
 
 msgid "Partições desmontadas"
-msgstr ""
+msgstr "拆除的隔断"
 
 msgid "Dispositivos lógicos"
-msgstr ""
+msgstr "逻辑装置"
 
 msgid "Raid"
-msgstr ""
+msgstr "袭击"
 
 msgid "Informações"
-msgstr ""
+msgstr "信息"
 
 msgid "Repositórios"
-msgstr ""
+msgstr "储存库"
 
 msgid ""
 "Digite sua senha para gerar um relatório removendo dados sensíveis, por "
 "exemplo, endereço de IP, ou cancele para utilizar as informações da tela "
 "anterior."
-msgstr ""
+msgstr "输入你的密码，生成一份删除敏感数据（如IP地址）的报告，或者取消，使用前一屏幕的信息。"
 
 msgid "Digite sua senha para gerar um relatório mais completo."
-msgstr ""
+msgstr "输入你的密码，以生成更完整的报告。"
 
 msgid "Enviando, aguarde..."
-msgstr ""
+msgstr "正在发送，请等待..."

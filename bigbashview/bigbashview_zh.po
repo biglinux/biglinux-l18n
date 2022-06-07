@@ -18,19 +18,19 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit"
 
 msgid "Information"
-msgstr ""
+msgstr "信息"
 
 msgid "License: "
-msgstr ""
+msgstr "许可证。 "
 
 msgid "Created by:"
-msgstr ""
+msgstr "创作人"
 
 msgid "Date:"
-msgstr ""
+msgstr "日期。"
 
 msgid "Code URL:"
-msgstr ""
+msgstr "代码URL。"
 
 msgid "Project URL:"
-msgstr ""
+msgstr "项目网址。"

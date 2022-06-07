@@ -24,56 +24,59 @@ msgid ""
 "Você também pode utilizar o gerenciador de arquivos, clicar com o botão "
 "direito no arquivo PDF, 'Abrir com' e selecionar a opção de OCR."
 msgstr ""
+"选择要应用OCR的PDF文件，所以你可以搜索或复制文本。\n"
+"\n"
+"你也可以使用文件管理器，在PDF文件上点击右键，'用'打开，并选择OCR选项。"
 
 msgid "NORMAL"
-msgstr ""
+msgstr "正常"
 
 msgid "ECONOMIC"
-msgstr ""
+msgstr "经济"
 
 msgid "ECONOMIC PLUS"
-msgstr ""
+msgstr "经济实惠"
 
 msgid "ALIGN"
-msgstr ""
+msgstr "统一"
 
 msgid "AUTO ROTATE"
-msgstr ""
+msgstr "自动旋转"
 
 msgid "ALIGN AND AUTO ROTATE"
-msgstr ""
+msgstr "对齐和自动旋转"
 
 msgid "DON'T CHANGE"
-msgstr ""
+msgstr "不要改变"
 
 msgid "SPANISH"
-msgstr ""
+msgstr "西班牙文"
 
 msgid "ENGLISH"
-msgstr ""
+msgstr "英文"
 
 msgid "PORTUGUESE"
-msgstr ""
+msgstr "葡萄牙语"
 
 msgid ""
 "You can choose to reduce the image quality.<br>This way you will have "
 "smaller files, making it easier,<br>for example, to send them by e-mail."
-msgstr ""
+msgstr "你可以选择降低图像质量。<br>这样，你就会有更小的文件，使之更容易，<br>例如，通过电子邮件发送。"
 
 msgid ""
 "To add new languages, install the tesseract add-ons in the system's package "
 "manager."
-msgstr ""
+msgstr "要添加新的语言，请在系统的软件包管理器中安装魔方的附加组件。"
 
 msgid "Make your PDF searchable"
-msgstr ""
+msgstr "使你的PDF可以搜索"
 
 msgid ""
 "Adicionar OCR no PDF digitalizado permitindo seleção de textos e busca:"
-msgstr ""
+msgstr "在扫描的PDF中添加OCR，允许文本选择和搜索。"
 
 msgid "Completed!"
-msgstr ""
+msgstr "完成了!"
 
 msgid "Arquivo salvo: "
-msgstr ""
+msgstr "文件保存。 "

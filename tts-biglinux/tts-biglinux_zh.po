@@ -18,51 +18,51 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit"
 
 msgid "Configurações de texto para voz"
-msgstr ""
+msgstr "文字转语音设置"
 
 msgid "Vozes - Abrir BigStore"
-msgstr ""
+msgstr "声音--开放的BigStore"
 
 msgid "Voice Configuration"
-msgstr ""
+msgstr "语音配置"
 
 msgid "Configurar voz"
-msgstr ""
+msgstr "配置语音"
 
 msgid "Para falar um texto selecionado use o atalho "
-msgstr ""
+msgstr "要说出一个选定的文本，请使用快捷键 "
 
 msgid "[Alt] + [V]"
-msgstr ""
+msgstr "[Alt]+[V]"
 
 msgid ""
 "ou o ícone na sessão Utilitários no menu do sistema. Para interromper a "
 "leitura use novamene o atalho ou ícone."
-msgstr ""
+msgstr "或系统菜单中的公用事业部分的图标。要停止阅读，请再次使用该快捷方式或图标。"
 
 msgid "Selecione as configurações de sua preferência"
-msgstr ""
+msgstr "选择你喜欢的设置"
 
 msgid "Números maiores deixam a voz mais rápida, o padrão é: -25"
-msgstr ""
+msgstr "较大的数字使语音更快，默认为：-25"
 
 msgid "Velocidade"
-msgstr ""
+msgstr "速度"
 
 msgid "Números maiores deixam a voz mais aguda, o padrão é: -25"
-msgstr ""
+msgstr "数字越大，声音越高，标准是：-25"
 
 msgid "Tom"
-msgstr ""
+msgstr "汤姆"
 
 msgid "O padrão é: 0."
-msgstr ""
+msgstr "默认为：0。"
 
 msgid "Volume"
-msgstr ""
+msgstr "卷宗"
 
 msgid "As vozes são otimizadas para idiomas expecíficos."
-msgstr ""
+msgstr "语音是为特定语言而优化的。"
 
 msgid "Voz"
-msgstr ""
+msgstr "语音"
