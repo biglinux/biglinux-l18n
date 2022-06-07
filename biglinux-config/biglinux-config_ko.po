@@ -55,28 +55,19 @@ msgstr "이 옵션은 프로그램을 개발자 기본값으로 복원합니다.
 msgid "Restaurar as configurações do programa:"
 msgstr "프로그램 설정 복원:"
 
-msgid "Principal"
-msgstr "메인"
-
-msgid "Internet"
-msgstr "인터넷"
+msgid "Restaurar Configurações"
+msgstr "복원 설정"
 
 msgid "Multimídia"
 msgstr "멀티미디어"
-
-msgid "Escritório"
-msgstr "사무실"
-
-msgid "Pesquisar Restaurar"
-msgstr "검색 복원"
-
-msgid "Restaurar Configurações"
-msgstr "복원 설정"
 
 msgid ""
 "Atenção! O programa está aberto!\\nEle será fechado para que a restauração "
 "tenha efeito."
 msgstr "주의!프로그램이 열려 있습니다!\\ n복원을 적용하려면 닫힙니다."
+
+msgid "Escritório"
+msgstr "사무실"
 
 msgid "As configurações foram restauradas com sucesso!"
 msgstr "설정이 성공적으로 복원되었습니다!"
@@ -90,3 +81,12 @@ msgid ""
 "As configurações foram restauradas com sucesso!\\nÉ necessário fazer logoff/"
 "login para concluir a restauração!"
 msgstr "설정이 성공적으로 복원되었습니다!\\ n복원을 완료하려면 로그오프하거나 로그인해야 합니다!"
+
+msgid "Principal"
+msgstr "메인"
+
+msgid "Internet"
+msgstr "인터넷"
+
+msgid "Pesquisar Restaurar"
+msgstr "검색 복원"

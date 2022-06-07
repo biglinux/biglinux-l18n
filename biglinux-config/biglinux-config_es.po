@@ -65,23 +65,11 @@ msgstr ""
 msgid "Restaurar as configurações do programa:"
 msgstr "Restablecer los ajustes del programa:"
 
-msgid "Principal"
-msgstr "Principal"
-
-msgid "Internet"
-msgstr "Internet"
+msgid "Restaurar Configurações"
+msgstr "Restaurar la configuración"
 
 msgid "Multimídia"
 msgstr "Multimedia"
-
-msgid "Escritório"
-msgstr "Oficina"
-
-msgid "Pesquisar Restaurar"
-msgstr "Búsqueda de restauración"
-
-msgid "Restaurar Configurações"
-msgstr "Restaurar la configuración"
 
 msgid ""
 "Atenção! O programa está aberto!\\nEle será fechado para que a restauração "
@@ -89,6 +77,9 @@ msgid ""
 msgstr ""
 "Precaución El programa está abierto. Se cerrará para que la restauración "
 "surta efecto."
+
+msgid "Escritório"
+msgstr "Oficina"
 
 msgid "As configurações foram restauradas com sucesso!"
 msgstr "La configuración se ha restaurado con éxito"
@@ -105,3 +96,12 @@ msgid ""
 msgstr ""
 "¡La configuración se ha restaurado con éxito! ¡Debe desconectarse/conectarse "
 "para completar la restauración!"
+
+msgid "Principal"
+msgstr "Principal"
+
+msgid "Internet"
+msgstr "Internet"
+
+msgid "Pesquisar Restaurar"
+msgstr "Búsqueda de restauración"

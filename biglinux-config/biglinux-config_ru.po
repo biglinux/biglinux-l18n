@@ -61,29 +61,20 @@ msgstr "Эта опция восстанавливает программу по
 msgid "Restaurar as configurações do programa:"
 msgstr "Восстановите настройки программы:"
 
-msgid "Principal"
-msgstr "Главная"
-
-msgid "Internet"
-msgstr "Интернет"
+msgid "Restaurar Configurações"
+msgstr "Восстановление настроек"
 
 msgid "Multimídia"
 msgstr "Мультимедиа"
-
-msgid "Escritório"
-msgstr "Офис"
-
-msgid "Pesquisar Restaurar"
-msgstr "Восстановление поиска"
-
-msgid "Restaurar Configurações"
-msgstr "Восстановление настроек"
 
 msgid ""
 "Atenção! O programa está aberto!\\nEle será fechado para que a restauração "
 "tenha efeito."
 msgstr ""
 "Внимание! Программа открыта! Она будет закрыта для проведения реставрации."
+
+msgid "Escritório"
+msgstr "Офис"
 
 msgid "As configurações foram restauradas com sucesso!"
 msgstr "Настройки были успешно восстановлены!"
@@ -101,3 +92,12 @@ msgid ""
 msgstr ""
 "Настройки были успешно восстановлены! Для завершения восстановления "
 "необходимо выйти/включиться!"
+
+msgid "Principal"
+msgstr "Главная"
+
+msgid "Internet"
+msgstr "Интернет"
+
+msgid "Pesquisar Restaurar"
+msgstr "Восстановление поиска"

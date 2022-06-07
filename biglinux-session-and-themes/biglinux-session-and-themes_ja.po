@@ -67,9 +67,6 @@ msgstr "テーマ、デスクトップ、設定"
 msgid "Desempenho do desktop"
 msgstr "デスクトップパフォーマンス"
 
-msgid "Aceleração do navegador"
-msgstr "ブラウザーアクセラレーション"
-
 msgid "Usabilidade"
 msgstr "ユーザビリティ"
 
@@ -78,11 +75,6 @@ msgstr "アプリケーションテーマ"
 
 msgid "Bordas arredondadas."
 msgstr "エッジを丸くした。"
-
-msgid ""
-"Esse tema possui transparências com efeitos que<br>podem tornar o sistema "
-"lento em computadores<br>antigos ou ambientes virtualizados."
-msgstr "このテーマには、<br>古い<br>コンピューターや仮想環境ではシステムの速度を低下させる効果のある透過性があります。"
 
 msgid "<b>Classic</b> e <b>New</b> têm melhor desempenho."
 msgstr "<b>Classicと</b> <b>Newは</b>性能が向上しています。"

@@ -17,11 +17,36 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit"
 
+msgid "Escolha o tema dos aplicativos:"
+msgstr "Choose the theme for the applications:"
+
+msgid ""
+"Utilizando renderização por software, a qualidade das transparências será "
+"reduzida."
+msgstr ""
+"Using software rendering, the quality of transparencies will be reduced."
+
+msgid "Escolha o modelo do teclado:"
+msgstr "Choose your keyboard model:"
+
 msgid "Desempenho"
 msgstr "Performance"
 
+msgid "Aceleração do navegador"
+msgstr "Browser acceleration"
+
 msgid "Tema"
 msgstr "Topic"
+
+msgid "Fechar"
+msgstr "Close"
+
+msgid ""
+"Esse tema possui transparências com efeitos que<br>podem tornar o sistema "
+"lento em computadores<br>antigos ou ambientes virtualizados."
+msgstr ""
+"This theme has transparencies with effects that can<br>slow down the system "
+"on old computers<br>or virtualized environments."
 
 msgid ""
 "Renderizar o desktop via software<br><small>(Pode ser útil em máquina "
@@ -37,14 +62,8 @@ msgstr "Use GPU in browsers<br><small>(Disable in case of video distortion)"
 msgid "Escolha o desktop:"
 msgstr "Choose the desktop:"
 
-msgid "Escolha o modelo do teclado:"
-msgstr "Choose your keyboard model:"
-
-msgid "Escolha o tema dos aplicativos:"
-msgstr "Choose the theme for the applications:"
-
-msgid ""
-"Utilizando renderização por software, a qualidade das transparências será "
-"reduzida."
+msgid "têm melhor desempenho."
 msgstr ""
-"Using software rendering, the quality of transparencies will be reduced."
+
+msgid "e"
+msgstr ""

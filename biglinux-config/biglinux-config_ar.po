@@ -61,29 +61,20 @@ msgstr "يعيد هذا الخيار البرنامج إلى الإعداد ال
 msgid "Restaurar as configurações do programa:"
 msgstr "استعادة إعدادات البرنامج:"
 
-msgid "Principal"
-msgstr "ماين"
-
-msgid "Internet"
-msgstr "الإنترنت"
+msgid "Restaurar Configurações"
+msgstr "إعدادات الاستعادة"
 
 msgid "Multimídia"
 msgstr "الوسائط المتعددة"
-
-msgid "Escritório"
-msgstr "منصب"
-
-msgid "Pesquisar Restaurar"
-msgstr "استعادة البحث"
-
-msgid "Restaurar Configurações"
-msgstr "إعدادات الاستعادة"
 
 msgid ""
 "Atenção! O programa está aberto!\\nEle será fechado para que a restauração "
 "tenha efeito."
 msgstr ""
 "الاهتمام! البرنامج مفتوح! \\ nسيتم إغلاقها حتى تصبح الاستعادة نافذة المفعول."
+
+msgid "Escritório"
+msgstr "منصب"
 
 msgid "As configurações foram restauradas com sucesso!"
 msgstr "تمت استعادة الإعدادات بنجاح!"
@@ -101,3 +92,12 @@ msgid ""
 msgstr ""
 "تمت استعادة الإعدادات بنجاح! \\ nيجب تسجيل الخروج/تسجيل الدخول لإكمال "
 "الاستعادة!"
+
+msgid "Principal"
+msgstr "ماين"
+
+msgid "Internet"
+msgstr "الإنترنت"
+
+msgid "Pesquisar Restaurar"
+msgstr "استعادة البحث"

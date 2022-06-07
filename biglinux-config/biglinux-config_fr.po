@@ -62,23 +62,11 @@ msgstr ""
 msgid "Restaurar as configurações do programa:"
 msgstr "Rétablir les paramètres du programme :"
 
-msgid "Principal"
-msgstr "Principal"
-
-msgid "Internet"
-msgstr "Internet"
+msgid "Restaurar Configurações"
+msgstr "Restaurer les paramètres"
 
 msgid "Multimídia"
 msgstr "Multimédia"
-
-msgid "Escritório"
-msgstr "Bureau"
-
-msgid "Pesquisar Restaurar"
-msgstr "Recherche de restauration"
-
-msgid "Restaurar Configurações"
-msgstr "Restaurer les paramètres"
 
 msgid ""
 "Atenção! O programa está aberto!\\nEle será fechado para que a restauração "
@@ -86,6 +74,9 @@ msgid ""
 msgstr ""
 "Attention ! Le programme est ouvert ! Il sera fermé le temps que la "
 "restauration prenne effet."
+
+msgid "Escritório"
+msgstr "Bureau"
 
 msgid "As configurações foram restauradas com sucesso!"
 msgstr "Les paramètres ont été restaurés avec succès !"
@@ -103,3 +94,12 @@ msgid ""
 msgstr ""
 "Les paramètres ont été restaurés avec succès ! Vous devez vous déconnecter/"
 "se connecter pour terminer la restauration !"
+
+msgid "Principal"
+msgstr "Principal"
+
+msgid "Internet"
+msgstr "Internet"
+
+msgid "Pesquisar Restaurar"
+msgstr "Recherche de restauration"

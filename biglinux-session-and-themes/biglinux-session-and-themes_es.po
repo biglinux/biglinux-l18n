@@ -69,9 +69,6 @@ msgstr "Temas, escritorio y configuración"
 msgid "Desempenho do desktop"
 msgstr "Rendimiento del escritorio"
 
-msgid "Aceleração do navegador"
-msgstr "Aceleración del navegador"
-
 msgid "Usabilidade"
 msgstr "Usabilidad"
 
@@ -80,13 +77,6 @@ msgstr "Tema de aplicación"
 
 msgid "Bordas arredondadas."
 msgstr "Bordes redondeados."
-
-msgid ""
-"Esse tema possui transparências com efeitos que<br>podem tornar o sistema "
-"lento em computadores<br>antigos ou ambientes virtualizados."
-msgstr ""
-"Este tema tiene transparencias con efectos que pueden<br>ralentizar el "
-"sistema en ordenadores antiguos<br>o entornos virtualizados."
 
 msgid "<b>Classic</b> e <b>New</b> têm melhor desempenho."
 msgstr "<b>Classic</b> y <b>New</b> tienen mejor rendimiento."

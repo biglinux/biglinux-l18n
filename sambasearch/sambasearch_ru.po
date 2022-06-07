@@ -83,6 +83,3 @@ msgstr "в сети:"
 
 msgid "Voltar"
 msgstr "Назад"
-
-msgid "Fechar"
-msgstr "Закрыть"

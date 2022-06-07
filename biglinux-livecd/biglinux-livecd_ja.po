@@ -17,11 +17,33 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit"
 
+msgid "Escolha o tema dos aplicativos:"
+msgstr "アプリケーションのテーマを選択します。"
+
+msgid ""
+"Utilizando renderização por software, a qualidade das transparências será "
+"reduzida."
+msgstr "ソフトウェアレンダリングを使用すると、透明度の高い画像は品質が低下します。"
+
+msgid "Escolha o modelo do teclado:"
+msgstr "キーボードの機種を選んでください。"
+
 msgid "Desempenho"
 msgstr "パフォーマンス"
 
+msgid "Aceleração do navegador"
+msgstr "ブラウザーアクセラレーション"
+
 msgid "Tema"
 msgstr "テーマ"
+
+msgid "Fechar"
+msgstr "閉じる"
+
+msgid ""
+"Esse tema possui transparências com efeitos que<br>podem tornar o sistema "
+"lento em computadores<br>antigos ou ambientes virtualizados."
+msgstr "このテーマには、<br>古い<br>コンピューターや仮想環境ではシステムの速度を低下させる効果のある透過性があります。"
 
 msgid ""
 "Renderizar o desktop via software<br><small>(Pode ser útil em máquina "
@@ -36,13 +58,8 @@ msgstr "ブラウザでGPUを利用する<br><small>(映像の乱れがある場
 msgid "Escolha o desktop:"
 msgstr "デスクトップを選択します。"
 
-msgid "Escolha o modelo do teclado:"
-msgstr "キーボードの機種を選んでください。"
+msgid "têm melhor desempenho."
+msgstr ""
 
-msgid "Escolha o tema dos aplicativos:"
-msgstr "アプリケーションのテーマを選択します。"
-
-msgid ""
-"Utilizando renderização por software, a qualidade das transparências será "
-"reduzida."
-msgstr "ソフトウェアレンダリングを使用すると、透明度の高い画像は品質が低下します。"
+msgid "e"
+msgstr ""

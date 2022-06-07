@@ -17,11 +17,33 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit"
 
+msgid "Escolha o tema dos aplicativos:"
+msgstr "选择应用程序的主题。"
+
+msgid ""
+"Utilizando renderização por software, a qualidade das transparências será "
+"reduzida."
+msgstr "使用软件渲染，透明胶片的质量将被降低。"
+
+msgid "Escolha o modelo do teclado:"
+msgstr "选择你的键盘型号。"
+
 msgid "Desempenho"
 msgstr "业绩"
 
+msgid "Aceleração do navegador"
+msgstr "浏览器加速"
+
 msgid "Tema"
 msgstr "主题"
+
+msgid "Fechar"
+msgstr "关闭"
+
+msgid ""
+"Esse tema possui transparências com efeitos que<br>podem tornar o sistema "
+"lento em computadores<br>antigos ou ambientes virtualizados."
+msgstr "这个主题有透明的效果，<br>在旧电脑<br>或虚拟环境 中会 降低系统速度。"
 
 msgid ""
 "Renderizar o desktop via software<br><small>(Pode ser útil em máquina "
@@ -36,13 +58,8 @@ msgstr "在浏览器中使用GPU<br><small>(在视频失真情况下禁用)"
 msgid "Escolha o desktop:"
 msgstr "选择你的桌面。"
 
-msgid "Escolha o modelo do teclado:"
-msgstr "选择你的键盘型号。"
+msgid "têm melhor desempenho."
+msgstr ""
 
-msgid "Escolha o tema dos aplicativos:"
-msgstr "选择应用程序的主题。"
-
-msgid ""
-"Utilizando renderização por software, a qualidade das transparências será "
-"reduzida."
-msgstr "使用软件渲染，透明胶片的质量将被降低。"
+msgid "e"
+msgstr ""

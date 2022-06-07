@@ -59,28 +59,19 @@ msgstr "该选项将程序恢复到开发者默认状态。"
 msgid "Restaurar as configurações do programa:"
 msgstr "恢复节目设置。"
 
-msgid "Principal"
-msgstr "主要内容"
-
-msgid "Internet"
-msgstr "互联网"
+msgid "Restaurar Configurações"
+msgstr "恢复设置"
 
 msgid "Multimídia"
 msgstr "多媒体"
-
-msgid "Escritório"
-msgstr "办公室"
-
-msgid "Pesquisar Restaurar"
-msgstr "搜索恢复"
-
-msgid "Restaurar Configurações"
-msgstr "恢复设置"
 
 msgid ""
 "Atenção! O programa está aberto!\\nEle será fechado para que a restauração "
 "tenha efeito."
 msgstr "注意事项!该方案是开放的！它将被关闭以使修复生效。"
+
+msgid "Escritório"
+msgstr "办公室"
 
 msgid "As configurações foram restauradas com sucesso!"
 msgstr "设置已经成功恢复了!"
@@ -94,3 +85,12 @@ msgid ""
 "As configurações foram restauradas com sucesso!\\nÉ necessário fazer logoff/"
 "login para concluir a restauração!"
 msgstr "设置已成功恢复！你必须注销/开启以完成恢复！\"。"
+
+msgid "Principal"
+msgstr "主要内容"
+
+msgid "Internet"
+msgstr "互联网"
+
+msgid "Pesquisar Restaurar"
+msgstr "搜索恢复"

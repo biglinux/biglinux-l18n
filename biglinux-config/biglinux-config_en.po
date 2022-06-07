@@ -61,23 +61,11 @@ msgstr "This option restores the program to the developer default."
 msgid "Restaurar as configurações do programa:"
 msgstr "Restore the program settings:"
 
-msgid "Principal"
-msgstr "Main"
-
-msgid "Internet"
-msgstr "Internet"
+msgid "Restaurar Configurações"
+msgstr "Restore Settings"
 
 msgid "Multimídia"
 msgstr "Multimedia"
-
-msgid "Escritório"
-msgstr "Office"
-
-msgid "Pesquisar Restaurar"
-msgstr "Search Restore"
-
-msgid "Restaurar Configurações"
-msgstr "Restore Settings"
 
 msgid ""
 "Atenção! O programa está aberto!\\nEle será fechado para que a restauração "
@@ -85,6 +73,9 @@ msgid ""
 msgstr ""
 "Attention! The program is open! It will be closed for the restoration to "
 "take effect."
+
+msgid "Escritório"
+msgstr "Office"
 
 msgid "As configurações foram restauradas com sucesso!"
 msgstr "The settings have been successfully restored!"
@@ -102,3 +93,12 @@ msgid ""
 msgstr ""
 "The settings have been successfully restored! You must be logged off/on to "
 "complete the restoration!"
+
+msgid "Principal"
+msgstr "Main"
+
+msgid "Internet"
+msgstr "Internet"
+
+msgid "Pesquisar Restaurar"
+msgstr "Search Restore"

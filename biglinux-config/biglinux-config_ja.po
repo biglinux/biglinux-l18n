@@ -60,28 +60,19 @@ msgstr "このオプションは、プログラムを開発者用のデフォル
 msgid "Restaurar as configurações do programa:"
 msgstr "プログラム設定を元に戻す。"
 
-msgid "Principal"
-msgstr "メイン"
-
-msgid "Internet"
-msgstr "インターネット"
+msgid "Restaurar Configurações"
+msgstr "設定の復元"
 
 msgid "Multimídia"
 msgstr "マルチメディア"
-
-msgid "Escritório"
-msgstr "オフィス"
-
-msgid "Pesquisar Restaurar"
-msgstr "検索リストア"
-
-msgid "Restaurar Configurações"
-msgstr "設定の復元"
 
 msgid ""
 "Atenção! O programa está aberto!\\nEle será fechado para que a restauração "
 "tenha efeito."
 msgstr "注意!プログラムはオープンです！復旧の効果が出るまでクローズとなります。"
+
+msgid "Escritório"
+msgstr "オフィス"
 
 msgid "As configurações foram restauradas com sucesso!"
 msgstr "設定の復元に成功しました"
@@ -95,3 +86,12 @@ msgid ""
 "As configurações foram restauradas com sucesso!\\nÉ necessário fazer logoff/"
 "login para concluir a restauração!"
 msgstr "設定の復元に成功しました！復元を完了するには、ログオフ/ログオンする必要があります。"
+
+msgid "Principal"
+msgstr "メイン"
+
+msgid "Internet"
+msgstr "インターネット"
+
+msgid "Pesquisar Restaurar"
+msgstr "検索リストア"

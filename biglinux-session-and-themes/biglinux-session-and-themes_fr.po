@@ -68,9 +68,6 @@ msgstr "Thèmes, bureau et paramètres"
 msgid "Desempenho do desktop"
 msgstr "Performances du poste de travail"
 
-msgid "Aceleração do navegador"
-msgstr "Accélération du navigateur"
-
 msgid "Usabilidade"
 msgstr "Utilisabilité"
 
@@ -79,13 +76,6 @@ msgstr "Thème de l'application"
 
 msgid "Bordas arredondadas."
 msgstr "Bords arrondis."
-
-msgid ""
-"Esse tema possui transparências com efeitos que<br>podem tornar o sistema "
-"lento em computadores<br>antigos ou ambientes virtualizados."
-msgstr ""
-"Ce thème comporte des transparences avec des effets qui peuvent<br>ralentir "
-"le système sur les vieux ordinateurs<br>ou les environnements virtualisés."
 
 msgid "<b>Classic</b> e <b>New</b> têm melhor desempenho."
 msgstr "<b>Classic</b> et <b>New</b> ont de meilleures performances."

@@ -66,9 +66,6 @@ msgstr "主题、桌面和设置"
 msgid "Desempenho do desktop"
 msgstr "桌面性能"
 
-msgid "Aceleração do navegador"
-msgstr "浏览器加速"
-
 msgid "Usabilidade"
 msgstr "可用性"
 
@@ -77,11 +74,6 @@ msgstr "应用主题"
 
 msgid "Bordas arredondadas."
 msgstr "圆形的边缘。"
-
-msgid ""
-"Esse tema possui transparências com efeitos que<br>podem tornar o sistema "
-"lento em computadores<br>antigos ou ambientes virtualizados."
-msgstr "这个主题有透明的效果，<br>在旧电脑<br>或虚拟环境 中会 降低系统速度。"
 
 msgid "<b>Classic</b> e <b>New</b> têm melhor desempenho."
 msgstr "<b>经典</b>和<b>新版</b>有更好的性能。"

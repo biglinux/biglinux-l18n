@@ -66,23 +66,11 @@ msgstr ""
 msgid "Restaurar as configurações do programa:"
 msgstr "Stellen Sie die Programmeinstellungen wieder her:"
 
-msgid "Principal"
-msgstr "Hauptseite"
-
-msgid "Internet"
-msgstr "Internet"
+msgid "Restaurar Configurações"
+msgstr "Einstellungen wiederherstellen"
 
 msgid "Multimídia"
 msgstr "Multimedia"
-
-msgid "Escritório"
-msgstr "Büro"
-
-msgid "Pesquisar Restaurar"
-msgstr "Suche Wiederherstellen"
-
-msgid "Restaurar Configurações"
-msgstr "Einstellungen wiederherstellen"
 
 msgid ""
 "Atenção! O programa está aberto!\\nEle será fechado para que a restauração "
@@ -90,6 +78,9 @@ msgid ""
 msgstr ""
 "Achtung! Das Programm ist offen und wird für die Dauer der Wiederherstellung "
 "geschlossen sein."
+
+msgid "Escritório"
+msgstr "Büro"
 
 msgid "As configurações foram restauradas com sucesso!"
 msgstr "Die Einstellungen wurden erfolgreich wiederhergestellt!"
@@ -107,3 +98,12 @@ msgid ""
 msgstr ""
 "Die Einstellungen wurden erfolgreich wiederhergestellt! Sie müssen sich ab-/"
 "anmelden, um die Wiederherstellung abzuschließen!"
+
+msgid "Principal"
+msgstr "Hauptseite"
+
+msgid "Internet"
+msgstr "Internet"
+
+msgid "Pesquisar Restaurar"
+msgstr "Suche Wiederherstellen"
