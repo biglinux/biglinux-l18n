@@ -7,7 +7,7 @@
 msgid   ""
 msgstr  "Project-Id-Version: biglinux-config\n"
         "Report-Msgid-Bugs-To: \n"
-        "POT-Creation-Date: 2022-06-07 05:30-0300\n"
+        "POT-Creation-Date: 2022-06-07 17:47-0300\n"
         "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
         "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
         "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -53,6 +53,24 @@ msgstr  ""
 msgid   "Restaurar as configurações do programa:"
 msgstr  ""
 
+msgid   "Restaurar Configurações"
+msgstr  ""
+
+msgid   "Atenção! O programa está aberto!\\nEle será fechado para que a "
+        "restauração tenha efeito."
+msgstr  ""
+
+msgid   "As configurações foram restauradas com sucesso!"
+msgstr  ""
+
+msgid   "Você tem certeza que deseja restaurar todas as configurações do KDE/"
+        "Plasma?\\nIsso apagará todas as configurações definidas por $USER!"
+msgstr  ""
+
+msgid   "As configurações foram restauradas com sucesso!\\nÉ necessário fazer "
+        "logoff/login para concluir a restauração!"
+msgstr  ""
+
 msgid   "Principal"
 msgstr  ""
 
@@ -72,22 +90,4 @@ msgid   "Sistema"
 msgstr  ""
 
 msgid   "Pesquisar Restaurar"
-msgstr  ""
-
-msgid   "Restaurar Configurações"
-msgstr  ""
-
-msgid   "Atenção! O programa está aberto!\\nEle será fechado para que a "
-        "restauração tenha efeito."
-msgstr  ""
-
-msgid   "As configurações foram restauradas com sucesso!"
-msgstr  ""
-
-msgid   "Você tem certeza que deseja restaurar todas as configurações do KDE/"
-        "Plasma?\\nIsso apagará todas as configurações definidas por $USER!"
-msgstr  ""
-
-msgid   "As configurações foram restauradas com sucesso!\\nÉ necessário fazer "
-        "logoff/login para concluir a restauração!"
 msgstr  ""

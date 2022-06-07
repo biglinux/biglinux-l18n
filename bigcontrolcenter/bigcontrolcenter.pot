@@ -7,7 +7,7 @@
 msgid   ""
 msgstr  "Project-Id-Version: bigcontrolcenter\n"
         "Report-Msgid-Bugs-To: \n"
-        "POT-Creation-Date: 2022-06-07 05:30-0300\n"
+        "POT-Creation-Date: 2022-06-07 17:47-0300\n"
         "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
         "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
         "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -312,16 +312,6 @@ msgstr  ""
 msgid   "Tenha acesso a seus arquivos e pastas."
 msgstr  ""
 
-msgid   "Esse programa pode transferir arquivos entre smartphones, tablets e "
-        "outros computadores.  Com ele você pode, por exemplo, utilizar  seu "
-        "smartphone como mouse e teclado sem fio para controlar o computador, "
-        "entre outros recursos.  Ele se integra melhor ao BigLinux e fica "
-        "entre os applets localizados perto do relógio do sistema.  Para "
-        "sincronizar com o seu smartphone acesse a Google Store em seu "
-        "telefone e instale o Kde Connect.  Esse aplicativo não está "
-        "disponível para iPhone."
-msgstr  ""
-
 msgid   "Terminal"
 msgstr  ""
 
@@ -345,6 +335,21 @@ msgid   "Centro de controle do KDE"
 msgstr  ""
 
 msgid   "Configurador avançado de energia"
+msgstr  ""
+
+msgid   "Esse programa pode transferir arquivos entre smartphones, tablets e "
+        "outros computadores.  Com ele você pode, por exemplo, utilizar  seu "
+        "smartphone como mouse e teclado sem fio para controlar o computador, "
+        "entre outros recursos.  Ele se integra melhor ao BigLinux e fica "
+        "entre os applets localizados perto do relógio do sistema. Para "
+        "sincronizar com o seu smartphone acesse a Google Store ou Apple "
+        "Store e instale o Kde Connect."
+msgstr  ""
+
+msgid   "As configurações da tela foram resetadas."
+msgstr  ""
+
+msgid   "Configurações da tela"
 msgstr  ""
 
 msgid   "Categorias"
@@ -545,16 +550,11 @@ msgid   "Basta abrir o site https://snapdrop.net nos Hardware que você quer "
         "uso desse site."
 msgstr  ""
 
-msgid   "Introdução"
+msgid   "ID do Android:"
 msgstr  ""
 
-msgid   "Introdução ao BigLinux."
-msgstr  ""
-
-msgid   "As configurações da tela foram resetadas."
-msgstr  ""
-
-msgid   "Configurações da tela"
+msgid   "Não foi possível resgatar o ID do Android. \\n\\nAtenção: Waydroid "
+        "precisa estar aberto."
 msgstr  ""
 
 msgid   "Maximizado"
@@ -578,20 +578,20 @@ msgstr  ""
 msgid   "Download próximo de 1 GB, pode demorar muito."
 msgstr  ""
 
+msgid   "Resolução: "
+msgstr  ""
+
 msgid   "O Waydroid também pode ser iniciado utilizando o menu do sistema"
 msgstr  ""
 
 msgid   "Se a aceleração 3D estiver ativada em um hardware incompatível\n"
-        "    <br> o android não passará da tela de loading"
+        "<br> o android não passará da tela de loading"
 msgstr  ""
 
 msgid   "Parar o Waydroid"
 msgstr  ""
 
 msgid   "Iniciar o Waydroid"
-msgstr  ""
-
-msgid   "Resolução"
 msgstr  ""
 
 msgid   "Ativar a aceleração 3D"
@@ -618,11 +618,4 @@ msgid   "Exibir ID do Android"
 msgstr  ""
 
 msgid   "Ativar Google Apps"
-msgstr  ""
-
-msgid   "ID do Android:"
-msgstr  ""
-
-msgid   "Não foi possível resgatar o ID do Android. \\n\\nAtenção: Waydroid "
-        "precisa estar aberto."
 msgstr  ""
