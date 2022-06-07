@@ -18,31 +18,37 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit"
 
 msgid "Desempenho"
-msgstr ""
+msgstr "Производительность"
 
 msgid "Tema"
-msgstr ""
+msgstr "Тема"
 
 msgid ""
 "Renderizar o desktop via software<br><small>(Pode ser útil em máquina "
 "virtual)"
 msgstr ""
+"Рендеринг рабочего стола с помощью программного обеспечения<br><small>(Может "
+"быть полезно в виртуальной машине)"
 
 msgid ""
 "Utilizar GPU nos navegadores<br><small>(Desative no caso de distorção no "
 "vídeo)"
 msgstr ""
+"Использование GPU в браузерах<br><small>(Отключается в случае искажения "
+"видео)"
 
 msgid "Escolha o desktop:"
-msgstr ""
+msgstr "Выберите свой рабочий стол:"
 
 msgid "Escolha o modelo do teclado:"
-msgstr ""
+msgstr "Выберите модель клавиатуры:"
 
 msgid "Escolha o tema dos aplicativos:"
-msgstr ""
+msgstr "Выберите тему приложений:"
 
 msgid ""
 "Utilizando renderização por software, a qualidade das transparências será "
 "reduzida."
 msgstr ""
+"При использовании программного рендеринга качество прозрачных изображений "
+"будет снижено."
