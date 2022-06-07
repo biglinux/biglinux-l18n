@@ -18,10 +18,10 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit"
 
 msgid "MÓDULO: Nenhum módulo precisa ser instalado."
-msgstr ""
+msgstr "MÓDULO: No es necesario instalar ningún módulo."
 
 msgid "FIRMWARE: Nenhum firmware precisa ser instalado."
-msgstr ""
+msgstr "FIRMWARE: No es necesario instalar ningún firmware."
 
 msgid "Hardware"
-msgstr ""
+msgstr "Hardware"

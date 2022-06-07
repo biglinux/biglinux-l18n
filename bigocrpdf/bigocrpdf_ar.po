@@ -24,56 +24,62 @@ msgid ""
 "Você também pode utilizar o gerenciador de arquivos, clicar com o botão "
 "direito no arquivo PDF, 'Abrir com' e selecionar a opção de OCR."
 msgstr ""
+"اختر ملف PDF لتطبيق OCR، والذي سيكون من الممكن البحث عن النصوص أو نسخها.\n"
+"\n"
+"يمكنك أيضًا استخدام مدير الملفات، والنقر بزر الماوس الأيمن على ملف PDF، و "
+"«فتح باستخدام» وحدد خيار OCR."
 
 msgid "NORMAL"
-msgstr ""
+msgstr "عادي"
 
 msgid "ECONOMIC"
-msgstr ""
+msgstr "اقتصادي"
 
 msgid "ECONOMIC PLUS"
-msgstr ""
+msgstr "الاقتصادية بلس"
 
 msgid "ALIGN"
-msgstr ""
+msgstr "محاذاة"
 
 msgid "AUTO ROTATE"
-msgstr ""
+msgstr "تدوير تلقائي"
 
 msgid "ALIGN AND AUTO ROTATE"
-msgstr ""
+msgstr "محاذاة وتدوير تلقائي"
 
 msgid "DON'T CHANGE"
-msgstr ""
+msgstr "لا تتغير"
 
 msgid "SPANISH"
-msgstr ""
+msgstr "الأسبانية"
 
 msgid "ENGLISH"
-msgstr ""
+msgstr "الإنجليزية"
 
 msgid "PORTUGUESE"
-msgstr ""
+msgstr "الإنجليزية"
 
 msgid ""
 "You can choose to reduce the image quality.<br>This way you will have "
 "smaller files, making it easier,<br>for example, to send them by e-mail."
 msgstr ""
+"يمكنك اختيار تقليل جودة الصورة. <br>بهذه الطريقة سيكون لديك ملفات أصغر، مما "
+"يسهل، <br>على سبيل المثال، إرسالها عبر البريد الإلكتروني."
 
 msgid ""
 "To add new languages, install the tesseract add-ons in the system's package "
 "manager."
-msgstr ""
+msgstr "لإضافة لغات جديدة، قم بتثبيت إضافات tesseract في مدير حزم النظام."
 
 msgid "Make your PDF searchable"
-msgstr ""
+msgstr "اجعل ملف PDF قابلاً للبحث"
 
 msgid ""
 "Adicionar OCR no PDF digitalizado permitindo seleção de textos e busca:"
-msgstr ""
+msgstr "أضف OCR إلى ملف PDF الممسوح ضوئيًا مما يسمح باختيار النص والبحث:"
 
 msgid "Completed!"
-msgstr ""
+msgstr "تم الانتهاء!"
 
 msgid "Arquivo salvo: "
-msgstr ""
+msgstr "الملف المحفوظ: "

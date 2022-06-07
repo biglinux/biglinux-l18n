@@ -18,10 +18,10 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit"
 
 msgid "MÓDULO: Nenhum módulo precisa ser instalado."
-msgstr ""
+msgstr "MODULE: لا توجد وحدة تحتاج إلى تثبيت."
 
 msgid "FIRMWARE: Nenhum firmware precisa ser instalado."
-msgstr ""
+msgstr "البرامج الثابتة: لا يلزم تثبيت أي برنامج ثابت."
 
 msgid "Hardware"
-msgstr ""
+msgstr "الأجهزة"

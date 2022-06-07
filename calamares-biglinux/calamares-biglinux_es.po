@@ -26,9 +26,16 @@ msgid ""
 "\n"
 "Deseja prosseguir com com a instalação em modo EFI?"
 msgstr ""
+"El arranque actual está usando el modo EFI, sin embargo no encontré ninguna "
+"partición EFI en este ordenador, si este ordenador ya tiene otro sistema "
+"instalado y quieres que siga instalado, probablemente tendrás que cambiar la "
+"configuración en la BIOS para arrancar en modo Legacy, también llamado modo "
+"BIOS.\n"
+"\n"
+"¿Desea continuar con la instalación de la EFI?"
 
 msgid "Instalar o sistema"
-msgstr ""
+msgstr "Instalación del sistema"
 
 msgid ""
 "O boot atual está utilizando o modo Legacy/BIOS, porém encontrei pelo menos "
@@ -38,45 +45,51 @@ msgid ""
 "\n"
 "Deseja prosseguir com com a instalação em modo Legacy/BIOS?"
 msgstr ""
+"El arranque actual está usando el modo Legacy/BIOS, sin embargo encontré al "
+"menos una partición EFI en este ordenador. Para que la instalación sea "
+"satisfactoria, probablemente tendrás que cambiar la configuración de la BIOS "
+"para arrancar en modo EFI o UEFI.\n"
+"\n"
+"¿Desea continuar con la instalación de Legacy/BIOS?"
 
 msgid "Instalar o BigLinux"
-msgstr ""
+msgstr "Instalación de BigLinux"
 
 msgid "PADRÃO"
-msgstr ""
+msgstr "ESTÁNDAR"
 
 msgid "DESEMPENHO"
-msgstr ""
+msgstr "RENDIMIENTO"
 
 msgid "COMPATIBILIDADE"
-msgstr ""
+msgstr "COMPATIBILIDAD"
 
 msgid "Compacta os dados"
-msgstr ""
+msgstr "Compactar los datos"
 
 msgid "Pontos de restauração"
-msgstr ""
+msgstr "Puntos de restauración"
 
 msgid "Adia a gravação dos dados"
-msgstr ""
+msgstr "Aplaza el registro de datos"
 
 msgid "Funciona com tabelas de particionamento antigas"
-msgstr ""
+msgstr "Funciona con tablas de partición antiguas"
 
 msgid "BTRFS com fsync"
-msgstr ""
+msgstr "BTRFS con fsync"
 
 msgid "BTRFS sem fsync"
-msgstr ""
+msgstr "BTRFS sin fsync"
 
 msgid "SELECIONAR"
-msgstr ""
+msgstr "SELECCIONE"
 
 msgid "Instalar no HD"
-msgstr ""
+msgstr "Instalar en el HD"
 
 msgid "O sistema está em modo"
-msgstr ""
+msgstr "El sistema está en"
 
 msgid "e com o kernel"
-msgstr ""
+msgstr "y con el núcleo"

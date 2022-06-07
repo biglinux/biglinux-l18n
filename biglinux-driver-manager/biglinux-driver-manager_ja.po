@@ -18,243 +18,244 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit"
 
 msgid "O Big-Hardware-Relatory já está em uso."
-msgstr ""
+msgstr "Big-Hardware-Relatoryはすでに使用されています。"
 
 msgid "Informações sobre o Hardware"
-msgstr ""
+msgstr "ハードウェア情報"
 
 msgid "Este driver é software livre."
-msgstr ""
+msgstr "本ドライバーはフリーソフトです。"
 
 msgid "Este driver é proprietário."
-msgstr ""
+msgstr "このドライバはプロプライエタリです。"
 
 msgid "Este driver parece compatível com este computador."
-msgstr ""
+msgstr "このドライバはこのコンピュータと互換性があるようです。"
 
 msgid "Remover"
-msgstr ""
+msgstr "削除"
 
 msgid "Instalar"
-msgstr ""
+msgstr "インストール"
 
 msgid ""
 "Já existe outro driver nVidia instalado, para instalar este driver, remova "
 "primeiro o driver instalado."
 msgstr ""
+"すでに別のnVidiaドライバがインストールされていますので、このドライバをインストールするには、まずインストールされているドライバを削除してください。"
 
 msgid "Desativado"
-msgstr ""
+msgstr "使用不可"
 
 msgid "Categorias"
-msgstr ""
+msgstr "カテゴリー"
 
 msgid "Principais"
-msgstr ""
+msgstr "メイン"
 
 msgid "Resumo"
-msgstr ""
+msgstr "概要"
 
 msgid "Processador"
-msgstr ""
+msgstr "プロセッサー"
 
 msgid "Placa de vídeo"
-msgstr ""
+msgstr "ビデオカード"
 
 msgid "Placa mãe"
-msgstr ""
+msgstr "マザーボード"
 
 msgid "Memória"
-msgstr ""
+msgstr "メモリ"
 
 msgid "Rede"
-msgstr ""
+msgstr "ネットワーク"
 
 msgid "Usb"
-msgstr ""
+msgstr "ユーエスビー"
 
 msgid "Pci"
-msgstr ""
+msgstr "Pci"
 
 msgid "Bateria"
-msgstr ""
+msgstr "バッテリー"
 
 msgid "Armazenamento"
-msgstr ""
+msgstr "ストレージ"
 
 msgid "Sistema"
-msgstr ""
+msgstr "システム"
 
 msgid "Bluetooth"
-msgstr ""
+msgstr "ブルートゥース"
 
 msgid "Temperatura"
-msgstr ""
+msgstr "温度"
 
 msgid "Impressora"
-msgstr ""
+msgstr "プリンター"
 
 msgid "Áudio"
-msgstr ""
+msgstr "オーディオ"
 
 msgid "Mais informações"
-msgstr ""
+msgstr "詳細はこちら"
 
 msgid "Pesquisar"
-msgstr ""
+msgstr "検索"
 
 msgid "Resultado da pesquisa"
-msgstr ""
+msgstr "検索結果"
 
 msgid "Informações de Hardware"
-msgstr ""
+msgstr "ハードウェア情報"
 
 msgid "Informações Sobre o Sistema e o Hardware"
-msgstr ""
+msgstr "システム・ハードウェア情報"
 
 msgid "Instalar ou Remover Drivers"
-msgstr ""
+msgstr "ドライバのインストールと削除"
 
 msgid ""
 "O BigLinux inclui milhares de drivers e firmwares por padrão, porém ainda "
 "pode ser necessário instalar mais alguns."
-msgstr ""
+msgstr "BigLinuxにはデフォルトで数千のドライバとファームウェアが含まれていますが、さらにいくつかのインストールが必要な場合があります。"
 
 msgid "Gerar Relatório"
-msgstr ""
+msgstr "レポート作成"
 
 msgid "Ver informações do dispositivo no Linux Hardware"
-msgstr ""
+msgstr "Linux Hardwareのデバイス情報を表示する"
 
 msgid "Categoria"
-msgstr ""
+msgstr "カテゴリー"
 
 msgid "ID"
-msgstr ""
+msgstr "ID"
 
 msgid "Info"
-msgstr ""
+msgstr "情報"
 
 msgid "Enviar para transfer.sh"
-msgstr ""
+msgstr "transfer.shに送信する"
 
 msgid "Visualizar"
-msgstr ""
+msgstr "表示"
 
 msgid "O relatório foi salvo no arquivo:"
-msgstr ""
+msgstr "レポートがアーカイブに保存されました。"
 
 msgid ""
 "Deseja visualizar o arquivo ou envia-lo ao site transfer.sh, para ter uma "
 "URL com os dados do seu computador de forma fácil de compartilhar?"
-msgstr ""
+msgstr "ファイルを表示したり、transfer.shに送信して、共有する簡単な方法でコンピュータからのデータでURLを持つようにしたいですか？"
 
 msgid "Driver detectado:"
-msgstr ""
+msgstr "ドライバーを検出しました。"
 
 msgid "<small>* A detecção não inclui impressoras e scanners</small>"
-msgstr ""
+msgstr "<small>* プリンター、スキャナーは検出対象に含まれません</small>"
 
 msgid "Wifi"
-msgstr ""
+msgstr "無線LAN"
 
 msgid "Rede Cabeada"
-msgstr ""
+msgstr "有線ネットワーク"
 
 msgid "Impressora 3D"
-msgstr ""
+msgstr "3Dプリンター"
 
 msgid "Scanner"
-msgstr ""
+msgstr "スキャナ"
 
 msgid "TV Digital"
-msgstr ""
+msgstr "デジタルテレビ"
 
 msgid "Webcam"
-msgstr ""
+msgstr "ウェブカメラ"
 
 msgid "Touchscreen"
-msgstr ""
+msgstr "タッチスクリーン"
 
 msgid "Som"
-msgstr ""
+msgstr "サウンド"
 
 msgid "Outros"
-msgstr ""
+msgstr "その他"
 
 msgid "Pesquisar Driver ou Firmware"
-msgstr ""
+msgstr "ドライバーまたはファームウェアの検索"
 
 msgid "Big-Driver-Manager"
-msgstr ""
+msgstr "ビッグドライバーマネージャ"
 
 msgid "Instalar ou Remover Drivers e Firmwares"
-msgstr ""
+msgstr "ドライバとファームウェアのインストールと削除"
 
 msgid ""
 "Geralmente é preciso reiniciar o computador para o driver ou firmware ser "
 "aplicado."
-msgstr ""
+msgstr "ドライバやファームウェアを適用するには、通常、コンピュータを再起動する必要があります。"
 
 msgid "Driver ou firmware"
-msgstr ""
+msgstr "ドライバまたはファームウェア"
 
 msgid "Este pacote fornece arquivos compatíveis com este computador."
-msgstr ""
+msgstr "このパッケージは、このコンピューターに対応したファイルを提供します。"
 
 msgid "Concluído, reinicie o computador para ativar a configuração do driver."
-msgstr ""
+msgstr "完了したら、コンピュータを再起動し、ドライバーの設定を有効にします。"
 
 msgid "Driver"
-msgstr ""
+msgstr "ドライバー"
 
 msgid "Ocorreu um erro e o driver não pode ser aplicado."
-msgstr ""
+msgstr "エラーが発生したため、ドライバを適用できません。"
 
 msgid "Swap (Memória Virtual)"
-msgstr ""
+msgstr "スワップ(仮想メモリ)"
 
 msgid "Gráficos"
-msgstr ""
+msgstr "グラフィック"
 
 msgid "Conexões de Internet"
-msgstr ""
+msgstr "インターネット接続"
 
 msgid "Dispositivos e conexões USB"
-msgstr ""
+msgstr "USBデバイスと接続"
 
 msgid "Portas PCI"
-msgstr ""
+msgstr "PCIポート"
 
 msgid "Dispositivos de armazenamento"
-msgstr ""
+msgstr "ストレージデバイス"
 
 msgid "Partições montadas"
-msgstr ""
+msgstr "マウントパーティション"
 
 msgid "Partições desmontadas"
-msgstr ""
+msgstr "解体されたパーティション"
 
 msgid "Dispositivos lógicos"
-msgstr ""
+msgstr "ロジックデバイス"
 
 msgid "Raid"
-msgstr ""
+msgstr "レイド"
 
 msgid "Informações"
-msgstr ""
+msgstr "インフォメーション"
 
 msgid "Repositórios"
-msgstr ""
+msgstr "レポジトリー"
 
 msgid ""
 "Digite sua senha para gerar um relatório removendo dados sensíveis, por "
 "exemplo, endereço de IP, ou cancele para utilizar as informações da tela "
 "anterior."
-msgstr ""
+msgstr "IPアドレスなどの機密データを削除してレポートを作成する場合はパスワードを入力し、前の画面の情報を使用する場合はキャンセルしてください。"
 
 msgid "Digite sua senha para gerar um relatório mais completo."
-msgstr ""
+msgstr "パスワードを入力すると、より詳細なレポートが作成されます。"
 
 msgid "Enviando, aguarde..."
-msgstr ""
+msgstr "送信中です、お待ちください..."

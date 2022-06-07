@@ -18,54 +18,61 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit"
 
 msgid "A Big-Store já está em uso."
-msgstr ""
+msgstr "المتجر الكبير قيد الاستخدام بالفعل."
 
 msgid "Big-Store"
-msgstr ""
+msgstr "متجر كبير"
 
 msgid ""
 "Para os programas Snap aparecerem no menu do sistema finalize a sessão e "
 "faça login novamente."
 msgstr ""
+"لكي تظهر برامج Snap في قائمة النظام، قم بتسجيل الخروج وتسجيل الدخول مرة أخرى."
+""
 
 msgid "Configurações"
-msgstr ""
+msgstr "الإعدادات"
 
 msgid "Suporte a Flatpak ativo."
-msgstr ""
+msgstr "دعم Flatpak نشط."
 
 msgid "Suporte a Flatpak NÃO está ativo."
-msgstr ""
+msgstr "دعم Flatpak غير نشط."
 
 msgid "Suporte a Snap ativo."
-msgstr ""
+msgstr "دعم Snap نشط."
 
 msgid "Suporte a Snap NÃO está ativo."
-msgstr ""
+msgstr "دعم Snap غير نشط."
 
 msgid "Executar"
-msgstr ""
+msgstr "أداء"
 
 msgid "Atualizar cache dos repositórios nativos."
-msgstr ""
+msgstr "تحديث ذاكرة التخزين المؤقت للمستودعات الأصلية."
 
 msgid "Procurar o servidor de repositórios nativos mais rápido no momento."
-msgstr ""
+msgstr "ابحث عن أسرع خادم مستودع أصلي في الوقت الحالي."
 
 msgid "Utilize as opções a seguir com cautela:"
-msgstr ""
+msgstr "استخدم الخيارات التالية بحذر:"
 
 msgid ""
 "Atualizar as chaves dos repositórios BigLinux, Manjaro e Archlinux. Lembre "
 "que se você ativou repositórios complementares será necessário adicionar as "
 "chaves desses repositórios novamente."
 msgstr ""
+"قم بتحديث مفاتيح مستودعات BigLinux و Manjaro و Archlinux. تذكر أنه إذا قمت "
+"بتنشيط المستودعات التكميلية، فستحتاج إلى إضافة المفاتيح إلى تلك المستودعات "
+"مرة أخرى."
 
 msgid ""
 "Forçar atualizações, utilize essa opção se não estiver conseguindo atualizar "
 "o sistema, porém, na atualização forçada alguns programas podem ser "
 "removidos."
 msgstr ""
+"فرض التحديثات، استخدم هذا الخيار إذا كنت غير قادر على تحديث النظام، ومع ذلك، "
+"في التحديث القسري قد تتم إزالة بعض البرامج."
 
 msgid ""
 "\n"
@@ -74,6 +81,11 @@ msgid ""
 "portanto é a melhor opção quando o programa que você<br>\n"
 "deseja está disponível em mais de um tipo de instalação.<br>"
 msgstr ""
+"\n"
+"يتم دمج البرامج الأصلية بشكل أفضل في النظام <br>\n"
+"ويخضعون لمزيد من الاختبارات قبل أن تصبح متاحة، <br>\n"
+"لذلك فهو الخيار الأفضل عندما يكون البرنامج <br>\n"
+"want متاح في أكثر من نوع واحد من التثبيت. <br>"
 
 msgid ""
 "\n"
@@ -84,6 +96,13 @@ msgid ""
 "bem, mas não passam pelos mesmos testes feitos<br>\n"
 "com os programas nativos."
 msgstr ""
+"\n"
+"برامج AUR هي برامج نصية أنشأها المستخدم <br>\n"
+"لتثبيت البرامج غير المتوفرة <br>\n"
+"مباشرة في المستودعات الأصلية للنظام. <br>\n"
+"تعمل البرامج المثبتة بهذه الطريقة <br>\n"
+"حسنًا، لكنهم لا يجتازون نفس الاختبارات <br>\n"
+"مع البرامج الأصلية."
 
 msgid ""
 "\n"
@@ -95,6 +114,14 @@ msgid ""
 "para quem tem computadores que possuem boa capacidade<br>\n"
 "de processamento e armazenamento."
 msgstr ""
+"\n"
+"برامج Flatpak متاحة للجميع <br>\n"
+"توزيعات Linux، يتم الحفاظ عليها بشكل عام من تلقاء نفسها <br>\n"
+"المبدعين من البرامج، ومع ذلك، ليس لديهم بعض <br>\n"
+"التحسينات والتكامل مع النظام، كما يحدث مع <br>\n"
+"البرامج الأصلية، يمكن أن يكون هذا بديلاً جيدًا <br>\n"
+"بالنسبة لأولئك الذين لديهم أجهزة كمبيوتر ذات سعة جيدة <br>\n"
+"المعالجة والتخزين."
 
 msgid ""
 "Programas Snap, assim como o Flatpak<br>\n"
@@ -103,278 +130,283 @@ msgid ""
 "se o programa que você procura está disponível apenas neste<br>\n"
 "formato, utilize-o."
 msgstr ""
+"برامج Snap، تمامًا مثل Flatpak <br>\n"
+"يوفر برامج لجميع توزيعات Linux. <br>\n"
+"يميل إلى أن يكون أثقل وأقل اندماجًا في النظام، ولكن <br>\n"
+"إذا كان البرنامج الذي تبحث عنه متاحًا فقط على هذا <br>\n"
+"شكل، استخدمه."
 
 msgid "Aplicando - Aguarde"
-msgstr ""
+msgstr "تطبيق - الرجاء الانتظار"
 
 msgid "Procurar programa"
-msgstr ""
+msgstr "ابحث عن برنامج"
 
 msgid "Programas Nativos"
-msgstr ""
+msgstr "برامج أصلية"
 
 msgid "Programas AUR"
-msgstr ""
+msgstr "برامج أور"
 
 msgid "Programas Flatpak"
-msgstr ""
+msgstr "برامج فلاتباك"
 
 msgid "Programas Snap"
-msgstr ""
+msgstr "برامج سناب"
 
 msgid "Navegadores"
-msgstr ""
+msgstr "ملاحون"
 
 msgid "E-mail"
-msgstr ""
+msgstr "البريد الإلكتروني"
 
 msgid "Armazenamento nas nuvens"
-msgstr ""
+msgstr "تخزين سحابي"
 
 msgid "Download"
-msgstr ""
+msgstr "تنزيل"
 
 msgid "Compartilhadores e Torrent"
-msgstr ""
+msgstr "المساهمون والتورنت"
 
 msgid "Mensageiros e Conferências"
-msgstr ""
+msgstr "رسل ومؤتمرات"
 
 msgid "Acesso Remoto, FTP, SSH, VNC, RDP..."
-msgstr ""
+msgstr "الوصول البعيد، فتب، سش، فك، ردب..."
 
 msgid "Ferramentas de rede"
-msgstr ""
+msgstr "أدوات الشبكة"
 
 msgid "Suíte Office"
-msgstr ""
+msgstr "جناح أوفيس"
 
 msgid "Visualizadores de PDF, Epub, e-books e mais"
-msgstr ""
+msgstr "مشاهدو PDF و Epub والكتب الإلكترونية والمزيد"
 
 msgid "Editores de PDF"
-msgstr ""
+msgstr "محررو PDF"
 
 msgid "Agenda de tarefas e contatos"
-msgstr ""
+msgstr "جدول المهام والاتصال"
 
 msgid "Visualizadores de imagem"
-msgstr ""
+msgstr "مشاهدي الصور"
 
 msgid "Editores de imagem e ferramentas de desenho"
-msgstr ""
+msgstr "برامج تحرير الصور وأدوات الرسم"
 
 msgid "Captura de tela (Screenshot)"
-msgstr ""
+msgstr "لقطة شاشة (لقطة شاشة)"
 
 msgid "Converter, redimensionar ou compactar imagens"
-msgstr ""
+msgstr "تحويل الصور أو تغيير حجمها أو ضغطها"
 
 msgid "Edição 3D e CAD"
-msgstr ""
+msgstr "تحرير 3D و CAD"
 
 msgid "Reprodutores de áudio"
-msgstr ""
+msgstr "مشغلات الصوت"
 
 msgid "Rádio online"
-msgstr ""
+msgstr "راديو على الإنترنت"
 
 msgid "Gravadores e conversores de áudio"
-msgstr ""
+msgstr "مسجلات الصوت والمحولات"
 
 msgid "Editores de áudio"
-msgstr ""
+msgstr "محررات الصوت"
 
 msgid "Reprodutores de vídeo"
-msgstr ""
+msgstr "مشغلات الفيديو"
 
 msgid "Vídeo online, IPTV, Youtube..."
-msgstr ""
+msgstr "فيديو عبر الإنترنت، IPTV، يوتيوب..."
 
 msgid "Editores e compactadores de vídeo"
-msgstr ""
+msgstr "محررات الفيديو والضواغط"
 
 msgid "Gravadores e copiadores de CD e DVD"
-msgstr ""
+msgstr "شعلات وآلات نسخ CD و DVD"
 
 msgid "Webcam, gravação de tela e transmissão de vídeo"
-msgstr ""
+msgstr "كاميرا الويب وتسجيل الشاشة وتدفق الفيديو"
 
 msgid "Jogos"
-msgstr ""
+msgstr "ألعاب"
 
 msgid "Gerenciadores de jogos"
-msgstr ""
+msgstr "تصنيف: مدراء"
 
 msgid "Utilitários para jogos"
-msgstr ""
+msgstr "أدوات الألعاب"
 
 msgid "Emulador Retroarch"
-msgstr ""
+msgstr "محاكي ريتروارك"
 
 msgid "Emuladores"
-msgstr ""
+msgstr "المحاكيات"
 
 msgid "Criadores de jogos"
-msgstr ""
+msgstr "مبدعو الألعاب"
 
 msgid "Ação/Arcade"
-msgstr ""
+msgstr "أكشن/أركيد"
 
 msgid "Cartas"
-msgstr ""
+msgstr "بطاقات"
 
 msgid "Educacional"
-msgstr ""
+msgstr "تعليمية"
 
 msgid "Estratégia"
-msgstr ""
+msgstr "إستراتيجية"
 
 msgid "Puzzles"
-msgstr ""
+msgstr "الألغاز"
 
 msgid "Tabuleiro"
-msgstr ""
+msgstr "صينية"
 
 msgid "RPG"
-msgstr ""
+msgstr "RPG"
 
 msgid "Armazenamento e partições"
-msgstr ""
+msgstr "التخزين والأقسام"
 
 msgid "Fontes (Tipografia)"
-msgstr ""
+msgstr "الخطوط (الطباعة)"
 
 msgid "Java JRE"
-msgstr ""
+msgstr "جافا جي آر إي"
 
 msgid "Virtualização"
-msgstr ""
+msgstr "المحاكاة الافتراضية"
 
 msgid "Editores de código e IDE"
-msgstr ""
+msgstr "محررات التعليمات البرمجية و IDE"
 
 msgid "Banco de dados"
-msgstr ""
+msgstr "قاعدة البيانات"
 
 msgid "Servidores WEB"
-msgstr ""
+msgstr "خوادم الويب"
 
 msgid "Instalado na partição:"
-msgstr ""
+msgstr "مثبت على القسم:"
 
 msgid "Tamanho da partição:"
-msgstr ""
+msgstr "حجم القسم:"
 
 msgid "Espaço utilizado:"
-msgstr ""
+msgstr "المساحة المستخدمة:"
 
 msgid "Espaço livre:"
-msgstr ""
+msgstr "مساحة حرة:"
 
 msgid "Data que o sistema foi instalado:"
-msgstr ""
+msgstr "تاريخ تثبيت النظام:"
 
 msgid "Pacotes nativos e AUR"
-msgstr ""
+msgstr "حزم أصلية و AUR"
 
 msgid "Instalados:"
-msgstr ""
+msgstr "تم التثبيت:"
 
 msgid "Disponíveis:"
-msgstr ""
+msgstr "متاح:"
 
 msgid "Pacotes Flatpak"
-msgstr ""
+msgstr "باقات فلاتباك"
 
 msgid "Repositórios configurados:"
-msgstr ""
+msgstr "المستودعات التي تم تكوينها:"
 
 msgid "Pacotes Snap"
-msgstr ""
+msgstr "باقات سناب"
 
 msgid "Pacotes Snap Instalados clique no pacote para remover"
-msgstr ""
+msgstr "حزم Snap المثبتة انقر فوق الحزمة لإزالتها"
 
 msgid "Versão: "
-msgstr ""
+msgstr "الإصدار: "
 
 msgid "Pacote: "
-msgstr ""
+msgstr "الحزمة: "
 
 msgid "Não informada"
-msgstr ""
+msgstr "لم يتم إبلاغ"
 
 msgid "Atualizar"
-msgstr ""
+msgstr "تحديث"
 
 msgid "Versão instalada"
-msgstr ""
+msgstr "الإصدار المثبت"
 
 msgid "Versão disponível"
-msgstr ""
+msgstr "الإصدار المتاح"
 
 msgid "Versão"
-msgstr ""
+msgstr "الإصدار"
 
 msgid "Pacote .deb"
-msgstr ""
+msgstr "حزمة .deb"
 
 msgid ""
 "Esse programa está em formato .deb, que possui a melhor integração com o "
 "sistema."
-msgstr ""
+msgstr "هذا البرنامج بتنسيق.deb، والذي يحتوي على أفضل تكامل مع النظام."
 
 msgid "Dependências a instalar"
-msgstr ""
+msgstr "التبعيات المراد تثبيتها"
 
 msgid "Ver mais"
-msgstr ""
+msgstr "شاهد المزيد"
 
 msgid "Pacotes com dependências não atendidas: "
-msgstr ""
+msgstr "الحزم مع تبعيات غير ملباة "
 
 msgid "Depende de "
-msgstr ""
+msgstr "يعتمد ذلك على "
 
 msgid "mas não vai ser instalado."
-msgstr ""
+msgstr "ولكن لن يتم تثبيته."
 
 msgid "mas não está disponível"
-msgstr ""
+msgstr "لكنها غير متوفرة"
 
 msgid "Informações sobre programas nativos"
-msgstr ""
+msgstr "معلومات حول البرامج الأصلية"
 
 msgid "Pacote:"
-msgstr ""
+msgstr "الحزمة:"
 
 msgid "Versão disponível:"
-msgstr ""
+msgstr "الإصدار المتاح:"
 
 msgid "Repositório:"
-msgstr ""
+msgstr "المستودع:"
 
 msgid "Instalando"
-msgstr ""
+msgstr "تثبيت"
 
 msgid "Removendo"
-msgstr ""
+msgstr "إزالة"
 
 msgid "Informações sobre programas SNAP"
-msgstr ""
+msgstr "معلومات عن برامج SNAP"
 
 msgid "Programas SNAP"
-msgstr ""
+msgstr "برامج سناب"
 
 msgid "Versão disponivel:"
-msgstr ""
+msgstr "الإصدار المتاح:"
 
 msgid "Licença:"
-msgstr ""
+msgstr "الترخيص:"
 
 msgid "AUR"
-msgstr ""
+msgstr "أور"
 
 msgid "Empacotador:"
-msgstr ""
+msgstr "باكر:"

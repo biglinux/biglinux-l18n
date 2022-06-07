@@ -18,51 +18,53 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit"
 
 msgid "Configurações de texto para voz"
-msgstr ""
+msgstr "إعدادات تحويل النص إلى كلام"
 
 msgid "Vozes - Abrir BigStore"
-msgstr ""
+msgstr "أصوات - افتح BigStore"
 
 msgid "Voice Configuration"
-msgstr ""
+msgstr "تكوين الصوت"
 
 msgid "Configurar voz"
-msgstr ""
+msgstr "إعداد الصوت"
 
 msgid "Para falar um texto selecionado use o atalho "
-msgstr ""
+msgstr "للتحدث بنص محدد، استخدم الاختصار. "
 
 msgid "[Alt] + [V]"
-msgstr ""
+msgstr "[بديل] + [V]"
 
 msgid ""
 "ou o ícone na sessão Utilitários no menu do sistema. Para interromper a "
 "leitura use novamene o atalho ou ícone."
 msgstr ""
+"أو الرمز الموجود في قسم الأدوات المساعدة في قائمة النظام. لإيقاف القراءة، "
+"استخدم الاختصار أو الرمز مرة أخرى."
 
 msgid "Selecione as configurações de sua preferência"
-msgstr ""
+msgstr "حدد الإعدادات المفضلة لديك"
 
 msgid "Números maiores deixam a voz mais rápida, o padrão é: -25"
-msgstr ""
+msgstr "الأرقام الأعلى تجعل الصوت أسرع، الافتراضي هو: -25"
 
 msgid "Velocidade"
-msgstr ""
+msgstr "السرعة"
 
 msgid "Números maiores deixam a voz mais aguda, o padrão é: -25"
-msgstr ""
+msgstr "الأرقام الأعلى تجعل الصوت أعلى، الافتراضي هو: -25"
 
 msgid "Tom"
-msgstr ""
+msgstr "توم"
 
 msgid "O padrão é: 0."
-msgstr ""
+msgstr "الافتراضي هو: 0."
 
 msgid "Volume"
-msgstr ""
+msgstr "فولوم"
 
 msgid "As vozes são otimizadas para idiomas expecíficos."
-msgstr ""
+msgstr "تم تحسين الأصوات للغات محددة."
 
 msgid "Voz"
-msgstr ""
+msgstr "صوت"

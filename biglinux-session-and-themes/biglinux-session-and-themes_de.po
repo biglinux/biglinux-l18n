@@ -21,9 +21,13 @@ msgid ""
 "Configuração alterada, se estiver utilizando o navegador, reinicie-o para "
 "que a nova configuração seja aplicada."
 msgstr ""
+"Die Konfiguration wurde geändert. Wenn Sie den Browser verwenden, starten "
+"Sie ihn neu, damit die neue Konfiguration übernommen wird."
 
 msgid "Se estiver utilizando algum navegador, feche-o e abra novamente!"
 msgstr ""
+"Wenn Sie einen Browser verwenden, schließen Sie ihn und öffnen Sie ihn "
+"erneut!"
 
 msgid ""
 "\n"
@@ -32,6 +36,12 @@ msgid ""
 "\n"
 "Selecione não para utilizar a configuração padrão do sistema.\n"
 msgstr ""
+"\n"
+"Die ausgewählte Desktop-Konfiguration wurde bereits auf diesem System "
+"verwendet,\n"
+"möchten Sie die bereits verwendete Konfiguration wiederherstellen?\n"
+"\n"
+"Wählen Sie nein, um die Standard-Systemkonfiguration zu verwenden.\n"
 
 msgid ""
 "Configuração aplicada!\n"
@@ -40,130 +50,146 @@ msgid ""
 "para que a configuração termine de\n"
 "ser aplicada."
 msgstr ""
+"Konfiguration angewendet!\n"
+"\n"
+"Abmelden und erneut anmelden\n"
+"bis die Konfiguration abgeschlossen ist\n"
+"angewendet."
 
 msgid "Temas"
-msgstr ""
+msgstr "Themen"
 
 msgid "Desktop"
-msgstr ""
+msgstr "Schreibtisch"
 
 msgid "Ajustes"
-msgstr ""
+msgstr "Einstellungen"
 
 msgid "Temas, Desktop e Ajustes"
-msgstr ""
+msgstr "Themes, Desktop und Einstellungen"
 
 msgid "Desempenho do desktop"
-msgstr ""
+msgstr "Desktop-Leistung"
 
 msgid "Aceleração do navegador"
-msgstr ""
+msgstr "Browser-Beschleunigung"
 
 msgid "Usabilidade"
-msgstr ""
+msgstr "Benutzerfreundlichkeit"
 
 msgid "Tema dos aplicativos"
-msgstr ""
+msgstr "Thema der Anwendung"
 
 msgid "Bordas arredondadas."
-msgstr ""
+msgstr "Abgerundete Kanten."
 
 msgid ""
 "Esse tema possui transparências com efeitos que<br>podem tornar o sistema "
 "lento em computadores<br>antigos ou ambientes virtualizados."
 msgstr ""
+"Dieses Thema enthält Transparenzen mit Effekten, die<br>das System auf alten "
+"Computern<br>oder in virtualisierten Umgebungen verlangsamen können. "
 
 msgid "<b>Classic</b> e <b>New</b> têm melhor desempenho."
-msgstr ""
+msgstr "<b>Classic</b> und <b>New</b> haben eine bessere Leistung."
 
 msgid "Renderizar o desktop via software"
-msgstr ""
+msgstr "Rendering des Desktops per Software"
 
 msgid "(Pode ser útil em máquina virtual ou computadores antigos)"
-msgstr ""
+msgstr "(Kann auf virtuellen Maschinen oder alten Computern nützlich sein)"
 
 msgid "Escolher programas a serem carregados na memória durante boot"
 msgstr ""
+"Programme auswählen, die beim Booten in den Speicher geladen werden sollen"
 
 msgid ""
 "O Preload carrega arquivos dos programas na memória, para que iniciem "
 "rapidamente. O uso excessivo causa lentidão. Escolha a opção desejada:"
 msgstr ""
+"Preload lädt Programmdateien in den Speicher, damit sie schnell starten. "
+"Übermäßiger Gebrauch führt zu Verlangsamungen. Wählen Sie die gewünschte "
+"Option:"
 
 msgid "Automático"
-msgstr ""
+msgstr "Automatisch"
 
 msgid "Ativar"
-msgstr ""
+msgstr "Aktivieren Sie"
 
 msgid "Desativar"
-msgstr ""
+msgstr "Deaktivieren Sie"
 
 msgid "Configurações do Brave"
-msgstr ""
+msgstr "Mutige Konfigurationen"
 
 msgid "Escolha a opção desejada:"
-msgstr ""
+msgstr "Wählen Sie die gewünschte Option:"
 
 msgid "Remover propagandas"
-msgstr ""
+msgstr "Werbung entfernen"
 
 msgid "Suportar criptomoedas"
-msgstr ""
+msgstr "Unterstützung von Kryptowährungen"
 
 msgid "Botões da janela no lado esquerdo"
-msgstr ""
+msgstr "Fenstertasten auf der linken Seite"
 
 msgid "Rolagem do mouse invertida"
-msgstr ""
+msgstr "Umgekehrter Maus-Scroll"
 
 msgid "Pesquisar arquivos"
-msgstr ""
+msgstr "Archive durchsuchen"
 
 msgid "Bloquear a área de trabalho"
-msgstr ""
+msgstr "Sperren des Desktops"
 
 msgid "Tema aplicado"
-msgstr ""
+msgstr "Angewandtes Thema"
 
 msgid ""
 "É preciso reiniciar a sessão para concluir a configuração. Deseja fazer "
 "agora?"
 msgstr ""
+"Sie müssen erneut angemeldet sein, um die Konfiguration abzuschließen. "
+"Wollen Sie es jetzt tun?"
 
 msgid "Configuração do Desktop"
-msgstr ""
+msgstr "Desktop-Konfiguration"
 
 msgid ""
 "Você já utilizou esse desktop antes, deseja  restaurar sua personalização ou "
 "utilizar a configuração original?"
 msgstr ""
+"Haben Sie diesen Desktop schon einmal verwendet, möchten Sie seine Anpassung "
+"wiederherstellen oder die ursprüngliche Konfiguration verwenden?"
 
 msgid "Sim"
-msgstr ""
+msgstr "Ja"
 
 msgid "Não"
-msgstr ""
+msgstr "Nein"
 
 msgid "Original"
-msgstr ""
+msgstr "Original"
 
 msgid "Restaurar"
-msgstr ""
+msgstr "Wiederherstellen"
 
 msgid "Desktop aplicado"
-msgstr ""
+msgstr "Desktop angewendet"
 
 msgid ""
 "Utilizando renderização por software, a qualidade das transparências está "
 "reduzida."
 msgstr ""
+"Beim Software-Rendering wird die Qualität der Transparenzen reduziert."
 
 msgid "Desempenho em modo normal!"
-msgstr ""
+msgstr "Leistung im normalen Modus!"
 
 msgid "Desempenho em modo otimizado!"
-msgstr ""
+msgstr "Leistung im erweiterten Modus!"
 
 msgid "Desempenho em modo performance!"
-msgstr ""
+msgstr "Leistung im Leistungsmodus!"

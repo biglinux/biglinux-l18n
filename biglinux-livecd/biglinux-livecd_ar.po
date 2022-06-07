@@ -18,31 +18,32 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit"
 
 msgid "Desempenho"
-msgstr ""
+msgstr "الأداء"
 
 msgid "Tema"
-msgstr ""
+msgstr "موضوع"
 
 msgid ""
 "Renderizar o desktop via software<br><small>(Pode ser útil em máquina "
 "virtual)"
 msgstr ""
+"عرض سطح المكتب عبر البرنامج <br><small>(يمكن أن يكون مفيدًا في جهاز ظاهري)"
 
 msgid ""
 "Utilizar GPU nos navegadores<br><small>(Desative no caso de distorção no "
 "vídeo)"
-msgstr ""
+msgstr "استخدم GPU في المتصفحات <br><small>(تعطيل في حالة تشويه الفيديو)"
 
 msgid "Escolha o desktop:"
-msgstr ""
+msgstr "اختر سطح المكتب:"
 
 msgid "Escolha o modelo do teclado:"
-msgstr ""
+msgstr "اختر طراز لوحة المفاتيح:"
 
 msgid "Escolha o tema dos aplicativos:"
-msgstr ""
+msgstr "اختر موضوع التطبيقات:"
 
 msgid ""
 "Utilizando renderização por software, a qualidade das transparências será "
 "reduzida."
-msgstr ""
+msgstr "باستخدام عرض البرامج، سيتم تقليل جودة الورق الشفاف."

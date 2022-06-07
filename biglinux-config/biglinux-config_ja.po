@@ -20,73 +20,78 @@ msgstr ""
 msgid ""
 "Restaurar&nbsp;o&nbsp;programa&nbsp;como&nbsp;modo&nbsp;padrão&nbsp;ou&nbsp;distribuição&nbsp;BigLinux."
 ""
-msgstr ""
+msgstr "標準モードまたはBigLinuxディストリビューションとしてプログラムを復元します。"
 
 msgid "Restaurar&nbsp;o&nbsp;programa&nbsp;como&nbsp;modo&nbsp;padrão."
-msgstr ""
+msgstr "プログラムをデフォルトモードに戻す。"
 
 msgid ""
 "Músicas-(Clementine) clementine.sh Multimedia clementine.png clementine skel "
 "$COMMENT_skel"
 msgstr ""
+"音楽-(Clementine) clementine.sh Multimedia clementine.png clementine skel "
+"$COMMENT_skel"
 
 msgid ""
 "Gravador-de-Tela-(vokoscreenNG) vokoscreen.sh Multimedia vokoscreen.png "
 "vokoscreenNG  $COMMENT_normal"
 msgstr ""
+"スクリーンレコーダー-(vokoscreenNG) vokoscreen.sh マルチメディア vokoscreen.png vokoscreenNG "
+"$COMMENT_normal"
 
 msgid ""
 "Vídeos-(Smplayer) smplayer.sh Multimedia smplayer.png smplayer skel "
 "$COMMENT_skel"
 msgstr ""
+"動画-(Smplayer) smplayer.sh マルチメディア smplayer.png smplayer skel $COMMENT_skel"
 
 msgid "Restaurar no modo padrão da distribuição"
-msgstr ""
+msgstr "デフォルトの配信モードに戻す"
 
 msgid "Essa opção restaura o programa com o padrão do BigLinux."
-msgstr ""
+msgstr "このオプションは、プログラムをBigLinuxのデフォルトに戻すものです。"
 
 msgid "Restaurar no modo padrão do programa"
-msgstr ""
+msgstr "標準プログラムモードでのリストア"
 
 msgid "Essa opção restaura o programa com o padrão do desenvolvedor."
-msgstr ""
+msgstr "このオプションは、プログラムを開発者用のデフォルトに戻します。"
 
 msgid "Restaurar as configurações do programa:"
-msgstr ""
+msgstr "プログラム設定を元に戻す。"
 
 msgid "Principal"
-msgstr ""
+msgstr "メイン"
 
 msgid "Internet"
-msgstr ""
+msgstr "インターネット"
 
 msgid "Multimídia"
-msgstr ""
+msgstr "マルチメディア"
 
 msgid "Escritório"
-msgstr ""
+msgstr "オフィス"
 
 msgid "Pesquisar Restaurar"
-msgstr ""
+msgstr "検索リストア"
 
 msgid "Restaurar Configurações"
-msgstr ""
+msgstr "設定の復元"
 
 msgid ""
 "Atenção! O programa está aberto!\\nEle será fechado para que a restauração "
 "tenha efeito."
-msgstr ""
+msgstr "注意!プログラムはオープンです！復旧の効果が出るまでクローズとなります。"
 
 msgid "As configurações foram restauradas com sucesso!"
-msgstr ""
+msgstr "設定の復元に成功しました"
 
 msgid ""
 "Você tem certeza que deseja restaurar todas as configurações do KDE/"
 "Plasma?\\nIsso apagará todas as configurações definidas por $USER!"
-msgstr ""
+msgstr "KDE/Plasmaの設定を全て復元してよろしいですか？ \\USERで設定した設定を全て消去します！(笑)"
 
 msgid ""
 "As configurações foram restauradas com sucesso!\\nÉ necessário fazer logoff/"
 "login para concluir a restauração!"
-msgstr ""
+msgstr "設定の復元に成功しました！復元を完了するには、ログオフ/ログオンする必要があります。"

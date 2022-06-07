@@ -18,31 +18,31 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit"
 
 msgid "Desempenho"
-msgstr ""
+msgstr "パフォーマンス"
 
 msgid "Tema"
-msgstr ""
+msgstr "テーマ"
 
 msgid ""
 "Renderizar o desktop via software<br><small>(Pode ser útil em máquina "
 "virtual)"
-msgstr ""
+msgstr "ソフトウェアによるデスクトップのレンダリング<br><small>(仮想マシンで有効)"
 
 msgid ""
 "Utilizar GPU nos navegadores<br><small>(Desative no caso de distorção no "
 "vídeo)"
-msgstr ""
+msgstr "ブラウザでGPUを利用する<br><small>(映像の乱れがある場合は無効となります）"
 
 msgid "Escolha o desktop:"
-msgstr ""
+msgstr "デスクトップを選択します。"
 
 msgid "Escolha o modelo do teclado:"
-msgstr ""
+msgstr "キーボードの機種を選んでください。"
 
 msgid "Escolha o tema dos aplicativos:"
-msgstr ""
+msgstr "アプリケーションのテーマを選択します。"
 
 msgid ""
 "Utilizando renderização por software, a qualidade das transparências será "
 "reduzida."
-msgstr ""
+msgstr "ソフトウェアレンダリングを使用すると、透明度の高い画像は品質が低下します。"

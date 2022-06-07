@@ -18,51 +18,52 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit"
 
 msgid "Configurações de texto para voz"
-msgstr ""
+msgstr "音声合成の設定"
 
 msgid "Vozes - Abrir BigStore"
-msgstr ""
+msgstr "声 - Open BigStore"
 
 msgid "Voice Configuration"
-msgstr ""
+msgstr "ボイスコンフィグレーション"
 
 msgid "Configurar voz"
-msgstr ""
+msgstr "音声を設定する"
 
 msgid "Para falar um texto selecionado use o atalho "
-msgstr ""
+msgstr "選択したテキストを話すには、ショートカット "
 
 msgid "[Alt] + [V]"
-msgstr ""
+msgstr "[Alt] + [V］"
 
 msgid ""
 "ou o ícone na sessão Utilitários no menu do sistema. Para interromper a "
 "leitura use novamene o atalho ou ícone."
 msgstr ""
+"またはシステムメニューの「ユーティリティ」セクションのアイコンをクリックします。読み上げを中止する場合は、もう一度ショートカットやアイコンを使ってください。"
 
 msgid "Selecione as configurações de sua preferência"
-msgstr ""
+msgstr "お好みの設定を選択"
 
 msgid "Números maiores deixam a voz mais rápida, o padrão é: -25"
-msgstr ""
+msgstr "数字を大きくすると音声が速くなり、デフォルトは-25"
 
 msgid "Velocidade"
-msgstr ""
+msgstr "スピード"
 
 msgid "Números maiores deixam a voz mais aguda, o padrão é: -25"
-msgstr ""
+msgstr "数字が大きいほど声が高くなる、標準は：-25"
 
 msgid "Tom"
-msgstr ""
+msgstr "トム"
 
 msgid "O padrão é: 0."
-msgstr ""
+msgstr "デフォルトは：0。"
 
 msgid "Volume"
-msgstr ""
+msgstr "ボリューム"
 
 msgid "As vozes são otimizadas para idiomas expecíficos."
-msgstr ""
+msgstr "音声は特定の言語に最適化されています。"
 
 msgid "Voz"
-msgstr ""
+msgstr "音声"

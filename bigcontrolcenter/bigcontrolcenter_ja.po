@@ -18,10 +18,10 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit"
 
 msgid "Iniciando no BigLinux"
-msgstr ""
+msgstr "BigLinuxの起動"
 
 msgid "Central de Controle"
-msgstr ""
+msgstr "コントロールセンター"
 
 msgid ""
 "A webcam já está sendo utilizada pelo programa: $WEBCAM_BUSY\n"
@@ -30,152 +30,162 @@ msgid ""
 "As alterações feitas podem ser vistas\n"
 "na imagem da sua webcam em outros programas."
 msgstr ""
+"ウェブカメラはすでにプログラムによって使用されています： $WEBCAM_BUSY\n"
+"\n"
+"コンフィギュレーションモードで開いてみる。\n"
+"変更点を確認することができます。\n"
+"を、他のプログラムでウェブカメラの画像に変換することができます。"
 
 msgid "Category"
-msgstr ""
+msgstr "カテゴリー"
 
 msgid "Name"
-msgstr ""
+msgstr "名称"
 
 msgid ""
 "O relatório foi salvo no arquivo $FILE_TO_SAVE\n"
 "\n"
 "Deseja visualizar o relatório agora?\n"
 msgstr ""
+"レポートはファイル $FILE_TO_SAVE に保存されました。\n"
+"\n"
+"今すぐレポートをご覧になりますか？\n"
 
 msgid "Visualizar o relatório"
-msgstr ""
+msgstr "レポートを見る"
 
 msgid "Hardinfo Relatory"
-msgstr ""
+msgstr "Hardinfo関連"
 
 msgid "Bem vindo ao BigLinux"
-msgstr ""
+msgstr "BigLinuxへようこそ"
 
 msgid "Comece com algumas etapas simples."
-msgstr ""
+msgstr "まずは簡単なところから始めてみてください。"
 
 msgid "Mostrar na inicialização"
-msgstr ""
+msgstr "起動時に表示する"
 
 msgid "Olá"
-msgstr ""
+msgstr "こんにちは"
 
 msgid "Ajustes iniciais"
-msgstr ""
+msgstr "初期調整"
 
 msgid ""
 "Disponiblizamos configurações completas para você selecionar de forma "
 "extremamente simples."
-msgstr ""
+msgstr "お客様にシンプルにお選びいただけるよう、完全なコンフィギュレーションを提供します。"
 
 msgid "Escolha seu navegador padrão"
-msgstr ""
+msgstr "デフォルトのブラウザを選択する"
 
 msgid "Defina seus programas padrões."
-msgstr ""
+msgstr "デフォルトの番組を設定する。"
 
 msgid "Outros navegadores"
-msgstr ""
+msgstr "その他のブラウザー"
 
 msgid "KDE Connect"
-msgstr ""
+msgstr "KDEコネクト"
 
 msgid ""
 "O KDE Connect é um aplicativo que facilita as comunicações sem fio e a "
 "transferência de dados entre dispositivos em redes locais. Disponível na "
 "Google Play Store para Android e Apple Store para iPhone."
 msgstr ""
+"KDE Connectは、ローカルネットワーク上のデバイス間の無線通信とデータ転送を容易にするアプリケーションです。AndroidはGoogle "
+"Playストア、iPhoneはApple Storeから入手可能です。"
 
 msgid "Instalação de Driver e Informações de Hardware"
-msgstr ""
+msgstr "ドライバのインストールとハードウェアの情報"
 
 msgid "Instalar ou Remover Drivers e Firmwares de forma simples."
-msgstr ""
+msgstr "ドライバやファームウェアのインストールや削除が簡単にできます。"
 
 msgid "Impressoras"
-msgstr ""
+msgstr "プリンター"
 
 msgid "Conheça alguns recursos"
-msgstr ""
+msgstr "リソースを知る"
 
 msgid ""
 "Nosso sistema é colaborativo, venha fazer parte dessa evolução. Confira as "
 "novidades!"
-msgstr ""
+msgstr "私たちのシステムは共同作業です。この進化の一部になりませんか。ニュースをチェック!"
 
 msgid "Big Store"
-msgstr ""
+msgstr "ビッグストア"
 
 msgid "Web Apps"
-msgstr ""
+msgstr "ウェブアプリ"
 
 msgid "Redutor de Ruídos"
-msgstr ""
+msgstr "ノイズリデューサ"
 
 msgid "Configurar a voz do sistema (TTS)"
-msgstr ""
+msgstr "システムボイス（TTS）を設定する"
 
 msgid "OCR para PDF"
-msgstr ""
+msgstr "PDF用OCR"
 
 msgid "Doação e Redes sociais"
-msgstr ""
+msgstr "寄付とソーシャルネットワーク"
 
 msgid "Sua doação é muito importante para o projeto e siga as redes sociais."
-msgstr ""
+msgstr "あなたの寄付は、プロジェクトにとって非常に重要であり、ソーシャルネットワークをフォローします。"
 
 msgid "Doação"
-msgstr ""
+msgstr "寄付金"
 
 msgid "Fórum"
-msgstr ""
+msgstr "フォーラム"
 
 msgid "YouTube"
-msgstr ""
+msgstr "ユーチューブ"
 
 msgid "Twitter"
-msgstr ""
+msgstr "ツイッター"
 
 msgid "Telegram"
-msgstr ""
+msgstr "テレグラム"
 
 msgid "Instagram"
-msgstr ""
+msgstr "インスタグラム"
 
 msgid "Facebook"
-msgstr ""
+msgstr "フェイスブック"
 
 msgid "Parabéns, você concluiu os primeiros passo para utilizar o BigLinux."
-msgstr ""
+msgstr "おめでとうございます。BigLinuxを使用するための最初のステップが完了しました。"
 
 msgid "Integração com Google Drive e ownCloud"
-msgstr ""
+msgstr "Google Drive、ownCloudとの連携"
 
 msgid ""
 "Acesse seus arquivos que estão no Google Drive ou ownCloud diretamente no "
 "gerenciador de arquivos."
-msgstr ""
+msgstr "Google DriveやownCloudにあるファイルに、ファイルマネージャーから直接アクセスできます。"
 
 msgid "Qt Assistant"
-msgstr ""
+msgstr "Qtアシスタント"
 
 msgid "Programas de desenvolvimento para QT."
-msgstr ""
+msgstr "QTの開発プログラム。"
 
 msgid ""
 "Configurações de uso dos antigos CDs de música, não são válidas para músicas "
 "em MP3."
-msgstr ""
+msgstr "旧来の音楽CDの使用設定は、MP3音楽では無効です。"
 
 msgid "Procurar servidores (zeroconf)"
-msgstr ""
+msgstr "サーチサーバ(zeroconf)"
 
 msgid "Instalar ou remover programas."
-msgstr ""
+msgstr "プログラムをインストールまたは削除する。"
 
 msgid "Restaurar a configuração de programas"
-msgstr ""
+msgstr "プログラムコンフィギュレーションを復元する"
 
 msgid ""
 "Utilitário que facilita a restauração do sistema instalado,\n"
@@ -186,127 +196,135 @@ msgid ""
 "<br>\n"
 "de pacotes e o terminal do sistema instalado."
 msgstr ""
+"インストールしたシステムの復元を容易にするユーティリティ。\n"
+"<br>\n"
+"主にシステムブート(Grub)の復元。\n"
+"<br><br>\n"
+"また、マネージャーへのアクセスにも使用できます\n"
+"<br>\n"
+"マネージャーと、インストールされたシステムの端末になります。"
 
 msgid "Temas do Bootsplash"
-msgstr ""
+msgstr "Bootsplashテーマ"
 
 msgid "Procurar servidores SSH"
-msgstr ""
+msgstr "SSHサーバーをブラウズする"
 
 msgid "Procurar servidores VNC"
-msgstr ""
+msgstr "VNCサーバーの検索"
 
 msgid "Configurar este tema de borda de janelas"
-msgstr ""
+msgstr "このウィンドウズ ボーダー テーマを設定する"
 
 msgid "Configurar este tema de janelas."
-msgstr ""
+msgstr "このウィンドウテーマを設定します。"
 
 msgid "Qt Designer"
-msgstr ""
+msgstr "Qt デザイナー"
 
 msgid "Gerenciador de áudio avançado - Alsamixer"
-msgstr ""
+msgstr "アドバンストオーディオマネージャー - Alsamixer"
 
 msgid "Controlador de áudio em caso de ausência som."
-msgstr ""
+msgstr "音が出ない時のオーディオコントローラー"
 
 msgid "Particionar ou formatar"
-msgstr ""
+msgstr "パーティションまたはフォーマット"
 
 msgid "Cuidado, este programa poderá apagar todos os dados do computador."
-msgstr ""
+msgstr "このプログラムを使用すると、コンピューター上のすべてのデータが消去される可能性がありますので、ご注意ください。"
 
 msgid "Informações de armazenamento (SMART)"
-msgstr ""
+msgstr "ストレージ情報（SMART）"
 
 msgid "Firewall"
-msgstr ""
+msgstr "ファイアウォール"
 
 msgid "Configurar regras de segurança para a conexão com a internet."
-msgstr ""
+msgstr "インターネット接続のセキュリティルールを設定する。"
 
 msgid "Configurar webcam ou placa de captura"
-msgstr ""
+msgstr "ウェブカメラまたはキャプチャカードをセットアップする"
 
 msgid "Scanners HP"
-msgstr ""
+msgstr "HPスキャナ"
 
 msgid "Impressoras HP"
-msgstr ""
+msgstr "HPプリンター"
 
 msgid "Verificar o status, nível de tinta e manutenção."
-msgstr ""
+msgstr "状態、インク残量、メンテナンスの確認。"
 
 msgid "Montar Hardware Apple"
-msgstr ""
+msgstr "アップルのハードウェアを組み立てる"
 
 msgid ""
 "Com esse programa você pode acessar os programas do seu iPhone ou iPad Apple "
 "de forma similar ao acesso de arquivos em um pendrive."
 msgstr ""
+"このプログラムを使えば、USBメモリ内のファイルにアクセスするのと同じように、Apple社のiPhoneやiPad内のプログラムにアクセスすることができます。"
 
 msgid "Áreas de trabalho virtuais e atividades"
-msgstr ""
+msgstr "仮想ワークスペースとアクティビティ"
 
 msgid "Crie mais de uma área de trabalho vitual alternando entre elas."
-msgstr ""
+msgstr "仮想デスクトップを切り替えて複数作成する。"
 
 msgid ""
 "Ativar a pesquisa aumenta o consumo de memória e processamento do sistema."
-msgstr ""
+msgstr "検索を有効にすると、システムのメモリと処理の消費量が増加します。"
 
 msgid "Ajuste a data, hora e fuso horário."
-msgstr ""
+msgstr "日付、時刻、タイムゾーンを設定する。"
 
 msgid "Tema da Área de Trabalho"
-msgstr ""
+msgstr "ワークスペースのテーマ"
 
 msgid "Ícones e emoticons"
-msgstr ""
+msgstr "アイコンと顔文字"
 
 msgid "Joystick"
-msgstr ""
+msgstr "ジョイスティック"
 
 msgid "Configurações de layout, teclas de atalho e outras opções."
-msgstr ""
+msgstr "レイアウト設定、ショートカットキー、その他オプション。"
 
 msgid "Gerenciar conexões"
-msgstr ""
+msgstr "コネクションの管理"
 
 msgid ""
 "Configuração avançada de rede (VPN, wifi, cabeada, IP fixo, PPPoE, ADSL, "
 "rede com fio, banda larga móvel e outros)."
-msgstr ""
+msgstr "高度なネットワーク設定（VPN、wifi、有線、固定IP、PPPoE、ADSL、有線ネットワーク、モバイルブロードバンドなど）。"
 
 msgid "Instalar, configurar ou remover impressoras."
-msgstr ""
+msgstr "プリンターの設置、設定、削除を行う。"
 
 msgid "Configurar o tema Kvantum"
-msgstr ""
+msgstr "Kvantum テーマを設定する"
 
 msgid ""
 "Para a configuração do Kvantum funcionar, aplique o tema Kvantum em 'Estilo "
 "do aplicativo'."
-msgstr ""
+msgstr "Kvantumの設定を動作させるには、「アプリケーションスタイル」でKvantumのテーマを適用します。"
 
 msgid "Carteira de senhas do KDE"
-msgstr ""
+msgstr "KDEパスワードウォレット"
 
 msgid "Qt Linguist"
-msgstr ""
+msgstr "Qt言語学者"
 
 msgid "Gerenciador de usuários"
-msgstr ""
+msgstr "ユーザーマネージャー"
 
 msgid "Adiciona, remove ou edita usuários e grupos do sistema."
-msgstr ""
+msgstr "システムユーザーおよびグループの追加、削除、編集。"
 
 msgid "Gerenciar arquivos"
-msgstr ""
+msgstr "ファイルの管理"
 
 msgid "Tenha acesso a seus arquivos e pastas."
-msgstr ""
+msgstr "ファイルやフォルダーにアクセスする"
 
 msgid ""
 "Esse programa pode transferir arquivos entre smartphones, tablets e outros "
@@ -317,92 +335,97 @@ msgid ""
 "Google Store em seu telefone e instale o Kde Connect.  Esse aplicativo não "
 "está disponível para iPhone."
 msgstr ""
+"スマートフォン、タブレット、その他のパソコン間でファイルを転送できるプログラムです。  "
+"これを使えば、例えば、スマートフォンをマウスやワイヤレスキーボードとして使ってパソコンを操作できるなどの機能があります。  "
+"これは、BigLinuxとよりよく統合され、システムクロックの近くにあるアプレットの中に入っています。  "
+"スマートフォンと同期するには、スマートフォンのGoogle Storeにアクセスし、Kde Connectをインストールしてください。  "
+"このアプリはiPhoneではご利用になれません。"
 
 msgid "Terminal"
-msgstr ""
+msgstr "ターミナル"
 
 msgid "Acesse o terminal de comandos."
-msgstr ""
+msgstr "コマンドターミナルにアクセスします。"
 
 msgid "Gerenciar senhas salvas"
-msgstr ""
+msgstr "保存されたパスワードの管理"
 
 msgid "Som e microfone"
-msgstr ""
+msgstr "サウンドとマイク"
 
 msgid ""
 "Configurar ou alterar dispositivos de entrada e saída de áudio. (Ex: HDMI)"
-msgstr ""
+msgstr "音声入出力デバイスの設定・変更 (例：HDMI)"
 
 msgid "Qt QDBusViewer "
-msgstr ""
+msgstr "Qt QDBusViewer "
 
 msgid "Centro de controle do KDE"
-msgstr ""
+msgstr "KDEコントロールセンター"
 
 msgid "Configurador avançado de energia"
-msgstr ""
+msgstr "アドバンスト・パワー・コンフィギュレーター"
 
 msgid "Aparência"
-msgstr ""
+msgstr "外観"
 
 msgid "Dispositivos"
-msgstr ""
+msgstr "デバイス"
 
 msgid "Personalizar"
-msgstr ""
+msgstr "カスタマイズ"
 
 msgid "Telefone"
-msgstr ""
+msgstr "電話番号"
 
 msgid "Rede e Internet"
-msgstr ""
+msgstr "ネットワークとインターネット"
 
 msgid "Contas"
-msgstr ""
+msgstr "決算情報"
 
 msgid "Região e Idioma"
-msgstr ""
+msgstr "地域と言語"
 
 msgid "Privacidade"
-msgstr ""
+msgstr "プライバシー"
 
 msgid "Servidor"
-msgstr ""
+msgstr "サーバー"
 
 msgid "Desenvolvimento"
-msgstr ""
+msgstr "開発"
 
 msgid "Sobre"
-msgstr ""
+msgstr "について"
 
 msgid "Pesquisar..."
-msgstr ""
+msgstr "検索..."
 
 msgid "Temas, desktop e ajustes"
-msgstr ""
+msgstr "テーマ、デスクトップ、設定"
 
 msgid "Informações do sistema e hardware"
-msgstr ""
+msgstr "システム・ハードウェア情報"
 
 msgid ""
 "Além de visualizar as informações é possível salvar em um arquivo e "
 "compartilhar na internet."
-msgstr ""
+msgstr "閲覧だけでなく、ファイルへの保存やインターネット上での共有も可能です。"
 
 msgid "Conectar à internet"
-msgstr ""
+msgstr "インターネットに接続する"
 
 msgid "Conecte na internet por cabo de rede ou wifi."
-msgstr ""
+msgstr "ネットワークケーブルまたは無線LANでインターネットに接続する。"
 
 msgid "Conectar à internet utilizando o Android"
-msgstr ""
+msgstr "Androidでインターネットに接続する"
 
 msgid ""
 "Você pode utilizar seu smartphone ou tablet Android como um dispositivo wifi "
 "usb para seu computador."
-msgstr ""
+msgstr "Androidスマートフォンやタブレットをパソコンのwifi usbデバイスとして使用することができます。"
 
 msgid ""
 "Como utilizar a internet do seu tablet ou  smartphone Android:\n"
@@ -423,38 +446,51 @@ msgid ""
 "*Caso esteja utilizando o dados móveis, será consumido do seu plano de dados."
 ""
 msgstr ""
+"Androidタブレットやスマートフォンからインターネットを利用する方法。\n"
+"<br><br>\n"
+"1.コンピュータのUSBポートにデバイスを差し込む。\n"
+"<br>\n"
+"2.Android端末の「設定」から「USBボンディング」、「USBテザリング」、「USBテザリング」のいずれかのオプションを探します。\n"
+"<br>\n"
+"これらは、同じ機能でも各メーカーで異なる方法です。\n"
+"<br><br>\n"
+"*これらのオプションは、「ネットワークとインターネット」または「接続と共有」セクションの中にあります。\n"
+"<br><br>\n"
+"アクティベートすることで自動的に接続され、Android端末と同じ回線を使用することになります。\n"
+"<br>\n"
+"*モバイルデータを使用する場合は、データ通信プランから消費されます。"
 
 msgid "Visualizar informações do sistema e hardware"
-msgstr ""
+msgstr "システムおよびハードウェアの情報を表示する"
 
 msgid ""
 "Também cria um arquivo com informações, que você pode enviar a outras "
 "pessoas para que o ajudem com o suporte."
-msgstr ""
+msgstr "また、情報をまとめたファイルを作成し、他の人に送ることで、サポートに役立てることができます。"
 
 msgid "Adicionar ou Remover Usuários"
-msgstr ""
+msgstr "ユーザーの追加と削除"
 
 msgid "Criar, remover e gerenciar contas e grupos de usuários."
-msgstr ""
+msgstr "ユーザーアカウントやグループの作成、削除、管理。"
 
 msgid "Economia de energia"
-msgstr ""
+msgstr "省エネ"
 
 msgid "Monitores e Telas"
-msgstr ""
+msgstr "モニター・スクリーン"
 
 msgid "Configurar resolução, cor, frequência, dpi, escala, cor noturna, etc."
-msgstr ""
+msgstr "解像度、色、周波数、dpi、スケール、ナイトカラーなどを設定する。"
 
 msgid "Resetar as configurações da tela"
-msgstr ""
+msgstr "画面設定のリセット"
 
 msgid "Restaurar a configuração padrão do monitor."
-msgstr ""
+msgstr "デフォルトのモニター設定に戻す。"
 
 msgid "Airmore"
-msgstr ""
+msgstr "エアモア"
 
 msgid ""
 "Instale o aplicativo Airmore na loja de aplicativos do seu smartphone.  "
@@ -464,9 +500,13 @@ msgid ""
 "também pode utilizar nosso gerenciador de Web apps para facilitar o uso "
 "desse site."
 msgstr ""
+"スマートフォンのアプリショップから、Airmoreアプリをインストールする。  "
+"このボタンを押すと、そのパソコンでAirmoreのホームページが開きます。  "
+"パソコンの画面に表示されるQRコードをスマートフォンのアプリで読み取ると、ファイル転送などにアクセスできるようになります。  "
+"また、Webアプリマネージャーを利用することで、より簡単にこのサイトを利用することができます。"
 
 msgid "Airdroid"
-msgstr ""
+msgstr "エアードロイド"
 
 msgid ""
 "Instale o aplicativo Airdroid na loja de aplicativos do seu smartphone.  "
@@ -476,49 +516,53 @@ msgid ""
 "também pode utilizar nosso gerenciador de Web apps para facilitar o uso "
 "desse site."
 msgstr ""
+"スマートフォンのアプリショップから、Airdroidアプリをインストールします。  "
+"このボタンを押すと、そのコンピューターでAirdroidのウェブサイトが開きます。  "
+"パソコンの画面に表示されるQRコードをスマートフォンのアプリで読み取ると、ファイル転送などにアクセスできるようになります。  "
+"また、Webアプリマネージャーを利用することで、より簡単にこのサイトを利用することができます。"
 
 msgid "Suporte a aplicativos Android"
-msgstr ""
+msgstr "Androidアプリケーション対応"
 
 msgid ""
 "Utilizando Waydroid abra programas de Android no BigLinux. *Este recurso "
 "ainda está em fase experimental."
-msgstr ""
+msgstr "Waydroidを使って、BigLinux上でAndroidのプログラムを開く。 *この機能はまだ実験段階です。"
 
 msgid "Instalar drivers e firmwares"
-msgstr ""
+msgstr "ドライバとファームウェアのインストール"
 
 msgid "Snapshots e backups"
-msgstr ""
+msgstr "スナップショット、バックアップ"
 
 msgid "Gerenciar pontos de restauração."
-msgstr ""
+msgstr "復元ポイントを管理する。"
 
 msgid ""
 "A partição que o sistema foi instalado não possui pontos de restauração, mas "
 "é possível fazer backups utilizando o método rsync."
-msgstr ""
+msgstr "システムをインストールしたパーティションには復元ポイントがありませんが、rsync方式でバックアップを取ることは可能です。"
 
 msgid ""
 "Sistema em modo live. Restaure pontos de restauração do sistema instalado."
-msgstr ""
+msgstr "ライブモードでのシステム。インストールされているシステムの復元ポイントを復元する。"
 
 msgid ""
 "Selecione o texto desejado e utilize o atalho com a tecla [Meta] + V ou o "
 "ícone no menu do sistema para que textos escritos sejam falados."
-msgstr ""
+msgstr "書きたい文章を選択し、［Meta］＋［V］キーまたはシステムメニューのアイコンでショートカットすると、書いた文章が読み上げられます。"
 
 msgid "Instalar versões de kernel"
-msgstr ""
+msgstr "カーネルバージョンのインストール"
 
 msgid "Regras de segurança do Java"
-msgstr ""
+msgstr "Java安全規則"
 
 msgid "OpenJDK Java 8 Policy Tool"
-msgstr ""
+msgstr "OpenJDK Java 8 ポリシーツール"
 
 msgid "Snapdrop (Não precisa de aplicativo)"
-msgstr ""
+msgstr "Snapdrop（アプリ不要）"
 
 msgid ""
 "Basta abrir o site https://snapdrop.net nos Hardware que você quer "
@@ -529,71 +573,79 @@ msgid ""
 "smartphone para outro.  Você também pode utilizar nosso gerenciador de Web "
 "apps para facilitar o uso desse site."
 msgstr ""
+"ファイルを転送したいハードウェアのウェブサイト https://snapdrop.net "
+"を開くだけで、自動的にそれらが検出され、必要なファイルを送信することができます。  "
+"このボタンを押すと、そのパソコンでSnapdropのウェブサイトが開きます。  "
+"Snapdropは、スマートフォンから他のスマートフォンへ直接ファイルを転送するなど、あらゆるスマートフォンやパソコンで利用することができます。  "
+"また、Webアプリマネージャーを利用することで、このウェブサイトを簡単に利用することができます。"
 
 msgid "Introdução"
-msgstr ""
+msgstr "はじめに"
 
 msgid "Introdução ao BigLinux."
-msgstr ""
+msgstr "BigLinuxの紹介です。"
 
 msgid "As configurações da tela foram resetadas."
-msgstr ""
+msgstr "画面の設定がリセットされました。"
 
 msgid "Configurações da tela"
-msgstr ""
+msgstr "画面設定"
 
 msgid "Maximizado"
-msgstr ""
+msgstr "最大化"
 
 msgid "Waydroid"
-msgstr ""
+msgstr "ウェイドロイド"
 
 msgid ""
 "Utilize programas para Android no seu computador, está em fase experimental, "
 "alguns programas podem não funcionar.<br>"
-msgstr ""
+msgstr "Androidのプログラムをコンピュータで使用する場合、実験段階であり、一部のプログラムは動作しない可能性があります。<br>"
 
 msgid ""
 "Com o Wayland instalado é possível abrir programas no formato .apk, abra "
 "pelo gerenciador de arquivos do BigLinux.<br>"
-msgstr ""
+msgstr "Waylandをインストールすると、.apk形式のプログラムをBigLinuxのファイルマネージャーから開くことができます。<br>"
 
 msgid ""
 "<b>ATIVAR</b> a aceleração 3D em placas de vídeo Intel e AMD, outras como "
 "Nvidia <b>DESATIVE</b>."
 msgstr ""
+"IntelとAMDのビデオカードで3Dアクセラレーションを<b>有効に</b>し、Nvidiaのような他のものは<b>オフに</b>します。"
 
 msgid "Download próximo de 1 GB, pode demorar muito."
-msgstr ""
+msgstr "1GB近くをダウンロードすると、時間がかかることがあります。"
 
 msgid "O Waydroid também pode ser iniciado utilizando o menu do sistema"
-msgstr ""
+msgstr "Waydroidはシステムメニューからも起動できます。"
 
 msgid ""
 "Se a aceleração 3D estiver ativada em um hardware incompatível\n"
 "    <br> o android não passará da tela de loading"
 msgstr ""
+"互換性のないハードウェアで3Dアクセラレーションを有効にした場合\n"
+"    <br> アンドロイドがローディング画面を通過しない"
 
 msgid "Parar o Waydroid"
-msgstr ""
+msgstr "ウェイドロイドを停止する"
 
 msgid "Iniciar o Waydroid"
-msgstr ""
+msgstr "Waydroidを起動する"
 
 msgid "Resolução"
-msgstr ""
+msgstr "解像度"
 
 msgid "Ativar a aceleração 3D"
-msgstr ""
+msgstr "3Dアクセラレーションを有効にする"
 
 msgid "Desativar a aceleração 3D"
-msgstr ""
+msgstr "3Dアクセラレーションを無効にする"
 
 msgid "Instalar Waydroid"
-msgstr ""
+msgstr "Waydroidのインストール"
 
 msgid "Instalar Waydroid com Google Apps"
-msgstr ""
+msgstr "Google AppsでWaydroidをインストールする"
 
 msgid ""
 "Para ativar a PlayStore é necessário clicar em (Exibir ID do Android) e "
@@ -602,17 +654,20 @@ msgid ""
 "Google, insira seu ID do Android e faça o registro. Pode demorar alguns "
 "minutos para ativar no seu Waydroid. Feche e abra novamente. Pronto!"
 msgstr ""
+"PlayStoreを起動するには、（Android IDを表示）をクリックしてAndroid IDをコピーし、（Google "
+"Appsを起動）をクリックして端末登録ページを開き、Googleアカウントにログインしている必要がありますので、Android "
+"IDを入力して登録してください。Waydroidでアクティベーションを行うには数分かかる場合があります。一度閉じて、もう一度開いてください。完了！"
 
 msgid "Exibir ID do Android"
-msgstr ""
+msgstr "Android IDを表示する"
 
 msgid "Ativar Google Apps"
-msgstr ""
+msgstr "Google Appsを有効にする"
 
 msgid "ID do Android:"
-msgstr ""
+msgstr "Android IDです。"
 
 msgid ""
 "Não foi possível resgatar o ID do Android. \\n\\nAtenção: Waydroid precisa "
 "estar aberto."
-msgstr ""
+msgstr "Android IDの取得ができません。\\ⅷ警告：Waydroidが起動している必要があります。"

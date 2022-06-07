@@ -24,56 +24,60 @@ msgid ""
 "Você também pode utilizar o gerenciador de arquivos, clicar com o botão "
 "direito no arquivo PDF, 'Abrir com' e selecionar a opção de OCR."
 msgstr ""
+"OCRを適用するPDFファイルを選択し、テキストの検索やコピーを行うことができます。\n"
+"\n"
+"また、ファイルマネージャーを使用して、PDFファイルを右クリックし、'Open with'を選択し、OCRオプションを選択することができます。"
 
 msgid "NORMAL"
-msgstr ""
+msgstr "ノーマル"
 
 msgid "ECONOMIC"
-msgstr ""
+msgstr "エコノミック"
 
 msgid "ECONOMIC PLUS"
-msgstr ""
+msgstr "エコノミックプラス"
 
 msgid "ALIGN"
-msgstr ""
+msgstr "ALIGN"
 
 msgid "AUTO ROTATE"
-msgstr ""
+msgstr "オートローテーション"
 
 msgid "ALIGN AND AUTO ROTATE"
-msgstr ""
+msgstr "アライメントとオートローテーション"
 
 msgid "DON'T CHANGE"
-msgstr ""
+msgstr "DON'T CHANGE"
 
 msgid "SPANISH"
-msgstr ""
+msgstr "スパニッシュ"
 
 msgid "ENGLISH"
-msgstr ""
+msgstr "イングリッシュ"
 
 msgid "PORTUGUESE"
-msgstr ""
+msgstr "ポルトギーゼ"
 
 msgid ""
 "You can choose to reduce the image quality.<br>This way you will have "
 "smaller files, making it easier,<br>for example, to send them by e-mail."
 msgstr ""
+"画質を下げるかどうか選択できます。<br>こうすることで、ファイルサイズが小さくなり、例えば<br>電子メールで送信することも容易になります。"
 
 msgid ""
 "To add new languages, install the tesseract add-ons in the system's package "
 "manager."
-msgstr ""
+msgstr "新しい言語を追加するには、システムのパッケージマネージャでtesseractアドオンをインストールします。"
 
 msgid "Make your PDF searchable"
-msgstr ""
+msgstr "PDFを検索可能にする"
 
 msgid ""
 "Adicionar OCR no PDF digitalizado permitindo seleção de textos e busca:"
-msgstr ""
+msgstr "スキャンしたPDFにOCRを付加し、テキストの選択と検索を可能にします。"
 
 msgid "Completed!"
-msgstr ""
+msgstr "完成!"
 
 msgid "Arquivo salvo: "
-msgstr ""
+msgstr "ファイルを保存しました。 "

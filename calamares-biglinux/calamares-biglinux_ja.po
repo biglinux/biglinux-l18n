@@ -26,9 +26,12 @@ msgid ""
 "\n"
 "Deseja prosseguir com com a instalação em modo EFI?"
 msgstr ""
+"現在のブートはEFIモードを使っていますが、このコンピュータにはEFIパーティションが見つかりませんでした。このコンピュータにすでに他のシステムがインストールされていて、それをそのままインストールしたい場合は、おそらくBIOSで設定を変更してBIOSモードとも呼ばれるレガシーモードでブートする必要があるでしょう。\n"
+"\n"
+"EFIインストールを進めますか？"
 
 msgid "Instalar o sistema"
-msgstr ""
+msgstr "システムのインストール"
 
 msgid ""
 "O boot atual está utilizando o modo Legacy/BIOS, porém encontrei pelo menos "
@@ -38,45 +41,49 @@ msgid ""
 "\n"
 "Deseja prosseguir com com a instalação em modo Legacy/BIOS?"
 msgstr ""
+"現在のブートはLegacy/"
+"BIOSモードですが、このコンピュータに少なくとも1つのEFIパーティションがあることがわかりました。インストールを成功させるためには、おそらくEFIまたはUEFIモードで起動するようにBIOSの設定を変更する必要があるでしょう。\n"
+"\n"
+"レガシー/BIOSのインストールを進めますか？"
 
 msgid "Instalar o BigLinux"
-msgstr ""
+msgstr "BigLinuxのインストール"
 
 msgid "PADRÃO"
-msgstr ""
+msgstr "STANDARD"
 
 msgid "DESEMPENHO"
-msgstr ""
+msgstr "PERFORMANCE（パフォーマンス"
 
 msgid "COMPATIBILIDADE"
-msgstr ""
+msgstr "適合性"
 
 msgid "Compacta os dados"
-msgstr ""
+msgstr "データのコンパクト化"
 
 msgid "Pontos de restauração"
-msgstr ""
+msgstr "リストアポイント"
 
 msgid "Adia a gravação dos dados"
-msgstr ""
+msgstr "データ収録を延期する"
 
 msgid "Funciona com tabelas de particionamento antigas"
-msgstr ""
+msgstr "古いパーティションテーブルでの動作"
 
 msgid "BTRFS com fsync"
-msgstr ""
+msgstr "BTRFSとfsync"
 
 msgid "BTRFS sem fsync"
-msgstr ""
+msgstr "fsyncを使用しないBTRFS"
 
 msgid "SELECIONAR"
-msgstr ""
+msgstr "セレクト"
 
 msgid "Instalar no HD"
-msgstr ""
+msgstr "HDにインストールする"
 
 msgid "O sistema está em modo"
-msgstr ""
+msgstr "にあります。"
 
 msgid "e com o kernel"
-msgstr ""
+msgstr "で、カーネルの"

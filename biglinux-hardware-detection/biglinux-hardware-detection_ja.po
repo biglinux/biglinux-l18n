@@ -18,10 +18,10 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit"
 
 msgid "MÓDULO: Nenhum módulo precisa ser instalado."
-msgstr ""
+msgstr "MODULE：モジュールのインストールは必要ありません。"
 
 msgid "FIRMWARE: Nenhum firmware precisa ser instalado."
-msgstr ""
+msgstr "FIRMWARE：ファームウェアのインストールは必要ありません。"
 
 msgid "Hardware"
-msgstr ""
+msgstr "ハードウェア"

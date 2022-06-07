@@ -18,243 +18,257 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit"
 
 msgid "O Big-Hardware-Relatory já está em uso."
-msgstr ""
+msgstr "Le Gros Matériel-Relatif est déjà utilisé."
 
 msgid "Informações sobre o Hardware"
-msgstr ""
+msgstr "Informations sur le matériel"
 
 msgid "Este driver é software livre."
-msgstr ""
+msgstr "Ce pilote est un logiciel gratuit."
 
 msgid "Este driver é proprietário."
-msgstr ""
+msgstr "Ce pilote est propriétaire."
 
 msgid "Este driver parece compatível com este computador."
-msgstr ""
+msgstr "Ce pilote semble être compatible avec cet ordinateur."
 
 msgid "Remover"
-msgstr ""
+msgstr "Retirer"
 
 msgid "Instalar"
-msgstr ""
+msgstr "Installer"
 
 msgid ""
 "Já existe outro driver nVidia instalado, para instalar este driver, remova "
 "primeiro o driver instalado."
 msgstr ""
+"Un autre pilote nVidia est déjà installé, pour installer ce pilote, "
+"supprimez d'abord le pilote installé."
 
 msgid "Desativado"
-msgstr ""
+msgstr "Handicapés"
 
 msgid "Categorias"
-msgstr ""
+msgstr "Catégories"
 
 msgid "Principais"
-msgstr ""
+msgstr "Principal"
 
 msgid "Resumo"
-msgstr ""
+msgstr "Résumé"
 
 msgid "Processador"
-msgstr ""
+msgstr "Processeur"
 
 msgid "Placa de vídeo"
-msgstr ""
+msgstr "Carte vidéo"
 
 msgid "Placa mãe"
-msgstr ""
+msgstr "Carte mère"
 
 msgid "Memória"
-msgstr ""
+msgstr "Mémoire"
 
 msgid "Rede"
-msgstr ""
+msgstr "Réseau"
 
 msgid "Usb"
-msgstr ""
+msgstr "Usb"
 
 msgid "Pci"
-msgstr ""
+msgstr "Pci"
 
 msgid "Bateria"
-msgstr ""
+msgstr "Batterie"
 
 msgid "Armazenamento"
-msgstr ""
+msgstr "Stockage"
 
 msgid "Sistema"
-msgstr ""
+msgstr "Système"
 
 msgid "Bluetooth"
-msgstr ""
+msgstr "Bluetooth"
 
 msgid "Temperatura"
-msgstr ""
+msgstr "Température"
 
 msgid "Impressora"
-msgstr ""
+msgstr "Imprimante"
 
 msgid "Áudio"
-msgstr ""
+msgstr "Audio"
 
 msgid "Mais informações"
-msgstr ""
+msgstr "Plus d'informations"
 
 msgid "Pesquisar"
-msgstr ""
+msgstr "Recherche"
 
 msgid "Resultado da pesquisa"
-msgstr ""
+msgstr "Résultat de la recherche"
 
 msgid "Informações de Hardware"
-msgstr ""
+msgstr "Informations sur le matériel"
 
 msgid "Informações Sobre o Sistema e o Hardware"
-msgstr ""
+msgstr "Informations sur le système et le matériel"
 
 msgid "Instalar ou Remover Drivers"
-msgstr ""
+msgstr "Installer ou supprimer des pilotes"
 
 msgid ""
 "O BigLinux inclui milhares de drivers e firmwares por padrão, porém ainda "
 "pode ser necessário instalar mais alguns."
 msgstr ""
+"BigLinux inclut des milliers de pilotes et de micrologiciels par défaut, "
+"mais vous devrez peut-être en installer d'autres."
 
 msgid "Gerar Relatório"
-msgstr ""
+msgstr "Générer un rapport"
 
 msgid "Ver informações do dispositivo no Linux Hardware"
-msgstr ""
+msgstr "Afficher les informations sur le matériel Linux"
 
 msgid "Categoria"
-msgstr ""
+msgstr "Catégorie"
 
 msgid "ID"
-msgstr ""
+msgstr "ID"
 
 msgid "Info"
-msgstr ""
+msgstr "Info"
 
 msgid "Enviar para transfer.sh"
-msgstr ""
+msgstr "Envoyer à transfer.sh"
 
 msgid "Visualizar"
-msgstr ""
+msgstr "Voir"
 
 msgid "O relatório foi salvo no arquivo:"
-msgstr ""
+msgstr "Le rapport a été enregistré dans les archives :"
 
 msgid ""
 "Deseja visualizar o arquivo ou envia-lo ao site transfer.sh, para ter uma "
 "URL com os dados do seu computador de forma fácil de compartilhar?"
 msgstr ""
+"Voulez-vous voir le fichier ou l'envoyer à transfer.sh, pour avoir une URL "
+"avec les données de votre ordinateur d'une manière facile à partager ?"
 
 msgid "Driver detectado:"
-msgstr ""
+msgstr "Conducteur détecté :"
 
 msgid "<small>* A detecção não inclui impressoras e scanners</small>"
 msgstr ""
+"<small>* La détection n'inclut pas les imprimantes et les scanners</small>"
 
 msgid "Wifi"
-msgstr ""
+msgstr "Wifi"
 
 msgid "Rede Cabeada"
-msgstr ""
+msgstr "Réseau câblé"
 
 msgid "Impressora 3D"
-msgstr ""
+msgstr "Imprimante 3D"
 
 msgid "Scanner"
-msgstr ""
+msgstr "Scanner"
 
 msgid "TV Digital"
-msgstr ""
+msgstr "Télévision numérique"
 
 msgid "Webcam"
-msgstr ""
+msgstr "Webcam"
 
 msgid "Touchscreen"
-msgstr ""
+msgstr "Écran tactile"
 
 msgid "Som"
-msgstr ""
+msgstr "Son"
 
 msgid "Outros"
-msgstr ""
+msgstr "Autre"
 
 msgid "Pesquisar Driver ou Firmware"
-msgstr ""
+msgstr "Rechercher un pilote ou un micrologiciel"
 
 msgid "Big-Driver-Manager"
-msgstr ""
+msgstr "Big-Driver-Manager"
 
 msgid "Instalar ou Remover Drivers e Firmwares"
-msgstr ""
+msgstr "Installer ou supprimer des pilotes et des micrologiciels"
 
 msgid ""
 "Geralmente é preciso reiniciar o computador para o driver ou firmware ser "
 "aplicado."
 msgstr ""
+"Il est généralement nécessaire de redémarrer l'ordinateur pour que le pilote "
+"ou le micrologiciel soit appliqué."
 
 msgid "Driver ou firmware"
-msgstr ""
+msgstr "Pilote ou micrologiciel"
 
 msgid "Este pacote fornece arquivos compatíveis com este computador."
-msgstr ""
+msgstr "Ce paquet fournit des fichiers compatibles avec cet ordinateur."
 
 msgid "Concluído, reinicie o computador para ativar a configuração do driver."
 msgstr ""
+"Une fois terminé, redémarrez votre ordinateur pour activer la configuration "
+"du pilote."
 
 msgid "Driver"
-msgstr ""
+msgstr "Conducteur"
 
 msgid "Ocorreu um erro e o driver não pode ser aplicado."
-msgstr ""
+msgstr "Une erreur s'est produite et le pilote ne peut pas être appliqué."
 
 msgid "Swap (Memória Virtual)"
-msgstr ""
+msgstr "Swap (mémoire virtuelle)"
 
 msgid "Gráficos"
-msgstr ""
+msgstr "Graphiques"
 
 msgid "Conexões de Internet"
-msgstr ""
+msgstr "Connexions Internet"
 
 msgid "Dispositivos e conexões USB"
-msgstr ""
+msgstr "Dispositifs et connexions USB"
 
 msgid "Portas PCI"
-msgstr ""
+msgstr "Ports PCI"
 
 msgid "Dispositivos de armazenamento"
-msgstr ""
+msgstr "Dispositifs de stockage"
 
 msgid "Partições montadas"
-msgstr ""
+msgstr "Cloisons montées"
 
 msgid "Partições desmontadas"
-msgstr ""
+msgstr "Cloisons démantelées"
 
 msgid "Dispositivos lógicos"
-msgstr ""
+msgstr "Dispositifs logiques"
 
 msgid "Raid"
-msgstr ""
+msgstr "Raid"
 
 msgid "Informações"
-msgstr ""
+msgstr "Information"
 
 msgid "Repositórios"
-msgstr ""
+msgstr "Dépôts"
 
 msgid ""
 "Digite sua senha para gerar um relatório removendo dados sensíveis, por "
 "exemplo, endereço de IP, ou cancele para utilizar as informações da tela "
 "anterior."
 msgstr ""
+"Saisissez votre mot de passe pour générer un rapport supprimant les données "
+"sensibles, par exemple l'adresse IP, ou annulez pour utiliser les "
+"informations de l'écran précédent."
 
 msgid "Digite sua senha para gerar um relatório mais completo."
-msgstr ""
+msgstr "Saisissez votre mot de passe pour générer un rapport plus complet."
 
 msgid "Enviando, aguarde..."
-msgstr ""
+msgstr "Envoi, veuillez patienter..."

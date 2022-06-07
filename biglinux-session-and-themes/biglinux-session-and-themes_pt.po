@@ -21,9 +21,11 @@ msgid ""
 "Configuração alterada, se estiver utilizando o navegador, reinicie-o para "
 "que a nova configuração seja aplicada."
 msgstr ""
+"Configuração alterada, se estiver utilizando o navegador, reinicie-o para "
+"que a nova configuração seja aplicada."
 
 msgid "Se estiver utilizando algum navegador, feche-o e abra novamente!"
-msgstr ""
+msgstr "Se estiver utilizando algum navegador, feche-o e abra novamente!"
 
 msgid ""
 "\n"
@@ -32,6 +34,11 @@ msgid ""
 "\n"
 "Selecione não para utilizar a configuração padrão do sistema.\n"
 msgstr ""
+"\n"
+"A configuração de desktop selecionada já foi utilizada nesse sistema,\n"
+"deseja restaurar a configuração que já foi utilizada?\n"
+"\n"
+"Selecione não para utilizar a configuração padrão do sistema.\n"
 
 msgid ""
 "Configuração aplicada!\n"
@@ -40,130 +47,145 @@ msgid ""
 "para que a configuração termine de\n"
 "ser aplicada."
 msgstr ""
+"Configuração aplicada!\n"
+"\n"
+"Finalize a sessão e faça login novamente\n"
+"para que a configuração termine de\n"
+"ser aplicada."
 
 msgid "Temas"
-msgstr ""
+msgstr "Temas"
 
 msgid "Desktop"
-msgstr ""
+msgstr "Desktop"
 
 msgid "Ajustes"
-msgstr ""
+msgstr "Ajustes"
 
 msgid "Temas, Desktop e Ajustes"
-msgstr ""
+msgstr "Temas, Desktop e Ajustes"
 
 msgid "Desempenho do desktop"
-msgstr ""
+msgstr "Desempenho do desktop"
 
 msgid "Aceleração do navegador"
-msgstr ""
+msgstr "Aceleração do navegador"
 
 msgid "Usabilidade"
-msgstr ""
+msgstr "Usabilidade"
 
 msgid "Tema dos aplicativos"
-msgstr ""
+msgstr "Tema dos aplicativos"
 
 msgid "Bordas arredondadas."
-msgstr ""
+msgstr "Bordas arredondadas."
 
 msgid ""
 "Esse tema possui transparências com efeitos que<br>podem tornar o sistema "
 "lento em computadores<br>antigos ou ambientes virtualizados."
 msgstr ""
+"Esse tema possui transparências com efeitos<br>quepodem tornar o sistema "
+"lento em<br>computadoresantigos ou ambientes virtualizados."
 
 msgid "<b>Classic</b> e <b>New</b> têm melhor desempenho."
-msgstr ""
+msgstr "<b>Classic</b> e <b>New</b> têm melhor desempenho."
 
 msgid "Renderizar o desktop via software"
-msgstr ""
+msgstr "Renderizar o desktop via software"
 
 msgid "(Pode ser útil em máquina virtual ou computadores antigos)"
-msgstr ""
+msgstr "(Pode ser útil em máquina virtual ou computadores antigos)"
 
 msgid "Escolher programas a serem carregados na memória durante boot"
-msgstr ""
+msgstr "Escolher programas a serem carregados na memória durante boot"
 
 msgid ""
 "O Preload carrega arquivos dos programas na memória, para que iniciem "
 "rapidamente. O uso excessivo causa lentidão. Escolha a opção desejada:"
 msgstr ""
+"O Preload carrega arquivos dos programas na memória, para que iniciem "
+"rapidamente. O uso excessivo causa lentidão. Escolha a opção desejada:"
 
 msgid "Automático"
-msgstr ""
+msgstr "Automático"
 
 msgid "Ativar"
-msgstr ""
+msgstr "Ativar"
 
 msgid "Desativar"
-msgstr ""
+msgstr "Desativar"
 
 msgid "Configurações do Brave"
-msgstr ""
+msgstr "Configurações do Brave"
 
 msgid "Escolha a opção desejada:"
-msgstr ""
+msgstr "Escolha a opção desejada:"
 
 msgid "Remover propagandas"
-msgstr ""
+msgstr "Remover propagandas"
 
 msgid "Suportar criptomoedas"
-msgstr ""
+msgstr "Suportar criptomoedas"
 
 msgid "Botões da janela no lado esquerdo"
-msgstr ""
+msgstr "Botões da janela no lado esquerdo"
 
 msgid "Rolagem do mouse invertida"
-msgstr ""
+msgstr "Rolagem do mouse invertida"
 
 msgid "Pesquisar arquivos"
-msgstr ""
+msgstr "Pesquisar arquivos"
 
 msgid "Bloquear a área de trabalho"
-msgstr ""
+msgstr "Bloquear a área de trabalho"
 
 msgid "Tema aplicado"
-msgstr ""
+msgstr "Tema aplicado"
 
 msgid ""
 "É preciso reiniciar a sessão para concluir a configuração. Deseja fazer "
 "agora?"
 msgstr ""
+"É preciso reiniciar a sessão para concluir a configuração. Deseja fazer "
+"agora?"
 
 msgid "Configuração do Desktop"
-msgstr ""
+msgstr "Configuração do Desktop"
 
 msgid ""
 "Você já utilizou esse desktop antes, deseja  restaurar sua personalização ou "
 "utilizar a configuração original?"
 msgstr ""
+"Você já utilizou esse desktop antes, deseja  restaurar sua personalização ou "
+"utilizar a configuração original?"
 
 msgid "Sim"
-msgstr ""
+msgstr "Sim"
 
 msgid "Não"
-msgstr ""
+msgstr "Não"
 
 msgid "Original"
-msgstr ""
+msgstr "Original"
 
 msgid "Restaurar"
-msgstr ""
+msgstr "Restaurar"
 
 msgid "Desktop aplicado"
-msgstr ""
+msgstr "Desktop aplicado"
 
 msgid ""
 "Utilizando renderização por software, a qualidade das transparências está "
 "reduzida."
 msgstr ""
+"Utilizando renderização por software, a qualidade das transparências está "
+"reduzida."
 
 msgid "Desempenho em modo normal!"
-msgstr ""
+msgstr "Desempenho em modo normal!"
 
 msgid "Desempenho em modo otimizado!"
-msgstr ""
+msgstr "Desempenho em modo otimizado!"
 
 msgid "Desempenho em modo performance!"
-msgstr ""
+msgstr "Desempenho em modo performance!"

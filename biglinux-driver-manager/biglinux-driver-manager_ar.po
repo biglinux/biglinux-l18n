@@ -18,243 +18,254 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit"
 
 msgid "O Big-Hardware-Relatory já está em uso."
-msgstr ""
+msgstr "إن الأجهزة الكبيرة ذات الصلة قيد الاستخدام بالفعل."
 
 msgid "Informações sobre o Hardware"
-msgstr ""
+msgstr "معلومات الأجهزة"
 
 msgid "Este driver é software livre."
-msgstr ""
+msgstr "برنامج التشغيل هذا هو برنامج مجاني."
 
 msgid "Este driver é proprietário."
-msgstr ""
+msgstr "برنامج التشغيل هذا هو ملكية خاصة."
 
 msgid "Este driver parece compatível com este computador."
-msgstr ""
+msgstr "يبدو برنامج التشغيل هذا متوافقًا مع هذا الكمبيوتر."
 
 msgid "Remover"
-msgstr ""
+msgstr "إزالة"
 
 msgid "Instalar"
-msgstr ""
+msgstr "تثبيت"
 
 msgid ""
 "Já existe outro driver nVidia instalado, para instalar este driver, remova "
 "primeiro o driver instalado."
 msgstr ""
+"يوجد بالفعل برنامج تشغيل Nvidia آخر مثبت، لتثبيت برنامج التشغيل هذا، قم "
+"بإزالة برنامج التشغيل المثبت أولاً."
 
 msgid "Desativado"
-msgstr ""
+msgstr "معاق"
 
 msgid "Categorias"
-msgstr ""
+msgstr "الفئات"
 
 msgid "Principais"
-msgstr ""
+msgstr "ماين"
 
 msgid "Resumo"
-msgstr ""
+msgstr "ملخص"
 
 msgid "Processador"
-msgstr ""
+msgstr "المعالج"
 
 msgid "Placa de vídeo"
-msgstr ""
+msgstr "بطاقة فيديو"
 
 msgid "Placa mãe"
-msgstr ""
+msgstr "اللوحة الأم"
 
 msgid "Memória"
-msgstr ""
+msgstr "مذكرات"
 
 msgid "Rede"
-msgstr ""
+msgstr "صافي"
 
 msgid "Usb"
-msgstr ""
+msgstr "الناقل التسلسلي"
 
 msgid "Pci"
-msgstr ""
+msgstr "PCI"
 
 msgid "Bateria"
-msgstr ""
+msgstr "طبول"
 
 msgid "Armazenamento"
-msgstr ""
+msgstr "وحدات تخزين"
 
 msgid "Sistema"
-msgstr ""
+msgstr "نظام"
 
 msgid "Bluetooth"
-msgstr ""
+msgstr "تقنية البلوتوث"
 
 msgid "Temperatura"
-msgstr ""
+msgstr "تيمبس"
 
 msgid "Impressora"
-msgstr ""
+msgstr "طابعة"
 
 msgid "Áudio"
-msgstr ""
+msgstr "الصوت"
 
 msgid "Mais informações"
-msgstr ""
+msgstr "المزيد من المعلومات"
 
 msgid "Pesquisar"
-msgstr ""
+msgstr "بحث"
 
 msgid "Resultado da pesquisa"
-msgstr ""
+msgstr "نتيجة البحث"
 
 msgid "Informações de Hardware"
-msgstr ""
+msgstr "معلومات الأجهزة"
 
 msgid "Informações Sobre o Sistema e o Hardware"
-msgstr ""
+msgstr "معلومات النظام والأجهزة"
 
 msgid "Instalar ou Remover Drivers"
-msgstr ""
+msgstr "تثبيت برامج التشغيل أو إزالتها"
 
 msgid ""
 "O BigLinux inclui milhares de drivers e firmwares por padrão, porém ainda "
 "pode ser necessário instalar mais alguns."
 msgstr ""
+"BigLinux يتضمن الآلاف من برامج التشغيل والبرامج الثابتة بشكل افتراضي، ولكن "
+"قد لا تزال بحاجة إلى تثبيت عدد قليل آخر."
 
 msgid "Gerar Relatório"
-msgstr ""
+msgstr "إنشاء تقرير"
 
 msgid "Ver informações do dispositivo no Linux Hardware"
-msgstr ""
+msgstr "عرض معلومات الجهاز على أجهزة Linux"
 
 msgid "Categoria"
-msgstr ""
+msgstr "الفئة"
 
 msgid "ID"
-msgstr ""
+msgstr "هوية شخصية"
 
 msgid "Info"
-msgstr ""
+msgstr "معلومات"
 
 msgid "Enviar para transfer.sh"
-msgstr ""
+msgstr "إرسال إلى transfer.sh"
 
 msgid "Visualizar"
-msgstr ""
+msgstr "منظر"
 
 msgid "O relatório foi salvo no arquivo:"
-msgstr ""
+msgstr "تم حفظ التقرير في الملف:"
 
 msgid ""
 "Deseja visualizar o arquivo ou envia-lo ao site transfer.sh, para ter uma "
 "URL com os dados do seu computador de forma fácil de compartilhar?"
 msgstr ""
+"هل ترغب في عرض الملف أو إرساله إلى موقع transfer.sh، للحصول على عنوان URL "
+"يحتوي على البيانات الموجودة على جهاز الكمبيوتر الخاص بك بطريقة سهلة "
+"للمشاركة؟"
 
 msgid "Driver detectado:"
-msgstr ""
+msgstr "تم اكتشاف برنامج التشغيل:"
 
 msgid "<small>* A detecção não inclui impressoras e scanners</small>"
-msgstr ""
+msgstr "<small>* الكشف لا يشمل الطابعات والماسحات الضوئية</small>"
 
 msgid "Wifi"
-msgstr ""
+msgstr "واي فاي"
 
 msgid "Rede Cabeada"
-msgstr ""
+msgstr "الشبكة الكبلية"
 
 msgid "Impressora 3D"
-msgstr ""
+msgstr "طابعة ثلاثية الأبعاد"
 
 msgid "Scanner"
-msgstr ""
+msgstr "الماسح الضوئي"
 
 msgid "TV Digital"
-msgstr ""
+msgstr "تلفزيون رقمي"
 
 msgid "Webcam"
-msgstr ""
+msgstr "كاميرا ويب"
 
 msgid "Touchscreen"
-msgstr ""
+msgstr "شاشة لمس"
 
 msgid "Som"
-msgstr ""
+msgstr "صوت"
 
 msgid "Outros"
-msgstr ""
+msgstr "أخرى"
 
 msgid "Pesquisar Driver ou Firmware"
-msgstr ""
+msgstr "ابحث عن برنامج التشغيل أو البرامج الثابتة"
 
 msgid "Big-Driver-Manager"
-msgstr ""
+msgstr "مدير سائق كبير"
 
 msgid "Instalar ou Remover Drivers e Firmwares"
-msgstr ""
+msgstr "تثبيت برامج التشغيل والبرامج الثابتة أو إزالتها"
 
 msgid ""
 "Geralmente é preciso reiniciar o computador para o driver ou firmware ser "
 "aplicado."
 msgstr ""
+"من الضروري بشكل عام إعادة تشغيل الكمبيوتر حتى يتم تطبيق برنامج التشغيل أو "
+"البرنامج الثابت."
 
 msgid "Driver ou firmware"
-msgstr ""
+msgstr "برنامج التشغيل أو البرامج الثابتة"
 
 msgid "Este pacote fornece arquivos compatíveis com este computador."
-msgstr ""
+msgstr "توفر هذه الحزمة ملفات متوافقة مع هذا الكمبيوتر."
 
 msgid "Concluído, reinicie o computador para ativar a configuração do driver."
-msgstr ""
+msgstr "تم، أعد تشغيل الكمبيوتر لتنشيط تكوين برنامج التشغيل."
 
 msgid "Driver"
-msgstr ""
+msgstr "سائق"
 
 msgid "Ocorreu um erro e o driver não pode ser aplicado."
-msgstr ""
+msgstr "حدث خطأ ولا يمكن تطبيق برنامج التشغيل."
 
 msgid "Swap (Memória Virtual)"
-msgstr ""
+msgstr "المبادلة (الذاكرة الظاهرية)"
 
 msgid "Gráficos"
-msgstr ""
+msgstr "رسومات"
 
 msgid "Conexões de Internet"
-msgstr ""
+msgstr "اتصالات الإنترنت"
 
 msgid "Dispositivos e conexões USB"
-msgstr ""
+msgstr "أجهزة USB والوصلات"
 
 msgid "Portas PCI"
-msgstr ""
+msgstr "منافذ PCI"
 
 msgid "Dispositivos de armazenamento"
-msgstr ""
+msgstr "أجهزة التخزين"
 
 msgid "Partições montadas"
-msgstr ""
+msgstr "أقسام مثبتة"
 
 msgid "Partições desmontadas"
-msgstr ""
+msgstr "أقسام تم تفكيكها"
 
 msgid "Dispositivos lógicos"
-msgstr ""
+msgstr "الأجهزة المنطقية"
 
 msgid "Raid"
-msgstr ""
+msgstr "رائد"
 
 msgid "Informações"
-msgstr ""
+msgstr "معلومات"
 
 msgid "Repositórios"
-msgstr ""
+msgstr "المستودعات"
 
 msgid ""
 "Digite sua senha para gerar um relatório removendo dados sensíveis, por "
 "exemplo, endereço de IP, ou cancele para utilizar as informações da tela "
 "anterior."
 msgstr ""
+"أدخل كلمة المرور لإنشاء تقرير إزالة البيانات الحساسة، على سبيل المثال، عنوان "
+"IP، أو إلغاء لاستخدام المعلومات من الشاشة السابقة."
 
 msgid "Digite sua senha para gerar um relatório mais completo."
-msgstr ""
+msgstr "أدخل كلمة المرور لإنشاء تقرير أكثر اكتمالاً."
 
 msgid "Enviando, aguarde..."
-msgstr ""
+msgstr "إرسال، الرجاء الانتظار..."

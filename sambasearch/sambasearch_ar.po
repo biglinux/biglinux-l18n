@@ -18,66 +18,68 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit"
 
 msgid "Procurar compartilhamentos"
-msgstr ""
+msgstr "ابحث عن مشاركات"
 
 msgid "Localiza compartilhamentos na rede (Windows ou Samba)."
-msgstr ""
+msgstr "البحث عن مشاركات على الشبكة (Windows أو Samba)."
 
 msgid "GPL v2 or greater"
-msgstr ""
+msgstr "GPL v2 أو أكبر"
 
 msgid "Bruno Gonçalves"
-msgstr ""
+msgstr "برونو جونكالفيس"
 
 msgid "01/08/2019"
-msgstr ""
+msgstr "01/08/2019"
 
 msgid "https://github.com/biglinux/sambasearch"
-msgstr ""
+msgstr "https://github.com/biglinux/sambasearch"
 
 msgid "https://www.biglinux.com.br"
-msgstr ""
+msgstr "https://www.biglinux.com.br"
 
 msgid ""
 "Alteração aplicada, verifique se os compartilhamentos de rede estão "
 "aparecendo no gerenciador de arquivos."
-msgstr ""
+msgstr "تغيير مطبق، تحقق من ظهور مشاركات الشبكة في إدارة الملفات."
 
 msgid "Usuário"
-msgstr ""
+msgstr "مستخدم"
 
 msgid "Insira o usuário do servidor que deseja acessar"
-msgstr ""
+msgstr "أدخل مستخدم الخادم الذي تريد الوصول إليه"
 
 msgid "Senha"
-msgstr ""
+msgstr "كلمة المرور"
 
 msgid "Insira a senha do usuário do servidor que deseja acessar"
-msgstr ""
+msgstr "أدخل كلمة مرور مستخدم الخادم الذي تريد الوصول إليه"
 
 msgid ""
 "*A maioria dos servidores precisa de login e senha para listar os "
 "compartilhamentos disponíveis, deixe em branco para efetuar uma busca "
 "anônima."
 msgstr ""
+"* تحتاج معظم الخوادم إلى تسجيل دخول وكلمة مرور لإدراج المشاركات المتاحة، "
+"واتركها فارغة لإجراء بحث مجهول."
 
 msgid "Cancelar"
-msgstr ""
+msgstr "إلغاء"
 
 msgid "Próximo"
-msgstr ""
+msgstr "ثم"
 
 msgid "Anônimo"
-msgstr ""
+msgstr "مجهول"
 
 msgid "Procura efetuada com o usuário:"
-msgstr ""
+msgstr "تم إجراء البحث مع المستخدم:"
 
 msgid "na rede:"
-msgstr ""
+msgstr "على الشبكة:"
 
 msgid "Voltar"
-msgstr ""
+msgstr "العودة"
 
 msgid "Fechar"
-msgstr ""
+msgstr "إغلاق"

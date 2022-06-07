@@ -26,9 +26,15 @@ msgid ""
 "\n"
 "Deseja prosseguir com com a instalação em modo EFI?"
 msgstr ""
+"يستخدم التمهيد الحالي وضع EFI، لكنني لم أجد أي أقسام EFI على هذا الكمبيوتر، "
+"إذا كان هذا الكمبيوتر يحتوي بالفعل على نظام آخر مثبت وكنت تنوي أن يظل "
+"مثبتًا، فربما تحتاج إلى تغيير التكوين في BIOS للتمهيد في الوضع القديم، وتسمى "
+"أيضًا وضع BIOS.\n"
+"\n"
+"هل تريد متابعة التثبيت في وضع EFI؟"
 
 msgid "Instalar o sistema"
-msgstr ""
+msgstr "قم بتثبيت النظام"
 
 msgid ""
 "O boot atual está utilizando o modo Legacy/BIOS, porém encontrei pelo menos "
@@ -38,45 +44,50 @@ msgid ""
 "\n"
 "Deseja prosseguir com com a instalação em modo Legacy/BIOS?"
 msgstr ""
+"يستخدم التمهيد الحالي وضع Legacy/BIOS، لكنني وجدت قسم EFI واحد على الأقل على "
+"هذا الكمبيوتر. لكي يكون التثبيت ناجحًا، ستحتاج على الأرجح إلى تغيير التكوين "
+"في BIOS للتمهيد في وضع EFI أو UEFI.\n"
+"\n"
+"هل تريد متابعة التثبيت في وضع Legacy/BIOS؟"
 
 msgid "Instalar o BigLinux"
-msgstr ""
+msgstr "تثبيت بيجلينكس"
 
 msgid "PADRÃO"
-msgstr ""
+msgstr "قياسي"
 
 msgid "DESEMPENHO"
-msgstr ""
+msgstr "أداء"
 
 msgid "COMPATIBILIDADE"
-msgstr ""
+msgstr "التوافق"
 
 msgid "Compacta os dados"
-msgstr ""
+msgstr "ضغط البيانات"
 
 msgid "Pontos de restauração"
-msgstr ""
+msgstr "نقاط الاستعادة"
 
 msgid "Adia a gravação dos dados"
-msgstr ""
+msgstr "تأجيل تسجيل البيانات"
 
 msgid "Funciona com tabelas de particionamento antigas"
-msgstr ""
+msgstr "يعمل مع جداول التقسيم القديمة"
 
 msgid "BTRFS com fsync"
-msgstr ""
+msgstr "BTRFS مع المزامنة"
 
 msgid "BTRFS sem fsync"
-msgstr ""
+msgstr "BTRFS بدون مزامنة"
 
 msgid "SELECIONAR"
-msgstr ""
+msgstr "حدد"
 
 msgid "Instalar no HD"
-msgstr ""
+msgstr "التثبيت على HD"
 
 msgid "O sistema está em modo"
-msgstr ""
+msgstr "النظام في الوضع"
 
 msgid "e com o kernel"
-msgstr ""
+msgstr "ومع النواة"

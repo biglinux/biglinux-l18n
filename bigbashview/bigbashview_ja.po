@@ -18,19 +18,19 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit"
 
 msgid "Information"
-msgstr ""
+msgstr "インフォメーション"
 
 msgid "License: "
-msgstr ""
+msgstr "ライセンス "
 
 msgid "Created by:"
-msgstr ""
+msgstr "作成者"
 
 msgid "Date:"
-msgstr ""
+msgstr "日付"
 
 msgid "Code URL:"
-msgstr ""
+msgstr "コードのURLです。"
 
 msgid "Project URL:"
-msgstr ""
+msgstr "プロジェクトのURLです。"

@@ -20,73 +20,84 @@ msgstr ""
 msgid ""
 "Restaurar&nbsp;o&nbsp;programa&nbsp;como&nbsp;modo&nbsp;padrão&nbsp;ou&nbsp;distribuição&nbsp;BigLinux."
 ""
-msgstr ""
+msgstr "استعادة البرنامج كوضع قياسي أو توزيع BigLinux."
 
 msgid "Restaurar&nbsp;o&nbsp;programa&nbsp;como&nbsp;modo&nbsp;padrão."
-msgstr ""
+msgstr "قم باستعادة البرنامج إلى الوضع الافتراضي."
 
 msgid ""
 "Músicas-(Clementine) clementine.sh Multimedia clementine.png clementine skel "
 "$COMMENT_skel"
 msgstr ""
+"الأغاني- (كليمنتين) clementine.sh الوسائط المتعددة clementine.png كليمنتين "
+"skel $comment_skel"
 
 msgid ""
 "Gravador-de-Tela-(vokoscreenNG) vokoscreen.sh Multimedia vokoscreen.png "
 "vokoscreenNG  $COMMENT_normal"
 msgstr ""
+"مسجل الشاشة - (فوكوسكرين) vokoscreen.sh الوسائط المتعددة vokoscreen.png "
+"Vokosscreenng $ comment_normal"
 
 msgid ""
 "Vídeos-(Smplayer) smplayer.sh Multimedia smplayer.png smplayer skel "
 "$COMMENT_skel"
 msgstr ""
+"أشرطة الفيديو- (سمبلاير) smplayer.sh الوسائط المتعددة smplayer.png سمبلاير "
+"skel $comment_skel"
 
 msgid "Restaurar no modo padrão da distribuição"
-msgstr ""
+msgstr "الاستعادة إلى الوضع الافتراضي للتوزيع"
 
 msgid "Essa opção restaura o programa com o padrão do BigLinux."
-msgstr ""
+msgstr "يعيد هذا الخيار البرنامج إلى BigLinux الافتراضي."
 
 msgid "Restaurar no modo padrão do programa"
-msgstr ""
+msgstr "الاستعادة في الوضع الافتراضي للبرنامج"
 
 msgid "Essa opção restaura o programa com o padrão do desenvolvedor."
-msgstr ""
+msgstr "يعيد هذا الخيار البرنامج إلى الإعداد الافتراضي للمطور."
 
 msgid "Restaurar as configurações do programa:"
-msgstr ""
+msgstr "استعادة إعدادات البرنامج:"
 
 msgid "Principal"
-msgstr ""
+msgstr "ماين"
 
 msgid "Internet"
-msgstr ""
+msgstr "الإنترنت"
 
 msgid "Multimídia"
-msgstr ""
+msgstr "الوسائط المتعددة"
 
 msgid "Escritório"
-msgstr ""
+msgstr "منصب"
 
 msgid "Pesquisar Restaurar"
-msgstr ""
+msgstr "استعادة البحث"
 
 msgid "Restaurar Configurações"
-msgstr ""
+msgstr "إعدادات الاستعادة"
 
 msgid ""
 "Atenção! O programa está aberto!\\nEle será fechado para que a restauração "
 "tenha efeito."
 msgstr ""
+"الاهتمام! البرنامج مفتوح! \\ nسيتم إغلاقها حتى تصبح الاستعادة نافذة المفعول."
 
 msgid "As configurações foram restauradas com sucesso!"
-msgstr ""
+msgstr "تمت استعادة الإعدادات بنجاح!"
 
 msgid ""
 "Você tem certeza que deseja restaurar todas as configurações do KDE/"
 "Plasma?\\nIsso apagará todas as configurações definidas por $USER!"
 msgstr ""
+"هل أنت متأكد من أنك تريد استعادة جميع إعدادات KDE/البلازما؟ \\ nسيؤدي هذا "
+"إلى حذف كافة الإعدادات المحددة بواسطة $ USER!"
 
 msgid ""
 "As configurações foram restauradas com sucesso!\\nÉ necessário fazer logoff/"
 "login para concluir a restauração!"
 msgstr ""
+"تمت استعادة الإعدادات بنجاح! \\ nيجب تسجيل الخروج/تسجيل الدخول لإكمال "
+"الاستعادة!"

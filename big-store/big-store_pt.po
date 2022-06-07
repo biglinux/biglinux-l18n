@@ -18,54 +18,62 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit"
 
 msgid "A Big-Store já está em uso."
-msgstr ""
+msgstr "A Big-Store já está em uso."
 
 msgid "Big-Store"
-msgstr ""
+msgstr "Big-Store"
 
 msgid ""
 "Para os programas Snap aparecerem no menu do sistema finalize a sessão e "
 "faça login novamente."
 msgstr ""
+"Para os programas Snap aparecerem no menu do sistema finalize a sessão e "
+"faça login novamente."
 
 msgid "Configurações"
-msgstr ""
+msgstr "Configurações"
 
 msgid "Suporte a Flatpak ativo."
-msgstr ""
+msgstr "Suporte a Flatpak ativo."
 
 msgid "Suporte a Flatpak NÃO está ativo."
-msgstr ""
+msgstr "Suporte a Flatpak NÃO está ativo."
 
 msgid "Suporte a Snap ativo."
-msgstr ""
+msgstr "Suporte a Snap ativo."
 
 msgid "Suporte a Snap NÃO está ativo."
-msgstr ""
+msgstr "Suporte a Snap NÃO está ativo."
 
 msgid "Executar"
-msgstr ""
+msgstr "Executar"
 
 msgid "Atualizar cache dos repositórios nativos."
-msgstr ""
+msgstr "Atualizar cache dos repositórios nativos."
 
 msgid "Procurar o servidor de repositórios nativos mais rápido no momento."
-msgstr ""
+msgstr "Procurar o servidor de repositórios nativos mais rápido no momento."
 
 msgid "Utilize as opções a seguir com cautela:"
-msgstr ""
+msgstr "Utilize as opções a seguir com cautela:"
 
 msgid ""
 "Atualizar as chaves dos repositórios BigLinux, Manjaro e Archlinux. Lembre "
 "que se você ativou repositórios complementares será necessário adicionar as "
 "chaves desses repositórios novamente."
 msgstr ""
+"Atualizar as chaves dos repositórios BigLinux, Manjaro e Archlinux. Lembre "
+"que se você ativou repositórios complementares será necessário adicionar as "
+"chaves desses repositórios novamente."
 
 msgid ""
 "Forçar atualizações, utilize essa opção se não estiver conseguindo atualizar "
 "o sistema, porém, na atualização forçada alguns programas podem ser "
 "removidos."
 msgstr ""
+"Forçar atualizações, utilize essa opção se não estiver conseguindo atualizar "
+"o sistema, porém, na atualização forçada alguns programas podem ser "
+"removidos."
 
 msgid ""
 "\n"
@@ -74,6 +82,11 @@ msgid ""
 "portanto é a melhor opção quando o programa que você<br>\n"
 "deseja está disponível em mais de um tipo de instalação.<br>"
 msgstr ""
+"\n"
+"Programas Nativos são melhor integrados ao sistema<br>\n"
+"e passam por mais testes antes de serem disponibilizados,<br>\n"
+"portanto é a melhor opção quando o programa que você<br>\n"
+"deseja está disponível em mais de um tipo de instalação.<br>"
 
 msgid ""
 "\n"
@@ -84,6 +97,13 @@ msgid ""
 "bem, mas não passam pelos mesmos testes feitos<br>\n"
 "com os programas nativos."
 msgstr ""
+"\n"
+"Programas AUR são scripts criados por usuários<br>\n"
+"para instalar programas que não estão disponíveis<br>\n"
+"diretamente nos repositórios nativos do sistema.<br>\n"
+"Os programas instalados por esse método funcionam<br>\n"
+"bem, mas não passam pelos mesmos testes feitos<br>\n"
+"com os programas nativos."
 
 msgid ""
 "\n"
@@ -95,6 +115,14 @@ msgid ""
 "para quem tem computadores que possuem boa capacidade<br>\n"
 "de processamento e armazenamento."
 msgstr ""
+"\n"
+"Programas Flatpak, são disponibilizados para todas as<br>\n"
+"distribuições Linux, geralmente são mantidos pelos próprios<br>\n"
+"criadores dos programas, porém, não possuem algumas<br>\n"
+"otimizações e integrações com o sistema, como ocorre com<br>\n"
+"os programas nativos, essa pode ser uma boa alternativa<br>\n"
+"para quem tem computadores que possuem boa capacidade<br>\n"
+"de processamento e armazenamento."
 
 msgid ""
 "Programas Snap, assim como o Flatpak<br>\n"
@@ -103,278 +131,285 @@ msgid ""
 "se o programa que você procura está disponível apenas neste<br>\n"
 "formato, utilize-o."
 msgstr ""
+"Programas Snap, assim como o Flatpak<br>\n"
+"disponibiliza programas para todas as distribuições Linux.<br>\n"
+"Tende a ser mais pesado e menos integrado ao sistema, mas<br>\n"
+"se o programa que você procura está disponível apenas neste<br>\n"
+"formato, utilize-o."
 
 msgid "Aplicando - Aguarde"
-msgstr ""
+msgstr "Aplicando - Aguarde"
 
 msgid "Procurar programa"
-msgstr ""
+msgstr "Procurar programa"
 
 msgid "Programas Nativos"
-msgstr ""
+msgstr "Programas Nativos"
 
 msgid "Programas AUR"
-msgstr ""
+msgstr "Programas AUR"
 
 msgid "Programas Flatpak"
-msgstr ""
+msgstr "Programas Flatpak"
 
 msgid "Programas Snap"
-msgstr ""
+msgstr "Programas Snap"
 
 msgid "Navegadores"
-msgstr ""
+msgstr "Navegadores"
 
 msgid "E-mail"
-msgstr ""
+msgstr "E-mail"
 
 msgid "Armazenamento nas nuvens"
-msgstr ""
+msgstr "Armazenamento nas nuvens"
 
 msgid "Download"
-msgstr ""
+msgstr "Download"
 
 msgid "Compartilhadores e Torrent"
-msgstr ""
+msgstr "Compartilhadores e Torrent"
 
 msgid "Mensageiros e Conferências"
-msgstr ""
+msgstr "Mensageiros e Conferências"
 
 msgid "Acesso Remoto, FTP, SSH, VNC, RDP..."
-msgstr ""
+msgstr "Acesso Remoto, FTP, SSH, VNC, RDP..."
 
 msgid "Ferramentas de rede"
-msgstr ""
+msgstr "Ferramentas de rede"
 
 msgid "Suíte Office"
-msgstr ""
+msgstr "Suíte Office"
 
 msgid "Visualizadores de PDF, Epub, e-books e mais"
-msgstr ""
+msgstr "Visualizadores de PDF, Epub, e-books e mais"
 
 msgid "Editores de PDF"
-msgstr ""
+msgstr "Editores de PDF"
 
 msgid "Agenda de tarefas e contatos"
-msgstr ""
+msgstr "Agenda de tarefas e contatos"
 
 msgid "Visualizadores de imagem"
-msgstr ""
+msgstr "Visualizadores de imagem"
 
 msgid "Editores de imagem e ferramentas de desenho"
-msgstr ""
+msgstr "Editores de imagem e ferramentas de desenho"
 
 msgid "Captura de tela (Screenshot)"
-msgstr ""
+msgstr "Captura de tela (Screenshot)"
 
 msgid "Converter, redimensionar ou compactar imagens"
-msgstr ""
+msgstr "Converter, redimensionar ou compactar imagens"
 
 msgid "Edição 3D e CAD"
-msgstr ""
+msgstr "Edição 3D e CAD"
 
 msgid "Reprodutores de áudio"
-msgstr ""
+msgstr "Reprodutores de áudio"
 
 msgid "Rádio online"
-msgstr ""
+msgstr "Rádio online"
 
 msgid "Gravadores e conversores de áudio"
-msgstr ""
+msgstr "Gravadores e conversores de áudio"
 
 msgid "Editores de áudio"
-msgstr ""
+msgstr "Editores de áudio"
 
 msgid "Reprodutores de vídeo"
-msgstr ""
+msgstr "Reprodutores de vídeo"
 
 msgid "Vídeo online, IPTV, Youtube..."
-msgstr ""
+msgstr "Vídeo online, IPTV, Youtube..."
 
 msgid "Editores e compactadores de vídeo"
-msgstr ""
+msgstr "Editores e compactadores de vídeo"
 
 msgid "Gravadores e copiadores de CD e DVD"
-msgstr ""
+msgstr "Gravadores e copiadores de CD e DVD"
 
 msgid "Webcam, gravação de tela e transmissão de vídeo"
-msgstr ""
+msgstr "Webcam, gravação de tela e transmissão de vídeo"
 
 msgid "Jogos"
-msgstr ""
+msgstr "Jogos"
 
 msgid "Gerenciadores de jogos"
-msgstr ""
+msgstr "Gerenciadores de jogos"
 
 msgid "Utilitários para jogos"
-msgstr ""
+msgstr "Utilitários para jogos"
 
 msgid "Emulador Retroarch"
-msgstr ""
+msgstr "Emulador Retroarch"
 
 msgid "Emuladores"
-msgstr ""
+msgstr "Emuladores"
 
 msgid "Criadores de jogos"
-msgstr ""
+msgstr "Criadores de jogos"
 
 msgid "Ação/Arcade"
-msgstr ""
+msgstr "Ação/Arcade"
 
 msgid "Cartas"
-msgstr ""
+msgstr "Cartas"
 
 msgid "Educacional"
-msgstr ""
+msgstr "Educacional"
 
 msgid "Estratégia"
-msgstr ""
+msgstr "Estratégia"
 
 msgid "Puzzles"
-msgstr ""
+msgstr "Puzzles"
 
 msgid "Tabuleiro"
-msgstr ""
+msgstr "Tabuleiro"
 
 msgid "RPG"
-msgstr ""
+msgstr "RPG"
 
 msgid "Armazenamento e partições"
-msgstr ""
+msgstr "Armazenamento e partições"
 
 msgid "Fontes (Tipografia)"
-msgstr ""
+msgstr "Fontes (Tipografia)"
 
 msgid "Java JRE"
-msgstr ""
+msgstr "Java JRE"
 
 msgid "Virtualização"
-msgstr ""
+msgstr "Virtualização"
 
 msgid "Editores de código e IDE"
-msgstr ""
+msgstr "Editores de código e IDE"
 
 msgid "Banco de dados"
-msgstr ""
+msgstr "Banco de dados"
 
 msgid "Servidores WEB"
-msgstr ""
+msgstr "Servidores WEB"
 
 msgid "Instalado na partição:"
-msgstr ""
+msgstr "Instalado na partição:"
 
 msgid "Tamanho da partição:"
-msgstr ""
+msgstr "Tamanho da partição:"
 
 msgid "Espaço utilizado:"
-msgstr ""
+msgstr "Espaço utilizado:"
 
 msgid "Espaço livre:"
-msgstr ""
+msgstr "Espaço livre:"
 
 msgid "Data que o sistema foi instalado:"
-msgstr ""
+msgstr "Data que o sistema foi instalado:"
 
 msgid "Pacotes nativos e AUR"
-msgstr ""
+msgstr "Pacotes nativos e AUR"
 
 msgid "Instalados:"
-msgstr ""
+msgstr "Instalados:"
 
 msgid "Disponíveis:"
-msgstr ""
+msgstr "Disponíveis:"
 
 msgid "Pacotes Flatpak"
-msgstr ""
+msgstr "Pacotes Flatpak"
 
 msgid "Repositórios configurados:"
-msgstr ""
+msgstr "Repositórios configurados:"
 
 msgid "Pacotes Snap"
-msgstr ""
+msgstr "Pacotes Snap"
 
 msgid "Pacotes Snap Instalados clique no pacote para remover"
-msgstr ""
+msgstr "Pacotes Snap Instalados clique no pacote para remover"
 
 msgid "Versão: "
-msgstr ""
+msgstr "Versão "
 
 msgid "Pacote: "
-msgstr ""
+msgstr "Pacote "
 
 msgid "Não informada"
-msgstr ""
+msgstr "Não informada"
 
 msgid "Atualizar"
-msgstr ""
+msgstr "Atualizar"
 
 msgid "Versão instalada"
-msgstr ""
+msgstr "Versão instalada"
 
 msgid "Versão disponível"
-msgstr ""
+msgstr "Versão disponível"
 
 msgid "Versão"
-msgstr ""
+msgstr "Versão"
 
 msgid "Pacote .deb"
-msgstr ""
+msgstr "Pacote .deb"
 
 msgid ""
 "Esse programa está em formato .deb, que possui a melhor integração com o "
 "sistema."
 msgstr ""
+"Esse programa está em formato .deb, que possui a melhor integração com o "
+"sistema."
 
 msgid "Dependências a instalar"
-msgstr ""
+msgstr "Dependências a instalar"
 
 msgid "Ver mais"
-msgstr ""
+msgstr "Ver mais"
 
 msgid "Pacotes com dependências não atendidas: "
-msgstr ""
+msgstr "Pacotes com dependências não atendidas "
 
 msgid "Depende de "
-msgstr ""
+msgstr "Depende de "
 
 msgid "mas não vai ser instalado."
-msgstr ""
+msgstr "mas não vai ser instalado."
 
 msgid "mas não está disponível"
-msgstr ""
+msgstr "mas não está disponível"
 
 msgid "Informações sobre programas nativos"
-msgstr ""
+msgstr "Informações sobre programas nativos"
 
 msgid "Pacote:"
-msgstr ""
+msgstr "Pacote:"
 
 msgid "Versão disponível:"
-msgstr ""
+msgstr "Versão disponível:"
 
 msgid "Repositório:"
-msgstr ""
+msgstr "Repositório:"
 
 msgid "Instalando"
-msgstr ""
+msgstr "Instalando"
 
 msgid "Removendo"
-msgstr ""
+msgstr "Removendo"
 
 msgid "Informações sobre programas SNAP"
-msgstr ""
+msgstr "Informações sobre programas SNAP"
 
 msgid "Programas SNAP"
-msgstr ""
+msgstr "Programas SNAP"
 
 msgid "Versão disponivel:"
-msgstr ""
+msgstr "Versão disponivel:"
 
 msgid "Licença:"
-msgstr ""
+msgstr "Licença:"
 
 msgid "AUR"
-msgstr ""
+msgstr "AUR"
 
 msgid "Empacotador:"
-msgstr ""
+msgstr "Empacotador:"

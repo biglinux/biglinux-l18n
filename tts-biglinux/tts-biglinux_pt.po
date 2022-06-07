@@ -18,51 +18,53 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit"
 
 msgid "Configurações de texto para voz"
-msgstr ""
+msgstr "Configurações de texto para voz"
 
 msgid "Vozes - Abrir BigStore"
-msgstr ""
+msgstr "Vozes - Abrir BigStore"
 
 msgid "Voice Configuration"
-msgstr ""
+msgstr "Voice Configuration"
 
 msgid "Configurar voz"
-msgstr ""
+msgstr "Configurar voz"
 
 msgid "Para falar um texto selecionado use o atalho "
-msgstr ""
+msgstr "Para falar um texto selecionado use o atalho "
 
 msgid "[Alt] + [V]"
-msgstr ""
+msgstr "[Alt] + [V]"
 
 msgid ""
 "ou o ícone na sessão Utilitários no menu do sistema. Para interromper a "
 "leitura use novamene o atalho ou ícone."
 msgstr ""
+"ou o ícone na sessão Utilitários no menu do sistema. Para interromper a "
+"leitura use novamene o atalho ou ícone."
 
 msgid "Selecione as configurações de sua preferência"
-msgstr ""
+msgstr "Selecione as configurações de sua preferência"
 
 msgid "Números maiores deixam a voz mais rápida, o padrão é: -25"
-msgstr ""
+msgstr "Números maiores deixam a voz mais rápida, o padrão é: -25"
 
 msgid "Velocidade"
-msgstr ""
+msgstr "Velocidade"
 
 msgid "Números maiores deixam a voz mais aguda, o padrão é: -25"
-msgstr ""
+msgstr "Números maiores deixam a voz mais aguda, o padrão é: -25"
 
 msgid "Tom"
-msgstr ""
+msgstr "Tom"
 
 msgid "O padrão é: 0."
-msgstr ""
+msgstr "O padrão é: 0."
 
 msgid "Volume"
-msgstr ""
+msgstr "Volume"
 
 msgid "As vozes são otimizadas para idiomas expecíficos."
-msgstr ""
+msgstr "As vozes são otimizadas para idiomas expecíficos."
 
 msgid "Voz"
-msgstr ""
+msgstr "Voz"

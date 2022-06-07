@@ -26,9 +26,16 @@ msgid ""
 "\n"
 "Deseja prosseguir com com a instalação em modo EFI?"
 msgstr ""
+"Le démarrage actuel utilise le mode EFI, cependant je n'ai pas trouvé de "
+"partitions EFI sur cet ordinateur, si cet ordinateur a déjà un autre système "
+"installé et que vous voulez qu'il reste installé, vous devrez probablement "
+"changer le paramètre dans le BIOS pour démarrer en mode Legacy, également "
+"appelé mode BIOS.\n"
+"\n"
+"Voulez-vous procéder à l'installation EFI ?"
 
 msgid "Instalar o sistema"
-msgstr ""
+msgstr "Installation du système"
 
 msgid ""
 "O boot atual está utilizando o modo Legacy/BIOS, porém encontrei pelo menos "
@@ -38,45 +45,51 @@ msgid ""
 "\n"
 "Deseja prosseguir com com a instalação em modo Legacy/BIOS?"
 msgstr ""
+"Le démarrage actuel utilise le mode Legacy/BIOS, mais j'ai trouvé au moins "
+"une partition EFI sur cet ordinateur. Pour une installation réussie, vous "
+"devrez probablement modifier les paramètres du BIOS pour démarrer en mode "
+"EFI ou UEFI.\n"
+"\n"
+"Voulez-vous procéder à l'installation du Legacy/BIOS ?"
 
 msgid "Instalar o BigLinux"
-msgstr ""
+msgstr "Installation de BigLinux"
 
 msgid "PADRÃO"
-msgstr ""
+msgstr "STANDARD"
 
 msgid "DESEMPENHO"
-msgstr ""
+msgstr "PERFORMANCE"
 
 msgid "COMPATIBILIDADE"
-msgstr ""
+msgstr "COMPATIBILITÉ"
 
 msgid "Compacta os dados"
-msgstr ""
+msgstr "Compacter les données"
 
 msgid "Pontos de restauração"
-msgstr ""
+msgstr "Points de restauration"
 
 msgid "Adia a gravação dos dados"
-msgstr ""
+msgstr "Report de l'enregistrement des données"
 
 msgid "Funciona com tabelas de particionamento antigas"
-msgstr ""
+msgstr "Fonctionne avec les anciennes tables de partition"
 
 msgid "BTRFS com fsync"
-msgstr ""
+msgstr "BTRFS avec fsync"
 
 msgid "BTRFS sem fsync"
-msgstr ""
+msgstr "BTRFS sans fsync"
 
 msgid "SELECIONAR"
-msgstr ""
+msgstr "SÉLECTIONNER"
 
 msgid "Instalar no HD"
-msgstr ""
+msgstr "Installer sur le HD"
 
 msgid "O sistema está em modo"
-msgstr ""
+msgstr "Le système est en"
 
 msgid "e com o kernel"
-msgstr ""
+msgstr "et avec le noyau"

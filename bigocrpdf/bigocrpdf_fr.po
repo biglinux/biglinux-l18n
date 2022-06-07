@@ -24,56 +24,68 @@ msgid ""
 "Você também pode utilizar o gerenciador de arquivos, clicar com o botão "
 "direito no arquivo PDF, 'Abrir com' e selecionar a opção de OCR."
 msgstr ""
+"Choisissez le fichier PDF auquel appliquer l'OCR, afin de pouvoir rechercher "
+"ou copier des textes.\n"
+"\n"
+"Vous pouvez également utiliser le gestionnaire de fichiers, faire un clic "
+"droit sur le fichier PDF, \"Ouvrir avec\" et sélectionner l'option OCR."
 
 msgid "NORMAL"
-msgstr ""
+msgstr "NORMAL"
 
 msgid "ECONOMIC"
-msgstr ""
+msgstr "ECONOMIQUE"
 
 msgid "ECONOMIC PLUS"
-msgstr ""
+msgstr "ECONOMIC PLUS"
 
 msgid "ALIGN"
-msgstr ""
+msgstr "ALIGNER"
 
 msgid "AUTO ROTATE"
-msgstr ""
+msgstr "ROTATION AUTO"
 
 msgid "ALIGN AND AUTO ROTATE"
-msgstr ""
+msgstr "ALIGNEMENT ET ROTATION AUTOMATIQUE"
 
 msgid "DON'T CHANGE"
-msgstr ""
+msgstr "NE CHANGEZ PAS"
 
 msgid "SPANISH"
-msgstr ""
+msgstr "ESPAGNOL"
 
 msgid "ENGLISH"
-msgstr ""
+msgstr "ANGLAIS"
 
 msgid "PORTUGUESE"
-msgstr ""
+msgstr "PORTUGUAIS"
 
 msgid ""
 "You can choose to reduce the image quality.<br>This way you will have "
 "smaller files, making it easier,<br>for example, to send them by e-mail."
 msgstr ""
+"Vous pouvez choisir de réduire la qualité de l'image.<br>Vous obtiendrez "
+"ainsi des fichiers plus petits, ce qui facilitera,<br>par exemple, leur "
+"envoi par courrier électronique."
 
 msgid ""
 "To add new languages, install the tesseract add-ons in the system's package "
 "manager."
 msgstr ""
+"Pour ajouter de nouvelles langues, installez les modules complémentaires "
+"tesseract dans le gestionnaire de paquets du système."
 
 msgid "Make your PDF searchable"
-msgstr ""
+msgstr "Rendez votre PDF consultable"
 
 msgid ""
 "Adicionar OCR no PDF digitalizado permitindo seleção de textos e busca:"
 msgstr ""
+"Ajoutez l'OCR au PDF numérisé pour permettre la sélection et la recherche de "
+"texte :"
 
 msgid "Completed!"
-msgstr ""
+msgstr "Terminé !"
 
 msgid "Arquivo salvo: "
-msgstr ""
+msgstr "Fichier sauvegardé "

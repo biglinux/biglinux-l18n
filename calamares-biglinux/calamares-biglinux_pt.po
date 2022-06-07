@@ -26,9 +26,16 @@ msgid ""
 "\n"
 "Deseja prosseguir com com a instalação em modo EFI?"
 msgstr ""
+"O boot atual está utilizando o modo EFI, porém não encontrei nenhuma "
+"partição EFI neste computador, se este computador já possui outro sistema "
+"instalado e você pretende que ele permaneça instalado, provavelmente será "
+"necessário alterar a configuração na BIOS para fazer boot em modo Legacy, "
+"também chamado de modo BIOS.\n"
+"\n"
+"Deseja prosseguir com com a instalação em modo EFI?"
 
 msgid "Instalar o sistema"
-msgstr ""
+msgstr "Instalar o sistema"
 
 msgid ""
 "O boot atual está utilizando o modo Legacy/BIOS, porém encontrei pelo menos "
@@ -38,45 +45,51 @@ msgid ""
 "\n"
 "Deseja prosseguir com com a instalação em modo Legacy/BIOS?"
 msgstr ""
+"O boot atual está utilizando o modo Legacy/BIOS, porém encontrei pelo menos "
+"uma partição EFI neste computador. Para que a instalação seja bem sucedida, "
+"provavelmente será necessário alterar a configuração na BIOS para fazer boot "
+"em modo EFI ou UEFI.\n"
+"\n"
+"Deseja prosseguir com com a instalação em modo Legacy/BIOS?"
 
 msgid "Instalar o BigLinux"
-msgstr ""
+msgstr "Instalar o BigLinux"
 
 msgid "PADRÃO"
-msgstr ""
+msgstr "PADRÃO"
 
 msgid "DESEMPENHO"
-msgstr ""
+msgstr "DESEMPENHO"
 
 msgid "COMPATIBILIDADE"
-msgstr ""
+msgstr "COMPATIBILIDADE"
 
 msgid "Compacta os dados"
-msgstr ""
+msgstr "Compacta os dados"
 
 msgid "Pontos de restauração"
-msgstr ""
+msgstr "Pontos de restauração"
 
 msgid "Adia a gravação dos dados"
-msgstr ""
+msgstr "Adia a gravação dos dados"
 
 msgid "Funciona com tabelas de particionamento antigas"
-msgstr ""
+msgstr "Funciona com tabelas de particionamento antigas"
 
 msgid "BTRFS com fsync"
-msgstr ""
+msgstr "BTRFS com fsync"
 
 msgid "BTRFS sem fsync"
-msgstr ""
+msgstr "BTRFS sem fsync"
 
 msgid "SELECIONAR"
-msgstr ""
+msgstr "SELECIONAR"
 
 msgid "Instalar no HD"
-msgstr ""
+msgstr "Instalar no HD"
 
 msgid "O sistema está em modo"
-msgstr ""
+msgstr "O sistema está em modo"
 
 msgid "e com o kernel"
-msgstr ""
+msgstr "e com o kernel"

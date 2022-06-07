@@ -18,10 +18,10 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit"
 
 msgid "Iniciando no BigLinux"
-msgstr ""
+msgstr "البدء على BigLinux"
 
 msgid "Central de Controle"
-msgstr ""
+msgstr "مركز التحكم"
 
 msgid ""
 "A webcam já está sendo utilizada pelo programa: $WEBCAM_BUSY\n"
@@ -30,152 +30,165 @@ msgid ""
 "As alterações feitas podem ser vistas\n"
 "na imagem da sua webcam em outros programas."
 msgstr ""
+"كاميرا الويب قيد الاستخدام بالفعل من قبل البرنامج: $WEBCAM_BUSY\n"
+"\n"
+"سأفتحه في وضع الإعداد.\n"
+"يمكن الاطلاع على التغييرات التي تم إجراؤها\n"
+"على صورة كاميرا الويب الخاصة بك في برامج أخرى."
 
 msgid "Category"
-msgstr ""
+msgstr "الفئة"
 
 msgid "Name"
-msgstr ""
+msgstr "اسم"
 
 msgid ""
 "O relatório foi salvo no arquivo $FILE_TO_SAVE\n"
 "\n"
 "Deseja visualizar o relatório agora?\n"
 msgstr ""
+"تم حفظ التقرير إلى الملف $FILE_TO_SAVE\n"
+"\n"
+"هل تريد عرض التقرير الآن؟\n"
 
 msgid "Visualizar o relatório"
-msgstr ""
+msgstr "عرض التقرير"
 
 msgid "Hardinfo Relatory"
-msgstr ""
+msgstr "تقرير هاردينفو"
 
 msgid "Bem vindo ao BigLinux"
-msgstr ""
+msgstr "مرحبًا بك في BigLinux"
 
 msgid "Comece com algumas etapas simples."
-msgstr ""
+msgstr "ابدأ ببضع خطوات بسيطة."
 
 msgid "Mostrar na inicialização"
-msgstr ""
+msgstr "عرض عند بدء التشغيل"
 
 msgid "Olá"
-msgstr ""
+msgstr "مرحبا"
 
 msgid "Ajustes iniciais"
-msgstr ""
+msgstr "التعديلات الأولية"
 
 msgid ""
 "Disponiblizamos configurações completas para você selecionar de forma "
 "extremamente simples."
-msgstr ""
+msgstr "التكوينات الكاملة متاحة لك لتحديدها بطريقة بسيطة للغاية."
 
 msgid "Escolha seu navegador padrão"
-msgstr ""
+msgstr "اختر متصفحك الافتراضي"
 
 msgid "Defina seus programas padrões."
-msgstr ""
+msgstr "قم بتعيين البرامج الافتراضية الخاصة بك."
 
 msgid "Outros navegadores"
-msgstr ""
+msgstr "متصفحات أخرى"
 
 msgid "KDE Connect"
-msgstr ""
+msgstr "كيدي كونيكت"
 
 msgid ""
 "O KDE Connect é um aplicativo que facilita as comunicações sem fio e a "
 "transferência de dados entre dispositivos em redes locais. Disponível na "
 "Google Play Store para Android e Apple Store para iPhone."
 msgstr ""
+"KDE Connect هو تطبيق يسهل الاتصالات اللاسلكية ونقل البيانات بين الأجهزة على "
+"شبكات المنطقة المحلية. متوفر على متجر Google Play لأجهزة Android و Apple "
+"Store لأجهزة iPhone."
 
 msgid "Instalação de Driver e Informações de Hardware"
-msgstr ""
+msgstr "تثبيت برنامج التشغيل ومعلومات الأجهزة"
 
 msgid "Instalar ou Remover Drivers e Firmwares de forma simples."
-msgstr ""
+msgstr "تثبيت أو إزالة برامج التشغيل والبرامج الثابتة بطريقة بسيطة."
 
 msgid "Impressoras"
-msgstr ""
+msgstr "الطابعات"
 
 msgid "Conheça alguns recursos"
-msgstr ""
+msgstr "تعرف على بعض الموارد"
 
 msgid ""
 "Nosso sistema é colaborativo, venha fazer parte dessa evolução. Confira as "
 "novidades!"
-msgstr ""
+msgstr "نظامنا تعاوني، تعال وكن جزءًا من هذا التطور. تحقق من الأخبار!"
 
 msgid "Big Store"
-msgstr ""
+msgstr "متجر كبير"
 
 msgid "Web Apps"
-msgstr ""
+msgstr "تطبيقات الويب"
 
 msgid "Redutor de Ruídos"
-msgstr ""
+msgstr "مخفض الضوضاء"
 
 msgid "Configurar a voz do sistema (TTS)"
-msgstr ""
+msgstr "إعداد صوت النظام (TTS)"
 
 msgid "OCR para PDF"
-msgstr ""
+msgstr "التعرف الضوئي على الحروف إلى PDF"
 
 msgid "Doação e Redes sociais"
-msgstr ""
+msgstr "التبرع والشبكات الاجتماعية"
 
 msgid "Sua doação é muito importante para o projeto e siga as redes sociais."
-msgstr ""
+msgstr "تبرعك مهم جدًا للمشروع ومتابعة وسائل التواصل الاجتماعي."
 
 msgid "Doação"
-msgstr ""
+msgstr "تبرع"
 
 msgid "Fórum"
-msgstr ""
+msgstr "منتدى"
 
 msgid "YouTube"
-msgstr ""
+msgstr "يوتيوب"
 
 msgid "Twitter"
-msgstr ""
+msgstr "تويتر"
 
 msgid "Telegram"
-msgstr ""
+msgstr "برقية"
 
 msgid "Instagram"
-msgstr ""
+msgstr "إينستاجرام"
 
 msgid "Facebook"
-msgstr ""
+msgstr "فيس بوك"
 
 msgid "Parabéns, você concluiu os primeiros passo para utilizar o BigLinux."
-msgstr ""
+msgstr "تهانينا، لقد أكملت الخطوات الأولى لاستخدام BigLinux."
 
 msgid "Integração com Google Drive e ownCloud"
-msgstr ""
+msgstr "التكامل مع جوجل درايف و ownCloud"
 
 msgid ""
 "Acesse seus arquivos que estão no Google Drive ou ownCloud diretamente no "
 "gerenciador de arquivos."
 msgstr ""
+"قم بالوصول إلى ملفاتك الموجودة في Google Drive أو ownCloud مباشرة من مدير "
+"الملفات."
 
 msgid "Qt Assistant"
-msgstr ""
+msgstr "مساعد كيو تي"
 
 msgid "Programas de desenvolvimento para QT."
-msgstr ""
+msgstr "برامج تطوير QT."
 
 msgid ""
 "Configurações de uso dos antigos CDs de música, não são válidas para músicas "
 "em MP3."
-msgstr ""
+msgstr "إعدادات استخدام أقراص الموسيقى المضغوطة القديمة غير صالحة لأغاني MP3."
 
 msgid "Procurar servidores (zeroconf)"
-msgstr ""
+msgstr "البحث عن الخوادم (zeroconf)"
 
 msgid "Instalar ou remover programas."
-msgstr ""
+msgstr "تثبيت البرامج أو إزالتها."
 
 msgid "Restaurar a configuração de programas"
-msgstr ""
+msgstr "استعادة إعدادات البرنامج"
 
 msgid ""
 "Utilitário que facilita a restauração do sistema instalado,\n"
@@ -186,127 +199,139 @@ msgid ""
 "<br>\n"
 "de pacotes e o terminal do sistema instalado."
 msgstr ""
+"الأداة المساعدة التي تسهل استعادة النظام المثبت،\n"
+"<br>\n"
+"خاصة استعادة تمهيد النظام (Grub).\n"
+"<br><br>\n"
+"يمكن استخدامه أيضًا للوصول إلى المدير\n"
+"<br>\n"
+"من الحزم ومحطة النظام المثبت."
 
 msgid "Temas do Bootsplash"
-msgstr ""
+msgstr "موضوعات بوتسبلاش"
 
 msgid "Procurar servidores SSH"
-msgstr ""
+msgstr "ابحث عن خوادم SSH"
 
 msgid "Procurar servidores VNC"
-msgstr ""
+msgstr "ابحث عن خوادم VNC"
 
 msgid "Configurar este tema de borda de janelas"
-msgstr ""
+msgstr "تكوين سمة حدود النافذة هذه"
 
 msgid "Configurar este tema de janelas."
-msgstr ""
+msgstr "قم بتكوين سمة النافذة هذه."
 
 msgid "Qt Designer"
-msgstr ""
+msgstr "مصمم كيو تي"
 
 msgid "Gerenciador de áudio avançado - Alsamixer"
-msgstr ""
+msgstr "مدير الصوت المتقدم - Alsamixer"
 
 msgid "Controlador de áudio em caso de ausência som."
-msgstr ""
+msgstr "وحدة تحكم الصوت في حالة عدم وجود صوت."
 
 msgid "Particionar ou formatar"
-msgstr ""
+msgstr "قسم أو تنسيق"
 
 msgid "Cuidado, este programa poderá apagar todos os dados do computador."
 msgstr ""
+"كن حذرا، قد يمحو هذا البرنامج جميع البيانات من جهاز الكمبيوتر الخاص بك."
 
 msgid "Informações de armazenamento (SMART)"
-msgstr ""
+msgstr "معلومات التخزين (SMART)"
 
 msgid "Firewall"
-msgstr ""
+msgstr "جدار الحماية"
 
 msgid "Configurar regras de segurança para a conexão com a internet."
-msgstr ""
+msgstr "قم بإعداد قواعد الأمان للاتصال بالإنترنت."
 
 msgid "Configurar webcam ou placa de captura"
-msgstr ""
+msgstr "إعداد كاميرا الويب أو بطاقة الالتقاط"
 
 msgid "Scanners HP"
-msgstr ""
+msgstr "ماسحات HP"
 
 msgid "Impressoras HP"
-msgstr ""
+msgstr "طابعات إتش بي"
 
 msgid "Verificar o status, nível de tinta e manutenção."
-msgstr ""
+msgstr "تحقق من الحالة ومستوى الحبر والصيانة."
 
 msgid "Montar Hardware Apple"
-msgstr ""
+msgstr "تجميع أجهزة أبل"
 
 msgid ""
 "Com esse programa você pode acessar os programas do seu iPhone ou iPad Apple "
 "de forma similar ao acesso de arquivos em um pendrive."
 msgstr ""
+"باستخدام هذا البرنامج، يمكنك الوصول إلى البرامج الموجودة على جهاز Apple "
+"iPhone أو iPad بطريقة مشابهة للوصول إلى الملفات الموجودة على بندريف."
 
 msgid "Áreas de trabalho virtuais e atividades"
-msgstr ""
+msgstr "مساحات عمل وأنشطة افتراضية"
 
 msgid "Crie mais de uma área de trabalho vitual alternando entre elas."
-msgstr ""
+msgstr "قم بإنشاء أكثر من مساحة عمل افتراضية واحدة عن طريق التبديل بينها."
 
 msgid ""
 "Ativar a pesquisa aumenta o consumo de memória e processamento do sistema."
-msgstr ""
+msgstr "يؤدي تمكين البحث إلى زيادة ذاكرة النظام واستهلاك المعالجة."
 
 msgid "Ajuste a data, hora e fuso horário."
-msgstr ""
+msgstr "اضبط التاريخ والوقت والمنطقة الزمنية."
 
 msgid "Tema da Área de Trabalho"
-msgstr ""
+msgstr "سمة سطح المكتب"
 
 msgid "Ícones e emoticons"
-msgstr ""
+msgstr "الأيقونات والرموز التعبيرية"
 
 msgid "Joystick"
-msgstr ""
+msgstr "عصا التحكم"
 
 msgid "Configurações de layout, teclas de atalho e outras opções."
-msgstr ""
+msgstr "إعدادات التخطيط ومفاتيح الاختصار وخيارات أخرى."
 
 msgid "Gerenciar conexões"
-msgstr ""
+msgstr "إدارة الاتصالات"
 
 msgid ""
 "Configuração avançada de rede (VPN, wifi, cabeada, IP fixo, PPPoE, ADSL, "
 "rede com fio, banda larga móvel e outros)."
 msgstr ""
+"تكوين شبكة متقدم (VPN، واي فاي، سلكي، IP ثابت، PPPoE، ADSL، شبكة سلكية، "
+"النطاق العريض للجوال، وغيرها)."
 
 msgid "Instalar, configurar ou remover impressoras."
-msgstr ""
+msgstr "تثبيت الطابعات أو تكوينها أو إزالتها."
 
 msgid "Configurar o tema Kvantum"
-msgstr ""
+msgstr "قم بإعداد موضوع Kvantum"
 
 msgid ""
 "Para a configuração do Kvantum funcionar, aplique o tema Kvantum em 'Estilo "
 "do aplicativo'."
-msgstr ""
+msgstr "لكي يعمل تكوين Kvantum، قم بتطبيق سمة Kvantum ضمن «نمط التطبيق»."
 
 msgid "Carteira de senhas do KDE"
-msgstr ""
+msgstr "محفظة كلمة مرور KDE"
 
 msgid "Qt Linguist"
-msgstr ""
+msgstr "كيو تي لينغويست"
 
 msgid "Gerenciador de usuários"
-msgstr ""
+msgstr "مدير المستخدم"
 
 msgid "Adiciona, remove ou edita usuários e grupos do sistema."
-msgstr ""
+msgstr "إضافة مستخدمين ومجموعات من النظام أو إزالتها أو تحريرها."
 
 msgid "Gerenciar arquivos"
-msgstr ""
+msgstr "إدارة الملفات"
 
 msgid "Tenha acesso a seus arquivos e pastas."
-msgstr ""
+msgstr "احصل على إمكانية الوصول إلى الملفات والمجلدات الخاصة بك."
 
 msgid ""
 "Esse programa pode transferir arquivos entre smartphones, tablets e outros "
@@ -317,92 +342,102 @@ msgid ""
 "Google Store em seu telefone e instale o Kde Connect.  Esse aplicativo não "
 "está disponível para iPhone."
 msgstr ""
+"يمكن لهذا البرنامج نقل الملفات بين الهواتف الذكية والأجهزة اللوحية وأجهزة "
+"الكمبيوتر الأخرى. باستخدامه، يمكنك، على سبيل المثال، استخدام هاتفك الذكي "
+"كماوس ولوحة مفاتيح لاسلكية للتحكم في الكمبيوتر، من بين ميزات أخرى. يتكامل "
+"بشكل أفضل مع BigLinux وهو من بين التطبيقات الصغيرة الموجودة بالقرب من ساعة "
+"النظام. للمزامنة مع هاتفك الذكي، انتقل إلى متجر Google على هاتفك وقم بتثبيت "
+"Kde Connect. هذا التطبيق غير متاح لأجهزة iPhone."
 
 msgid "Terminal"
-msgstr ""
+msgstr "المحطة"
 
 msgid "Acesse o terminal de comandos."
-msgstr ""
+msgstr "انتقل إلى محطة الأوامر."
 
 msgid "Gerenciar senhas salvas"
-msgstr ""
+msgstr "إدارة كلمات المرور المحفوظة"
 
 msgid "Som e microfone"
-msgstr ""
+msgstr "الصوت والميكروفون"
 
 msgid ""
 "Configurar ou alterar dispositivos de entrada e saída de áudio. (Ex: HDMI)"
 msgstr ""
+"إعداد أجهزة الإدخال والإخراج الصوتي أو تغييرها. (على سبيل المثال: HDMI)"
 
 msgid "Qt QDBusViewer "
-msgstr ""
+msgstr "كيو تي أدبوس فيور "
 
 msgid "Centro de controle do KDE"
-msgstr ""
+msgstr "مركز التحكم في كيدي"
 
 msgid "Configurador avançado de energia"
-msgstr ""
+msgstr "مُكوِّن طاقة متقدم"
 
 msgid "Aparência"
-msgstr ""
+msgstr "المظهر"
 
 msgid "Dispositivos"
-msgstr ""
+msgstr "الأجهزة"
 
 msgid "Personalizar"
-msgstr ""
+msgstr "إضفاء الطابع الشخصي"
 
 msgid "Telefone"
-msgstr ""
+msgstr "هاتف"
 
 msgid "Rede e Internet"
-msgstr ""
+msgstr "الشبكة والإنترنت"
 
 msgid "Contas"
-msgstr ""
+msgstr "فواتير"
 
 msgid "Região e Idioma"
-msgstr ""
+msgstr "المنطقة واللغة"
 
 msgid "Privacidade"
-msgstr ""
+msgstr "الخصوصية"
 
 msgid "Servidor"
-msgstr ""
+msgstr "الحاسوب المركزي"
 
 msgid "Desenvolvimento"
-msgstr ""
+msgstr "تطوير"
 
 msgid "Sobre"
-msgstr ""
+msgstr "حول"
 
 msgid "Pesquisar..."
-msgstr ""
+msgstr "بحث..."
 
 msgid "Temas, desktop e ajustes"
-msgstr ""
+msgstr "السمات وسطح المكتب والتعديلات"
 
 msgid "Informações do sistema e hardware"
-msgstr ""
+msgstr "معلومات النظام والأجهزة"
 
 msgid ""
 "Além de visualizar as informações é possível salvar em um arquivo e "
 "compartilhar na internet."
 msgstr ""
+"بالإضافة إلى عرض المعلومات، من الممكن حفظها في ملف ومشاركتها على الإنترنت."
 
 msgid "Conectar à internet"
-msgstr ""
+msgstr "الاتصال بالإنترنت"
 
 msgid "Conecte na internet por cabo de rede ou wifi."
-msgstr ""
+msgstr "اتصل بالإنترنت عبر كابل الشبكة أو WiFi."
 
 msgid "Conectar à internet utilizando o Android"
-msgstr ""
+msgstr "الاتصال بالإنترنت باستخدام Android"
 
 msgid ""
 "Você pode utilizar seu smartphone ou tablet Android como um dispositivo wifi "
 "usb para seu computador."
 msgstr ""
+"يمكنك استخدام هاتفك الذكي أو جهازك اللوحي الذي يعمل بنظام Android كجهاز wifi "
+"USB لجهاز الكمبيوتر الخاص بك."
 
 msgid ""
 "Como utilizar a internet do seu tablet ou  smartphone Android:\n"
@@ -423,38 +458,56 @@ msgid ""
 "*Caso esteja utilizando o dados móveis, será consumido do seu plano de dados."
 ""
 msgstr ""
+"كيفية استخدام الإنترنت من جهاز Android اللوحي أو الهاتف الذكي:\n"
+"<br><br>\n"
+"واحد. قم بتوصيل الجهاز بمنفذ USB الخاص بالكمبيوتر؛\n"
+"<br>\n"
+"2. انتقل إلى إعدادات جهاز Android وابحث عن بعض الخيارات: «رابط USB» أو "
+"«إرساء USB» أو «ربط USB».\n"
+"<br>\n"
+"إنها طرق مختلفة يستخدمها كل مصنع لنفس المورد.\n"
+"<br><br>\n"
+"* توجد هذه الخيارات ضمن قسم «الشبكة والإنترنت» أو «الاتصالات والمشاركة».\n"
+"<br><br>\n"
+"عند تنشيطه، سيتم توصيلك تلقائيًا، وستستخدم نفس الاتصال مثل جهاز Android "
+"الخاص بك.\n"
+"<br>\n"
+"* إذا كنت تستخدم بيانات الجوال، فسيتم استهلاكها من خطة البيانات الخاصة بك."
 
 msgid "Visualizar informações do sistema e hardware"
-msgstr ""
+msgstr "عرض معلومات النظام والأجهزة"
 
 msgid ""
 "Também cria um arquivo com informações, que você pode enviar a outras "
 "pessoas para que o ajudem com o suporte."
 msgstr ""
+"كما أنه ينشئ ملفًا يحتوي على معلومات، والتي يمكنك إرسالها إلى الآخرين "
+"لمساعدتك في الدعم."
 
 msgid "Adicionar ou Remover Usuários"
-msgstr ""
+msgstr "إضافة مستخدمين أو إزالتهم"
 
 msgid "Criar, remover e gerenciar contas e grupos de usuários."
-msgstr ""
+msgstr "إنشاء حسابات المستخدمين والمجموعات وإزالتها وإدارتها."
 
 msgid "Economia de energia"
-msgstr ""
+msgstr "توفير الطاقة"
 
 msgid "Monitores e Telas"
-msgstr ""
+msgstr "الشاشات والشاشات"
 
 msgid "Configurar resolução, cor, frequência, dpi, escala, cor noturna, etc."
 msgstr ""
+"تكوين الدقة، اللون، التردد، نقطة في البوصة، المقياس، اللون الليلي، إلخ."
 
 msgid "Resetar as configurações da tela"
-msgstr ""
+msgstr "إعادة تعيين إعدادات الشاشة"
 
 msgid "Restaurar a configuração padrão do monitor."
-msgstr ""
+msgstr "قم باستعادة الشاشة إلى الإعداد الافتراضي."
 
 msgid "Airmore"
-msgstr ""
+msgstr "إيرمور"
 
 msgid ""
 "Instale o aplicativo Airmore na loja de aplicativos do seu smartphone.  "
@@ -464,9 +517,14 @@ msgid ""
 "também pode utilizar nosso gerenciador de Web apps para facilitar o uso "
 "desse site."
 msgstr ""
+"قم بتثبيت تطبيق Airmore من متجر التطبيقات على هاتفك الذكي. استخدم هذا الزر "
+"لفتح موقع Airmore على هذا الكمبيوتر. اقرأ رمز الاستجابة السريعة الذي سيتم "
+"عرضه على شاشة جهاز الكمبيوتر الخاص بك باستخدام التطبيق على هاتفك الذكي وتمتع "
+"بإمكانية الوصول إلى عمليات نقل الملفات والمزيد. يمكنك أيضًا استخدام مدير "
+"تطبيقات الويب لدينا لتسهيل استخدام هذا الموقع."
 
 msgid "Airdroid"
-msgstr ""
+msgstr "إيردرويد"
 
 msgid ""
 "Instale o aplicativo Airdroid na loja de aplicativos do seu smartphone.  "
@@ -476,49 +534,60 @@ msgid ""
 "também pode utilizar nosso gerenciador de Web apps para facilitar o uso "
 "desse site."
 msgstr ""
+"قم بتثبيت تطبيق Airdroid من متجر تطبيقات هاتفك الذكي. استخدم هذا الزر لفتح "
+"موقع Airdroid على هذا الكمبيوتر. اقرأ رمز الاستجابة السريعة الذي سيتم عرضه "
+"على شاشة جهاز الكمبيوتر الخاص بك باستخدام التطبيق على هاتفك الذكي وتمتع "
+"بإمكانية الوصول إلى عمليات نقل الملفات والمزيد. يمكنك أيضًا استخدام مدير "
+"تطبيقات الويب لدينا لتسهيل استخدام هذا الموقع."
 
 msgid "Suporte a aplicativos Android"
-msgstr ""
+msgstr "دعم تطبيق أندرويد"
 
 msgid ""
 "Utilizando Waydroid abra programas de Android no BigLinux. *Este recurso "
 "ainda está em fase experimental."
 msgstr ""
+"باستخدام Waydroid فتح برامج أندرويد على BigLinux. * هذه الميزة لا تزال في "
+"المرحلة التجريبية."
 
 msgid "Instalar drivers e firmwares"
-msgstr ""
+msgstr "تثبيت برامج التشغيل والبرامج الثابتة"
 
 msgid "Snapshots e backups"
-msgstr ""
+msgstr "لقطات ونسخ احتياطية"
 
 msgid "Gerenciar pontos de restauração."
-msgstr ""
+msgstr "إدارة نقاط الاستعادة."
 
 msgid ""
 "A partição que o sistema foi instalado não possui pontos de restauração, mas "
 "é possível fazer backups utilizando o método rsync."
 msgstr ""
+"لا يحتوي القسم الذي تم تثبيت النظام عليه على نقاط استعادة، ولكن يمكن إجراء "
+"نسخ احتياطية باستخدام طريقة rsync."
 
 msgid ""
 "Sistema em modo live. Restaure pontos de restauração do sistema instalado."
-msgstr ""
+msgstr "النظام في الوضع المباشر. استعادة نقاط الاستعادة للنظام المثبت."
 
 msgid ""
 "Selecione o texto desejado e utilize o atalho com a tecla [Meta] + V ou o "
 "ícone no menu do sistema para que textos escritos sejam falados."
 msgstr ""
+"حدد النص المطلوب واستخدم الاختصار باستخدام المفتاح [Meta] +V أو الرمز "
+"الموجود في قائمة النظام لجعل النصوص المكتوبة منطوقة."
 
 msgid "Instalar versões de kernel"
-msgstr ""
+msgstr "تثبيت إصدارات Kernel"
 
 msgid "Regras de segurança do Java"
-msgstr ""
+msgstr "قواعد أمان جافا"
 
 msgid "OpenJDK Java 8 Policy Tool"
-msgstr ""
+msgstr "أداة نهج أوبينجدك جافا 8"
 
 msgid "Snapdrop (Não precisa de aplicativo)"
-msgstr ""
+msgstr "Snapdrop (لا حاجة للتطبيق)"
 
 msgid ""
 "Basta abrir o site https://snapdrop.net nos Hardware que você quer "
@@ -529,71 +598,84 @@ msgid ""
 "smartphone para outro.  Você também pode utilizar nosso gerenciador de Web "
 "apps para facilitar o uso desse site."
 msgstr ""
+"ما عليك سوى فتح الموقع https://snapdrop.net ضمن الأجهزة التي تريد نقل "
+"الملفات إليها، وسيتم اكتشافها تلقائيًا ويمكنك إرسال الملفات التي تريدها. "
+"استخدم هذا الزر لفتح موقع Snapdrop على هذا الكمبيوتر. يمكن استخدام Snapdrop "
+"على أي هاتف ذكي أو كمبيوتر، بما في ذلك نقل الملفات مباشرة من هاتف ذكي إلى "
+"آخر. يمكنك أيضًا استخدام مدير تطبيقات الويب لدينا لتسهيل استخدام هذا الموقع."
 
 msgid "Introdução"
-msgstr ""
+msgstr "مقدمة"
 
 msgid "Introdução ao BigLinux."
-msgstr ""
+msgstr "مقدمة إلى BigLinux."
 
 msgid "As configurações da tela foram resetadas."
-msgstr ""
+msgstr "تمت إعادة تعيين إعدادات الشاشة."
 
 msgid "Configurações da tela"
-msgstr ""
+msgstr "إعدادات الشاشة"
 
 msgid "Maximizado"
-msgstr ""
+msgstr "مكبّر"
 
 msgid "Waydroid"
-msgstr ""
+msgstr "واي درويد"
 
 msgid ""
 "Utilize programas para Android no seu computador, está em fase experimental, "
 "alguns programas podem não funcionar.<br>"
 msgstr ""
+"استخدم برامج Android على جهاز الكمبيوتر الخاص بك، فهو في المرحلة التجريبية، "
+"قد لا تعمل بعض البرامج. <br>"
 
 msgid ""
 "Com o Wayland instalado é possível abrir programas no formato .apk, abra "
 "pelo gerenciador de arquivos do BigLinux.<br>"
 msgstr ""
+"مع تثبيت Wayland، من الممكن فتح البرامج بتنسيق.apk، مفتوحة من خلال مدير "
+"ملفات BigLinux. <br>"
 
 msgid ""
 "<b>ATIVAR</b> a aceleração 3D em placas de vídeo Intel e AMD, outras como "
 "Nvidia <b>DESATIVE</b>."
 msgstr ""
+"<b>قم بتشغيل</b> التسارع ثلاثي الأبعاد على بطاقات الرسومات Intel و AMD، "
+"والبعض الآخر مثل Nvidia <b>DISABLE</b>."
 
 msgid "Download próximo de 1 GB, pode demorar muito."
-msgstr ""
+msgstr "تحميل ما يقرب من 1 غيغابايت، قد يستغرق وقتا طويلا."
 
 msgid "O Waydroid também pode ser iniciado utilizando o menu do sistema"
-msgstr ""
+msgstr "يمكن أيضًا بدء Waydroid باستخدام قائمة النظام."
 
 msgid ""
 "Se a aceleração 3D estiver ativada em um hardware incompatível\n"
 "    <br> o android não passará da tela de loading"
 msgstr ""
+"إذا تم تمكين تسريع ثلاثي الأبعاد على أجهزة غير متوافقة\n"
+" <br>لن يمرر Android شاشة التحميل"
 
 msgid "Parar o Waydroid"
-msgstr ""
+msgstr "ستوب وايدرويد"
 
 msgid "Iniciar o Waydroid"
-msgstr ""
+msgstr "ابدأ وايدرويد"
 
 msgid "Resolução"
-msgstr ""
+msgstr "الدقة"
 
 msgid "Ativar a aceleração 3D"
-msgstr ""
+msgstr "تنشيط التسريع ثلاثي الأبعاد"
 
 msgid "Desativar a aceleração 3D"
-msgstr ""
+msgstr "قم بإيقاف تشغيل التسارع ثلاثي الأبعاد"
 
 msgid "Instalar Waydroid"
-msgstr ""
+msgstr "تثبيت وايدرويد"
 
 msgid "Instalar Waydroid com Google Apps"
-msgstr ""
+msgstr "تثبيت Waydroid مع تطبيقات جوجل"
 
 msgid ""
 "Para ativar a PlayStore é necessário clicar em (Exibir ID do Android) e "
@@ -602,17 +684,24 @@ msgid ""
 "Google, insira seu ID do Android e faça o registro. Pode demorar alguns "
 "minutos para ativar no seu Waydroid. Feche e abra novamente. Pronto!"
 msgstr ""
+"لتنشيط PlayStore، تحتاج إلى النقر فوق (عرض معرف Android) ونسخ معرف Android، "
+"ثم النقر فوق (تنشيط تطبيقات Google) لفتح صفحة تسجيل الجهاز، تحتاج إلى تسجيل "
+"الدخول إلى حساب Google الخاص بك، وإدخال معرف Android الخاص بك والتسجيل. قد "
+"يستغرق الأمر بضع دقائق للتنشيط على Waydroid الخاص بك. أغلق وافتح مرة أخرى. "
+"جاهز!"
 
 msgid "Exibir ID do Android"
-msgstr ""
+msgstr "عرض معرف أندرويد"
 
 msgid "Ativar Google Apps"
-msgstr ""
+msgstr "تنشيط تطبيقات جوجل"
 
 msgid "ID do Android:"
-msgstr ""
+msgstr "معرف أندرويد:"
 
 msgid ""
 "Não foi possível resgatar o ID do Android. \\n\\nAtenção: Waydroid precisa "
 "estar aberto."
 msgstr ""
+"غير قادر على استرداد معرف Android.\\ n\\ nتحذير: يجب أن يكون Waydroid "
+"مفتوحًا."

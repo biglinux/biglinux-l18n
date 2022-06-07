@@ -26,9 +26,16 @@ msgid ""
 "\n"
 "Deseja prosseguir com com a instalação em modo EFI?"
 msgstr ""
+"Der aktuelle Bootvorgang erfolgt im EFI-Modus, allerdings habe ich auf "
+"diesem Computer keine EFI-Partitionen gefunden. Wenn auf diesem Computer "
+"bereits ein anderes System installiert ist und Sie möchten, dass es "
+"installiert bleibt, müssen Sie wahrscheinlich die Einstellung im BIOS "
+"ändern, um im Legacy-Modus zu booten, auch BIOS-Modus genannt.\n"
+"\n"
+"Möchten Sie mit der EFI-Installation fortfahren?"
 
 msgid "Instalar o sistema"
-msgstr ""
+msgstr "Installieren des Systems"
 
 msgid ""
 "O boot atual está utilizando o modo Legacy/BIOS, porém encontrei pelo menos "
@@ -38,45 +45,51 @@ msgid ""
 "\n"
 "Deseja prosseguir com com a instalação em modo Legacy/BIOS?"
 msgstr ""
+"Der aktuelle Bootvorgang erfolgt im Legacy/BIOS-Modus, aber ich habe "
+"mindestens eine EFI-Partition auf diesem Computer gefunden. Für eine "
+"erfolgreiche Installation müssen Sie wahrscheinlich die Einstellung im BIOS "
+"ändern, um im EFI- oder UEFI-Modus zu booten.\n"
+"\n"
+"Möchten Sie mit der Legacy/BIOS-Installation fortfahren?"
 
 msgid "Instalar o BigLinux"
-msgstr ""
+msgstr "Installation von BigLinux"
 
 msgid "PADRÃO"
-msgstr ""
+msgstr "STANDARD"
 
 msgid "DESEMPENHO"
-msgstr ""
+msgstr "PERFORMANCE"
 
 msgid "COMPATIBILIDADE"
-msgstr ""
+msgstr "KOMPATIBILITÄT"
 
 msgid "Compacta os dados"
-msgstr ""
+msgstr "Verdichten der Daten"
 
 msgid "Pontos de restauração"
-msgstr ""
+msgstr "Wiederherstellungspunkte"
 
 msgid "Adia a gravação dos dados"
-msgstr ""
+msgstr "Verschiebt die Datenaufzeichnung"
 
 msgid "Funciona com tabelas de particionamento antigas"
-msgstr ""
+msgstr "Funktioniert mit alten Partitionstabellen"
 
 msgid "BTRFS com fsync"
-msgstr ""
+msgstr "BTRFS mit fsync"
 
 msgid "BTRFS sem fsync"
-msgstr ""
+msgstr "BTRFS ohne fsync"
 
 msgid "SELECIONAR"
-msgstr ""
+msgstr "SELECT"
 
 msgid "Instalar no HD"
-msgstr ""
+msgstr "Auf HD installieren"
 
 msgid "O sistema está em modo"
-msgstr ""
+msgstr "Das System ist in"
 
 msgid "e com o kernel"
-msgstr ""
+msgstr "und mit dem Kernel"

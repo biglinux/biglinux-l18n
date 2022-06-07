@@ -21,9 +21,10 @@ msgid ""
 "Configuração alterada, se estiver utilizando o navegador, reinicie-o para "
 "que a nova configuração seja aplicada."
 msgstr ""
+"コンフィギュレーションが変更されました。新しいコンフィギュレーションを適用するために、ブラウザを使用している場合は、ブラウザを再起動してください。"
 
 msgid "Se estiver utilizando algum navegador, feche-o e abra novamente!"
-msgstr ""
+msgstr "ブラウザをお使いの方は、一度閉じてからもう一度開いてみてください"
 
 msgid ""
 "\n"
@@ -32,6 +33,11 @@ msgid ""
 "\n"
 "Selecione não para utilizar a configuração padrão do sistema.\n"
 msgstr ""
+"\n"
+"選択されたデスクトップ構成は、このシステムですでに使用されています。\n"
+"すでに使用されているコンフィギュレーションを復元しますか？\n"
+"\n"
+"デフォルトのシステム構成を使用する場合は、no を選択します。\n"
 
 msgid ""
 "Configuração aplicada!\n"
@@ -40,130 +46,136 @@ msgid ""
 "para que a configuração termine de\n"
 "ser aplicada."
 msgstr ""
+"コンフィギュレーションを適用しました\n"
+"\n"
+"一度ログアウトし、再度ログインする\n"
+"コンフィギュレーションが終了するまでの間\n"
+"を適用しました。"
 
 msgid "Temas"
-msgstr ""
+msgstr "テーマ"
 
 msgid "Desktop"
-msgstr ""
+msgstr "デスクトップ"
 
 msgid "Ajustes"
-msgstr ""
+msgstr "設定"
 
 msgid "Temas, Desktop e Ajustes"
-msgstr ""
+msgstr "テーマ、デスクトップ、設定"
 
 msgid "Desempenho do desktop"
-msgstr ""
+msgstr "デスクトップパフォーマンス"
 
 msgid "Aceleração do navegador"
-msgstr ""
+msgstr "ブラウザーアクセラレーション"
 
 msgid "Usabilidade"
-msgstr ""
+msgstr "ユーザビリティ"
 
 msgid "Tema dos aplicativos"
-msgstr ""
+msgstr "アプリケーションテーマ"
 
 msgid "Bordas arredondadas."
-msgstr ""
+msgstr "エッジを丸くした。"
 
 msgid ""
 "Esse tema possui transparências com efeitos que<br>podem tornar o sistema "
 "lento em computadores<br>antigos ou ambientes virtualizados."
-msgstr ""
+msgstr "このテーマには、<br>古い<br>コンピューターや仮想環境ではシステムの速度を低下させる効果のある透過性があります。"
 
 msgid "<b>Classic</b> e <b>New</b> têm melhor desempenho."
-msgstr ""
+msgstr "<b>Classicと</b> <b>Newは</b>性能が向上しています。"
 
 msgid "Renderizar o desktop via software"
-msgstr ""
+msgstr "ソフトウェアによるデスクトップのレンダリング"
 
 msgid "(Pode ser útil em máquina virtual ou computadores antigos)"
-msgstr ""
+msgstr "(仮想マシンや古いコンピュータで有効です)"
 
 msgid "Escolher programas a serem carregados na memória durante boot"
-msgstr ""
+msgstr "起動時にメモリに読み込むプログラムを選択する"
 
 msgid ""
 "O Preload carrega arquivos dos programas na memória, para que iniciem "
 "rapidamente. O uso excessivo causa lentidão. Escolha a opção desejada:"
 msgstr ""
+"プリロードは、プログラムファイルをメモリにロードし、素早く起動できるようにします。過剰に使用すると、動作が遅くなる。希望するオプションを選択します。"
 
 msgid "Automático"
-msgstr ""
+msgstr "自動"
 
 msgid "Ativar"
-msgstr ""
+msgstr "アクティベート"
 
 msgid "Desativar"
-msgstr ""
+msgstr "非アクティブ化"
 
 msgid "Configurações do Brave"
-msgstr ""
+msgstr "ブレイブコンフィギュレーション"
 
 msgid "Escolha a opção desejada:"
-msgstr ""
+msgstr "希望するオプションを選択します。"
 
 msgid "Remover propagandas"
-msgstr ""
+msgstr "広告を削除する"
 
 msgid "Suportar criptomoedas"
-msgstr ""
+msgstr "暗号通貨への対応"
 
 msgid "Botões da janela no lado esquerdo"
-msgstr ""
+msgstr "左側にあるウィンドウのボタン"
 
 msgid "Rolagem do mouse invertida"
-msgstr ""
+msgstr "マウスのスクロールが反転する"
 
 msgid "Pesquisar arquivos"
-msgstr ""
+msgstr "アーカイブを検索する"
 
 msgid "Bloquear a área de trabalho"
-msgstr ""
+msgstr "デスクトップをロックする"
 
 msgid "Tema aplicado"
-msgstr ""
+msgstr "適用テーマ"
 
 msgid ""
 "É preciso reiniciar a sessão para concluir a configuração. Deseja fazer "
 "agora?"
-msgstr ""
+msgstr "設定を完了するには、再度ログインする必要があります。今すぐやりたい？"
 
 msgid "Configuração do Desktop"
-msgstr ""
+msgstr "デスクトップ構成"
 
 msgid ""
 "Você já utilizou esse desktop antes, deseja  restaurar sua personalização ou "
 "utilizar a configuração original?"
-msgstr ""
+msgstr "このデスクトップを以前に使用したことがあり、そのカスタマイズを復元したいのか、それとも元の設定を使用したいのか？"
 
 msgid "Sim"
-msgstr ""
+msgstr "はい"
 
 msgid "Não"
-msgstr ""
+msgstr "いいえ"
 
 msgid "Original"
-msgstr ""
+msgstr "オリジナル"
 
 msgid "Restaurar"
-msgstr ""
+msgstr "リストア"
 
 msgid "Desktop aplicado"
-msgstr ""
+msgstr "デスクトップ適用"
 
 msgid ""
 "Utilizando renderização por software, a qualidade das transparências está "
 "reduzida."
-msgstr ""
+msgstr "ソフトウェアレンダリングを使用すると、透明度の高い画質が低下します。"
 
 msgid "Desempenho em modo normal!"
-msgstr ""
+msgstr "ノーマルモードでのパフォーマンス!"
 
 msgid "Desempenho em modo otimizado!"
-msgstr ""
+msgstr "エンハンスドモードでのパフォーマンス!"
 
 msgid "Desempenho em modo performance!"
-msgstr ""
+msgstr "パフォーマンスモードでのパフォーマンス!"
