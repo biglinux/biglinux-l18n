@@ -7,7 +7,7 @@
 msgid   ""
 msgstr  "Project-Id-Version: biglinux-livecd\n"
         "Report-Msgid-Bugs-To: \n"
-        "POT-Creation-Date: 2022-06-07 18:30-0300\n"
+        "POT-Creation-Date: 2022-06-07 18:32-0300\n"
         "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
         "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
         "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -21,6 +21,9 @@ msgstr  ""
 
 msgid   "Utilizando renderização por software, a qualidade das transparências "
         "será reduzida."
+msgstr  ""
+
+msgid   "Escolha o modelo do teclado:"
 msgstr  ""
 
 msgid   "Desempenho"
@@ -50,8 +53,8 @@ msgstr  ""
 msgid   "Escolha o desktop:"
 msgstr  ""
 
-msgid   "Classic e New têm melhor desempenho."
+msgid   "têm melhor desempenho."
 msgstr  ""
 
-msgid   "Escolha o modelo do teclado:"
+msgid   "e"
 msgstr  ""
