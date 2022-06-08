@@ -1,0 +1,101 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the bigocrpdf package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: bigocrpdf\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-06-08 04:00-0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit"
+
+msgid ""
+"Escolha o arquivo PDF para aplicar o OCR, com isso será possível efetuar "
+"buscas ou copiar textos.\n"
+"\n"
+"Você também pode utilizar o gerenciador de arquivos, clicar com o botão "
+"direito no arquivo PDF, 'Abrir com' e selecionar a opção de OCR."
+msgstr ""
+"Escolha o arquivo PDF para aplicar o OCR, com isso será possível efetuar "
+"buscas ou copiar textos.\n"
+"\n"
+"Você também pode utilizar o gerenciador de arquivos, clicar com o botão "
+"direito no arquivo PDF, 'Abrir com' e selecionar a opção de OCR."
+
+msgid "NORMAL"
+msgstr "NORMAL"
+
+msgid "ECONÔMICO"
+msgstr "ECONÔMICO"
+
+msgid "MAIS ECONÔMICO"
+msgstr "MAIS ECONÔMICO"
+
+msgid "ALINHAR"
+msgstr "ALINHAR"
+
+msgid "AUTO ROTAÇÃO"
+msgstr "AUTO ROTAÇÃO"
+
+msgid "ALINHAR E GIRAR AUTOMÁTICA"
+msgstr "ALINHAR E GIRAR AUTOMÁTICA"
+
+msgid "NÃO MUDE"
+msgstr "NÃO MUDE"
+
+msgid "ESPANHOL"
+msgstr "ESPANHOL"
+
+msgid "INGLÊS"
+msgstr "INGLÊS"
+
+msgid "PORTUGUÊS"
+msgstr "PORTUGUÊS"
+
+msgid ""
+"Você pode optar por reduzir a qualidade da imagem.<br>Dessa forma você terá "
+"arquivos menores, facilitando,<br>por exemplo, enviá-los por e-mail."
+msgstr ""
+"Você pode optar por reduzir a qualidade da imagem.<br>Dessa forma você terá "
+"arquivos menores, facilitando,<br>por exemplo, enviá-los por e-mail."
+
+msgid ""
+"Para adicionar novos idiomas, instale os complementos do tesseract no "
+"gerenciador de pacotes do sistema."
+msgstr ""
+"Para adicionar novos idiomas, instale os complementos do tesseract no "
+"gerenciador de pacotes do sistema."
+
+msgid "Aplicar"
+msgstr "Aplicar"
+
+msgid "Torne seu PDF pesquisável"
+msgstr "Torne seu PDF pesquisável"
+
+msgid ""
+"Adicionar OCR no PDF digitalizado permitindo seleção de textos e busca:"
+msgstr ""
+"Adicionar OCR no PDF digitalizado permitindo seleção de textos e busca:"
+
+msgid "ORC para PDF"
+msgstr "ORC para PDF"
+
+msgid "Arquivo"
+msgstr "Arquivo"
+
+msgid "Pasta:"
+msgstr "Pasta:"
+
+msgid "Abrir"
+msgstr "Abrir"
+
+msgid "Arquivo salvo: "
+msgstr "Arquivo salvo: "
