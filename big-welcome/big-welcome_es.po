@@ -18,113 +18,121 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit"
 
 msgid "Iniciando no BigLinux"
-msgstr ""
+msgstr "Iniciar BigLinux"
 
 msgid "Bem vindo ao BigLinux"
-msgstr ""
+msgstr "Bienvenido a BigLinux"
 
 msgid "Comece com algumas etapas simples."
-msgstr ""
+msgstr "Empieza con unos sencillos pasos."
 
 msgid "Mostrar na inicialização"
-msgstr ""
+msgstr "Mostrar al inicio"
 
 msgid "Olá"
-msgstr ""
+msgstr "Hola"
 
 msgid "Ajustes iniciais"
-msgstr ""
+msgstr "Ajustes iniciales"
 
 msgid ""
 "Disponiblizamos configurações completas para você selecionar de forma "
 "extremamente simples."
 msgstr ""
+"Le proporcionamos configuraciones completas para que pueda elegir de forma "
+"muy sencilla."
 
 msgid "Temas, Desktop e Ajustes"
-msgstr ""
+msgstr "Temas, escritorio y configuración"
 
 msgid "Escolha seu navegador padrão"
-msgstr ""
+msgstr "Elija su navegador por defecto"
 
 msgid "Defina seus programas padrões."
-msgstr ""
+msgstr "Establece tus programas por defecto."
 
 msgid "Outros navegadores"
-msgstr ""
+msgstr "Otros navegadores"
 
 msgid "KDE Connect"
-msgstr ""
+msgstr "KDE Connect"
 
 msgid ""
 "O KDE Connect é um aplicativo que facilita as comunicações sem fio e a "
 "transferência de dados entre dispositivos em redes locais. Disponível na "
 "Google Play Store para Android e Apple Store para iPhone."
 msgstr ""
+"KDE Connect es una aplicación que facilita las comunicaciones inalámbricas y "
+"la transferencia de datos entre dispositivos en redes locales. Disponible en "
+"Google Play Store para Android y Apple Store para iPhone."
 
 msgid "Instalação de Driver e Informações de Hardware"
-msgstr ""
+msgstr "Instalación de controladores e información sobre el hardware"
 
 msgid "Instalar ou Remover Drivers e Firmwares de forma simples."
-msgstr ""
+msgstr "Instale o elimine fácilmente los controladores y los firmwares."
 
 msgid "Impressoras"
-msgstr ""
+msgstr "Impresoras"
 
 msgid "Impressoras HP"
-msgstr ""
+msgstr "Impresoras HP"
 
 msgid "Conheça alguns recursos"
-msgstr ""
+msgstr "Conozca algunos recursos"
 
 msgid ""
 "Nosso sistema é colaborativo, venha fazer parte dessa evolução. Confira as "
 "novidades!"
 msgstr ""
+"Nuestro sistema es colaborativo, ven a formar parte de esta evolución. ¡Mira "
+"las noticias!"
 
 msgid "Central de Controle"
-msgstr ""
+msgstr "Centro de control"
 
 msgid "Big Store"
-msgstr ""
+msgstr "Gran almacén"
 
 msgid "Web Apps"
-msgstr ""
+msgstr "Aplicaciones web"
 
 msgid "Redutor de Ruídos"
-msgstr ""
+msgstr "Reductor de ruido"
 
 msgid "Configurar a voz do sistema (TTS)"
-msgstr ""
+msgstr "Configurar la voz del sistema (TTS)"
 
 msgid "OCR para PDF"
-msgstr ""
+msgstr "OCR para PDF"
 
 msgid "Doação e Redes sociais"
-msgstr ""
+msgstr "Donación y redes sociales"
 
 msgid "Sua doação é muito importante para o projeto e siga as redes sociais."
 msgstr ""
+"Tu donación es muy importante para el proyecto y sigue las redes sociales."
 
 msgid "Doação"
-msgstr ""
+msgstr "Donación"
 
 msgid "Fórum"
-msgstr ""
+msgstr "Foro"
 
 msgid "YouTube"
-msgstr ""
+msgstr "YouTube"
 
 msgid "Twitter"
-msgstr ""
+msgstr "Twitter"
 
 msgid "Telegram"
-msgstr ""
+msgstr "Telegrama"
 
 msgid "Instagram"
-msgstr ""
+msgstr "Instagram"
 
 msgid "Facebook"
-msgstr ""
+msgstr "Facebook"
 
 msgid "Parabéns, você concluiu os primeiros passo para utilizar o BigLinux."
-msgstr ""
+msgstr "Enhorabuena, has completado los primeros pasos para usar BigLinux."

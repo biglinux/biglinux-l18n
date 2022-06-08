@@ -36,16 +36,16 @@ msgid "Detectar Nome e Ícone"
 msgstr ""
 
 msgid "Nome:"
-msgstr ""
+msgstr "Nombre:"
 
 msgid "Ícone:"
-msgstr ""
+msgstr "Icono:"
 
 msgid "Alterar"
-msgstr ""
+msgstr "Cambiar"
 
 msgid "Navegador:"
-msgstr ""
+msgstr "Navegador:"
 
 msgid "Categoria:"
 msgstr ""
@@ -81,7 +81,7 @@ msgid "Para adicionar um WebApp, você precisa informar a Url e o Nome."
 msgstr ""
 
 msgid "Fechar"
-msgstr ""
+msgstr "Cerrar"
 
 msgid "Para detectar o Nome e o Ícone você precisa informar a Url."
 msgstr ""
@@ -104,31 +104,31 @@ msgid "Tem certeza que deseja remover este WebApp?"
 msgstr ""
 
 msgid "Desenvolvimento"
-msgstr ""
+msgstr "Desarrollo"
 
 msgid "Nenhum WebApp adicionado!"
 msgstr ""
 
 msgid "Escritório"
-msgstr ""
+msgstr "Oficina"
 
 msgid "Navegador padrão<br>dos webapps:"
 msgstr ""
 
 msgid "Gráficos"
-msgstr ""
+msgstr "Gráficos"
 
 msgid "Alterar navegador"
 msgstr ""
 
 msgid "Jogos"
-msgstr ""
+msgstr "Juegos"
 
 msgid "Selecione o navegador preferido:"
 msgstr ""
 
 msgid "Multimídia"
-msgstr ""
+msgstr "Multimedia"
 
 msgid "WebApps Nativos"
 msgstr ""

@@ -48,7 +48,7 @@ msgstr ""
 "$COMMENT_skel"
 
 msgid "Fechar"
-msgstr ""
+msgstr "Cerrar"
 
 msgid "Restaurar no modo padrão da distribuição"
 msgstr "Restablecer el modo de distribución por defecto"
@@ -107,10 +107,10 @@ msgid "Internet"
 msgstr "Internet"
 
 msgid "Gráficos"
-msgstr ""
+msgstr "Gráficos"
 
 msgid "Pesquisar Restaurar"
 msgstr "Búsqueda de restauración"
 
 msgid "Sistema"
-msgstr ""
+msgstr "Sistema"

@@ -86,7 +86,7 @@ msgid "Voltar"
 msgstr "Volver"
 
 msgid "Fechar"
-msgstr ""
+msgstr "Cerrar"
 
 msgid "Aguarde..."
-msgstr ""
+msgstr "Por favor, espere..."

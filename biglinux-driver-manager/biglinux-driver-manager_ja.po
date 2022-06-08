@@ -116,6 +116,9 @@ msgstr "システム・ハードウェア情報"
 msgid "Instalar ou Remover Drivers"
 msgstr "ドライバのインストールと削除"
 
+msgid "Abrir"
+msgstr ""
+
 msgid ""
 "O BigLinux inclui milhares de drivers e firmwares por padrão, porém ainda "
 "pode ser necessário instalar mais alguns."
@@ -124,8 +127,14 @@ msgstr "BigLinuxにはデフォルトで数千のドライバとファームウ�
 msgid "Gerar Relatório"
 msgstr "レポート作成"
 
+msgid "Memória RAM:"
+msgstr ""
+
 msgid "Ver informações do dispositivo no Linux Hardware"
 msgstr "Linux Hardwareのデバイス情報を表示する"
+
+msgid "Vídeo:"
+msgstr ""
 
 msgid "Categoria"
 msgstr "カテゴリー"
@@ -133,8 +142,17 @@ msgstr "カテゴリー"
 msgid "ID"
 msgstr "ID"
 
+msgid "Instalado na partição:"
+msgstr ""
+
 msgid "Info"
 msgstr "情報"
+
+msgid "Tamanho da partição:"
+msgstr ""
+
+msgid "Espaço utilizado:"
+msgstr ""
 
 msgid "Enviar para transfer.sh"
 msgstr "transfer.shに送信する"
@@ -142,8 +160,17 @@ msgstr "transfer.shに送信する"
 msgid "Visualizar"
 msgstr "表示"
 
+msgid "Espaço livre:"
+msgstr ""
+
+msgid "Data que o sistema foi instalado:"
+msgstr ""
+
 msgid "O relatório foi salvo no arquivo:"
 msgstr "レポートがアーカイブに保存されました。"
+
+msgid "Kernel em uso:"
+msgstr ""
 
 msgid ""
 "Deseja visualizar o arquivo ou envia-lo ao site transfer.sh, para ter uma "
@@ -158,6 +185,9 @@ msgstr "<small>* プリンター、スキャナーは検出対象に含まれま
 
 msgid "Wifi"
 msgstr "無線LAN"
+
+msgid "Cria um arquivo com informações que pode ser publicado na internet."
+msgstr ""
 
 msgid "Rede Cabeada"
 msgstr "有線ネットワーク"

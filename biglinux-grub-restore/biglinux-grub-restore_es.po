@@ -39,7 +39,7 @@ msgid "Restaurar o Boot, Grub e initrd"
 msgstr "Restaurar Boot, Grub e initrd"
 
 msgid "Aguarde..."
-msgstr ""
+msgstr "Por favor, espere..."
 
 msgid ""
 "Não encontrei nenhum Linux instalado neste computador, processo cancelado.\n"
@@ -218,4 +218,4 @@ msgstr ""
 "    ¿Quieres continuar?"
 
 msgid "Concluído!"
-msgstr ""
+msgstr "¡Hecho!"

@@ -117,6 +117,9 @@ msgstr "Informações Sobre o Sistema e o Hardware"
 msgid "Instalar ou Remover Drivers"
 msgstr "Instalar ou Remover Drivers"
 
+msgid "Abrir"
+msgstr ""
+
 msgid ""
 "O BigLinux inclui milhares de drivers e firmwares por padrão, porém ainda "
 "pode ser necessário instalar mais alguns."
@@ -127,8 +130,14 @@ msgstr ""
 msgid "Gerar Relatório"
 msgstr "Gerar Relatório"
 
+msgid "Memória RAM:"
+msgstr ""
+
 msgid "Ver informações do dispositivo no Linux Hardware"
 msgstr "Ver informações do dispositivo no Linux Hardware"
+
+msgid "Vídeo:"
+msgstr ""
 
 msgid "Categoria"
 msgstr "Categoria"
@@ -136,8 +145,17 @@ msgstr "Categoria"
 msgid "ID"
 msgstr "ID"
 
+msgid "Instalado na partição:"
+msgstr ""
+
 msgid "Info"
 msgstr "Info"
+
+msgid "Tamanho da partição:"
+msgstr ""
+
+msgid "Espaço utilizado:"
+msgstr ""
 
 msgid "Enviar para transfer.sh"
 msgstr "Enviar para transfer.sh"
@@ -145,8 +163,17 @@ msgstr "Enviar para transfer.sh"
 msgid "Visualizar"
 msgstr "Visualizar"
 
+msgid "Espaço livre:"
+msgstr ""
+
+msgid "Data que o sistema foi instalado:"
+msgstr ""
+
 msgid "O relatório foi salvo no arquivo:"
 msgstr "O relatório foi salvo no arquivo:"
+
+msgid "Kernel em uso:"
+msgstr ""
 
 msgid ""
 "Deseja visualizar o arquivo ou envia-lo ao site transfer.sh, para ter uma "
@@ -163,6 +190,9 @@ msgstr "<small>* A detecção não inclui impressoras e scanners</small>"
 
 msgid "Wifi"
 msgstr "Wifi"
+
+msgid "Cria um arquivo com informações que pode ser publicado na internet."
+msgstr ""
 
 msgid "Rede Cabeada"
 msgstr "Rede Cabeada"

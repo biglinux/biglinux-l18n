@@ -117,6 +117,9 @@ msgstr "Информация о системе и аппаратном обес�
 msgid "Instalar ou Remover Drivers"
 msgstr "Установка или удаление драйверов"
 
+msgid "Abrir"
+msgstr ""
+
 msgid ""
 "O BigLinux inclui milhares de drivers e firmwares por padrão, porém ainda "
 "pode ser necessário instalar mais alguns."
@@ -127,8 +130,14 @@ msgstr ""
 msgid "Gerar Relatório"
 msgstr "Создать отчет"
 
+msgid "Memória RAM:"
+msgstr ""
+
 msgid "Ver informações do dispositivo no Linux Hardware"
 msgstr "Просмотр информации об устройстве на Linux Hardware"
+
+msgid "Vídeo:"
+msgstr ""
 
 msgid "Categoria"
 msgstr "Категория"
@@ -136,8 +145,17 @@ msgstr "Категория"
 msgid "ID"
 msgstr "ID"
 
+msgid "Instalado na partição:"
+msgstr ""
+
 msgid "Info"
 msgstr "Информация"
+
+msgid "Tamanho da partição:"
+msgstr ""
+
+msgid "Espaço utilizado:"
+msgstr ""
 
 msgid "Enviar para transfer.sh"
 msgstr "Отправить в transfer.sh"
@@ -145,8 +163,17 @@ msgstr "Отправить в transfer.sh"
 msgid "Visualizar"
 msgstr "Посмотреть"
 
+msgid "Espaço livre:"
+msgstr ""
+
+msgid "Data que o sistema foi instalado:"
+msgstr ""
+
 msgid "O relatório foi salvo no arquivo:"
 msgstr "Отчет сохранен в архиве:"
+
+msgid "Kernel em uso:"
+msgstr ""
 
 msgid ""
 "Deseja visualizar o arquivo ou envia-lo ao site transfer.sh, para ter uma "
@@ -163,6 +190,9 @@ msgstr "<small>* Обнаружение не включает принтеры �
 
 msgid "Wifi"
 msgstr "Wifi"
+
+msgid "Cria um arquivo com informações que pode ser publicado na internet."
+msgstr ""
 
 msgid "Rede Cabeada"
 msgstr "Проводная сеть"

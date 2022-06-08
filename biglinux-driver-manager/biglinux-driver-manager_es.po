@@ -117,6 +117,9 @@ msgstr "Información sobre el sistema y el hardware"
 msgid "Instalar ou Remover Drivers"
 msgstr "Instalar o quitar controladores"
 
+msgid "Abrir"
+msgstr "Abrir"
+
 msgid ""
 "O BigLinux inclui milhares de drivers e firmwares por padrão, porém ainda "
 "pode ser necessário instalar mais alguns."
@@ -127,8 +130,14 @@ msgstr ""
 msgid "Gerar Relatório"
 msgstr "Generar informe"
 
+msgid "Memória RAM:"
+msgstr ""
+
 msgid "Ver informações do dispositivo no Linux Hardware"
 msgstr "Ver la información del dispositivo en el hardware de Linux"
+
+msgid "Vídeo:"
+msgstr ""
 
 msgid "Categoria"
 msgstr "Categoría"
@@ -136,8 +145,17 @@ msgstr "Categoría"
 msgid "ID"
 msgstr "ID"
 
+msgid "Instalado na partição:"
+msgstr "Instalado en la partición:"
+
 msgid "Info"
 msgstr "Información"
+
+msgid "Tamanho da partição:"
+msgstr "Tamaño de la partición:"
+
+msgid "Espaço utilizado:"
+msgstr "Espacio utilizado:"
 
 msgid "Enviar para transfer.sh"
 msgstr "Enviar a transfer.sh"
@@ -145,8 +163,17 @@ msgstr "Enviar a transfer.sh"
 msgid "Visualizar"
 msgstr "Ver"
 
+msgid "Espaço livre:"
+msgstr "Espacio libre:"
+
+msgid "Data que o sistema foi instalado:"
+msgstr "Fecha de instalación del sistema:"
+
 msgid "O relatório foi salvo no arquivo:"
 msgstr "El informe se ha guardado en el archivo:"
+
+msgid "Kernel em uso:"
+msgstr ""
 
 msgid ""
 "Deseja visualizar o arquivo ou envia-lo ao site transfer.sh, para ter uma "
@@ -164,11 +191,14 @@ msgstr "<small>* La detección no incluye impresoras ni escáneres</small>"
 msgid "Wifi"
 msgstr "Wifi"
 
+msgid "Cria um arquivo com informações que pode ser publicado na internet."
+msgstr ""
+
 msgid "Rede Cabeada"
 msgstr "Red cableada"
 
 msgid "Hardware"
-msgstr ""
+msgstr "Hardware"
 
 msgid "Impressora 3D"
 msgstr "Impresora 3D"
@@ -186,7 +216,7 @@ msgid "Touchscreen"
 msgstr "Pantalla táctil"
 
 msgid "Fechar"
-msgstr ""
+msgstr "Cerrar"
 
 msgid "Som"
 msgstr "Sonido"
@@ -204,7 +234,7 @@ msgid "Instalar ou Remover Drivers e Firmwares"
 msgstr "Instalar o eliminar controladores y firmware"
 
 msgid "Nome"
-msgstr ""
+msgstr "Nombre"
 
 msgid ""
 "Geralmente é preciso reiniciar o computador para o driver ou firmware ser "

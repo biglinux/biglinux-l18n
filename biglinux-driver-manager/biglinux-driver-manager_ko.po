@@ -115,6 +115,9 @@ msgstr "시스템 및 하드웨어 정보"
 msgid "Instalar ou Remover Drivers"
 msgstr "드라이버 설치 또는 제거"
 
+msgid "Abrir"
+msgstr ""
+
 msgid ""
 "O BigLinux inclui milhares de drivers e firmwares por padrão, porém ainda "
 "pode ser necessário instalar mais alguns."
@@ -123,8 +126,14 @@ msgstr "BigLinux에는 기본적으로 수천 개의 드라이버와 펌웨어�
 msgid "Gerar Relatório"
 msgstr "보고서 생성"
 
+msgid "Memória RAM:"
+msgstr ""
+
 msgid "Ver informações do dispositivo no Linux Hardware"
 msgstr "Linux 하드웨어에 대한 장치 정보 보기"
+
+msgid "Vídeo:"
+msgstr ""
 
 msgid "Categoria"
 msgstr "카테고리"
@@ -132,8 +141,17 @@ msgstr "카테고리"
 msgid "ID"
 msgstr "신분증"
 
+msgid "Instalado na partição:"
+msgstr ""
+
 msgid "Info"
 msgstr "정보"
+
+msgid "Tamanho da partição:"
+msgstr ""
+
+msgid "Espaço utilizado:"
+msgstr ""
 
 msgid "Enviar para transfer.sh"
 msgstr "transfer.sh 으로 보내기"
@@ -141,8 +159,17 @@ msgstr "transfer.sh 으로 보내기"
 msgid "Visualizar"
 msgstr "전망"
 
+msgid "Espaço livre:"
+msgstr ""
+
+msgid "Data que o sistema foi instalado:"
+msgstr ""
+
 msgid "O relatório foi salvo no arquivo:"
 msgstr "보고서가 파일에 저장되었습니다."
+
+msgid "Kernel em uso:"
+msgstr ""
 
 msgid ""
 "Deseja visualizar o arquivo ou envia-lo ao site transfer.sh, para ter uma "
@@ -157,6 +184,9 @@ msgstr "<small>* 감지 기능에는 프린터 및 스캐너가 포함되지 않
 
 msgid "Wifi"
 msgstr "와이파이"
+
+msgid "Cria um arquivo com informações que pode ser publicado na internet."
+msgstr ""
 
 msgid "Rede Cabeada"
 msgstr "케이블 연결 네트워크"

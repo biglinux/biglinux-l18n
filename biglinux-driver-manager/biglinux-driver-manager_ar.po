@@ -117,6 +117,9 @@ msgstr "معلومات النظام والأجهزة"
 msgid "Instalar ou Remover Drivers"
 msgstr "تثبيت برامج التشغيل أو إزالتها"
 
+msgid "Abrir"
+msgstr ""
+
 msgid ""
 "O BigLinux inclui milhares de drivers e firmwares por padrão, porém ainda "
 "pode ser necessário instalar mais alguns."
@@ -127,8 +130,14 @@ msgstr ""
 msgid "Gerar Relatório"
 msgstr "إنشاء تقرير"
 
+msgid "Memória RAM:"
+msgstr ""
+
 msgid "Ver informações do dispositivo no Linux Hardware"
 msgstr "عرض معلومات الجهاز على أجهزة Linux"
+
+msgid "Vídeo:"
+msgstr ""
 
 msgid "Categoria"
 msgstr "الفئة"
@@ -136,8 +145,17 @@ msgstr "الفئة"
 msgid "ID"
 msgstr "هوية شخصية"
 
+msgid "Instalado na partição:"
+msgstr ""
+
 msgid "Info"
 msgstr "معلومات"
+
+msgid "Tamanho da partição:"
+msgstr ""
+
+msgid "Espaço utilizado:"
+msgstr ""
 
 msgid "Enviar para transfer.sh"
 msgstr "إرسال إلى transfer.sh"
@@ -145,8 +163,17 @@ msgstr "إرسال إلى transfer.sh"
 msgid "Visualizar"
 msgstr "منظر"
 
+msgid "Espaço livre:"
+msgstr ""
+
+msgid "Data que o sistema foi instalado:"
+msgstr ""
+
 msgid "O relatório foi salvo no arquivo:"
 msgstr "تم حفظ التقرير في الملف:"
+
+msgid "Kernel em uso:"
+msgstr ""
 
 msgid ""
 "Deseja visualizar o arquivo ou envia-lo ao site transfer.sh, para ter uma "
@@ -164,6 +191,9 @@ msgstr "<small>* الكشف لا يشمل الطابعات والماسحات ا
 
 msgid "Wifi"
 msgstr "واي فاي"
+
+msgid "Cria um arquivo com informações que pode ser publicado na internet."
+msgstr ""
 
 msgid "Rede Cabeada"
 msgstr "الشبكة الكبلية"

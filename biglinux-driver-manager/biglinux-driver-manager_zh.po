@@ -115,6 +115,9 @@ msgstr "系统和硬件信息"
 msgid "Instalar ou Remover Drivers"
 msgstr "安装或删除驱动程序"
 
+msgid "Abrir"
+msgstr ""
+
 msgid ""
 "O BigLinux inclui milhares de drivers e firmwares por padrão, porém ainda "
 "pode ser necessário instalar mais alguns."
@@ -123,8 +126,14 @@ msgstr "BigLinux默认包括数千个驱动程序和固件，但你可能仍然�
 msgid "Gerar Relatório"
 msgstr "生成报告"
 
+msgid "Memória RAM:"
+msgstr ""
+
 msgid "Ver informações do dispositivo no Linux Hardware"
 msgstr "查看Linux硬件上的设备信息"
+
+msgid "Vídeo:"
+msgstr ""
 
 msgid "Categoria"
 msgstr "类别"
@@ -132,8 +141,17 @@ msgstr "类别"
 msgid "ID"
 msgstr "身份证"
 
+msgid "Instalado na partição:"
+msgstr "安装在分区上。"
+
 msgid "Info"
 msgstr "信息"
+
+msgid "Tamanho da partição:"
+msgstr "分区大小。"
+
+msgid "Espaço utilizado:"
+msgstr "使用的空间。"
 
 msgid "Enviar para transfer.sh"
 msgstr "发送到transfer.sh"
@@ -141,8 +159,17 @@ msgstr "发送到transfer.sh"
 msgid "Visualizar"
 msgstr "查看"
 
+msgid "Espaço livre:"
+msgstr "清理空间。"
+
+msgid "Data que o sistema foi instalado:"
+msgstr "系统安装的日期。"
+
 msgid "O relatório foi salvo no arquivo:"
 msgstr "该报告已被保存到档案馆。"
+
+msgid "Kernel em uso:"
+msgstr ""
 
 msgid ""
 "Deseja visualizar o arquivo ou envia-lo ao site transfer.sh, para ter uma "
@@ -157,6 +184,9 @@ msgstr "<small>* 检测不包括打印机和扫描仪</small>"
 
 msgid "Wifi"
 msgstr "无线网络"
+
+msgid "Cria um arquivo com informações que pode ser publicado na internet."
+msgstr ""
 
 msgid "Rede Cabeada"
 msgstr "有线网络"
