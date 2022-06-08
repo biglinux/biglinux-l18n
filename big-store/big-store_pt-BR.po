@@ -461,3 +461,70 @@ msgstr "Empacotador:"
 
 msgid "Cancelar"
 msgstr "Cancelar"
+
+#: big-store/big-store/usr/share/bigbashview/bcc/apps/big-store/view_appstream_pamac.py:92
+#: big-store/big-store/usr/share/bigbashview/bcc/apps/big-store/view_aur.py:49
+msgid "Reinstalar"
+msgstr "Reinstalar"
+
+#: big-store/big-store/usr/share/bigbashview/bcc/apps/big-store/view_appstream_pamac.py:130
+#: big-store/big-store/usr/share/bigbashview/bcc/apps/big-store/view_flatpak_pamac.py:113
+msgid "Versão instalada:"
+msgstr "Versão instalada:"
+
+#: big-store/big-store/usr/share/bigbashview/bcc/apps/big-store/view_appstream_pamac.py:142
+#: big-store/big-store/usr/share/bigbashview/bcc/apps/big-store/view_flatpak_pamac.py:116
+msgid "Uso de armazenamento:"
+msgstr "Uso de armazenamento:"
+
+#: big-store/big-store/usr/share/bigbashview/bcc/apps/big-store/view_appstream_pamac.py:145
+#: big-store/big-store/usr/share/bigbashview/bcc/apps/big-store/view_flatpak_pamac.py:119
+msgid "Tamanho do download:"
+msgstr "Tamanho do download:"
+
+#: big-store/big-store/usr/share/bigbashview/bcc/apps/big-store/view_appstream_pamac.py:149
+#: big-store/big-store/usr/share/bigbashview/bcc/apps/big-store/view_flatpak_pamac.py:123
+msgid "Site:"
+msgstr "Site:"
+
+#: big-store/big-store/usr/share/bigbashview/bcc/apps/big-store/view_appstream_pamac.py:186
+msgid "Motivo da instalação:"
+msgstr "Motivo da instalação:"
+
+#: big-store/big-store/usr/share/bigbashview/bcc/apps/big-store/view_appstream_pamac.py:191
+msgid "Grupos:"
+msgstr "Grupos:"
+
+#: big-store/big-store/usr/share/bigbashview/bcc/apps/big-store/view_appstream_pamac.py:199
+msgid "Assinado:"
+msgstr "Assinado:"
+
+#: big-store/big-store/usr/share/bigbashview/bcc/apps/big-store/view_appstream_pamac.py:204
+msgid "Complementos:"
+msgstr "Complementos:"
+
+#: big-store/big-store/usr/share/bigbashview/bcc/apps/big-store/view_appstream_pamac.py:223
+msgid "Dependências:"
+msgstr "Dependências:"
+
+#: big-store/big-store/usr/share/bigbashview/bcc/apps/big-store/view_appstream_pamac.py:231
+msgid "Remove:"
+msgstr "Remove:"
+
+#: big-store/big-store/usr/share/bigbashview/bcc/apps/big-store/view_appstream_pamac.py:239
+msgid "Substitui:"
+msgstr "Substitui:"
+
+#: big-store/big-store/usr/share/bigbashview/bcc/apps/big-store/view_appstream_pamac.py:246
+#: big-store/big-store/usr/share/bigbashview/bcc/apps/big-store/view_flatpak_pamac.py:148
+msgid "Arquivos do pacote:"
+msgstr "Arquivos do pacote:"
+
+#: big-store/big-store/usr/share/bigbashview/bcc/apps/big-store/view_appstream_pamac.py:249
+#: big-store/big-store/usr/share/bigbashview/bcc/apps/big-store/view_flatpak_pamac.py:150
+msgid "Clique aqui para ver os arquivos"
+msgstr "Clique aqui para ver os arquivos"
+
+#: big-store/big-store/usr/share/bigbashview/bcc/apps/big-store/view_aur.py:23
+msgid "Informações sobre programas AUR"
+msgstr "Informações sobre programas AUR"

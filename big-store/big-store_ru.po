@@ -24,7 +24,7 @@ msgid "Big-Store"
 msgstr "Большой магазин"
 
 msgid "Instalar"
-msgstr ""
+msgstr "Установите"
 
 msgid ""
 "Para os programas Snap aparecerem no menu do sistema finalize a sessão e "
@@ -34,7 +34,7 @@ msgstr ""
 "войдите в нее."
 
 msgid "Remover"
-msgstr ""
+msgstr "Удалить"
 
 msgid "Configurações"
 msgstr "Настройки"
@@ -46,7 +46,7 @@ msgid "Suporte a Flatpak NÃO está ativo."
 msgstr "Поддержка Flatpak НЕ активна."
 
 msgid "Desativar"
-msgstr ""
+msgstr "Деактивировать"
 
 msgid "Suporte a Snap ativo."
 msgstr "Активная поддержка Snap."
@@ -55,7 +55,7 @@ msgid "Suporte a Snap NÃO está ativo."
 msgstr "Поддержка Snap НЕ активна."
 
 msgid "Ativar"
-msgstr ""
+msgstr "Активировать"
 
 msgid "Executar"
 msgstr "Запускайте"
@@ -180,7 +180,7 @@ msgid "Download"
 msgstr "Скачать"
 
 msgid "Internet"
-msgstr ""
+msgstr "Интернет"
 
 msgid "Compartilhadores e Torrent"
 msgstr "Делители и торрент"
@@ -210,7 +210,7 @@ msgid "Visualizadores de imagem"
 msgstr "Зрители изображений"
 
 msgid "Escritório"
-msgstr ""
+msgstr "Офис"
 
 msgid "Editores de imagem e ferramentas de desenho"
 msgstr "Редакторы изображений и инструменты для рисования"
@@ -228,7 +228,7 @@ msgid "Reprodutores de áudio"
 msgstr "Аудиоплееры"
 
 msgid "Gráficos"
-msgstr ""
+msgstr "Графика"
 
 msgid "Rádio online"
 msgstr "Онлайн-радио"
@@ -249,7 +249,7 @@ msgid "Editores e compactadores de vídeo"
 msgstr "Видеоредакторы и компрессоры"
 
 msgid "Multimídia"
-msgstr ""
+msgstr "Мультимедиа"
 
 msgid "Gravadores e copiadores de CD e DVD"
 msgstr "CD и DVD рекордеры и копировальные аппараты"
@@ -321,13 +321,13 @@ msgid "Instalado na partição:"
 msgstr "Установлен на раздел:"
 
 msgid "Outros"
-msgstr ""
+msgstr "Другое"
 
 msgid "Tamanho da partição:"
 msgstr "Размер раздела:"
 
 msgid "Sistema"
-msgstr ""
+msgstr "Система"
 
 msgid "Espaço utilizado:"
 msgstr "Используемое пространство:"
@@ -345,7 +345,7 @@ msgid "Instalados:"
 msgstr "Установлен:"
 
 msgid "Desenvolvimento"
-msgstr ""
+msgstr "Разработка"
 
 msgid "Disponíveis:"
 msgstr "Доступно:"
@@ -411,7 +411,7 @@ msgid "mas não está disponível"
 msgstr "но она недоступна"
 
 msgid "Categorias"
-msgstr ""
+msgstr "Категории"
 
 msgid "Informações sobre programas nativos"
 msgstr "Информация об отечественных программах"
@@ -426,7 +426,7 @@ msgid "Repositório:"
 msgstr "Репозиторий:"
 
 msgid "Fechar"
-msgstr ""
+msgstr "Закрыть"
 
 msgid "Instalando"
 msgstr "Установка"
@@ -438,13 +438,13 @@ msgid "Informações sobre programas SNAP"
 msgstr "Информация о программах SNAP"
 
 msgid "Mais informações"
-msgstr ""
+msgstr "Дополнительная информация"
 
 msgid "Programas SNAP"
 msgstr "Программы SNAP"
 
 msgid "Voltar"
-msgstr ""
+msgstr "Назад"
 
 msgid "Versão disponivel:"
 msgstr "Доступна версия:"
@@ -459,4 +459,49 @@ msgid "Empacotador:"
 msgstr "Пакер:"
 
 msgid "Cancelar"
+msgstr "Отмена"
+
+msgid "Reinstalar"
+msgstr ""
+
+msgid "Versão instalada:"
+msgstr ""
+
+msgid "Uso de armazenamento:"
+msgstr ""
+
+msgid "Tamanho do download:"
+msgstr ""
+
+msgid "Site:"
+msgstr ""
+
+msgid "Motivo da instalação:"
+msgstr ""
+
+msgid "Grupos:"
+msgstr ""
+
+msgid "Assinado:"
+msgstr ""
+
+msgid "Complementos:"
+msgstr ""
+
+msgid "Dependências:"
+msgstr ""
+
+msgid "Remove:"
+msgstr ""
+
+msgid "Substitui:"
+msgstr ""
+
+msgid "Arquivos do pacote:"
+msgstr ""
+
+msgid "Clique aqui para ver os arquivos"
+msgstr ""
+
+msgid "Informações sobre programas AUR"
 msgstr ""

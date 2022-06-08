@@ -69,7 +69,7 @@ msgid "Desempenho do desktop"
 msgstr "Производительность рабочего стола"
 
 msgid "Aceleração do navegador"
-msgstr ""
+msgstr "Ускорение работы браузера"
 
 msgid "Usabilidade"
 msgstr "Юзабилити"
@@ -81,7 +81,7 @@ msgid "Bordas arredondadas."
 msgstr "Закругленные края."
 
 msgid "Fechar"
-msgstr ""
+msgstr "Закрыть"
 
 msgid "<b>Classic</b> e <b>New</b> têm melhor desempenho."
 msgstr "<b>Classic</b> и <b>New</b> имеют лучшую производительность."
@@ -93,6 +93,8 @@ msgid ""
 "Esse tema possui transparências com efeitos que<br>podem tornar o sistema "
 "lento em computadores<br>antigos ou ambientes virtualizados."
 msgstr ""
+"В этой теме есть прозрачности с эффектами, которые могут<br>замедлить работу "
+"системы на старых компьютерах<br>или в виртуальных средах</br></br>."
 
 msgid "(Pode ser útil em máquina virtual ou computadores antigos)"
 msgstr "(Может быть полезно для виртуальных машин или старых компьютеров)"

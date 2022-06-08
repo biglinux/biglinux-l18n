@@ -461,3 +461,48 @@ msgstr "Empacotador:"
 
 msgid "Cancelar"
 msgstr ""
+
+msgid "Reinstalar"
+msgstr ""
+
+msgid "Versão instalada:"
+msgstr ""
+
+msgid "Uso de armazenamento:"
+msgstr ""
+
+msgid "Tamanho do download:"
+msgstr ""
+
+msgid "Site:"
+msgstr ""
+
+msgid "Motivo da instalação:"
+msgstr ""
+
+msgid "Grupos:"
+msgstr ""
+
+msgid "Assinado:"
+msgstr ""
+
+msgid "Complementos:"
+msgstr ""
+
+msgid "Dependências:"
+msgstr ""
+
+msgid "Remove:"
+msgstr ""
+
+msgid "Substitui:"
+msgstr ""
+
+msgid "Arquivos do pacote:"
+msgstr ""
+
+msgid "Clique aqui para ver os arquivos"
+msgstr ""
+
+msgid "Informações sobre programas AUR"
+msgstr ""

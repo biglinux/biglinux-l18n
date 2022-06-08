@@ -81,7 +81,7 @@ msgid "Para adicionar um WebApp, você precisa informar a Url e o Nome."
 msgstr ""
 
 msgid "Fechar"
-msgstr ""
+msgstr "Закрыть"
 
 msgid "Para detectar o Nome e o Ícone você precisa informar a Url."
 msgstr ""
@@ -104,31 +104,31 @@ msgid "Tem certeza que deseja remover este WebApp?"
 msgstr ""
 
 msgid "Desenvolvimento"
-msgstr ""
+msgstr "Разработка"
 
 msgid "Nenhum WebApp adicionado!"
 msgstr ""
 
 msgid "Escritório"
-msgstr ""
+msgstr "Офис"
 
 msgid "Navegador padrão<br>dos webapps:"
 msgstr ""
 
 msgid "Gráficos"
-msgstr ""
+msgstr "Графика"
 
 msgid "Alterar navegador"
 msgstr ""
 
 msgid "Jogos"
-msgstr ""
+msgstr "Игры"
 
 msgid "Selecione o navegador preferido:"
 msgstr ""
 
 msgid "Multimídia"
-msgstr ""
+msgstr "Мультимедиа"
 
 msgid "WebApps Nativos"
 msgstr ""

@@ -449,11 +449,19 @@ msgid ""
 "compartilhar na internet."
 msgstr "정보를 보는 것 외에도 파일에 저장하여 인터넷에서 공유 할 수 있습니다."
 
+msgid "Abrir"
+msgstr ""
+
 msgid "Conectar à internet"
 msgstr "인터넷에 연결"
 
 msgid "Conecte na internet por cabo de rede ou wifi."
 msgstr "네트워크 케이블 또는 WiFi를 통해 인터넷에 연결합니다."
+
+msgid ""
+"Lista com alguns programas do sistema que você pode restaurar a configuração "
+"com um clique."
+msgstr ""
 
 msgid "Conectar à internet utilizando o Android"
 msgstr "안드로이드를 사용하여 인터넷에 연결"
@@ -668,6 +676,11 @@ msgstr ""
 
 msgid "Parar o Waydroid"
 msgstr "스탑 웨이드로이드"
+
+msgid ""
+"Se a aceleração 3D estiver ativada em um hardware incompatível<br> o android "
+"não passará da tela de loading"
+msgstr ""
 
 msgid "Iniciar o Waydroid"
 msgstr "스타트 웨이드로이드"

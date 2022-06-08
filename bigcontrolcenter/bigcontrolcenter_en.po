@@ -476,11 +476,19 @@ msgstr ""
 "Besides viewing the information, it is possible to save it to a file and "
 "share it on the internet."
 
+msgid "Abrir"
+msgstr "Open"
+
 msgid "Conectar à internet"
 msgstr "Connect to the Internet"
 
 msgid "Conecte na internet por cabo de rede ou wifi."
 msgstr "Connect to the Internet by network cable or wifi."
+
+msgid ""
+"Lista com alguns programas do sistema que você pode restaurar a configuração "
+"com um clique."
+msgstr ""
 
 msgid "Conectar à internet utilizando o Android"
 msgstr "Connect to the internet using Android"
@@ -718,6 +726,11 @@ msgstr ""
 
 msgid "Parar o Waydroid"
 msgstr "Stop the Waydroid"
+
+msgid ""
+"Se a aceleração 3D estiver ativada em um hardware incompatível<br> o android "
+"não passará da tela de loading"
+msgstr ""
 
 msgid "Iniciar o Waydroid"
 msgstr "Start Waydroid"

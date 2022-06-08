@@ -39,7 +39,7 @@ msgid "Restaurar o Boot, Grub e initrd"
 msgstr "Восстановление загрузки, Grub и initrd"
 
 msgid "Aguarde..."
-msgstr ""
+msgstr "Пожалуйста, подождите..."
 
 msgid ""
 "Não encontrei nenhum Linux instalado neste computador, processo cancelado.\n"
@@ -217,4 +217,4 @@ msgstr ""
 "    Вы хотите продолжить?"
 
 msgid "Concluído!"
-msgstr ""
+msgstr "Готово!"

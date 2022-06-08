@@ -449,11 +449,19 @@ msgid ""
 "compartilhar na internet."
 msgstr "閲覧だけでなく、ファイルへの保存やインターネット上での共有も可能です。"
 
+msgid "Abrir"
+msgstr ""
+
 msgid "Conectar à internet"
 msgstr "インターネットに接続する"
 
 msgid "Conecte na internet por cabo de rede ou wifi."
 msgstr "ネットワークケーブルまたは無線LANでインターネットに接続する。"
+
+msgid ""
+"Lista com alguns programas do sistema que você pode restaurar a configuração "
+"com um clique."
+msgstr ""
 
 msgid "Conectar à internet utilizando o Android"
 msgstr "Androidでインターネットに接続する"
@@ -670,6 +678,11 @@ msgstr ""
 
 msgid "Parar o Waydroid"
 msgstr "ウェイドロイドを停止する"
+
+msgid ""
+"Se a aceleração 3D estiver ativada em um hardware incompatível<br> o android "
+"não passará da tela de loading"
+msgstr ""
 
 msgid "Iniciar o Waydroid"
 msgstr "Waydroidを起動する"

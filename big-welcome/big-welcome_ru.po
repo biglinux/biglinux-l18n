@@ -18,113 +18,121 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit"
 
 msgid "Iniciando no BigLinux"
-msgstr ""
+msgstr "Запуск BigLinux"
 
 msgid "Bem vindo ao BigLinux"
-msgstr ""
+msgstr "Добро пожаловать в BigLinux"
 
 msgid "Comece com algumas etapas simples."
-msgstr ""
+msgstr "Начните с нескольких простых шагов."
 
 msgid "Mostrar na inicialização"
-msgstr ""
+msgstr "Показывать при запуске"
 
 msgid "Olá"
-msgstr ""
+msgstr "Здравствуйте"
 
 msgid "Ajustes iniciais"
-msgstr ""
+msgstr "Первоначальные корректировки"
 
 msgid ""
 "Disponiblizamos configurações completas para você selecionar de forma "
 "extremamente simples."
 msgstr ""
+"Мы предоставляем полные конфигурации, из которых вы можете выбрать очень "
+"простой способ."
 
 msgid "Temas, Desktop e Ajustes"
-msgstr ""
+msgstr "Темы, рабочий стол и настройки"
 
 msgid "Escolha seu navegador padrão"
-msgstr ""
+msgstr "Выберите браузер по умолчанию"
 
 msgid "Defina seus programas padrões."
-msgstr ""
+msgstr "Установите программы по умолчанию."
 
 msgid "Outros navegadores"
-msgstr ""
+msgstr "Другие браузеры"
 
 msgid "KDE Connect"
-msgstr ""
+msgstr "KDE Connect"
 
 msgid ""
 "O KDE Connect é um aplicativo que facilita as comunicações sem fio e a "
 "transferência de dados entre dispositivos em redes locais. Disponível na "
 "Google Play Store para Android e Apple Store para iPhone."
 msgstr ""
+"KDE Connect - это приложение, облегчающее беспроводную связь и передачу "
+"данных между устройствами в локальных сетях. Доступно в Google Play Store "
+"для Android и Apple Store для iPhone."
 
 msgid "Instalação de Driver e Informações de Hardware"
-msgstr ""
+msgstr "Установка драйверов и информация об оборудовании"
 
 msgid "Instalar ou Remover Drivers e Firmwares de forma simples."
-msgstr ""
+msgstr "Легко устанавливайте и удаляйте драйверы и микропрограммы."
 
 msgid "Impressoras"
-msgstr ""
+msgstr "Принтеры"
 
 msgid "Impressoras HP"
-msgstr ""
+msgstr "Принтеры HP"
 
 msgid "Conheça alguns recursos"
-msgstr ""
+msgstr "Познакомьтесь с некоторыми ресурсами"
 
 msgid ""
 "Nosso sistema é colaborativo, venha fazer parte dessa evolução. Confira as "
 "novidades!"
 msgstr ""
+"Наша система основана на сотрудничестве, присоединяйтесь к этой эволюции. "
+"Смотрите новости!"
 
 msgid "Central de Controle"
-msgstr ""
+msgstr "Центр управления"
 
 msgid "Big Store"
-msgstr ""
+msgstr "Большой магазин"
 
 msgid "Web Apps"
-msgstr ""
+msgstr "Веб-приложения"
 
 msgid "Redutor de Ruídos"
-msgstr ""
+msgstr "Шумоподавитель"
 
 msgid "Configurar a voz do sistema (TTS)"
-msgstr ""
+msgstr "Настройка системного голоса (TTS)"
 
 msgid "OCR para PDF"
-msgstr ""
+msgstr "OCR для PDF"
 
 msgid "Doação e Redes sociais"
-msgstr ""
+msgstr "Пожертвования и социальные сети"
 
 msgid "Sua doação é muito importante para o projeto e siga as redes sociais."
 msgstr ""
+"Ваше пожертвование очень важно для проекта и следите за социальными сетями."
 
 msgid "Doação"
-msgstr ""
+msgstr "Пожертвование"
 
 msgid "Fórum"
-msgstr ""
+msgstr "Форум"
 
 msgid "YouTube"
-msgstr ""
+msgstr "YouTube"
 
 msgid "Twitter"
-msgstr ""
+msgstr "Twitter"
 
 msgid "Telegram"
-msgstr ""
+msgstr "Telegram"
 
 msgid "Instagram"
-msgstr ""
+msgstr "Instagram"
 
 msgid "Facebook"
-msgstr ""
+msgstr "Facebook"
 
 msgid "Parabéns, você concluiu os primeiros passo para utilizar o BigLinux."
-msgstr ""
+msgstr "Поздравляем, вы выполнили первые шаги по использованию BigLinux."

@@ -40,7 +40,7 @@ msgid "Category"
 msgstr "Категория"
 
 msgid "Webcam"
-msgstr ""
+msgstr "Веб-камера"
 
 msgid "Name"
 msgstr "Имя"
@@ -55,13 +55,13 @@ msgstr ""
 "Хотите просмотреть отчет сейчас?\n"
 
 msgid "ID"
-msgstr ""
+msgstr "ID"
 
 msgid "Visualizar o relatório"
 msgstr "Посмотреть отчет"
 
 msgid "Info"
-msgstr ""
+msgstr "Информация"
 
 msgid "Hardinfo Relatory"
 msgstr "Hardinfo Relatory"
@@ -73,7 +73,7 @@ msgid "Comece com algumas etapas simples."
 msgstr "Начните с нескольких простых шагов."
 
 msgid "Fechar"
-msgstr ""
+msgstr "Закрыть"
 
 msgid "Mostrar na inicialização"
 msgstr "Показывать при запуске"
@@ -104,7 +104,7 @@ msgid "KDE Connect"
 msgstr "KDE Connect"
 
 msgid "Temas, Desktop e Ajustes"
-msgstr ""
+msgstr "Темы, рабочий стол и настройки"
 
 msgid ""
 "O KDE Connect é um aplicativo que facilita as comunicações sem fio e a "
@@ -435,19 +435,19 @@ msgid "Região e Idioma"
 msgstr "Регион и язык"
 
 msgid "Categorias"
-msgstr ""
+msgstr "Категории"
 
 msgid "Privacidade"
 msgstr "Конфиденциальность"
 
 msgid "Principais"
-msgstr ""
+msgstr "Главная"
 
 msgid "Servidor"
 msgstr "Сервер"
 
 msgid "Sistema"
-msgstr ""
+msgstr "Система"
 
 msgid "Desenvolvimento"
 msgstr "Разработка"
@@ -465,7 +465,7 @@ msgid "Informações do sistema e hardware"
 msgstr "Информация о системе и оборудовании"
 
 msgid "Multimídia"
-msgstr ""
+msgstr "Мультимедиа"
 
 msgid ""
 "Além de visualizar as informações é possível salvar em um arquivo e "
@@ -474,11 +474,19 @@ msgstr ""
 "Помимо просмотра информации, ее можно сохранить в файл и поделиться ею в "
 "Интернете."
 
+msgid "Abrir"
+msgstr ""
+
 msgid "Conectar à internet"
 msgstr "Подключение к Интернету"
 
 msgid "Conecte na internet por cabo de rede ou wifi."
 msgstr "Подключитесь к Интернету с помощью сетевого кабеля или Wi-Fi."
+
+msgid ""
+"Lista com alguns programas do sistema que você pode restaurar a configuração "
+"com um clique."
+msgstr ""
 
 msgid "Conectar à internet utilizando o Android"
 msgstr "Подключение к Интернету с помощью Android"
@@ -539,7 +547,7 @@ msgstr ""
 "людям для оказания вам поддержки."
 
 msgid "Outros"
-msgstr ""
+msgstr "Другое"
 
 msgid "Adicionar ou Remover Usuários"
 msgstr "Добавление или удаление пользователей"
@@ -549,7 +557,7 @@ msgstr ""
 "Создание, удаление и управление учетными записями и группами пользователей."
 
 msgid "Resultado da pesquisa"
-msgstr ""
+msgstr "Результат поиска"
 
 msgid "Economia de energia"
 msgstr "Энергосбережение"
@@ -724,6 +732,11 @@ msgstr ""
 
 msgid "Parar o Waydroid"
 msgstr "Остановите Waydroid"
+
+msgid ""
+"Se a aceleração 3D estiver ativada em um hardware incompatível<br> o android "
+"não passará da tela de loading"
+msgstr ""
 
 msgid "Iniciar o Waydroid"
 msgstr "Запустить Waydroid"

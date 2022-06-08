@@ -444,11 +444,19 @@ msgid ""
 "compartilhar na internet."
 msgstr "除了查看信息外，还可以将其保存为文件并在互联网上分享。"
 
+msgid "Abrir"
+msgstr ""
+
 msgid "Conectar à internet"
 msgstr "连接到互联网"
 
 msgid "Conecte na internet por cabo de rede ou wifi."
 msgstr "通过网线或WIFI连接到互联网。"
+
+msgid ""
+"Lista com alguns programas do sistema que você pode restaurar a configuração "
+"com um clique."
+msgstr ""
 
 msgid "Conectar à internet utilizando o Android"
 msgstr "使用安卓系统连接到互联网"
@@ -659,6 +667,11 @@ msgstr ""
 
 msgid "Parar o Waydroid"
 msgstr "阻止Waydroid"
+
+msgid ""
+"Se a aceleração 3D estiver ativada em um hardware incompatível<br> o android "
+"não passará da tela de loading"
+msgstr ""
 
 msgid "Iniciar o Waydroid"
 msgstr "启动Waydroid"
