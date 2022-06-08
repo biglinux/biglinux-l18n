@@ -7,7 +7,7 @@
 msgid   ""
 msgstr  "Project-Id-Version: bigcontrolcenter\n"
         "Report-Msgid-Bugs-To: \n"
-        "POT-Creation-Date: 2022-06-07 23:43-0300\n"
+        "POT-Creation-Date: 2022-06-07 23:45-0300\n"
         "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
         "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
         "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -159,6 +159,35 @@ msgstr  ""
 msgid   "Parabéns, você concluiu os primeiros passo para utilizar o BigLinux."
 msgstr  ""
 
+msgid   "Utilitário que facilita a restauração do sistema instalado,\n"
+        "<br>\n"
+        "principalmente a restauração do boot do sistema (Grub).\n"
+        "<br><br>\n"
+        "Também pode ser utilizado para acessar o gerenciador\n"
+        "<br>\n"
+        "de pacotes e o terminal do sistema instalado."
+msgstr  ""
+
+msgid   "Gerenciador de áudio avançado - Alsamixer"
+msgstr  ""
+
+msgid   "Controlador de áudio em caso de ausência som."
+msgstr  ""
+
+msgid   "Montar Hardware Apple"
+msgstr  ""
+
+msgid   "Com esse programa você pode acessar os programas do seu iPhone ou "
+        "iPad Apple de forma similar ao acesso de arquivos em um pendrive."
+msgstr  ""
+
+msgid   "Configurar o tema Kvantum"
+msgstr  ""
+
+msgid   "Para a configuração do Kvantum funcionar, aplique o tema Kvantum em "
+        "'Estilo do aplicativo'."
+msgstr  ""
+
 msgid   "Integração com Google Drive e ownCloud"
 msgstr  ""
 
@@ -185,15 +214,6 @@ msgstr  ""
 msgid   "Restaurar a configuração de programas"
 msgstr  ""
 
-msgid   "Utilitário que facilita a restauração do sistema instalado,\n"
-        "<br>\n"
-        "principalmente a restauração do boot do sistema (Grub).\n"
-        "<br><br>\n"
-        "Também pode ser utilizado para acessar o gerenciador\n"
-        "<br>\n"
-        "de pacotes e o terminal do sistema instalado."
-msgstr  ""
-
 msgid   "Temas do Bootsplash"
 msgstr  ""
 
@@ -210,12 +230,6 @@ msgid   "Configurar este tema de janelas."
 msgstr  ""
 
 msgid   "Qt Designer"
-msgstr  ""
-
-msgid   "Gerenciador de áudio avançado - Alsamixer"
-msgstr  ""
-
-msgid   "Controlador de áudio em caso de ausência som."
 msgstr  ""
 
 msgid   "Particionar ou formatar"
@@ -243,13 +257,6 @@ msgid   "Impressoras HP"
 msgstr  ""
 
 msgid   "Verificar o status, nível de tinta e manutenção."
-msgstr  ""
-
-msgid   "Montar Hardware Apple"
-msgstr  ""
-
-msgid   "Com esse programa você pode acessar os programas do seu iPhone ou "
-        "iPad Apple de forma similar ao acesso de arquivos em um pendrive."
 msgstr  ""
 
 msgid   "Áreas de trabalho virtuais e atividades"
@@ -287,13 +294,6 @@ msgstr  ""
 msgid   "Instalar, configurar ou remover impressoras."
 msgstr  ""
 
-msgid   "Configurar o tema Kvantum"
-msgstr  ""
-
-msgid   "Para a configuração do Kvantum funcionar, aplique o tema Kvantum em "
-        "'Estilo do aplicativo'."
-msgstr  ""
-
 msgid   "Carteira de senhas do KDE"
 msgstr  ""
 
@@ -310,6 +310,15 @@ msgid   "Gerenciar arquivos"
 msgstr  ""
 
 msgid   "Tenha acesso a seus arquivos e pastas."
+msgstr  ""
+
+msgid   "Esse programa pode transferir arquivos entre smartphones, tablets e "
+        "outros computadores.  Com ele você pode, por exemplo, utilizar  seu "
+        "smartphone como mouse e teclado sem fio para controlar o computador, "
+        "entre outros recursos.  Ele se integra melhor ao BigLinux e fica "
+        "entre os applets localizados perto do relógio do sistema. Para "
+        "sincronizar com o seu smartphone acesse a Google Store ou Apple "
+        "Store e instale o Kde Connect."
 msgstr  ""
 
 msgid   "Terminal"
@@ -335,15 +344,6 @@ msgid   "Centro de controle do KDE"
 msgstr  ""
 
 msgid   "Configurador avançado de energia"
-msgstr  ""
-
-msgid   "Esse programa pode transferir arquivos entre smartphones, tablets e "
-        "outros computadores.  Com ele você pode, por exemplo, utilizar  seu "
-        "smartphone como mouse e teclado sem fio para controlar o computador, "
-        "entre outros recursos.  Ele se integra melhor ao BigLinux e fica "
-        "entre os applets localizados perto do relógio do sistema. Para "
-        "sincronizar com o seu smartphone acesse a Google Store ou Apple "
-        "Store e instale o Kde Connect."
 msgstr  ""
 
 msgid   "As configurações da tela foram resetadas."
@@ -406,7 +406,14 @@ msgstr  ""
 msgid   "Resultado da pesquisa"
 msgstr  ""
 
+msgid   "Abrir"
+msgstr  ""
+
 msgid   "Temas, desktop e ajustes"
+msgstr  ""
+
+msgid   "Lista com alguns programas do sistema que você pode restaurar a "
+        "configuração com um clique."
 msgstr  ""
 
 msgid   "Informações do sistema e hardware"
@@ -584,8 +591,8 @@ msgstr  ""
 msgid   "O Waydroid também pode ser iniciado utilizando o menu do sistema"
 msgstr  ""
 
-msgid   "Se a aceleração 3D estiver ativada em um hardware incompatível\n"
-        "<br> o android não passará da tela de loading"
+msgid   "Se a aceleração 3D estiver ativada em um hardware incompatível<br> o "
+        "android não passará da tela de loading"
 msgstr  ""
 
 msgid   "Parar o Waydroid"
