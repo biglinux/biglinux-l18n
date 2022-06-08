@@ -26,9 +26,15 @@ msgid ""
 "\n"
 "Deseja prosseguir com com a instalação em modo EFI?"
 msgstr ""
+"The current boot is using EFI mode, however I did not find any EFI "
+"partitions on this computer, if this computer already has another system "
+"installed and you want it to remain installed, you will probably need to "
+"change the BIOS setting to boot in Legacy mode, also called BIOS mode.\n"
+"\n"
+"Do you wish to proceed with the EFI mode installation?"
 
 msgid "Instalar o sistema"
-msgstr ""
+msgstr "Installing the system"
 
 msgid ""
 "O boot atual está utilizando o modo Legacy/BIOS, porém encontrei pelo menos "
@@ -38,45 +44,50 @@ msgid ""
 "\n"
 "Deseja prosseguir com com a instalação em modo Legacy/BIOS?"
 msgstr ""
+"The current boot is using Legacy/BIOS mode, but I found at least one EFI "
+"partition on this computer. For a successful installation, you will probably "
+"need to change the setting in the BIOS to boot in EFI or UEFI mode.\n"
+"\n"
+"Do you want to proceed with the Legacy/BIOS installation?"
 
 msgid "Instalar o BigLinux"
-msgstr ""
+msgstr "Installing BigLinux"
 
 msgid "PADRÃO"
-msgstr ""
+msgstr "STANDARD"
 
 msgid "DESEMPENHO"
-msgstr ""
+msgstr "PERFORMANCE"
 
 msgid "COMPATIBILIDADE"
-msgstr ""
+msgstr "COMPATIBILITY"
 
 msgid "Compacta os dados"
-msgstr ""
+msgstr "Compact the data"
 
 msgid "Pontos de restauração"
-msgstr ""
+msgstr "Restore Points"
 
 msgid "Adia a gravação dos dados"
-msgstr ""
+msgstr "Postpones data recording"
 
 msgid "Funciona com tabelas de particionamento antigas"
-msgstr ""
+msgstr "Works with old partition tables"
 
 msgid "BTRFS com fsync"
-msgstr ""
+msgstr "BTRFS with fsync"
 
 msgid "BTRFS sem fsync"
-msgstr ""
+msgstr "BTRFS without fsync"
 
 msgid "SELECIONAR"
-msgstr ""
+msgstr "SELECT"
 
 msgid "Instalar no HD"
-msgstr ""
+msgstr "Install to HD"
 
 msgid "O sistema está em modo"
-msgstr ""
+msgstr "The system is in"
 
 msgid "e com o kernel"
-msgstr ""
+msgstr "and with the kernel"
