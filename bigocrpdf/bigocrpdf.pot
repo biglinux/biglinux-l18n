@@ -7,7 +7,7 @@
 msgid   ""
 msgstr  "Project-Id-Version: bigocrpdf\n"
         "Report-Msgid-Bugs-To: \n"
-        "POT-Creation-Date: 2022-06-08 02:03-0300\n"
+        "POT-Creation-Date: 2022-06-08 02:17-0300\n"
         "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
         "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
         "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -27,50 +27,65 @@ msgstr  ""
 msgid   "NORMAL"
 msgstr  ""
 
-msgid   "ECONOMIC"
+msgid   "ECONÔMICO"
 msgstr  ""
 
-msgid   "ECONOMIC PLUS"
+msgid   "MAIS ECONÔMICO"
 msgstr  ""
 
-msgid   "ALIGN"
+msgid   "ALINHAR"
 msgstr  ""
 
-msgid   "AUTO ROTATE"
+msgid   "AUTO ROTAÇÃO"
 msgstr  ""
 
-msgid   "ALIGN AND AUTO ROTATE"
+msgid   "ALINHAR E GIRAR AUTOMÁTICA"
 msgstr  ""
 
-msgid   "DON'T CHANGE"
+msgid   "NÃO MUDE"
 msgstr  ""
 
-msgid   "SPANISH"
+msgid   "ESPANHOL"
 msgstr  ""
 
-msgid   "ENGLISH"
+msgid   "INGLÊS"
 msgstr  ""
 
-msgid   "PORTUGUESE"
+msgid   "PORTUGUÊS"
 msgstr  ""
 
-msgid   "You can choose to reduce the image quality.<br>This way you will "
-        "have smaller files, making it easier,<br>for example, to send them "
-        "by e-mail."
+msgid   "Você pode optar por reduzir a qualidade da imagem.<br>Dessa forma "
+        "você terá arquivos menores, facilitando,<br>por exemplo, enviá-los "
+        "por e-mail."
 msgstr  ""
 
-msgid   "To add new languages, install the tesseract add-ons in the system's "
-        "package manager."
+msgid   "Para adicionar novos idiomas, instale os complementos do tesseract "
+        "no gerenciador de pacotes do sistema."
 msgstr  ""
 
-msgid   "Make your PDF searchable"
+msgid   "Aplicar"
+msgstr  ""
+
+msgid   "Torne seu PDF pesquisável"
 msgstr  ""
 
 msgid   "Adicionar OCR no PDF digitalizado permitindo seleção de textos e "
         "busca:"
 msgstr  ""
 
-msgid   "Completed!"
+msgid   "ORC para PDF"
+msgstr  ""
+
+msgid   "Arquivo"
+msgstr  ""
+
+msgid   "Pasta:"
+msgstr  ""
+
+msgid   "Abrir"
+msgstr  ""
+
+msgid   "Concluído!"
 msgstr  ""
 
 msgid   "Arquivo salvo: "
