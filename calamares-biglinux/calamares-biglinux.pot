@@ -1,0 +1,79 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the calamares-biglinux package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid   ""
+msgstr  "Project-Id-Version: calamares-biglinux\n"
+        "Report-Msgid-Bugs-To: \n"
+        "POT-Creation-Date: 2022-06-08 02:44-0300\n"
+        "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+        "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+        "Language-Team: LANGUAGE <LL@li.org>\n"
+        "Language: \n"
+        "MIME-Version: 1.0\n"
+        "Content-Type: text/plain; charset=UTF-8\n"
+        "Content-Transfer-Encoding: 8bit\n"
+
+msgid   "O boot atual está utilizando o modo EFI, porém não encontrei nenhuma "
+        "partição EFI neste computador, se este computador já possui outro "
+        "sistema instalado e você pretende que ele permaneça instalado, "
+        "provavelmente será necessário alterar a configuração na BIOS para "
+        "fazer boot em modo Legacy, também chamado de modo BIOS.\n"
+        "\n"
+        "Deseja prosseguir com com a instalação em modo EFI?"
+msgstr  ""
+
+msgid   "Instalar o sistema"
+msgstr  ""
+
+msgid   "O boot atual está utilizando o modo Legacy/BIOS, porém encontrei "
+        "pelo menos uma partição EFI neste computador. Para que a instalação "
+        "seja bem sucedida, provavelmente será necessário alterar a "
+        "configuração na BIOS para fazer boot em modo EFI ou UEFI.\n"
+        "\n"
+        "Deseja prosseguir com com a instalação em modo Legacy/BIOS?"
+msgstr  ""
+
+msgid   "Instalar o BigLinux"
+msgstr  ""
+
+msgid   "PADRÃO"
+msgstr  ""
+
+msgid   "DESEMPENHO"
+msgstr  ""
+
+msgid   "COMPATIBILIDADE"
+msgstr  ""
+
+msgid   "Compacta os dados"
+msgstr  ""
+
+msgid   "Pontos de restauração"
+msgstr  ""
+
+msgid   "Adia a gravação dos dados"
+msgstr  ""
+
+msgid   "Funciona com tabelas de particionamento antigas"
+msgstr  ""
+
+msgid   "BTRFS com fsync"
+msgstr  ""
+
+msgid   "BTRFS sem fsync"
+msgstr  ""
+
+msgid   "SELECIONAR"
+msgstr  ""
+
+msgid   "Instalar no HD"
+msgstr  ""
+
+msgid   "O sistema está em modo"
+msgstr  ""
+
+msgid   "e com o kernel"
+msgstr  ""
