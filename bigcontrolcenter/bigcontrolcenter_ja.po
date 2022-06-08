@@ -39,6 +39,9 @@ msgstr ""
 msgid "Category"
 msgstr "カテゴリー"
 
+msgid "Webcam"
+msgstr ""
+
 msgid "Name"
 msgstr "名称"
 
@@ -51,8 +54,14 @@ msgstr ""
 "\n"
 "今すぐレポートをご覧になりますか？\n"
 
+msgid "ID"
+msgstr ""
+
 msgid "Visualizar o relatório"
 msgstr "レポートを見る"
+
+msgid "Info"
+msgstr ""
 
 msgid "Hardinfo Relatory"
 msgstr "Hardinfo関連"
@@ -62,6 +71,9 @@ msgstr "BigLinuxへようこそ"
 
 msgid "Comece com algumas etapas simples."
 msgstr "まずは簡単なところから始めてみてください。"
+
+msgid "Fechar"
+msgstr ""
 
 msgid "Mostrar na inicialização"
 msgstr "起動時に表示する"
@@ -88,6 +100,9 @@ msgstr "その他のブラウザー"
 
 msgid "KDE Connect"
 msgstr "KDEコネクト"
+
+msgid "Temas, Desktop e Ajustes"
+msgstr ""
 
 msgid ""
 "O KDE Connect é um aplicativo que facilita as comunicações sem fio e a "
@@ -378,6 +393,15 @@ msgstr "カスタマイズ"
 msgid "Telefone"
 msgstr "電話番号"
 
+msgid ""
+"Esse programa pode transferir arquivos entre smartphones, tablets e outros "
+"computadores.  Com ele você pode, por exemplo, utilizar  seu smartphone como "
+"mouse e teclado sem fio para controlar o computador, entre outros recursos.  "
+"Ele se integra melhor ao BigLinux e fica entre os applets localizados perto "
+"do relógio do sistema. Para sincronizar com o seu smartphone acesse a Google "
+"Store ou Apple Store e instale o Kde Connect."
+msgstr ""
+
 msgid "Rede e Internet"
 msgstr "ネットワークとインターネット"
 
@@ -387,11 +411,20 @@ msgstr "決算情報"
 msgid "Região e Idioma"
 msgstr "地域と言語"
 
+msgid "Categorias"
+msgstr ""
+
 msgid "Privacidade"
 msgstr "プライバシー"
 
+msgid "Principais"
+msgstr ""
+
 msgid "Servidor"
 msgstr "サーバー"
+
+msgid "Sistema"
+msgstr ""
 
 msgid "Desenvolvimento"
 msgstr "開発"
@@ -407,6 +440,9 @@ msgstr "テーマ、デスクトップ、設定"
 
 msgid "Informações do sistema e hardware"
 msgstr "システム・ハードウェア情報"
+
+msgid "Multimídia"
+msgstr ""
 
 msgid ""
 "Além de visualizar as informações é possível salvar em um arquivo e "
@@ -468,11 +504,17 @@ msgid ""
 "pessoas para que o ajudem com o suporte."
 msgstr "また、情報をまとめたファイルを作成し、他の人に送ることで、サポートに役立てることができます。"
 
+msgid "Outros"
+msgstr ""
+
 msgid "Adicionar ou Remover Usuários"
 msgstr "ユーザーの追加と削除"
 
 msgid "Criar, remover e gerenciar contas e grupos de usuários."
 msgstr "ユーザーアカウントやグループの作成、削除、管理。"
+
+msgid "Resultado da pesquisa"
+msgstr ""
 
 msgid "Economia de energia"
 msgstr "省エネ"
@@ -661,11 +703,19 @@ msgstr ""
 msgid "Exibir ID do Android"
 msgstr "Android IDを表示する"
 
+msgid "Resolução: "
+msgstr ""
+
 msgid "Ativar Google Apps"
 msgstr "Google Appsを有効にする"
 
 msgid "ID do Android:"
 msgstr "Android IDです。"
+
+msgid ""
+"Se a aceleração 3D estiver ativada em um hardware incompatível\n"
+"<br> o android não passará da tela de loading"
+msgstr ""
 
 msgid ""
 "Não foi possível resgatar o ID do Android. \\n\\nAtenção: Waydroid precisa "

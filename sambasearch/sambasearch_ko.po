@@ -78,3 +78,9 @@ msgstr "네트워크에서 다음을 수행합니다."
 
 msgid "Voltar"
 msgstr "뒤로 가기"
+
+msgid "Fechar"
+msgstr ""
+
+msgid "Aguarde..."
+msgstr ""

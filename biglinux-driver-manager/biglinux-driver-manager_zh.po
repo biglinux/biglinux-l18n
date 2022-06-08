@@ -161,6 +161,9 @@ msgstr "无线网络"
 msgid "Rede Cabeada"
 msgstr "有线网络"
 
+msgid "Hardware"
+msgstr "硬件设施"
+
 msgid "Impressora 3D"
 msgstr "3D打印机"
 
@@ -176,6 +179,9 @@ msgstr "网络摄像头"
 msgid "Touchscreen"
 msgstr "触摸屏"
 
+msgid "Fechar"
+msgstr "关闭"
+
 msgid "Som"
 msgstr "声音"
 
@@ -190,6 +196,9 @@ msgstr "大司机-经理人"
 
 msgid "Instalar ou Remover Drivers e Firmwares"
 msgstr "安装或删除驱动程序和固件"
+
+msgid "Nome"
+msgstr "命名"
 
 msgid ""
 "Geralmente é preciso reiniciar o computador para o driver ou firmware ser "

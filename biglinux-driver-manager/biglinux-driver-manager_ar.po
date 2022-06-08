@@ -168,6 +168,9 @@ msgstr "واي فاي"
 msgid "Rede Cabeada"
 msgstr "الشبكة الكبلية"
 
+msgid "Hardware"
+msgstr "الأجهزة"
+
 msgid "Impressora 3D"
 msgstr "طابعة ثلاثية الأبعاد"
 
@@ -183,6 +186,9 @@ msgstr "كاميرا ويب"
 msgid "Touchscreen"
 msgstr "شاشة لمس"
 
+msgid "Fechar"
+msgstr "إغلاق"
+
 msgid "Som"
 msgstr "صوت"
 
@@ -197,6 +203,9 @@ msgstr "مدير سائق كبير"
 
 msgid "Instalar ou Remover Drivers e Firmwares"
 msgstr "تثبيت برامج التشغيل والبرامج الثابتة أو إزالتها"
+
+msgid "Nome"
+msgstr "اسم"
 
 msgid ""
 "Geralmente é preciso reiniciar o computador para o driver ou firmware ser "

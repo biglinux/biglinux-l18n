@@ -39,6 +39,9 @@ msgstr ""
 msgid "Category"
 msgstr "Category"
 
+msgid "Webcam"
+msgstr "Webcam"
+
 msgid "Name"
 msgstr "Name"
 
@@ -51,8 +54,14 @@ msgstr ""
 "\n"
 "Would you like to view the report now?\n"
 
+msgid "ID"
+msgstr "ID"
+
 msgid "Visualizar o relatório"
 msgstr "View the report"
+
+msgid "Info"
+msgstr "Info"
 
 msgid "Hardinfo Relatory"
 msgstr "Hardinfo Relatory"
@@ -62,6 +71,9 @@ msgstr "Welcome to BigLinux"
 
 msgid "Comece com algumas etapas simples."
 msgstr "Start with a few simple steps."
+
+msgid "Fechar"
+msgstr "Close"
 
 msgid "Mostrar na inicialização"
 msgstr "Show at startup"
@@ -90,6 +102,9 @@ msgstr "Other browsers"
 
 msgid "KDE Connect"
 msgstr "KDE Connect"
+
+msgid "Temas, Desktop e Ajustes"
+msgstr "Themes, Desktop and Settings"
 
 msgid ""
 "O KDE Connect é um aplicativo que facilita as comunicações sem fio e a "
@@ -397,6 +412,21 @@ msgstr "Customize"
 msgid "Telefone"
 msgstr "Phone"
 
+msgid ""
+"Esse programa pode transferir arquivos entre smartphones, tablets e outros "
+"computadores.  Com ele você pode, por exemplo, utilizar  seu smartphone como "
+"mouse e teclado sem fio para controlar o computador, entre outros recursos.  "
+"Ele se integra melhor ao BigLinux e fica entre os applets localizados perto "
+"do relógio do sistema. Para sincronizar com o seu smartphone acesse a Google "
+"Store ou Apple Store e instale o Kde Connect."
+msgstr ""
+"This program can transfer files between smartphones, tablets and other "
+"computers. With it you can, for example, use your smartphone as a wireless "
+"mouse and keyboard to control your computer, among other features. It "
+"integrates better with BigLinux and is among the applets located close to "
+"the system clock. To sync with your smartphone, go to Google Store or Apple "
+"Store and install Kde Connect."
+
 msgid "Rede e Internet"
 msgstr "Network and Internet"
 
@@ -406,11 +436,20 @@ msgstr "Accounts"
 msgid "Região e Idioma"
 msgstr "Region and Language"
 
+msgid "Categorias"
+msgstr "Categories"
+
 msgid "Privacidade"
 msgstr "Privacy"
 
+msgid "Principais"
+msgstr "Main"
+
 msgid "Servidor"
 msgstr "Server"
+
+msgid "Sistema"
+msgstr "System"
 
 msgid "Desenvolvimento"
 msgstr "Development"
@@ -426,6 +465,9 @@ msgstr "Themes, Desktop, and Settings"
 
 msgid "Informações do sistema e hardware"
 msgstr "System and hardware information"
+
+msgid "Multimídia"
+msgstr "Multimedia"
 
 msgid ""
 "Além de visualizar as informações é possível salvar em um arquivo e "
@@ -496,11 +538,17 @@ msgstr ""
 "It also creates a file with information, which you can send to others to "
 "help you with support."
 
+msgid "Outros"
+msgstr "Other"
+
 msgid "Adicionar ou Remover Usuários"
 msgstr "Add or Remove Users"
 
 msgid "Criar, remover e gerenciar contas e grupos de usuários."
 msgstr "Create, remove, and manage user accounts and groups."
+
+msgid "Resultado da pesquisa"
+msgstr "Search result"
 
 msgid "Economia de energia"
 msgstr "Energy saving"
@@ -705,11 +753,21 @@ msgstr ""
 msgid "Exibir ID do Android"
 msgstr "View Android ID"
 
+msgid "Resolução: "
+msgstr "Resolution:"
+
 msgid "Ativar Google Apps"
 msgstr "Enable Google Apps"
 
 msgid "ID do Android:"
 msgstr "Android ID:"
+
+msgid ""
+"Se a aceleração 3D estiver ativada em um hardware incompatível\n"
+"<br> o android não passará da tela de loading"
+msgstr ""
+"If 3D acceleration is enabled on incompatible hardware<br> android will not "
+"get past the loading screen"
 
 msgid ""
 "Não foi possível resgatar o ID do Android. \\n\\nAtenção: Waydroid precisa "

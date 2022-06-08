@@ -38,6 +38,9 @@ msgstr ""
 msgid "Restaurar o Boot, Grub e initrd"
 msgstr "Восстановление загрузки, Grub и initrd"
 
+msgid "Aguarde..."
+msgstr ""
+
 msgid ""
 "Não encontrei nenhum Linux instalado neste computador, processo cancelado.\n"
 msgstr ""
@@ -212,3 +215,6 @@ msgstr ""
 "    Формат раздела: $PARTITION_FORMAT\n"
 "    UUID раздела: $UUUID_PARTITION\n"
 "    Вы хотите продолжить?"
+
+msgid "Concluído!"
+msgstr ""

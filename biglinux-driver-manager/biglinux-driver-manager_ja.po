@@ -162,6 +162,9 @@ msgstr "無線LAN"
 msgid "Rede Cabeada"
 msgstr "有線ネットワーク"
 
+msgid "Hardware"
+msgstr ""
+
 msgid "Impressora 3D"
 msgstr "3Dプリンター"
 
@@ -177,6 +180,9 @@ msgstr "ウェブカメラ"
 msgid "Touchscreen"
 msgstr "タッチスクリーン"
 
+msgid "Fechar"
+msgstr ""
+
 msgid "Som"
 msgstr "サウンド"
 
@@ -191,6 +197,9 @@ msgstr "ビッグドライバーマネージャ"
 
 msgid "Instalar ou Remover Drivers e Firmwares"
 msgstr "ドライバとファームウェアのインストールと削除"
+
+msgid "Nome"
+msgstr ""
 
 msgid ""
 "Geralmente é preciso reiniciar o computador para o driver ou firmware ser "

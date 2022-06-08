@@ -39,6 +39,9 @@ msgstr ""
 msgid "Category"
 msgstr "الفئة"
 
+msgid "Webcam"
+msgstr "كاميرا ويب"
+
 msgid "Name"
 msgstr "اسم"
 
@@ -51,8 +54,14 @@ msgstr ""
 "\n"
 "هل تريد عرض التقرير الآن؟\n"
 
+msgid "ID"
+msgstr "هوية شخصية"
+
 msgid "Visualizar o relatório"
 msgstr "عرض التقرير"
+
+msgid "Info"
+msgstr "معلومات"
 
 msgid "Hardinfo Relatory"
 msgstr "تقرير هاردينفو"
@@ -62,6 +71,9 @@ msgstr "مرحبًا بك في BigLinux"
 
 msgid "Comece com algumas etapas simples."
 msgstr "ابدأ ببضع خطوات بسيطة."
+
+msgid "Fechar"
+msgstr "إغلاق"
 
 msgid "Mostrar na inicialização"
 msgstr "عرض عند بدء التشغيل"
@@ -88,6 +100,9 @@ msgstr "متصفحات أخرى"
 
 msgid "KDE Connect"
 msgstr "كيدي كونيكت"
+
+msgid "Temas, Desktop e Ajustes"
+msgstr "السمات وسطح المكتب والتعديلات"
 
 msgid ""
 "O KDE Connect é um aplicativo que facilita as comunicações sem fio e a "
@@ -387,6 +402,15 @@ msgstr "إضفاء الطابع الشخصي"
 msgid "Telefone"
 msgstr "هاتف"
 
+msgid ""
+"Esse programa pode transferir arquivos entre smartphones, tablets e outros "
+"computadores.  Com ele você pode, por exemplo, utilizar  seu smartphone como "
+"mouse e teclado sem fio para controlar o computador, entre outros recursos.  "
+"Ele se integra melhor ao BigLinux e fica entre os applets localizados perto "
+"do relógio do sistema. Para sincronizar com o seu smartphone acesse a Google "
+"Store ou Apple Store e instale o Kde Connect."
+msgstr ""
+
 msgid "Rede e Internet"
 msgstr "الشبكة والإنترنت"
 
@@ -396,11 +420,20 @@ msgstr "فواتير"
 msgid "Região e Idioma"
 msgstr "المنطقة واللغة"
 
+msgid "Categorias"
+msgstr "الفئات"
+
 msgid "Privacidade"
 msgstr "الخصوصية"
 
+msgid "Principais"
+msgstr "ماين"
+
 msgid "Servidor"
 msgstr "الحاسوب المركزي"
+
+msgid "Sistema"
+msgstr "نظام"
 
 msgid "Desenvolvimento"
 msgstr "تطوير"
@@ -416,6 +449,9 @@ msgstr "السمات وسطح المكتب والتعديلات"
 
 msgid "Informações do sistema e hardware"
 msgstr "معلومات النظام والأجهزة"
+
+msgid "Multimídia"
+msgstr "الوسائط المتعددة"
 
 msgid ""
 "Além de visualizar as informações é possível salvar em um arquivo e "
@@ -484,11 +520,17 @@ msgstr ""
 "كما أنه ينشئ ملفًا يحتوي على معلومات، والتي يمكنك إرسالها إلى الآخرين "
 "لمساعدتك في الدعم."
 
+msgid "Outros"
+msgstr "أخرى"
+
 msgid "Adicionar ou Remover Usuários"
 msgstr "إضافة مستخدمين أو إزالتهم"
 
 msgid "Criar, remover e gerenciar contas e grupos de usuários."
 msgstr "إنشاء حسابات المستخدمين والمجموعات وإزالتها وإدارتها."
+
+msgid "Resultado da pesquisa"
+msgstr "نتيجة البحث"
 
 msgid "Economia de energia"
 msgstr "توفير الطاقة"
@@ -693,11 +735,19 @@ msgstr ""
 msgid "Exibir ID do Android"
 msgstr "عرض معرف أندرويد"
 
+msgid "Resolução: "
+msgstr ""
+
 msgid "Ativar Google Apps"
 msgstr "تنشيط تطبيقات جوجل"
 
 msgid "ID do Android:"
 msgstr "معرف أندرويد:"
+
+msgid ""
+"Se a aceleração 3D estiver ativada em um hardware incompatível\n"
+"<br> o android não passará da tela de loading"
+msgstr ""
 
 msgid ""
 "Não foi possível resgatar o ID do Android. \\n\\nAtenção: Waydroid precisa "

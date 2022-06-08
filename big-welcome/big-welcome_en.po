@@ -16,3 +16,125 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit"
+
+msgid "Iniciando no BigLinux"
+msgstr "Getting started with BigLinux"
+
+msgid "Bem vindo ao BigLinux"
+msgstr "Welcome to BigLinux"
+
+msgid "Comece com algumas etapas simples."
+msgstr "Start with a few simple steps."
+
+msgid "Mostrar na inicialização"
+msgstr "Show at startup"
+
+msgid "Olá"
+msgstr "Hello"
+
+msgid "Ajustes iniciais"
+msgstr "Initial Settings"
+
+msgid ""
+"Disponiblizamos configurações completas para você selecionar de forma "
+"extremamente simples."
+msgstr ""
+"We provide complete configurations for you to select from in an extremely "
+"simple way."
+
+msgid "Temas, Desktop e Ajustes"
+msgstr "Themes, Desktop and Settings"
+
+msgid "Escolha seu navegador padrão"
+msgstr "Choose your default browser"
+
+msgid "Defina seus programas padrões."
+msgstr "Set your default programs."
+
+msgid "Outros navegadores"
+msgstr "Other browsers"
+
+msgid "KDE Connect"
+msgstr "KDE Connect"
+
+msgid ""
+"O KDE Connect é um aplicativo que facilita as comunicações sem fio e a "
+"transferência de dados entre dispositivos em redes locais. Disponível na "
+"Google Play Store para Android e Apple Store para iPhone."
+msgstr ""
+"KDE Connect is an application that facilitates wireless communications and "
+"data transfer between devices on local networks. Available from the Google "
+"Play Store for Android and the Apple Store for iPhone."
+
+msgid "Instalação de Driver e Informações de Hardware"
+msgstr "Driver Installation and Hardware Information"
+
+msgid "Instalar ou Remover Drivers e Firmwares de forma simples."
+msgstr "Install or Remove Drivers and Firmware in a simple way."
+
+msgid "Impressoras"
+msgstr "Printers"
+
+msgid "Impressoras HP"
+msgstr "HP Printers"
+
+msgid "Conheça alguns recursos"
+msgstr "Get to know some resources"
+
+msgid ""
+"Nosso sistema é colaborativo, venha fazer parte dessa evolução. Confira as "
+"novidades!"
+msgstr ""
+"Our system is collaborative, come be part of this evolution. Check out the "
+"news!"
+
+msgid "Central de Controle"
+msgstr "Control Center"
+
+msgid "Big Store"
+msgstr "Big Store"
+
+msgid "Web Apps"
+msgstr "Web Apps"
+
+msgid "Redutor de Ruídos"
+msgstr "Noise Reducer"
+
+msgid "Configurar a voz do sistema (TTS)"
+msgstr "Configure System Voice (TTS)"
+
+msgid "OCR para PDF"
+msgstr "OCR for PDF"
+
+msgid "Doação e Redes sociais"
+msgstr "Donation and Social Networks"
+
+msgid "Sua doação é muito importante para o projeto e siga as redes sociais."
+msgstr ""
+"Your donation is very important for the project and follow the social "
+"networks."
+
+msgid "Doação"
+msgstr "Donation"
+
+msgid "Fórum"
+msgstr "Forum"
+
+msgid "YouTube"
+msgstr "YouTube"
+
+msgid "Twitter"
+msgstr "Twitter"
+
+msgid "Telegram"
+msgstr "Telegram"
+
+msgid "Instagram"
+msgstr "Instagram"
+
+msgid "Facebook"
+msgstr "Facebook"
+
+msgid "Parabéns, você concluiu os primeiros passo para utilizar o BigLinux."
+msgstr ""
+"Congratulations, you have completed the first steps in using BigLinux."

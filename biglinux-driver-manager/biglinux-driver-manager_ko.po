@@ -161,6 +161,9 @@ msgstr "와이파이"
 msgid "Rede Cabeada"
 msgstr "케이블 연결 네트워크"
 
+msgid "Hardware"
+msgstr ""
+
 msgid "Impressora 3D"
 msgstr "3D 프린터"
 
@@ -176,6 +179,9 @@ msgstr "웹캠"
 msgid "Touchscreen"
 msgstr "터치스크린"
 
+msgid "Fechar"
+msgstr ""
+
 msgid "Som"
 msgstr "사운드"
 
@@ -190,6 +196,9 @@ msgstr "빅 드라이버 매니저"
 
 msgid "Instalar ou Remover Drivers e Firmwares"
 msgstr "드라이버 및 펌웨어 설치 또는 제거"
+
+msgid "Nome"
+msgstr ""
 
 msgid ""
 "Geralmente é preciso reiniciar o computador para o driver ou firmware ser "

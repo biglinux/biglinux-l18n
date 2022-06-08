@@ -21,19 +21,19 @@ msgid "Selecionar imagem"
 msgstr "Select image"
 
 msgid "Adicionar WebApps"
-msgstr ""
+msgstr "Add WebApps"
 
 msgid "WebApps Adicionados"
-msgstr ""
+msgstr "Added WebApps"
 
 msgid "WebApps BigLinux"
-msgstr ""
+msgstr "BigLinux WebApps"
 
 msgid "Url:"
-msgstr ""
+msgstr "URL:"
 
 msgid "Detectar Nome e Ícone"
-msgstr ""
+msgstr "Detect Name and Icon"
 
 msgid "Nome:"
 msgstr "Name:"
@@ -48,81 +48,101 @@ msgid "Navegador:"
 msgstr "Navigator:"
 
 msgid "Categoria:"
-msgstr ""
+msgstr "Category:"
 
 msgid "DESENVOLVIMENTO"
-msgstr ""
+msgstr "DEVELOPMENT"
 
 msgid "ESCRITÓRIO"
-msgstr ""
+msgstr "OFFICE"
 
 msgid "GRÁFICOS"
-msgstr ""
+msgstr "GRAPHICS"
 
 msgid "JOGOS"
-msgstr ""
+msgstr "GAMES"
 
 msgid "MULTIMÍDIA"
-msgstr ""
+msgstr "MULTIMEDIA"
 
 msgid "Criar atalho na Área de Trabalho"
-msgstr ""
+msgstr "Create desktop shortcut"
 
 msgid "Perfil adicional"
-msgstr ""
+msgstr "Additional profile"
 
 msgid "YouTube Modo TV"
-msgstr ""
+msgstr "YouTube TV Mode"
 
 msgid "Adicionar"
-msgstr ""
+msgstr "Add"
 
 msgid "Para adicionar um WebApp, você precisa informar a Url e o Nome."
-msgstr ""
+msgstr "To add a WebApp, you need to provide the Url and Name."
+
+msgid "Fechar"
+msgstr "Close"
 
 msgid "Para detectar o Nome e o Ícone você precisa informar a Url."
-msgstr ""
+msgstr "To detect the Name and Icon you need to inform the Url."
 
 msgid ""
 "A Url é inválida ou a conexão falhou.<br>Tente inserir o ícone pelo botão "
 "Alterar."
 msgstr ""
+"The Url is invalid or the connection failed.<br>Try entering the icon via "
+"the Change button."
 
 msgid "O WebApp foi adicionado com sucesso!"
-msgstr ""
+msgstr "The WebApp has been successfully added!"
 
 msgid "Ícones encontrados"
-msgstr ""
+msgstr "Found icons"
 
 msgid "Selecione o ícone preferido:"
-msgstr ""
+msgstr "Select your preferred icon:"
 
 msgid "Tem certeza que deseja remover este WebApp?"
-msgstr ""
+msgstr "Are you sure you want to remove this WebApp?"
+
+msgid "Desenvolvimento"
+msgstr "Development"
 
 msgid "Nenhum WebApp adicionado!"
-msgstr ""
+msgstr "No WebApp Added!"
+
+msgid "Escritório"
+msgstr "Office"
 
 msgid "Navegador padrão<br>dos webapps:"
-msgstr ""
+msgstr "Default browser<br>of webapps:"
+
+msgid "Gráficos"
+msgstr "Graphics"
 
 msgid "Alterar navegador"
-msgstr ""
+msgstr "Change browser"
+
+msgid "Jogos"
+msgstr "Games"
 
 msgid "Selecione o navegador preferido:"
-msgstr ""
+msgstr "Select your preferred browser:"
+
+msgid "Multimídia"
+msgstr "Multimedia"
 
 msgid "WebApps Nativos"
-msgstr ""
+msgstr "Native WebApps"
 
 msgid "Bom dia"
-msgstr ""
+msgstr "Good Morning"
 
 msgid "Boa tarde"
-msgstr ""
+msgstr "Good afternoon"
 
 msgid "Boa noite"
-msgstr ""
+msgstr "Goodnight"
 
 msgid "Aguarde, estamos preparando para começar..."
-msgstr ""
+msgstr "Wait, we are getting ready to start..."

@@ -23,10 +23,16 @@ msgstr "ビッグストアはすでに使用中です。"
 msgid "Big-Store"
 msgstr "ビッグストア"
 
+msgid "Instalar"
+msgstr ""
+
 msgid ""
 "Para os programas Snap aparecerem no menu do sistema finalize a sessão e "
 "faça login novamente."
 msgstr "システムメニューにSnapプログラムを表示するには、一度ログアウトし、再度ログインしてください。"
+
+msgid "Remover"
+msgstr ""
 
 msgid "Configurações"
 msgstr "設定"
@@ -37,11 +43,17 @@ msgstr "Flatpakを積極的にサポート。"
 msgid "Suporte a Flatpak NÃO está ativo."
 msgstr "Flatpakのサポートは行っておりません。"
 
+msgid "Desativar"
+msgstr ""
+
 msgid "Suporte a Snap ativo."
 msgstr "アクティブスナップに対応。"
 
 msgid "Suporte a Snap NÃO está ativo."
 msgstr "Snapサポートは有効ではありません。"
+
+msgid "Ativar"
+msgstr ""
 
 msgid "Executar"
 msgstr "実行"
@@ -162,6 +174,9 @@ msgstr "クラウドストレージ"
 msgid "Download"
 msgstr "ダウンロード"
 
+msgid "Internet"
+msgstr ""
+
 msgid "Compartilhadores e Torrent"
 msgstr "シェアリングとトレント"
 
@@ -189,6 +204,9 @@ msgstr "タスクと連絡先のカレンダー"
 msgid "Visualizadores de imagem"
 msgstr "画像ビューアー"
 
+msgid "Escritório"
+msgstr ""
+
 msgid "Editores de imagem e ferramentas de desenho"
 msgstr "イメージエディターとドローイングツール"
 
@@ -203,6 +221,9 @@ msgstr "3D・CAD編集"
 
 msgid "Reprodutores de áudio"
 msgstr "オーディオプレーヤー"
+
+msgid "Gráficos"
+msgstr ""
 
 msgid "Rádio online"
 msgstr "オンラインラジオ"
@@ -221,6 +242,9 @@ msgstr "オンラインビデオ、IPTV、Youtube..."
 
 msgid "Editores e compactadores de vídeo"
 msgstr "ビデオエディターとコンプレッサー"
+
+msgid "Multimídia"
+msgstr ""
 
 msgid "Gravadores e copiadores de CD e DVD"
 msgstr "CD・DVDレコーダー、コピー機"
@@ -291,8 +315,14 @@ msgstr "WEBサーバー"
 msgid "Instalado na partição:"
 msgstr "パーティションにインストールされています。"
 
+msgid "Outros"
+msgstr ""
+
 msgid "Tamanho da partição:"
 msgstr "パーティションサイズ。"
+
+msgid "Sistema"
+msgstr ""
 
 msgid "Espaço utilizado:"
 msgstr "使用するスペース"
@@ -308,6 +338,9 @@ msgstr "ネイティブパッケージとAUR"
 
 msgid "Instalados:"
 msgstr "インストールされています。"
+
+msgid "Desenvolvimento"
+msgstr ""
 
 msgid "Disponíveis:"
 msgstr "利用可能です。"
@@ -371,6 +404,9 @@ msgstr "が、インストールされません。"
 msgid "mas não está disponível"
 msgstr "が、利用できない"
 
+msgid "Categorias"
+msgstr ""
+
 msgid "Informações sobre programas nativos"
 msgstr "ネイティブプログラムに関する情報"
 
@@ -383,6 +419,9 @@ msgstr "バージョンあり。"
 msgid "Repositório:"
 msgstr "リポジトリです。"
 
+msgid "Fechar"
+msgstr ""
+
 msgid "Instalando"
 msgstr "インストール"
 
@@ -392,8 +431,14 @@ msgstr "削除"
 msgid "Informações sobre programas SNAP"
 msgstr "SNAPプログラムに関する情報"
 
+msgid "Mais informações"
+msgstr ""
+
 msgid "Programas SNAP"
 msgstr "SNAPプログラム"
+
+msgid "Voltar"
+msgstr ""
 
 msgid "Versão disponivel:"
 msgstr "バージョンあり。"
@@ -406,3 +451,6 @@ msgstr "かどうりつ"
 
 msgid "Empacotador:"
 msgstr "パッカー"
+
+msgid "Cancelar"
+msgstr ""

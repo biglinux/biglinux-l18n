@@ -23,11 +23,17 @@ msgstr "The Big-Store is already in use."
 msgid "Big-Store"
 msgstr "Big-Store"
 
+msgid "Instalar"
+msgstr "Install"
+
 msgid ""
 "Para os programas Snap aparecerem no menu do sistema finalize a sessão e "
 "faça login novamente."
 msgstr ""
 "For Snap programs to appear in the system menu, log out and log in again."
+
+msgid "Remover"
+msgstr "Remove"
 
 msgid "Configurações"
 msgstr "Settings"
@@ -38,11 +44,17 @@ msgstr "Active Flatpak support."
 msgid "Suporte a Flatpak NÃO está ativo."
 msgstr "Flatpak support is NOT active."
 
+msgid "Desativar"
+msgstr "Deactivate"
+
 msgid "Suporte a Snap ativo."
 msgstr "Snap active support."
 
 msgid "Suporte a Snap NÃO está ativo."
 msgstr "Snap support is NOT active."
+
+msgid "Ativar"
+msgstr "Activate"
 
 msgid "Executar"
 msgstr "Run"
@@ -165,6 +177,9 @@ msgstr "Cloud Storage"
 msgid "Download"
 msgstr "Download"
 
+msgid "Internet"
+msgstr "Internet"
+
 msgid "Compartilhadores e Torrent"
 msgstr "Sharers and Torrent"
 
@@ -192,6 +207,9 @@ msgstr "Calendar of tasks and contacts"
 msgid "Visualizadores de imagem"
 msgstr "Image viewers"
 
+msgid "Escritório"
+msgstr "Office"
+
 msgid "Editores de imagem e ferramentas de desenho"
 msgstr "Image editors and drawing tools"
 
@@ -206,6 +224,9 @@ msgstr "3D and CAD Editing"
 
 msgid "Reprodutores de áudio"
 msgstr "Audio Players"
+
+msgid "Gráficos"
+msgstr "Graphics"
 
 msgid "Rádio online"
 msgstr "Online Radio"
@@ -224,6 +245,9 @@ msgstr "Online video, IPTV, Youtube..."
 
 msgid "Editores e compactadores de vídeo"
 msgstr "Video editors and compressors"
+
+msgid "Multimídia"
+msgstr "Multimedia"
 
 msgid "Gravadores e copiadores de CD e DVD"
 msgstr "CD and DVD recorders and copiers"
@@ -294,8 +318,14 @@ msgstr "WEB Servers"
 msgid "Instalado na partição:"
 msgstr "Installed on the partition:"
 
+msgid "Outros"
+msgstr "Other"
+
 msgid "Tamanho da partição:"
 msgstr "Partition size:"
+
+msgid "Sistema"
+msgstr "System"
 
 msgid "Espaço utilizado:"
 msgstr "Space used:"
@@ -311,6 +341,9 @@ msgstr "Native packages and AUR"
 
 msgid "Instalados:"
 msgstr "Installed:"
+
+msgid "Desenvolvimento"
+msgstr "Development"
 
 msgid "Disponíveis:"
 msgstr "Available:"
@@ -376,6 +409,9 @@ msgstr "but it won't be installed."
 msgid "mas não está disponível"
 msgstr "but it's not available"
 
+msgid "Categorias"
+msgstr "Categories"
+
 msgid "Informações sobre programas nativos"
 msgstr "Native program information"
 
@@ -388,6 +424,9 @@ msgstr "Version available:"
 msgid "Repositório:"
 msgstr "Repository:"
 
+msgid "Fechar"
+msgstr "Close"
+
 msgid "Instalando"
 msgstr "Installing"
 
@@ -397,8 +436,14 @@ msgstr "Removing"
 msgid "Informações sobre programas SNAP"
 msgstr "Information on SNAP programmes"
 
+msgid "Mais informações"
+msgstr "More information"
+
 msgid "Programas SNAP"
 msgstr "SNAP Programs"
+
+msgid "Voltar"
+msgstr "Back"
 
 msgid "Versão disponivel:"
 msgstr "Version available:"
@@ -411,3 +456,6 @@ msgstr "AUR"
 
 msgid "Empacotador:"
 msgstr "Packer:"
+
+msgid "Cancelar"
+msgstr "Cancel"

@@ -40,6 +40,9 @@ msgid ""
 "$COMMENT_skel"
 msgstr "동영상- (스플레이어) smplayer.sh 멀티미디어 smplayer.png 스플레이어 스케일 $코멘트_스켈"
 
+msgid "Fechar"
+msgstr ""
+
 msgid "Restaurar no modo padrão da distribuição"
 msgstr "배포의 기본 모드로 복원"
 
@@ -88,5 +91,11 @@ msgstr "메인"
 msgid "Internet"
 msgstr "인터넷"
 
+msgid "Gráficos"
+msgstr ""
+
 msgid "Pesquisar Restaurar"
 msgstr "검색 복원"
+
+msgid "Sistema"
+msgstr ""

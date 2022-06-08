@@ -39,6 +39,9 @@ msgstr ""
 msgid "Category"
 msgstr "Kategorie"
 
+msgid "Webcam"
+msgstr ""
+
 msgid "Name"
 msgstr "Name"
 
@@ -51,8 +54,14 @@ msgstr ""
 "\n"
 "Möchten Sie den Bericht jetzt ansehen?\n"
 
+msgid "ID"
+msgstr ""
+
 msgid "Visualizar o relatório"
 msgstr "Den Bericht ansehen"
+
+msgid "Info"
+msgstr ""
 
 msgid "Hardinfo Relatory"
 msgstr "Hardinfo Relator"
@@ -62,6 +71,9 @@ msgstr "Willkommen bei BigLinux"
 
 msgid "Comece com algumas etapas simples."
 msgstr "Beginnen Sie mit ein paar einfachen Schritten."
+
+msgid "Fechar"
+msgstr ""
 
 msgid "Mostrar na inicialização"
 msgstr "Beim Starten anzeigen"
@@ -90,6 +102,9 @@ msgstr "Andere Browser"
 
 msgid "KDE Connect"
 msgstr "KDE-Verbindung"
+
+msgid "Temas, Desktop e Ajustes"
+msgstr ""
 
 msgid ""
 "O KDE Connect é um aplicativo que facilita as comunicações sem fio e a "
@@ -406,6 +421,15 @@ msgstr "Anpassen"
 msgid "Telefone"
 msgstr "Telefon"
 
+msgid ""
+"Esse programa pode transferir arquivos entre smartphones, tablets e outros "
+"computadores.  Com ele você pode, por exemplo, utilizar  seu smartphone como "
+"mouse e teclado sem fio para controlar o computador, entre outros recursos.  "
+"Ele se integra melhor ao BigLinux e fica entre os applets localizados perto "
+"do relógio do sistema. Para sincronizar com o seu smartphone acesse a Google "
+"Store ou Apple Store e instale o Kde Connect."
+msgstr ""
+
 msgid "Rede e Internet"
 msgstr "Netzwerk und Internet"
 
@@ -415,11 +439,20 @@ msgstr "Konten"
 msgid "Região e Idioma"
 msgstr "Region und Sprache"
 
+msgid "Categorias"
+msgstr ""
+
 msgid "Privacidade"
 msgstr "Datenschutz"
 
+msgid "Principais"
+msgstr ""
+
 msgid "Servidor"
 msgstr "Server"
+
+msgid "Sistema"
+msgstr ""
 
 msgid "Desenvolvimento"
 msgstr "Entwicklung"
@@ -435,6 +468,9 @@ msgstr "Themes, Desktop und Einstellungen"
 
 msgid "Informações do sistema e hardware"
 msgstr "System- und Hardware-Informationen"
+
+msgid "Multimídia"
+msgstr ""
 
 msgid ""
 "Além de visualizar as informações é possível salvar em um arquivo e "
@@ -508,11 +544,17 @@ msgstr ""
 "Außerdem wird eine Datei mit Informationen erstellt, die Sie an andere "
 "Personen senden können, die Sie unterstützen."
 
+msgid "Outros"
+msgstr ""
+
 msgid "Adicionar ou Remover Usuários"
 msgstr "Benutzer hinzufügen oder entfernen"
 
 msgid "Criar, remover e gerenciar contas e grupos de usuários."
 msgstr "Erstellen, entfernen und verwalten Sie Benutzerkonten und Gruppen."
+
+msgid "Resultado da pesquisa"
+msgstr ""
 
 msgid "Economia de energia"
 msgstr "Energieeinsparung"
@@ -726,11 +768,19 @@ msgstr ""
 msgid "Exibir ID do Android"
 msgstr "Android-ID anzeigen"
 
+msgid "Resolução: "
+msgstr ""
+
 msgid "Ativar Google Apps"
 msgstr "Google Apps aktivieren"
 
 msgid "ID do Android:"
 msgstr "Android ID:"
+
+msgid ""
+"Se a aceleração 3D estiver ativada em um hardware incompatível\n"
+"<br> o android não passará da tela de loading"
+msgstr ""
 
 msgid ""
 "Não foi possível resgatar o ID do Android. \\n\\nAtenção: Waydroid precisa "

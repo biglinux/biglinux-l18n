@@ -35,6 +35,9 @@ msgstr ""
 msgid "Restaurar o Boot, Grub e initrd"
 msgstr "Boot、Grub、initrdのリストア"
 
+msgid "Aguarde..."
+msgstr ""
+
 msgid ""
 "Não encontrei nenhum Linux instalado neste computador, processo cancelado.\n"
 msgstr ""
@@ -191,3 +194,6 @@ msgstr ""
 "    パーティションのフォーマット： $PARTITION_FORMAT\n"
 "    パーティションのUUID: $UUID_PARTITION\n"
 "    続行しますか？"
+
+msgid "Concluído!"
+msgstr ""

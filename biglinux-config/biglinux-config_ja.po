@@ -45,6 +45,9 @@ msgid ""
 msgstr ""
 "動画-(Smplayer) smplayer.sh マルチメディア smplayer.png smplayer skel $COMMENT_skel"
 
+msgid "Fechar"
+msgstr ""
+
 msgid "Restaurar no modo padrão da distribuição"
 msgstr "デフォルトの配信モードに戻す"
 
@@ -93,5 +96,11 @@ msgstr "メイン"
 msgid "Internet"
 msgstr "インターネット"
 
+msgid "Gráficos"
+msgstr ""
+
 msgid "Pesquisar Restaurar"
 msgstr "検索リストア"
+
+msgid "Sistema"
+msgstr ""

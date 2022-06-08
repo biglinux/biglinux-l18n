@@ -63,7 +63,7 @@ msgid "Escolha o desktop:"
 msgstr "Choose the desktop:"
 
 msgid "têm melhor desempenho."
-msgstr ""
+msgstr "have better performance."
 
 msgid "e"
-msgstr ""
+msgstr "and"

@@ -68,6 +68,9 @@ msgstr "Темы, рабочий стол и настройки"
 msgid "Desempenho do desktop"
 msgstr "Производительность рабочего стола"
 
+msgid "Aceleração do navegador"
+msgstr ""
+
 msgid "Usabilidade"
 msgstr "Юзабилити"
 
@@ -77,11 +80,19 @@ msgstr "Тема приложения"
 msgid "Bordas arredondadas."
 msgstr "Закругленные края."
 
+msgid "Fechar"
+msgstr ""
+
 msgid "<b>Classic</b> e <b>New</b> têm melhor desempenho."
 msgstr "<b>Classic</b> и <b>New</b> имеют лучшую производительность."
 
 msgid "Renderizar o desktop via software"
 msgstr "Рендеринг рабочего стола с помощью программного обеспечения"
+
+msgid ""
+"Esse tema possui transparências com efeitos que<br>podem tornar o sistema "
+"lento em computadores<br>antigos ou ambientes virtualizados."
+msgstr ""
 
 msgid "(Pode ser útil em máquina virtual ou computadores antigos)"
 msgstr "(Может быть полезно для виртуальных машин или старых компьютеров)"

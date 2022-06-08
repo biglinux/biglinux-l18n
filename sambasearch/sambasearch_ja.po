@@ -78,3 +78,9 @@ msgstr "をネットワークに接続します。"
 
 msgid "Voltar"
 msgstr "背面"
+
+msgid "Fechar"
+msgstr ""
+
+msgid "Aguarde..."
+msgstr ""

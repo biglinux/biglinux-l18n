@@ -68,6 +68,9 @@ msgstr "السمات وسطح المكتب والتعديلات"
 msgid "Desempenho do desktop"
 msgstr "أداء سطح المكتب"
 
+msgid "Aceleração do navegador"
+msgstr "تسريع المتصفح"
+
 msgid "Usabilidade"
 msgstr "سهولة الاستخدام"
 
@@ -77,11 +80,21 @@ msgstr "موضوع التطبيقات"
 msgid "Bordas arredondadas."
 msgstr "حواف مدورة."
 
+msgid "Fechar"
+msgstr "إغلاق"
+
 msgid "<b>Classic</b> e <b>New</b> têm melhor desempenho."
 msgstr "أداء <b>كلاسيكي</b> <b>وجديد</b> بشكل أفضل."
 
 msgid "Renderizar o desktop via software"
 msgstr "عرض سطح المكتب عبر البرنامج"
+
+msgid ""
+"Esse tema possui transparências com efeitos que<br>podem tornar o sistema "
+"lento em computadores<br>antigos ou ambientes virtualizados."
+msgstr ""
+"يحتوي هذا الموضوع على شفافية مع تأثيرات <br>يمكن أن تبطئ النظام على "
+"<br>أجهزة الكمبيوتر القديمة أو البيئات الافتراضية."
 
 msgid "(Pode ser útil em máquina virtual ou computadores antigos)"
 msgstr "(قد يكون مفيدًا على الأجهزة الظاهرية أو أجهزة الكمبيوتر القديمة)"

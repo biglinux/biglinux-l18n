@@ -39,6 +39,9 @@ msgstr ""
 msgid "Category"
 msgstr "카테고리"
 
+msgid "Webcam"
+msgstr ""
+
 msgid "Name"
 msgstr "이름"
 
@@ -51,8 +54,14 @@ msgstr ""
 "\n"
 "지금 보고서를 보시겠습니까?\n"
 
+msgid "ID"
+msgstr ""
+
 msgid "Visualizar o relatório"
 msgstr "보고서 보기"
+
+msgid "Info"
+msgstr ""
 
 msgid "Hardinfo Relatory"
 msgstr "하드인포 리포트"
@@ -62,6 +71,9 @@ msgstr "빅리눅스에 오신 것을 환영합니다"
 
 msgid "Comece com algumas etapas simples."
 msgstr "몇 가지 간단한 단계부터 시작하십시오."
+
+msgid "Fechar"
+msgstr ""
 
 msgid "Mostrar na inicialização"
 msgstr "시작 시 표시"
@@ -88,6 +100,9 @@ msgstr "기타 브라우저"
 
 msgid "KDE Connect"
 msgstr "KDE 커넥트"
+
+msgid "Temas, Desktop e Ajustes"
+msgstr ""
 
 msgid ""
 "O KDE Connect é um aplicativo que facilita as comunicações sem fio e a "
@@ -378,6 +393,15 @@ msgstr "개인화"
 msgid "Telefone"
 msgstr "전화"
 
+msgid ""
+"Esse programa pode transferir arquivos entre smartphones, tablets e outros "
+"computadores.  Com ele você pode, por exemplo, utilizar  seu smartphone como "
+"mouse e teclado sem fio para controlar o computador, entre outros recursos.  "
+"Ele se integra melhor ao BigLinux e fica entre os applets localizados perto "
+"do relógio do sistema. Para sincronizar com o seu smartphone acesse a Google "
+"Store ou Apple Store e instale o Kde Connect."
+msgstr ""
+
 msgid "Rede e Internet"
 msgstr "네트워크 및 인터넷"
 
@@ -387,11 +411,20 @@ msgstr "청구서"
 msgid "Região e Idioma"
 msgstr "지역 및 언어"
 
+msgid "Categorias"
+msgstr ""
+
 msgid "Privacidade"
 msgstr "개인 정보"
 
+msgid "Principais"
+msgstr ""
+
 msgid "Servidor"
 msgstr "메인프레임"
+
+msgid "Sistema"
+msgstr ""
 
 msgid "Desenvolvimento"
 msgstr "개발"
@@ -407,6 +440,9 @@ msgstr "테마, 데스크톱 및 조정"
 
 msgid "Informações do sistema e hardware"
 msgstr "시스템 및 하드웨어 정보"
+
+msgid "Multimídia"
+msgstr ""
 
 msgid ""
 "Além de visualizar as informações é possível salvar em um arquivo e "
@@ -468,11 +504,17 @@ msgid ""
 "pessoas para que o ajudem com o suporte."
 msgstr "또한 정보가 포함된 파일을 만들어 다른 사람에게 보내 지원을 받을 수 있습니다."
 
+msgid "Outros"
+msgstr ""
+
 msgid "Adicionar ou Remover Usuários"
 msgstr "사용자 추가 또는 제거"
 
 msgid "Criar, remover e gerenciar contas e grupos de usuários."
 msgstr "사용자 계정 및 그룹을 생성, 제거 및 관리합니다."
+
+msgid "Resultado da pesquisa"
+msgstr ""
 
 msgid "Economia de energia"
 msgstr "에너지 절감"
@@ -659,11 +701,19 @@ msgstr ""
 msgid "Exibir ID do Android"
 msgstr "안드로이드 ID 표시"
 
+msgid "Resolução: "
+msgstr ""
+
 msgid "Ativar Google Apps"
 msgstr "구글 앱스 활성화"
 
 msgid "ID do Android:"
 msgstr "안드로이드 ID:"
+
+msgid ""
+"Se a aceleração 3D estiver ativada em um hardware incompatível\n"
+"<br> o android não passará da tela de loading"
+msgstr ""
 
 msgid ""
 "Não foi possível resgatar o ID do Android. \\n\\nAtenção: Waydroid precisa "

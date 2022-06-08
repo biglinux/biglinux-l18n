@@ -167,6 +167,9 @@ msgstr "Wifi"
 msgid "Rede Cabeada"
 msgstr "Red cableada"
 
+msgid "Hardware"
+msgstr ""
+
 msgid "Impressora 3D"
 msgstr "Impresora 3D"
 
@@ -182,6 +185,9 @@ msgstr "Cámara web"
 msgid "Touchscreen"
 msgstr "Pantalla táctil"
 
+msgid "Fechar"
+msgstr ""
+
 msgid "Som"
 msgstr "Sonido"
 
@@ -196,6 +202,9 @@ msgstr "Big-Driver-Manager"
 
 msgid "Instalar ou Remover Drivers e Firmwares"
 msgstr "Instalar o eliminar controladores y firmware"
+
+msgid "Nome"
+msgstr ""
 
 msgid ""
 "Geralmente é preciso reiniciar o computador para o driver ou firmware ser "

@@ -80,3 +80,9 @@ msgstr "على الشبكة:"
 
 msgid "Voltar"
 msgstr "العودة"
+
+msgid "Fechar"
+msgstr "إغلاق"
+
+msgid "Aguarde..."
+msgstr "انتظر..."

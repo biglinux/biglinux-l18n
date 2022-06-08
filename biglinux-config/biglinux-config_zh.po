@@ -44,6 +44,9 @@ msgid ""
 "$COMMENT_skel"
 msgstr "视频-(Smplayer) smplayer.sh 多媒体smplayer.png smplayer skel $COMMENT_skel"
 
+msgid "Fechar"
+msgstr "关闭"
+
 msgid "Restaurar no modo padrão da distribuição"
 msgstr "恢复到默认的分发模式"
 
@@ -92,5 +95,11 @@ msgstr "主要内容"
 msgid "Internet"
 msgstr "互联网"
 
+msgid "Gráficos"
+msgstr "图形"
+
 msgid "Pesquisar Restaurar"
 msgstr "搜索恢复"
+
+msgid "Sistema"
+msgstr "系统"

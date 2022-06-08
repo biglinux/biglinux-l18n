@@ -84,3 +84,9 @@ msgstr "sur le réseau :"
 
 msgid "Voltar"
 msgstr "Dos"
+
+msgid "Fechar"
+msgstr ""
+
+msgid "Aguarde..."
+msgstr ""

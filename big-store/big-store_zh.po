@@ -23,10 +23,16 @@ msgstr "大卖场已经在使用。"
 msgid "Big-Store"
 msgstr "大卖场"
 
+msgid "Instalar"
+msgstr "安裝"
+
 msgid ""
 "Para os programas Snap aparecerem no menu do sistema finalize a sessão e "
 "faça login novamente."
 msgstr "为了使 \"快照 \"程序出现在系统菜单中，请退出并重新登录。"
+
+msgid "Remover"
+msgstr "去除"
 
 msgid "Configurações"
 msgstr "设置"
@@ -37,11 +43,17 @@ msgstr "积极支持Flatpak。"
 msgid "Suporte a Flatpak NÃO está ativo."
 msgstr "Flatpak支持不活跃。"
 
+msgid "Desativar"
+msgstr "禁用"
+
 msgid "Suporte a Snap ativo."
 msgstr "积极支持Snap。"
 
 msgid "Suporte a Snap NÃO está ativo."
 msgstr "Snap支持并不活跃。"
+
+msgid "Ativar"
+msgstr "啟用"
 
 msgid "Executar"
 msgstr "运转"
@@ -159,6 +171,9 @@ msgstr "云存储"
 msgid "Download"
 msgstr "下载"
 
+msgid "Internet"
+msgstr "互聯網"
+
 msgid "Compartilhadores e Torrent"
 msgstr "分享者和Torrent"
 
@@ -186,6 +201,9 @@ msgstr "任务和联系人的日历"
 msgid "Visualizadores de imagem"
 msgstr "图片浏览者"
 
+msgid "Escritório"
+msgstr "辦公室"
+
 msgid "Editores de imagem e ferramentas de desenho"
 msgstr "图像编辑器和绘图工具"
 
@@ -200,6 +218,9 @@ msgstr "3D和CAD编辑"
 
 msgid "Reprodutores de áudio"
 msgstr "音频播放器"
+
+msgid "Gráficos"
+msgstr "圖形"
 
 msgid "Rádio online"
 msgstr "在线广播"
@@ -218,6 +239,9 @@ msgstr "在线视频、IPTV、Youtube..."
 
 msgid "Editores e compactadores de vídeo"
 msgstr "视频编辑和压缩器"
+
+msgid "Multimídia"
+msgstr "多媒体"
 
 msgid "Gravadores e copiadores de CD e DVD"
 msgstr "CD和DVD刻录机和复印机"
@@ -288,8 +312,14 @@ msgstr "网络服务器"
 msgid "Instalado na partição:"
 msgstr "安装在分区上。"
 
+msgid "Outros"
+msgstr "其他"
+
 msgid "Tamanho da partição:"
 msgstr "分区大小。"
+
+msgid "Sistema"
+msgstr "系统"
 
 msgid "Espaço utilizado:"
 msgstr "使用的空间。"
@@ -305,6 +335,9 @@ msgstr "原生包和AUR"
 
 msgid "Instalados:"
 msgstr "已安装。"
+
+msgid "Desenvolvimento"
+msgstr "发展"
 
 msgid "Disponíveis:"
 msgstr "可用。"
@@ -368,6 +401,9 @@ msgstr "但它将不会被安装。"
 msgid "mas não está disponível"
 msgstr "但它是不存在的"
 
+msgid "Categorias"
+msgstr "类别"
+
 msgid "Informações sobre programas nativos"
 msgstr "关于本地方案的信息"
 
@@ -380,6 +416,9 @@ msgstr "可用的版本。"
 msgid "Repositório:"
 msgstr "存储库。"
 
+msgid "Fechar"
+msgstr "关闭"
+
 msgid "Instalando"
 msgstr "安装"
 
@@ -389,8 +428,14 @@ msgstr "移除"
 msgid "Informações sobre programas SNAP"
 msgstr "关于SNAP方案的信息"
 
+msgid "Mais informações"
+msgstr "更多信息"
+
 msgid "Programas SNAP"
 msgstr "SNAP方案"
+
+msgid "Voltar"
+msgstr "溯源"
 
 msgid "Versão disponivel:"
 msgstr "可用的版本。"
@@ -403,3 +448,6 @@ msgstr "AUR"
 
 msgid "Empacotador:"
 msgstr "包装工。"
+
+msgid "Cancelar"
+msgstr "取消"

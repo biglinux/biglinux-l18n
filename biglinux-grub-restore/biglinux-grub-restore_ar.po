@@ -37,6 +37,9 @@ msgstr ""
 msgid "Restaurar o Boot, Grub e initrd"
 msgstr "استعادة التمهيد، فرك، و initd"
 
+msgid "Aguarde..."
+msgstr "انتظر..."
+
 msgid ""
 "Não encontrei nenhum Linux instalado neste computador, processo cancelado.\n"
 msgstr ""
@@ -206,3 +209,6 @@ msgstr ""
 " تنسيق التقسيم: $ PARTITION_FOR\n"
 " القسم UUID: $UUID_PARTITION\n"
 " هل تريد المتابعة"
+
+msgid "Concluído!"
+msgstr "تم الانتهاء!"

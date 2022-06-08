@@ -35,6 +35,9 @@ msgstr ""
 msgid "Restaurar o Boot, Grub e initrd"
 msgstr "恢复启动、Grub和initrd"
 
+msgid "Aguarde..."
+msgstr "请等待..."
+
 msgid ""
 "Não encontrei nenhum Linux instalado neste computador, processo cancelado.\n"
 msgstr ""
@@ -191,3 +194,6 @@ msgstr ""
 "    分区的格式：$PARTITION_FORMAT\n"
 "    分区的UUID：$UUID_PARTITION\n"
 "    你想继续吗？"
+
+msgid "Concluído!"
+msgstr "完成了!"

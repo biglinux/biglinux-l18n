@@ -39,6 +39,9 @@ msgstr ""
 msgid "Category"
 msgstr "类别"
 
+msgid "Webcam"
+msgstr "网络摄像头"
+
 msgid "Name"
 msgstr "命名"
 
@@ -51,8 +54,14 @@ msgstr ""
 "\n"
 "你想现在查看报告吗？\n"
 
+msgid "ID"
+msgstr "身份证"
+
 msgid "Visualizar o relatório"
 msgstr "查看报告"
+
+msgid "Info"
+msgstr "信息"
 
 msgid "Hardinfo Relatory"
 msgstr "困难情况下的相关信息"
@@ -62,6 +71,9 @@ msgstr "欢迎来到BigLinux"
 
 msgid "Comece com algumas etapas simples."
 msgstr "从几个简单的步骤开始。"
+
+msgid "Fechar"
+msgstr "关闭"
 
 msgid "Mostrar na inicialização"
 msgstr "启动时显示"
@@ -88,6 +100,9 @@ msgstr "其他浏览器"
 
 msgid "KDE Connect"
 msgstr "KDE连接"
+
+msgid "Temas, Desktop e Ajustes"
+msgstr "主题、桌面和设置"
 
 msgid ""
 "O KDE Connect é um aplicativo que facilita as comunicações sem fio e a "
@@ -373,6 +388,15 @@ msgstr "定制"
 msgid "Telefone"
 msgstr "电话"
 
+msgid ""
+"Esse programa pode transferir arquivos entre smartphones, tablets e outros "
+"computadores.  Com ele você pode, por exemplo, utilizar  seu smartphone como "
+"mouse e teclado sem fio para controlar o computador, entre outros recursos.  "
+"Ele se integra melhor ao BigLinux e fica entre os applets localizados perto "
+"do relógio do sistema. Para sincronizar com o seu smartphone acesse a Google "
+"Store ou Apple Store e instale o Kde Connect."
+msgstr ""
+
 msgid "Rede e Internet"
 msgstr "网络和互联网"
 
@@ -382,11 +406,20 @@ msgstr "帐户"
 msgid "Região e Idioma"
 msgstr "地区和语言"
 
+msgid "Categorias"
+msgstr "类别"
+
 msgid "Privacidade"
 msgstr "隐私"
 
+msgid "Principais"
+msgstr "主要内容"
+
 msgid "Servidor"
 msgstr "服务器"
+
+msgid "Sistema"
+msgstr "系统"
 
 msgid "Desenvolvimento"
 msgstr "发展"
@@ -402,6 +435,9 @@ msgstr "主题、桌面和设置"
 
 msgid "Informações do sistema e hardware"
 msgstr "系统和硬件信息"
+
+msgid "Multimídia"
+msgstr "多媒体"
 
 msgid ""
 "Além de visualizar as informações é possível salvar em um arquivo e "
@@ -463,11 +499,17 @@ msgid ""
 "pessoas para que o ajudem com o suporte."
 msgstr "它还会创建一个包含信息的文件，你可以将其发送给其他人，以帮助你获得支持。"
 
+msgid "Outros"
+msgstr "其他"
+
 msgid "Adicionar ou Remover Usuários"
 msgstr "添加或删除用户"
 
 msgid "Criar, remover e gerenciar contas e grupos de usuários."
 msgstr "创建、删除和管理用户账户和组。"
+
+msgid "Resultado da pesquisa"
+msgstr "搜索结果"
 
 msgid "Economia de energia"
 msgstr "节能"
@@ -648,11 +690,19 @@ msgstr ""
 msgid "Exibir ID do Android"
 msgstr "显示安卓ID"
 
+msgid "Resolução: "
+msgstr ""
+
 msgid "Ativar Google Apps"
 msgstr "启用谷歌应用程序"
 
 msgid "ID do Android:"
 msgstr "安卓ID。"
+
+msgid ""
+"Se a aceleração 3D estiver ativada em um hardware incompatível\n"
+"<br> o android não passará da tela de loading"
+msgstr ""
 
 msgid ""
 "Não foi possível resgatar o ID do Android. \\n\\nAtenção: Waydroid precisa "

@@ -46,6 +46,9 @@ msgstr ""
 "أشرطة الفيديو- (سمبلاير) smplayer.sh الوسائط المتعددة smplayer.png سمبلاير "
 "skel $comment_skel"
 
+msgid "Fechar"
+msgstr "إغلاق"
+
 msgid "Restaurar no modo padrão da distribuição"
 msgstr "الاستعادة إلى الوضع الافتراضي للتوزيع"
 
@@ -99,5 +102,11 @@ msgstr "ماين"
 msgid "Internet"
 msgstr "الإنترنت"
 
+msgid "Gráficos"
+msgstr "رسومات"
+
 msgid "Pesquisar Restaurar"
 msgstr "استعادة البحث"
+
+msgid "Sistema"
+msgstr "نظام"

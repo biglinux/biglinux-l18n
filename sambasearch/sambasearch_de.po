@@ -84,3 +84,9 @@ msgstr "im Netz:"
 
 msgid "Voltar"
 msgstr "Zurück"
+
+msgid "Fechar"
+msgstr ""
+
+msgid "Aguarde..."
+msgstr ""

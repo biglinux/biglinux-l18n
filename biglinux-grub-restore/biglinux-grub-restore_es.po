@@ -38,6 +38,9 @@ msgstr ""
 msgid "Restaurar o Boot, Grub e initrd"
 msgstr "Restaurar Boot, Grub e initrd"
 
+msgid "Aguarde..."
+msgstr ""
+
 msgid ""
 "Não encontrei nenhum Linux instalado neste computador, processo cancelado.\n"
 msgstr ""
@@ -213,3 +216,6 @@ msgstr ""
 "    Formato de la partición: $PARTITION_FORMAT\n"
 "    UUID de la partición: $UUUID_PARTITION\n"
 "    ¿Quieres continuar?"
+
+msgid "Concluído!"
+msgstr ""

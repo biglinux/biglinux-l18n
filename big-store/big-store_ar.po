@@ -23,12 +23,18 @@ msgstr "المتجر الكبير قيد الاستخدام بالفعل."
 msgid "Big-Store"
 msgstr "متجر كبير"
 
+msgid "Instalar"
+msgstr "تثبيت"
+
 msgid ""
 "Para os programas Snap aparecerem no menu do sistema finalize a sessão e "
 "faça login novamente."
 msgstr ""
 "لكي تظهر برامج Snap في قائمة النظام، قم بتسجيل الخروج وتسجيل الدخول مرة أخرى."
 ""
+
+msgid "Remover"
+msgstr "إزالة"
 
 msgid "Configurações"
 msgstr "الإعدادات"
@@ -39,11 +45,17 @@ msgstr "دعم Flatpak نشط."
 msgid "Suporte a Flatpak NÃO está ativo."
 msgstr "دعم Flatpak غير نشط."
 
+msgid "Desativar"
+msgstr "إلغاء التنشيط"
+
 msgid "Suporte a Snap ativo."
 msgstr "دعم Snap نشط."
 
 msgid "Suporte a Snap NÃO está ativo."
 msgstr "دعم Snap غير نشط."
+
+msgid "Ativar"
+msgstr "تنشيط"
 
 msgid "Executar"
 msgstr "أداء"
@@ -166,6 +178,9 @@ msgstr "تخزين سحابي"
 msgid "Download"
 msgstr "تنزيل"
 
+msgid "Internet"
+msgstr "الإنترنت"
+
 msgid "Compartilhadores e Torrent"
 msgstr "المساهمون والتورنت"
 
@@ -193,6 +208,9 @@ msgstr "جدول المهام والاتصال"
 msgid "Visualizadores de imagem"
 msgstr "مشاهدي الصور"
 
+msgid "Escritório"
+msgstr "منصب"
+
 msgid "Editores de imagem e ferramentas de desenho"
 msgstr "برامج تحرير الصور وأدوات الرسم"
 
@@ -207,6 +225,9 @@ msgstr "تحرير 3D و CAD"
 
 msgid "Reprodutores de áudio"
 msgstr "مشغلات الصوت"
+
+msgid "Gráficos"
+msgstr "رسومات"
 
 msgid "Rádio online"
 msgstr "راديو على الإنترنت"
@@ -225,6 +246,9 @@ msgstr "فيديو عبر الإنترنت، IPTV، يوتيوب..."
 
 msgid "Editores e compactadores de vídeo"
 msgstr "محررات الفيديو والضواغط"
+
+msgid "Multimídia"
+msgstr "الوسائط المتعددة"
 
 msgid "Gravadores e copiadores de CD e DVD"
 msgstr "شعلات وآلات نسخ CD و DVD"
@@ -295,8 +319,14 @@ msgstr "خوادم الويب"
 msgid "Instalado na partição:"
 msgstr "مثبت على القسم:"
 
+msgid "Outros"
+msgstr "أخرى"
+
 msgid "Tamanho da partição:"
 msgstr "حجم القسم:"
+
+msgid "Sistema"
+msgstr "نظام"
 
 msgid "Espaço utilizado:"
 msgstr "المساحة المستخدمة:"
@@ -312,6 +342,9 @@ msgstr "حزم أصلية و AUR"
 
 msgid "Instalados:"
 msgstr "تم التثبيت:"
+
+msgid "Desenvolvimento"
+msgstr "تطوير"
 
 msgid "Disponíveis:"
 msgstr "متاح:"
@@ -375,6 +408,9 @@ msgstr "ولكن لن يتم تثبيته."
 msgid "mas não está disponível"
 msgstr "لكنها غير متوفرة"
 
+msgid "Categorias"
+msgstr "الفئات"
+
 msgid "Informações sobre programas nativos"
 msgstr "معلومات حول البرامج الأصلية"
 
@@ -387,6 +423,9 @@ msgstr "الإصدار المتاح:"
 msgid "Repositório:"
 msgstr "المستودع:"
 
+msgid "Fechar"
+msgstr "إغلاق"
+
 msgid "Instalando"
 msgstr "تثبيت"
 
@@ -396,8 +435,14 @@ msgstr "إزالة"
 msgid "Informações sobre programas SNAP"
 msgstr "معلومات عن برامج SNAP"
 
+msgid "Mais informações"
+msgstr "المزيد من المعلومات"
+
 msgid "Programas SNAP"
 msgstr "برامج سناب"
+
+msgid "Voltar"
+msgstr "العودة"
 
 msgid "Versão disponivel:"
 msgstr "الإصدار المتاح:"
@@ -410,3 +455,6 @@ msgstr "أور"
 
 msgid "Empacotador:"
 msgstr "باكر:"
+
+msgid "Cancelar"
+msgstr "إلغاء"

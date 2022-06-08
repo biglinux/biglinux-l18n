@@ -48,6 +48,9 @@ msgstr ""
 "Videos-(Smplayer) smplayer.sh Multimedia smplayer.png smplayer skel "
 "$COMMENT_skel"
 
+msgid "Fechar"
+msgstr ""
+
 msgid "Restaurar no modo padrão da distribuição"
 msgstr "Wiederherstellung des Standardverteilungsmodus"
 
@@ -105,5 +108,11 @@ msgstr "Hauptseite"
 msgid "Internet"
 msgstr "Internet"
 
+msgid "Gráficos"
+msgstr ""
+
 msgid "Pesquisar Restaurar"
 msgstr "Suche Wiederherstellen"
+
+msgid "Sistema"
+msgstr ""

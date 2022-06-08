@@ -23,12 +23,18 @@ msgstr "Der Big-Store ist bereits in betrieb."
 msgid "Big-Store"
 msgstr "Big-Store"
 
+msgid "Instalar"
+msgstr ""
+
 msgid ""
 "Para os programas Snap aparecerem no menu do sistema finalize a sessão e "
 "faça login novamente."
 msgstr ""
 "Damit die Snap programme im systemmenü erscheinen, melden sie sich ab und "
 "wieder an."
+
+msgid "Remover"
+msgstr ""
 
 msgid "Configurações"
 msgstr "Einstellungen"
@@ -39,11 +45,17 @@ msgstr "Aktive Flatpak Unterstützung."
 msgid "Suporte a Flatpak NÃO está ativo."
 msgstr "Flatpak Unterstützung ist NICHT aktiv."
 
+msgid "Desativar"
+msgstr ""
+
 msgid "Suporte a Snap ativo."
 msgstr "Aktive Snap unterstützung."
 
 msgid "Suporte a Snap NÃO está ativo."
 msgstr "Die Snap unterstützung ist NICHT aktiv."
+
+msgid "Ativar"
+msgstr ""
 
 msgid "Executar"
 msgstr "Ausführen"
@@ -167,6 +179,9 @@ msgstr "Cloud-Speicher"
 msgid "Download"
 msgstr "Herunterladen"
 
+msgid "Internet"
+msgstr ""
+
 msgid "Compartilhadores e Torrent"
 msgstr "Sharer und Torrent"
 
@@ -194,6 +209,9 @@ msgstr "Kalender mit aufgaben und kontakten"
 msgid "Visualizadores de imagem"
 msgstr "Bildbetrachter"
 
+msgid "Escritório"
+msgstr ""
+
 msgid "Editores de imagem e ferramentas de desenho"
 msgstr "Bildbearbeitungsprogramme und zeichenwerkzeuge"
 
@@ -208,6 +226,9 @@ msgstr "3D und CAD Bearbeitung"
 
 msgid "Reprodutores de áudio"
 msgstr "Audio Player"
+
+msgid "Gráficos"
+msgstr ""
 
 msgid "Rádio online"
 msgstr "Online Radio"
@@ -226,6 +247,9 @@ msgstr "Online Video, IPTV, Youtube..."
 
 msgid "Editores e compactadores de vídeo"
 msgstr "Videobearbeitungsprogramme und Kompressoren"
+
+msgid "Multimídia"
+msgstr ""
 
 msgid "Gravadores e copiadores de CD e DVD"
 msgstr "CD und DVD Brenner und -Kopierer"
@@ -296,8 +320,14 @@ msgstr "WEB-Server"
 msgid "Instalado na partição:"
 msgstr "Installiert auf der Partition:"
 
+msgid "Outros"
+msgstr ""
+
 msgid "Tamanho da partição:"
 msgstr "Größe der Partition:"
+
+msgid "Sistema"
+msgstr ""
 
 msgid "Espaço utilizado:"
 msgstr "Genutzter Raum:"
@@ -313,6 +343,9 @@ msgstr "Einheimische Pakete und AUR"
 
 msgid "Instalados:"
 msgstr "Installiert:"
+
+msgid "Desenvolvimento"
+msgstr ""
 
 msgid "Disponíveis:"
 msgstr "Verfügbar:"
@@ -378,6 +411,9 @@ msgstr "aber es wird nicht installiert."
 msgid "mas não está disponível"
 msgstr "aber sie ist nicht verfügbar"
 
+msgid "Categorias"
+msgstr ""
+
 msgid "Informações sobre programas nativos"
 msgstr "Informationen über einheimische Programme"
 
@@ -390,6 +426,9 @@ msgstr "Version verfügbar:"
 msgid "Repositório:"
 msgstr "Repository:"
 
+msgid "Fechar"
+msgstr ""
+
 msgid "Instalando"
 msgstr "Installation von"
 
@@ -399,8 +438,14 @@ msgstr "Entfernen von"
 msgid "Informações sobre programas SNAP"
 msgstr "Informationen über SNAP-Programme"
 
+msgid "Mais informações"
+msgstr ""
+
 msgid "Programas SNAP"
 msgstr "SNAP-Programme"
+
+msgid "Voltar"
+msgstr ""
 
 msgid "Versão disponivel:"
 msgstr "Version verfügbar:"
@@ -413,3 +458,6 @@ msgstr "AUR"
 
 msgid "Empacotador:"
 msgstr "Packer:"
+
+msgid "Cancelar"
+msgstr ""

@@ -66,6 +66,9 @@ msgstr "테마, 데스크톱 및 조정"
 msgid "Desempenho do desktop"
 msgstr "데스크탑 성능"
 
+msgid "Aceleração do navegador"
+msgstr ""
+
 msgid "Usabilidade"
 msgstr "사용성"
 
@@ -75,11 +78,19 @@ msgstr "앱 테마"
 msgid "Bordas arredondadas."
 msgstr "모서리가 둥글다."
 
+msgid "Fechar"
+msgstr ""
+
 msgid "<b>Classic</b> e <b>New</b> têm melhor desempenho."
 msgstr "<b>클래식과</b> <b>뉴 퍼포먼스가</b> 더 좋습니다."
 
 msgid "Renderizar o desktop via software"
 msgstr "소프트웨어를 통한 데스크탑 렌더링"
+
+msgid ""
+"Esse tema possui transparências com efeitos que<br>podem tornar o sistema "
+"lento em computadores<br>antigos ou ambientes virtualizados."
+msgstr ""
 
 msgid "(Pode ser útil em máquina virtual ou computadores antigos)"
 msgstr "(가상 컴퓨터 또는 이전 컴퓨터에서 유용할 수 있음)"

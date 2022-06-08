@@ -68,6 +68,9 @@ msgstr "Themes, Desktop and Settings"
 msgid "Desempenho do desktop"
 msgstr "Desktop performance"
 
+msgid "Aceleração do navegador"
+msgstr "Browser acceleration"
+
 msgid "Usabilidade"
 msgstr "Usability"
 
@@ -77,11 +80,21 @@ msgstr "Application theme"
 msgid "Bordas arredondadas."
 msgstr "Rounded edges."
 
+msgid "Fechar"
+msgstr "Close"
+
 msgid "<b>Classic</b> e <b>New</b> têm melhor desempenho."
 msgstr "<b>Classic</b> and <b>New</b> have better performance."
 
 msgid "Renderizar o desktop via software"
 msgstr "Rendering the desktop via software"
+
+msgid ""
+"Esse tema possui transparências com efeitos que<br>podem tornar o sistema "
+"lento em computadores<br>antigos ou ambientes virtualizados."
+msgstr ""
+"This theme has transparencies with effects that can<br>slow down the system "
+"on old computers<br>or virtualized environments."
 
 msgid "(Pode ser útil em máquina virtual ou computadores antigos)"
 msgstr "(Can be useful on virtual machine or older computers)"

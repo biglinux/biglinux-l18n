@@ -23,10 +23,16 @@ msgstr "빅 스토어는 이미 사용 중입니다."
 msgid "Big-Store"
 msgstr "빅 스토어"
 
+msgid "Instalar"
+msgstr ""
+
 msgid ""
 "Para os programas Snap aparecerem no menu do sistema finalize a sessão e "
 "faça login novamente."
 msgstr "Snap 프로그램이 시스템 메뉴에 나타나도록 하려면 로그아웃했다가 다시 로그인합니다."
+
+msgid "Remover"
+msgstr ""
 
 msgid "Configurações"
 msgstr "설정"
@@ -37,11 +43,17 @@ msgstr "플랫팩 지원이 활성화되어 있습니다."
 msgid "Suporte a Flatpak NÃO está ativo."
 msgstr "플랫팩 지원은 활성화되지 않았습니다."
 
+msgid "Desativar"
+msgstr ""
+
 msgid "Suporte a Snap ativo."
 msgstr "스냅 지원이 활성화되었습니다."
 
 msgid "Suporte a Snap NÃO está ativo."
 msgstr "스냅 지원이 활성화되지 않았습니다."
+
+msgid "Ativar"
+msgstr ""
 
 msgid "Executar"
 msgstr "수행"
@@ -163,6 +175,9 @@ msgstr "클라우드 스토리지"
 msgid "Download"
 msgstr "다운로드"
 
+msgid "Internet"
+msgstr ""
+
 msgid "Compartilhadores e Torrent"
 msgstr "공유자 및 토렌트"
 
@@ -190,6 +205,9 @@ msgstr "작업 및 연락처 일정"
 msgid "Visualizadores de imagem"
 msgstr "이미지 뷰어"
 
+msgid "Escritório"
+msgstr ""
+
 msgid "Editores de imagem e ferramentas de desenho"
 msgstr "이미지 편집기 및 그리기 도구"
 
@@ -204,6 +222,9 @@ msgstr "3D 및 CAD 편집"
 
 msgid "Reprodutores de áudio"
 msgstr "오디오 플레이어"
+
+msgid "Gráficos"
+msgstr ""
 
 msgid "Rádio online"
 msgstr "온라인 라디오"
@@ -222,6 +243,9 @@ msgstr "온라인 비디오, IPTV, 유튜브..."
 
 msgid "Editores e compactadores de vídeo"
 msgstr "비디오 편집자 및 압축기"
+
+msgid "Multimídia"
+msgstr ""
 
 msgid "Gravadores e copiadores de CD e DVD"
 msgstr "CD 및 DVD 버너 및 복사기"
@@ -292,8 +316,14 @@ msgstr "웹 서버"
 msgid "Instalado na partição:"
 msgstr "파티션에 설치됨:"
 
+msgid "Outros"
+msgstr ""
+
 msgid "Tamanho da partição:"
 msgstr "파티션 크기:"
+
+msgid "Sistema"
+msgstr ""
 
 msgid "Espaço utilizado:"
 msgstr "사용된 공간:"
@@ -309,6 +339,9 @@ msgstr "네이티브 및 AUR 패키지"
 
 msgid "Instalados:"
 msgstr "설치:"
+
+msgid "Desenvolvimento"
+msgstr ""
 
 msgid "Disponíveis:"
 msgstr "사용 가능:"
@@ -372,6 +405,9 @@ msgstr "하지만 설치되지는 않을 것입니다."
 msgid "mas não está disponível"
 msgstr "하지만 사용할 수 없습니다"
 
+msgid "Categorias"
+msgstr ""
+
 msgid "Informações sobre programas nativos"
 msgstr "네이티브 프로그램에 대한 정보"
 
@@ -384,6 +420,9 @@ msgstr "사용 가능한 버전:"
 msgid "Repositório:"
 msgstr "리포지토리:"
 
+msgid "Fechar"
+msgstr ""
+
 msgid "Instalando"
 msgstr "설치 중"
 
@@ -393,8 +432,14 @@ msgstr "제거"
 msgid "Informações sobre programas SNAP"
 msgstr "SNAP 프로그램에 대한 정보"
 
+msgid "Mais informações"
+msgstr ""
+
 msgid "Programas SNAP"
 msgstr "스냅 프로그램"
+
+msgid "Voltar"
+msgstr ""
 
 msgid "Versão disponivel:"
 msgstr "사용 가능한 버전:"
@@ -407,3 +452,6 @@ msgstr "공기"
 
 msgid "Empacotador:"
 msgstr "패커:"
+
+msgid "Cancelar"
+msgstr ""

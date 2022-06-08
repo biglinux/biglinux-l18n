@@ -167,6 +167,9 @@ msgstr "Wifi"
 msgid "Rede Cabeada"
 msgstr "Проводная сеть"
 
+msgid "Hardware"
+msgstr ""
+
 msgid "Impressora 3D"
 msgstr "3D-принтер"
 
@@ -182,6 +185,9 @@ msgstr "Веб-камера"
 msgid "Touchscreen"
 msgstr "Сенсорный экран"
 
+msgid "Fechar"
+msgstr ""
+
 msgid "Som"
 msgstr "Звук"
 
@@ -196,6 +202,9 @@ msgstr "Big-Driver-Manager"
 
 msgid "Instalar ou Remover Drivers e Firmwares"
 msgstr "Установка или удаление драйверов и встроенного ПО"
+
+msgid "Nome"
+msgstr ""
 
 msgid ""
 "Geralmente é preciso reiniciar o computador para o driver ou firmware ser "
