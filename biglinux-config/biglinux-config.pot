@@ -7,7 +7,7 @@
 msgid   ""
 msgstr  "Project-Id-Version: biglinux-config\n"
         "Report-Msgid-Bugs-To: \n"
-        "POT-Creation-Date: 2022-06-08 02:44-0300\n"
+        "POT-Creation-Date: 2022-06-08 04:00-0300\n"
         "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
         "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
         "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -16,22 +16,41 @@ msgstr  "Project-Id-Version: biglinux-config\n"
         "Content-Type: text/plain; charset=UTF-8\n"
         "Content-Transfer-Encoding: 8bit\n"
 
-msgid   "Restaurar Configurações"
+msgid   "Restaurar&nbsp;o&nbsp;programa&nbsp;como&nbsp;modo&nbsp;padrão&nbsp;"
+        "ou&nbsp;distribuição&nbsp;BigLinux."
 msgstr  ""
 
-msgid   "Atenção! O programa está aberto!\\nEle será fechado para que a "
-        "restauração tenha efeito."
+msgid   "Restaurar&nbsp;o&nbsp;programa&nbsp;como&nbsp;modo&nbsp;padrão."
 msgstr  ""
 
-msgid   "As configurações foram restauradas com sucesso!"
+msgid   "Músicas-(Clementine) clementine.sh Multimedia clementine.png "
+        "clementine skel $COMMENT_skel"
 msgstr  ""
 
-msgid   "Você tem certeza que deseja restaurar todas as configurações do KDE/"
-        "Plasma?\\nIsso apagará todas as configurações definidas por $USER!"
+msgid   "Gravador-de-Tela-(vokoscreenNG) vokoscreen.sh Multimedia vokoscreen."
+        "png vokoscreenNG  $COMMENT_normal"
 msgstr  ""
 
-msgid   "As configurações foram restauradas com sucesso!\\nÉ necessário fazer "
-        "logoff/login para concluir a restauração!"
+msgid   "Vídeos-(Smplayer) smplayer.sh Multimedia smplayer.png smplayer skel "
+        "$COMMENT_skel"
+msgstr  ""
+
+msgid   "Fechar"
+msgstr  ""
+
+msgid   "Restaurar no modo padrão da distribuição"
+msgstr  ""
+
+msgid   "Essa opção restaura o programa com o padrão do BigLinux."
+msgstr  ""
+
+msgid   "Restaurar no modo padrão do programa"
+msgstr  ""
+
+msgid   "Essa opção restaura o programa com o padrão do desenvolvedor."
+msgstr  ""
+
+msgid   "Restaurar as configurações do programa:"
 msgstr  ""
 
 msgid   "Principal"
@@ -55,39 +74,20 @@ msgstr  ""
 msgid   "Pesquisar Restaurar"
 msgstr  ""
 
-msgid   "Fechar"
+msgid   "Restaurar Configurações"
 msgstr  ""
 
-msgid   "Restaurar&nbsp;o&nbsp;programa&nbsp;como&nbsp;modo&nbsp;padrão&nbsp;"
-        "ou&nbsp;distribuição&nbsp;BigLinux."
+msgid   "Atenção! O programa está aberto!\\nEle será fechado para que a "
+        "restauração tenha efeito."
 msgstr  ""
 
-msgid   "Restaurar&nbsp;o&nbsp;programa&nbsp;como&nbsp;modo&nbsp;padrão."
+msgid   "As configurações foram restauradas com sucesso!"
 msgstr  ""
 
-msgid   "Músicas-(Clementine) clementine.sh Multimedia clementine.png "
-        "clementine skel $COMMENT_skel"
+msgid   "Você tem certeza que deseja restaurar todas as configurações do KDE/"
+        "Plasma?\\nIsso apagará todas as configurações definidas por $USER!"
 msgstr  ""
 
-msgid   "Gravador-de-Tela-(vokoscreenNG) vokoscreen.sh Multimedia vokoscreen."
-        "png vokoscreenNG  $COMMENT_normal"
-msgstr  ""
-
-msgid   "Vídeos-(Smplayer) smplayer.sh Multimedia smplayer.png smplayer skel "
-        "$COMMENT_skel"
-msgstr  ""
-
-msgid   "Restaurar no modo padrão da distribuição"
-msgstr  ""
-
-msgid   "Essa opção restaura o programa com o padrão do BigLinux."
-msgstr  ""
-
-msgid   "Restaurar no modo padrão do programa"
-msgstr  ""
-
-msgid   "Essa opção restaura o programa com o padrão do desenvolvedor."
-msgstr  ""
-
-msgid   "Restaurar as configurações do programa:"
+msgid   "As configurações foram restauradas com sucesso!\\nÉ necessário fazer "
+        "logoff/login para concluir a restauração!"
 msgstr  ""

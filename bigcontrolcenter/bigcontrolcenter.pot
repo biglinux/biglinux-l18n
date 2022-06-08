@@ -7,7 +7,7 @@
 msgid   ""
 msgstr  "Project-Id-Version: bigcontrolcenter\n"
         "Report-Msgid-Bugs-To: \n"
-        "POT-Creation-Date: 2022-06-08 02:44-0300\n"
+        "POT-Creation-Date: 2022-06-08 04:00-0300\n"
         "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
         "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
         "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -159,35 +159,6 @@ msgstr  ""
 msgid   "Parabéns, você concluiu os primeiros passo para utilizar o BigLinux."
 msgstr  ""
 
-msgid   "Utilitário que facilita a restauração do sistema instalado,\n"
-        "<br>\n"
-        "principalmente a restauração do boot do sistema (Grub).\n"
-        "<br><br>\n"
-        "Também pode ser utilizado para acessar o gerenciador\n"
-        "<br>\n"
-        "de pacotes e o terminal do sistema instalado."
-msgstr  ""
-
-msgid   "Gerenciador de áudio avançado - Alsamixer"
-msgstr  ""
-
-msgid   "Controlador de áudio em caso de ausência som."
-msgstr  ""
-
-msgid   "Montar Hardware Apple"
-msgstr  ""
-
-msgid   "Com esse programa você pode acessar os programas do seu iPhone ou "
-        "iPad Apple de forma similar ao acesso de arquivos em um pendrive."
-msgstr  ""
-
-msgid   "Configurar o tema Kvantum"
-msgstr  ""
-
-msgid   "Para a configuração do Kvantum funcionar, aplique o tema Kvantum em "
-        "'Estilo do aplicativo'."
-msgstr  ""
-
 msgid   "Integração com Google Drive e ownCloud"
 msgstr  ""
 
@@ -214,6 +185,15 @@ msgstr  ""
 msgid   "Restaurar a configuração de programas"
 msgstr  ""
 
+msgid   "Utilitário que facilita a restauração do sistema instalado,\n"
+        "<br>\n"
+        "principalmente a restauração do boot do sistema (Grub).\n"
+        "<br><br>\n"
+        "Também pode ser utilizado para acessar o gerenciador\n"
+        "<br>\n"
+        "de pacotes e o terminal do sistema instalado."
+msgstr  ""
+
 msgid   "Temas do Bootsplash"
 msgstr  ""
 
@@ -230,6 +210,12 @@ msgid   "Configurar este tema de janelas."
 msgstr  ""
 
 msgid   "Qt Designer"
+msgstr  ""
+
+msgid   "Gerenciador de áudio avançado - Alsamixer"
+msgstr  ""
+
+msgid   "Controlador de áudio em caso de ausência som."
 msgstr  ""
 
 msgid   "Particionar ou formatar"
@@ -257,6 +243,13 @@ msgid   "Impressoras HP"
 msgstr  ""
 
 msgid   "Verificar o status, nível de tinta e manutenção."
+msgstr  ""
+
+msgid   "Montar Hardware Apple"
+msgstr  ""
+
+msgid   "Com esse programa você pode acessar os programas do seu iPhone ou "
+        "iPad Apple de forma similar ao acesso de arquivos em um pendrive."
 msgstr  ""
 
 msgid   "Áreas de trabalho virtuais e atividades"
@@ -292,6 +285,13 @@ msgid   "Configuração avançada de rede (VPN, wifi, cabeada, IP fixo, PPPoE, "
 msgstr  ""
 
 msgid   "Instalar, configurar ou remover impressoras."
+msgstr  ""
+
+msgid   "Configurar o tema Kvantum"
+msgstr  ""
+
+msgid   "Para a configuração do Kvantum funcionar, aplique o tema Kvantum em "
+        "'Estilo do aplicativo'."
 msgstr  ""
 
 msgid   "Carteira de senhas do KDE"
@@ -344,12 +344,6 @@ msgid   "Centro de controle do KDE"
 msgstr  ""
 
 msgid   "Configurador avançado de energia"
-msgstr  ""
-
-msgid   "As configurações da tela foram resetadas."
-msgstr  ""
-
-msgid   "Configurações da tela"
 msgstr  ""
 
 msgid   "Categorias"
@@ -557,11 +551,10 @@ msgid   "Basta abrir o site https://snapdrop.net nos Hardware que você quer "
         "uso desse site."
 msgstr  ""
 
-msgid   "ID do Android:"
+msgid   "As configurações da tela foram resetadas."
 msgstr  ""
 
-msgid   "Não foi possível resgatar o ID do Android. \\n\\nAtenção: Waydroid "
-        "precisa estar aberto."
+msgid   "Configurações da tela"
 msgstr  ""
 
 msgid   "Maximizado"
@@ -625,4 +618,11 @@ msgid   "Exibir ID do Android"
 msgstr  ""
 
 msgid   "Ativar Google Apps"
+msgstr  ""
+
+msgid   "ID do Android:"
+msgstr  ""
+
+msgid   "Não foi possível resgatar o ID do Android. \\n\\nAtenção: Waydroid "
+        "precisa estar aberto."
 msgstr  ""
