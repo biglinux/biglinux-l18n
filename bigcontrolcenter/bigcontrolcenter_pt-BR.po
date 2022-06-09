@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: bigcontrolcenter\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-06-08 04:00-0300\n"
+"POT-Creation-Date: 2022-06-08 21:46-0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -56,6 +56,9 @@ msgstr "Visualizar o relatório"
 
 msgid "Hardinfo Relatory"
 msgstr "Hardinfo Relatory"
+
+msgid "Introdução ao BigLinux"
+msgstr "Introdução ao BigLinux"
 
 msgid "Bem vindo ao BigLinux"
 msgstr "Bem vindo ao BigLinux"
@@ -131,9 +134,6 @@ msgstr "Redutor de Ruídos"
 msgid "Configurar a voz do sistema (TTS)"
 msgstr "Configurar a voz do sistema (TTS)"
 
-msgid "OCR para PDF"
-msgstr "OCR para PDF"
-
 msgid "Doação e Redes sociais"
 msgstr "Doação e Redes sociais"
 
@@ -161,8 +161,8 @@ msgstr "Instagram"
 msgid "Facebook"
 msgstr "Facebook"
 
-msgid "Parabéns, você concluiu os primeiros passo para utilizar o BigLinux."
-msgstr "Parabéns, você concluiu os primeiros passo para utilizar o BigLinux."
+msgid "Parabéns, você concluiu os primeiros passos para utilizar o BigLinux."
+msgstr "Parabéns, você concluiu os primeiros passos para utilizar o BigLinux."
 
 msgid "Integração com Google Drive e ownCloud"
 msgstr "Integração com Google Drive e ownCloud"

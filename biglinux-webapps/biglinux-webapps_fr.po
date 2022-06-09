@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: biglinux-webapps\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-06-08 04:00-0300\n"
+"POT-Creation-Date: 2022-06-08 21:46-0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -18,84 +18,86 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit"
 
 msgid "Selecionar imagem"
-msgstr ""
+msgstr "Sélectionner une image"
 
 msgid "Adicionar WebApps"
-msgstr ""
+msgstr "Ajouter des WebApps"
 
 msgid "WebApps Adicionados"
-msgstr ""
+msgstr "WebApps ajoutées"
 
 msgid "WebApps BigLinux"
-msgstr ""
+msgstr "WebApps BigLinux"
 
 msgid "Url:"
-msgstr ""
+msgstr "Url:"
 
 msgid "Detectar Nome e Ícone"
-msgstr ""
+msgstr "Détecter le nom et l'icône"
 
 msgid "Nome:"
-msgstr ""
+msgstr "Nom:"
 
 msgid "Ícone:"
-msgstr ""
+msgstr "Icône:"
 
 msgid "Alterar"
-msgstr ""
+msgstr "Changer"
 
 msgid "Navegador:"
-msgstr ""
+msgstr "Navigateur:"
 
 msgid "Categoria:"
-msgstr ""
+msgstr "Catégorie:"
 
 msgid "DESENVOLVIMENTO"
-msgstr ""
+msgstr "DÉVELOPPEMENT"
 
 msgid "ESCRITÓRIO"
-msgstr ""
+msgstr "BUREAU"
 
 msgid "GRÁFICOS"
-msgstr ""
+msgstr "GRAPHIQUE"
 
 msgid "JOGOS"
-msgstr ""
+msgstr "JEUX"
 
 msgid "MULTIMÍDIA"
-msgstr ""
+msgstr "MULTIMÉDIA"
 
 msgid "Criar atalho na Área de Trabalho"
-msgstr ""
+msgstr "Créer un raccourci sur le bureau"
 
 msgid "Perfil adicional"
-msgstr ""
+msgstr "Profil supplémentaire"
 
 msgid "YouTube Modo TV"
-msgstr ""
+msgstr "Mode TV YouTube"
 
 msgid "Adicionar"
-msgstr ""
+msgstr "Ajouter"
 
 msgid "Para adicionar um WebApp, você precisa informar a Url e o Nome."
-msgstr ""
+msgstr "Pour ajouter une WebApp, vous devez fournir l'URL et le nom."
 
 msgid "Para detectar o Nome e o Ícone você precisa informar a Url."
-msgstr ""
+msgstr "Um den Namen und das Symbol zu erkennen, müssen Sie die URL angeben."
 
 msgid ""
 "A Url é inválida ou a conexão falhou.<br>Tente inserir o ícone pelo botão "
 "Alterar."
 msgstr ""
+" L'URL n'est pas valide ou la connexion a échoué.<br>Essayez d'entrer "
+"l'icône via le bouton Modifier."
 
 msgid "O WebApp foi adicionado com sucesso!"
-msgstr ""
+msgstr " La WebApp a été ajoutée avec succès !"
 
 msgid "Ícones encontrados"
-msgstr ""
+msgstr "Icônes trouvées "
 
 msgid "Selecione o ícone preferido:"
-msgstr ""
+msgstr " Sélectionnez votre icône préférée :"
 
 msgid "Desenvolvimento"
 msgstr "Développement"
@@ -113,31 +115,31 @@ msgid "Multimídia"
 msgstr "Multimédia"
 
 msgid "Tem certeza que deseja remover este WebApp?"
-msgstr ""
+msgstr " Voulez-vous vraiment supprimer cette WebApp ?"
 
 msgid "Nenhum WebApp adicionado!"
-msgstr ""
+msgstr " Aucune application Web ajoutée !"
 
 msgid "Navegador padrão<br>dos webapps:"
-msgstr ""
+msgstr " Navigateur par défaut<br>des applications Web :"
 
 msgid "Alterar navegador"
-msgstr ""
+msgstr "Changer de navigateur"
 
 msgid "Selecione o navegador preferido:"
-msgstr ""
+msgstr "Sélectionnez votre navigateur préféré :"
 
 msgid "WebApps Nativos"
-msgstr ""
+msgstr "Applications Web natives"
 
 msgid "Bom dia"
-msgstr ""
+msgstr "Bonjour"
 
 msgid "Boa tarde"
-msgstr ""
+msgstr "Bon après-midi"
 
 msgid "Boa noite"
-msgstr ""
+msgstr "Bonsoir"
 
 msgid "Aguarde, estamos preparando para começar..."
-msgstr ""
+msgstr "Attendez, nous nous préparons à commencer..."

@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: bigocrpdf\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-06-08 04:00-0300\n"
+"POT-Creation-Date: 2022-06-08 21:46-0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -34,47 +34,52 @@ msgid "NORMAL"
 msgstr "NORMAL"
 
 msgid "ECONÔMICO"
-msgstr ""
+msgstr "ÉCONOMIQUE"
 
 msgid "MAIS ECONÔMICO"
-msgstr ""
+msgstr "PLUS ÉCONOMIQUE"
 
 msgid "ALINHAR"
-msgstr ""
+msgstr "S'ALIGNER"
 
 msgid "AUTO ROTAÇÃO"
-msgstr ""
+msgstr "ROTATION AUTOMATIQUE"
 
 msgid "ALINHAR E GIRAR AUTOMÁTICA"
-msgstr ""
+msgstr "ALIGNEMENT ET ROTATION AUTOMATIQUES"
 
 msgid "NÃO MUDE"
-msgstr ""
+msgstr "NE CHANGEZ PAS"
 
 msgid "ESPANHOL"
-msgstr ""
+msgstr "ESPAGNOL"
 
 msgid "INGLÊS"
-msgstr ""
+msgstr "ANGLAIS"
 
 msgid "PORTUGUÊS"
-msgstr ""
+msgstr "PORTUGAIS"
 
 msgid ""
 "Você pode optar por reduzir a qualidade da imagem.<br>Dessa forma você terá "
 "arquivos menores, facilitando,<br>por exemplo, enviá-los por e-mail."
 msgstr ""
+"Vous pouvez choisir de réduire la qualité de l'image.<br>De cette façon, "
+"vous aurez des fichiers plus petits, ce qui facilitera,<br>par exemple, leur "
+"envoi par e-mail."
 
 msgid ""
 "Para adicionar novos idiomas, instale os complementos do tesseract no "
 "gerenciador de pacotes do sistema."
 msgstr ""
+"Pour ajouter de nouvelles langues, installez les modules complémentaires "
+"tesseract dans le gestionnaire de packages de votre système."
 
 msgid "Aplicar"
-msgstr ""
+msgstr "Postuler"
 
 msgid "Torne seu PDF pesquisável"
-msgstr ""
+msgstr "Rendez votre PDF consultable"
 
 msgid ""
 "Adicionar OCR no PDF digitalizado permitindo seleção de textos e busca:"
@@ -82,17 +87,17 @@ msgstr ""
 "Ajoutez l'OCR au PDF numérisé pour permettre la sélection et la recherche de "
 "texte :"
 
-msgid "ORC para PDF"
-msgstr ""
+msgid "OCR para PDF"
+msgstr "OCR pour PDF"
 
 msgid "Arquivo"
-msgstr ""
+msgstr "Dossier"
 
 msgid "Pasta:"
-msgstr ""
+msgstr "Dossier:"
 
 msgid "Abrir"
-msgstr ""
+msgstr "Ouvert"
 
 msgid "Arquivo salvo: "
 msgstr "Fichier sauvegardé "

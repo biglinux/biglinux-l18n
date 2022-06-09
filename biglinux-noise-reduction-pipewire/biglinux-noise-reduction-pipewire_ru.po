@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: biglinux-noise-reduction-pipewire\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-06-08 04:00-0300\n"
+"POT-Creation-Date: 2022-06-08 21:46-0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -18,40 +18,40 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit"
 
 msgid "Reduzir ruídos do microfone"
-msgstr ""
+msgstr "Уменьшить шум микрофона"
 
 msgid "Microfone sem ruídos"
-msgstr ""
+msgstr "Бесшумный микрофон"
 
 msgid "Desativando"
-msgstr ""
+msgstr "деактивация"
 
 msgid "Filtro do Microfone"
-msgstr ""
+msgstr "Микрофонный фильтр"
 
 msgid "Ativando"
-msgstr ""
+msgstr "Aктивация"
 
 msgid "Filtro de ruído"
-msgstr ""
+msgstr "фильтр шума"
 
 msgid "Iniciar automaticamente"
-msgstr ""
+msgstr "Aвтоматический старт"
 
 msgid "Configuração aplicada"
-msgstr ""
+msgstr "Применяемая конфигурация"
 
 msgid "Microfone"
-msgstr ""
+msgstr "Mикрофон"
 
 msgid "Configuração de áudio."
-msgstr ""
+msgstr "Настройка звука."
 
 msgid "Confirma a remoção das personalizações na configuração de áudio?"
-msgstr ""
+msgstr "Подтвердить удаление настроек в аудио конфигурации?"
 
 msgid "Configuração de áudio"
-msgstr ""
+msgstr "Hастройка звука"
 
 msgid ""
 "Configuração de áudio restaurada.\n"
@@ -59,6 +59,10 @@ msgid ""
 "Os programas em execução no momento podem precisar ser fechados\n"
 "e abertos novamente para o áudio funcionar corretamente."
 msgstr ""
+"Конфигурация звука восстановлена. \n"
+"\n"
+"Для правильной работы звука может потребоваться закрыть и снова открыть "
+"запущенные в данный момент программы."
 
 msgid "Cancelado, nenhuma configuração foi removida!"
-msgstr ""
+msgstr "Отменено, никакие настройки не удалены!"

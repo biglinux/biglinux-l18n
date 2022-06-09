@@ -1,0 +1,68 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the tts-biglinux package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: tts-biglinux\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-06-08 21:46-0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: nn_NO\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit"
+
+msgid "Configurações de texto para voz"
+msgstr ""
+
+msgid "Vozes - Abrir BigStore"
+msgstr ""
+
+msgid "Voice Configuration"
+msgstr ""
+
+msgid "Configurar voz"
+msgstr ""
+
+msgid "Para falar um texto selecionado use o atalho "
+msgstr ""
+
+msgid "[Alt] + [V]"
+msgstr ""
+
+msgid ""
+"ou o ícone na sessão Utilitários no menu do sistema. Para interromper a "
+"leitura use novamene o atalho ou ícone."
+msgstr ""
+
+msgid "Selecione as configurações de sua preferência"
+msgstr ""
+
+msgid "Números maiores deixam a voz mais rápida, o padrão é: -25"
+msgstr ""
+
+msgid "Velocidade"
+msgstr ""
+
+msgid "Números maiores deixam a voz mais aguda, o padrão é: -25"
+msgstr ""
+
+msgid "Tom"
+msgstr ""
+
+msgid "O padrão é: 0."
+msgstr ""
+
+msgid "Volume"
+msgstr ""
+
+msgid "As vozes são otimizadas para idiomas expecíficos."
+msgstr ""
+
+msgid "Voz"
+msgstr ""

@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: biglinux-noise-reduction-pipewire\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-06-08 04:00-0300\n"
+"POT-Creation-Date: 2022-06-08 21:46-0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -18,40 +18,40 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit"
 
 msgid "Reduzir ruídos do microfone"
-msgstr ""
+msgstr "減少麥克風噪音"
 
 msgid "Microfone sem ruídos"
-msgstr ""
+msgstr "無噪音麥克風"
 
 msgid "Desativando"
-msgstr ""
+msgstr "停用"
 
 msgid "Filtro do Microfone"
-msgstr ""
+msgstr "麥克風過濾器"
 
 msgid "Ativando"
-msgstr ""
+msgstr "激活"
 
 msgid "Filtro de ruído"
-msgstr ""
+msgstr "噪聲濾波器"
 
 msgid "Iniciar automaticamente"
-msgstr ""
+msgstr "自動開啟"
 
 msgid "Configuração aplicada"
-msgstr ""
+msgstr "應用配置"
 
 msgid "Microfone"
-msgstr ""
+msgstr "麥克風"
 
 msgid "Configuração de áudio."
-msgstr ""
+msgstr "音頻設置。"
 
 msgid "Confirma a remoção das personalizações na configuração de áudio?"
-msgstr ""
+msgstr "確認刪除音頻配置中的自定義？"
 
 msgid "Configuração de áudio"
-msgstr ""
+msgstr "音頻設置"
 
 msgid ""
 "Configuração de áudio restaurada.\n"
@@ -59,6 +59,10 @@ msgid ""
 "Os programas em execução no momento podem precisar ser fechados\n"
 "e abertos novamente para o áudio funcionar corretamente."
 msgstr ""
+"音頻配置已恢復。\n"
+"\n"
+"\n"
+"當前正在運行的程序可能需要關閉並重新打開，音頻才能正常工作。"
 
 msgid "Cancelado, nenhuma configuração foi removida!"
-msgstr ""
+msgstr "已取消，未刪除任何設置！"

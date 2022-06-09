@@ -14,7 +14,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-06-08 04:00-0300\n"
+"POT-Creation-Date: 2022-06-08 21:46-0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -404,46 +404,46 @@ msgid "Empacotador:"
 msgstr "Packer :"
 
 msgid "Reinstalar"
-msgstr ""
+msgstr "Réinstaller"
 
 msgid "Versão instalada:"
-msgstr ""
+msgstr "Version installée :"
 
 msgid "Uso de armazenamento:"
-msgstr ""
+msgstr "Utilisation du stockage :"
 
 msgid "Tamanho do download:"
-msgstr ""
+msgstr "Taille de téléchargement :"
 
 msgid "Site:"
-msgstr ""
+msgstr "Site Internet:"
 
 msgid "Motivo da instalação:"
-msgstr ""
+msgstr "Raison de l'installation :"
 
 msgid "Grupos:"
-msgstr ""
+msgstr "Groupes:"
 
 msgid "Assinado:"
-msgstr ""
+msgstr "Signé:"
 
 msgid "Complementos:"
-msgstr ""
+msgstr "Suppléments :"
 
 msgid "Dependências:"
-msgstr ""
+msgstr "Dépendances :"
 
 msgid "Remove:"
-msgstr ""
+msgstr "Retirer:"
 
 msgid "Substitui:"
-msgstr ""
+msgstr "Remplace :"
 
 msgid "Arquivos do pacote:"
-msgstr ""
+msgstr "Fichiers de package :"
 
 msgid "Clique aqui para ver os arquivos"
-msgstr ""
+msgstr "Cliquez ici pour voir les fichiers"
 
 msgid "Informações sobre programas AUR"
-msgstr ""
+msgstr "Informations sur les programmes AUR"

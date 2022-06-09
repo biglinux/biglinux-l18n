@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: bigocrpdf\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-06-08 04:00-0300\n"
+"POT-Creation-Date: 2022-06-08 21:46-0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -34,47 +34,52 @@ msgid "NORMAL"
 msgstr "НОРМАЛЬНЫЙ"
 
 msgid "ECONÔMICO"
-msgstr ""
+msgstr "ЭКОНОМИЧЕСКИЙ"
 
 msgid "MAIS ECONÔMICO"
-msgstr ""
+msgstr "БОЛЕЕ ЭКОНОМИЧЕСКИЙ"
 
 msgid "ALINHAR"
-msgstr ""
+msgstr "РАССТАНОВКА"
 
 msgid "AUTO ROTAÇÃO"
-msgstr ""
+msgstr "АВТОМАТИЧЕСКИЙ ПОВОРОТ"
 
 msgid "ALINHAR E GIRAR AUTOMÁTICA"
-msgstr ""
+msgstr "АВТОМАТИЧЕСКОЕ ВЫРАВНИВАНИЕ И ПОВОРОТ"
 
 msgid "NÃO MUDE"
-msgstr ""
+msgstr "НЕ МЕНЯТЬ"
 
 msgid "ESPANHOL"
-msgstr ""
+msgstr "ИСПАНСКИЙ"
 
 msgid "INGLÊS"
-msgstr ""
+msgstr "АНГЛИЙСКИЙ"
 
 msgid "PORTUGUÊS"
-msgstr ""
+msgstr "ПОРТУГАЛЬСКИЙ"
 
 msgid ""
 "Você pode optar por reduzir a qualidade da imagem.<br>Dessa forma você terá "
 "arquivos menores, facilitando,<br>por exemplo, enviá-los por e-mail."
 msgstr ""
+"Вы можете уменьшить качество изображения.<br>Таким образом, у вас будут "
+"файлы меньшего размера, что упростит,<br>например, отправку их по "
+"электронной почте."
 
 msgid ""
 "Para adicionar novos idiomas, instale os complementos do tesseract no "
 "gerenciador de pacotes do sistema."
 msgstr ""
+"Чтобы добавить новые языки, установите надстройки tesseract в диспетчере "
+"пакетов вашей системы."
 
 msgid "Aplicar"
-msgstr ""
+msgstr "Применять"
 
 msgid "Torne seu PDF pesquisável"
-msgstr ""
+msgstr "Сделайте ваш PDF доступным для поиска"
 
 msgid ""
 "Adicionar OCR no PDF digitalizado permitindo seleção de textos e busca:"
@@ -82,17 +87,17 @@ msgstr ""
 "Добавьте OCR в отсканированный PDF-файл, позволяющий выбирать и искать текст:"
 ""
 
-msgid "ORC para PDF"
-msgstr ""
+msgid "OCR para PDF"
+msgstr "OCR для PDF"
 
 msgid "Arquivo"
-msgstr ""
+msgstr "Файл"
 
 msgid "Pasta:"
-msgstr ""
+msgstr "Папка:"
 
 msgid "Abrir"
-msgstr ""
+msgstr "Открытым"
 
 msgid "Arquivo salvo: "
 msgstr "Файл сохранен "

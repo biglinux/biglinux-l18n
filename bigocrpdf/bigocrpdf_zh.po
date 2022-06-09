@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: bigocrpdf\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-06-08 04:00-0300\n"
+"POT-Creation-Date: 2022-06-08 21:46-0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -32,63 +32,63 @@ msgid "NORMAL"
 msgstr "正常"
 
 msgid "ECONÔMICO"
-msgstr ""
+msgstr "經濟的"
 
 msgid "MAIS ECONÔMICO"
-msgstr ""
+msgstr "更經濟"
 
 msgid "ALINHAR"
-msgstr ""
+msgstr "排隊"
 
 msgid "AUTO ROTAÇÃO"
-msgstr ""
+msgstr "自動旋轉"
 
 msgid "ALINHAR E GIRAR AUTOMÁTICA"
-msgstr ""
+msgstr "自動對齊和旋轉"
 
 msgid "NÃO MUDE"
-msgstr ""
+msgstr "不要換"
 
 msgid "ESPANHOL"
-msgstr ""
+msgstr "西班牙語"
 
 msgid "INGLÊS"
-msgstr ""
+msgstr "英語"
 
 msgid "PORTUGUÊS"
-msgstr ""
+msgstr "葡萄牙語"
 
 msgid ""
 "Você pode optar por reduzir a qualidade da imagem.<br>Dessa forma você terá "
 "arquivos menores, facilitando,<br>por exemplo, enviá-los por e-mail."
-msgstr ""
+msgstr "您可以選擇降低圖像質量。<br>這樣您的文件會更小，從而更容易<br>例如通過電子郵件發送。"
 
 msgid ""
 "Para adicionar novos idiomas, instale os complementos do tesseract no "
 "gerenciador de pacotes do sistema."
-msgstr ""
+msgstr "要添加新語言，請在系統的包管理器中安裝 tesseract 附加組件。"
 
 msgid "Aplicar"
-msgstr ""
+msgstr "申請"
 
 msgid "Torne seu PDF pesquisável"
-msgstr ""
+msgstr "使您的 PDF 可搜索"
 
 msgid ""
 "Adicionar OCR no PDF digitalizado permitindo seleção de textos e busca:"
 msgstr "在扫描的PDF中添加OCR，允许文本选择和搜索。"
 
-msgid "ORC para PDF"
-msgstr ""
+msgid "OCR para PDF"
+msgstr "用于PDF的OCR"
 
 msgid "Arquivo"
-msgstr ""
+msgstr "文件"
 
 msgid "Pasta:"
-msgstr ""
+msgstr "文件夾："
 
 msgid "Abrir"
-msgstr ""
+msgstr "打開"
 
 msgid "Arquivo salvo: "
 msgstr "文件保存。 "

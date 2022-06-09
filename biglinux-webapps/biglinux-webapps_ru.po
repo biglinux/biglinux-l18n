@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: biglinux-webapps\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-06-08 04:00-0300\n"
+"POT-Creation-Date: 2022-06-08 21:46-0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -18,84 +18,87 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit"
 
 msgid "Selecionar imagem"
-msgstr ""
+msgstr "выбрать изображение"
 
 msgid "Adicionar WebApps"
-msgstr ""
+msgstr "Добавить веб-приложения"
 
 msgid "WebApps Adicionados"
-msgstr ""
+msgstr "Добавлены веб-приложения"
 
 msgid "WebApps BigLinux"
-msgstr ""
+msgstr "Веб-приложения BigLinux"
 
 msgid "Url:"
-msgstr ""
+msgstr "URL-адрес:"
 
 msgid "Detectar Nome e Ícone"
-msgstr ""
+msgstr "Обнаружение имени и значка"
 
 msgid "Nome:"
-msgstr ""
+msgstr "Имя:"
 
 msgid "Ícone:"
-msgstr ""
+msgstr "Значок:"
 
 msgid "Alterar"
-msgstr ""
+msgstr "Изменять"
 
 msgid "Navegador:"
-msgstr ""
+msgstr "Браузер:"
 
 msgid "Categoria:"
-msgstr ""
+msgstr "Категория:"
 
 msgid "DESENVOLVIMENTO"
-msgstr ""
+msgstr "РАЗРАБОТКА"
 
 msgid "ESCRITÓRIO"
-msgstr ""
+msgstr "ОФИС"
 
 msgid "GRÁFICOS"
-msgstr ""
+msgstr "Графика"
 
 msgid "JOGOS"
-msgstr ""
+msgstr "ИГРЫ"
 
 msgid "MULTIMÍDIA"
-msgstr ""
+msgstr "МУЛЬТИМЕДИА"
 
 msgid "Criar atalho na Área de Trabalho"
-msgstr ""
+msgstr "Создать ярлык на рабочем столе"
 
 msgid "Perfil adicional"
-msgstr ""
+msgstr "дополнительный профиль"
 
 msgid "YouTube Modo TV"
-msgstr ""
+msgstr "Режим YouTube ТВ"
 
 msgid "Adicionar"
-msgstr ""
+msgstr "Добавлять"
 
 msgid "Para adicionar um WebApp, você precisa informar a Url e o Nome."
 msgstr ""
+"Чтобы добавить веб-приложение, вам необходимо указать URL-адрес и имя."
 
 msgid "Para detectar o Nome e o Ícone você precisa informar a Url."
-msgstr ""
+msgstr "Чтобы определить имя и значок, вам необходимо сообщить URL-адрес."
 
 msgid ""
 "A Url é inválida ou a conexão falhou.<br>Tente inserir o ícone pelo botão "
 "Alterar."
 msgstr ""
+"URL-адрес недействителен или соединение не установлено.<br>Попробуйте ввести "
+"значок с помощью кнопки \"Изменить\"."
 
 msgid "O WebApp foi adicionado com sucesso!"
-msgstr ""
+msgstr "Веб-приложение успешно добавлено!"
 
 msgid "Ícones encontrados"
-msgstr ""
+msgstr "Найденные иконки"
 
 msgid "Selecione o ícone preferido:"
-msgstr ""
+msgstr "Выберите нужный значок:"
 
 msgid "Desenvolvimento"
 msgstr "Разработка"
@@ -113,31 +116,31 @@ msgid "Multimídia"
 msgstr "Мультимедиа"
 
 msgid "Tem certeza que deseja remover este WebApp?"
-msgstr ""
+msgstr "Вы уверены, что хотите удалить это веб-приложение?"
 
 msgid "Nenhum WebApp adicionado!"
-msgstr ""
+msgstr "Веб-приложение не добавлено!"
 
 msgid "Navegador padrão<br>dos webapps:"
-msgstr ""
+msgstr "Браузер<br>по умолчанию для веб-приложений:"
 
 msgid "Alterar navegador"
-msgstr ""
+msgstr "изменить браузер"
 
 msgid "Selecione o navegador preferido:"
-msgstr ""
+msgstr "Выберите предпочтительный браузер:"
 
 msgid "WebApps Nativos"
-msgstr ""
+msgstr "Нативные веб-приложения"
 
 msgid "Bom dia"
-msgstr ""
+msgstr "Доброе утро"
 
 msgid "Boa tarde"
-msgstr ""
+msgstr "Добрый день"
 
 msgid "Boa noite"
-msgstr ""
+msgstr "Доброй ночи"
 
 msgid "Aguarde, estamos preparando para começar..."
-msgstr ""
+msgstr "Подождите, мы готовимся к старту..."

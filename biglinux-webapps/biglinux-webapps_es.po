@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: biglinux-webapps\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-06-08 04:00-0300\n"
+"POT-Creation-Date: 2022-06-08 21:46-0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -18,22 +18,22 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit"
 
 msgid "Selecionar imagem"
-msgstr ""
+msgstr "Seleccionar imagen"
 
 msgid "Adicionar WebApps"
-msgstr ""
+msgstr "Agregar WebApps"
 
 msgid "WebApps Adicionados"
-msgstr ""
+msgstr "WebApps añadidas"
 
 msgid "WebApps BigLinux"
-msgstr ""
+msgstr "Grandes aplicaciones web de Linux"
 
 msgid "Url:"
-msgstr ""
+msgstr "Url:"
 
 msgid "Detectar Nome e Ícone"
-msgstr ""
+msgstr "Detectar nombre e icono"
 
 msgid "Nome:"
 msgstr "Nombre:"
@@ -48,54 +48,57 @@ msgid "Navegador:"
 msgstr "Navegador:"
 
 msgid "Categoria:"
-msgstr ""
+msgstr "Categoría:"
 
 msgid "DESENVOLVIMENTO"
-msgstr ""
+msgstr "DESARROLLO"
 
 msgid "ESCRITÓRIO"
-msgstr ""
+msgstr "OFICINA"
 
 msgid "GRÁFICOS"
-msgstr ""
+msgstr "GRÁFICOS"
 
 msgid "JOGOS"
-msgstr ""
+msgstr "JUEGOS"
 
 msgid "MULTIMÍDIA"
-msgstr ""
+msgstr "MULTIMEDIA"
 
 msgid "Criar atalho na Área de Trabalho"
-msgstr ""
+msgstr "Crear acceso directo del escritorio"
 
 msgid "Perfil adicional"
-msgstr ""
+msgstr "Perfil adicional"
 
 msgid "YouTube Modo TV"
-msgstr ""
+msgstr "Modo de televisión de YouTube"
 
 msgid "Adicionar"
-msgstr ""
+msgstr "Agregar"
 
 msgid "Para adicionar um WebApp, você precisa informar a Url e o Nome."
 msgstr ""
+"Para agregar una aplicación web, debe proporcionar la URL y el nombre."
 
 msgid "Para detectar o Nome e o Ícone você precisa informar a Url."
-msgstr ""
+msgstr "Para detectar el Nombre y el Icono, debe informar la Url."
 
 msgid ""
 "A Url é inválida ou a conexão falhou.<br>Tente inserir o ícone pelo botão "
 "Alterar."
 msgstr ""
+"La URL no es válida o la conexión falló.<br>Intente ingresar el ícono a "
+"través del botón Cambiar."
 
 msgid "O WebApp foi adicionado com sucesso!"
-msgstr ""
+msgstr "¡La aplicación web se ha agregado con éxito!"
 
 msgid "Ícones encontrados"
-msgstr ""
+msgstr "Iconos encontrados"
 
 msgid "Selecione o ícone preferido:"
-msgstr ""
+msgstr "Seleccione su icono preferido:"
 
 msgid "Desenvolvimento"
 msgstr "Desarrollo"
@@ -113,31 +116,31 @@ msgid "Multimídia"
 msgstr "Multimedia"
 
 msgid "Tem certeza que deseja remover este WebApp?"
-msgstr ""
+msgstr "¿Está seguro de que desea eliminar esta aplicación web?"
 
 msgid "Nenhum WebApp adicionado!"
-msgstr ""
+msgstr "¡No se agregó ninguna aplicación web!"
 
 msgid "Navegador padrão<br>dos webapps:"
-msgstr ""
+msgstr "Navegador predeterminado<br>de aplicaciones web:"
 
 msgid "Alterar navegador"
-msgstr ""
+msgstr "Cambiar de navegador"
 
 msgid "Selecione o navegador preferido:"
-msgstr ""
+msgstr "Seleccione su navegador preferido:"
 
 msgid "WebApps Nativos"
-msgstr ""
+msgstr "Aplicaciones web nativas"
 
 msgid "Bom dia"
-msgstr ""
+msgstr "Buen día"
 
 msgid "Boa tarde"
-msgstr ""
+msgstr "Buenas tardes"
 
 msgid "Boa noite"
-msgstr ""
+msgstr "Buenas noches"
 
 msgid "Aguarde, estamos preparando para começar..."
-msgstr ""
+msgstr "Espera, nos estamos preparando para empezar..."

@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: bigcontrolcenter\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-06-08 04:00-0300\n"
+"POT-Creation-Date: 2022-06-08 21:46-0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -56,6 +56,9 @@ msgstr "View the report"
 
 msgid "Hardinfo Relatory"
 msgstr "Hardinfo Relatory"
+
+msgid "Introdução ao BigLinux"
+msgstr "Introduction to BigLinux"
 
 msgid "Bem vindo ao BigLinux"
 msgstr "Welcome to BigLinux"
@@ -131,9 +134,6 @@ msgstr "Noise Reducer"
 msgid "Configurar a voz do sistema (TTS)"
 msgstr "Configure System Voice (TTS)"
 
-msgid "OCR para PDF"
-msgstr "OCR for PDF"
-
 msgid "Doação e Redes sociais"
 msgstr "Donation and Social Networks"
 
@@ -163,9 +163,8 @@ msgstr "Instagram"
 msgid "Facebook"
 msgstr "Facebook"
 
-msgid "Parabéns, você concluiu os primeiros passo para utilizar o BigLinux."
-msgstr ""
-"Congratulations, you have completed the first steps in using BigLinux."
+msgid "Parabéns, você concluiu os primeiros passos para utilizar o BigLinux."
+msgstr "Congratulations, you have completed the first steps to use BigLinux."
 
 msgid "Integração com Google Drive e ownCloud"
 msgstr "Integration with Google Drive and ownCloud"
@@ -668,7 +667,7 @@ msgstr ""
 "get past the loading screen"
 
 msgid "Parar o Waydroid"
-msgstr "Stop the Waydroid"
+msgstr "Stop Waydroid"
 
 msgid "Iniciar o Waydroid"
 msgstr "Start Waydroid"

@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: biglinux-webapps\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-06-08 04:00-0300\n"
+"POT-Creation-Date: 2022-06-08 21:46-0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -18,37 +18,37 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit"
 
 msgid "Selecionar imagem"
-msgstr ""
+msgstr "Bild auswählen"
 
 msgid "Adicionar WebApps"
-msgstr ""
+msgstr "Fügen Sie WebApps hinzu"
 
 msgid "WebApps Adicionados"
-msgstr ""
+msgstr "WebApps hinzugefügt"
 
 msgid "WebApps BigLinux"
-msgstr ""
+msgstr "BigLinux WebApps"
 
 msgid "Url:"
-msgstr ""
+msgstr "Url:"
 
 msgid "Detectar Nome e Ícone"
-msgstr ""
+msgstr "Name und Symbol erkennen"
 
 msgid "Nome:"
-msgstr ""
+msgstr "Name:"
 
 msgid "Ícone:"
-msgstr ""
+msgstr "Symbol:"
 
 msgid "Alterar"
-msgstr ""
+msgstr "Veränderung"
 
 msgid "Navegador:"
-msgstr ""
+msgstr "Browser:"
 
 msgid "Categoria:"
-msgstr ""
+msgstr "Kategorie:"
 
 msgid "DESENVOLVIMENTO"
 msgstr ""
@@ -79,9 +79,10 @@ msgstr ""
 
 msgid "Para adicionar um WebApp, você precisa informar a Url e o Nome."
 msgstr ""
+"Um eine WebApp hinzuzufügen, müssen Sie die URL und den Namen angeben."
 
 msgid "Para detectar o Nome e o Ícone você precisa informar a Url."
-msgstr ""
+msgstr "Um den Namen und das Symbol zu erkennen, müssen Sie die URL angeben."
 
 msgid ""
 "A Url é inválida ou a conexão falhou.<br>Tente inserir o ícone pelo botão "
