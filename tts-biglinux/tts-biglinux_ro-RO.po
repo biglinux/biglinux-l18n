@@ -18,51 +18,53 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit"
 
 msgid "Configurações de texto para voz"
-msgstr ""
+msgstr "Setări Text to speech"
 
 msgid "Vozes - Abrir BigStore"
-msgstr ""
+msgstr "Voci - Deschideți BigStore"
 
 msgid "Voice Configuration"
-msgstr ""
+msgstr "Configurație voce"
 
 msgid "Configurar voz"
-msgstr ""
+msgstr "Configurați vocea"
 
 msgid "Para falar um texto selecionado use o atalho "
-msgstr ""
+msgstr "Pentru a vorbi un text selectat, utilizați comanda rapidă "
 
 msgid "[Alt] + [V]"
-msgstr ""
+msgstr "[Alt] + [V]"
 
 msgid ""
 "ou o ícone na sessão Utilitários no menu do sistema. Para interromper a "
 "leitura use novamene o atalho ou ícone."
 msgstr ""
+"sau pictograma din secțiunea Utilități din meniul de sistem. Pentru a "
+"întrerupe lectura, utilizați din nou comanda rapidă sau pictograma."
 
 msgid "Selecione as configurações de sua preferência"
-msgstr ""
+msgstr "Selectați setările preferate"
 
 msgid "Números maiores deixam a voz mais rápida, o padrão é: -25"
-msgstr ""
+msgstr "Numerele mai mari fac vocea mai rapidă, valoarea implicită este: -25"
 
 msgid "Velocidade"
-msgstr ""
+msgstr "Viteză"
 
 msgid "Números maiores deixam a voz mais aguda, o padrão é: -25"
-msgstr ""
+msgstr "Numerele mai mari fac vocea mai înaltă, standardul este: -25"
 
 msgid "Tom"
-msgstr ""
+msgstr "Tom"
 
 msgid "O padrão é: 0."
-msgstr ""
+msgstr "Valoarea implicită este: 0."
 
 msgid "Volume"
-msgstr ""
+msgstr "Volum"
 
 msgid "As vozes são otimizadas para idiomas expecíficos."
-msgstr ""
+msgstr "Vocile sunt optimizate pentru anumite limbi."
 
 msgid "Voz"
-msgstr ""
+msgstr "Voce"

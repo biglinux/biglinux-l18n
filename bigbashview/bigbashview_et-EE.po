@@ -18,19 +18,19 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit"
 
 msgid "Information"
-msgstr ""
+msgstr "Teave"
 
 msgid "License: "
-msgstr ""
+msgstr "Litsents "
 
 msgid "Created by:"
-msgstr ""
+msgstr "Loonud:"
 
 msgid "Date:"
-msgstr ""
+msgstr "Kuupäev:"
 
 msgid "Code URL:"
-msgstr ""
+msgstr "Kood URL:"
 
 msgid "Project URL:"
-msgstr ""
+msgstr "Projekti URL:"

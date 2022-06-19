@@ -18,40 +18,40 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit"
 
 msgid "Reduzir ruídos do microfone"
-msgstr ""
+msgstr "Mikrofoni müra vähendamine"
 
 msgid "Microfone sem ruídos"
-msgstr ""
+msgstr "Müravaba mikrofon"
 
 msgid "Desativando"
-msgstr ""
+msgstr "Deaktiveerimine"
 
 msgid "Filtro do Microfone"
-msgstr ""
+msgstr "Mikrofoni filter"
 
 msgid "Ativando"
-msgstr ""
+msgstr "Aktiveerimine"
 
 msgid "Filtro de ruído"
-msgstr ""
+msgstr "Mürafilter"
 
 msgid "Iniciar automaticamente"
-msgstr ""
+msgstr "Käivitub automaatselt"
 
 msgid "Configuração aplicada"
-msgstr ""
+msgstr "Rakendatud konfiguratsioon"
 
 msgid "Microfone"
-msgstr ""
+msgstr "Mikrofon"
 
 msgid "Configuração de áudio."
-msgstr ""
+msgstr "Helikonfiguratsioon."
 
 msgid "Confirma a remoção das personalizações na configuração de áudio?"
-msgstr ""
+msgstr "Kas te saate kinnitada kohanduste eemaldamist helikonfiguratsioonis?"
 
 msgid "Configuração de áudio"
-msgstr ""
+msgstr "Audio konfiguratsioon"
 
 msgid ""
 "Configuração de áudio restaurada.\n"
@@ -59,6 +59,10 @@ msgid ""
 "Os programas em execução no momento podem precisar ser fechados\n"
 "e abertos novamente para o áudio funcionar corretamente."
 msgstr ""
+"Helikonfiguratsioon taastati.\n"
+"\n"
+"Praegu käimasolevad programmid võib olla vaja sulgeda\n"
+"ja uuesti avada, et heli töötaks õigesti."
 
 msgid "Cancelado, nenhuma configuração foi removida!"
-msgstr ""
+msgstr "Tühistatud, ühtegi konfiguratsiooni ei ole eemaldatud!"

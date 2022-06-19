@@ -1,0 +1,90 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the calamares-biglinux package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: calamares-biglinux\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-06-08 21:46-0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: zh_HK\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit"
+
+msgid ""
+"O boot atual está utilizando o modo EFI, porém não encontrei nenhuma "
+"partição EFI neste computador, se este computador já possui outro sistema "
+"instalado e você pretende que ele permaneça instalado, provavelmente será "
+"necessário alterar a configuração na BIOS para fazer boot em modo Legacy, "
+"também chamado de modo BIOS.\n"
+"\n"
+"Deseja prosseguir com com a instalação em modo EFI?"
+msgstr ""
+"目前的開機是使用 EFI 模式，但是我在這台電腦上找不到任何 EFI 分割區，如果這台電腦已經安裝了另一個系統，並且您打算保持安裝，您可能需要在 "
+"BIOS 中更改配置以啟動到傳統模式，也稱為 BIOS 模式。\n"
+"\n"
+"您要在 EFI 模式下繼續安裝嗎？"
+
+msgid "Instalar o sistema"
+msgstr "安裝系統"
+
+msgid ""
+"O boot atual está utilizando o modo Legacy/BIOS, porém encontrei pelo menos "
+"uma partição EFI neste computador. Para que a instalação seja bem sucedida, "
+"provavelmente será necessário alterar a configuração na BIOS para fazer boot "
+"em modo EFI ou UEFI.\n"
+"\n"
+"Deseja prosseguir com com a instalação em modo Legacy/BIOS?"
+msgstr ""
+"當前啟動正在使用舊版 /BIOS 模式，但我在這台計算機上找到了至少一個 EFI 分區。若要成功安裝，您可能需要變更 BIOS 中的組態，以便在 EFI "
+"或 UEFI 模式下開機。\n"
+"\n"
+"您要繼續以舊版 /BIOS 模式進行安裝嗎？"
+
+msgid "Instalar o BigLinux"
+msgstr "安裝大"
+
+msgid "PADRÃO"
+msgstr "標準"
+
+msgid "DESEMPENHO"
+msgstr "性能"
+
+msgid "COMPATIBILIDADE"
+msgstr "兼容性"
+
+msgid "Compacta os dados"
+msgstr "壓縮資料"
+
+msgid "Pontos de restauração"
+msgstr "恢復點"
+
+msgid "Adia a gravação dos dados"
+msgstr "延遲數據的記錄"
+
+msgid "Funciona com tabelas de particionamento antigas"
+msgstr "適用於舊的分區表"
+
+msgid "BTRFS com fsync"
+msgstr "具有同步功能的 BTRFS"
+
+msgid "BTRFS sem fsync"
+msgstr "不含同步的 BTRFS"
+
+msgid "SELECIONAR"
+msgstr "選擇"
+
+msgid "Instalar no HD"
+msgstr "安裝在高清"
+
+msgid "O sistema está em modo"
+msgstr "系統處於模式"
+
+msgid "e com o kernel"
+msgstr "並與內核"

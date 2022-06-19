@@ -88,7 +88,7 @@ msgstr ""
 "ネイティブ・プログラムがよりシステムに統合される<br>\n"
 "を作成し、さらにテストを経て発売されます。<br>\n"
 "ということで、「SuperSpeed」「SuperSpeed」「SuperSpeed」「SuperSpeed」の3つがあります。<br>\n"
-"は、複数種類の設置が可能です。<br></br></br></br>"
+"は、複数種類の設置が可能です。<br>"
 
 msgid ""
 "\n"

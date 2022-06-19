@@ -24,68 +24,77 @@ msgid ""
 "Você também pode utilizar o gerenciador de arquivos, clicar com o botão "
 "direito no arquivo PDF, 'Abrir com' e selecionar a opção de OCR."
 msgstr ""
+"Valige PDF-faili, millele soovite OCR-i rakendada, et saaksite teksti otsida "
+"või kopeerida.\n"
+"\n"
+"Võite kasutada ka failihaldurit, teha PDF-failil paremklõps, valida \"Avada "
+"koos\" ja valida OCR-variandi."
 
 msgid "NORMAL"
-msgstr ""
+msgstr "NORMAL"
 
 msgid "ECONÔMICO"
-msgstr ""
+msgstr "MAJANDUS"
 
 msgid "MAIS ECONÔMICO"
-msgstr ""
+msgstr "LISAKS MAJANDUSLIKULT"
 
 msgid "ALINHAR"
-msgstr ""
+msgstr "ALIGN"
 
 msgid "AUTO ROTAÇÃO"
-msgstr ""
+msgstr "AUTOMAATNE PÖÖRGETAMINE"
 
 msgid "ALINHAR E GIRAR AUTOMÁTICA"
-msgstr ""
+msgstr "AUTOMAATNE JOONDAMINE JA PÖÖRAMINE"
 
 msgid "NÃO MUDE"
-msgstr ""
+msgstr "ÄRGE MUUTKE"
 
 msgid "ESPANHOL"
-msgstr ""
+msgstr "SPANIA"
 
 msgid "INGLÊS"
-msgstr ""
+msgstr "ENGLISH"
 
 msgid "PORTUGUÊS"
-msgstr ""
+msgstr "PORTUGUESE"
 
 msgid ""
 "Você pode optar por reduzir a qualidade da imagem.<br>Dessa forma você terá "
 "arquivos menores, facilitando,<br>por exemplo, enviá-los por e-mail."
 msgstr ""
+"Saate valida pildikvaliteedi vähendamise.<br>Nii saate väiksemaid faile, "
+"mida on lihtsam näiteks<br>e-posti teel saata."
 
 msgid ""
 "Para adicionar novos idiomas, instale os complementos do tesseract no "
 "gerenciador de pacotes do sistema."
 msgstr ""
+"Uute keelte lisamiseks installige tesseracti lisad süsteemi paketihaldurist."
 
 msgid "Aplicar"
-msgstr ""
+msgstr "Rakenda"
 
 msgid "Torne seu PDF pesquisável"
-msgstr ""
+msgstr "Tehke oma PDF-faili otsitavaks"
 
 msgid ""
 "Adicionar OCR no PDF digitalizado permitindo seleção de textos e busca:"
 msgstr ""
+"Lisage skaneeritud PDF-le OCR, mis võimaldab teksti valimist ja otsingut:"
 
 msgid "OCR para PDF"
-msgstr ""
+msgstr "OCR PDF-i jaoks"
 
 msgid "Arquivo"
-msgstr ""
+msgstr "Faili"
 
 msgid "Pasta:"
-msgstr ""
+msgstr "Kaustik:"
 
 msgid "Abrir"
-msgstr ""
+msgstr "Avatud"
 
 msgid "Arquivo salvo: "
-msgstr ""
+msgstr "Faili salvestatud "

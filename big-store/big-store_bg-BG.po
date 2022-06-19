@@ -25,54 +25,61 @@ msgstr ""
 "Generated-By: pygettext.py 1.5"
 
 msgid "A Big-Store já está em uso."
-msgstr ""
+msgstr "Big-Store вече се използва."
 
 msgid "Big-Store"
-msgstr ""
+msgstr "Big-Store"
 
 msgid ""
 "Para os programas Snap aparecerem no menu do sistema finalize a sessão e "
 "faça login novamente."
 msgstr ""
+"За да се появят програмите Snap в системното меню, излезте и влезте отново."
 
 msgid "Configurações"
-msgstr ""
+msgstr "Настройки"
 
 msgid "Suporte a Flatpak ativo."
-msgstr ""
+msgstr "Активна поддръжка на Flatpak."
 
 msgid "Suporte a Flatpak NÃO está ativo."
-msgstr ""
+msgstr "Поддръжката на Flatpak НЕ е активна."
 
 msgid "Suporte a Snap ativo."
-msgstr ""
+msgstr "Поддръжка на Active Snap."
 
 msgid "Suporte a Snap NÃO está ativo."
-msgstr ""
+msgstr "Поддръжката на Snap НЕ е активна."
 
 msgid "Executar"
-msgstr ""
+msgstr "Изпълнявайте"
 
 msgid "Atualizar cache dos repositórios nativos."
-msgstr ""
+msgstr "Актуализиране на кеша на родните хранилища."
 
 msgid "Procurar o servidor de repositórios nativos mais rápido no momento."
-msgstr ""
+msgstr "Търсене на най-бързия собствен сървър за хранилище в момента."
 
 msgid "Utilize as opções a seguir com cautela:"
-msgstr ""
+msgstr "Използвайте следните опции с повишено внимание:"
 
 msgid ""
 "Atualizar as chaves dos repositórios BigLinux, Manjaro e Archlinux. Lembre "
 "que se você ativou repositórios complementares será necessário adicionar as "
 "chaves desses repositórios novamente."
 msgstr ""
+"Актуализирайте ключовете на хранилищата на BigLinux, Manjaro и Archlinux. Не "
+"забравяйте, че ако сте активирали допълнителни хранилища, ще трябва отново "
+"да добавите ключовете на тези хранилища."
 
 msgid ""
 "Forçar atualizações, utilize essa opção se não estiver conseguindo atualizar "
 "o sistema, porém, na atualização forçada alguns programas podem ser "
 "removidos."
 msgstr ""
+"Принудителни актуализации, използвайте тази опция, ако не можете да "
+"актуализирате системата, но при принудителната актуализация някои програми "
+"може да бъдат премахнати."
 
 msgid ""
 "\n"
@@ -81,6 +88,12 @@ msgid ""
 "portanto é a melhor opção quando o programa que você<br>\n"
 "deseja está disponível em mais de um tipo de instalação.<br>"
 msgstr ""
+"\n"
+"Родните програми са по-добре интегрирани в системата<br>\n"
+"и да преминат през допълнителни тестове, преди да бъдат пуснати в "
+"продажба,<br>\n"
+"така че това е най-добрият вариант, когато програмата, която<br>\n"
+"се предлага в повече от един тип инсталация.<br>"
 
 msgid ""
 "\n"
@@ -91,6 +104,13 @@ msgid ""
 "bem, mas não passam pelos mesmos testes feitos<br>\n"
 "com os programas nativos."
 msgstr ""
+"\n"
+"Програмите на AUR са скриптове, създадени от потребители<br>\n"
+"да инсталирате програми, които не са налични<br>\n"
+"директно в родните хранилища на системата.<br>\n"
+"Програмите, инсталирани по този метод, работят<br>\n"
+"добре, но те не се подлагат на същите тестове като<br>\n"
+"местни програми."
 
 msgid ""
 "\n"
@@ -102,6 +122,14 @@ msgid ""
 "para quem tem computadores que possuem boa capacidade<br>\n"
 "de processamento e armazenamento."
 msgstr ""
+"\n"
+"Програмите Flatpak са налични за всички дистрибуции на Linux<br>\n"
+"дистрибуции на Linux, обикновено се поддържат от програмата<br>\n"
+"създателите на програмите, но не разполагат с някои<br>\n"
+"оптимизации и интеграция със системата, както се случва с<br>\n"
+"местни програми, това може да бъде добра алтернатива<br>\n"
+"за тези, които имат компютри с добър капацитет<br>\n"
+"капацитет за обработка и съхранение."
 
 msgid ""
 "Programas Snap, assim como o Flatpak<br>\n"
@@ -110,305 +138,312 @@ msgid ""
 "se o programa que você procura está disponível apenas neste<br>\n"
 "formato, utilize-o."
 msgstr ""
+"Програми Snap, като Flatpak<br>\n"
+"предоставя софтуер за всички дистрибуции на Linux.<br>\n"
+"Той обикновено е по-тежък и по-слабо интегриран в системата, но<br>\n"
+"ако програмата, която търсите, се предлага само в този<br>\n"
+"използвайте този формат."
 
 msgid "Aplicando - Aguarde"
-msgstr ""
+msgstr "Кандидатстване - Моля, изчакайте"
 
 msgid "Procurar programa"
-msgstr ""
+msgstr "Програма за търсене"
 
 msgid "Programas Nativos"
-msgstr ""
+msgstr "Родни програми"
 
 msgid "Programas AUR"
-msgstr ""
+msgstr "Програми на AUR"
 
 msgid "Programas Flatpak"
-msgstr ""
+msgstr "Програми Flatpak"
 
 msgid "Programas Snap"
-msgstr ""
+msgstr "Програми Snap"
 
 msgid "Navegadores"
-msgstr ""
+msgstr "Браузъри"
 
 msgid "E-mail"
-msgstr ""
+msgstr "Електронна поща"
 
 msgid "Armazenamento nas nuvens"
-msgstr ""
+msgstr "Съхранение в облак"
 
 msgid "Download"
-msgstr ""
+msgstr "Изтегляне"
 
 msgid "Compartilhadores e Torrent"
-msgstr ""
+msgstr "Споделящи и Торент"
 
 msgid "Mensageiros e Conferências"
-msgstr ""
+msgstr "Пратеници и конференции"
 
 msgid "Acesso Remoto, FTP, SSH, VNC, RDP..."
-msgstr ""
+msgstr "Отдалечен достъп, FTP, SSH, VNC, RDP..."
 
 msgid "Ferramentas de rede"
-msgstr ""
+msgstr "Мрежови инструменти"
 
 msgid "Suíte Office"
-msgstr ""
+msgstr "Офис пакет"
 
 msgid "Visualizadores de PDF, Epub, e-books e mais"
-msgstr ""
+msgstr "Преглед на PDF, Epub, електронни книги и др"
 
 msgid "Editores de PDF"
-msgstr ""
+msgstr "PDF редактори"
 
 msgid "Agenda de tarefas e contatos"
-msgstr ""
+msgstr "Календар на задачите и контактите"
 
 msgid "Visualizadores de imagem"
-msgstr ""
+msgstr "Наблюдатели на изображения"
 
 msgid "Editores de imagem e ferramentas de desenho"
-msgstr ""
+msgstr "Редактори на изображения и инструменти за рисуване"
 
 msgid "Captura de tela (Screenshot)"
-msgstr ""
+msgstr "Снимка на екрана"
 
 msgid "Converter, redimensionar ou compactar imagens"
-msgstr ""
+msgstr "Конвертиране, промяна на размера или компресиране на изображения"
 
 msgid "Edição 3D e CAD"
-msgstr ""
+msgstr "3D и CAD редактиране"
 
 msgid "Reprodutores de áudio"
-msgstr ""
+msgstr "Аудио плейъри"
 
 msgid "Rádio online"
-msgstr ""
+msgstr "Онлайн радио"
 
 msgid "Gravadores e conversores de áudio"
-msgstr ""
+msgstr "Звукозаписващи устройства и конвертори"
 
 msgid "Editores de áudio"
-msgstr ""
+msgstr "Аудио редактори"
 
 msgid "Reprodutores de vídeo"
-msgstr ""
+msgstr "Видео плейъри"
 
 msgid "Vídeo online, IPTV, Youtube..."
-msgstr ""
+msgstr "Онлайн видео, IPTV, Youtube..."
 
 msgid "Editores e compactadores de vídeo"
-msgstr ""
+msgstr "Видеоредактори и компресори"
 
 msgid "Gravadores e copiadores de CD e DVD"
-msgstr ""
+msgstr "CD и DVD записващи устройства и копирни машини"
 
 msgid "Webcam, gravação de tela e transmissão de vídeo"
-msgstr ""
+msgstr "Уеб камера, запис на екрана и видео стрийминг"
 
 msgid "Gerenciadores de jogos"
-msgstr ""
+msgstr "Мениджъри на игри"
 
 msgid "Utilitários para jogos"
-msgstr ""
+msgstr "Инструменти за игри"
 
 msgid "Emulador Retroarch"
-msgstr ""
+msgstr "Емулатор на Retroarch"
 
 msgid "Emuladores"
-msgstr ""
+msgstr "Емулатори"
 
 msgid "Criadores de jogos"
-msgstr ""
+msgstr "Разработчици на игри"
 
 msgid "Ação/Arcade"
-msgstr ""
+msgstr "Екшън/аркада"
 
 msgid "Cartas"
-msgstr ""
+msgstr "Писма"
 
 msgid "Educacional"
-msgstr ""
+msgstr "Образователен"
 
 msgid "Estratégia"
-msgstr ""
+msgstr "Стратегия"
 
 msgid "Puzzles"
-msgstr ""
+msgstr "Пъзели"
 
 msgid "Tabuleiro"
-msgstr ""
+msgstr "Съвет"
 
 msgid "RPG"
-msgstr ""
+msgstr "RPG"
 
 msgid "Armazenamento e partições"
-msgstr ""
+msgstr "Съхранение и прегради"
 
 msgid "Fontes (Tipografia)"
-msgstr ""
+msgstr "Шрифтове (типография)"
 
 msgid "Java JRE"
-msgstr ""
+msgstr "Java JRE"
 
 msgid "Virtualização"
-msgstr ""
+msgstr "Виртуализация"
 
 msgid "Editores de código e IDE"
-msgstr ""
+msgstr "Редактори на код и IDE"
 
 msgid "Banco de dados"
-msgstr ""
+msgstr "База данни"
 
 msgid "Servidores WEB"
-msgstr ""
+msgstr "WEB сървъри"
 
 msgid "Pacotes nativos e AUR"
-msgstr ""
+msgstr "Родни пакети и AUR"
 
 msgid "Instalados:"
-msgstr ""
+msgstr "Инсталиран:"
 
 msgid "Disponíveis:"
-msgstr ""
+msgstr "На разположение:"
 
 msgid "Pacotes Flatpak"
-msgstr ""
+msgstr "Пакети Flatpak"
 
 msgid "Repositórios configurados:"
-msgstr ""
+msgstr "Конфигурирани хранилища:"
 
 msgid "Pacotes Snap"
-msgstr ""
+msgstr "Пакети Snap"
 
 msgid "Pacotes Snap Instalados clique no pacote para remover"
-msgstr ""
+msgstr "Инсталирани пакети Snap Кликнете върху пакета, за да го премахнете"
 
 msgid "Versão: "
-msgstr ""
+msgstr "Версия "
 
 msgid "Pacote: "
-msgstr ""
+msgstr "Опаковка "
 
 msgid "Não informada"
-msgstr ""
+msgstr "Не е информиран"
 
 msgid "Atualizar"
-msgstr ""
+msgstr "Актуализация"
 
 msgid "Versão instalada"
-msgstr ""
+msgstr "Инсталирана версия"
 
 msgid "Versão disponível"
-msgstr ""
+msgstr "Налична версия"
 
 msgid "Versão"
-msgstr ""
+msgstr "Версия"
 
 msgid "Pacote .deb"
-msgstr ""
+msgstr ".deb пакет"
 
 msgid ""
 "Esse programa está em formato .deb, que possui a melhor integração com o "
 "sistema."
 msgstr ""
+"Тази програма е във формат .deb, който има най-добра интеграция със "
+"системата."
 
 msgid "Dependências a instalar"
-msgstr ""
+msgstr "Зависимости за инсталиране"
 
 msgid "Ver mais"
-msgstr ""
+msgstr "Вижте повече"
 
 msgid "Pacotes com dependências não atendidas: "
-msgstr ""
+msgstr "Пакети с неизпълнени зависимости "
 
 msgid "Depende de "
-msgstr ""
+msgstr "Това зависи от "
 
 msgid "mas não vai ser instalado."
-msgstr ""
+msgstr "но тя няма да бъде инсталирана."
 
 msgid "mas não está disponível"
-msgstr ""
+msgstr "но не е налична"
 
 msgid "Informações sobre programas nativos"
-msgstr ""
+msgstr "Информация за местни програми"
 
 msgid "Pacote:"
-msgstr ""
+msgstr "Опаковка:"
 
 msgid "Versão disponível:"
-msgstr ""
+msgstr "Налична версия:"
 
 msgid "Repositório:"
-msgstr ""
+msgstr "Хранилище:"
 
 msgid "Instalando"
-msgstr ""
+msgstr "Инсталиране на"
 
 msgid "Removendo"
-msgstr ""
+msgstr "Премахване на"
 
 msgid "Informações sobre programas SNAP"
-msgstr ""
+msgstr "Информация за програмите SNAP"
 
 msgid "Programas SNAP"
-msgstr ""
+msgstr "Програми SNAP"
 
 msgid "Versão disponivel:"
-msgstr ""
+msgstr "Налична версия:"
 
 msgid "Licença:"
-msgstr ""
+msgstr "Лиценз:"
 
 msgid "AUR"
-msgstr ""
+msgstr "AUR"
 
 msgid "Empacotador:"
-msgstr ""
+msgstr "Packer:"
 
 msgid "Reinstalar"
-msgstr ""
+msgstr "Преинсталиране на"
 
 msgid "Versão instalada:"
-msgstr ""
+msgstr "Инсталирана версия:"
 
 msgid "Uso de armazenamento:"
-msgstr ""
+msgstr "Използване на склада:"
 
 msgid "Tamanho do download:"
-msgstr ""
+msgstr "Размер на изтегляне:"
 
 msgid "Site:"
-msgstr ""
+msgstr "Уебсайт:"
 
 msgid "Motivo da instalação:"
-msgstr ""
+msgstr "Причина за инсталиране:"
 
 msgid "Grupos:"
-msgstr ""
+msgstr "Групи:"
 
 msgid "Assinado:"
-msgstr ""
+msgstr "Подписани:"
 
 msgid "Complementos:"
-msgstr ""
+msgstr "Допълва:"
 
 msgid "Dependências:"
-msgstr ""
+msgstr "Зависимости:"
 
 msgid "Remove:"
-msgstr ""
+msgstr "Премахване:"
 
 msgid "Substitui:"
-msgstr ""
+msgstr "Той замества:"
 
 msgid "Arquivos do pacote:"
-msgstr ""
+msgstr "Пакетни файлове:"
 
 msgid "Clique aqui para ver os arquivos"
-msgstr ""
+msgstr "Кликнете тук, за да видите архивите"
 
 msgid "Informações sobre programas AUR"
-msgstr ""
+msgstr "Информация за програмите на AUR"

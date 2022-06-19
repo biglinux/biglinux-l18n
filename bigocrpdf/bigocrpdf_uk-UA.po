@@ -24,68 +24,80 @@ msgid ""
 "Você também pode utilizar o gerenciador de arquivos, clicar com o botão "
 "direito no arquivo PDF, 'Abrir com' e selecionar a opção de OCR."
 msgstr ""
+"Виберіть PDF-файл для застосування OCR, за допомогою якого можна буде шукати "
+"або копіювати тексти.\n"
+"\n"
+"Ви також можете скористатися файловим менеджером, клацніть правою кнопкою "
+"миші на PDF-файлі, «Відкрити за допомогою» та виберіть опцію OCR."
 
 msgid "NORMAL"
-msgstr ""
+msgstr "НОРМАЛЬНИЙ"
 
 msgid "ECONÔMICO"
-msgstr ""
+msgstr "ЕКОНОМІЧНИЙ"
 
 msgid "MAIS ECONÔMICO"
-msgstr ""
+msgstr "ЕКОНОМІЧНІШЕ"
 
 msgid "ALINHAR"
-msgstr ""
+msgstr "ВИРІВНЯТИ"
 
 msgid "AUTO ROTAÇÃO"
-msgstr ""
+msgstr "АВТОМАТИЧНЕ ОБЕРТАННЯ"
 
 msgid "ALINHAR E GIRAR AUTOMÁTICA"
-msgstr ""
+msgstr "АВТОМАТИЧНЕ ВИРІВНЮВАННЯ І ПОВОРОТ"
 
 msgid "NÃO MUDE"
-msgstr ""
+msgstr "НЕ МІНЯЙТЕ"
 
 msgid "ESPANHOL"
-msgstr ""
+msgstr "ІСПАНСЬКА"
 
 msgid "INGLÊS"
-msgstr ""
+msgstr "АНГЛІЙСЬКА"
 
 msgid "PORTUGUÊS"
-msgstr ""
+msgstr "ПОРТУГАЛЬСЬКА"
 
 msgid ""
 "Você pode optar por reduzir a qualidade da imagem.<br>Dessa forma você terá "
 "arquivos menores, facilitando,<br>por exemplo, enviá-los por e-mail."
 msgstr ""
+"Ви можете вибрати, щоб знизити якість зображення. <br> Таким чином, у вас "
+"будуть менші файли, що полегшує, наприклад, <br> надсилати їх електронною "
+"поштою."
 
 msgid ""
 "Para adicionar novos idiomas, instale os complementos do tesseract no "
 "gerenciador de pacotes do sistema."
 msgstr ""
+"Щоб додати нові мови, встановіть доповнення tesseract в диспетчері системних "
+"пакетів."
 
 msgid "Aplicar"
-msgstr ""
+msgstr "Застосувати"
 
 msgid "Torne seu PDF pesquisável"
-msgstr ""
+msgstr "Зробіть свій PDF-файл доступним для пошуку"
 
 msgid ""
 "Adicionar OCR no PDF digitalizado permitindo seleção de textos e busca:"
 msgstr ""
+"Додайте OCR до відсканованого PDF-файлу, дозволяючи вибирати та шукати текст:"
+""
 
 msgid "OCR para PDF"
-msgstr ""
+msgstr "OCR в PDF"
 
 msgid "Arquivo"
-msgstr ""
+msgstr "Файл"
 
 msgid "Pasta:"
-msgstr ""
+msgstr "Папка:"
 
 msgid "Abrir"
-msgstr ""
+msgstr "ВІДЧИНЕНО"
 
 msgid "Arquivo salvo: "
-msgstr ""
+msgstr "Збережений файл: "

@@ -26,9 +26,16 @@ msgid ""
 "\n"
 "Deseja prosseguir com com a instalação em modo EFI?"
 msgstr ""
+"Trenutno podizanje sustava koristi EFI način rada, ali nisam pronašao "
+"nikakvu EFI particiju na ovom računalu, ako ovo računalo već ima instaliran "
+"drugi sustav i namjeravate ostati instaliran, vjerojatno ćete morati "
+"promijeniti konfiguraciju u BIOS-u za pokretanje u Legacy modu, koji se "
+"naziva i BIOS način rada.\n"
+"\n"
+"Želite li nastaviti s instalacijom u EFI načinu rada?"
 
 msgid "Instalar o sistema"
-msgstr ""
+msgstr "Instalirajte sustav"
 
 msgid ""
 "O boot atual está utilizando o modo Legacy/BIOS, porém encontrei pelo menos "
@@ -38,45 +45,51 @@ msgid ""
 "\n"
 "Deseja prosseguir com com a instalação em modo Legacy/BIOS?"
 msgstr ""
+"Trenutno podizanje sustava koristi način naslijeđenog/BIOS-a, ali pronašao "
+"sam barem jednu EFI particiju na ovom računalu. Da bi instalacija bila "
+"uspješna, vjerojatno ćete morati promijeniti konfiguraciju u BIOS-u za "
+"pokretanje u EFI ili UEFI načinu rada.\n"
+"\n"
+"Želite li nastaviti s instalacijom u načinu naslijeđenog/BIOS?"
 
 msgid "Instalar o BigLinux"
-msgstr ""
+msgstr "Instalirajte BigLinux"
 
 msgid "PADRÃO"
-msgstr ""
+msgstr "STANDARDNI"
 
 msgid "DESEMPENHO"
-msgstr ""
+msgstr "PERFORMANSE"
 
 msgid "COMPATIBILIDADE"
-msgstr ""
+msgstr "KOMPATIBILNOST"
 
 msgid "Compacta os dados"
-msgstr ""
+msgstr "Sažimanje podataka"
 
 msgid "Pontos de restauração"
-msgstr ""
+msgstr "Točke restauracije"
 
 msgid "Adia a gravação dos dados"
-msgstr ""
+msgstr "Odgoditi snimanje podataka"
 
 msgid "Funciona com tabelas de particionamento antigas"
-msgstr ""
+msgstr "Radi sa starim tablicama particioniranja"
 
 msgid "BTRFS com fsync"
-msgstr ""
+msgstr "BTRFS s fsync"
 
 msgid "BTRFS sem fsync"
-msgstr ""
+msgstr "BTRFS bez fsync"
 
 msgid "SELECIONAR"
-msgstr ""
+msgstr "ODABERITE"
 
 msgid "Instalar no HD"
-msgstr ""
+msgstr "Instalirajte na HD"
 
 msgid "O sistema está em modo"
-msgstr ""
+msgstr "Sustav je u načinu rada"
 
 msgid "e com o kernel"
-msgstr ""
+msgstr "i s kernelom"

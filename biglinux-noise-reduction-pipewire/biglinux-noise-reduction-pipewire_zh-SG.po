@@ -1,0 +1,68 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the biglinux-noise-reduction-pipewire package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: biglinux-noise-reduction-pipewire\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-06-08 21:46-0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: zh_SG\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit"
+
+msgid "Reduzir ruídos do microfone"
+msgstr "减少话筒噪音"
+
+msgid "Microfone sem ruídos"
+msgstr "无噪音的麦克风"
+
+msgid "Desativando"
+msgstr "停用"
+
+msgid "Filtro do Microfone"
+msgstr "麦克风过滤器"
+
+msgid "Ativando"
+msgstr "激活"
+
+msgid "Filtro de ruído"
+msgstr "噪声过滤器"
+
+msgid "Iniciar automaticamente"
+msgstr "自动启动"
+
+msgid "Configuração aplicada"
+msgstr "应用的配置"
+
+msgid "Microfone"
+msgstr "声器"
+
+msgid "Configuração de áudio."
+msgstr "音频配置。"
+
+msgid "Confirma a remoção das personalizações na configuração de áudio?"
+msgstr "你能确认删除了音频配置中的自定义功能吗？"
+
+msgid "Configuração de áudio"
+msgstr "音频配置"
+
+msgid ""
+"Configuração de áudio restaurada.\n"
+"\n"
+"Os programas em execução no momento podem precisar ser fechados\n"
+"e abertos novamente para o áudio funcionar corretamente."
+msgstr ""
+"恢复了音频配置。\n"
+"\n"
+"目前正在运行的程序可能需要被关闭\n"
+"并再次打开以使音频正常工作。"
+
+msgid "Cancelado, nenhuma configuração foi removida!"
+msgstr "取消了，没有配置被删除!"

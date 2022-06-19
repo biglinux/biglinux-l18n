@@ -26,9 +26,16 @@ msgid ""
 "\n"
 "Deseja prosseguir com com a instalação em modo EFI?"
 msgstr ""
+"Mevcut önyükleme EFI modunu kullanıyor, ancak bu bilgisayarda herhangi bir "
+"EFI bölümü bulamadım, bu bilgisayarda zaten başka bir sistem kuruluysa ve "
+"kurulu kalmasını istiyorsanız, muhtemelen BIOS'taki ayarı BIOS modu olarak "
+"da adlandırılan Eski modda önyükleme yapacak şekilde değiştirmeniz "
+"gerekecektir.\n"
+"\n"
+"EFI kurulumuna devam etmek istiyor musunuz?"
 
 msgid "Instalar o sistema"
-msgstr ""
+msgstr "Sistemin kurulması"
 
 msgid ""
 "O boot atual está utilizando o modo Legacy/BIOS, porém encontrei pelo menos "
@@ -38,45 +45,50 @@ msgid ""
 "\n"
 "Deseja prosseguir com com a instalação em modo Legacy/BIOS?"
 msgstr ""
+"Mevcut önyükleme Legacy/BIOS modunu kullanıyor, ancak bu bilgisayarda en az "
+"bir EFI bölümü buldum. Başarılı bir kurulum için, muhtemelen BIOS'taki ayarı "
+"EFI veya UEFI modunda önyükleme yapacak şekilde değiştirmeniz gerekecektir.\n"
+"\n"
+"Legacy/BIOS kurulumu ile devam etmek istiyor musunuz?"
 
 msgid "Instalar o BigLinux"
-msgstr ""
+msgstr "BigLinux Kurulumu"
 
 msgid "PADRÃO"
-msgstr ""
+msgstr "STANDART"
 
 msgid "DESEMPENHO"
-msgstr ""
+msgstr "PERFORMANS"
 
 msgid "COMPATIBILIDADE"
-msgstr ""
+msgstr "UYUMLULUK"
 
 msgid "Compacta os dados"
-msgstr ""
+msgstr "Verileri sıkıştırın"
 
 msgid "Pontos de restauração"
-msgstr ""
+msgstr "Geri yükleme noktaları"
 
 msgid "Adia a gravação dos dados"
-msgstr ""
+msgstr "Veri kaydını erteler"
 
 msgid "Funciona com tabelas de particionamento antigas"
-msgstr ""
+msgstr "Eski bölüm tabloları ile çalışır"
 
 msgid "BTRFS com fsync"
-msgstr ""
+msgstr "Fsync ile BTRFS"
 
 msgid "BTRFS sem fsync"
-msgstr ""
+msgstr "Fsync olmadan BTRFS"
 
 msgid "SELECIONAR"
-msgstr ""
+msgstr "SEÇİNİZ"
 
 msgid "Instalar no HD"
-msgstr ""
+msgstr "HD'ye yükleyin"
 
 msgid "O sistema está em modo"
-msgstr ""
+msgstr "Sistem içinde"
 
 msgid "e com o kernel"
-msgstr ""
+msgstr "ve çekirdek ile"

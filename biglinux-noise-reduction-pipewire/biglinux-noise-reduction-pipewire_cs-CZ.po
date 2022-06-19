@@ -18,40 +18,40 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit"
 
 msgid "Reduzir ruídos do microfone"
-msgstr ""
+msgstr "Snížení hluku mikrofonu"
 
 msgid "Microfone sem ruídos"
-msgstr ""
+msgstr "Bezhlučný mikrofon"
 
 msgid "Desativando"
-msgstr ""
+msgstr "Deaktivace"
 
 msgid "Filtro do Microfone"
-msgstr ""
+msgstr "Mikrofonní filtr"
 
 msgid "Ativando"
-msgstr ""
+msgstr "Aktivace"
 
 msgid "Filtro de ruído"
-msgstr ""
+msgstr "Šumový filtr"
 
 msgid "Iniciar automaticamente"
-msgstr ""
+msgstr "Automatické spuštění"
 
 msgid "Configuração aplicada"
-msgstr ""
+msgstr "Použitá konfigurace"
 
 msgid "Microfone"
-msgstr ""
+msgstr "Mikrofon"
 
 msgid "Configuração de áudio."
-msgstr ""
+msgstr "Konfigurace zvuku."
 
 msgid "Confirma a remoção das personalizações na configuração de áudio?"
-msgstr ""
+msgstr "Můžete potvrdit odstranění přizpůsobení v konfiguraci zvuku?"
 
 msgid "Configuração de áudio"
-msgstr ""
+msgstr "Konfigurace zvuku"
 
 msgid ""
 "Configuração de áudio restaurada.\n"
@@ -59,6 +59,10 @@ msgid ""
 "Os programas em execução no momento podem precisar ser fechados\n"
 "e abertos novamente para o áudio funcionar corretamente."
 msgstr ""
+"Obnovení konfigurace zvuku.\n"
+"\n"
+"Může být nutné ukončit aktuálně spuštěné programy\n"
+"a znovu otevřít, aby zvuk fungoval správně."
 
 msgid "Cancelado, nenhuma configuração foi removida!"
-msgstr ""
+msgstr "Zrušeno, žádná konfigurace nebyla odstraněna!"

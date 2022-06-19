@@ -18,126 +18,129 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit"
 
 msgid "Selecionar imagem"
-msgstr ""
+msgstr "Izberite sliko"
 
 msgid "Adicionar WebApps"
-msgstr ""
+msgstr "Dodajanje spletnih aplikacij"
 
 msgid "WebApps Adicionados"
-msgstr ""
+msgstr "Dodana spletna orodja"
 
 msgid "WebApps BigLinux"
-msgstr ""
+msgstr "Spletne aplikacije BigLinux"
 
 msgid "Url:"
-msgstr ""
+msgstr "Url:"
 
 msgid "Detectar Nome e Ícone"
-msgstr ""
+msgstr "Odkrivanje imena in ikone"
 
 msgid "Nome:"
-msgstr ""
+msgstr "Ime:"
 
 msgid "Ícone:"
-msgstr ""
+msgstr "Ikona:"
 
 msgid "Alterar"
-msgstr ""
+msgstr "Sprememba"
 
 msgid "Navegador:"
-msgstr ""
+msgstr "Navigator:"
 
 msgid "Categoria:"
-msgstr ""
+msgstr "Kategorija:"
 
 msgid "DESENVOLVIMENTO"
-msgstr ""
+msgstr "RAZVOJ"
 
 msgid "ESCRITÓRIO"
-msgstr ""
+msgstr "OFFICE"
 
 msgid "GRÁFICOS"
-msgstr ""
+msgstr "GRAFIKA"
 
 msgid "JOGOS"
-msgstr ""
+msgstr "IGRE"
 
 msgid "MULTIMÍDIA"
-msgstr ""
+msgstr "MULTIMEDIJA"
 
 msgid "Criar atalho na Área de Trabalho"
-msgstr ""
+msgstr "Ustvarite bližnjico na namizju"
 
 msgid "Perfil adicional"
-msgstr ""
+msgstr "Dodatni profil"
 
 msgid "YouTube Modo TV"
-msgstr ""
+msgstr "Način YouTube TV"
 
 msgid "Adicionar"
-msgstr ""
+msgstr "Dodaj"
 
 msgid "Para adicionar um WebApp, você precisa informar a Url e o Nome."
 msgstr ""
+"Če želite dodati spletno aplikacijo, morate sporočiti naslov Url in ime."
 
 msgid "Para detectar o Nome e o Ícone você precisa informar a Url."
-msgstr ""
+msgstr "Če želite zaznati ime in ikono, morate sporočiti naslov Url."
 
 msgid ""
 "A Url é inválida ou a conexão falhou.<br>Tente inserir o ícone pelo botão "
 "Alterar."
 msgstr ""
+"Url je neveljaven ali povezava ni uspela.<br>Poskusite vstaviti ikono z "
+"gumbom Spremeni."
 
 msgid "O WebApp foi adicionado com sucesso!"
-msgstr ""
+msgstr "Spletna aplikacija je bila uspešno dodana!"
 
 msgid "Ícones encontrados"
-msgstr ""
+msgstr "Najdene ikone"
 
 msgid "Selecione o ícone preferido:"
-msgstr ""
+msgstr "Izberite želeno ikono:"
 
 msgid "Desenvolvimento"
-msgstr ""
+msgstr "Razvoj"
 
 msgid "Escritório"
-msgstr ""
+msgstr "Pisarna"
 
 msgid "Gráficos"
-msgstr ""
+msgstr "Grafika"
 
 msgid "Jogos"
-msgstr ""
+msgstr "Igre"
 
 msgid "Multimídia"
-msgstr ""
+msgstr "Večpredstavnostna stran"
 
 msgid "Tem certeza que deseja remover este WebApp?"
-msgstr ""
+msgstr "Ste prepričani, da želite odstraniti to spletno aplikacijo?"
 
 msgid "Nenhum WebApp adicionado!"
-msgstr ""
+msgstr "Ni dodana spletna aplikacija!"
 
 msgid "Navegador padrão<br>dos webapps:"
-msgstr ""
+msgstr "Privzet brskalnik<br>spletnih aplikacij:"
 
 msgid "Alterar navegador"
-msgstr ""
+msgstr "Spremeni brskalnik"
 
 msgid "Selecione o navegador preferido:"
-msgstr ""
+msgstr "Izberite želeni brskalnik:"
 
 msgid "WebApps Nativos"
-msgstr ""
+msgstr "Nativne spletne aplikacije"
 
 msgid "Bom dia"
-msgstr ""
+msgstr "Dobro jutro"
 
 msgid "Boa tarde"
-msgstr ""
+msgstr "Dobro popoldne"
 
 msgid "Boa noite"
-msgstr ""
+msgstr "Dober večer"
 
 msgid "Aguarde, estamos preparando para começar..."
-msgstr ""
+msgstr "Počakajte, pripravljamo se na začetek..."

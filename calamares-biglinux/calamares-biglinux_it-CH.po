@@ -26,9 +26,16 @@ msgid ""
 "\n"
 "Deseja prosseguir com com a instalação em modo EFI?"
 msgstr ""
+"L'avvio attuale utilizza la modalità EFI, tuttavia non ho trovato alcuna "
+"partizione EFI su questo computer; se questo computer ha già installato un "
+"altro sistema e vuole che rimanga installato, probabilmente dovrà cambiare "
+"l'impostazione nel BIOS per avviare in modalità Legacy, chiamata anche "
+"modalità BIOS.\n"
+"\n"
+"Vuole procedere con l'installazione EFI?"
 
 msgid "Instalar o sistema"
-msgstr ""
+msgstr "Installazione del sistema"
 
 msgid ""
 "O boot atual está utilizando o modo Legacy/BIOS, porém encontrei pelo menos "
@@ -38,45 +45,51 @@ msgid ""
 "\n"
 "Deseja prosseguir com com a instalação em modo Legacy/BIOS?"
 msgstr ""
+"L'avvio attuale utilizza la modalità Legacy/BIOS, tuttavia ho trovato almeno "
+"una partizione EFI su questo computer. Per un'installazione di successo, "
+"probabilmente dovrà cambiare l'impostazione nel BIOS per avviare in modalità "
+"EFI o UEFI.\n"
+"\n"
+"Vuole procedere con l'installazione Legacy/BIOS?"
 
 msgid "Instalar o BigLinux"
-msgstr ""
+msgstr "Installazione di BigLinux"
 
 msgid "PADRÃO"
-msgstr ""
+msgstr "STANDARD"
 
 msgid "DESEMPENHO"
-msgstr ""
+msgstr "PRESTAZIONI"
 
 msgid "COMPATIBILIDADE"
-msgstr ""
+msgstr "COMPATIBILITÀ"
 
 msgid "Compacta os dados"
-msgstr ""
+msgstr "Compatta i dati"
 
 msgid "Pontos de restauração"
-msgstr ""
+msgstr "Punti di ripristino"
 
 msgid "Adia a gravação dos dados"
-msgstr ""
+msgstr "Posticipa la registrazione dei dati"
 
 msgid "Funciona com tabelas de particionamento antigas"
-msgstr ""
+msgstr "Funziona con le vecchie tabelle di partizione"
 
 msgid "BTRFS com fsync"
-msgstr ""
+msgstr "BTRFS con fsync"
 
 msgid "BTRFS sem fsync"
-msgstr ""
+msgstr "BTRFS senza fsync"
 
 msgid "SELECIONAR"
-msgstr ""
+msgstr "SELEZIONA"
 
 msgid "Instalar no HD"
-msgstr ""
+msgstr "Installare sull'HD"
 
 msgid "O sistema está em modo"
-msgstr ""
+msgstr "Il sistema è in"
 
 msgid "e com o kernel"
-msgstr ""
+msgstr "e con il kernel"

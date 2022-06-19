@@ -18,51 +18,53 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit"
 
 msgid "Configurações de texto para voz"
-msgstr ""
+msgstr "Tekstistä puheeksi -asetukset"
 
 msgid "Vozes - Abrir BigStore"
-msgstr ""
+msgstr "Äänet - Open BigStore"
 
 msgid "Voice Configuration"
-msgstr ""
+msgstr "Äänen konfigurointi"
 
 msgid "Configurar voz"
-msgstr ""
+msgstr "Määritä ääni"
 
 msgid "Para falar um texto selecionado use o atalho "
-msgstr ""
+msgstr "Voit puhua valitun tekstin käyttämällä pikanäppäintä "
 
 msgid "[Alt] + [V]"
-msgstr ""
+msgstr "[Alt] + [V]"
 
 msgid ""
 "ou o ícone na sessão Utilitários no menu do sistema. Para interromper a "
 "leitura use novamene o atalho ou ícone."
 msgstr ""
+"tai kuvaketta järjestelmävalikon Apuohjelmat-osiossa. Lopeta lukeminen "
+"käyttämällä pikakuvaketta tai kuvaketta uudelleen."
 
 msgid "Selecione as configurações de sua preferência"
-msgstr ""
+msgstr "Valitse haluamasi asetukset"
 
 msgid "Números maiores deixam a voz mais rápida, o padrão é: -25"
-msgstr ""
+msgstr "Suuremmat numerot tekevät äänestä nopeamman, oletusarvo on -25"
 
 msgid "Velocidade"
-msgstr ""
+msgstr "Nopeus"
 
 msgid "Números maiores deixam a voz mais aguda, o padrão é: -25"
-msgstr ""
+msgstr "Suuremmat numerot tekevät äänestä korkeamman, standardi on -25"
 
 msgid "Tom"
-msgstr ""
+msgstr "Tom"
 
 msgid "O padrão é: 0."
-msgstr ""
+msgstr "Oletusarvo on: 0."
 
 msgid "Volume"
-msgstr ""
+msgstr "Volume"
 
 msgid "As vozes são otimizadas para idiomas expecíficos."
-msgstr ""
+msgstr "Äänet on optimoitu tietyille kielille."
 
 msgid "Voz"
-msgstr ""
+msgstr "Ääni"

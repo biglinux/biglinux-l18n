@@ -18,126 +18,128 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit"
 
 msgid "Selecionar imagem"
-msgstr ""
+msgstr "Valige pilt"
 
 msgid "Adicionar WebApps"
-msgstr ""
+msgstr "Veebirakenduste lisamine"
 
 msgid "WebApps Adicionados"
-msgstr ""
+msgstr "Lisatud veebirakendused"
 
 msgid "WebApps BigLinux"
-msgstr ""
+msgstr "Veebirakendused BigLinux"
 
 msgid "Url:"
-msgstr ""
+msgstr "Url:"
 
 msgid "Detectar Nome e Ícone"
-msgstr ""
+msgstr "Nimetuse ja ikooni tuvastamine"
 
 msgid "Nome:"
-msgstr ""
+msgstr "Nimi:"
 
 msgid "Ícone:"
-msgstr ""
+msgstr "Ikoon:"
 
 msgid "Alterar"
-msgstr ""
+msgstr "Muuda"
 
 msgid "Navegador:"
-msgstr ""
+msgstr "Navigator:"
 
 msgid "Categoria:"
-msgstr ""
+msgstr "Kategooria:"
 
 msgid "DESENVOLVIMENTO"
-msgstr ""
+msgstr "ARENDUS"
 
 msgid "ESCRITÓRIO"
-msgstr ""
+msgstr "OFFICE"
 
 msgid "GRÁFICOS"
-msgstr ""
+msgstr "GRAAFIKA"
 
 msgid "JOGOS"
-msgstr ""
+msgstr "MÄNGUD"
 
 msgid "MULTIMÍDIA"
-msgstr ""
+msgstr "MULTIMEDIA"
 
 msgid "Criar atalho na Área de Trabalho"
-msgstr ""
+msgstr "Loo otsetee töölauale"
 
 msgid "Perfil adicional"
-msgstr ""
+msgstr "Täiendav profiil"
 
 msgid "YouTube Modo TV"
-msgstr ""
+msgstr "YouTube TV režiim"
 
 msgid "Adicionar"
-msgstr ""
+msgstr "Lisa"
 
 msgid "Para adicionar um WebApp, você precisa informar a Url e o Nome."
-msgstr ""
+msgstr "Veebirakenduse lisamiseks peate teatama Url ja Name."
 
 msgid "Para detectar o Nome e o Ícone você precisa informar a Url."
-msgstr ""
+msgstr "Nime ja ikooni tuvastamiseks peate teavitama Url."
 
 msgid ""
 "A Url é inválida ou a conexão falhou.<br>Tente inserir o ícone pelo botão "
 "Alterar."
 msgstr ""
+"Url on kehtetu või ühendus ebaõnnestus.<br>Proovige sisestada ikoon nupu "
+"Change abil."
 
 msgid "O WebApp foi adicionado com sucesso!"
-msgstr ""
+msgstr "Veebirakendus lisati edukalt!"
 
 msgid "Ícones encontrados"
-msgstr ""
+msgstr "Leitud ikoonid"
 
 msgid "Selecione o ícone preferido:"
-msgstr ""
+msgstr "Valige eelistatud ikoon:"
 
 msgid "Desenvolvimento"
-msgstr ""
+msgstr "Arendus"
 
 msgid "Escritório"
-msgstr ""
+msgstr "Kontor"
 
 msgid "Gráficos"
-msgstr ""
+msgstr "Graafika"
 
 msgid "Jogos"
-msgstr ""
+msgstr "Mängud"
 
 msgid "Multimídia"
-msgstr ""
+msgstr "Multimeedia"
 
 msgid "Tem certeza que deseja remover este WebApp?"
-msgstr ""
+msgstr "Kas olete kindel, et soovite selle veebirakenduse eemaldada?"
 
 msgid "Nenhum WebApp adicionado!"
-msgstr ""
+msgstr "Veebirakendust ei ole lisatud!"
 
 msgid "Navegador padrão<br>dos webapps:"
-msgstr ""
+msgstr "Vaikimisi veebirakenduste<br> brauser:"
 
 msgid "Alterar navegador"
-msgstr ""
+msgstr "Muutke brauserit"
 
 msgid "Selecione o navegador preferido:"
-msgstr ""
+msgstr "Valige oma eelistatud brauser:"
 
 msgid "WebApps Nativos"
-msgstr ""
+msgstr "Natiivsed veebirakendused"
 
 msgid "Bom dia"
-msgstr ""
+msgstr "Tere hommikust"
 
 msgid "Boa tarde"
-msgstr ""
+msgstr "Tere päevast"
 
 msgid "Boa noite"
-msgstr ""
+msgstr "Tere õhtust"
 
 msgid "Aguarde, estamos preparando para começar..."
-msgstr ""
+msgstr "Ole valmis, me oleme valmis alustama..."

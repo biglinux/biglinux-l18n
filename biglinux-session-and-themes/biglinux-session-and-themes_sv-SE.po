@@ -21,9 +21,11 @@ msgid ""
 "Configuração alterada, se estiver utilizando o navegador, reinicie-o para "
 "que a nova configuração seja aplicada."
 msgstr ""
+"Konfigurationen har ändrats, om du använder webbläsaren måste du starta om "
+"den för att den nya konfigurationen ska kunna tillämpas."
 
 msgid "Se estiver utilizando algum navegador, feche-o e abra novamente!"
-msgstr ""
+msgstr "Om du använder en webbläsare, stäng den och öppna den igen!"
 
 msgid ""
 "\n"
@@ -32,6 +34,11 @@ msgid ""
 "\n"
 "Selecione não para utilizar a configuração padrão do sistema.\n"
 msgstr ""
+"\n"
+"Den valda skrivbordskonfigurationen har redan använts på det här systemet,\n"
+"vill du återställa den konfiguration som redan har använts?\n"
+"\n"
+"Välj no för att använda systemets standardkonfiguration.\n"
 
 msgid ""
 "Configuração aplicada!\n"
@@ -40,130 +47,143 @@ msgid ""
 "para que a configuração termine de\n"
 "ser aplicada."
 msgstr ""
+"Konfigurationen tillämpas!\n"
+"\n"
+"Logga ut och logga in igen\n"
+"för att konfigurationen ska vara klar\n"
+"tillämpas."
 
 msgid "Temas"
-msgstr ""
+msgstr "Teman"
 
 msgid "Desktop"
-msgstr ""
+msgstr "Skrivbord"
 
 msgid "Ajustes"
-msgstr ""
+msgstr "Inställningar"
 
 msgid "Temas, Desktop e Ajustes"
-msgstr ""
+msgstr "Teman, skrivbord och inställningar"
 
 msgid "Desempenho do desktop"
-msgstr ""
+msgstr "Skrivbordsprestanda"
 
 msgid "Aceleração do navegador"
-msgstr ""
+msgstr "Acceleration av webbläsare"
 
 msgid "Usabilidade"
-msgstr ""
+msgstr "Användbarhet"
 
 msgid "Tema dos aplicativos"
-msgstr ""
+msgstr "Tema för ansökan"
 
 msgid "Bordas arredondadas."
-msgstr ""
+msgstr "Avrundade kanter."
 
 msgid ""
 "Esse tema possui transparências com efeitos que<br>podem tornar o sistema "
 "lento em computadores<br>antigos ou ambientes virtualizados."
 msgstr ""
+"Det här temat har transparenter med effekter som kan göra<br>systemet "
+"långsammare på gamla datorer<br>eller virtualiserade miljöer."
 
 msgid "<b>Classic</b> e <b>New</b> têm melhor desempenho."
-msgstr ""
+msgstr "<b>Classic</b> och <b>New</b> har bättre prestanda."
 
 msgid "Renderizar o desktop via software"
-msgstr ""
+msgstr "Återgivning av skrivbordet med hjälp av mjukvara"
 
 msgid "(Pode ser útil em máquina virtual ou computadores antigos)"
-msgstr ""
+msgstr "(Kan vara användbart på virtuella maskiner eller gamla datorer)"
 
 msgid "Escolher programas a serem carregados na memória durante boot"
-msgstr ""
+msgstr "Välj program som ska laddas in i minnet vid uppstart"
 
 msgid ""
 "O Preload carrega arquivos dos programas na memória, para que iniciem "
 "rapidamente. O uso excessivo causa lentidão. Escolha a opção desejada:"
 msgstr ""
+"Preload laddar in programfiler i minnet så att de startar snabbt. Överdriven "
+"användning leder till långsamma nedgångar. Välj önskat alternativ:"
 
 msgid "Automático"
-msgstr ""
+msgstr "Automatisk"
 
 msgid "Ativar"
-msgstr ""
+msgstr "Aktivera"
 
 msgid "Desativar"
-msgstr ""
+msgstr "Inaktivera"
 
 msgid "Configurações do Brave"
-msgstr ""
+msgstr "Modiga konfigurationer"
 
 msgid "Escolha a opção desejada:"
-msgstr ""
+msgstr "Välj önskat alternativ:"
 
 msgid "Remover propagandas"
-msgstr ""
+msgstr "Ta bort annonser"
 
 msgid "Suportar criptomoedas"
-msgstr ""
+msgstr "Stöd för kryptovalutor"
 
 msgid "Botões da janela no lado esquerdo"
-msgstr ""
+msgstr "Fönsterknappar på vänster sida"
 
 msgid "Rolagem do mouse invertida"
-msgstr ""
+msgstr "Inverterad musrullning"
 
 msgid "Pesquisar arquivos"
-msgstr ""
+msgstr "Sök i arkiven"
 
 msgid "Bloquear a área de trabalho"
-msgstr ""
+msgstr "Låsa skrivbordet"
 
 msgid "Tema aplicado"
-msgstr ""
+msgstr "Tillämpat tema"
 
 msgid ""
 "É preciso reiniciar a sessão para concluir a configuração. Deseja fazer "
 "agora?"
 msgstr ""
+"Du måste logga in igen för att slutföra konfigurationen. Vill du göra det "
+"nu?"
 
 msgid "Configuração do Desktop"
-msgstr ""
+msgstr "Konfigurering av skrivbord"
 
 msgid ""
 "Você já utilizou esse desktop antes, deseja  restaurar sua personalização ou "
 "utilizar a configuração original?"
 msgstr ""
+"Har du använt det här skrivbordet tidigare, vill du återställa anpassningen "
+"eller använda den ursprungliga konfigurationen?"
 
 msgid "Sim"
-msgstr ""
+msgstr "Ja"
 
 msgid "Não"
-msgstr ""
+msgstr "Ingen"
 
 msgid "Original"
-msgstr ""
+msgstr "Original"
 
 msgid "Restaurar"
-msgstr ""
+msgstr "Återställ"
 
 msgid "Desktop aplicado"
-msgstr ""
+msgstr "Skrivbord som används"
 
 msgid ""
 "Utilizando renderização por software, a qualidade das transparências está "
 "reduzida."
-msgstr ""
+msgstr "Om du använder mjukvarurendering minskar kvaliteten på transparenter."
 
 msgid "Desempenho em modo normal!"
-msgstr ""
+msgstr "Prestanda i normalt läge!"
 
 msgid "Desempenho em modo otimizado!"
-msgstr ""
+msgstr "Prestanda i förbättrat läge!"
 
 msgid "Desempenho em modo performance!"
-msgstr ""
+msgstr "Prestanda i prestandaläge!"

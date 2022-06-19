@@ -25,10 +25,10 @@ msgstr ""
 "Generated-By: pygettext.py 1.5"
 
 msgid "A Big-Store já está em uso."
-msgstr "El Gran Almacén ya está en uso."
+msgstr "El Big-Store ya está en uso."
 
 msgid "Big-Store"
-msgstr "Gran almacén"
+msgstr "Big-Store"
 
 msgid ""
 "Para os programas Snap aparecerem no menu do sistema finalize a sessão e "

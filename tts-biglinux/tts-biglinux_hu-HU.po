@@ -18,51 +18,54 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit"
 
 msgid "Configurações de texto para voz"
-msgstr ""
+msgstr "Szövegből beszédbeállítások"
 
 msgid "Vozes - Abrir BigStore"
-msgstr ""
+msgstr "Hangok - BigStore megnyitása"
 
 msgid "Voice Configuration"
-msgstr ""
+msgstr "Hang konfiguráció"
 
 msgid "Configurar voz"
-msgstr ""
+msgstr "Hang beállítása"
 
 msgid "Para falar um texto selecionado use o atalho "
-msgstr ""
+msgstr "A kiválasztott szöveg kimondásához használja a "
 
 msgid "[Alt] + [V]"
-msgstr ""
+msgstr "[Alt] + [V]"
 
 msgid ""
 "ou o ícone na sessão Utilitários no menu do sistema. Para interromper a "
 "leitura use novamene o atalho ou ícone."
 msgstr ""
+"vagy ikon a rendszermenü Segédprogramok részében. Az olvasás leállításához "
+"használja ismét a parancsikon vagy az ikon használatát."
 
 msgid "Selecione as configurações de sua preferência"
-msgstr ""
+msgstr "Válassza ki a kívánt beállításokat"
 
 msgid "Números maiores deixam a voz mais rápida, o padrão é: -25"
 msgstr ""
+"A nagyobb számok gyorsabbá teszik a hangot, az alapértelmezett érték: -25"
 
 msgid "Velocidade"
-msgstr ""
+msgstr "Sebesség"
 
 msgid "Números maiores deixam a voz mais aguda, o padrão é: -25"
-msgstr ""
+msgstr "A magasabb számok a hangot magasabbra teszik, a standard: -25"
 
 msgid "Tom"
-msgstr ""
+msgstr "Tom"
 
 msgid "O padrão é: 0."
-msgstr ""
+msgstr "Az alapértelmezett érték: 0."
 
 msgid "Volume"
-msgstr ""
+msgstr "Kötet"
 
 msgid "As vozes são otimizadas para idiomas expecíficos."
-msgstr ""
+msgstr "A hangok bizonyos nyelvekre vannak optimalizálva."
 
 msgid "Voz"
-msgstr ""
+msgstr "Hang"

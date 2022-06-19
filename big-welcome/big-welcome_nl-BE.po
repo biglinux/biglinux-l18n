@@ -19,3 +19,5 @@ msgstr ""
 
 msgid "Parabéns, você concluiu os primeiros passo para utilizar o BigLinux."
 msgstr ""
+"Gefeliciteerd, u hebt de eerste stappen naar het gebruik van BigLinux "
+"voltooid."

@@ -18,51 +18,53 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit"
 
 msgid "Configurações de texto para voz"
-msgstr ""
+msgstr "Indstillinger for tekst til tale"
 
 msgid "Vozes - Abrir BigStore"
-msgstr ""
+msgstr "Stemmer - Åbn BigStore"
 
 msgid "Voice Configuration"
-msgstr ""
+msgstr "Stemmekonfiguration"
 
 msgid "Configurar voz"
-msgstr ""
+msgstr "Konfigurere stemme"
 
 msgid "Para falar um texto selecionado use o atalho "
-msgstr ""
+msgstr "Hvis du vil tale en valgt tekst, skal du bruge genvejen "
 
 msgid "[Alt] + [V]"
-msgstr ""
+msgstr "[Alt] + [V]"
 
 msgid ""
 "ou o ícone na sessão Utilitários no menu do sistema. Para interromper a "
 "leitura use novamene o atalho ou ícone."
 msgstr ""
+"eller ikonet i afsnittet Utilities i systemmenuen. Hvis du vil stoppe "
+"læsningen, skal du bruge genvejen eller ikonet igen."
 
 msgid "Selecione as configurações de sua preferência"
-msgstr ""
+msgstr "Vælg dine foretrukne indstillinger"
 
 msgid "Números maiores deixam a voz mais rápida, o padrão é: -25"
-msgstr ""
+msgstr "Større tal gør stemmen hurtigere, standardværdien er: -25"
 
 msgid "Velocidade"
-msgstr ""
+msgstr "Hastighed"
 
 msgid "Números maiores deixam a voz mais aguda, o padrão é: -25"
-msgstr ""
+msgstr "Højere tal gør stemmen højere, standarden er: -25"
 
 msgid "Tom"
-msgstr ""
+msgstr "Tom"
 
 msgid "O padrão é: 0."
-msgstr ""
+msgstr "Standardværdien er: 0."
 
 msgid "Volume"
-msgstr ""
+msgstr "Volumen"
 
 msgid "As vozes são otimizadas para idiomas expecíficos."
-msgstr ""
+msgstr "Stemmerne er optimeret til bestemte sprog."
 
 msgid "Voz"
-msgstr ""
+msgstr "Stemme"

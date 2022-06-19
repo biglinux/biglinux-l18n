@@ -18,51 +18,53 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit"
 
 msgid "Configurações de texto para voz"
-msgstr ""
+msgstr "Налады тэксту ў голас"
 
 msgid "Vozes - Abrir BigStore"
-msgstr ""
+msgstr "Галасы - Адкрыйце BigStore"
 
 msgid "Voice Configuration"
-msgstr ""
+msgstr "Галасавая канфігурацыя"
 
 msgid "Configurar voz"
-msgstr ""
+msgstr "наладзіць голас"
 
 msgid "Para falar um texto selecionado use o atalho "
-msgstr ""
+msgstr "Каб прамаўляць вылучаны тэкст, выкарыстоўвайце цэтлік"
 
 msgid "[Alt] + [V]"
-msgstr ""
+msgstr "[Alt] + [V]"
 
 msgid ""
 "ou o ícone na sessão Utilitários no menu do sistema. Para interromper a "
 "leitura use novamene o atalho ou ícone."
 msgstr ""
+"або значок у раздзеле Утыліты сістэмнага меню. Каб спыніць чытанне, "
+"выкарыстоўвайце ярлык або значок яшчэ раз."
 
 msgid "Selecione as configurações de sua preferência"
-msgstr ""
+msgstr "Выберыце пераважныя налады"
 
 msgid "Números maiores deixam a voz mais rápida, o padrão é: -25"
-msgstr ""
+msgstr "Вялікія лічбы робяць голас хутчэйшым, па змаўчанні: -25"
 
 msgid "Velocidade"
-msgstr ""
+msgstr "Хуткасць"
 
 msgid "Números maiores deixam a voz mais aguda, o padrão é: -25"
-msgstr ""
+msgstr "Вялікія лічбы робяць голас вышэй, па змаўчанні: -25"
 
 msgid "Tom"
-msgstr ""
+msgstr "Танальнасць"
 
 msgid "O padrão é: 0."
-msgstr ""
+msgstr "Значэнне па змаўчанні: 0."
 
 msgid "Volume"
-msgstr ""
+msgstr "Аб&#39;ём"
 
 msgid "As vozes são otimizadas para idiomas expecíficos."
-msgstr ""
+msgstr "Галасы аптымізаваны для пэўных моў."
 
 msgid "Voz"
-msgstr ""
+msgstr "Голас"

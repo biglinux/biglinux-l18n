@@ -18,19 +18,19 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit"
 
 msgid "Information"
-msgstr ""
+msgstr "Πληροφορίες"
 
 msgid "License: "
-msgstr ""
+msgstr "Άδεια "
 
 msgid "Created by:"
-msgstr ""
+msgstr "Δημιουργήθηκε από:"
 
 msgid "Date:"
-msgstr ""
+msgstr "Ημερομηνία:"
 
 msgid "Code URL:"
-msgstr ""
+msgstr "Κωδικός URL:"
 
 msgid "Project URL:"
-msgstr ""
+msgstr "URL του έργου:"

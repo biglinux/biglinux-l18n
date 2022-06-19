@@ -24,68 +24,79 @@ msgid ""
 "Você também pode utilizar o gerenciador de arquivos, clicar com o botão "
 "direito no arquivo PDF, 'Abrir com' e selecionar a opção de OCR."
 msgstr ""
+"Scelga il file PDF a cui applicare l'OCR, in modo da poter cercare o copiare "
+"i testi.\n"
+"\n"
+"Può anche utilizzare il file manager, cliccare con il tasto destro del mouse "
+"sul file PDF, 'Apri con' e selezionare l'opzione OCR."
 
 msgid "NORMAL"
-msgstr ""
+msgstr "NORMALE"
 
 msgid "ECONÔMICO"
-msgstr ""
+msgstr "ECONOMICO"
 
 msgid "MAIS ECONÔMICO"
-msgstr ""
+msgstr "PIÙ ECONOMICO"
 
 msgid "ALINHAR"
-msgstr ""
+msgstr "ALLINEARE"
 
 msgid "AUTO ROTAÇÃO"
-msgstr ""
+msgstr "ROTAZIONE AUTOMATICA"
 
 msgid "ALINHAR E GIRAR AUTOMÁTICA"
-msgstr ""
+msgstr "ALLINEAMENTO E ROTAZIONE AUTOMATICI"
 
 msgid "NÃO MUDE"
-msgstr ""
+msgstr "NON CAMBIARE"
 
 msgid "ESPANHOL"
-msgstr ""
+msgstr "SPAGNOLO"
 
 msgid "INGLÊS"
-msgstr ""
+msgstr "INGLESE"
 
 msgid "PORTUGUÊS"
-msgstr ""
+msgstr "PORTOGHESE"
 
 msgid ""
 "Você pode optar por reduzir a qualidade da imagem.<br>Dessa forma você terá "
 "arquivos menores, facilitando,<br>por exemplo, enviá-los por e-mail."
 msgstr ""
+"Può scegliere di ridurre la qualità dell'immagine.<br>In questo modo avrà "
+"file più piccoli, rendendo più facile l'<br>invio via e-mail, ad esempio."
 
 msgid ""
 "Para adicionar novos idiomas, instale os complementos do tesseract no "
 "gerenciador de pacotes do sistema."
 msgstr ""
+"Per aggiungere nuove lingue, installi i componenti aggiuntivi di tesseract "
+"nel gestore dei pacchetti di sistema."
 
 msgid "Aplicar"
-msgstr ""
+msgstr "Applicare"
 
 msgid "Torne seu PDF pesquisável"
-msgstr ""
+msgstr "Renda il suo PDF ricercabile"
 
 msgid ""
 "Adicionar OCR no PDF digitalizado permitindo seleção de textos e busca:"
 msgstr ""
+"Aggiunge l'OCR al PDF scansionato, consentendo la selezione e la ricerca del "
+"testo:"
 
 msgid "OCR para PDF"
-msgstr ""
+msgstr "OCR per PDF"
 
 msgid "Arquivo"
-msgstr ""
+msgstr "File"
 
 msgid "Pasta:"
-msgstr ""
+msgstr "Cartella:"
 
 msgid "Abrir"
-msgstr ""
+msgstr "Aperto"
 
 msgid "Arquivo salvo: "
-msgstr ""
+msgstr "File salvato "

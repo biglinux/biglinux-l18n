@@ -18,10 +18,10 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit"
 
 msgid "MÓDULO: Nenhum módulo precisa ser instalado."
-msgstr ""
+msgstr "MOODUL: Moodulit ei ole vaja paigaldada."
 
 msgid "FIRMWARE: Nenhum firmware precisa ser instalado."
-msgstr ""
+msgstr "FIRMWARE: püsivara ei ole vaja paigaldada."
 
 msgid "Hardware"
-msgstr ""
+msgstr "Riistvara"

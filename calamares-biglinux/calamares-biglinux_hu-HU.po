@@ -26,9 +26,16 @@ msgid ""
 "\n"
 "Deseja prosseguir com com a instalação em modo EFI?"
 msgstr ""
+"A jelenlegi rendszerindítás EFI módot használ, azonban ezen a számítógépen "
+"nem találtam EFI partíciót, ha ezen a számítógépen már telepítve van egy "
+"másik rendszer, és azt szeretné, hogy telepítve maradjon, akkor valószínűleg "
+"meg kell változtatnia a BIOS beállítását, hogy Legacy módban, más néven BIOS "
+"módban bootoljon.\n"
+"\n"
+"Szeretné folytatni az EFI telepítését?"
 
 msgid "Instalar o sistema"
-msgstr ""
+msgstr "A rendszer telepítése"
 
 msgid ""
 "O boot atual está utilizando o modo Legacy/BIOS, porém encontrei pelo menos "
@@ -38,45 +45,51 @@ msgid ""
 "\n"
 "Deseja prosseguir com com a instalação em modo Legacy/BIOS?"
 msgstr ""
+"A jelenlegi rendszerindítás a Legacy/BIOS módot használja, azonban találtam "
+"legalább egy EFI partíciót ezen a számítógépen. A sikeres telepítéshez "
+"valószínűleg meg kell változtatnia a BIOS beállításait, hogy EFI vagy UEFI "
+"módban bootoljon.\n"
+"\n"
+"Szeretné folytatni a Legacy/BIOS telepítését?"
 
 msgid "Instalar o BigLinux"
-msgstr ""
+msgstr "A BigLinux telepítése"
 
 msgid "PADRÃO"
-msgstr ""
+msgstr "STANDARD"
 
 msgid "DESEMPENHO"
-msgstr ""
+msgstr "TELJESÍTMÉNY"
 
 msgid "COMPATIBILIDADE"
-msgstr ""
+msgstr "KOMPATIBILITÁS"
 
 msgid "Compacta os dados"
-msgstr ""
+msgstr "Az adatok tömörítése"
 
 msgid "Pontos de restauração"
-msgstr ""
+msgstr "Visszaállítási pontok"
 
 msgid "Adia a gravação dos dados"
-msgstr ""
+msgstr "Elhalasztja az adatrögzítést"
 
 msgid "Funciona com tabelas de particionamento antigas"
-msgstr ""
+msgstr "Működik a régi partíciós táblákkal"
 
 msgid "BTRFS com fsync"
-msgstr ""
+msgstr "BTRFS és fsync"
 
 msgid "BTRFS sem fsync"
-msgstr ""
+msgstr "BTRFS fsync nélkül"
 
 msgid "SELECIONAR"
-msgstr ""
+msgstr "SELECT"
 
 msgid "Instalar no HD"
-msgstr ""
+msgstr "Telepítse HD-ra"
 
 msgid "O sistema está em modo"
-msgstr ""
+msgstr "A rendszer a"
 
 msgid "e com o kernel"
-msgstr ""
+msgstr "és a maggal"

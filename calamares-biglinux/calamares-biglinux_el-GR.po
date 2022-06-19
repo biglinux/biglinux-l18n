@@ -26,9 +26,16 @@ msgid ""
 "\n"
 "Deseja prosseguir com com a instalação em modo EFI?"
 msgstr ""
+"Η τρέχουσα εκκίνηση χρησιμοποιεί τη λειτουργία EFI, ωστόσο δεν βρήκα "
+"κατατμήσεις EFI σε αυτόν τον υπολογιστή, αν αυτός ο υπολογιστής έχει ήδη "
+"εγκαταστήσει ένα άλλο σύστημα και θέλετε να παραμείνει εγκατεστημένο, θα "
+"πρέπει πιθανώς να αλλάξετε τη ρύθμιση στο BIOS για εκκίνηση σε λειτουργία "
+"Legacy, που ονομάζεται επίσης λειτουργία BIOS.\n"
+"\n"
+"Θέλετε να προχωρήσετε με την εγκατάσταση EFI"
 
 msgid "Instalar o sistema"
-msgstr ""
+msgstr "Εγκατάσταση του συστήματος"
 
 msgid ""
 "O boot atual está utilizando o modo Legacy/BIOS, porém encontrei pelo menos "
@@ -38,45 +45,51 @@ msgid ""
 "\n"
 "Deseja prosseguir com com a instalação em modo Legacy/BIOS?"
 msgstr ""
+"Η τρέχουσα εκκίνηση χρησιμοποιεί τη λειτουργία Legacy/BIOS, ωστόσο βρήκα "
+"τουλάχιστον μία κατάτμηση EFI σε αυτόν τον υπολογιστή. Για μια επιτυχημένη "
+"εγκατάσταση, πιθανόν να χρειαστεί να αλλάξετε τη ρύθμιση στο BIOS για "
+"εκκίνηση σε λειτουργία EFI ή UEFI.\n"
+"\n"
+"Θέλετε να προχωρήσετε με την εγκατάσταση Legacy/BIOS"
 
 msgid "Instalar o BigLinux"
-msgstr ""
+msgstr "Εγκαθιστώντας το BigLinux"
 
 msgid "PADRÃO"
-msgstr ""
+msgstr "STANDARD"
 
 msgid "DESEMPENHO"
-msgstr ""
+msgstr "ΑΠΟΔΟΣΗ"
 
 msgid "COMPATIBILIDADE"
-msgstr ""
+msgstr "ΣΥΜΒΑΤΟΤΗΤΑ"
 
 msgid "Compacta os dados"
-msgstr ""
+msgstr "Συμπίεση των δεδομένων"
 
 msgid "Pontos de restauração"
-msgstr ""
+msgstr "Σημεία επαναφοράς"
 
 msgid "Adia a gravação dos dados"
-msgstr ""
+msgstr "Αναβάλλει την καταγραφή δεδομένων"
 
 msgid "Funciona com tabelas de particionamento antigas"
-msgstr ""
+msgstr "Λειτουργεί με παλιούς πίνακες κατατμήσεων"
 
 msgid "BTRFS com fsync"
-msgstr ""
+msgstr "BTRFS με fsync"
 
 msgid "BTRFS sem fsync"
-msgstr ""
+msgstr "BTRFS χωρίς fsync"
 
 msgid "SELECIONAR"
-msgstr ""
+msgstr "SELECT"
 
 msgid "Instalar no HD"
-msgstr ""
+msgstr "Εγκατάσταση σε HD"
 
 msgid "O sistema está em modo"
-msgstr ""
+msgstr "Το σύστημα είναι σε"
 
 msgid "e com o kernel"
-msgstr ""
+msgstr "και με τον πυρήνα"

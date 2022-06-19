@@ -24,68 +24,78 @@ msgid ""
 "Você também pode utilizar o gerenciador de arquivos, clicar com o botão "
 "direito no arquivo PDF, 'Abrir com' e selecionar a opção de OCR."
 msgstr ""
+"Vyberte soubor PDF, na který chcete použít OCR, abyste mohli vyhledávat nebo "
+"kopírovat texty.\n"
+"\n"
+"Můžete také použít správce souborů, kliknout pravým tlačítkem myši na soubor "
+"PDF, \"Otevřít pomocí\" a vybrat možnost OCR."
 
 msgid "NORMAL"
-msgstr ""
+msgstr "NORMÁLNÍ"
 
 msgid "ECONÔMICO"
-msgstr ""
+msgstr "EKONOMIKA"
 
 msgid "MAIS ECONÔMICO"
-msgstr ""
+msgstr "VÍCE EKONOMIKY"
 
 msgid "ALINHAR"
-msgstr ""
+msgstr "ALIGN"
 
 msgid "AUTO ROTAÇÃO"
-msgstr ""
+msgstr "AUTOMATICKÁ ROTACE"
 
 msgid "ALINHAR E GIRAR AUTOMÁTICA"
-msgstr ""
+msgstr "AUTOMATICKÉ ZAROVNÁNÍ A OTOČENÍ"
 
 msgid "NÃO MUDE"
-msgstr ""
+msgstr "NEMĚNIT"
 
 msgid "ESPANHOL"
-msgstr ""
+msgstr "ŠPANĚLSKÝ"
 
 msgid "INGLÊS"
-msgstr ""
+msgstr "ANGLIČTINA"
 
 msgid "PORTUGUÊS"
-msgstr ""
+msgstr "PORTUGALSKO"
 
 msgid ""
 "Você pode optar por reduzir a qualidade da imagem.<br>Dessa forma você terá "
 "arquivos menores, facilitando,<br>por exemplo, enviá-los por e-mail."
 msgstr ""
+"Můžete snížit kvalitu obrazu.<br>Tímto způsobem získáte menší soubory, které "
+"lze snáze<br>odeslat například e-mailem."
 
 msgid ""
 "Para adicionar novos idiomas, instale os complementos do tesseract no "
 "gerenciador de pacotes do sistema."
 msgstr ""
+"Chcete-li přidat nové jazyky, nainstalujte doplňky tesseract ve správci "
+"systémových balíčků."
 
 msgid "Aplicar"
-msgstr ""
+msgstr "Použít"
 
 msgid "Torne seu PDF pesquisável"
-msgstr ""
+msgstr "Zpřístupněte své PDF soubory pro vyhledávání"
 
 msgid ""
 "Adicionar OCR no PDF digitalizado permitindo seleção de textos e busca:"
 msgstr ""
+"Přidání OCR do naskenovaného PDF, které umožňuje výběr textu a vyhledávání:"
 
 msgid "OCR para PDF"
-msgstr ""
+msgstr "OCR pro PDF"
 
 msgid "Arquivo"
-msgstr ""
+msgstr "Soubor"
 
 msgid "Pasta:"
-msgstr ""
+msgstr "Složka:"
 
 msgid "Abrir"
-msgstr ""
+msgstr "Otevřít"
 
 msgid "Arquivo salvo: "
-msgstr ""
+msgstr "Uložený soubor "

@@ -85,7 +85,7 @@ msgid ""
 "Adicionar OCR no PDF digitalizado permitindo seleção de textos e busca:"
 msgstr ""
 "Ajoutez l'OCR au PDF numérisé pour permettre la sélection et la recherche de "
-"texte :"
+"texte:"
 
 msgid "OCR para PDF"
 msgstr "OCR pour PDF"

@@ -26,9 +26,16 @@ msgid ""
 "\n"
 "Deseja prosseguir com com a instalação em modo EFI?"
 msgstr ""
+"Den nuvarande uppstarten använder EFI-läge, men jag hittade inga EFI-"
+"partitioner på den här datorn.Om det redan finns ett annat system "
+"installerat på den här datorn och du vill att det ska förbli installerat, "
+"måste du förmodligen ändra inställningen i BIOS för att starta upp i Legacy-"
+"läge, även kallat BIOS-läge.\n"
+"\n"
+"Vill du fortsätta med EFI-installationen?"
 
 msgid "Instalar o sistema"
-msgstr ""
+msgstr "Installation av systemet"
 
 msgid ""
 "O boot atual está utilizando o modo Legacy/BIOS, porém encontrei pelo menos "
@@ -38,45 +45,51 @@ msgid ""
 "\n"
 "Deseja prosseguir com com a instalação em modo Legacy/BIOS?"
 msgstr ""
+"Den aktuella uppstarten sker i Legacy/BIOS-läge, men jag hittade minst en "
+"EFI-partition på datorn. För att installationen ska lyckas måste du "
+"förmodligen ändra inställningen i BIOS för att starta i EFI- eller UEFI-läge."
+"\n"
+"\n"
+"Vill du fortsätta med installationen av Legacy/BIOS?"
 
 msgid "Instalar o BigLinux"
-msgstr ""
+msgstr "Installera BigLinux"
 
 msgid "PADRÃO"
-msgstr ""
+msgstr "STANDARD"
 
 msgid "DESEMPENHO"
-msgstr ""
+msgstr "PRESTANDA"
 
 msgid "COMPATIBILIDADE"
-msgstr ""
+msgstr "KOMPATIBILITET"
 
 msgid "Compacta os dados"
-msgstr ""
+msgstr "Komprimera uppgifterna"
 
 msgid "Pontos de restauração"
-msgstr ""
+msgstr "Återställningspunkter"
 
 msgid "Adia a gravação dos dados"
-msgstr ""
+msgstr "Uppskjuter registreringen av uppgifter"
 
 msgid "Funciona com tabelas de particionamento antigas"
-msgstr ""
+msgstr "Fungerar med gamla partitionstabeller"
 
 msgid "BTRFS com fsync"
-msgstr ""
+msgstr "BTRFS med fsync"
 
 msgid "BTRFS sem fsync"
-msgstr ""
+msgstr "BTRFS utan fsync"
 
 msgid "SELECIONAR"
-msgstr ""
+msgstr "VÄLJ"
 
 msgid "Instalar no HD"
-msgstr ""
+msgstr "Installera på HD"
 
 msgid "O sistema está em modo"
-msgstr ""
+msgstr "Systemet är i"
 
 msgid "e com o kernel"
-msgstr ""
+msgstr "och med kärnan"

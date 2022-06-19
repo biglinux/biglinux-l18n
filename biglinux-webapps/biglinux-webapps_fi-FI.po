@@ -18,126 +18,128 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit"
 
 msgid "Selecionar imagem"
-msgstr ""
+msgstr "Valitse kuva"
 
 msgid "Adicionar WebApps"
-msgstr ""
+msgstr "Lisää WebApps"
 
 msgid "WebApps Adicionados"
-msgstr ""
+msgstr "WebApps lisätty"
 
 msgid "WebApps BigLinux"
-msgstr ""
+msgstr "WebApps BigLinux"
 
 msgid "Url:"
-msgstr ""
+msgstr "Url:"
 
 msgid "Detectar Nome e Ícone"
-msgstr ""
+msgstr "Tunnista nimi ja kuvake"
 
 msgid "Nome:"
-msgstr ""
+msgstr "Nimi:"
 
 msgid "Ícone:"
-msgstr ""
+msgstr "Kuvake:"
 
 msgid "Alterar"
-msgstr ""
+msgstr "Muuta"
 
 msgid "Navegador:"
-msgstr ""
+msgstr "Navigaattori:"
 
 msgid "Categoria:"
-msgstr ""
+msgstr "Kategoria:"
 
 msgid "DESENVOLVIMENTO"
-msgstr ""
+msgstr "KEHITYS"
 
 msgid "ESCRITÓRIO"
-msgstr ""
+msgstr "TOIMISTO"
 
 msgid "GRÁFICOS"
-msgstr ""
+msgstr "GRAFIIKKA"
 
 msgid "JOGOS"
-msgstr ""
+msgstr "PELIT"
 
 msgid "MULTIMÍDIA"
-msgstr ""
+msgstr "MULTIMEDIA"
 
 msgid "Criar atalho na Área de Trabalho"
-msgstr ""
+msgstr "Luo pikakuvake työpöydälle"
 
 msgid "Perfil adicional"
-msgstr ""
+msgstr "Lisäprofiili"
 
 msgid "YouTube Modo TV"
-msgstr ""
+msgstr "YouTube TV-tila"
 
 msgid "Adicionar"
-msgstr ""
+msgstr "Lisää"
 
 msgid "Para adicionar um WebApp, você precisa informar a Url e o Nome."
-msgstr ""
+msgstr "WebAppin lisäämiseksi sinun on ilmoitettava Url ja Name."
 
 msgid "Para detectar o Nome e o Ícone você precisa informar a Url."
-msgstr ""
+msgstr "Havaita nimi ja kuvake sinun täytyy ilmoittaa Url."
 
 msgid ""
 "A Url é inválida ou a conexão falhou.<br>Tente inserir o ícone pelo botão "
 "Alterar."
 msgstr ""
+"Url on virheellinen tai yhteys epäonnistui.<br>Yritä lisätä kuvake Muuta-"
+"painikkeella."
 
 msgid "O WebApp foi adicionado com sucesso!"
-msgstr ""
+msgstr "WebApp lisättiin onnistuneesti!"
 
 msgid "Ícones encontrados"
-msgstr ""
+msgstr "Löydetyt kuvakkeet"
 
 msgid "Selecione o ícone preferido:"
-msgstr ""
+msgstr "Valitse haluamasi kuvake:"
 
 msgid "Desenvolvimento"
-msgstr ""
+msgstr "Kehitys"
 
 msgid "Escritório"
-msgstr ""
+msgstr "Toimisto"
 
 msgid "Gráficos"
-msgstr ""
+msgstr "Grafiikka"
 
 msgid "Jogos"
-msgstr ""
+msgstr "Pelit"
 
 msgid "Multimídia"
-msgstr ""
+msgstr "Multimedia"
 
 msgid "Tem certeza que deseja remover este WebApp?"
-msgstr ""
+msgstr "Haluatko varmasti poistaa tämän verkkosovelluksen?"
 
 msgid "Nenhum WebApp adicionado!"
-msgstr ""
+msgstr "WebAppia ei ole lisätty!"
 
 msgid "Navegador padrão<br>dos webapps:"
-msgstr ""
+msgstr "Verkkosovellusten<br>oletusselain:"
 
 msgid "Alterar navegador"
-msgstr ""
+msgstr "Vaihda selainta"
 
 msgid "Selecione o navegador preferido:"
-msgstr ""
+msgstr "Valitse haluamasi selain:"
 
 msgid "WebApps Nativos"
-msgstr ""
+msgstr "Natiivit verkkosovellukset"
 
 msgid "Bom dia"
-msgstr ""
+msgstr "Hyvää huomenta"
 
 msgid "Boa tarde"
-msgstr ""
+msgstr "Hyvää iltapäivää"
 
 msgid "Boa noite"
-msgstr ""
+msgstr "Hyvää iltaa"
 
 msgid "Aguarde, estamos preparando para começar..."
-msgstr ""
+msgstr "Valmistautukaa, olemme valmiina aloittamaan..."

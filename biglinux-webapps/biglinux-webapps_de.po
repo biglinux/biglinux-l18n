@@ -51,31 +51,31 @@ msgid "Categoria:"
 msgstr "Kategorie:"
 
 msgid "DESENVOLVIMENTO"
-msgstr ""
+msgstr "DESENVOLVIMENTO"
 
 msgid "ESCRITÓRIO"
-msgstr ""
+msgstr "BÜRO"
 
 msgid "GRÁFICOS"
-msgstr ""
+msgstr "GRAFIK"
 
 msgid "JOGOS"
-msgstr ""
+msgstr "SPIELE"
 
 msgid "MULTIMÍDIA"
-msgstr ""
+msgstr "MULTIMEDIA"
 
 msgid "Criar atalho na Área de Trabalho"
-msgstr ""
+msgstr "Desktopverknüpfung erstellen"
 
 msgid "Perfil adicional"
-msgstr ""
+msgstr "Zusätzliches profil"
 
 msgid "YouTube Modo TV"
-msgstr ""
+msgstr "YouTube TV-Modus"
 
 msgid "Adicionar"
-msgstr ""
+msgstr "Hinzufügen"
 
 msgid "Para adicionar um WebApp, você precisa informar a Url e o Nome."
 msgstr ""
@@ -88,15 +88,17 @@ msgid ""
 "A Url é inválida ou a conexão falhou.<br>Tente inserir o ícone pelo botão "
 "Alterar."
 msgstr ""
+"Die URL ist ungültig oder die Verbindung ist fehlgeschlagen.<br>Versuchen "
+"Sie, das Symbol über die Schaltfläche „Ändern“ einzugeben."
 
 msgid "O WebApp foi adicionado com sucesso!"
-msgstr ""
+msgstr "Die WebApp wurde erfolgreich hinzugefügt!"
 
 msgid "Ícones encontrados"
-msgstr ""
+msgstr "Ikonen gefunden"
 
 msgid "Selecione o ícone preferido:"
-msgstr ""
+msgstr "Wählen Sie Ihr bevorzugtes Symbol:"
 
 msgid "Desenvolvimento"
 msgstr "Entwicklung"
@@ -114,31 +116,31 @@ msgid "Multimídia"
 msgstr "Multimedia"
 
 msgid "Tem certeza que deseja remover este WebApp?"
-msgstr ""
+msgstr "Möchten Sie diese WebApp wirklich entfernen?"
 
 msgid "Nenhum WebApp adicionado!"
-msgstr ""
+msgstr "Keine WebApp hinzugefügt!"
 
 msgid "Navegador padrão<br>dos webapps:"
-msgstr ""
+msgstr "Standardbrowser<br>von Webapps:"
 
 msgid "Alterar navegador"
-msgstr ""
+msgstr "Browser wechseln"
 
 msgid "Selecione o navegador preferido:"
-msgstr ""
+msgstr "Wählen Sie Ihren bevorzugten Browser:"
 
 msgid "WebApps Nativos"
-msgstr ""
+msgstr "Native WebApps"
 
 msgid "Bom dia"
-msgstr ""
+msgstr "Guten Morgen"
 
 msgid "Boa tarde"
-msgstr ""
+msgstr "Guten Nachmittag"
 
 msgid "Boa noite"
-msgstr ""
+msgstr "Gute Nacht"
 
 msgid "Aguarde, estamos preparando para começar..."
-msgstr ""
+msgstr "Moment, wir bereiten uns auf den Start vor..."

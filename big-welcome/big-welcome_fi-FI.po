@@ -19,3 +19,4 @@ msgstr ""
 
 msgid "Parabéns, você concluiu os primeiros passo para utilizar o BigLinux."
 msgstr ""
+"Onneksi olkoon, olet suorittanut BigLinuxin käytön ensimmäiset vaiheet."

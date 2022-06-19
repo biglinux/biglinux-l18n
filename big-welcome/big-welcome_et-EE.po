@@ -18,4 +18,4 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit"
 
 msgid "Parabéns, você concluiu os primeiros passo para utilizar o BigLinux."
-msgstr ""
+msgstr "Palju õnne, olete läbinud esimesed sammud BigLinuxi kasutamiseks."

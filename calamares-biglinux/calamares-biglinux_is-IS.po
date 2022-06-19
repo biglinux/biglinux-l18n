@@ -26,9 +26,15 @@ msgid ""
 "\n"
 "Deseja prosseguir com com a instalação em modo EFI?"
 msgstr ""
+"Núverandi stígvél er að nota EFI ham, en ég hef ekki fundið neina EFI "
+"skipting á þessari tölvu, ef þessi tölva hefur þegar annað kerfi uppsett og "
+"þú ætlar að það verði áfram uppsett, verður þú líklega að breyta stillingum "
+"í BIOS til að ræsa í Legacy ham, einnig kallað BIOS ham.\n"
+"\n"
+"Viltu halda áfram með uppsetningu í EFI ham?"
 
 msgid "Instalar o sistema"
-msgstr ""
+msgstr "Setja upp kerfið"
 
 msgid ""
 "O boot atual está utilizando o modo Legacy/BIOS, porém encontrei pelo menos "
@@ -38,45 +44,50 @@ msgid ""
 "\n"
 "Deseja prosseguir com com a instalação em modo Legacy/BIOS?"
 msgstr ""
+"Núverandi stígvél er að nota Legacy/BIOS ham, en ég fann að minnsta kosti "
+"einn EFI skipting á þessari tölvu. Til að uppsetningin nái árangri þarftu "
+"líklega að breyta stillingum í BIOS til að ræsa í EFI eða UEFI ham.\n"
+"\n"
+"Viltu halda áfram með uppsetningu í Legacy/BIOS ham?"
 
 msgid "Instalar o BigLinux"
-msgstr ""
+msgstr "Setja upp BigLinux"
 
 msgid "PADRÃO"
-msgstr ""
+msgstr "STAÐALL"
 
 msgid "DESEMPENHO"
-msgstr ""
+msgstr "ÁRANGUR"
 
 msgid "COMPATIBILIDADE"
-msgstr ""
+msgstr "EINDRÆGNI"
 
 msgid "Compacta os dados"
-msgstr ""
+msgstr "Þjappa gögnum"
 
 msgid "Pontos de restauração"
-msgstr ""
+msgstr "Viðgerðir stig"
 
 msgid "Adia a gravação dos dados"
-msgstr ""
+msgstr "Fresta upptöku gagna"
 
 msgid "Funciona com tabelas de particionamento antigas"
-msgstr ""
+msgstr "Virkar með gömlum skiptingartöflum"
 
 msgid "BTRFS com fsync"
-msgstr ""
+msgstr "BTRFS með fsync"
 
 msgid "BTRFS sem fsync"
-msgstr ""
+msgstr "BTRFS án fsync"
 
 msgid "SELECIONAR"
-msgstr ""
+msgstr "VELDU"
 
 msgid "Instalar no HD"
-msgstr ""
+msgstr "Setja upp á HD"
 
 msgid "O sistema está em modo"
-msgstr ""
+msgstr "Kerfið er í ham"
 
 msgid "e com o kernel"
-msgstr ""
+msgstr "og með kjarnanum"

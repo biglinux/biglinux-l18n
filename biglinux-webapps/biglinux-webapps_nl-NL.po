@@ -18,126 +18,129 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit"
 
 msgid "Selecionar imagem"
-msgstr ""
+msgstr "Beeld kiezen"
 
 msgid "Adicionar WebApps"
-msgstr ""
+msgstr "WebApps toevoegen"
 
 msgid "WebApps Adicionados"
-msgstr ""
+msgstr "WebApps toegevoegd"
 
 msgid "WebApps BigLinux"
-msgstr ""
+msgstr "WebApps BigLinux"
 
 msgid "Url:"
-msgstr ""
+msgstr "Url:"
 
 msgid "Detectar Nome e Ícone"
-msgstr ""
+msgstr "Detecteer naam en pictogram"
 
 msgid "Nome:"
-msgstr ""
+msgstr "Naam:"
 
 msgid "Ícone:"
-msgstr ""
+msgstr "Icoon:"
 
 msgid "Alterar"
-msgstr ""
+msgstr "Veranderen"
 
 msgid "Navegador:"
-msgstr ""
+msgstr "Navigator:"
 
 msgid "Categoria:"
-msgstr ""
+msgstr "Categorie:"
 
 msgid "DESENVOLVIMENTO"
-msgstr ""
+msgstr "ONTWIKKELING"
 
 msgid "ESCRITÓRIO"
-msgstr ""
+msgstr "KANTOOR"
 
 msgid "GRÁFICOS"
-msgstr ""
+msgstr "GRAFIEK"
 
 msgid "JOGOS"
-msgstr ""
+msgstr "SPELLEN"
 
 msgid "MULTIMÍDIA"
-msgstr ""
+msgstr "MULTIMEDIA"
 
 msgid "Criar atalho na Área de Trabalho"
-msgstr ""
+msgstr "Snelkoppeling op het bureaublad maken"
 
 msgid "Perfil adicional"
-msgstr ""
+msgstr "Extra profiel"
 
 msgid "YouTube Modo TV"
-msgstr ""
+msgstr "YouTube TV-modus"
 
 msgid "Adicionar"
-msgstr ""
+msgstr "Toevoegen"
 
 msgid "Para adicionar um WebApp, você precisa informar a Url e o Nome."
-msgstr ""
+msgstr "Om een WebApp toe te voegen, moet u de Url en de Name doorgeven."
 
 msgid "Para detectar o Nome e o Ícone você precisa informar a Url."
 msgstr ""
+"Om de Naam en de Icoon op te sporen moet u de Url op de hoogte brengen."
 
 msgid ""
 "A Url é inválida ou a conexão falhou.<br>Tente inserir o ícone pelo botão "
 "Alterar."
 msgstr ""
+"De Url is ongeldig of de verbinding is mislukt.<br>Probeer het pictogram in "
+"te voegen met de knop Wijzigen."
 
 msgid "O WebApp foi adicionado com sucesso!"
-msgstr ""
+msgstr "De WebApp is met succes toegevoegd!"
 
 msgid "Ícones encontrados"
-msgstr ""
+msgstr "Gevonden pictogrammen"
 
 msgid "Selecione o ícone preferido:"
-msgstr ""
+msgstr "Kies het gewenste pictogram:"
 
 msgid "Desenvolvimento"
-msgstr ""
+msgstr "Ontwikkeling"
 
 msgid "Escritório"
-msgstr ""
+msgstr "Kantoor"
 
 msgid "Gráficos"
-msgstr ""
+msgstr "Graphics"
 
 msgid "Jogos"
-msgstr ""
+msgstr "Spelletjes"
 
 msgid "Multimídia"
-msgstr ""
+msgstr "Multimedia"
 
 msgid "Tem certeza que deseja remover este WebApp?"
-msgstr ""
+msgstr "Weet u zeker dat u deze WebApp wilt verwijderen?"
 
 msgid "Nenhum WebApp adicionado!"
-msgstr ""
+msgstr "Geen WebApp toegevoegd!"
 
 msgid "Navegador padrão<br>dos webapps:"
-msgstr ""
+msgstr "Standaard webapps<br> browser:"
 
 msgid "Alterar navegador"
-msgstr ""
+msgstr "Verander browser"
 
 msgid "Selecione o navegador preferido:"
-msgstr ""
+msgstr "Kies de browser van uw voorkeur:"
 
 msgid "WebApps Nativos"
-msgstr ""
+msgstr "Native WebApps"
 
 msgid "Bom dia"
-msgstr ""
+msgstr "Goede morgen"
 
 msgid "Boa tarde"
-msgstr ""
+msgstr "Goedemiddag"
 
 msgid "Boa noite"
-msgstr ""
+msgstr "Goedenavond"
 
 msgid "Aguarde, estamos preparando para começar..."
-msgstr ""
+msgstr "Stand by, we maken ons klaar om te beginnen..."

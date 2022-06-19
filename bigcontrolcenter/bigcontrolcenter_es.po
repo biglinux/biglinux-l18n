@@ -123,7 +123,7 @@ msgstr ""
 "las noticias!"
 
 msgid "Big Store"
-msgstr "Gran almacén"
+msgstr "Big Store"
 
 msgid "Web Apps"
 msgstr "Aplicaciones web"

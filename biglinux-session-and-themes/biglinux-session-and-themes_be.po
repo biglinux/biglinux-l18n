@@ -1,0 +1,186 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the biglinux-session-and-themes package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: biglinux-session-and-themes\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-06-08 21:46-0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: be\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit"
+
+msgid ""
+"Configuração alterada, se estiver utilizando o navegador, reinicie-o para "
+"que a nova configuração seja aplicada."
+msgstr ""
+"Зменена канфігурацыя, калі карыстаецеся браўзер, перазапусціце яго, каб "
+"новая канфігурацыя ўступіла ў сілу."
+
+msgid "Se estiver utilizando algum navegador, feche-o e abra novamente!"
+msgstr "Калі вы выкарыстоўваеце браўзер, зачыніце яго і адкрыйце зноў!"
+
+msgid ""
+"\n"
+"A configuração de desktop selecionada já foi utilizada nesse sistema,\n"
+"deseja restaurar a configuração que já foi utilizada?\n"
+"\n"
+"Selecione não para utilizar a configuração padrão do sistema.\n"
+msgstr ""
+"Выбраная канфігурацыя працоўнага стала ўжо выкарыстоўвалася ў гэтай сістэме. "
+"Вы хочаце аднавіць канфігурацыю, якая ўжо выкарыстоўвалася? \n"
+"\n"
+"Выберыце «Не», каб выкарыстоўваць канфігурацыю сістэмы па змаўчанні."
+
+msgid ""
+"Configuração aplicada!\n"
+"\n"
+"Finalize a sessão e faça login novamente\n"
+"para que a configuração termine de\n"
+"ser aplicada."
+msgstr ""
+"Канфігурацыя прыменена! Выйдзіце з сістэмы і ўвайдзіце зноў, каб "
+"канфігурацыя завяршылася прымяненне."
+
+msgid "Temas"
+msgstr "тэмы"
+
+msgid "Desktop"
+msgstr "Працоўны стол"
+
+msgid "Ajustes"
+msgstr "Налады"
+
+msgid "Temas, Desktop e Ajustes"
+msgstr "Тэмы, працоўны стол і налады"
+
+msgid "Desempenho do desktop"
+msgstr "прадукцыйнасць працоўнага стала"
+
+msgid "Aceleração do navegador"
+msgstr "паскарэнне браўзэра"
+
+msgid "Usabilidade"
+msgstr "Зручнасць выкарыстання"
+
+msgid "Tema dos aplicativos"
+msgstr "Тэма прыкладання"
+
+msgid "Bordas arredondadas."
+msgstr "Закругленыя краю."
+
+msgid ""
+"Esse tema possui transparências com efeitos que<br>podem tornar o sistema "
+"lento em computadores<br>antigos ou ambientes virtualizados."
+msgstr ""
+"Гэтая тэма мае транспаранты з такімі эфектамі<br> можа запаволіць сістэму на "
+"кампутарах<br> старыя або віртуалізаваныя асяроддзя."
+
+msgid "<b>Classic</b> e <b>New</b> têm melhor desempenho."
+msgstr "<b>Класіка</b> і <b>новае</b> працуюць лепш."
+
+msgid "Renderizar o desktop via software"
+msgstr "Рэндэрынг працоўнага стала праз праграмнае забеспячэнне"
+
+msgid "(Pode ser útil em máquina virtual ou computadores antigos)"
+msgstr "(Можа быць карысным на віртуальнай машыне або старых кампутарах)"
+
+msgid "Escolher programas a serem carregados na memória durante boot"
+msgstr "Выберыце праграмы для загрузкі ў памяць пры загрузцы"
+
+msgid ""
+"O Preload carrega arquivos dos programas na memória, para que iniciem "
+"rapidamente. O uso excessivo causa lentidão. Escolha a opção desejada:"
+msgstr ""
+"Папярэдняя загрузка загружае файлы праграмы ў памяць, каб яны хутка "
+"запускаліся. Празмернае выкарыстанне выклікае запаволенне. Выберыце патрэбны "
+"варыянт:"
+
+msgid "Automático"
+msgstr "Аўтаматычная"
+
+msgid "Ativar"
+msgstr "актываваць"
+
+msgid "Desativar"
+msgstr "адключыць"
+
+msgid "Configurações do Brave"
+msgstr "Адважныя налады"
+
+msgid "Escolha a opção desejada:"
+msgstr "Выберыце патрэбны варыянт:"
+
+msgid "Remover propagandas"
+msgstr "выдаліць рэкламу"
+
+msgid "Suportar criptomoedas"
+msgstr "падтрымка криптовалют"
+
+msgid "Botões da janela no lado esquerdo"
+msgstr "Кнопкі акон з левага боку"
+
+msgid "Rolagem do mouse invertida"
+msgstr "Перавернутая пракрутка мышы"
+
+msgid "Pesquisar arquivos"
+msgstr "пошук файлаў"
+
+msgid "Bloquear a área de trabalho"
+msgstr "Блакаванне працоўнай прасторы"
+
+msgid "Tema aplicado"
+msgstr "Прыкладная тэма"
+
+msgid ""
+"É preciso reiniciar a sessão para concluir a configuração. Deseja fazer "
+"agora?"
+msgstr ""
+"Вы павінны перазапусціць сеанс, каб завяршыць канфігурацыю. Вы хочаце "
+"зрабіць гэта зараз?"
+
+msgid "Configuração do Desktop"
+msgstr "Канфігурацыя працоўнага стала"
+
+msgid ""
+"Você já utilizou esse desktop antes, deseja  restaurar sua personalização ou "
+"utilizar a configuração original?"
+msgstr ""
+"Вы выкарыстоўвалі гэты працоўны стол раней, хочаце аднавіць свае налады або "
+"выкарыстоўваць зыходную канфігурацыю?"
+
+msgid "Sim"
+msgstr "Так"
+
+msgid "Não"
+msgstr "не"
+
+msgid "Original"
+msgstr "Арыгінал"
+
+msgid "Restaurar"
+msgstr "Для аднаўлення"
+
+msgid "Desktop aplicado"
+msgstr "Прыменены працоўны стол"
+
+msgid ""
+"Utilizando renderização por software, a qualidade das transparências está "
+"reduzida."
+msgstr "З дапамогай праграмнага рэндэрынгу якасць транспарантаў зніжаецца."
+
+msgid "Desempenho em modo normal!"
+msgstr "Прадукцыйнасць у звычайным рэжыме!"
+
+msgid "Desempenho em modo otimizado!"
+msgstr "Прадукцыйнасць у аптымізаваным рэжыме!"
+
+msgid "Desempenho em modo performance!"
+msgstr "Прадукцыйнасць у рэжыме прадукцыйнасці!"

@@ -26,9 +26,14 @@ msgid ""
 "\n"
 "Deseja prosseguir com com a instalação em modo EFI?"
 msgstr ""
+"האתחול הנוכחי משתמש במצב EFI, אך לא מצאתי מחיצות EFI במחשב זה, אם במחשב זה "
+"כבר מותקנת מערכת אחרת ואתה מתכוון שהיא תישאר מותקנת, סביר להניח שתצטרך לשנות "
+"את התצורה ב- BIOS כדי לאתחל למצב Legacy, המכונה גם מצב BIOS.\n"
+"\n"
+"האם ברצונך להמשיך בהתקנה במצב EFI?"
 
 msgid "Instalar o sistema"
-msgstr ""
+msgstr "התקן את המערכת"
 
 msgid ""
 "O boot atual está utilizando o modo Legacy/BIOS, porém encontrei pelo menos "
@@ -38,45 +43,50 @@ msgid ""
 "\n"
 "Deseja prosseguir com com a instalação em modo Legacy/BIOS?"
 msgstr ""
+"האתחול הנוכחי משתמש במצב Legacy/BIOS, אבל מצאתי לפחות מחיצה אחת EFI במחשב זה."
+" כדי שההתקנה תצליח, סביר להניח שתצטרך לשנות את התצורה ב- BIOS כדי לאתחל במצב "
+"EFI או UEFI.\n"
+"\n"
+"האם ברצונך להמשיך בהתקנה במצב Legacy/BIOS?"
 
 msgid "Instalar o BigLinux"
-msgstr ""
+msgstr "התקן את ביגלינוקס"
 
 msgid "PADRÃO"
-msgstr ""
+msgstr "סטנדרטי"
 
 msgid "DESEMPENHO"
-msgstr ""
+msgstr "ביצועים"
 
 msgid "COMPATIBILIDADE"
-msgstr ""
+msgstr "תאימות"
 
 msgid "Compacta os dados"
-msgstr ""
+msgstr "דחוס את הנתונים"
 
 msgid "Pontos de restauração"
-msgstr ""
+msgstr "נקודות שיקום"
 
 msgid "Adia a gravação dos dados"
-msgstr ""
+msgstr "לדחות את ההקלטה של הנתונים"
 
 msgid "Funciona com tabelas de particionamento antigas"
-msgstr ""
+msgstr "עובד עם שולחנות חלוקה ישנים"
 
 msgid "BTRFS com fsync"
-msgstr ""
+msgstr "BTRFS עם fsync"
 
 msgid "BTRFS sem fsync"
-msgstr ""
+msgstr "BTRFS ללא fsync"
 
 msgid "SELECIONAR"
-msgstr ""
+msgstr "בחר"
 
 msgid "Instalar no HD"
-msgstr ""
+msgstr "התקן ב- HD"
 
 msgid "O sistema está em modo"
-msgstr ""
+msgstr "המערכת נמצאת במצב"
 
 msgid "e com o kernel"
-msgstr ""
+msgstr "ועם הקרנל"

@@ -24,68 +24,77 @@ msgid ""
 "Você também pode utilizar o gerenciador de arquivos, clicar com o botão "
 "direito no arquivo PDF, 'Abrir com' e selecionar a opção de OCR."
 msgstr ""
+"Vælg den PDF-fil, som du vil anvende OCR på, så du kan søge eller kopiere "
+"tekster.\n"
+"\n"
+"Du kan også bruge filhåndteringsprogrammet, højreklikke på PDF-filen, \"Åbn "
+"med\" og vælge OCR-indstillingen."
 
 msgid "NORMAL"
-msgstr ""
+msgstr "NORMAL"
 
 msgid "ECONÔMICO"
-msgstr ""
+msgstr "ØKONOMISK"
 
 msgid "MAIS ECONÔMICO"
-msgstr ""
+msgstr "MERE ØKONOMISK"
 
 msgid "ALINHAR"
-msgstr ""
+msgstr "ALIGN"
 
 msgid "AUTO ROTAÇÃO"
-msgstr ""
+msgstr "AUTO ROTATION"
 
 msgid "ALINHAR E GIRAR AUTOMÁTICA"
-msgstr ""
+msgstr "AUTOMATISK JUSTERING OG DREJNING"
 
 msgid "NÃO MUDE"
-msgstr ""
+msgstr "IKKE ÆNDRE"
 
 msgid "ESPANHOL"
-msgstr ""
+msgstr "SPANSK"
 
 msgid "INGLÊS"
-msgstr ""
+msgstr "DANSK"
 
 msgid "PORTUGUÊS"
-msgstr ""
+msgstr "PORTUGUESISK"
 
 msgid ""
 "Você pode optar por reduzir a qualidade da imagem.<br>Dessa forma você terá "
 "arquivos menores, facilitando,<br>por exemplo, enviá-los por e-mail."
 msgstr ""
+"Du kan vælge at reducere billedkvaliteten.<br>På den måde får du mindre "
+"filer, hvilket gør det nemmere at<br>sende dem f.eks. via e-mail."
 
 msgid ""
 "Para adicionar novos idiomas, instale os complementos do tesseract no "
 "gerenciador de pacotes do sistema."
 msgstr ""
+"Hvis du vil tilføje nye sprog, skal du installere tesseract-tilføjelser i "
+"systemets pakkehåndtering."
 
 msgid "Aplicar"
-msgstr ""
+msgstr "Anvend"
 
 msgid "Torne seu PDF pesquisável"
-msgstr ""
+msgstr "Gør din PDF søgbar"
 
 msgid ""
 "Adicionar OCR no PDF digitalizado permitindo seleção de textos e busca:"
-msgstr ""
+msgstr "Tilføj OCR til den scannede PDF-fil, så du kan vælge og søge i tekst:"
 
 msgid "OCR para PDF"
-msgstr ""
+msgstr "OCR til PDF"
 
 msgid "Arquivo"
-msgstr ""
+msgstr "Fil"
 
 msgid "Pasta:"
-msgstr ""
+msgstr "Folder:"
 
 msgid "Abrir"
-msgstr ""
+msgstr "Åbn"
 
 msgid "Arquivo salvo: "
-msgstr ""
+msgstr "Filen er gemt "

@@ -56,13 +56,13 @@ msgid "Números maiores deixam a voz mais aguda, o padrão é: -25"
 msgstr "Höhere Zahlen machen die Stimme höher, der Standard ist: -25"
 
 msgid "Tom"
-msgstr "Tom"
+msgstr "Ton"
 
 msgid "O padrão é: 0."
 msgstr "Der Standardwert ist: 0."
 
 msgid "Volume"
-msgstr "Band"
+msgstr "Volumen"
 
 msgid "As vozes são otimizadas para idiomas expecíficos."
 msgstr "Die Stimmen sind für bestimmte Sprachen optimiert."

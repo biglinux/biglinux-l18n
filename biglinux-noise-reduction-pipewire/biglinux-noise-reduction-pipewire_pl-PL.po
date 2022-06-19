@@ -18,40 +18,40 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit"
 
 msgid "Reduzir ruídos do microfone"
-msgstr ""
+msgstr "Redukcja szumu mikrofonu"
 
 msgid "Microfone sem ruídos"
-msgstr ""
+msgstr "Mikrofon bez szumów"
 
 msgid "Desativando"
-msgstr ""
+msgstr "Dezaktywacja"
 
 msgid "Filtro do Microfone"
-msgstr ""
+msgstr "Filtr mikrofonowy"
 
 msgid "Ativando"
-msgstr ""
+msgstr "Aktywacja"
 
 msgid "Filtro de ruído"
-msgstr ""
+msgstr "Filtr szumów"
 
 msgid "Iniciar automaticamente"
-msgstr ""
+msgstr "Uruchomić automatycznie"
 
 msgid "Configuração aplicada"
-msgstr ""
+msgstr "Zastosowana konfiguracja"
 
 msgid "Microfone"
-msgstr ""
+msgstr "Mikrofon"
 
 msgid "Configuração de áudio."
-msgstr ""
+msgstr "Konfiguracja audio."
 
 msgid "Confirma a remoção das personalizações na configuração de áudio?"
-msgstr ""
+msgstr "Czy może Pan potwierdzić usunięcie dostosowań w konfiguracji audio?"
 
 msgid "Configuração de áudio"
-msgstr ""
+msgstr "Konfiguracja audio"
 
 msgid ""
 "Configuração de áudio restaurada.\n"
@@ -59,6 +59,10 @@ msgid ""
 "Os programas em execução no momento podem precisar ser fechados\n"
 "e abertos novamente para o áudio funcionar corretamente."
 msgstr ""
+"Przywrócono konfigurację audio.\n"
+"\n"
+"Może być konieczne zamknięcie aktualnie działających programów\n"
+"i ponownie otworzyć, aby dźwięk działał prawidłowo."
 
 msgid "Cancelado, nenhuma configuração foi removida!"
-msgstr ""
+msgstr "Anulowane, nie usunięto żadnej konfiguracji!"

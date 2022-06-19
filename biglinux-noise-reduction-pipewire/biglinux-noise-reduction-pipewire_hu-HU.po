@@ -18,40 +18,41 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit"
 
 msgid "Reduzir ruídos do microfone"
-msgstr ""
+msgstr "Mikrofonzaj csökkentése"
 
 msgid "Microfone sem ruídos"
-msgstr ""
+msgstr "Zajmentes mikrofon"
 
 msgid "Desativando"
-msgstr ""
+msgstr "A  deaktiválása"
 
 msgid "Filtro do Microfone"
-msgstr ""
+msgstr "Mikrofon szűrő"
 
 msgid "Ativando"
-msgstr ""
+msgstr "A  aktiválása"
 
 msgid "Filtro de ruído"
-msgstr ""
+msgstr "Zajszűrő"
 
 msgid "Iniciar automaticamente"
-msgstr ""
+msgstr "Automatikus indítás"
 
 msgid "Configuração aplicada"
-msgstr ""
+msgstr "Alkalmazott konfiguráció"
 
 msgid "Microfone"
-msgstr ""
+msgstr "Mikrofon"
 
 msgid "Configuração de áudio."
-msgstr ""
+msgstr "Hangkonfiguráció."
 
 msgid "Confirma a remoção das personalizações na configuração de áudio?"
 msgstr ""
+"Meg tudja erősíteni a testreszabások eltávolítását az audiókonfigurációban?"
 
 msgid "Configuração de áudio"
-msgstr ""
+msgstr "Audió konfiguráció"
 
 msgid ""
 "Configuração de áudio restaurada.\n"
@@ -59,6 +60,10 @@ msgid ""
 "Os programas em execução no momento podem precisar ser fechados\n"
 "e abertos novamente para o áudio funcionar corretamente."
 msgstr ""
+"A hangkonfiguráció helyreállt.\n"
+"\n"
+"A jelenleg futó programokat esetleg be kell zárni\n"
+"és újra megnyitotta, hogy az audió megfelelően működjön."
 
 msgid "Cancelado, nenhuma configuração foi removida!"
-msgstr ""
+msgstr "Törölték, nem került eltávolításra semmilyen konfiguráció!"

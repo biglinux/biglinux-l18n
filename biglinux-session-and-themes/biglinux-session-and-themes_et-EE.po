@@ -21,9 +21,11 @@ msgid ""
 "Configuração alterada, se estiver utilizando o navegador, reinicie-o para "
 "que a nova configuração seja aplicada."
 msgstr ""
+"Konfiguratsioon muutus, kui kasutate brauserit, käivitage see uuesti, et uus "
+"konfiguratsioon rakenduks."
 
 msgid "Se estiver utilizando algum navegador, feche-o e abra novamente!"
-msgstr ""
+msgstr "Kui kasutate brauserit, sulgege see ja avage uuesti!"
 
 msgid ""
 "\n"
@@ -32,6 +34,11 @@ msgid ""
 "\n"
 "Selecione não para utilizar a configuração padrão do sistema.\n"
 msgstr ""
+"\n"
+"Valitud töölaua konfiguratsiooni on selles süsteemis juba kasutatud,\n"
+"kas soovite taastada juba kasutatud konfiguratsiooni?\n"
+"\n"
+"Valige ei, et kasutada süsteemi vaikimisi konfiguratsiooni.\n"
 
 msgid ""
 "Configuração aplicada!\n"
@@ -40,130 +47,143 @@ msgid ""
 "para que a configuração termine de\n"
 "ser aplicada."
 msgstr ""
+"Konfigureerimine rakendatud!\n"
+"\n"
+"Logi välja ja logi uuesti sisse\n"
+"konfiguratsiooni lõpetamiseks\n"
+"kohaldatud."
 
 msgid "Temas"
-msgstr ""
+msgstr "Teemad"
 
 msgid "Desktop"
-msgstr ""
+msgstr "Töölauaarvuti"
 
 msgid "Ajustes"
-msgstr ""
+msgstr "Seaded"
 
 msgid "Temas, Desktop e Ajustes"
-msgstr ""
+msgstr "Teemad, töölaud ja seaded"
 
 msgid "Desempenho do desktop"
-msgstr ""
+msgstr "Töölaua jõudlus"
 
 msgid "Aceleração do navegador"
-msgstr ""
+msgstr "Brauseri kiirendus"
 
 msgid "Usabilidade"
-msgstr ""
+msgstr "Kasutatavus"
 
 msgid "Tema dos aplicativos"
-msgstr ""
+msgstr "Rakenduse teema"
 
 msgid "Bordas arredondadas."
-msgstr ""
+msgstr "Ümarad servad."
 
 msgid ""
 "Esse tema possui transparências com efeitos que<br>podem tornar o sistema "
 "lento em computadores<br>antigos ou ambientes virtualizados."
 msgstr ""
+"Selles teemas on efektidega läbipaistvused, mis võivad<br>vanades "
+"arvutites<br>või virtualiseeritud keskkondadessüsteemi aeglustada."
 
 msgid "<b>Classic</b> e <b>New</b> têm melhor desempenho."
-msgstr ""
+msgstr "<b>Classic</b> ja <b>New</b> on parema jõudlusega."
 
 msgid "Renderizar o desktop via software"
-msgstr ""
+msgstr "Töölaua renderdamine tarkvara abil"
 
 msgid "(Pode ser útil em máquina virtual ou computadores antigos)"
-msgstr ""
+msgstr "(Võib olla kasulik virtuaalses masinas või vanades arvutites)"
 
 msgid "Escolher programas a serem carregados na memória durante boot"
-msgstr ""
+msgstr "Valige programmid, mis laaditakse mällu käivitamise ajal"
 
 msgid ""
 "O Preload carrega arquivos dos programas na memória, para que iniciem "
 "rapidamente. O uso excessivo causa lentidão. Escolha a opção desejada:"
 msgstr ""
+"Eellaadimine laeb programmifailid mällu, et need käivituksid kiiresti. "
+"Liigne kasutamine põhjustab aeglustumist. Valige soovitud valik:"
 
 msgid "Automático"
-msgstr ""
+msgstr "Automaatne"
 
 msgid "Ativar"
-msgstr ""
+msgstr "Aktiveeri"
 
 msgid "Desativar"
-msgstr ""
+msgstr "Deaktiveeri"
 
 msgid "Configurações do Brave"
-msgstr ""
+msgstr "Julged konfiguratsioonid"
 
 msgid "Escolha a opção desejada:"
-msgstr ""
+msgstr "Valige soovitud valik:"
 
 msgid "Remover propagandas"
-msgstr ""
+msgstr "Eemaldage reklaamid"
 
 msgid "Suportar criptomoedas"
-msgstr ""
+msgstr "Krüptovaluutade toetamine"
 
 msgid "Botões da janela no lado esquerdo"
-msgstr ""
+msgstr "Akna nupud vasakul pool"
 
 msgid "Rolagem do mouse invertida"
-msgstr ""
+msgstr "Ümberpööratud hiire kerimine"
 
 msgid "Pesquisar arquivos"
-msgstr ""
+msgstr "Otsi arhiivides"
 
 msgid "Bloquear a área de trabalho"
-msgstr ""
+msgstr "Töölaua lukustamine"
 
 msgid "Tema aplicado"
-msgstr ""
+msgstr "Kohaldatud teema"
 
 msgid ""
 "É preciso reiniciar a sessão para concluir a configuração. Deseja fazer "
 "agora?"
 msgstr ""
+"Konfigureerimise lõpuleviimiseks peate uuesti sisse logima. Tahad seda nüüd "
+"teha?"
 
 msgid "Configuração do Desktop"
-msgstr ""
+msgstr "Töölaua konfiguratsioon"
 
 msgid ""
 "Você já utilizou esse desktop antes, deseja  restaurar sua personalização ou "
 "utilizar a configuração original?"
 msgstr ""
+"Kas olete seda töölauda varem kasutanud, kas soovite taastada selle "
+"kohandamise või kasutada algset konfiguratsiooni?"
 
 msgid "Sim"
-msgstr ""
+msgstr "Jah"
 
 msgid "Não"
-msgstr ""
+msgstr "Ei"
 
 msgid "Original"
-msgstr ""
+msgstr "Originaal"
 
 msgid "Restaurar"
-msgstr ""
+msgstr "Taasta"
 
 msgid "Desktop aplicado"
-msgstr ""
+msgstr "Rakendatud töölauale"
 
 msgid ""
 "Utilizando renderização por software, a qualidade das transparências está "
 "reduzida."
-msgstr ""
+msgstr "Tarkvaralist renderdamist kasutades väheneb läbipaistvuse kvaliteet."
 
 msgid "Desempenho em modo normal!"
-msgstr ""
+msgstr "Tulemuslikkus tavarežiimis!"
 
 msgid "Desempenho em modo otimizado!"
-msgstr ""
+msgstr "Täiustatud režiimil toimimine!"
 
 msgid "Desempenho em modo performance!"
-msgstr ""
+msgstr "Esitlusvõime esitusrežiimis!"

@@ -18,40 +18,40 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit"
 
 msgid "Reduzir ruídos do microfone"
-msgstr ""
+msgstr "Зменшити шум мікрофона"
 
 msgid "Microfone sem ruídos"
-msgstr ""
+msgstr "Безшумний мікрофон"
 
 msgid "Desativando"
-msgstr ""
+msgstr "деактивація"
 
 msgid "Filtro do Microfone"
-msgstr ""
+msgstr "Мікрофонний фільтр"
 
 msgid "Ativando"
-msgstr ""
+msgstr "активація"
 
 msgid "Filtro de ruído"
-msgstr ""
+msgstr "шумовий фільтр"
 
 msgid "Iniciar automaticamente"
-msgstr ""
+msgstr "авто старт"
 
 msgid "Configuração aplicada"
-msgstr ""
+msgstr "Застосована конфігурація"
 
 msgid "Microfone"
-msgstr ""
+msgstr "MIC"
 
 msgid "Configuração de áudio."
-msgstr ""
+msgstr "Налаштування звуку."
 
 msgid "Confirma a remoção das personalizações na configuração de áudio?"
-msgstr ""
+msgstr "Підтвердити видалення налаштувань у конфігурації аудіо?"
 
 msgid "Configuração de áudio"
-msgstr ""
+msgstr "налаштування звуку"
 
 msgid ""
 "Configuração de áudio restaurada.\n"
@@ -59,6 +59,10 @@ msgid ""
 "Os programas em execução no momento podem precisar ser fechados\n"
 "e abertos novamente para o áudio funcionar corretamente."
 msgstr ""
+"Конфігурацію аудіо відновлено.\n"
+"\n"
+"Запущені програми, можливо, доведеться закрити\n"
+"і знову відкрився, щоб аудіо працювало належним чином."
 
 msgid "Cancelado, nenhuma configuração foi removida!"
-msgstr ""
+msgstr "Скасовано, ніяких налаштувань не було видалено!"

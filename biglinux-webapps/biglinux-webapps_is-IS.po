@@ -18,126 +18,128 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit"
 
 msgid "Selecionar imagem"
-msgstr ""
+msgstr "Veldu mynd"
 
 msgid "Adicionar WebApps"
-msgstr ""
+msgstr "Setja WebApps"
 
 msgid "WebApps Adicionados"
-msgstr ""
+msgstr "WebApps bætt"
 
 msgid "WebApps BigLinux"
-msgstr ""
+msgstr "BigLinux WebApps"
 
 msgid "Url:"
-msgstr ""
+msgstr "Vefslóð:"
 
 msgid "Detectar Nome e Ícone"
-msgstr ""
+msgstr "Uppgötvaðu nafn og tákn"
 
 msgid "Nome:"
-msgstr ""
+msgstr "Nafn:"
 
 msgid "Ícone:"
-msgstr ""
+msgstr "Tákn:"
 
 msgid "Alterar"
-msgstr ""
+msgstr "breyta"
 
 msgid "Navegador:"
-msgstr ""
+msgstr "Vafri:"
 
 msgid "Categoria:"
-msgstr ""
+msgstr "Flokkur:"
 
 msgid "DESENVOLVIMENTO"
-msgstr ""
+msgstr "ÞRÓUN"
 
 msgid "ESCRITÓRIO"
-msgstr ""
+msgstr "SKRIFSTOFA"
 
 msgid "GRÁFICOS"
-msgstr ""
+msgstr "GRAFÍK"
 
 msgid "JOGOS"
-msgstr ""
+msgstr "LEIKIR"
 
 msgid "MULTIMÍDIA"
-msgstr ""
+msgstr "MARGMIÐLUN"
 
 msgid "Criar atalho na Área de Trabalho"
-msgstr ""
+msgstr "Búðu til flýtileið á skjáborðinu"
 
 msgid "Perfil adicional"
-msgstr ""
+msgstr "Viðbótarupplýsingar upplýsingar"
 
 msgid "YouTube Modo TV"
-msgstr ""
+msgstr "YouTube sjónvarpsstilling"
 
 msgid "Adicionar"
-msgstr ""
+msgstr "Bæta"
 
 msgid "Para adicionar um WebApp, você precisa informar a Url e o Nome."
-msgstr ""
+msgstr "Til að bæta við WebApp þarftu að slá inn vefslóð og nafn."
 
 msgid "Para detectar o Nome e o Ícone você precisa informar a Url."
-msgstr ""
+msgstr "Til að greina nafnið og táknið þarftu að slá inn vefslóðina."
 
 msgid ""
 "A Url é inválida ou a conexão falhou.<br>Tente inserir o ícone pelo botão "
 "Alterar."
 msgstr ""
+"Vefslóðin er ógild eða tengingin mistókst. <br>Reynduað setja táknið í "
+"gegnum Breyta hnappinn."
 
 msgid "O WebApp foi adicionado com sucesso!"
-msgstr ""
+msgstr "The WebApp var bætt við!"
 
 msgid "Ícones encontrados"
-msgstr ""
+msgstr "Fann tákn"
 
 msgid "Selecione o ícone preferido:"
-msgstr ""
+msgstr "Veldu valinn táknið:"
 
 msgid "Desenvolvimento"
-msgstr ""
+msgstr "Þróun"
 
 msgid "Escritório"
-msgstr ""
+msgstr "Skrifstofa"
 
 msgid "Gráficos"
-msgstr ""
+msgstr "Grafík"
 
 msgid "Jogos"
-msgstr ""
+msgstr "Leikir"
 
 msgid "Multimídia"
-msgstr ""
+msgstr "Margmiðlun"
 
 msgid "Tem certeza que deseja remover este WebApp?"
-msgstr ""
+msgstr "Ertu viss um að þú viljir fjarlægja þetta WebApp?"
 
 msgid "Nenhum WebApp adicionado!"
-msgstr ""
+msgstr "Engin WebApp bætt við!"
 
 msgid "Navegador padrão<br>dos webapps:"
-msgstr ""
+msgstr "<br>Webappssjálfgefinn vafri:"
 
 msgid "Alterar navegador"
-msgstr ""
+msgstr "Breyta vafra"
 
 msgid "Selecione o navegador preferido:"
-msgstr ""
+msgstr "Veldu valinn vafra:"
 
 msgid "WebApps Nativos"
-msgstr ""
+msgstr "Innfædd vefforrit"
 
 msgid "Bom dia"
-msgstr ""
+msgstr "Salaam"
 
 msgid "Boa tarde"
-msgstr ""
+msgstr "Góðan daginn"
 
 msgid "Boa noite"
-msgstr ""
+msgstr "Góða nótt"
 
 msgid "Aguarde, estamos preparando para começar..."
-msgstr ""
+msgstr "Bíddu, við erum að verða tilbúin til að byrja..."

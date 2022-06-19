@@ -18,10 +18,10 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit"
 
 msgid "MÓDULO: Nenhum módulo precisa ser instalado."
-msgstr ""
+msgstr "모듈: 모듈을 설치할 필요가 없습니다."
 
 msgid "FIRMWARE: Nenhum firmware precisa ser instalado."
-msgstr ""
+msgstr "펌웨어: 펌웨어를 설치할 필요가 없습니다."
 
 msgid "Hardware"
-msgstr ""
+msgstr "하드웨어"

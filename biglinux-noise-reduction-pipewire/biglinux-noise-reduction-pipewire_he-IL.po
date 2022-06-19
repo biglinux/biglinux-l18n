@@ -18,40 +18,40 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit"
 
 msgid "Reduzir ruídos do microfone"
-msgstr ""
+msgstr "הפחת רעשי מיקרופון"
 
 msgid "Microfone sem ruídos"
-msgstr ""
+msgstr "מיקרופון ללא רעש"
 
 msgid "Desativando"
-msgstr ""
+msgstr "ביטול הפעלה"
 
 msgid "Filtro do Microfone"
-msgstr ""
+msgstr "מסנן מיקרופון"
 
 msgid "Ativando"
-msgstr ""
+msgstr "מפעיל"
 
 msgid "Filtro de ruído"
-msgstr ""
+msgstr "מסנן רעש"
 
 msgid "Iniciar automaticamente"
-msgstr ""
+msgstr "התחל באופן אוטומטי"
 
 msgid "Configuração aplicada"
-msgstr ""
+msgstr "תצורה הוחלה"
 
 msgid "Microfone"
-msgstr ""
+msgstr "מיקרופון"
 
 msgid "Configuração de áudio."
-msgstr ""
+msgstr "הגדרת שמע."
 
 msgid "Confirma a remoção das personalizações na configuração de áudio?"
-msgstr ""
+msgstr "האם אתה מאשר את הסרת ההתאמות האישיות בתצורת השמע?"
 
 msgid "Configuração de áudio"
-msgstr ""
+msgstr "הגדרת שמע"
 
 msgid ""
 "Configuração de áudio restaurada.\n"
@@ -59,6 +59,10 @@ msgid ""
 "Os programas em execução no momento podem precisar ser fechados\n"
 "e abertos novamente para o áudio funcionar corretamente."
 msgstr ""
+"הגדרת השמע שוחזרה.\n"
+"\n"
+"ייתכן שיהיה צורך לסגור תוכניות הפועלות כעת\n"
+"ונפתח שוב כדי שהאודיו יעבוד כראוי."
 
 msgid "Cancelado, nenhuma configuração foi removida!"
-msgstr ""
+msgstr "בוטל, לא הוסרו הגדרות!"

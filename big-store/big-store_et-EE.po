@@ -25,54 +25,61 @@ msgstr ""
 "Generated-By: pygettext.py 1.5"
 
 msgid "A Big-Store já está em uso."
-msgstr ""
+msgstr "Big-Store on juba kasutusel."
 
 msgid "Big-Store"
-msgstr ""
+msgstr "Big-Store"
 
 msgid ""
 "Para os programas Snap aparecerem no menu do sistema finalize a sessão e "
 "faça login novamente."
 msgstr ""
+"Selleks, et Snap programmid ilmuksid süsteemimenüüsse, logige välja ja "
+"logige uuesti sisse."
 
 msgid "Configurações"
-msgstr ""
+msgstr "Seaded"
 
 msgid "Suporte a Flatpak ativo."
-msgstr ""
+msgstr "Aktiivne Flatpaki toetus."
 
 msgid "Suporte a Flatpak NÃO está ativo."
-msgstr ""
+msgstr "Flatpaki toetus EI ole aktiivne."
 
 msgid "Suporte a Snap ativo."
-msgstr ""
+msgstr "Aktiivne Snap-tugi."
 
 msgid "Suporte a Snap NÃO está ativo."
-msgstr ""
+msgstr "Snap-tugi EI ole aktiivne."
 
 msgid "Executar"
-msgstr ""
+msgstr "Käivita"
 
 msgid "Atualizar cache dos repositórios nativos."
-msgstr ""
+msgstr "Uuenda algupärast repositooriumide vahemälu."
 
 msgid "Procurar o servidor de repositórios nativos mais rápido no momento."
-msgstr ""
+msgstr "Otsi hetkel kõige kiirem native repositooriumi server."
 
 msgid "Utilize as opções a seguir com cautela:"
-msgstr ""
+msgstr "Kasutage järgmisi valikuid ettevaatlikult:"
 
 msgid ""
 "Atualizar as chaves dos repositórios BigLinux, Manjaro e Archlinux. Lembre "
 "que se você ativou repositórios complementares será necessário adicionar as "
 "chaves desses repositórios novamente."
 msgstr ""
+"BigLinuxi, Manjaro ja Archlinuxi repositooriumide võtmete uuendamine. Pidage "
+"meeles, et kui olete aktiveerinud täiendavaid hoidlaid, peate nende hoidlate "
+"võtmed uuesti lisama."
 
 msgid ""
 "Forçar atualizações, utilize essa opção se não estiver conseguindo atualizar "
 "o sistema, porém, na atualização forçada alguns programas podem ser "
 "removidos."
 msgstr ""
+"Force updates, kasutage seda valikut, kui te ei saa süsteemi uuendada, kuid "
+"sunniviisilise uuendamise korral võidakse mõned programmid eemaldada."
 
 msgid ""
 "\n"
@@ -81,6 +88,11 @@ msgid ""
 "portanto é a melhor opção quando o programa que você<br>\n"
 "deseja está disponível em mais de um tipo de instalação.<br>"
 msgstr ""
+"\n"
+"Emakeelsed programmid on paremini integreeritud süsteemi<br>\n"
+"ja läbivad enne nende vabastamist veel testimise,<br>\n"
+"nii et see on parim valik, kui programm, mida te<br>\n"
+"on saadaval rohkem kui ühte tüüpi paigaldus.<br>"
 
 msgid ""
 "\n"
@@ -91,6 +103,13 @@ msgid ""
 "bem, mas não passam pelos mesmos testes feitos<br>\n"
 "com os programas nativos."
 msgstr ""
+"\n"
+"AUR programmid on kasutajate poolt loodud skriptid<br>\n"
+"paigaldada programme, mis ei ole kättesaadavad<br>\n"
+"otse süsteemi algupärastes repositooriumides.<br>\n"
+"Selle meetodi abil paigaldatud programmid töötavad<br>\n"
+"hästi, kuid nad ei läbi samu teste kui<br>\n"
+"emakeelseid programme."
 
 msgid ""
 "\n"
@@ -102,6 +121,14 @@ msgid ""
 "para quem tem computadores que possuem boa capacidade<br>\n"
 "de processamento e armazenamento."
 msgstr ""
+"\n"
+"Flatpak programmid on saadaval kõikide Linuxi distributsioonide jaoks<br>\n"
+"linuxi distributsioonid, mida tavaliselt hooldab programm<br>\n"
+"loojad programmide, kuid ei ole mõned<br>\n"
+"süsteemi optimeerimine ja integreerimine, nagu toimub koos<br>\n"
+"native programmid, see võib olla hea alternatiiv<br>\n"
+"neile, kellel on hea võimsusega arvutid<br>\n"
+"töötlemis- ja ladustamisvõimsus."
 
 msgid ""
 "Programas Snap, assim como o Flatpak<br>\n"
@@ -110,305 +137,312 @@ msgid ""
 "se o programa que você procura está disponível apenas neste<br>\n"
 "formato, utilize-o."
 msgstr ""
+"Snap programmid, nagu Flatpak<br>\n"
+"pakub tarkvara kõikidele Linuxi distributsioonidele.<br>\n"
+"See kipub olema raskem ja vähem integreeritud süsteemi, kuid<br>\n"
+"kui programm, mida te otsite, on saadaval ainult selles<br>\n"
+"formaat, kasutage seda."
 
 msgid "Aplicando - Aguarde"
-msgstr ""
+msgstr "Taotlemine - Palun oodake"
 
 msgid "Procurar programa"
-msgstr ""
+msgstr "Otsi programmi"
 
 msgid "Programas Nativos"
-msgstr ""
+msgstr "Emakeelsed programmid"
 
 msgid "Programas AUR"
-msgstr ""
+msgstr "AUR programmid"
 
 msgid "Programas Flatpak"
-msgstr ""
+msgstr "Flatpak programmid"
 
 msgid "Programas Snap"
-msgstr ""
+msgstr "Snap programmid"
 
 msgid "Navegadores"
-msgstr ""
+msgstr "Brauserid"
 
 msgid "E-mail"
-msgstr ""
+msgstr "E-post"
 
 msgid "Armazenamento nas nuvens"
-msgstr ""
+msgstr "Pilvemälu"
 
 msgid "Download"
-msgstr ""
+msgstr "Lae alla"
 
 msgid "Compartilhadores e Torrent"
-msgstr ""
+msgstr "Jagajad ja Torrent"
 
 msgid "Mensageiros e Conferências"
-msgstr ""
+msgstr "Sõnumitoojad ja konverentsid"
 
 msgid "Acesso Remoto, FTP, SSH, VNC, RDP..."
-msgstr ""
+msgstr "Kaugjuurdepääs, FTP, SSH, VNC, RDP..."
 
 msgid "Ferramentas de rede"
-msgstr ""
+msgstr "Võrguvahendid"
 
 msgid "Suíte Office"
-msgstr ""
+msgstr "Office Suite"
 
 msgid "Visualizadores de PDF, Epub, e-books e mais"
-msgstr ""
+msgstr "PDF, Epub, e-raamatute vaatajad ja palju muud"
 
 msgid "Editores de PDF"
-msgstr ""
+msgstr "PDF redaktorid"
 
 msgid "Agenda de tarefas e contatos"
-msgstr ""
+msgstr "Ülesannete ja kontaktide kalender"
 
 msgid "Visualizadores de imagem"
-msgstr ""
+msgstr "Pildi vaatajad"
 
 msgid "Editores de imagem e ferramentas de desenho"
-msgstr ""
+msgstr "Pildiredaktorid ja joonistustööriistad"
 
 msgid "Captura de tela (Screenshot)"
-msgstr ""
+msgstr "Ekraanipilt"
 
 msgid "Converter, redimensionar ou compactar imagens"
-msgstr ""
+msgstr "Piltide teisendamine, suuruse muutmine või tihendamine"
 
 msgid "Edição 3D e CAD"
-msgstr ""
+msgstr "3D ja CAD redigeerimine"
 
 msgid "Reprodutores de áudio"
-msgstr ""
+msgstr "Helimängijad"
 
 msgid "Rádio online"
-msgstr ""
+msgstr "Online raadio"
 
 msgid "Gravadores e conversores de áudio"
-msgstr ""
+msgstr "Helisalvestid ja muundurid"
 
 msgid "Editores de áudio"
-msgstr ""
+msgstr "Heliredaktorid"
 
 msgid "Reprodutores de vídeo"
-msgstr ""
+msgstr "Videomängijad"
 
 msgid "Vídeo online, IPTV, Youtube..."
-msgstr ""
+msgstr "Online-video, IPTV, Youtube..."
 
 msgid "Editores e compactadores de vídeo"
-msgstr ""
+msgstr "Videotöötlusprogrammid ja kompressorid"
 
 msgid "Gravadores e copiadores de CD e DVD"
-msgstr ""
+msgstr "CD- ja DVD-salvestid ning koopiamasinad"
 
 msgid "Webcam, gravação de tela e transmissão de vídeo"
-msgstr ""
+msgstr "Veebikaamera, ekraanisalvestus ja video voogedastus"
 
 msgid "Gerenciadores de jogos"
-msgstr ""
+msgstr "Mängujuhid"
 
 msgid "Utilitários para jogos"
-msgstr ""
+msgstr "Mängu kommunaalteenused"
 
 msgid "Emulador Retroarch"
-msgstr ""
+msgstr "Retroarch emulaator"
 
 msgid "Emuladores"
-msgstr ""
+msgstr "Emulaatorid"
 
 msgid "Criadores de jogos"
-msgstr ""
+msgstr "Mänguarendajad"
 
 msgid "Ação/Arcade"
-msgstr ""
+msgstr "Action/Arcade"
 
 msgid "Cartas"
-msgstr ""
+msgstr "Kirjad"
 
 msgid "Educacional"
-msgstr ""
+msgstr "Haridus"
 
 msgid "Estratégia"
-msgstr ""
+msgstr "Strateegia"
 
 msgid "Puzzles"
-msgstr ""
+msgstr "Mõistatused"
 
 msgid "Tabuleiro"
-msgstr ""
+msgstr "Juhatus"
 
 msgid "RPG"
-msgstr ""
+msgstr "RPG"
 
 msgid "Armazenamento e partições"
-msgstr ""
+msgstr "Ladustamine ja vaheseinad"
 
 msgid "Fontes (Tipografia)"
-msgstr ""
+msgstr "Kirjatüübid (tüpograafia)"
 
 msgid "Java JRE"
-msgstr ""
+msgstr "Java JRE"
 
 msgid "Virtualização"
-msgstr ""
+msgstr "Virtualiseerimine"
 
 msgid "Editores de código e IDE"
-msgstr ""
+msgstr "Koodiredaktorid ja IDEd"
 
 msgid "Banco de dados"
-msgstr ""
+msgstr "Andmebaas"
 
 msgid "Servidores WEB"
-msgstr ""
+msgstr "WEB serverid"
 
 msgid "Pacotes nativos e AUR"
-msgstr ""
+msgstr "Emakeelsed paketid ja AUR"
 
 msgid "Instalados:"
-msgstr ""
+msgstr "Paigaldatud:"
 
 msgid "Disponíveis:"
-msgstr ""
+msgstr "Saadaval:"
 
 msgid "Pacotes Flatpak"
-msgstr ""
+msgstr "Flatpak paketid"
 
 msgid "Repositórios configurados:"
-msgstr ""
+msgstr "Konfigureeritud repositooriumid:"
 
 msgid "Pacotes Snap"
-msgstr ""
+msgstr "Snap paketid"
 
 msgid "Pacotes Snap Instalados clique no pacote para remover"
-msgstr ""
+msgstr "Paigaldatud Snap paketid klõpsake paketi eemaldamiseks paketil"
 
 msgid "Versão: "
-msgstr ""
+msgstr "Versioon "
 
 msgid "Pacote: "
-msgstr ""
+msgstr "Pakett "
 
 msgid "Não informada"
-msgstr ""
+msgstr "Ei ole teavitatud"
 
 msgid "Atualizar"
-msgstr ""
+msgstr "Ajakohastamine"
 
 msgid "Versão instalada"
-msgstr ""
+msgstr "Installeeritud versioon"
 
 msgid "Versão disponível"
-msgstr ""
+msgstr "Kättesaadav versioon"
 
 msgid "Versão"
-msgstr ""
+msgstr "Versioon"
 
 msgid "Pacote .deb"
-msgstr ""
+msgstr ".deb pakett"
 
 msgid ""
 "Esse programa está em formato .deb, que possui a melhor integração com o "
 "sistema."
 msgstr ""
+"See programm on .deb formaadis, mis on kõige paremini süsteemiga "
+"integreeritav."
 
 msgid "Dependências a instalar"
-msgstr ""
+msgstr "Paigaldatavad sõltuvused"
 
 msgid "Ver mais"
-msgstr ""
+msgstr "Vaata lähemalt"
 
 msgid "Pacotes com dependências não atendidas: "
-msgstr ""
+msgstr "Täitmata sõltuvustega paketid "
 
 msgid "Depende de "
-msgstr ""
+msgstr "See sõltub "
 
 msgid "mas não vai ser instalado."
-msgstr ""
+msgstr "kuid seda ei paigaldata."
 
 msgid "mas não está disponível"
-msgstr ""
+msgstr "kuid see ei ole kättesaadav"
 
 msgid "Informações sobre programas nativos"
-msgstr ""
+msgstr "Teave kohalike programmide kohta"
 
 msgid "Pacote:"
-msgstr ""
+msgstr "Pakett:"
 
 msgid "Versão disponível:"
-msgstr ""
+msgstr "Saadaval versioon:"
 
 msgid "Repositório:"
-msgstr ""
+msgstr "Hoiukoht:"
 
 msgid "Instalando"
-msgstr ""
+msgstr "Paigaldamine"
 
 msgid "Removendo"
-msgstr ""
+msgstr "Eemaldamine"
 
 msgid "Informações sobre programas SNAP"
-msgstr ""
+msgstr "Teave SNAP programmide kohta"
 
 msgid "Programas SNAP"
-msgstr ""
+msgstr "SNAP programmid"
 
 msgid "Versão disponivel:"
-msgstr ""
+msgstr "Saadaval versioon:"
 
 msgid "Licença:"
-msgstr ""
+msgstr "Litsents:"
 
 msgid "AUR"
-msgstr ""
+msgstr "AUR"
 
 msgid "Empacotador:"
-msgstr ""
+msgstr "Packer:"
 
 msgid "Reinstalar"
-msgstr ""
+msgstr "Installige uuesti"
 
 msgid "Versão instalada:"
-msgstr ""
+msgstr "Installeeritud versioon:"
 
 msgid "Uso de armazenamento:"
-msgstr ""
+msgstr "Ladustamise kasutamine:"
 
 msgid "Tamanho do download:"
-msgstr ""
+msgstr "Allalaadimise suurus:"
 
 msgid "Site:"
-msgstr ""
+msgstr "Veebileht:"
 
 msgid "Motivo da instalação:"
-msgstr ""
+msgstr "Paigaldamise põhjus:"
 
 msgid "Grupos:"
-msgstr ""
+msgstr "Rühmad:"
 
 msgid "Assinado:"
-msgstr ""
+msgstr "Allkirjastatud:"
 
 msgid "Complementos:"
-msgstr ""
+msgstr "Täiendused:"
 
 msgid "Dependências:"
-msgstr ""
+msgstr "Sõltuvused:"
 
 msgid "Remove:"
-msgstr ""
+msgstr "Eemalda:"
 
 msgid "Substitui:"
-msgstr ""
+msgstr "See asendab:"
 
 msgid "Arquivos do pacote:"
-msgstr ""
+msgstr "Pakettfailid:"
 
 msgid "Clique aqui para ver os arquivos"
-msgstr ""
+msgstr "Arhiivide vaatamiseks klõpsake siin"
 
 msgid "Informações sobre programas AUR"
-msgstr ""
+msgstr "Teave AUR programmide kohta"

@@ -24,68 +24,80 @@ msgid ""
 "Você também pode utilizar o gerenciador de arquivos, clicar com o botão "
 "direito no arquivo PDF, 'Abrir com' e selecionar a opção de OCR."
 msgstr ""
+"Válassza ki a PDF-fájlt, amelyre OCR-t kíván alkalmazni, így kereshet vagy "
+"másolhat szöveget.\n"
+"\n"
+"Használhatja a fájlkezelőt is, kattintson a jobb gombbal a PDF-fájlra, "
+"válassza a 'Megnyitás a programmal' lehetőséget, majd válassza az OCR opciót."
+""
 
 msgid "NORMAL"
-msgstr ""
+msgstr "NORMÁLIS"
 
 msgid "ECONÔMICO"
-msgstr ""
+msgstr "GAZDASÁGI"
 
 msgid "MAIS ECONÔMICO"
-msgstr ""
+msgstr "TÖBB GAZDASÁGI"
 
 msgid "ALINHAR"
-msgstr ""
+msgstr "ALIGN"
 
 msgid "AUTO ROTAÇÃO"
-msgstr ""
+msgstr "AUTOMATIKUS FORGÁS"
 
 msgid "ALINHAR E GIRAR AUTOMÁTICA"
-msgstr ""
+msgstr "AUTOMATIKUS IGAZÍTÁS ÉS FORGATÁS"
 
 msgid "NÃO MUDE"
-msgstr ""
+msgstr "NEM VÁLTOZHATÓ"
 
 msgid "ESPANHOL"
-msgstr ""
+msgstr "SPANYOL"
 
 msgid "INGLÊS"
-msgstr ""
+msgstr "ANGOL"
 
 msgid "PORTUGUÊS"
-msgstr ""
+msgstr "PORTUGÁZIA"
 
 msgid ""
 "Você pode optar por reduzir a qualidade da imagem.<br>Dessa forma você terá "
 "arquivos menores, facilitando,<br>por exemplo, enviá-los por e-mail."
 msgstr ""
+"Dönthet úgy, hogy csökkenti a képminőséget. <br>Így kisebb fájlok lesznek, "
+"így <br>könnyebben elküldheti őket például e-mailben."
 
 msgid ""
 "Para adicionar novos idiomas, instale os complementos do tesseract no "
 "gerenciador de pacotes do sistema."
 msgstr ""
+"Új nyelvek hozzáadásához telepítse a tesseract bővítményeket a rendszer "
+"csomagkezelőjében."
 
 msgid "Aplicar"
-msgstr ""
+msgstr "Alkalmazás"
 
 msgid "Torne seu PDF pesquisável"
-msgstr ""
+msgstr "A PDF kereshetővé tétele"
 
 msgid ""
 "Adicionar OCR no PDF digitalizado permitindo seleção de textos e busca:"
 msgstr ""
+"OCR hozzáadása a beolvasott PDF-hez, amely lehetővé teszi a szöveg "
+"kiválasztását és a keresést:"
 
 msgid "OCR para PDF"
-msgstr ""
+msgstr "OCR a PDF-hez"
 
 msgid "Arquivo"
-msgstr ""
+msgstr "Fájl"
 
 msgid "Pasta:"
-msgstr ""
+msgstr "Mappa:"
 
 msgid "Abrir"
-msgstr ""
+msgstr "Nyissa meg a  címet"
 
 msgid "Arquivo salvo: "
-msgstr ""
+msgstr "Fájl mentve "

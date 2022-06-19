@@ -1,0 +1,90 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the sambasearch package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: sambasearch\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-06-08 21:46-0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: de_LI\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit"
+
+msgid "Procurar compartilhamentos"
+msgstr "Suche nach Aktien"
+
+msgid "Localiza compartilhamentos na rede (Windows ou Samba)."
+msgstr "Suchen Sie Netzwerkfreigaben (Windows oder Samba)."
+
+msgid "GPL v2 or greater"
+msgstr "GPL v2 oder höher"
+
+msgid "Bruno Gonçalves"
+msgstr "Bruno Gonçalves"
+
+msgid "01/08/2019"
+msgstr "01/08/2019"
+
+msgid "https://github.com/biglinux/sambasearch"
+msgstr "https://github.com/biglinux/sambasearch"
+
+msgid "https://www.biglinux.com.br"
+msgstr "https://www.biglinux.com.br"
+
+msgid ""
+"Alteração aplicada, verifique se os compartilhamentos de rede estão "
+"aparecendo no gerenciador de arquivos."
+msgstr ""
+"Ändern Sie die Einstellungen und überprüfen Sie, ob die Netzwerkfreigaben im "
+"Dateimanager angezeigt werden."
+
+msgid "Usuário"
+msgstr "Benutzer"
+
+msgid "Insira o usuário do servidor que deseja acessar"
+msgstr "Geben Sie den Serverbenutzer ein, auf den Sie zugreifen möchten"
+
+msgid "Senha"
+msgstr "Passwort"
+
+msgid "Insira a senha do usuário do servidor que deseja acessar"
+msgstr ""
+"Geben Sie das Passwort des Serverbenutzers ein, auf den Sie zugreifen "
+"möchten"
+
+msgid ""
+"*A maioria dos servidores precisa de login e senha para listar os "
+"compartilhamentos disponíveis, deixe em branco para efetuar uma busca "
+"anônima."
+msgstr ""
+"*Die meisten Server erfordern eine Anmeldung und ein Passwort, um verfügbare "
+"Freigaben aufzulisten. Lassen Sie das Feld leer, um eine anonyme Suche "
+"durchzuführen."
+
+msgid "Cancelar"
+msgstr "Abbrechen"
+
+msgid "Próximo"
+msgstr "Nächste"
+
+msgid "Anônimo"
+msgstr "Anonym"
+
+msgid "Procura efetuada com o usuário:"
+msgstr "Mit dem Benutzer durchgeführte Suche:"
+
+msgid "na rede:"
+msgstr "im Netzwerk:"
+
+msgid "Voltar"
+msgstr "Zurück"
+
+msgid "Fechar"
+msgstr "Schließen Sie"

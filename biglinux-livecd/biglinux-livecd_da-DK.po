@@ -18,37 +18,42 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit"
 
 msgid "Desempenho"
-msgstr ""
+msgstr "Ydelse"
 
 msgid "Tema"
-msgstr ""
+msgstr "Tema"
 
 msgid ""
 "Renderizar o desktop via software<br><small>(Pode ser útil em máquina "
 "virtual)"
 msgstr ""
+"Gengivelse af skrivebordet via software<br><small>(Kan være nyttig i en "
+"virtuel maskine)"
 
 msgid ""
 "Utilizar GPU nos navegadores<br><small>(Desative no caso de distorção no "
 "vídeo)"
 msgstr ""
+"Brug GPU i browsere<br><small>(Deaktiveres i tilfælde af videoforvrængning)"
 
 msgid "Escolha o desktop:"
-msgstr ""
+msgstr "Vælg dit skrivebord:"
 
 msgid "têm melhor desempenho."
-msgstr ""
+msgstr "yde bedre."
 
 msgid "e"
-msgstr ""
+msgstr "e"
 
 msgid "Escolha o modelo do teclado:"
-msgstr ""
+msgstr "Vælg din tastaturmodel:"
 
 msgid "Escolha o tema dos aplicativos:"
-msgstr ""
+msgstr "Vælg temaet for programmerne:"
 
 msgid ""
 "Utilizando renderização por software, a qualidade das transparências será "
 "reduzida."
 msgstr ""
+"Ved brug af softwarerensning vil kvaliteten af transparenter blive reduceret."
+""

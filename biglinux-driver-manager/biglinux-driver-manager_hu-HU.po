@@ -18,267 +18,286 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit"
 
 msgid "O Big-Hardware-Relatory já está em uso."
-msgstr ""
+msgstr "A Big-Hardware-Relatory már használatban van."
 
 msgid "Informações sobre o Hardware"
-msgstr ""
+msgstr "Hardveres információk"
 
 msgid "Este driver é software livre."
-msgstr ""
+msgstr "Ez az illesztőprogram ingyenes szoftver."
 
 msgid "Este driver é proprietário."
-msgstr ""
+msgstr "Ez az illesztőprogram szabadalmaztatott."
 
 msgid "Este driver parece compatível com este computador."
 msgstr ""
+"Úgy tűnik, hogy ez az illesztőprogram kompatibilis ezzel a számítógéppel."
 
 msgid "Remover"
-msgstr ""
+msgstr "Távolítsa el a"
 
 msgid "Instalar"
-msgstr ""
+msgstr "Telepítse a"
 
 msgid ""
 "Já existe outro driver nVidia instalado, para instalar este driver, remova "
 "primeiro o driver instalado."
 msgstr ""
+"Már van egy másik nVidia illesztőprogram telepítve, ennek az "
+"illesztőprogramnak a telepítéséhez először távolítsa el a telepített "
+"illesztőprogramot."
 
 msgid "Desativado"
-msgstr ""
+msgstr "Mozgáskorlátozottak"
 
 msgid "Categorias"
-msgstr ""
+msgstr "Kategóriák"
 
 msgid "Principais"
-msgstr ""
+msgstr "Főoldal"
 
 msgid "Resumo"
-msgstr ""
+msgstr "Összefoglaló"
 
 msgid "Processador"
-msgstr ""
+msgstr "Processzor"
 
 msgid "Placa de vídeo"
-msgstr ""
+msgstr "Videokártya"
 
 msgid "Placa mãe"
-msgstr ""
+msgstr "Alaplap"
 
 msgid "Memória"
-msgstr ""
+msgstr "Memória"
 
 msgid "Rede"
-msgstr ""
+msgstr "Hálózat"
 
 msgid "Usb"
-msgstr ""
+msgstr "Usb"
 
 msgid "Pci"
-msgstr ""
+msgstr "Pci"
 
 msgid "Bateria"
-msgstr ""
+msgstr "Akkumulátor"
 
 msgid "Armazenamento"
-msgstr ""
+msgstr "Tárolás"
 
 msgid "Sistema"
-msgstr ""
+msgstr "Rendszer"
 
 msgid "Bluetooth"
-msgstr ""
+msgstr "Bluetooth"
 
 msgid "Temperatura"
-msgstr ""
+msgstr "Hőmérséklet"
 
 msgid "Impressora"
-msgstr ""
+msgstr "Nyomtató"
 
 msgid "Áudio"
-msgstr ""
+msgstr "Audio"
 
 msgid "Mais informações"
-msgstr ""
+msgstr "További információ"
 
 msgid "Pesquisar"
-msgstr ""
+msgstr "Keresés"
 
 msgid "Resultado da pesquisa"
-msgstr ""
+msgstr "Keresés eredménye"
 
 msgid "Informações de Hardware"
-msgstr ""
+msgstr "Hardveres információk"
 
 msgid "Informações Sobre o Sistema e o Hardware"
-msgstr ""
+msgstr "Rendszer és hardver információk"
 
 msgid "Memória RAM:"
-msgstr ""
+msgstr "RAM memória:"
 
 msgid "Vídeo:"
-msgstr ""
+msgstr "Videó:"
 
 msgid "Instalado na partição:"
-msgstr ""
+msgstr "Telepítve a partícióra:"
 
 msgid "Tamanho da partição:"
-msgstr ""
+msgstr "Partíció mérete:"
 
 msgid "Espaço utilizado:"
-msgstr ""
+msgstr "Használt tér:"
 
 msgid "Espaço livre:"
-msgstr ""
+msgstr "Tiszta tér:"
 
 msgid "Data que o sistema foi instalado:"
-msgstr ""
+msgstr "A rendszer telepítésének dátuma:"
 
 msgid "Kernel em uso:"
-msgstr ""
+msgstr "Használatban lévő mag:"
 
 msgid "Instalar ou Remover Drivers"
-msgstr ""
+msgstr "Illesztőprogramok telepítése vagy eltávolítása"
 
 msgid ""
 "O BigLinux inclui milhares de drivers e firmwares por padrão, porém ainda "
 "pode ser necessário instalar mais alguns."
 msgstr ""
+"A BigLinux alapértelmezés szerint több ezer illesztőprogramot és firmware-t "
+"tartalmaz, de előfordulhat, hogy még néhányat telepítenie kell."
 
 msgid "Gerar Relatório"
-msgstr ""
+msgstr "Jelentés létrehozása"
 
 msgid "Cria um arquivo com informações que pode ser publicado na internet."
 msgstr ""
+"Olyan fájlt hoz létre, amely az interneten közzétehető információkat "
+"tartalmaz."
 
 msgid "Ver informações do dispositivo no Linux Hardware"
-msgstr ""
+msgstr "Eszközinformációk megtekintése a Linux Hardveren"
 
 msgid "Categoria"
-msgstr ""
+msgstr "Kategória"
 
 msgid "ID"
-msgstr ""
+msgstr "ID"
 
 msgid "Info"
-msgstr ""
+msgstr "Info"
 
 msgid "Enviar para transfer.sh"
-msgstr ""
+msgstr "Küldés a transfer.sh-nak"
 
 msgid "Visualizar"
-msgstr ""
+msgstr "A  megtekintése"
 
 msgid "O relatório foi salvo no arquivo:"
-msgstr ""
+msgstr "A jelentés az archívumba került:"
 
 msgid ""
 "Deseja visualizar o arquivo ou envia-lo ao site transfer.sh, para ter uma "
 "URL com os dados do seu computador de forma fácil de compartilhar?"
 msgstr ""
+"Szeretné megtekinteni a fájlt, vagy elküldeni a transfer.sh-nak, hogy egy "
+"URL-címet kapjon az adatokkal a számítógépéről, és könnyen megoszthassa "
+"azokat?"
 
 msgid "Driver detectado:"
-msgstr ""
+msgstr "A sofőr észlelte:"
 
 msgid "<small>* A detecção não inclui impressoras e scanners</small>"
 msgstr ""
+"<small>* Az érzékelés nem terjed ki a nyomtatókra és a szkennerekre</small>"
 
 msgid "Wifi"
-msgstr ""
+msgstr "Wifi"
 
 msgid "Rede Cabeada"
-msgstr ""
+msgstr "Vezetékes hálózat"
 
 msgid "Impressora 3D"
-msgstr ""
+msgstr "3D nyomtató"
 
 msgid "Scanner"
-msgstr ""
+msgstr "Szkenner"
 
 msgid "TV Digital"
-msgstr ""
+msgstr "Digitális TV"
 
 msgid "Webcam"
-msgstr ""
+msgstr "Webkamera"
 
 msgid "Touchscreen"
-msgstr ""
+msgstr "Érintőképernyő"
 
 msgid "Som"
-msgstr ""
+msgstr "Hang"
 
 msgid "Outros"
-msgstr ""
+msgstr "Egyéb"
 
 msgid "Pesquisar Driver ou Firmware"
-msgstr ""
+msgstr "Illesztőprogram vagy firmware keresése"
 
 msgid "Big-Driver-Manager"
-msgstr ""
+msgstr "Big-Driver-Manager"
 
 msgid "Instalar ou Remover Drivers e Firmwares"
-msgstr ""
+msgstr "Illesztőprogramok és firmware telepítése vagy eltávolítása"
 
 msgid ""
 "Geralmente é preciso reiniciar o computador para o driver ou firmware ser "
 "aplicado."
 msgstr ""
+"Az illesztőprogram vagy firmware alkalmazásához általában újra kell indítani "
+"a számítógépet."
 
 msgid "Driver ou firmware"
-msgstr ""
+msgstr "Illesztőprogram vagy firmware"
 
 msgid "Este pacote fornece arquivos compatíveis com este computador."
-msgstr ""
+msgstr "Ez a csomag az adott számítógéppel kompatibilis fájlokat tartalmaz."
 
 msgid "Concluído, reinicie o computador para ativar a configuração do driver."
 msgstr ""
+"Miután befejezte, indítsa újra a számítógépet az illesztőprogram-"
+"konfiguráció aktiválásához."
 
 msgid "Driver"
-msgstr ""
+msgstr "Vezető"
 
 msgid "Ocorreu um erro e o driver não pode ser aplicado."
-msgstr ""
+msgstr "Hiba történt, és az illesztőprogram nem alkalmazható."
 
 msgid "Swap (Memória Virtual)"
-msgstr ""
+msgstr "Swap (virtuális memória)"
 
 msgid "Conexões de Internet"
-msgstr ""
+msgstr "Internetkapcsolatok"
 
 msgid "Dispositivos e conexões USB"
-msgstr ""
+msgstr "USB eszközök és csatlakozások"
 
 msgid "Portas PCI"
-msgstr ""
+msgstr "PCI portok"
 
 msgid "Dispositivos de armazenamento"
-msgstr ""
+msgstr "Tárolóeszközök"
 
 msgid "Partições montadas"
-msgstr ""
+msgstr "Szerelt partíciók"
 
 msgid "Partições desmontadas"
-msgstr ""
+msgstr "Szétszerelt válaszfalak"
 
 msgid "Dispositivos lógicos"
-msgstr ""
+msgstr "Logikai eszközök"
 
 msgid "Raid"
-msgstr ""
+msgstr "Raid"
 
 msgid "Informações"
-msgstr ""
+msgstr "Információ"
 
 msgid "Repositórios"
-msgstr ""
+msgstr "Tárházak"
 
 msgid ""
 "Digite sua senha para gerar um relatório removendo dados sensíveis, por "
 "exemplo, endereço de IP, ou cancele para utilizar as informações da tela "
 "anterior."
 msgstr ""
+"Adja meg a jelszavát, ha az érzékeny adatokat, például az IP-címet "
+"eltávolító jelentést szeretne létrehozni, vagy törölje a műveletet, ha az "
+"előző képernyő információit szeretné használni."
 
 msgid "Digite sua senha para gerar um relatório mais completo."
-msgstr ""
+msgstr "A teljesebb jelentés létrehozásához adja meg jelszavát."
 
 msgid "Enviando, aguarde..."
-msgstr ""
+msgstr "Küldés, kérem várjon..."

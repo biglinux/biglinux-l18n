@@ -18,126 +18,128 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit"
 
 msgid "Selecionar imagem"
-msgstr ""
+msgstr "Resim seçiniz"
 
 msgid "Adicionar WebApps"
-msgstr ""
+msgstr "WebApps Ekleme"
 
 msgid "WebApps Adicionados"
-msgstr ""
+msgstr "WebApps eklendi"
 
 msgid "WebApps BigLinux"
-msgstr ""
+msgstr "WebApps BigLinux"
 
 msgid "Url:"
-msgstr ""
+msgstr "Url:"
 
 msgid "Detectar Nome e Ícone"
-msgstr ""
+msgstr "Adı ve Simgeyi Algıla"
 
 msgid "Nome:"
-msgstr ""
+msgstr "İsim:"
 
 msgid "Ícone:"
-msgstr ""
+msgstr "Simge:"
 
 msgid "Alterar"
-msgstr ""
+msgstr "Değişim"
 
 msgid "Navegador:"
-msgstr ""
+msgstr "Navigator:"
 
 msgid "Categoria:"
-msgstr ""
+msgstr "Kategori:"
 
 msgid "DESENVOLVIMENTO"
-msgstr ""
+msgstr "GELİŞME"
 
 msgid "ESCRITÓRIO"
-msgstr ""
+msgstr "OFİS"
 
 msgid "GRÁFICOS"
-msgstr ""
+msgstr "GRAFİKLER"
 
 msgid "JOGOS"
-msgstr ""
+msgstr "OYUNLAR"
 
 msgid "MULTIMÍDIA"
-msgstr ""
+msgstr "MULTİMEDYA"
 
 msgid "Criar atalho na Área de Trabalho"
-msgstr ""
+msgstr "Masaüstünde kısayol oluşturma"
 
 msgid "Perfil adicional"
-msgstr ""
+msgstr "Ek profil"
 
 msgid "YouTube Modo TV"
-msgstr ""
+msgstr "YouTube TV Modu"
 
 msgid "Adicionar"
-msgstr ""
+msgstr "Ekle"
 
 msgid "Para adicionar um WebApp, você precisa informar a Url e o Nome."
-msgstr ""
+msgstr "Bir WebApp eklemek için URL'yi ve Adı bildirmeniz gerekir."
 
 msgid "Para detectar o Nome e o Ícone você precisa informar a Url."
-msgstr ""
+msgstr "Adı ve Simgeyi tespit etmek için Url'yi bilgilendirmeniz gerekir."
 
 msgid ""
 "A Url é inválida ou a conexão falhou.<br>Tente inserir o ícone pelo botão "
 "Alterar."
 msgstr ""
+"URL geçersiz veya bağlantı başarısız oldu.<br>Değiştir düğmesi ile simgeyi "
+"yerleştirmeyi deneyin."
 
 msgid "O WebApp foi adicionado com sucesso!"
-msgstr ""
+msgstr "WebApp başarıyla eklendi!"
 
 msgid "Ícones encontrados"
-msgstr ""
+msgstr "Bulunan simgeler"
 
 msgid "Selecione o ícone preferido:"
-msgstr ""
+msgstr "Tercih edilen simgeyi seçin:"
 
 msgid "Desenvolvimento"
-msgstr ""
+msgstr "Geliştirme"
 
 msgid "Escritório"
-msgstr ""
+msgstr "Ofis"
 
 msgid "Gráficos"
-msgstr ""
+msgstr "Grafikler"
 
 msgid "Jogos"
-msgstr ""
+msgstr "Oyunlar"
 
 msgid "Multimídia"
-msgstr ""
+msgstr "Multimedya"
 
 msgid "Tem certeza que deseja remover este WebApp?"
-msgstr ""
+msgstr "Bu WebApp'i kaldırmak istediğinizden emin misiniz?"
 
 msgid "Nenhum WebApp adicionado!"
-msgstr ""
+msgstr "WebApp eklenmedi!"
 
 msgid "Navegador padrão<br>dos webapps:"
-msgstr ""
+msgstr "Varsayılan web <br>uygulamaları tarayıcısı:"
 
 msgid "Alterar navegador"
-msgstr ""
+msgstr "Tarayıcıyı değiştir"
 
 msgid "Selecione o navegador preferido:"
-msgstr ""
+msgstr "Tercih ettiğiniz tarayıcıyı seçin:"
 
 msgid "WebApps Nativos"
-msgstr ""
+msgstr "Yerel Web Uygulamaları"
 
 msgid "Bom dia"
-msgstr ""
+msgstr "Günaydın"
 
 msgid "Boa tarde"
-msgstr ""
+msgstr "İyi günler"
 
 msgid "Boa noite"
-msgstr ""
+msgstr "İyi akşamlar"
 
 msgid "Aguarde, estamos preparando para começar..."
-msgstr ""
+msgstr "Beklemede kalın, başlamaya hazırlanıyoruz..."

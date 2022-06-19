@@ -1,0 +1,101 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the bigocrpdf package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: bigocrpdf\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-06-08 21:46-0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: cs_SK\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit"
+
+msgid ""
+"Escolha o arquivo PDF para aplicar o OCR, com isso será possível efetuar "
+"buscas ou copiar textos.\n"
+"\n"
+"Você também pode utilizar o gerenciador de arquivos, clicar com o botão "
+"direito no arquivo PDF, 'Abrir com' e selecionar a opção de OCR."
+msgstr ""
+"Vyberte soubor PDF, na který chcete použít OCR, abyste mohli vyhledávat nebo "
+"kopírovat texty.\n"
+"\n"
+"Můžete také použít správce souborů, kliknout pravým tlačítkem myši na soubor "
+"PDF, \"Otevřít pomocí\" a vybrat možnost OCR."
+
+msgid "NORMAL"
+msgstr "NORMÁLNÍ"
+
+msgid "ECONÔMICO"
+msgstr "EKONOMIKA"
+
+msgid "MAIS ECONÔMICO"
+msgstr "VÍCE EKONOMIKY"
+
+msgid "ALINHAR"
+msgstr "ALIGN"
+
+msgid "AUTO ROTAÇÃO"
+msgstr "AUTOMATICKÁ ROTACE"
+
+msgid "ALINHAR E GIRAR AUTOMÁTICA"
+msgstr "AUTOMATICKÉ ZAROVNÁNÍ A OTOČENÍ"
+
+msgid "NÃO MUDE"
+msgstr "NEMĚNIT"
+
+msgid "ESPANHOL"
+msgstr "ŠPANĚLSKÝ"
+
+msgid "INGLÊS"
+msgstr "ANGLIČTINA"
+
+msgid "PORTUGUÊS"
+msgstr "PORTUGALSKO"
+
+msgid ""
+"Você pode optar por reduzir a qualidade da imagem.<br>Dessa forma você terá "
+"arquivos menores, facilitando,<br>por exemplo, enviá-los por e-mail."
+msgstr ""
+"Můžete snížit kvalitu obrazu.<br>Tímto způsobem získáte menší soubory, které "
+"lze snáze<br>odeslat například e-mailem."
+
+msgid ""
+"Para adicionar novos idiomas, instale os complementos do tesseract no "
+"gerenciador de pacotes do sistema."
+msgstr ""
+"Chcete-li přidat nové jazyky, nainstalujte doplňky tesseract ve správci "
+"systémových balíčků."
+
+msgid "Aplicar"
+msgstr "Použít"
+
+msgid "Torne seu PDF pesquisável"
+msgstr "Zpřístupněte své PDF soubory pro vyhledávání"
+
+msgid ""
+"Adicionar OCR no PDF digitalizado permitindo seleção de textos e busca:"
+msgstr ""
+"Přidání OCR do naskenovaného PDF, které umožňuje výběr textu a vyhledávání:"
+
+msgid "OCR para PDF"
+msgstr "OCR pro PDF"
+
+msgid "Arquivo"
+msgstr "Soubor"
+
+msgid "Pasta:"
+msgstr "Složka:"
+
+msgid "Abrir"
+msgstr "Otevřít"
+
+msgid "Arquivo salvo: "
+msgstr "Uložený soubor "

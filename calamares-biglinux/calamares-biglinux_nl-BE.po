@@ -26,9 +26,16 @@ msgid ""
 "\n"
 "Deseja prosseguir com com a instalação em modo EFI?"
 msgstr ""
+"De huidige boot gebruikt de EFI mode, maar ik heb geen EFI partities op deze "
+"computer gevonden, als op deze computer al een ander systeem geïnstalleerd "
+"is en u wilt dat dat geïnstalleerd blijft, zult u waarschijnlijk de "
+"instelling in het BIOS moeten veranderen om in Legacy mode te booten, ook "
+"wel BIOS mode genoemd.\n"
+"\n"
+"Wilt u doorgaan met de EFI installatie?"
 
 msgid "Instalar o sistema"
-msgstr ""
+msgstr "Installatie van het systeem"
 
 msgid ""
 "O boot atual está utilizando o modo Legacy/BIOS, porém encontrei pelo menos "
@@ -38,45 +45,51 @@ msgid ""
 "\n"
 "Deseja prosseguir com com a instalação em modo Legacy/BIOS?"
 msgstr ""
+"De huidige boot gebruikt Legacy/BIOS mode, maar ik vond minstens één EFI "
+"partitie op deze computer. Voor een geslaagde installatie zult u "
+"waarschijnlijk de instelling in het BIOS moeten veranderen om in EFI of UEFI "
+"modus op te starten.\n"
+"\n"
+"Wilt u doorgaan met de Legacy/BIOS installatie?"
 
 msgid "Instalar o BigLinux"
-msgstr ""
+msgstr "BigLinux installeren"
 
 msgid "PADRÃO"
-msgstr ""
+msgstr "STANDAARD"
 
 msgid "DESEMPENHO"
-msgstr ""
+msgstr "PRESTATIES"
 
 msgid "COMPATIBILIDADE"
-msgstr ""
+msgstr "COMPATIBILITEIT"
 
 msgid "Compacta os dados"
-msgstr ""
+msgstr "De gegevens compacteren"
 
 msgid "Pontos de restauração"
-msgstr ""
+msgstr "Herstelpunten"
 
 msgid "Adia a gravação dos dados"
-msgstr ""
+msgstr "Stelt de gegevensopname uit"
 
 msgid "Funciona com tabelas de particionamento antigas"
-msgstr ""
+msgstr "Werkt met oude partitietabellen"
 
 msgid "BTRFS com fsync"
-msgstr ""
+msgstr "BTRFS met fsync"
 
 msgid "BTRFS sem fsync"
-msgstr ""
+msgstr "BTRFS zonder fsync"
 
 msgid "SELECIONAR"
-msgstr ""
+msgstr "SELECTEER"
 
 msgid "Instalar no HD"
-msgstr ""
+msgstr "Installeren op HD"
 
 msgid "O sistema está em modo"
-msgstr ""
+msgstr "Het systeem is in"
 
 msgid "e com o kernel"
-msgstr ""
+msgstr "en met de kernel"

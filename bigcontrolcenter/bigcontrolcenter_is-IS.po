@@ -18,10 +18,10 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit"
 
 msgid "Iniciando no BigLinux"
-msgstr ""
+msgstr "Byrjar á BigLinux"
 
 msgid "Central de Controle"
-msgstr ""
+msgstr "Stjórnstöð"
 
 msgid ""
 "A webcam já está sendo utilizada pelo programa: $WEBCAM_BUSY\n"
@@ -30,152 +30,170 @@ msgid ""
 "As alterações feitas podem ser vistas\n"
 "na imagem da sua webcam em outros programas."
 msgstr ""
+"Vefmyndavélin er þegar í notkun af forritinu: $WEBCAM_BUSY\n"
+"\n"
+"Ég mun opna það í uppsetningarham.\n"
+"Hægt er að skoða breytingarnar sem gerðar eru\n"
+"á webcam myndinni þinni í öðrum forritum."
 
 msgid "Category"
-msgstr ""
+msgstr "Flokkur"
 
 msgid "Name"
-msgstr ""
+msgstr "Nafn"
 
 msgid ""
 "O relatório foi salvo no arquivo $FILE_TO_SAVE\n"
 "\n"
 "Deseja visualizar o relatório agora?\n"
 msgstr ""
+"Skýrslan var vistuð í skránni $FILE_TO_SAVE\n"
+"\n"
+"Viltu skoða skýrsluna núna?\n"
 
 msgid "Visualizar o relatório"
-msgstr ""
+msgstr "Skoða skýrsluna"
 
 msgid "Hardinfo Relatory"
-msgstr ""
+msgstr "Hardinfo skýrsla"
 
 msgid "Introdução ao BigLinux"
-msgstr ""
+msgstr "Kynning á BigLinux"
 
 msgid "Bem vindo ao BigLinux"
-msgstr ""
+msgstr "Velkomin í BigLinux"
 
 msgid "Comece com algumas etapas simples."
-msgstr ""
+msgstr "Byrjaðu með nokkrum einföldum skrefum."
 
 msgid "Mostrar na inicialização"
-msgstr ""
+msgstr "Sýna á gangsetning"
 
 msgid "Olá"
-msgstr ""
+msgstr "Halló"
 
 msgid "Ajustes iniciais"
-msgstr ""
+msgstr "Upphaflegar leiðréttingar"
 
 msgid ""
 "Disponiblizamos configurações completas para você selecionar de forma "
 "extremamente simples."
-msgstr ""
+msgstr "Heill stillingar eru í boði fyrir þig að velja á afar einfaldan hátt."
 
 msgid "Escolha seu navegador padrão"
-msgstr ""
+msgstr "Veldu sjálfgefna vafrann þinn"
 
 msgid "Defina seus programas padrões."
-msgstr ""
+msgstr "Stilltu sjálfgefin forrit."
 
 msgid "Outros navegadores"
-msgstr ""
+msgstr "Aðrir vafrar"
 
 msgid "KDE Connect"
-msgstr ""
+msgstr "KDE Connect"
 
 msgid ""
 "O KDE Connect é um aplicativo que facilita as comunicações sem fio e a "
 "transferência de dados entre dispositivos em redes locais. Disponível na "
 "Google Play Store para Android e Apple Store para iPhone."
 msgstr ""
+"KDE Connect er forrit sem auðveldar þráðlaus fjarskipti og gagnaflutning "
+"milli tækja á staðarnetum. Fáanlegt í Google Play Store fyrir Android og "
+"Apple Store fyrir iPhone."
 
 msgid "Instalação de Driver e Informações de Hardware"
-msgstr ""
+msgstr "Upplýsingar um uppsetningu ökumanns og vélbúnað"
 
 msgid "Instalar ou Remover Drivers e Firmwares de forma simples."
-msgstr ""
+msgstr "Settu upp eða fjarlægðu ökumenn og Firmwares á einfaldan hátt."
 
 msgid "Impressoras"
-msgstr ""
+msgstr "Prentarar"
 
 msgid "Conheça alguns recursos"
-msgstr ""
+msgstr "Lærðu um nokkur úrræði"
 
 msgid ""
 "Nosso sistema é colaborativo, venha fazer parte dessa evolução. Confira as "
 "novidades!"
 msgstr ""
+"Kerfið okkar er samstarf, komdu og vertu hluti af þessari þróun. Skoðaðu "
+"fréttirnar!"
 
 msgid "Big Store"
-msgstr ""
+msgstr "Stór verslun"
 
 msgid "Web Apps"
-msgstr ""
+msgstr "Vefforrit"
 
 msgid "Redutor de Ruídos"
-msgstr ""
+msgstr "Hávaði rörtengi"
 
 msgid "Configurar a voz do sistema (TTS)"
-msgstr ""
+msgstr "Setja upp kerfi rödd (TTS)"
 
 msgid "Doação e Redes sociais"
-msgstr ""
+msgstr "Framlag og félagsleg net"
 
 msgid "Sua doação é muito importante para o projeto e siga as redes sociais."
 msgstr ""
+"Framlag þitt er mjög mikilvægt fyrir verkefnið og fylgdu samfélagsmiðlum."
 
 msgid "Doação"
-msgstr ""
+msgstr "Framlag"
 
 msgid "Fórum"
-msgstr ""
+msgstr "Spjallborð"
 
 msgid "YouTube"
-msgstr ""
+msgstr "YouTube"
 
 msgid "Twitter"
-msgstr ""
+msgstr "Twitter"
 
 msgid "Telegram"
-msgstr ""
+msgstr "Símskeyti"
 
 msgid "Instagram"
-msgstr ""
+msgstr "Instagram"
 
 msgid "Facebook"
-msgstr ""
+msgstr "Facebook"
 
 msgid "Parabéns, você concluiu os primeiros passos para utilizar o BigLinux."
-msgstr ""
+msgstr "Til hamingju, þú hefur lokið fyrstu skrefunum til að nota BigLinux."
 
 msgid "Integração com Google Drive e ownCloud"
-msgstr ""
+msgstr "Samþætting við Google Drive og ownCloud"
 
 msgid ""
 "Acesse seus arquivos que estão no Google Drive ou ownCloud diretamente no "
 "gerenciador de arquivos."
 msgstr ""
+"Opnaðu skrárnar þínar sem eru í Google Drive eða ownCloud beint úr "
+"skráarstjóranum."
 
 msgid "Qt Assistant"
-msgstr ""
+msgstr "Qt aðstoðarmaður"
 
 msgid "Programas de desenvolvimento para QT."
-msgstr ""
+msgstr "Þróunaráætlanir fyrir QT."
 
 msgid ""
 "Configurações de uso dos antigos CDs de música, não são válidas para músicas "
 "em MP3."
 msgstr ""
+"Stillingar fyrir notkun gamalla tónlistargeisladiska gilda ekki fyrir MP3 "
+"lög."
 
 msgid "Procurar servidores (zeroconf)"
-msgstr ""
+msgstr "Leita að netþjónum (zeroconf)"
 
 msgid "Instalar ou remover programas."
-msgstr ""
+msgstr "Setja upp eða fjarlægja forrit."
 
 msgid "Restaurar a configuração de programas"
-msgstr ""
+msgstr "Endurheimta forrit stillingar"
 
 msgid ""
 "Utilitário que facilita a restauração do sistema instalado,\n"
@@ -186,127 +204,141 @@ msgid ""
 "<br>\n"
 "de pacotes e o terminal do sistema instalado."
 msgstr ""
+"Gagnsemi sem auðveldar endurreisn uppsettrar kerfis,\n"
+"<br>\n"
+"sérstaklega kerfi stígvél endurheimta (Grub).\n"
+"<br><br>\n"
+"Það er einnig hægt að nota til að fá aðgang að stjórnanda\n"
+"<br>\n"
+"pakka og flugstöðinni á uppsettu kerfi."
 
 msgid "Temas do Bootsplash"
-msgstr ""
+msgstr "Bootsplash þemu"
 
 msgid "Procurar servidores SSH"
-msgstr ""
+msgstr "Leitaðu að SSH netþjónum"
 
 msgid "Procurar servidores VNC"
-msgstr ""
+msgstr "Leita að VNC netþjónum"
 
 msgid "Configurar este tema de borda de janelas"
-msgstr ""
+msgstr "Grunnstilla þemað fyrir landamæri í glugga"
 
 msgid "Configurar este tema de janelas."
-msgstr ""
+msgstr "Stilla þetta gluggaþema."
 
 msgid "Qt Designer"
-msgstr ""
+msgstr "Qt Hönnuður"
 
 msgid "Gerenciador de áudio avançado - Alsamixer"
-msgstr ""
+msgstr "Advanced hljóð framkvæmdastjóri - Alsamixer"
 
 msgid "Controlador de áudio em caso de ausência som."
-msgstr ""
+msgstr "Hljóðstýring ef ekkert hljóð er til staðar."
 
 msgid "Particionar ou formatar"
-msgstr ""
+msgstr "Skipting eða snið"
 
 msgid "Cuidado, este programa poderá apagar todos os dados do computador."
-msgstr ""
+msgstr "Verið varkár, þetta forrit getur eytt öllum gögnum úr tölvunni þinni."
 
 msgid "Informações de armazenamento (SMART)"
-msgstr ""
+msgstr "Upplýsingar um geymslu (SMART)"
 
 msgid "Firewall"
-msgstr ""
+msgstr "Eldveggur"
 
 msgid "Configurar regras de segurança para a conexão com a internet."
-msgstr ""
+msgstr "Settu upp öryggisreglur fyrir nettenginguna."
 
 msgid "Configurar webcam ou placa de captura"
-msgstr ""
+msgstr "Setja upp webcam eða handtaka kort"
 
 msgid "Scanners HP"
-msgstr ""
+msgstr "HP Skannar"
 
 msgid "Impressoras HP"
-msgstr ""
+msgstr "HP prentarar"
 
 msgid "Verificar o status, nível de tinta e manutenção."
-msgstr ""
+msgstr "Athugaðu stöðu, blekstig og viðhald."
 
 msgid "Montar Hardware Apple"
-msgstr ""
+msgstr "Saman Apple Vélbúnaður"
 
 msgid ""
 "Com esse programa você pode acessar os programas do seu iPhone ou iPad Apple "
 "de forma similar ao acesso de arquivos em um pendrive."
 msgstr ""
+"Með þessu forriti geturðu fengið aðgang að forritunum á Apple iPhone eða "
+"iPad á svipaðan hátt og aðgangur að skrám á pendrive."
 
 msgid "Áreas de trabalho virtuais e atividades"
-msgstr ""
+msgstr "Sýndarvinnusvæði og starfsemi"
 
 msgid "Crie mais de uma área de trabalho vitual alternando entre elas."
 msgstr ""
+"Búðu til fleiri en eitt sýndarvinnusvæði með því að skipta á milli þeirra."
 
 msgid ""
 "Ativar a pesquisa aumenta o consumo de memória e processamento do sistema."
-msgstr ""
+msgstr "Virkja leit eykur kerfi minni og vinnslu neyslu."
 
 msgid "Ajuste a data, hora e fuso horário."
-msgstr ""
+msgstr "Stilltu dagsetningu, tíma og tímabelti."
 
 msgid "Tema da Área de Trabalho"
-msgstr ""
+msgstr "Desktop þema"
 
 msgid "Ícones e emoticons"
-msgstr ""
+msgstr "Tákn og broskörlum"
 
 msgid "Joystick"
-msgstr ""
+msgstr "stýripinna"
 
 msgid "Configurações de layout, teclas de atalho e outras opções."
-msgstr ""
+msgstr "Skipulagstillingar, flýtilykla og aðrar valkostir."
 
 msgid "Gerenciar conexões"
-msgstr ""
+msgstr "Stjórna tengingum"
 
 msgid ""
 "Configuração avançada de rede (VPN, wifi, cabeada, IP fixo, PPPoE, ADSL, "
 "rede com fio, banda larga móvel e outros)."
 msgstr ""
+"Advanced net stillingar (VPN, WiFi, hlerunarbúnað, fast IP, PPPoE, ADSL, "
+"hlerunarbúnað net, farsíma breiðband, og aðrir)."
 
 msgid "Instalar, configurar ou remover impressoras."
-msgstr ""
+msgstr "Setja upp, stilla eða fjarlægja prentara."
 
 msgid "Configurar o tema Kvantum"
-msgstr ""
+msgstr "Setja upp Kvantum þema"
 
 msgid ""
 "Para a configuração do Kvantum funcionar, aplique o tema Kvantum em 'Estilo "
 "do aplicativo'."
 msgstr ""
+"Til að Kvantum stillingar virki skaltu nota Kvantum þemað undir 'Application "
+"Style'."
 
 msgid "Carteira de senhas do KDE"
-msgstr ""
+msgstr "KDE lykilorð veski"
 
 msgid "Qt Linguist"
-msgstr ""
+msgstr "Qt Málfræðingur"
 
 msgid "Gerenciador de usuários"
-msgstr ""
+msgstr "Notandi framkvæmdastjóri"
 
 msgid "Adiciona, remove ou edita usuários e grupos do sistema."
-msgstr ""
+msgstr "Bætir við, fjarlægir eða ritstýrir notendum og hópum úr kerfinu."
 
 msgid "Gerenciar arquivos"
-msgstr ""
+msgstr "Stjórna skrám"
 
 msgid "Tenha acesso a seus arquivos e pastas."
-msgstr ""
+msgstr "Fáðu aðgang að skrám þínum og möppum."
 
 msgid ""
 "Esse programa pode transferir arquivos entre smartphones, tablets e outros "
@@ -316,94 +348,106 @@ msgid ""
 "do relógio do sistema. Para sincronizar com o seu smartphone acesse a Google "
 "Store ou Apple Store e instale o Kde Connect."
 msgstr ""
+"Þetta forrit getur flutt skrár á milli smartphones, töflur og aðrar tölvur. "
+"Með því geturðu til dæmis notað snjallsímann þinn sem þráðlausa mús og "
+"lyklaborð til að stjórna tölvunni, meðal annarra eiginleika. Það samlagast "
+"betur með BigLinux og er meðal forrita sem staðsett eru nálægt "
+"kerfisklukkunni. Til að samstilla snjallsímann þinn skaltu fara í Google "
+"Store eða Apple Store og setja upp Kde Connect."
 
 msgid "Terminal"
-msgstr ""
+msgstr "Terminal"
 
 msgid "Acesse o terminal de comandos."
-msgstr ""
+msgstr "Farðu í stjórnstöðina."
 
 msgid "Gerenciar senhas salvas"
-msgstr ""
+msgstr "Stjórna vistuðum lykilorðum"
 
 msgid "Som e microfone"
-msgstr ""
+msgstr "Hljóð og hljóðnemi"
 
 msgid ""
 "Configurar ou alterar dispositivos de entrada e saída de áudio. (Ex: HDMI)"
-msgstr ""
+msgstr "Setja upp eða breyta hljómflutnings-inntak og úttak tæki. (Frá: HDMI)"
 
 msgid "Qt QDBusViewer "
-msgstr ""
+msgstr "Qt QDBusViewer "
 
 msgid "Centro de controle do KDE"
-msgstr ""
+msgstr "KDE stjórnstöð"
 
 msgid "Configurador avançado de energia"
-msgstr ""
+msgstr "Háþróaður máttur stillingar"
 
 msgid "Aparência"
-msgstr ""
+msgstr "Útlit"
 
 msgid "Dispositivos"
-msgstr ""
+msgstr "Tæki"
 
 msgid "Personalizar"
-msgstr ""
+msgstr "sérsníða"
 
 msgid "Telefone"
-msgstr ""
+msgstr "sími"
 
 msgid "Rede e Internet"
-msgstr ""
+msgstr "Net og Internet"
 
 msgid "Contas"
-msgstr ""
+msgstr "víxla"
 
 msgid "Região e Idioma"
-msgstr ""
+msgstr "Svæði og tungumál"
 
 msgid "Privacidade"
-msgstr ""
+msgstr "Persónuvernd"
 
 msgid "Servidor"
-msgstr ""
+msgstr "mainframe"
 
 msgid "Sobre"
-msgstr ""
+msgstr "Um"
 
 msgid "Pesquisar..."
-msgstr ""
+msgstr "Leita..."
 
 msgid "Temas, desktop e ajustes"
-msgstr ""
+msgstr "Þemu, skrifborð og klip"
 
 msgid ""
 "Lista com alguns programas do sistema que você pode restaurar a configuração "
 "com um clique."
 msgstr ""
+"Listi með nokkrum kerfisforritum sem þú getur endurheimt stillingar með "
+"einum smelli."
 
 msgid "Informações do sistema e hardware"
-msgstr ""
+msgstr "Upplýsingar um kerfi og vélbúnað"
 
 msgid ""
 "Além de visualizar as informações é possível salvar em um arquivo e "
 "compartilhar na internet."
 msgstr ""
+"Auk þess að skoða upplýsingarnar er hægt að vista þær í skrá og deila þeim á "
+"internetinu."
 
 msgid "Conectar à internet"
-msgstr ""
+msgstr "Tengdu við internetið"
 
 msgid "Conecte na internet por cabo de rede ou wifi."
-msgstr ""
+msgstr "Tengdu við internetið í gegnum netkerfi eða WiFi."
 
 msgid "Conectar à internet utilizando o Android"
-msgstr ""
+msgstr "Tengdu við internetið með Android"
 
 msgid ""
 "Você pode utilizar seu smartphone ou tablet Android como um dispositivo wifi "
 "usb para seu computador."
 msgstr ""
+"Þú getur notað Android smartphone eða töflu sem USB WiFi tæki fyrir tölvuna "
+"þína."
 
 msgid ""
 "Como utilizar a internet do seu tablet ou  smartphone Android:\n"
@@ -424,38 +468,57 @@ msgid ""
 "*Caso esteja utilizando o dados móveis, será consumido do seu plano de dados."
 ""
 msgstr ""
+"Hvernig á að nota internetið frá Android spjaldtölvunni þinni eða "
+"snjallsímanum:\n"
+"<br><br>\n"
+"Einn. Tengdu tækið í USB tölvunnar;\n"
+"<br>\n"
+"2. Farðu í Stillingar Android tækisins þíns og leitaðu að sumum valkostunum: "
+"'USB tengill', 'USB-tengill' eða 'USB-tjóður'.\n"
+"<br>\n"
+"Þeir eru mismunandi leiðir sem hver framleiðandi notar fyrir sömu auðlind.\n"
+"<br><br>\n"
+"* Þessir valkostir eru innan 'Net og Internet' eða 'Connections and Sharing' "
+"hlutanum.\n"
+"<br><br>\n"
+"Þegar þú virkjar það verður þú tengdur sjálfkrafa og þú munt nota sömu "
+"tengingu og Android tækið þitt.\n"
+"<br>\n"
+"* Ef þú ert að nota farsímagögn verður það neytt úr gagnaáætluninni þinni."
 
 msgid "Visualizar informações do sistema e hardware"
-msgstr ""
+msgstr "Skoða upplýsingar um kerfi og vélbúnað"
 
 msgid ""
 "Também cria um arquivo com informações, que você pode enviar a outras "
 "pessoas para que o ajudem com o suporte."
 msgstr ""
+"Það skapar einnig skrá með upplýsingum, sem þú getur sent til annarra til að "
+"hjálpa þér með stuðning."
 
 msgid "Adicionar ou Remover Usuários"
-msgstr ""
+msgstr "Bæta við eða fjarlægja notendur"
 
 msgid "Criar, remover e gerenciar contas e grupos de usuários."
-msgstr ""
+msgstr "Búa til, fjarlægja og stjórna notendareikningum og hópum."
 
 msgid "Economia de energia"
-msgstr ""
+msgstr "Orkusparandi"
 
 msgid "Monitores e Telas"
-msgstr ""
+msgstr "Skjáir og skjáir"
 
 msgid "Configurar resolução, cor, frequência, dpi, escala, cor noturna, etc."
-msgstr ""
+msgstr "Stilla upplausn, lit, tíðni, dpi, mælikvarða, næturlit osfrv."
 
 msgid "Resetar as configurações da tela"
-msgstr ""
+msgstr "Endurstilla skjástillingar"
 
 msgid "Restaurar a configuração padrão do monitor."
-msgstr ""
+msgstr "Endurheimtu skjáinn í sjálfgefna stillingu."
 
 msgid "Airmore"
-msgstr ""
+msgstr "Airmore"
 
 msgid ""
 "Instale o aplicativo Airmore na loja de aplicativos do seu smartphone.  "
@@ -465,9 +528,14 @@ msgid ""
 "também pode utilizar nosso gerenciador de Web apps para facilitar o uso "
 "desse site."
 msgstr ""
+"Settu upp Airmore appið frá appversluninni á snjallsímanum þínum. Notaðu "
+"þennan hnapp til að opna vefsíðu Airmore á þeirri tölvu. Lestu QRCode sem "
+"birtist á tölvuskjánum þínum með því að nota forritið í snjallsímanum þínum "
+"og hafa aðgang að skráaflutningum og fleiru. Þú getur líka notað "
+"vefforritastjóra okkar til að auðvelda notkun þessarar síðu."
 
 msgid "Airdroid"
-msgstr ""
+msgstr "Airdroid"
 
 msgid ""
 "Instale o aplicativo Airdroid na loja de aplicativos do seu smartphone.  "
@@ -477,49 +545,61 @@ msgid ""
 "também pode utilizar nosso gerenciador de Web apps para facilitar o uso "
 "desse site."
 msgstr ""
+"Settu upp Airdroid forritið úr forritaverslun snjallsímans þíns. Notaðu "
+"þennan hnapp til að opna Airdroid vefsíðuna á þeirri tölvu. Lestu QRCode sem "
+"birtist á tölvuskjánum þínum með því að nota forritið í snjallsímanum þínum "
+"og hafa aðgang að skráaflutningum og fleiru. Þú getur líka notað "
+"vefforritastjóra okkar til að auðvelda notkun þessarar síðu."
 
 msgid "Suporte a aplicativos Android"
-msgstr ""
+msgstr "Android app stuðningur"
 
 msgid ""
 "Utilizando Waydroid abra programas de Android no BigLinux. *Este recurso "
 "ainda está em fase experimental."
 msgstr ""
+"Notkun Waydroid opna Android forrit á BigLinux. * Þessi eiginleiki er enn í "
+"tilraunafasa."
 
 msgid "Instalar drivers e firmwares"
-msgstr ""
+msgstr "Setja upp ökumenn og firmwares"
 
 msgid "Snapshots e backups"
-msgstr ""
+msgstr "Skyndimyndir og öryggisafrit"
 
 msgid "Gerenciar pontos de restauração."
-msgstr ""
+msgstr "Stjórna endurheimta stig."
 
 msgid ""
 "A partição que o sistema foi instalado não possui pontos de restauração, mas "
 "é possível fazer backups utilizando o método rsync."
 msgstr ""
+"Skiptingin sem kerfið var sett upp hefur ekki endurheimt stig, en hægt er að "
+"taka afrit með rsync aðferðinni."
 
 msgid ""
 "Sistema em modo live. Restaure pontos de restauração do sistema instalado."
 msgstr ""
+"Kerfi í lifandi ham. Endurheimta endurheimta stig fyrir uppsett kerfi."
 
 msgid ""
 "Selecione o texto desejado e utilize o atalho com a tecla [Meta] + V ou o "
 "ícone no menu do sistema para que textos escritos sejam falados."
 msgstr ""
+"Veldu viðeigandi texta og notaðu flýtivísann með [Meta] +V takkanum eða "
+"tákninu í kerfisvalmyndinni til að gera skriflegan texta talað."
 
 msgid "Instalar versões de kernel"
-msgstr ""
+msgstr "Setja Kernel Útgáfur"
 
 msgid "Regras de segurança do Java"
-msgstr ""
+msgstr "Öryggisreglur Java"
 
 msgid "OpenJDK Java 8 Policy Tool"
-msgstr ""
+msgstr "OpenJDK Java 8 Stefna Tól"
 
 msgid "Snapdrop (Não precisa de aplicativo)"
-msgstr ""
+msgstr "Snapdrop (Engin app þarf)"
 
 msgid ""
 "Basta abrir o site https://snapdrop.net nos Hardware que você quer "
@@ -530,65 +610,79 @@ msgid ""
 "smartphone para outro.  Você também pode utilizar nosso gerenciador de Web "
 "apps para facilitar o uso desse site."
 msgstr ""
+"Opnaðu bara síðuna https://snapdrop.net undir Vélbúnaður sem þú vilt flytja "
+"skrárnar til, þær verða sjálfkrafa greindar og þú getur sent skrárnar sem þú "
+"vilt. Notaðu þennan hnapp til að opna Snapdrop vefsíðuna á þeirri tölvu. "
+"Snapdrop er hægt að nota á hvaða snjallsíma eða tölvu sem er, þar á meðal að "
+"flytja skrár beint frá einum snjallsíma til annars. Þú getur líka notað "
+"vefforritastjóra okkar til að auðvelda notkun þessarar síðu."
 
 msgid "As configurações da tela foram resetadas."
-msgstr ""
+msgstr "Stillingar skjásins hafa verið endurstilltar."
 
 msgid "Configurações da tela"
-msgstr ""
+msgstr "Skjástillingar"
 
 msgid "Maximizado"
-msgstr ""
+msgstr "Hámarkað"
 
 msgid "Waydroid"
-msgstr ""
+msgstr "Waydroid"
 
 msgid ""
 "Utilize programas para Android no seu computador, está em fase experimental, "
 "alguns programas podem não funcionar.<br>"
 msgstr ""
+"Notaðu Android forrit á tölvunni þinni, það er í tilraunafasa, sum forrit "
+"mega ekki virka. <br>"
 
 msgid ""
 "Com o Wayland instalado é possível abrir programas no formato .apk, abra "
 "pelo gerenciador de arquivos do BigLinux.<br>"
 msgstr ""
+"Með Wayland uppsett er hægt að opna forrit í.apk sniði, opna í gegnum "
+"BigLinux skráasafnið. <br>"
 
 msgid ""
 "<b>ATIVAR</b> a aceleração 3D em placas de vídeo Intel e AMD, outras como "
 "Nvidia <b>DESATIVE</b>."
 msgstr ""
+"<b>Kveikjaá</b> 3D hröðun á Intel og AMD skjákort, aðrir eins og "
+"Nvidia<b>Disable</b> ."
 
 msgid "Download próximo de 1 GB, pode demorar muito."
-msgstr ""
+msgstr "Sækja nálægt 1 GB, það getur tekið langan tíma."
 
 msgid "Resolução: "
-msgstr ""
+msgstr "Upplausn: "
 
 msgid "O Waydroid também pode ser iniciado utilizando o menu do sistema"
-msgstr ""
+msgstr "Waydroid er einnig hægt að hefja með því að nota kerfisvalmyndina"
 
 msgid ""
 "Se a aceleração 3D estiver ativada em um hardware incompatível<br> o android "
 "não passará da tela de loading"
 msgstr ""
+"Ef 3D hröðun er virk á ósamrýmanlegum vélbúnaði <br>mun Android ekki fara út "
+"fyrir hleðsluskjáinn"
 
 msgid "Parar o Waydroid"
-msgstr ""
+msgstr "Stöðva Waydroid"
 
 msgid "Iniciar o Waydroid"
-msgstr ""
+msgstr "Byrja Waydroid"
 
 msgid "Ativar a aceleração 3D"
-msgstr ""
+msgstr "Virkja 3D hröðun"
 
 msgid "Desativar a aceleração 3D"
-msgstr ""
+msgstr "Slökktu á 3D hröðun"
 
 msgid "Instalar Waydroid"
-msgstr ""
+msgstr "Setja Waydroid"
 
 msgid "Instalar Waydroid com Google Apps"
-msgstr ""
+msgstr "Settu Waydroid upp með Google Apps"
 
 msgid ""
 "Para ativar a PlayStore é necessário clicar em (Exibir ID do Android) e "
@@ -597,17 +691,24 @@ msgid ""
 "Google, insira seu ID do Android e faça o registro. Pode demorar alguns "
 "minutos para ativar no seu Waydroid. Feche e abra novamente. Pronto!"
 msgstr ""
+"Til að virkja PlayStore þarftu að smella (Skoða Android ID) og afrita "
+"Android ID, smelltu síðan á (Virkja Google Apps) til að opna skráningarsíðu "
+"tækisins, þú þarft að vera skráður inn á Google reikninginn þinn, sláðu inn "
+"Android ID þitt og skráðu þig. Það getur tekið nokkrar mínútur að virkja á "
+"Waydroid þinn. Lokaðu og opnaðu aftur. Tilbúinn!"
 
 msgid "Exibir ID do Android"
-msgstr ""
+msgstr "Sýna Android ID"
 
 msgid "Ativar Google Apps"
-msgstr ""
+msgstr "Virkja Google Apps"
 
 msgid "ID do Android:"
-msgstr ""
+msgstr "Android ID:"
 
 msgid ""
 "Não foi possível resgatar o ID do Android. \\n\\nAtenção: Waydroid precisa "
 "estar aberto."
 msgstr ""
+"Ekki er hægt að innleysa Android ID.\\ n\\ nViðvörun: Waydroid verður að "
+"vera opið."

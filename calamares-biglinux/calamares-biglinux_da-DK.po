@@ -26,9 +26,16 @@ msgid ""
 "\n"
 "Deseja prosseguir com com a instalação em modo EFI?"
 msgstr ""
+"Den nuværende opstart bruger EFI-tilstand, men jeg fandt ikke nogen EFI-"
+"partitioner på denne computer.Hvis der allerede er installeret et andet "
+"system på denne computer, og du ønsker, at det skal forblive installeret, "
+"skal du sandsynligvis ændre indstillingen i BIOS til at starte op i Legacy-"
+"tilstand, også kaldet BIOS-tilstand.\n"
+"\n"
+"Ønsker du at fortsætte med EFI-installationen?"
 
 msgid "Instalar o sistema"
-msgstr ""
+msgstr "Installation af systemet"
 
 msgid ""
 "O boot atual está utilizando o modo Legacy/BIOS, porém encontrei pelo menos "
@@ -38,45 +45,51 @@ msgid ""
 "\n"
 "Deseja prosseguir com com a instalação em modo Legacy/BIOS?"
 msgstr ""
+"Den nuværende boot bruger Legacy/BIOS-tilstand, men jeg har fundet mindst én "
+"EFI-partition på denne computer. For at få en vellykket installation skal du "
+"sandsynligvis ændre indstillingen i BIOS'en for at starte op i EFI- eller "
+"UEFI-tilstand.\n"
+"\n"
+"Ønsker du at fortsætte med Legacy/BIOS-installationen?"
 
 msgid "Instalar o BigLinux"
-msgstr ""
+msgstr "Installation af BigLinux"
 
 msgid "PADRÃO"
-msgstr ""
+msgstr "STANDARD"
 
 msgid "DESEMPENHO"
-msgstr ""
+msgstr "PERFORMANCE"
 
 msgid "COMPATIBILIDADE"
-msgstr ""
+msgstr "KOMPATIBILITET"
 
 msgid "Compacta os dados"
-msgstr ""
+msgstr "Komprimering af dataene"
 
 msgid "Pontos de restauração"
-msgstr ""
+msgstr "Genoprettelsespunkter"
 
 msgid "Adia a gravação dos dados"
-msgstr ""
+msgstr "Udskyder registreringen af data"
 
 msgid "Funciona com tabelas de particionamento antigas"
-msgstr ""
+msgstr "Virker med gamle partitionstabeller"
 
 msgid "BTRFS com fsync"
-msgstr ""
+msgstr "BTRFS med fsync"
 
 msgid "BTRFS sem fsync"
-msgstr ""
+msgstr "BTRFS uden fsync"
 
 msgid "SELECIONAR"
-msgstr ""
+msgstr "VÆLG"
 
 msgid "Instalar no HD"
-msgstr ""
+msgstr "Installer på HD"
 
 msgid "O sistema está em modo"
-msgstr ""
+msgstr "Systemet er i"
 
 msgid "e com o kernel"
-msgstr ""
+msgstr "og med kernen"

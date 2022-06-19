@@ -18,40 +18,40 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit"
 
 msgid "Reduzir ruídos do microfone"
-msgstr ""
+msgstr "Reducer mikrofonstøj"
 
 msgid "Microfone sem ruídos"
-msgstr ""
+msgstr "Støjfri mikrofon"
 
 msgid "Desativando"
-msgstr ""
+msgstr "Deaktivering af"
 
 msgid "Filtro do Microfone"
-msgstr ""
+msgstr "Mikrofonfilter"
 
 msgid "Ativando"
-msgstr ""
+msgstr "Aktivering af"
 
 msgid "Filtro de ruído"
-msgstr ""
+msgstr "Støjfilter"
 
 msgid "Iniciar automaticamente"
-msgstr ""
+msgstr "Start automatisk"
 
 msgid "Configuração aplicada"
-msgstr ""
+msgstr "Anvendt konfiguration"
 
 msgid "Microfone"
-msgstr ""
+msgstr "Mikrofon"
 
 msgid "Configuração de áudio."
-msgstr ""
+msgstr "Lydkonfiguration."
 
 msgid "Confirma a remoção das personalizações na configuração de áudio?"
-msgstr ""
+msgstr "Kan du bekræfte, at tilpasningerne i lydkonfigurationen er fjernet?"
 
 msgid "Configuração de áudio"
-msgstr ""
+msgstr "Konfiguration af lyd"
 
 msgid ""
 "Configuração de áudio restaurada.\n"
@@ -59,6 +59,10 @@ msgid ""
 "Os programas em execução no momento podem precisar ser fechados\n"
 "e abertos novamente para o áudio funcionar corretamente."
 msgstr ""
+"Lydkonfigurationen er genoprettet.\n"
+"\n"
+"Det kan være nødvendigt at lukke programmer, der kører i øjeblikket\n"
+"og åbnes igen for at få lyden til at fungere korrekt."
 
 msgid "Cancelado, nenhuma configuração foi removida!"
-msgstr ""
+msgstr "Annulleret, ingen konfiguration er blevet fjernet!"

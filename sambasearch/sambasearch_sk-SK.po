@@ -18,66 +18,70 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit"
 
 msgid "Procurar compartilhamentos"
-msgstr ""
+msgstr "Vyhľadávanie akcií"
 
 msgid "Localiza compartilhamentos na rede (Windows ou Samba)."
-msgstr ""
+msgstr "Vyhľadajte sieťové akcie (Windows alebo Samba)."
 
 msgid "GPL v2 or greater"
-msgstr ""
+msgstr "GPL v2 alebo vyššia"
 
 msgid "Bruno Gonçalves"
-msgstr ""
+msgstr "Bruno Gonçalves"
 
 msgid "01/08/2019"
-msgstr ""
+msgstr "01/08/2019"
 
 msgid "https://github.com/biglinux/sambasearch"
-msgstr ""
+msgstr "https://github.com/biglinux/sambasearch"
 
 msgid "https://www.biglinux.com.br"
-msgstr ""
+msgstr "https://www.biglinux.com.br"
 
 msgid ""
 "Alteração aplicada, verifique se os compartilhamentos de rede estão "
 "aparecendo no gerenciador de arquivos."
 msgstr ""
+"Po vykonaní zmeny skontrolujte, či sa sieťové akcie zobrazujú v správcovi "
+"súborov."
 
 msgid "Usuário"
-msgstr ""
+msgstr "Používateľ"
 
 msgid "Insira o usuário do servidor que deseja acessar"
-msgstr ""
+msgstr "Zadajte používateľa servera, ku ktorému chcete získať prístup"
 
 msgid "Senha"
-msgstr ""
+msgstr "Heslo"
 
 msgid "Insira a senha do usuário do servidor que deseja acessar"
-msgstr ""
+msgstr "Zadajte heslo používateľa servera, ku ktorému chcete získať prístup"
 
 msgid ""
 "*A maioria dos servidores precisa de login e senha para listar os "
 "compartilhamentos disponíveis, deixe em branco para efetuar uma busca "
 "anônima."
 msgstr ""
+"*Väčšina serverov vyžaduje prihlasovacie meno a heslo na zobrazenie zoznamu "
+"dostupných akcií, ak chcete vykonať anonymné vyhľadávanie, nechajte prázdne."
 
 msgid "Cancelar"
-msgstr ""
+msgstr "Zrušiť"
 
 msgid "Próximo"
-msgstr ""
+msgstr "Ďalšie"
 
 msgid "Anônimo"
-msgstr ""
+msgstr "Anonymný"
 
 msgid "Procura efetuada com o usuário:"
-msgstr ""
+msgstr "Vyhľadávanie vykonané spolu s používateľom:"
 
 msgid "na rede:"
-msgstr ""
+msgstr "v sieti:"
 
 msgid "Voltar"
-msgstr ""
+msgstr "Späť"
 
 msgid "Fechar"
-msgstr ""
+msgstr "Zatvoriť"

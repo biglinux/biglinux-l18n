@@ -26,9 +26,16 @@ msgid ""
 "\n"
 "Deseja prosseguir com com a instalação em modo EFI?"
 msgstr ""
+"În momentul de față se utilizează modul EFI, însă nu am găsit nicio partiție "
+"EFI pe acest computer; dacă pe acest computer este deja instalat un alt "
+"sistem și doriți ca acesta să rămână instalat, va trebui probabil să "
+"modificați setarea din BIOS pentru a porni în modul Legacy, numit și modul "
+"BIOS.\n"
+"\n"
+"Doriți să continuați cu instalarea EFI?"
 
 msgid "Instalar o sistema"
-msgstr ""
+msgstr "Instalarea sistemului"
 
 msgid ""
 "O boot atual está utilizando o modo Legacy/BIOS, porém encontrei pelo menos "
@@ -38,45 +45,51 @@ msgid ""
 "\n"
 "Deseja prosseguir com com a instalação em modo Legacy/BIOS?"
 msgstr ""
+"În momentul de față se utilizează modul Legacy/BIOS, însă am găsit cel puțin "
+"o partiție EFI pe acest computer. Pentru o instalare reușită, va trebui "
+"probabil să modificați setările din BIOS pentru a porni în modul EFI sau "
+"UEFI.\n"
+"\n"
+"Doriți să continuați cu instalarea Legacy/BIOS?"
 
 msgid "Instalar o BigLinux"
-msgstr ""
+msgstr "Instalarea BigLinux"
 
 msgid "PADRÃO"
-msgstr ""
+msgstr "STANDARD"
 
 msgid "DESEMPENHO"
-msgstr ""
+msgstr "PERFORMANȚĂ"
 
 msgid "COMPATIBILIDADE"
-msgstr ""
+msgstr "COMPATIBILITATE"
 
 msgid "Compacta os dados"
-msgstr ""
+msgstr "Compactarea datelor"
 
 msgid "Pontos de restauração"
-msgstr ""
+msgstr "Puncte de restaurare"
 
 msgid "Adia a gravação dos dados"
-msgstr ""
+msgstr "Amână înregistrarea datelor"
 
 msgid "Funciona com tabelas de particionamento antigas"
-msgstr ""
+msgstr "Funcționează cu tabele de partiții vechi"
 
 msgid "BTRFS com fsync"
-msgstr ""
+msgstr "BTRFS cu fsync"
 
 msgid "BTRFS sem fsync"
-msgstr ""
+msgstr "BTRFS fără fsync"
 
 msgid "SELECIONAR"
-msgstr ""
+msgstr "SELECT"
 
 msgid "Instalar no HD"
-msgstr ""
+msgstr "Instalați pe HD"
 
 msgid "O sistema está em modo"
-msgstr ""
+msgstr "Sistemul este în"
 
 msgid "e com o kernel"
-msgstr ""
+msgstr "și cu nucleul"

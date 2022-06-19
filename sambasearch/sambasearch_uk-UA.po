@@ -18,66 +18,71 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit"
 
 msgid "Procurar compartilhamentos"
-msgstr ""
+msgstr "Пошук акцій"
 
 msgid "Localiza compartilhamentos na rede (Windows ou Samba)."
-msgstr ""
+msgstr "Знаходить спільні ресурси в мережі (Windows або Samba)."
 
 msgid "GPL v2 or greater"
-msgstr ""
+msgstr "GPL v2 або вище"
 
 msgid "Bruno Gonçalves"
-msgstr ""
+msgstr "Бруно Гонсал"
 
 msgid "01/08/2019"
-msgstr ""
+msgstr "01/08/2019"
 
 msgid "https://github.com/biglinux/sambasearch"
-msgstr ""
+msgstr "https://github.com/biglinux/sambasearch"
 
 msgid "https://www.biglinux.com.br"
-msgstr ""
+msgstr "https://www.biglinux.com.br"
 
 msgid ""
 "Alteração aplicada, verifique se os compartilhamentos de rede estão "
 "aparecendo no gerenciador de arquivos."
 msgstr ""
+"Застосовані зміни, переконайтеся, що мережеві спільні ресурси відображаються "
+"у файловому менеджері."
 
 msgid "Usuário"
-msgstr ""
+msgstr "Користувач"
 
 msgid "Insira o usuário do servidor que deseja acessar"
-msgstr ""
+msgstr "Введіть користувача сервера, до якого ви хочете отримати доступ"
 
 msgid "Senha"
-msgstr ""
+msgstr "Пароль"
 
 msgid "Insira a senha do usuário do servidor que deseja acessar"
 msgstr ""
+"Введіть пароль користувача сервера, до якого ви хочете отримати доступ"
 
 msgid ""
 "*A maioria dos servidores precisa de login e senha para listar os "
 "compartilhamentos disponíveis, deixe em branco para efetuar uma busca "
 "anônima."
 msgstr ""
+"* Більшість серверів потребують логін і пароль для списку доступних акцій, "
+"залиште порожнім, щоб виконати анонімний пошук."
 
 msgid "Cancelar"
-msgstr ""
+msgstr "Скасувати"
 
 msgid "Próximo"
-msgstr ""
+msgstr "наступний"
 
 msgid "Anônimo"
-msgstr ""
+msgstr "Анонімний"
 
 msgid "Procura efetuada com o usuário:"
-msgstr ""
+msgstr "Пошук здійснюється з користувачем:"
 
 msgid "na rede:"
-msgstr ""
+msgstr "в мережі:"
 
 msgid "Voltar"
-msgstr ""
+msgstr "Повертатися"
 
 msgid "Fechar"
-msgstr ""
+msgstr " Закрити"

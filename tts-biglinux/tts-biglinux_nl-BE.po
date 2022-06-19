@@ -18,51 +18,54 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit"
 
 msgid "Configurações de texto para voz"
-msgstr ""
+msgstr "Tekst naar spraak instellingen"
 
 msgid "Vozes - Abrir BigStore"
-msgstr ""
+msgstr "Stemmen - Open BigStore"
 
 msgid "Voice Configuration"
-msgstr ""
+msgstr "Spraakconfiguratie"
 
 msgid "Configurar voz"
-msgstr ""
+msgstr "Spraak configureren"
 
 msgid "Para falar um texto selecionado use o atalho "
-msgstr ""
+msgstr "Om een geselecteerde tekst uit te spreken gebruikt u de sneltoets "
 
 msgid "[Alt] + [V]"
-msgstr ""
+msgstr "[Alt] + [V]"
 
 msgid ""
 "ou o ícone na sessão Utilitários no menu do sistema. Para interromper a "
 "leitura use novamene o atalho ou ícone."
 msgstr ""
+"of icoon in de sectie Hulpprogramma's van het systeemmenu. Om het lezen te "
+"stoppen, gebruikt u opnieuw de snelkoppeling of het pictogram."
 
 msgid "Selecione as configurações de sua preferência"
-msgstr ""
+msgstr "Kies uw voorkeursinstellingen"
 
 msgid "Números maiores deixam a voz mais rápida, o padrão é: -25"
 msgstr ""
+"Grotere getallen maken de stem sneller, de standaardinstelling is: -25"
 
 msgid "Velocidade"
-msgstr ""
+msgstr "Snelheid"
 
 msgid "Números maiores deixam a voz mais aguda, o padrão é: -25"
-msgstr ""
+msgstr "Hogere cijfers maken de stem hoger, de standaard is: -25"
 
 msgid "Tom"
-msgstr ""
+msgstr "Tom"
 
 msgid "O padrão é: 0."
-msgstr ""
+msgstr "De standaardinstelling is: 0."
 
 msgid "Volume"
-msgstr ""
+msgstr "Volume"
 
 msgid "As vozes são otimizadas para idiomas expecíficos."
-msgstr ""
+msgstr "De stemmen zijn geoptimaliseerd voor specifieke talen."
 
 msgid "Voz"
-msgstr ""
+msgstr "Stem"

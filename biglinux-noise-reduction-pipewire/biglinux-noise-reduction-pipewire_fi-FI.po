@@ -18,40 +18,40 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit"
 
 msgid "Reduzir ruídos do microfone"
-msgstr ""
+msgstr "Vähennä mikrofonin melua"
 
 msgid "Microfone sem ruídos"
-msgstr ""
+msgstr "Meluton mikrofoni"
 
 msgid "Desativando"
-msgstr ""
+msgstr "Deaktivointi"
 
 msgid "Filtro do Microfone"
-msgstr ""
+msgstr "Mikrofonisuodatin"
 
 msgid "Ativando"
-msgstr ""
+msgstr "Aktivointi"
 
 msgid "Filtro de ruído"
-msgstr ""
+msgstr "Kohinasuodatin"
 
 msgid "Iniciar automaticamente"
-msgstr ""
+msgstr "Käynnistyy automaattisesti"
 
 msgid "Configuração aplicada"
-msgstr ""
+msgstr "Sovellettu konfiguraatio"
 
 msgid "Microfone"
-msgstr ""
+msgstr "Mikrofoni"
 
 msgid "Configuração de áudio."
-msgstr ""
+msgstr "Äänikokoonpano."
 
 msgid "Confirma a remoção das personalizações na configuração de áudio?"
-msgstr ""
+msgstr "Voitko vahvistaa, että mukautukset on poistettu äänikokoonpanosta?"
 
 msgid "Configuração de áudio"
-msgstr ""
+msgstr "Äänen konfigurointi"
 
 msgid ""
 "Configuração de áudio restaurada.\n"
@@ -59,6 +59,10 @@ msgid ""
 "Os programas em execução no momento podem precisar ser fechados\n"
 "e abertos novamente para o áudio funcionar corretamente."
 msgstr ""
+"Äänikokoonpano palautettu.\n"
+"\n"
+"Tällä hetkellä käynnissä olevat ohjelmat on ehkä suljettava\n"
+"ja avattiin uudelleen, jotta ääni toimisi oikein."
 
 msgid "Cancelado, nenhuma configuração foi removida!"
-msgstr ""
+msgstr "Peruttu, mitään kokoonpanoa ei ole poistettu!"

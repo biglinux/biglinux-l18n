@@ -26,9 +26,14 @@ msgid ""
 "\n"
 "Deseja prosseguir com com a instalação em modo EFI?"
 msgstr ""
+"Бягучая загрузка выкарыстоўваецца ў рэжыме EFI, але я не знайшоў на гэтым "
+"кампутары раздзелаў EFI, калі на гэтым камп&#39;ютары ўжо ўсталявана іншая "
+"сістэма, і вы хочаце, каб яна заставалася ўсталяванай, вам, верагодна, трэба "
+"будзе змяніць настройку BIOS для загрузкі ў Legacy рэжым, таксама званы "
+"рэжымам BIOS. Вы хочаце працягнуць ўстаноўку ў рэжыме EFI?"
 
 msgid "Instalar o sistema"
-msgstr ""
+msgstr "ўсталяваць сістэму"
 
 msgid ""
 "O boot atual está utilizando o modo Legacy/BIOS, porém encontrei pelo menos "
@@ -38,45 +43,49 @@ msgid ""
 "\n"
 "Deseja prosseguir com com a instalação em modo Legacy/BIOS?"
 msgstr ""
+"Цяперашняя загрузка выкарыстоўваецца ў рэжыме Legacy/BIOS, але я знайшоў "
+"прынамсі адзін раздзел EFI на гэтым кампутары. Для паспяховай ўстаноўкі вам, "
+"верагодна, спатрэбіцца змяніць настройку BIOS для загрузкі ў рэжыме EFI або "
+"UEFI. Вы хочаце працягнуць устаноўку ў рэжыме Legacy/BIOS?"
 
 msgid "Instalar o BigLinux"
-msgstr ""
+msgstr "Усталюйце BigLinux"
 
 msgid "PADRÃO"
-msgstr ""
+msgstr "УЗОР"
 
 msgid "DESEMPENHO"
-msgstr ""
+msgstr "ПРАКАЗНАСЦЬ"
 
 msgid "COMPATIBILIDADE"
-msgstr ""
+msgstr "Сумяшчальнасць"
 
 msgid "Compacta os dados"
-msgstr ""
+msgstr "сціснуць дадзеныя"
 
 msgid "Pontos de restauração"
-msgstr ""
+msgstr "кропкі аднаўлення"
 
 msgid "Adia a gravação dos dados"
-msgstr ""
+msgstr "Адкласці запіс дадзеных"
 
 msgid "Funciona com tabelas de particionamento antigas"
-msgstr ""
+msgstr "Працуе са старымі табліцамі падзелаў"
 
 msgid "BTRFS com fsync"
-msgstr ""
+msgstr "BTRFS з fsync"
 
 msgid "BTRFS sem fsync"
-msgstr ""
+msgstr "BTRFS без fsync"
 
 msgid "SELECIONAR"
-msgstr ""
+msgstr "ВЫБРАЦЬ"
 
 msgid "Instalar no HD"
-msgstr ""
+msgstr "Ўсталяваць на HD"
 
 msgid "O sistema está em modo"
-msgstr ""
+msgstr "Сістэма знаходзіцца ў рэжыме"
 
 msgid "e com o kernel"
-msgstr ""
+msgstr "і з ядром"

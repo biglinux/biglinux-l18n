@@ -18,66 +18,70 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit"
 
 msgid "Procurar compartilhamentos"
-msgstr ""
+msgstr "Részvények keresése"
 
 msgid "Localiza compartilhamentos na rede (Windows ou Samba)."
-msgstr ""
+msgstr "Keresse meg a hálózati megosztásokat (Windows vagy Samba)."
 
 msgid "GPL v2 or greater"
-msgstr ""
+msgstr "GPL v2 vagy nagyobb"
 
 msgid "Bruno Gonçalves"
-msgstr ""
+msgstr "Bruno Gonçalves"
 
 msgid "01/08/2019"
-msgstr ""
+msgstr "01/08/2019"
 
 msgid "https://github.com/biglinux/sambasearch"
-msgstr ""
+msgstr "https://github.com/biglinux/sambasearch"
 
 msgid "https://www.biglinux.com.br"
-msgstr ""
+msgstr "https://www.biglinux.com.br"
 
 msgid ""
 "Alteração aplicada, verifique se os compartilhamentos de rede estão "
 "aparecendo no gerenciador de arquivos."
 msgstr ""
+"Alkalmazott módosítás, ellenőrizze, hogy a hálózati megosztások megjelennek-"
+"e a fájlkezelőben."
 
 msgid "Usuário"
-msgstr ""
+msgstr "Felhasználó"
 
 msgid "Insira o usuário do servidor que deseja acessar"
-msgstr ""
+msgstr "Adja meg a hozzáférni kívánt szerverfelhasználót"
 
 msgid "Senha"
-msgstr ""
+msgstr "Jelszó"
 
 msgid "Insira a senha do usuário do servidor que deseja acessar"
-msgstr ""
+msgstr "Adja meg a hozzáférni kívánt szerverfelhasználó jelszavát"
 
 msgid ""
 "*A maioria dos servidores precisa de login e senha para listar os "
 "compartilhamentos disponíveis, deixe em branco para efetuar uma busca "
 "anônima."
 msgstr ""
+"*A legtöbb szerver bejelentkezést és jelszót igényel az elérhető megosztások "
+"listájához, az anonim kereséshez hagyja üresen."
 
 msgid "Cancelar"
-msgstr ""
+msgstr "Törölje"
 
 msgid "Próximo"
-msgstr ""
+msgstr "Következő"
 
 msgid "Anônimo"
-msgstr ""
+msgstr "Névtelen"
 
 msgid "Procura efetuada com o usuário:"
-msgstr ""
+msgstr "A felhasználóval együtt végzett keresés:"
 
 msgid "na rede:"
-msgstr ""
+msgstr "a hálózaton:"
 
 msgid "Voltar"
-msgstr ""
+msgstr "Vissza"
 
 msgid "Fechar"
-msgstr ""
+msgstr "Zárja be a"

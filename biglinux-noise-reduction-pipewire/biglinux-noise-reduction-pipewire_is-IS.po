@@ -18,40 +18,40 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit"
 
 msgid "Reduzir ruídos do microfone"
-msgstr ""
+msgstr "Draga úr hávaða hljóðnema"
 
 msgid "Microfone sem ruídos"
-msgstr ""
+msgstr "Hljóðlaus hljóðnemi"
 
 msgid "Desativando"
-msgstr ""
+msgstr "Afvirkja"
 
 msgid "Filtro do Microfone"
-msgstr ""
+msgstr "Hljóðnemi Sía"
 
 msgid "Ativando"
-msgstr ""
+msgstr "virkja"
 
 msgid "Filtro de ruído"
-msgstr ""
+msgstr "Hávaði sía"
 
 msgid "Iniciar automaticamente"
-msgstr ""
+msgstr "Byrjaðu sjálfkrafa"
 
 msgid "Configuração aplicada"
-msgstr ""
+msgstr "Stillingar beitt"
 
 msgid "Microfone"
-msgstr ""
+msgstr "Hljóðnemi"
 
 msgid "Configuração de áudio."
-msgstr ""
+msgstr "Audio skipulag."
 
 msgid "Confirma a remoção das personalizações na configuração de áudio?"
-msgstr ""
+msgstr "Staðfestir þú að fjarlægja customizations í hljóðstillingu?"
 
 msgid "Configuração de áudio"
-msgstr ""
+msgstr "Audio skipulag"
 
 msgid ""
 "Configuração de áudio restaurada.\n"
@@ -59,6 +59,10 @@ msgid ""
 "Os programas em execução no momento podem precisar ser fechados\n"
 "e abertos novamente para o áudio funcionar corretamente."
 msgstr ""
+"Audio stilling endurreist.\n"
+"\n"
+"Hugsanlega þarf að loka forritum sem eru í gangi\n"
+"og opnaði aftur til að hljóðið virki rétt."
 
 msgid "Cancelado, nenhuma configuração foi removida!"
-msgstr ""
+msgstr "Hætt við, engar stillingar voru fjarlægðar!"

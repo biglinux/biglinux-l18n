@@ -25,54 +25,61 @@ msgstr ""
 "Generated-By: pygettext.py 1.5"
 
 msgid "A Big-Store já está em uso."
-msgstr ""
+msgstr "The Big-Store er þegar í notkun."
 
 msgid "Big-Store"
-msgstr ""
+msgstr "Big-Store"
 
 msgid ""
 "Para os programas Snap aparecerem no menu do sistema finalize a sessão e "
 "faça login novamente."
 msgstr ""
+"Til að Snap forrit birtist í kerfisvalmyndinni skaltu skrá þig út og skrá "
+"þig aftur inn."
 
 msgid "Configurações"
-msgstr ""
+msgstr "Stillingar"
 
 msgid "Suporte a Flatpak ativo."
-msgstr ""
+msgstr "Flatpak stuðningur er virkur."
 
 msgid "Suporte a Flatpak NÃO está ativo."
-msgstr ""
+msgstr "Flatpak stuðningur er EKKI virkur."
 
 msgid "Suporte a Snap ativo."
-msgstr ""
+msgstr "Snap stuðningur virkur."
 
 msgid "Suporte a Snap NÃO está ativo."
-msgstr ""
+msgstr "Snap stuðningur er EKKI virkur."
 
 msgid "Executar"
-msgstr ""
+msgstr "Framkvæma"
 
 msgid "Atualizar cache dos repositórios nativos."
-msgstr ""
+msgstr "Uppfæra skyndiminni af innfæddum geymslum."
 
 msgid "Procurar o servidor de repositórios nativos mais rápido no momento."
-msgstr ""
+msgstr "Leitaðu að hraðasta innfædda geymsluþjóninum í augnablikinu."
 
 msgid "Utilize as opções a seguir com cautela:"
-msgstr ""
+msgstr "Notaðu eftirfarandi valkosti með varúð:"
 
 msgid ""
 "Atualizar as chaves dos repositórios BigLinux, Manjaro e Archlinux. Lembre "
 "que se você ativou repositórios complementares será necessário adicionar as "
 "chaves desses repositórios novamente."
 msgstr ""
+"Uppfærðu lyklana á BigLinux, Manjaro og Archlinux geymslunum. Mundu að ef þú "
+"hefur virkjað viðbótargeymslur þarftu að bæta lyklunum við þessar geymslur "
+"aftur."
 
 msgid ""
 "Forçar atualizações, utilize essa opção se não estiver conseguindo atualizar "
 "o sistema, porém, na atualização forçada alguns programas podem ser "
 "removidos."
 msgstr ""
+"Þvingaðu uppfærslur, notaðu þennan valkost ef þú getur ekki uppfært kerfið, "
+"en í þvingaðri uppfærslu geta sum forrit verið fjarlægð."
 
 msgid ""
 "\n"
@@ -81,6 +88,11 @@ msgid ""
 "portanto é a melhor opção quando o programa que você<br>\n"
 "deseja está disponível em mais de um tipo de instalação.<br>"
 msgstr ""
+"\n"
+"Native forrit eru betur samþætt inn í kerfið <br>\n"
+"og þeir gangast undir frekari prófanir áður en þeir verða tiltækir, <br>\n"
+"svo það er besti kosturinn þegar forritið sem þú <br>\n"
+"vil er fáanlegt í fleiri en einni tegund uppsetningar. <br>"
 
 msgid ""
 "\n"
@@ -91,6 +103,13 @@ msgid ""
 "bem, mas não passam pelos mesmos testes feitos<br>\n"
 "com os programas nativos."
 msgstr ""
+"\n"
+"AUR forrit eru notandi-búin til forskriftir <br>\n"
+"til að setja upp forrit sem eru ekki tiltæk <br>\n"
+"beint í innfæddum geymslum kerfisins. <br>\n"
+"Forrit sett upp með þessari aðferð vinna <br>\n"
+"jæja, en þeir standast ekki sömu prófanir <br>\n"
+"með innfæddum forritum."
 
 msgid ""
 "\n"
@@ -102,6 +121,14 @@ msgid ""
 "para quem tem computadores que possuem boa capacidade<br>\n"
 "de processamento e armazenamento."
 msgstr ""
+"\n"
+"Flatpak forrit eru í boði fyrir alla <br>\n"
+"Linux dreifingar, eru almennt viðhaldið af sjálfum sér <br>\n"
+"höfundum áætlana, þó ekki hafa sumir <br>\n"
+"hagræðingar og samþættingar við kerfið, eins og á sér stað með <br>\n"
+"innfæddur forrit, þetta getur verið gott val <br>\n"
+"fyrir þá sem hafa tölvur sem hafa góða getu <br>\n"
+"vinnslu og geymslu."
 
 msgid ""
 "Programas Snap, assim como o Flatpak<br>\n"
@@ -110,305 +137,311 @@ msgid ""
 "se o programa que você procura está disponível apenas neste<br>\n"
 "formato, utilize-o."
 msgstr ""
+"Snap forrit, rétt eins og Flatpak <br>\n"
+"veitir forrit fyrir allar Linux dreifingar. <br>\n"
+"Það hefur tilhneigingu til að vera þyngri og minna samþætt inn í kerfið, en "
+"<br>\n"
+"ef forritið sem þú ert að leita að er aðeins í boði á þessu <br>\n"
+"snið, nota það."
 
 msgid "Aplicando - Aguarde"
-msgstr ""
+msgstr "Sækja um - Vinsamlegast bíddu"
 
 msgid "Procurar programa"
-msgstr ""
+msgstr "Leita að forriti"
 
 msgid "Programas Nativos"
-msgstr ""
+msgstr "Innfædd forrit"
 
 msgid "Programas AUR"
-msgstr ""
+msgstr "AUR forrit"
 
 msgid "Programas Flatpak"
-msgstr ""
+msgstr "Flatpak Programs"
 
 msgid "Programas Snap"
-msgstr ""
+msgstr "Snap Programs"
 
 msgid "Navegadores"
-msgstr ""
+msgstr "siglingafólk"
 
 msgid "E-mail"
-msgstr ""
+msgstr "Email"
 
 msgid "Armazenamento nas nuvens"
-msgstr ""
+msgstr "Ský geymsla"
 
 msgid "Download"
-msgstr ""
+msgstr "Sækja"
 
 msgid "Compartilhadores e Torrent"
-msgstr ""
+msgstr "Sharers og Torrent"
 
 msgid "Mensageiros e Conferências"
-msgstr ""
+msgstr "Sendiboðar og ráðstefnur"
 
 msgid "Acesso Remoto, FTP, SSH, VNC, RDP..."
-msgstr ""
+msgstr "Fjarlægur aðgangur, FTP, SSH, VNC, RDP..."
 
 msgid "Ferramentas de rede"
-msgstr ""
+msgstr "Net verkfæri"
 
 msgid "Suíte Office"
-msgstr ""
+msgstr "Skrifstofa Suite"
 
 msgid "Visualizadores de PDF, Epub, e-books e mais"
-msgstr ""
+msgstr "PDF áhorfendur, Epub, rafbækur og fleira"
 
 msgid "Editores de PDF"
-msgstr ""
+msgstr "PDF ritstjórar"
 
 msgid "Agenda de tarefas e contatos"
-msgstr ""
+msgstr "Verkefni og tengiliðaáætlun"
 
 msgid "Visualizadores de imagem"
-msgstr ""
+msgstr "Myndáhorfendur"
 
 msgid "Editores de imagem e ferramentas de desenho"
-msgstr ""
+msgstr "Myndritstjórar og teikningatæki"
 
 msgid "Captura de tela (Screenshot)"
-msgstr ""
+msgstr "Skjámynd (skjámynd)"
 
 msgid "Converter, redimensionar ou compactar imagens"
-msgstr ""
+msgstr "Breyta, breyta stærð eða þjappa myndum"
 
 msgid "Edição 3D e CAD"
-msgstr ""
+msgstr "3D og CAD útgáfa"
 
 msgid "Reprodutores de áudio"
-msgstr ""
+msgstr "Hljóðspilarar"
 
 msgid "Rádio online"
-msgstr ""
+msgstr "Útvarp á netinu"
 
 msgid "Gravadores e conversores de áudio"
-msgstr ""
+msgstr "Hljóðupptökutæki og breytir"
 
 msgid "Editores de áudio"
-msgstr ""
+msgstr "Audio ritstjórar"
 
 msgid "Reprodutores de vídeo"
-msgstr ""
+msgstr "Vídeó leikmenn"
 
 msgid "Vídeo online, IPTV, Youtube..."
-msgstr ""
+msgstr "Online vídeó, IPTV, YouTube..."
 
 msgid "Editores e compactadores de vídeo"
-msgstr ""
+msgstr "Vídeó ritstjórar og þjöppur"
 
 msgid "Gravadores e copiadores de CD e DVD"
-msgstr ""
+msgstr "CD og DVD brennarar og ljósritunarvélar"
 
 msgid "Webcam, gravação de tela e transmissão de vídeo"
-msgstr ""
+msgstr "Vefmyndavél, skjáupptaka og straumspilun"
 
 msgid "Gerenciadores de jogos"
-msgstr ""
+msgstr "Leikjastjórar"
 
 msgid "Utilitários para jogos"
-msgstr ""
+msgstr "Leikur tólum"
 
 msgid "Emulador Retroarch"
-msgstr ""
+msgstr "Retroarch keppinautur"
 
 msgid "Emuladores"
-msgstr ""
+msgstr "Keppinautar"
 
 msgid "Criadores de jogos"
-msgstr ""
+msgstr "Leikur Höfundar"
 
 msgid "Ação/Arcade"
-msgstr ""
+msgstr "Action/Arcade"
 
 msgid "Cartas"
-msgstr ""
+msgstr "Spil"
 
 msgid "Educacional"
-msgstr ""
+msgstr "Lærdómsríkt"
 
 msgid "Estratégia"
-msgstr ""
+msgstr "Stefna"
 
 msgid "Puzzles"
-msgstr ""
+msgstr "þrautir"
 
 msgid "Tabuleiro"
-msgstr ""
+msgstr "Bakki"
 
 msgid "RPG"
-msgstr ""
+msgstr "RPG"
 
 msgid "Armazenamento e partições"
-msgstr ""
+msgstr "Geymsla og skipting"
 
 msgid "Fontes (Tipografia)"
-msgstr ""
+msgstr "Skírnarfontur (leturfræði)"
 
 msgid "Java JRE"
-msgstr ""
+msgstr "Java JRE"
 
 msgid "Virtualização"
-msgstr ""
+msgstr "Sýndarvæðing"
 
 msgid "Editores de código e IDE"
-msgstr ""
+msgstr "Code Ritstjórar og IDE"
 
 msgid "Banco de dados"
-msgstr ""
+msgstr "Gagnasafn"
 
 msgid "Servidores WEB"
-msgstr ""
+msgstr "Vefþjónar"
 
 msgid "Pacotes nativos e AUR"
-msgstr ""
+msgstr "Innfæddur og AUR pakkar"
 
 msgid "Instalados:"
-msgstr ""
+msgstr "Uppsett:"
 
 msgid "Disponíveis:"
-msgstr ""
+msgstr "Laus:"
 
 msgid "Pacotes Flatpak"
-msgstr ""
+msgstr "Flatpak pakkar"
 
 msgid "Repositórios configurados:"
-msgstr ""
+msgstr "Stilltar geymslur:"
 
 msgid "Pacotes Snap"
-msgstr ""
+msgstr "Snap pakkar"
 
 msgid "Pacotes Snap Instalados clique no pacote para remover"
-msgstr ""
+msgstr "Snap Pakkar Uppsett smelltu á pakkann til að fjarlægja"
 
 msgid "Versão: "
-msgstr ""
+msgstr "Útgáfa: "
 
 msgid "Pacote: "
-msgstr ""
+msgstr "Pakki: "
 
 msgid "Não informada"
-msgstr ""
+msgstr "Ekki upplýst"
 
 msgid "Atualizar"
-msgstr ""
+msgstr "uppfæra"
 
 msgid "Versão instalada"
-msgstr ""
+msgstr "Uppsett útgáfa"
 
 msgid "Versão disponível"
-msgstr ""
+msgstr "Laus útgáfa"
 
 msgid "Versão"
-msgstr ""
+msgstr "Útgáfa"
 
 msgid "Pacote .deb"
-msgstr ""
+msgstr ".deb pakki"
 
 msgid ""
 "Esse programa está em formato .deb, que possui a melhor integração com o "
 "sistema."
-msgstr ""
+msgstr "Þetta forrit er í.deb sniði, sem hefur bestu samþættingu við kerfið."
 
 msgid "Dependências a instalar"
-msgstr ""
+msgstr "Ósjálfstæði til að setja upp"
 
 msgid "Ver mais"
-msgstr ""
+msgstr "Sjá meira"
 
 msgid "Pacotes com dependências não atendidas: "
-msgstr ""
+msgstr "Pakkar með óuppfylltum ósjálfstæði: "
 
 msgid "Depende de "
-msgstr ""
+msgstr "Það fer eftir "
 
 msgid "mas não vai ser instalado."
-msgstr ""
+msgstr "en það er ekki að fara að vera uppsett."
 
 msgid "mas não está disponível"
-msgstr ""
+msgstr "en það er ekki í boði"
 
 msgid "Informações sobre programas nativos"
-msgstr ""
+msgstr "Upplýsingar um innfædd forrit"
 
 msgid "Pacote:"
-msgstr ""
+msgstr "Pakki:"
 
 msgid "Versão disponível:"
-msgstr ""
+msgstr "Laus útgáfa:"
 
 msgid "Repositório:"
-msgstr ""
+msgstr "Geymsla:"
 
 msgid "Instalando"
-msgstr ""
+msgstr "Uppsetning"
 
 msgid "Removendo"
-msgstr ""
+msgstr "Að fjarlægja"
 
 msgid "Informações sobre programas SNAP"
-msgstr ""
+msgstr "Upplýsingar um SNAP forrit"
 
 msgid "Programas SNAP"
-msgstr ""
+msgstr "SNAP Programs"
 
 msgid "Versão disponivel:"
-msgstr ""
+msgstr "Laus útgáfa:"
 
 msgid "Licença:"
-msgstr ""
+msgstr "Leyfi:"
 
 msgid "AUR"
-msgstr ""
+msgstr "AUR"
 
 msgid "Empacotador:"
-msgstr ""
+msgstr "Packer:"
 
 msgid "Reinstalar"
-msgstr ""
+msgstr "Setja aftur"
 
 msgid "Versão instalada:"
-msgstr ""
+msgstr "Uppsett útgáfa:"
 
 msgid "Uso de armazenamento:"
-msgstr ""
+msgstr "Geymsla notkun:"
 
 msgid "Tamanho do download:"
-msgstr ""
+msgstr "Sækja stærð:"
 
 msgid "Site:"
-msgstr ""
+msgstr "Vefsíða:"
 
 msgid "Motivo da instalação:"
-msgstr ""
+msgstr "Ástæða fyrir uppsetningu:"
 
 msgid "Grupos:"
-msgstr ""
+msgstr "Hópar:"
 
 msgid "Assinado:"
-msgstr ""
+msgstr "Undirritaður:"
 
 msgid "Complementos:"
-msgstr ""
+msgstr "Viðbót:"
 
 msgid "Dependências:"
-msgstr ""
+msgstr "Ósjálfstæði:"
 
 msgid "Remove:"
-msgstr ""
+msgstr "Fjarlægja:"
 
 msgid "Substitui:"
-msgstr ""
+msgstr "Það kemur í stað:"
 
 msgid "Arquivos do pacote:"
-msgstr ""
+msgstr "Pakki skrár:"
 
 msgid "Clique aqui para ver os arquivos"
-msgstr ""
+msgstr "Smelltu hér til að skoða skrárnar"
 
 msgid "Informações sobre programas AUR"
-msgstr ""
+msgstr "Upplýsingar um AUR forrit"

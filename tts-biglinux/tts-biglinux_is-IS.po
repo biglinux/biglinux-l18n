@@ -18,51 +18,53 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit"
 
 msgid "Configurações de texto para voz"
-msgstr ""
+msgstr "Stillingar texta til ræðu"
 
 msgid "Vozes - Abrir BigStore"
-msgstr ""
+msgstr "Raddir - Open BigStore"
 
 msgid "Voice Configuration"
-msgstr ""
+msgstr "Rödd stillingar"
 
 msgid "Configurar voz"
-msgstr ""
+msgstr "Setja upp rödd"
 
 msgid "Para falar um texto selecionado use o atalho "
-msgstr ""
+msgstr "Til að tala valinn texta skaltu nota flýtivísann "
 
 msgid "[Alt] + [V]"
-msgstr ""
+msgstr "[Alt] + [V]"
 
 msgid ""
 "ou o ícone na sessão Utilitários no menu do sistema. Para interromper a "
 "leitura use novamene o atalho ou ícone."
 msgstr ""
+"eða táknið í Utilities hluta kerfisvalmyndarinnar. Til að hætta að lesa "
+"skaltu nota flýtivísann eða táknið aftur."
 
 msgid "Selecione as configurações de sua preferência"
-msgstr ""
+msgstr "Veldu stillingar sem þú vilt"
 
 msgid "Números maiores deixam a voz mais rápida, o padrão é: -25"
-msgstr ""
+msgstr "Hærri tölur gera röddina hraðari, sjálfgefið er: -25"
 
 msgid "Velocidade"
-msgstr ""
+msgstr "hraða"
 
 msgid "Números maiores deixam a voz mais aguda, o padrão é: -25"
-msgstr ""
+msgstr "Hærri tölur gera röddina hærri, sjálfgefið er: -25"
 
 msgid "Tom"
-msgstr ""
+msgstr "Tom"
 
 msgid "O padrão é: 0."
-msgstr ""
+msgstr "Sjálfgefið er: 0."
 
 msgid "Volume"
-msgstr ""
+msgstr "Volum"
 
 msgid "As vozes são otimizadas para idiomas expecíficos."
-msgstr ""
+msgstr "Raddirnar eru bjartsýni fyrir ákveðin tungumál."
 
 msgid "Voz"
-msgstr ""
+msgstr "Voice"

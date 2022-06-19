@@ -26,9 +26,15 @@ msgid ""
 "\n"
 "Deseja prosseguir com com a instalação em modo EFI?"
 msgstr ""
+"Trenutni zagon uporablja način EFI, vendar na tem računalniku nisem našel "
+"nobenih particij EFI, če ima ta računalnik že nameščen drug sistem in "
+"želite, da ostane nameščen, boste verjetno morali spremeniti nastavitev v "
+"BIOS-u za zagon v načinu Legacy, ki se imenuje tudi način BIOS.\n"
+"\n"
+"Ali želite nadaljevati z namestitvijo EFI?"
 
 msgid "Instalar o sistema"
-msgstr ""
+msgstr "Namestitev sistema"
 
 msgid ""
 "O boot atual está utilizando o modo Legacy/BIOS, porém encontrei pelo menos "
@@ -38,45 +44,51 @@ msgid ""
 "\n"
 "Deseja prosseguir com com a instalação em modo Legacy/BIOS?"
 msgstr ""
+"Trenutni zagon uporablja način Legacy/BIOS, vendar sem v tem računalniku "
+"našel vsaj eno particijo EFI. Za uspešno namestitev boste verjetno morali "
+"spremeniti nastavitev v BIOS-u, da se bo računalnik zagnal v načinu EFI ali "
+"UEFI.\n"
+"\n"
+"Ali želite nadaljevati z namestitvijo Legacy/BIOS?"
 
 msgid "Instalar o BigLinux"
-msgstr ""
+msgstr "Namestitev sistema BigLinux"
 
 msgid "PADRÃO"
-msgstr ""
+msgstr "STANDARD"
 
 msgid "DESEMPENHO"
-msgstr ""
+msgstr "DELOVANJE"
 
 msgid "COMPATIBILIDADE"
-msgstr ""
+msgstr "KOMPATIBILNOST"
 
 msgid "Compacta os dados"
-msgstr ""
+msgstr "Zgoščevanje podatkov"
 
 msgid "Pontos de restauração"
-msgstr ""
+msgstr "Točke obnovitve"
 
 msgid "Adia a gravação dos dados"
-msgstr ""
+msgstr "Odloži zapisovanje podatkov"
 
 msgid "Funciona com tabelas de particionamento antigas"
-msgstr ""
+msgstr "Deluje s starimi tabelami razdelkov"
 
 msgid "BTRFS com fsync"
-msgstr ""
+msgstr "BTRFS s fsync"
 
 msgid "BTRFS sem fsync"
-msgstr ""
+msgstr "BTRFS brez fsync"
 
 msgid "SELECIONAR"
-msgstr ""
+msgstr "IZBERI"
 
 msgid "Instalar no HD"
-msgstr ""
+msgstr "Namestitev na HD"
 
 msgid "O sistema está em modo"
-msgstr ""
+msgstr "Sistem je v"
 
 msgid "e com o kernel"
-msgstr ""
+msgstr "in z jedrom"

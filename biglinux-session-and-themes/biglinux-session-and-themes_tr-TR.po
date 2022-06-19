@@ -21,9 +21,11 @@ msgid ""
 "Configuração alterada, se estiver utilizando o navegador, reinicie-o para "
 "que a nova configuração seja aplicada."
 msgstr ""
+"Yapılandırma değişti, tarayıcıyı kullanıyorsanız yeni yapılandırmanın "
+"uygulanması için yeniden başlatın."
 
 msgid "Se estiver utilizando algum navegador, feche-o e abra novamente!"
-msgstr ""
+msgstr "Eğer bir tarayıcı kullanıyorsanız, tarayıcıyı kapatın ve tekrar açın!"
 
 msgid ""
 "\n"
@@ -32,6 +34,11 @@ msgid ""
 "\n"
 "Selecione não para utilizar a configuração padrão do sistema.\n"
 msgstr ""
+"\n"
+"Seçilen masaüstü yapılandırması bu sistemde zaten kullanılmıştır,\n"
+"daha önce kullanılmış olan yapılandırmayı geri yüklemek istiyor musunuz?\n"
+"\n"
+"Varsayılan sistem yapılandırmasını kullanmak için hayır öğesini seçin.\n"
 
 msgid ""
 "Configuração aplicada!\n"
@@ -40,130 +47,144 @@ msgid ""
 "para que a configuração termine de\n"
 "ser aplicada."
 msgstr ""
+"Yapılandırma uygulandı!\n"
+"\n"
+"Oturumu kapatın ve tekrar oturum açın\n"
+"yapılandırmanın bitmesi için\n"
+"uygulandı."
 
 msgid "Temas"
-msgstr ""
+msgstr "Temalar"
 
 msgid "Desktop"
-msgstr ""
+msgstr "Masaüstü"
 
 msgid "Ajustes"
-msgstr ""
+msgstr "Ayarlar"
 
 msgid "Temas, Desktop e Ajustes"
-msgstr ""
+msgstr "Temalar, Masaüstü ve Ayarlar"
 
 msgid "Desempenho do desktop"
-msgstr ""
+msgstr "Masaüstü performansı"
 
 msgid "Aceleração do navegador"
-msgstr ""
+msgstr "Tarayıcı hızlandırma"
 
 msgid "Usabilidade"
-msgstr ""
+msgstr "Kullanılabilirlik"
 
 msgid "Tema dos aplicativos"
-msgstr ""
+msgstr "Uygulama teması"
 
 msgid "Bordas arredondadas."
-msgstr ""
+msgstr "Yuvarlatılmış kenarlar."
 
 msgid ""
 "Esse tema possui transparências com efeitos que<br>podem tornar o sistema "
 "lento em computadores<br>antigos ou ambientes virtualizados."
 msgstr ""
+"Bu tema, eski bilgisayarlarda<br>veya sanallaştırılmış ortamlarda sistemi "
+"<br>yavaşlatabilecek efektler içeren saydamlara sahiptir. "
 
 msgid "<b>Classic</b> e <b>New</b> têm melhor desempenho."
-msgstr ""
+msgstr "<b>Klasik</b> ve <b>Yeni</b> daha iyi performansa sahiptir."
 
 msgid "Renderizar o desktop via software"
-msgstr ""
+msgstr "Masaüstünü yazılım aracılığıyla oluşturma"
 
 msgid "(Pode ser útil em máquina virtual ou computadores antigos)"
-msgstr ""
+msgstr "(Sanal makinelerde veya eski bilgisayarlarda faydalı olabilir)"
 
 msgid "Escolher programas a serem carregados na memória durante boot"
-msgstr ""
+msgstr "Önyükleme sırasında belleğe yüklenecek programları seçin"
 
 msgid ""
 "O Preload carrega arquivos dos programas na memória, para que iniciem "
 "rapidamente. O uso excessivo causa lentidão. Escolha a opção desejada:"
 msgstr ""
+"Ön yükleme, program dosyalarını belleğe yükler, böylece hızlı bir şekilde "
+"başlarlar. Aşırı kullanım yavaşlamalara neden olur. İstediğiniz seçeneği "
+"seçin:"
 
 msgid "Automático"
-msgstr ""
+msgstr "Otomatik"
 
 msgid "Ativar"
-msgstr ""
+msgstr "Etkinleştir"
 
 msgid "Desativar"
-msgstr ""
+msgstr "Devre dışı bırak"
 
 msgid "Configurações do Brave"
-msgstr ""
+msgstr "Cesur konfigürasyonlar"
 
 msgid "Escolha a opção desejada:"
-msgstr ""
+msgstr "İstediğiniz seçeneği seçin:"
 
 msgid "Remover propagandas"
-msgstr ""
+msgstr "Reklamları kaldırın"
 
 msgid "Suportar criptomoedas"
-msgstr ""
+msgstr "Kripto para birimlerini destekleme"
 
 msgid "Botões da janela no lado esquerdo"
-msgstr ""
+msgstr "Sol taraftaki pencere düğmeleri"
 
 msgid "Rolagem do mouse invertida"
-msgstr ""
+msgstr "Ters çevrilmiş fare kaydırma"
 
 msgid "Pesquisar arquivos"
-msgstr ""
+msgstr "Arama arşivleri"
 
 msgid "Bloquear a área de trabalho"
-msgstr ""
+msgstr "Masaüstünü kilitleme"
 
 msgid "Tema aplicado"
-msgstr ""
+msgstr "Uygulanan tema"
 
 msgid ""
 "É preciso reiniciar a sessão para concluir a configuração. Deseja fazer "
 "agora?"
 msgstr ""
+"Yapılandırmayı tamamlamak için tekrar oturum açmanız gerekir. Şimdi yapmak "
+"ister misin?"
 
 msgid "Configuração do Desktop"
-msgstr ""
+msgstr "Masaüstü Yapılandırması"
 
 msgid ""
 "Você já utilizou esse desktop antes, deseja  restaurar sua personalização ou "
 "utilizar a configuração original?"
 msgstr ""
+"Bu masaüstünü daha önce kullandınız mı, özelleştirmesini geri yüklemek mi "
+"yoksa orijinal yapılandırmayı kullanmak mı istiyorsunuz?"
 
 msgid "Sim"
-msgstr ""
+msgstr "Evet"
 
 msgid "Não"
-msgstr ""
+msgstr "Hayır"
 
 msgid "Original"
-msgstr ""
+msgstr "Orijinal"
 
 msgid "Restaurar"
-msgstr ""
+msgstr "Geri Yükleme"
 
 msgid "Desktop aplicado"
-msgstr ""
+msgstr "Masaüstü uygulandı"
 
 msgid ""
 "Utilizando renderização por software, a qualidade das transparências está "
 "reduzida."
-msgstr ""
+msgstr "Yazılım oluşturma kullanılarak asetatların kalitesi düşürülür."
 
 msgid "Desempenho em modo normal!"
-msgstr ""
+msgstr "Normal modda performans!"
 
 msgid "Desempenho em modo otimizado!"
-msgstr ""
+msgstr "Gelişmiş modda performans!"
 
 msgid "Desempenho em modo performance!"
-msgstr ""
+msgstr "Performans modunda performans!"

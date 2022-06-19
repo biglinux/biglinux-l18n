@@ -26,9 +26,16 @@ msgid ""
 "\n"
 "Deseja prosseguir com com a instalação em modo EFI?"
 msgstr ""
+"Praegune käivitamine kasutab EFI-režiimi, kuid ma ei leidnud sellel arvutil "
+"ühtegi EFI-partitsiooni, kui sellele arvutile on juba paigaldatud mõni teine "
+"süsteem ja te soovite, et see jääks paigaldatuks, peate tõenäoliselt muutma "
+"BIOSi seadistust, et see käivituks Legacy-režiimis, mida nimetatakse ka BIOS-"
+"režiimiks.\n"
+"\n"
+"Kas soovite jätkata EFI paigaldamist?"
 
 msgid "Instalar o sistema"
-msgstr ""
+msgstr "Süsteemi paigaldamine"
 
 msgid ""
 "O boot atual está utilizando o modo Legacy/BIOS, porém encontrei pelo menos "
@@ -38,45 +45,51 @@ msgid ""
 "\n"
 "Deseja prosseguir com com a instalação em modo Legacy/BIOS?"
 msgstr ""
+"Praegune käivitamine kasutab Legacy/BIOS-režiimi, kuid ma leidsin selles "
+"arvutis vähemalt ühe EFI-partitsiooni. Edukaks paigaldamiseks peate "
+"tõenäoliselt muutma BIOSi seadistust, et see käivituks EFI- või UEFI-"
+"režiimis.\n"
+"\n"
+"Kas soovite jätkata Legacy/BIOSi paigaldamist?"
 
 msgid "Instalar o BigLinux"
-msgstr ""
+msgstr "BigLinuxi paigaldamine"
 
 msgid "PADRÃO"
-msgstr ""
+msgstr "STANDARD"
 
 msgid "DESEMPENHO"
-msgstr ""
+msgstr "JÕUDLUS"
 
 msgid "COMPATIBILIDADE"
-msgstr ""
+msgstr "KOMPATIBILITEET"
 
 msgid "Compacta os dados"
-msgstr ""
+msgstr "Andmete tihendamine"
 
 msgid "Pontos de restauração"
-msgstr ""
+msgstr "Taastamispunktid"
 
 msgid "Adia a gravação dos dados"
-msgstr ""
+msgstr "Edasilükkab andmete salvestamist"
 
 msgid "Funciona com tabelas de particionamento antigas"
-msgstr ""
+msgstr "Töötab vanade partitsioonitabelitega"
 
 msgid "BTRFS com fsync"
-msgstr ""
+msgstr "BTRFS koos fsynciga"
 
 msgid "BTRFS sem fsync"
-msgstr ""
+msgstr "BTRFS ilma fsyncita"
 
 msgid "SELECIONAR"
-msgstr ""
+msgstr "SELECT"
 
 msgid "Instalar no HD"
-msgstr ""
+msgstr "Paigaldage HD-le"
 
 msgid "O sistema está em modo"
-msgstr ""
+msgstr "Süsteem on"
 
 msgid "e com o kernel"
-msgstr ""
+msgstr "ja koos tuumaga"

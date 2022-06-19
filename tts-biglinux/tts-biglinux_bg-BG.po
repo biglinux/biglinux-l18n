@@ -18,51 +18,53 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit"
 
 msgid "Configurações de texto para voz"
-msgstr ""
+msgstr "Настройки за преобразуване на текст в реч"
 
 msgid "Vozes - Abrir BigStore"
-msgstr ""
+msgstr "Гласове - Open BigStore"
 
 msgid "Voice Configuration"
-msgstr ""
+msgstr "Конфигурация на гласа"
 
 msgid "Configurar voz"
-msgstr ""
+msgstr "Конфигуриране на глас"
 
 msgid "Para falar um texto selecionado use o atalho "
-msgstr ""
+msgstr "За да произнесете избран текст, използвайте бързия клавиш "
 
 msgid "[Alt] + [V]"
-msgstr ""
+msgstr "[Alt] + [V]"
 
 msgid ""
 "ou o ícone na sessão Utilitários no menu do sistema. Para interromper a "
 "leitura use novamene o atalho ou ícone."
 msgstr ""
+"или икона в раздел \"Помощни програми\" на системното меню. За да спрете "
+"четенето, използвайте отново прекия път или иконата."
 
 msgid "Selecione as configurações de sua preferência"
-msgstr ""
+msgstr "Изберете предпочитаните настройки"
 
 msgid "Números maiores deixam a voz mais rápida, o padrão é: -25"
-msgstr ""
+msgstr "По-големите числа правят гласа по-бърз, по подразбиране е: -25"
 
 msgid "Velocidade"
-msgstr ""
+msgstr "Скорост"
 
 msgid "Números maiores deixam a voz mais aguda, o padrão é: -25"
-msgstr ""
+msgstr "По-големите числа правят гласа по-висок, стандартът е: -25"
 
 msgid "Tom"
-msgstr ""
+msgstr "Том"
 
 msgid "O padrão é: 0."
-msgstr ""
+msgstr "По подразбиране е: 0."
 
 msgid "Volume"
-msgstr ""
+msgstr "Обем"
 
 msgid "As vozes são otimizadas para idiomas expecíficos."
-msgstr ""
+msgstr "Гласовете са оптимизирани за определени езици."
 
 msgid "Voz"
-msgstr ""
+msgstr "Глас"

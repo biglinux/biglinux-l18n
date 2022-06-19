@@ -123,7 +123,7 @@ msgstr ""
 "Смотрите новости!"
 
 msgid "Big Store"
-msgstr "Большой магазин"
+msgstr "Big Store"
 
 msgid "Web Apps"
 msgstr "Веб-приложения"

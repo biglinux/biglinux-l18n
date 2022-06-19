@@ -18,51 +18,53 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit"
 
 msgid "Configurações de texto para voz"
-msgstr ""
+msgstr "Inställningar för text till tal"
 
 msgid "Vozes - Abrir BigStore"
-msgstr ""
+msgstr "Röster - Öppna BigStore"
 
 msgid "Voice Configuration"
-msgstr ""
+msgstr "Röstkonfiguration"
 
 msgid "Configurar voz"
-msgstr ""
+msgstr "Konfigurera röst"
 
 msgid "Para falar um texto selecionado use o atalho "
-msgstr ""
+msgstr "För att tala en vald text använder du genvägen "
 
 msgid "[Alt] + [V]"
-msgstr ""
+msgstr "[Alt] + [V]"
 
 msgid ""
 "ou o ícone na sessão Utilitários no menu do sistema. Para interromper a "
 "leitura use novamene o atalho ou ícone."
 msgstr ""
+"eller ikonen i avsnittet Utilities i systemmenyn. Om du vill sluta läsa "
+"använder du genvägen eller ikonen igen."
 
 msgid "Selecione as configurações de sua preferência"
-msgstr ""
+msgstr "Välj dina önskade inställningar"
 
 msgid "Números maiores deixam a voz mais rápida, o padrão é: -25"
-msgstr ""
+msgstr "Större siffror gör rösten snabbare, standardvärdet är: -25"
 
 msgid "Velocidade"
-msgstr ""
+msgstr "Hastighet"
 
 msgid "Números maiores deixam a voz mais aguda, o padrão é: -25"
-msgstr ""
+msgstr "Högre siffror gör rösten högre, standarden är: -25"
 
 msgid "Tom"
-msgstr ""
+msgstr "Tom"
 
 msgid "O padrão é: 0."
-msgstr ""
+msgstr "Standardvärdet är: 0."
 
 msgid "Volume"
-msgstr ""
+msgstr "Volym"
 
 msgid "As vozes são otimizadas para idiomas expecíficos."
-msgstr ""
+msgstr "Rösterna är optimerade för specifika språk."
 
 msgid "Voz"
-msgstr ""
+msgstr "Röst"

@@ -18,51 +18,53 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit"
 
 msgid "Configurações de texto para voz"
-msgstr ""
+msgstr "Tekstist kõnes seaded"
 
 msgid "Vozes - Abrir BigStore"
-msgstr ""
+msgstr "Hääled - Avatud BigStore"
 
 msgid "Voice Configuration"
-msgstr ""
+msgstr "Häälkonfiguratsioon"
 
 msgid "Configurar voz"
-msgstr ""
+msgstr "Hääle konfigureerimine"
 
 msgid "Para falar um texto selecionado use o atalho "
-msgstr ""
+msgstr "Valitud teksti kõnetamiseks kasutage otsetee "
 
 msgid "[Alt] + [V]"
-msgstr ""
+msgstr "[Alt] + [V]"
 
 msgid ""
 "ou o ícone na sessão Utilitários no menu do sistema. Para interromper a "
 "leitura use novamene o atalho ou ícone."
 msgstr ""
+"või ikooni süsteemimenüü jaotises Utilities. Lugemise lõpetamiseks kasutage "
+"uuesti otseteed või ikooni."
 
 msgid "Selecione as configurações de sua preferência"
-msgstr ""
+msgstr "Valige oma eelistatud seaded"
 
 msgid "Números maiores deixam a voz mais rápida, o padrão é: -25"
-msgstr ""
+msgstr "Suuremad numbrid muudavad hääle kiiremaks, vaikimisi on: -25"
 
 msgid "Velocidade"
-msgstr ""
+msgstr "Kiirus"
 
 msgid "Números maiores deixam a voz mais aguda, o padrão é: -25"
-msgstr ""
+msgstr "Suuremad numbrid muudavad hääle kõrgemaks, standard on: -25"
 
 msgid "Tom"
-msgstr ""
+msgstr "Tom"
 
 msgid "O padrão é: 0."
-msgstr ""
+msgstr "Vaikimisi on: 0."
 
 msgid "Volume"
-msgstr ""
+msgstr "Köide"
 
 msgid "As vozes são otimizadas para idiomas expecíficos."
-msgstr ""
+msgstr "Hääled on optimeeritud konkreetsete keelte jaoks."
 
 msgid "Voz"
-msgstr ""
+msgstr "Hääl"

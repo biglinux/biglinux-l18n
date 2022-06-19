@@ -27,7 +27,7 @@ msgid "WebApps Adicionados"
 msgstr "WebApps añadidas"
 
 msgid "WebApps BigLinux"
-msgstr "Grandes aplicaciones web de Linux"
+msgstr "Aplicaciones web de BigLinux"
 
 msgid "Url:"
 msgstr "Url:"

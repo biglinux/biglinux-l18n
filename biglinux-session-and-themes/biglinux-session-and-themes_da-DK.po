@@ -21,9 +21,11 @@ msgid ""
 "Configuração alterada, se estiver utilizando o navegador, reinicie-o para "
 "que a nova configuração seja aplicada."
 msgstr ""
+"Konfigurationen er ændret, hvis du bruger browseren, skal du genstarte den, "
+"for at den nye konfiguration kan anvendes."
 
 msgid "Se estiver utilizando algum navegador, feche-o e abra novamente!"
-msgstr ""
+msgstr "Hvis du bruger en browser, skal du lukke den og åbne den igen!"
 
 msgid ""
 "\n"
@@ -32,6 +34,12 @@ msgid ""
 "\n"
 "Selecione não para utilizar a configuração padrão do sistema.\n"
 msgstr ""
+"\n"
+"Den valgte skrivebordskonfiguration er allerede blevet brugt på dette "
+"system,\n"
+"ønsker du at gendanne den konfiguration, der allerede er blevet brugt?\n"
+"\n"
+"Vælg nej for at bruge standardkonfigurationen af systemet.\n"
 
 msgid ""
 "Configuração aplicada!\n"
@@ -40,130 +48,144 @@ msgid ""
 "para que a configuração termine de\n"
 "ser aplicada."
 msgstr ""
+"Konfiguration anvendt!\n"
+"\n"
+"Log ud og log ind igen\n"
+"for at konfigurationen er færdig\n"
+"anvendes."
 
 msgid "Temas"
-msgstr ""
+msgstr "Temaer"
 
 msgid "Desktop"
-msgstr ""
+msgstr "Desktop"
 
 msgid "Ajustes"
-msgstr ""
+msgstr "Indstillinger"
 
 msgid "Temas, Desktop e Ajustes"
-msgstr ""
+msgstr "Temaer, skrivebord og indstillinger"
 
 msgid "Desempenho do desktop"
-msgstr ""
+msgstr "Ydelse på skrivebordet"
 
 msgid "Aceleração do navegador"
-msgstr ""
+msgstr "Browser-acceleration"
 
 msgid "Usabilidade"
-msgstr ""
+msgstr "Brugervenlighed"
 
 msgid "Tema dos aplicativos"
-msgstr ""
+msgstr "Ansøgningstema"
 
 msgid "Bordas arredondadas."
-msgstr ""
+msgstr "Afrundede kanter."
 
 msgid ""
 "Esse tema possui transparências com efeitos que<br>podem tornar o sistema "
 "lento em computadores<br>antigos ou ambientes virtualizados."
 msgstr ""
+"Dette tema har transparenter med effekter, der kan gøre<br>systemet "
+"langsommere på gamle computere<br>eller i virtualiserede miljøer."
 
 msgid "<b>Classic</b> e <b>New</b> têm melhor desempenho."
-msgstr ""
+msgstr "<b>Classic</b> og <b>New</b> har bedre ydeevne."
 
 msgid "Renderizar o desktop via software"
-msgstr ""
+msgstr "Gengivelse af skrivebordet via software"
 
 msgid "(Pode ser útil em máquina virtual ou computadores antigos)"
-msgstr ""
+msgstr "(Kan være nyttig på virtuelle maskiner eller gamle computere)"
 
 msgid "Escolher programas a serem carregados na memória durante boot"
-msgstr ""
+msgstr "Vælg programmer, der skal indlæses i hukommelsen ved opstart"
 
 msgid ""
 "O Preload carrega arquivos dos programas na memória, para que iniciem "
 "rapidamente. O uso excessivo causa lentidão. Escolha a opção desejada:"
 msgstr ""
+"Preload indlæser programfiler i hukommelsen, så de starter hurtigt. "
+"Overdreven brug forårsager langsommere opbremsninger. Vælg den ønskede "
+"indstilling:"
 
 msgid "Automático"
-msgstr ""
+msgstr "Automatisk"
 
 msgid "Ativar"
-msgstr ""
+msgstr "Aktivér"
 
 msgid "Desativar"
-msgstr ""
+msgstr "Deaktivere"
 
 msgid "Configurações do Brave"
-msgstr ""
+msgstr "Modige konfigurationer"
 
 msgid "Escolha a opção desejada:"
-msgstr ""
+msgstr "Vælg den ønskede indstilling:"
 
 msgid "Remover propagandas"
-msgstr ""
+msgstr "Fjern reklamer"
 
 msgid "Suportar criptomoedas"
-msgstr ""
+msgstr "Understøttelse af kryptovalutaer"
 
 msgid "Botões da janela no lado esquerdo"
-msgstr ""
+msgstr "Vinduesknapper i venstre side"
 
 msgid "Rolagem do mouse invertida"
-msgstr ""
+msgstr "Inverteret musebladsering"
 
 msgid "Pesquisar arquivos"
-msgstr ""
+msgstr "Søg i arkiverne"
 
 msgid "Bloquear a área de trabalho"
-msgstr ""
+msgstr "Lås skrivebordet"
 
 msgid "Tema aplicado"
-msgstr ""
+msgstr "Anvendt tema"
 
 msgid ""
 "É preciso reiniciar a sessão para concluir a configuração. Deseja fazer "
 "agora?"
 msgstr ""
+"Du skal være logget ind igen for at fuldføre konfigurationen. Vil du gøre "
+"det nu?"
 
 msgid "Configuração do Desktop"
-msgstr ""
+msgstr "Konfiguration af skrivebord"
 
 msgid ""
 "Você já utilizou esse desktop antes, deseja  restaurar sua personalização ou "
 "utilizar a configuração original?"
 msgstr ""
+"Har du brugt dette skrivebord før, og vil du gendanne tilpasningen eller "
+"bruge den oprindelige konfiguration?"
 
 msgid "Sim"
-msgstr ""
+msgstr "Ja"
 
 msgid "Não"
-msgstr ""
+msgstr "Nej"
 
 msgid "Original"
-msgstr ""
+msgstr "Original"
 
 msgid "Restaurar"
-msgstr ""
+msgstr "Gendan"
 
 msgid "Desktop aplicado"
-msgstr ""
+msgstr "Desktop anvendt"
 
 msgid ""
 "Utilizando renderização por software, a qualidade das transparências está "
 "reduzida."
-msgstr ""
+msgstr "Ved brug af softwarerensning reduceres kvaliteten af transparenter."
 
 msgid "Desempenho em modo normal!"
-msgstr ""
+msgstr "Ydelse i normal tilstand!"
 
 msgid "Desempenho em modo otimizado!"
-msgstr ""
+msgstr "Ydeevne i forbedret tilstand!"
 
 msgid "Desempenho em modo performance!"
-msgstr ""
+msgstr "Præstation i præstationstilstand!"

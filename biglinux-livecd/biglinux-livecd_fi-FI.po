@@ -18,37 +18,41 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit"
 
 msgid "Desempenho"
-msgstr ""
+msgstr "Suorituskyky"
 
 msgid "Tema"
-msgstr ""
+msgstr "Teema"
 
 msgid ""
 "Renderizar o desktop via software<br><small>(Pode ser útil em máquina "
 "virtual)"
 msgstr ""
+"Työpöydän renderöinti ohjelmiston avulla<br><small>(Voi olla hyödyllinen "
+"virtuaalikoneessa)"
 
 msgid ""
 "Utilizar GPU nos navegadores<br><small>(Desative no caso de distorção no "
 "vídeo)"
 msgstr ""
+"GPU:n käyttö selaimissa<br><small>(Pois käytöstä, jos video vääristyy)"
 
 msgid "Escolha o desktop:"
-msgstr ""
+msgstr "Valitse työpöytäsi:"
 
 msgid "têm melhor desempenho."
-msgstr ""
+msgstr "toimivat paremmin."
 
 msgid "e"
-msgstr ""
+msgstr "e"
 
 msgid "Escolha o modelo do teclado:"
-msgstr ""
+msgstr "Valitse näppäimistömalli:"
 
 msgid "Escolha o tema dos aplicativos:"
-msgstr ""
+msgstr "Valitse sovellusten teema:"
 
 msgid ""
 "Utilizando renderização por software, a qualidade das transparências será "
 "reduzida."
 msgstr ""
+"Ohjelmiston renderöintiä käytettäessä läpinäkyvien kuvien laatu heikkenee."

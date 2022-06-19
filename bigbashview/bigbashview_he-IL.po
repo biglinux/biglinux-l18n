@@ -18,19 +18,19 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit"
 
 msgid "Information"
-msgstr ""
+msgstr "מידע"
 
 msgid "License: "
-msgstr ""
+msgstr "רישיון: "
 
 msgid "Created by:"
-msgstr ""
+msgstr "נוצר על ידי:"
 
 msgid "Date:"
-msgstr ""
+msgstr "תאריך:"
 
 msgid "Code URL:"
-msgstr ""
+msgstr "כתובת אתר של קוד:"
 
 msgid "Project URL:"
-msgstr ""
+msgstr "כתובת אתר של הפרויקט:"

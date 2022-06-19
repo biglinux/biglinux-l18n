@@ -18,10 +18,10 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit"
 
 msgid "MÓDULO: Nenhum módulo precisa ser instalado."
-msgstr ""
+msgstr "MODULE: Engin eining þarf að vera uppsett."
 
 msgid "FIRMWARE: Nenhum firmware precisa ser instalado."
-msgstr ""
+msgstr "FIMWARE: Engin vélbúnaðar þarf að setja upp."
 
 msgid "Hardware"
-msgstr ""
+msgstr "Vélbúnaður"

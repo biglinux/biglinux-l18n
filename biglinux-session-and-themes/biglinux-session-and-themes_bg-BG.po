@@ -21,9 +21,11 @@ msgid ""
 "Configuração alterada, se estiver utilizando o navegador, reinicie-o para "
 "que a nova configuração seja aplicada."
 msgstr ""
+"Конфигурацията е променена, ако използвате браузъра, рестартирайте го, за да "
+"се приложи новата конфигурация."
 
 msgid "Se estiver utilizando algum navegador, feche-o e abra novamente!"
-msgstr ""
+msgstr "Ако използвате браузър, затворете го и го отворете отново!"
 
 msgid ""
 "\n"
@@ -32,6 +34,12 @@ msgid ""
 "\n"
 "Selecione não para utilizar a configuração padrão do sistema.\n"
 msgstr ""
+"\n"
+"Избраната конфигурация на работния плот вече е била използвана в тази "
+"система,\n"
+"искате ли да възстановите вече използваната конфигурация?\n"
+"\n"
+"Изберете no, за да използвате конфигурацията на системата по подразбиране.\n"
 
 msgid ""
 "Configuração aplicada!\n"
@@ -40,130 +48,147 @@ msgid ""
 "para que a configuração termine de\n"
 "ser aplicada."
 msgstr ""
+"Конфигурацията е приложена!\n"
+"\n"
+"Излезте и влезте отново\n"
+"за завършване на конфигурацията\n"
+"прилага се."
 
 msgid "Temas"
-msgstr ""
+msgstr "Теми"
 
 msgid "Desktop"
-msgstr ""
+msgstr "Настолен компютър"
 
 msgid "Ajustes"
-msgstr ""
+msgstr "Настройки"
 
 msgid "Temas, Desktop e Ajustes"
-msgstr ""
+msgstr "Теми, работен плот и настройки"
 
 msgid "Desempenho do desktop"
-msgstr ""
+msgstr "Производителност на работния плот"
 
 msgid "Aceleração do navegador"
-msgstr ""
+msgstr "Ускоряване на браузъра"
 
 msgid "Usabilidade"
-msgstr ""
+msgstr "Ползваемост"
 
 msgid "Tema dos aplicativos"
-msgstr ""
+msgstr "Тема на приложението"
 
 msgid "Bordas arredondadas."
-msgstr ""
+msgstr "Заоблени ръбове."
 
 msgid ""
 "Esse tema possui transparências com efeitos que<br>podem tornar o sistema "
 "lento em computadores<br>antigos ou ambientes virtualizados."
 msgstr ""
+"Тази тема има прозрачни изображения с ефекти, които могат да<br>забавят "
+"системата на стари компютри<br>или виртуални среди."
 
 msgid "<b>Classic</b> e <b>New</b> têm melhor desempenho."
-msgstr ""
+msgstr "<b>Класическият</b> и <b>новият</b> имат по-добри характеристики."
 
 msgid "Renderizar o desktop via software"
-msgstr ""
+msgstr "Изобразяване на работния плот чрез софтуер"
 
 msgid "(Pode ser útil em máquina virtual ou computadores antigos)"
-msgstr ""
+msgstr "(Може да бъде полезно за виртуални машини или стари компютри)"
 
 msgid "Escolher programas a serem carregados na memória durante boot"
 msgstr ""
+"Избор на програми, които да се зареждат в паметта по време на зареждане"
 
 msgid ""
 "O Preload carrega arquivos dos programas na memória, para que iniciem "
 "rapidamente. O uso excessivo causa lentidão. Escolha a opção desejada:"
 msgstr ""
+"Предварителното зареждане зарежда програмните файлове в паметта, за да се "
+"стартират бързо. Прекомерната употреба води до забавяне на работата. "
+"Изберете желаната опция:"
 
 msgid "Automático"
-msgstr ""
+msgstr "Автоматичен"
 
 msgid "Ativar"
-msgstr ""
+msgstr "Активиране на"
 
 msgid "Desativar"
-msgstr ""
+msgstr "Деактивиране на"
 
 msgid "Configurações do Brave"
-msgstr ""
+msgstr "Смели конфигурации"
 
 msgid "Escolha a opção desejada:"
-msgstr ""
+msgstr "Изберете желаната опция:"
 
 msgid "Remover propagandas"
-msgstr ""
+msgstr "Премахване на реклами"
 
 msgid "Suportar criptomoedas"
-msgstr ""
+msgstr "Поддръжка на криптовалути"
 
 msgid "Botões da janela no lado esquerdo"
-msgstr ""
+msgstr "Бутони на прозореца от лявата страна"
 
 msgid "Rolagem do mouse invertida"
-msgstr ""
+msgstr "Обърнато превъртане на мишката"
 
 msgid "Pesquisar arquivos"
-msgstr ""
+msgstr "Търсене в архивите"
 
 msgid "Bloquear a área de trabalho"
-msgstr ""
+msgstr "Заключване на работния плот"
 
 msgid "Tema aplicado"
-msgstr ""
+msgstr "Приложена тема"
 
 msgid ""
 "É preciso reiniciar a sessão para concluir a configuração. Deseja fazer "
 "agora?"
 msgstr ""
+"За да завършите конфигурацията, трябва да влезете отново в системата. Искате "
+"да го направите сега?"
 
 msgid "Configuração do Desktop"
-msgstr ""
+msgstr "Конфигурация на работния плот"
 
 msgid ""
 "Você já utilizou esse desktop antes, deseja  restaurar sua personalização ou "
 "utilizar a configuração original?"
 msgstr ""
+"Използвали ли сте този десктоп преди, искате ли да възстановите "
+"персонализирането му или да използвате оригиналната конфигурация?"
 
 msgid "Sim"
-msgstr ""
+msgstr "Да"
 
 msgid "Não"
-msgstr ""
+msgstr "Не"
 
 msgid "Original"
-msgstr ""
+msgstr "Оригинал"
 
 msgid "Restaurar"
-msgstr ""
+msgstr "Възстановяване на"
 
 msgid "Desktop aplicado"
-msgstr ""
+msgstr "Приложен работен плот"
 
 msgid ""
 "Utilizando renderização por software, a qualidade das transparências está "
 "reduzida."
 msgstr ""
+"При използване на софтуерно визуализиране качеството на прозрачните "
+"изображения се намалява."
 
 msgid "Desempenho em modo normal!"
-msgstr ""
+msgstr "Изпълнение в нормален режим!"
 
 msgid "Desempenho em modo otimizado!"
-msgstr ""
+msgstr "Изпълнение в подобрен режим!"
 
 msgid "Desempenho em modo performance!"
-msgstr ""
+msgstr "Изпълнение в режим на изпълнение!"

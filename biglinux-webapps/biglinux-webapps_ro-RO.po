@@ -18,126 +18,128 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit"
 
 msgid "Selecionar imagem"
-msgstr ""
+msgstr "Selectați imaginea"
 
 msgid "Adicionar WebApps"
-msgstr ""
+msgstr "Adăugați WebApps"
 
 msgid "WebApps Adicionados"
-msgstr ""
+msgstr "Aplicații web adăugate"
 
 msgid "WebApps BigLinux"
-msgstr ""
+msgstr "WebApps BigLinux"
 
 msgid "Url:"
-msgstr ""
+msgstr "Url:"
 
 msgid "Detectar Nome e Ícone"
-msgstr ""
+msgstr "Detectarea numelui și a pictogramei"
 
 msgid "Nome:"
-msgstr ""
+msgstr "Numele:"
 
 msgid "Ícone:"
-msgstr ""
+msgstr "Icoană:"
 
 msgid "Alterar"
-msgstr ""
+msgstr "Schimbare"
 
 msgid "Navegador:"
-msgstr ""
+msgstr "Navigator:"
 
 msgid "Categoria:"
-msgstr ""
+msgstr "Categorie:"
 
 msgid "DESENVOLVIMENTO"
-msgstr ""
+msgstr "DEZVOLTARE"
 
 msgid "ESCRITÓRIO"
-msgstr ""
+msgstr "BIROU"
 
 msgid "GRÁFICOS"
-msgstr ""
+msgstr "GRAFICE"
 
 msgid "JOGOS"
-msgstr ""
+msgstr "JOCURI"
 
 msgid "MULTIMÍDIA"
-msgstr ""
+msgstr "MULTIMEDIA"
 
 msgid "Criar atalho na Área de Trabalho"
-msgstr ""
+msgstr "Creați o comandă rapidă pe desktop"
 
 msgid "Perfil adicional"
-msgstr ""
+msgstr "Profil suplimentar"
 
 msgid "YouTube Modo TV"
-msgstr ""
+msgstr "Modul YouTube TV"
 
 msgid "Adicionar"
-msgstr ""
+msgstr "Adăugați"
 
 msgid "Para adicionar um WebApp, você precisa informar a Url e o Nome."
-msgstr ""
+msgstr "Pentru a adăuga o aplicație web, trebuie să informați Url și Name."
 
 msgid "Para detectar o Nome e o Ícone você precisa informar a Url."
-msgstr ""
+msgstr "Pentru a detecta numele și pictograma, trebuie să informați Url."
 
 msgid ""
 "A Url é inválida ou a conexão falhou.<br>Tente inserir o ícone pelo botão "
 "Alterar."
 msgstr ""
+"Url-ul nu este valid sau conexiunea a eșuat.<br>Încercați să inserați "
+"pictograma cu ajutorul butonului Change."
 
 msgid "O WebApp foi adicionado com sucesso!"
-msgstr ""
+msgstr "Aplicația Web a fost adăugată cu succes!"
 
 msgid "Ícones encontrados"
-msgstr ""
+msgstr "Icoane găsite"
 
 msgid "Selecione o ícone preferido:"
-msgstr ""
+msgstr "Selectați pictograma preferată:"
 
 msgid "Desenvolvimento"
-msgstr ""
+msgstr "Dezvoltare"
 
 msgid "Escritório"
-msgstr ""
+msgstr "Birou"
 
 msgid "Gráficos"
-msgstr ""
+msgstr "Grafică"
 
 msgid "Jogos"
-msgstr ""
+msgstr "Jocuri"
 
 msgid "Multimídia"
-msgstr ""
+msgstr "Multimedia"
 
 msgid "Tem certeza que deseja remover este WebApp?"
-msgstr ""
+msgstr "Sunteți sigur că doriți să eliminați această aplicație web?"
 
 msgid "Nenhum WebApp adicionado!"
-msgstr ""
+msgstr "Nu a fost adăugată nicio aplicație web!"
 
 msgid "Navegador padrão<br>dos webapps:"
-msgstr ""
+msgstr "Browserul implicit al<br>aplicațiilor web:"
 
 msgid "Alterar navegador"
-msgstr ""
+msgstr "Schimbați browserul"
 
 msgid "Selecione o navegador preferido:"
-msgstr ""
+msgstr "Selectați browserul preferat:"
 
 msgid "WebApps Nativos"
-msgstr ""
+msgstr "Aplicații web native"
 
 msgid "Bom dia"
-msgstr ""
+msgstr "Bună dimineața"
 
 msgid "Boa tarde"
-msgstr ""
+msgstr "Bună ziua"
 
 msgid "Boa noite"
-msgstr ""
+msgstr "Bună seara"
 
 msgid "Aguarde, estamos preparando para começar..."
-msgstr ""
+msgstr "Așteptați, ne pregătim să începem..."

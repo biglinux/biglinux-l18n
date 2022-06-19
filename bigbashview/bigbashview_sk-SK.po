@@ -18,19 +18,19 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit"
 
 msgid "Information"
-msgstr ""
+msgstr "Informácie"
 
 msgid "License: "
-msgstr ""
+msgstr "Licencia "
 
 msgid "Created by:"
-msgstr ""
+msgstr "Vytvoril:"
 
 msgid "Date:"
-msgstr ""
+msgstr "Dátum:"
 
 msgid "Code URL:"
-msgstr ""
+msgstr "Adresa URL kódu:"
 
 msgid "Project URL:"
-msgstr ""
+msgstr "Adresa URL projektu:"

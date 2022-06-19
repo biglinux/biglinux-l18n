@@ -24,68 +24,79 @@ msgid ""
 "Você também pode utilizar o gerenciador de arquivos, clicar com o botão "
 "direito no arquivo PDF, 'Abrir com' e selecionar a opção de OCR."
 msgstr ""
+"Valitse PDF-tiedosto, johon haluat soveltaa OCR-toimintoa, jotta voit etsiä "
+"tai kopioida tekstejä.\n"
+"\n"
+"Voit myös käyttää tiedostonhallintaa, napsauttaa PDF-tiedostoa hiiren "
+"kakkospainikkeella, \"Avaa\" ja valita OCR-vaihtoehdon."
 
 msgid "NORMAL"
-msgstr ""
+msgstr "NORMAALI"
 
 msgid "ECONÔMICO"
-msgstr ""
+msgstr "TALOUS"
 
 msgid "MAIS ECONÔMICO"
-msgstr ""
+msgstr "LISÄÄ TALOUDELLISUUTTA"
 
 msgid "ALINHAR"
-msgstr ""
+msgstr "ALIGN"
 
 msgid "AUTO ROTAÇÃO"
-msgstr ""
+msgstr "AUTOMAATTINEN KÄÄNTÖ"
 
 msgid "ALINHAR E GIRAR AUTOMÁTICA"
-msgstr ""
+msgstr "AUTOMAATTINEN KOHDISTUS JA KIERTO"
 
 msgid "NÃO MUDE"
-msgstr ""
+msgstr "ÄLÄ MUUTTAA"
 
 msgid "ESPANHOL"
-msgstr ""
+msgstr "ESPANJALAINEN"
 
 msgid "INGLÊS"
-msgstr ""
+msgstr "ENGLANTI"
 
 msgid "PORTUGUÊS"
-msgstr ""
+msgstr "PORTUGUESE"
 
 msgid ""
 "Você pode optar por reduzir a qualidade da imagem.<br>Dessa forma você terá "
 "arquivos menores, facilitando,<br>por exemplo, enviá-los por e-mail."
 msgstr ""
+"Voit halutessasi vähentää kuvanlaatua.<br>Näin saat pienempiä tiedostoja, "
+"jotka on helpompi<br>lähettää esimerkiksi sähköpostitse."
 
 msgid ""
 "Para adicionar novos idiomas, instale os complementos do tesseract no "
 "gerenciador de pacotes do sistema."
 msgstr ""
+"Jos haluat lisätä uusia kieliä, asenna tesseract-lisäosat järjestelmän "
+"paketinhallinnassa."
 
 msgid "Aplicar"
-msgstr ""
+msgstr "Hae"
 
 msgid "Torne seu PDF pesquisável"
-msgstr ""
+msgstr "Tee PDF-tiedostostasi hakukelpoinen"
 
 msgid ""
 "Adicionar OCR no PDF digitalizado permitindo seleção de textos e busca:"
 msgstr ""
+"Lisää skannattuun PDF-tiedostoon OCR, joka mahdollistaa tekstin valinnan ja "
+"haun:"
 
 msgid "OCR para PDF"
-msgstr ""
+msgstr "OCR PDF:lle"
 
 msgid "Arquivo"
-msgstr ""
+msgstr "Tiedosto"
 
 msgid "Pasta:"
-msgstr ""
+msgstr "Kansio:"
 
 msgid "Abrir"
-msgstr ""
+msgstr "Avaa"
 
 msgid "Arquivo salvo: "
-msgstr ""
+msgstr "Tiedosto tallennettu "

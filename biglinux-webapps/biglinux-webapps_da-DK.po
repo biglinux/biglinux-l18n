@@ -18,126 +18,128 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit"
 
 msgid "Selecionar imagem"
-msgstr ""
+msgstr "Vælg billede"
 
 msgid "Adicionar WebApps"
-msgstr ""
+msgstr "Tilføj webapps"
 
 msgid "WebApps Adicionados"
-msgstr ""
+msgstr "WebApps tilføjet"
 
 msgid "WebApps BigLinux"
-msgstr ""
+msgstr "WebApps BigLinux"
 
 msgid "Url:"
-msgstr ""
+msgstr "Url:"
 
 msgid "Detectar Nome e Ícone"
-msgstr ""
+msgstr "Registrer navn og ikon"
 
 msgid "Nome:"
-msgstr ""
+msgstr "Navn:"
 
 msgid "Ícone:"
-msgstr ""
+msgstr "Ikon:"
 
 msgid "Alterar"
-msgstr ""
+msgstr "Ændre"
 
 msgid "Navegador:"
-msgstr ""
+msgstr "Navigator:"
 
 msgid "Categoria:"
-msgstr ""
+msgstr "Kategori:"
 
 msgid "DESENVOLVIMENTO"
-msgstr ""
+msgstr "UDVIKLING"
 
 msgid "ESCRITÓRIO"
-msgstr ""
+msgstr "KONTOR"
 
 msgid "GRÁFICOS"
-msgstr ""
+msgstr "GRAFIK"
 
 msgid "JOGOS"
-msgstr ""
+msgstr "SPIL"
 
 msgid "MULTIMÍDIA"
-msgstr ""
+msgstr "MULTIMEDIA"
 
 msgid "Criar atalho na Área de Trabalho"
-msgstr ""
+msgstr "Opret genvej på skrivebordet"
 
 msgid "Perfil adicional"
-msgstr ""
+msgstr "Yderligere profil"
 
 msgid "YouTube Modo TV"
-msgstr ""
+msgstr "YouTube TV-tilstand"
 
 msgid "Adicionar"
-msgstr ""
+msgstr "Tilføj"
 
 msgid "Para adicionar um WebApp, você precisa informar a Url e o Nome."
-msgstr ""
+msgstr "For at tilføje en WebApp skal du oplyse Url og Navn."
 
 msgid "Para detectar o Nome e o Ícone você precisa informar a Url."
-msgstr ""
+msgstr "For at registrere navnet og ikonet skal du oplyse url'en."
 
 msgid ""
 "A Url é inválida ou a conexão falhou.<br>Tente inserir o ícone pelo botão "
 "Alterar."
 msgstr ""
+"Url er ugyldig, eller forbindelsen mislykkedes.<br>Prøv at indsætte ikonet "
+"ved at klikke på knappen Skift."
 
 msgid "O WebApp foi adicionado com sucesso!"
-msgstr ""
+msgstr "WebApp'en blev tilføjet med succes!"
 
 msgid "Ícones encontrados"
-msgstr ""
+msgstr "Fundet ikoner"
 
 msgid "Selecione o ícone preferido:"
-msgstr ""
+msgstr "Vælg det foretrukne ikon:"
 
 msgid "Desenvolvimento"
-msgstr ""
+msgstr "Udvikling"
 
 msgid "Escritório"
-msgstr ""
+msgstr "Kontor"
 
 msgid "Gráficos"
-msgstr ""
+msgstr "Grafik"
 
 msgid "Jogos"
-msgstr ""
+msgstr "Spil"
 
 msgid "Multimídia"
-msgstr ""
+msgstr "Multimedier"
 
 msgid "Tem certeza que deseja remover este WebApp?"
-msgstr ""
+msgstr "Er du sikker på, at du vil fjerne denne WebApp?"
 
 msgid "Nenhum WebApp adicionado!"
-msgstr ""
+msgstr "Ingen WebApp tilføjet!"
 
 msgid "Navegador padrão<br>dos webapps:"
-msgstr ""
+msgstr "Standardbrowser for<br>webapps:"
 
 msgid "Alterar navegador"
-msgstr ""
+msgstr "Skift browser"
 
 msgid "Selecione o navegador preferido:"
-msgstr ""
+msgstr "Vælg din foretrukne browser:"
 
 msgid "WebApps Nativos"
-msgstr ""
+msgstr "Native webapps"
 
 msgid "Bom dia"
-msgstr ""
+msgstr "Godmorgen"
 
 msgid "Boa tarde"
-msgstr ""
+msgstr "God eftermiddag"
 
 msgid "Boa noite"
-msgstr ""
+msgstr "Godaften"
 
 msgid "Aguarde, estamos preparando para começar..."
-msgstr ""
+msgstr "Vær klar, vi er ved at være klar til at starte..."

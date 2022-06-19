@@ -1,0 +1,147 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the biglinux-webapps package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: biglinux-webapps\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-06-08 21:46-0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: de_AT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit"
+
+msgid "Selecionar imagem"
+msgstr "Bild auswählen"
+
+msgid "Adicionar WebApps"
+msgstr "WebApps hinzufügen"
+
+msgid "WebApps Adicionados"
+msgstr "WebApps hinzugefügt"
+
+msgid "WebApps BigLinux"
+msgstr "WebApps BigLinux"
+
+msgid "Url:"
+msgstr "Url:"
+
+msgid "Detectar Nome e Ícone"
+msgstr "Name und Symbol erkennen"
+
+msgid "Nome:"
+msgstr "Name:"
+
+msgid "Ícone:"
+msgstr "Ikone:"
+
+msgid "Alterar"
+msgstr "Ändern Sie"
+
+msgid "Navegador:"
+msgstr "Navigator:"
+
+msgid "Categoria:"
+msgstr "Kategorie:"
+
+msgid "DESENVOLVIMENTO"
+msgstr "ENTWICKLUNG"
+
+msgid "ESCRITÓRIO"
+msgstr "BÜRO"
+
+msgid "GRÁFICOS"
+msgstr "GRAFIKEN"
+
+msgid "JOGOS"
+msgstr "SPIEGEL"
+
+msgid "MULTIMÍDIA"
+msgstr "MULTIMEDIA"
+
+msgid "Criar atalho na Área de Trabalho"
+msgstr "Verknüpfung auf dem Desktop erstellen"
+
+msgid "Perfil adicional"
+msgstr "Zusätzliches Profil"
+
+msgid "YouTube Modo TV"
+msgstr "YouTube TV-Modus"
+
+msgid "Adicionar"
+msgstr "Hinzufügen"
+
+msgid "Para adicionar um WebApp, você precisa informar a Url e o Nome."
+msgstr ""
+"Um eine WebApp hinzuzufügen, müssen Sie die Url und den Namen angeben."
+
+msgid "Para detectar o Nome e o Ícone você precisa informar a Url."
+msgstr ""
+"Um den Namen und das Symbol zu erkennen, müssen Sie die Url mitteilen."
+
+msgid ""
+"A Url é inválida ou a conexão falhou.<br>Tente inserir o ícone pelo botão "
+"Alterar."
+msgstr ""
+"Die Url ist ungültig oder die Verbindung ist fehlgeschlagen.<br>Versuchen "
+"Sie, das Symbol über die Schaltfläche Ändern einzufügen.</br>"
+
+msgid "O WebApp foi adicionado com sucesso!"
+msgstr "Die WebApp wurde erfolgreich hinzugefügt!"
+
+msgid "Ícones encontrados"
+msgstr "Gefundene Icons"
+
+msgid "Selecione o ícone preferido:"
+msgstr "Wählen Sie das gewünschte Symbol:"
+
+msgid "Desenvolvimento"
+msgstr "Entwicklung"
+
+msgid "Escritório"
+msgstr "Büro"
+
+msgid "Gráficos"
+msgstr "Grafiken"
+
+msgid "Jogos"
+msgstr "Spiele"
+
+msgid "Multimídia"
+msgstr "Multimedia"
+
+msgid "Tem certeza que deseja remover este WebApp?"
+msgstr "Sind Sie sicher, dass Sie diese WebApp entfernen möchten?"
+
+msgid "Nenhum WebApp adicionado!"
+msgstr "Keine WebApp hinzugefügt!"
+
+msgid "Navegador padrão<br>dos webapps:"
+msgstr "<br>Standard-Webapps-Browser:</br>"
+
+msgid "Alterar navegador"
+msgstr "Browser wechseln"
+
+msgid "Selecione o navegador preferido:"
+msgstr "Wählen Sie Ihren bevorzugten Browser:"
+
+msgid "WebApps Nativos"
+msgstr "Native WebApps"
+
+msgid "Bom dia"
+msgstr "Guten Morgen"
+
+msgid "Boa tarde"
+msgstr "Guten Tag"
+
+msgid "Boa noite"
+msgstr "Guten Abend"
+
+msgid "Aguarde, estamos preparando para começar..."
+msgstr "Bleiben Sie dran, wir fangen gleich an..."

@@ -26,9 +26,13 @@ msgid ""
 "\n"
 "Deseja prosseguir com com a instalação em modo EFI?"
 msgstr ""
+"현재 부팅은 EFI 모드를 사용하고 있지만이 컴퓨터에서 EFI 파티션을 찾지 못했습니다. 이 컴퓨터에 이미 다른 시스템이 설치되어 있고 "
+"설치 상태를 유지하려는 경우 BIOS에서 구성을 변경하여 레거시 모드 (BIOS 모드라고도 함) 로 부팅해야 할 수 있습니다.\n"
+"\n"
+"EFI 모드로 설치를 계속하시겠습니까?"
 
 msgid "Instalar o sistema"
-msgstr ""
+msgstr "시스템 설치"
 
 msgid ""
 "O boot atual está utilizando o modo Legacy/BIOS, porém encontrei pelo menos "
@@ -38,45 +42,49 @@ msgid ""
 "\n"
 "Deseja prosseguir com com a instalação em modo Legacy/BIOS?"
 msgstr ""
+"현재 부팅은 레거시/BIOS 모드를 사용하고 있지만이 컴퓨터에서 하나 이상의 EFI 파티션을 찾았습니다.설치가 성공하려면 EFI 또는 "
+"UEFI 모드로 부팅하도록 BIOS의 구성을 변경해야 할 수 있습니다.\n"
+"\n"
+"레거시/BIOS 모드에서 설치를 계속하시겠습니까?"
 
 msgid "Instalar o BigLinux"
-msgstr ""
+msgstr "빅 리눅스 설치"
 
 msgid "PADRÃO"
-msgstr ""
+msgstr "표준"
 
 msgid "DESEMPENHO"
-msgstr ""
+msgstr "성능"
 
 msgid "COMPATIBILIDADE"
-msgstr ""
+msgstr "호환성"
 
 msgid "Compacta os dados"
-msgstr ""
+msgstr "데이터 압축"
 
 msgid "Pontos de restauração"
-msgstr ""
+msgstr "복원 포인트"
 
 msgid "Adia a gravação dos dados"
-msgstr ""
+msgstr "데이터 기록 연기"
 
 msgid "Funciona com tabelas de particionamento antigas"
-msgstr ""
+msgstr "이전 파티션 테이블에서 작동"
 
 msgid "BTRFS com fsync"
-msgstr ""
+msgstr "fsync를 사용하는 BTRFS"
 
 msgid "BTRFS sem fsync"
-msgstr ""
+msgstr "동기화가 없는 BTRFS"
 
 msgid "SELECIONAR"
-msgstr ""
+msgstr "고르다"
 
 msgid "Instalar no HD"
-msgstr ""
+msgstr "HD에 설치"
 
 msgid "O sistema está em modo"
-msgstr ""
+msgstr "시스템이 모드에 있습니다."
 
 msgid "e com o kernel"
-msgstr ""
+msgstr "그리고 커널과 함께"

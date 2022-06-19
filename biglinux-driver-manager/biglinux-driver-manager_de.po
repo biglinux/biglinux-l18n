@@ -209,10 +209,10 @@ msgid "Webcam"
 msgstr "Webcam"
 
 msgid "Touchscreen"
-msgstr "Touchscreen"
+msgstr "Berührungssensitiver Bildschirm"
 
 msgid "Som"
-msgstr "Ton"
+msgstr "Klang"
 
 msgid "Outros"
 msgstr "Andere"

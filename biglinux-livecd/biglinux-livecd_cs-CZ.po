@@ -18,37 +18,40 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit"
 
 msgid "Desempenho"
-msgstr ""
+msgstr "Výkon"
 
 msgid "Tema"
-msgstr ""
+msgstr "Téma"
 
 msgid ""
 "Renderizar o desktop via software<br><small>(Pode ser útil em máquina "
 "virtual)"
 msgstr ""
+"Vykreslování pracovní plochy pomocí softwaru<br><small>(Může být užitečné ve "
+"virtuálním počítači)"
 
 msgid ""
 "Utilizar GPU nos navegadores<br><small>(Desative no caso de distorção no "
 "vídeo)"
 msgstr ""
+"Použití GPU v prohlížečích<br><small>(Vypnout v případě zkreslení videa)"
 
 msgid "Escolha o desktop:"
-msgstr ""
+msgstr "Vyberte si plochu:"
 
 msgid "têm melhor desempenho."
-msgstr ""
+msgstr "lepší výkonnost."
 
 msgid "e"
-msgstr ""
+msgstr "e"
 
 msgid "Escolha o modelo do teclado:"
-msgstr ""
+msgstr "Vyberte si model klávesnice:"
 
 msgid "Escolha o tema dos aplicativos:"
-msgstr ""
+msgstr "Zvolte téma aplikací:"
 
 msgid ""
 "Utilizando renderização por software, a qualidade das transparências será "
 "reduzida."
-msgstr ""
+msgstr "Při použití softwarového vykreslování se sníží kvalita průsvitek."

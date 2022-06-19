@@ -21,9 +21,11 @@ msgid ""
 "Configuração alterada, se estiver utilizando o navegador, reinicie-o para "
 "que a nova configuração seja aplicada."
 msgstr ""
+"Stillingar breytt, ef þú ert að nota vafrann skaltu endurræsa hann fyrir "
+"nýja stillinguna sem á að beita."
 
 msgid "Se estiver utilizando algum navegador, feche-o e abra novamente!"
-msgstr ""
+msgstr "Ef þú ert að nota vafra skaltu loka honum og opna hann aftur!"
 
 msgid ""
 "\n"
@@ -32,6 +34,11 @@ msgid ""
 "\n"
 "Selecione não para utilizar a configuração padrão do sistema.\n"
 msgstr ""
+"\n"
+"Valin skjáborðsstilling hefur þegar verið notuð á þessu kerfi,\n"
+"viltu endurheimta stillingarnar sem þegar hafa verið notaðar?\n"
+"\n"
+"Veldu nei til að nota sjálfgefna kerfisstillingu.\n"
 
 msgid ""
 "Configuração aplicada!\n"
@@ -40,130 +47,143 @@ msgid ""
 "para que a configuração termine de\n"
 "ser aplicada."
 msgstr ""
+"Stillingar beitt!\n"
+"\n"
+"Skráðu þig út og skráðu þig aftur inn\n"
+"fyrir stillingar til að klára\n"
+"vera beitt."
 
 msgid "Temas"
-msgstr ""
+msgstr "Topics"
 
 msgid "Desktop"
-msgstr ""
+msgstr "Skrifborð"
 
 msgid "Ajustes"
-msgstr ""
+msgstr "klípur"
 
 msgid "Temas, Desktop e Ajustes"
-msgstr ""
+msgstr "Þemu, skrifborð og leiðréttingar"
 
 msgid "Desempenho do desktop"
-msgstr ""
+msgstr "Desktop árangur"
 
 msgid "Aceleração do navegador"
-msgstr ""
+msgstr "Browser hröðun"
 
 msgid "Usabilidade"
-msgstr ""
+msgstr "Notagildi"
 
 msgid "Tema dos aplicativos"
-msgstr ""
+msgstr "Apps þema"
 
 msgid "Bordas arredondadas."
-msgstr ""
+msgstr "Ávalar brúnir."
 
 msgid ""
 "Esse tema possui transparências com efeitos que<br>podem tornar o sistema "
 "lento em computadores<br>antigos ou ambientes virtualizados."
 msgstr ""
+"Þetta þema hefur gagnsæi með áhrifum sem <br>hægt er að hægja á kerfinu á "
+"<br>gömlum tölvum eða virtualized umhverfi."
 
 msgid "<b>Classic</b> e <b>New</b> têm melhor desempenho."
-msgstr ""
+msgstr "<b>Classic</b> og<b>New</b> standa sig betur."
 
 msgid "Renderizar o desktop via software"
-msgstr ""
+msgstr "Gátu skjáborðið í gegnum hugbúnað"
 
 msgid "(Pode ser útil em máquina virtual ou computadores antigos)"
-msgstr ""
+msgstr "(Getur verið gagnlegt á sýndarvélum eða gömlum tölvum)"
 
 msgid "Escolher programas a serem carregados na memória durante boot"
-msgstr ""
+msgstr "Veldu forrit til að hlaða inn í minni meðan á stígvél stendur"
 
 msgid ""
 "O Preload carrega arquivos dos programas na memória, para que iniciem "
 "rapidamente. O uso excessivo causa lentidão. Escolha a opção desejada:"
 msgstr ""
+"Forhlaða hleðst forritaskrár í minni svo þær byrja fljótt. Ofnotkun veldur "
+"seinlæti. Veldu viðeigandi valkost:"
 
 msgid "Automático"
-msgstr ""
+msgstr "Sjálfvirkt"
 
 msgid "Ativar"
-msgstr ""
+msgstr "Virkja"
 
 msgid "Desativar"
-msgstr ""
+msgstr "Slökkva"
 
 msgid "Configurações do Brave"
-msgstr ""
+msgstr "Hugrakkir stillingar"
 
 msgid "Escolha a opção desejada:"
-msgstr ""
+msgstr "Veldu viðeigandi valkost:"
 
 msgid "Remover propagandas"
-msgstr ""
+msgstr "Fjarlægja auglýsingar"
 
 msgid "Suportar criptomoedas"
-msgstr ""
+msgstr "Styðja dulritunargjaldmiðla"
 
 msgid "Botões da janela no lado esquerdo"
-msgstr ""
+msgstr "Gluggahnappar á vinstri hlið"
 
 msgid "Rolagem do mouse invertida"
-msgstr ""
+msgstr "Reversed mús fletta"
 
 msgid "Pesquisar arquivos"
-msgstr ""
+msgstr "Leita að skrám"
 
 msgid "Bloquear a área de trabalho"
-msgstr ""
+msgstr "Læsa skjáborðinu"
 
 msgid "Tema aplicado"
-msgstr ""
+msgstr "Notað þema"
 
 msgid ""
 "É preciso reiniciar a sessão para concluir a configuração. Deseja fazer "
 "agora?"
 msgstr ""
+"Þú verður að endurræsa fundinn til að ljúka uppsetningunni. Viltu gera það "
+"núna?"
 
 msgid "Configuração do Desktop"
-msgstr ""
+msgstr "Desktop skipulag"
 
 msgid ""
 "Você já utilizou esse desktop antes, deseja  restaurar sua personalização ou "
 "utilizar a configuração original?"
 msgstr ""
+"Hefur þú notað þetta skjáborð áður, viltu endurheimta sérsniðið eða nota "
+"upprunalegu stillingarnar?"
 
 msgid "Sim"
-msgstr ""
+msgstr "Já"
 
 msgid "Não"
-msgstr ""
+msgstr "Neibb"
 
 msgid "Original"
-msgstr ""
+msgstr "Upprunalega"
 
 msgid "Restaurar"
-msgstr ""
+msgstr "Restore"
 
 msgid "Desktop aplicado"
-msgstr ""
+msgstr "Applied skrifborð"
 
 msgid ""
 "Utilizando renderização por software, a qualidade das transparências está "
 "reduzida."
-msgstr ""
+msgstr "Með því að nota hugbúnað flutningur, gæði af the transparent minnkar."
 
 msgid "Desempenho em modo normal!"
-msgstr ""
+msgstr "Flutningur í venjulegri stillingu!"
 
 msgid "Desempenho em modo otimizado!"
-msgstr ""
+msgstr "Árangur í bjartsýni ham!"
 
 msgid "Desempenho em modo performance!"
-msgstr ""
+msgstr "Árangur í frammistöðu ham!"

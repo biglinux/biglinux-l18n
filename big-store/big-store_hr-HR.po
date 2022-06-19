@@ -25,54 +25,61 @@ msgstr ""
 "Generated-By: pygettext.py 1.5"
 
 msgid "A Big-Store já está em uso."
-msgstr ""
+msgstr "Big-Store je već u upotrebi."
 
 msgid "Big-Store"
-msgstr ""
+msgstr "Big-Store"
 
 msgid ""
 "Para os programas Snap aparecerem no menu do sistema finalize a sessão e "
 "faça login novamente."
 msgstr ""
+"Da bi se Snap programi pojavili u izborniku sustava, odjavite se i prijavite "
+"se natrag."
 
 msgid "Configurações"
-msgstr ""
+msgstr "Postavke"
 
 msgid "Suporte a Flatpak ativo."
-msgstr ""
+msgstr "Flatpak podrška je aktivna."
 
 msgid "Suporte a Flatpak NÃO está ativo."
-msgstr ""
+msgstr "Podrška za Flatpak NIJE aktivna."
 
 msgid "Suporte a Snap ativo."
-msgstr ""
+msgstr "Snap podrška aktivna."
 
 msgid "Suporte a Snap NÃO está ativo."
-msgstr ""
+msgstr "Snap podrška NIJE aktivna."
 
 msgid "Executar"
-msgstr ""
+msgstr "Izvršite"
 
 msgid "Atualizar cache dos repositórios nativos."
-msgstr ""
+msgstr "Osvježite predmemoriju izvornih spremišta."
 
 msgid "Procurar o servidor de repositórios nativos mais rápido no momento."
-msgstr ""
+msgstr "Potražite najbrži izvorni poslužitelj spremišta u ovom trenutku."
 
 msgid "Utilize as opções a seguir com cautela:"
-msgstr ""
+msgstr "Koristite sljedeće opcije s oprezom:"
 
 msgid ""
 "Atualizar as chaves dos repositórios BigLinux, Manjaro e Archlinux. Lembre "
 "que se você ativou repositórios complementares será necessário adicionar as "
 "chaves desses repositórios novamente."
 msgstr ""
+"Ažurirajte ključeve spremišta BigLinux, Manjaro i Archlinux. Imajte na umu "
+"da ako ste aktivirali dodatne spremišta, morat ćete ponovno dodati ključeve "
+"tim spremištima."
 
 msgid ""
 "Forçar atualizações, utilize essa opção se não estiver conseguindo atualizar "
 "o sistema, porém, na atualização forçada alguns programas podem ser "
 "removidos."
 msgstr ""
+"Prisilno ažuriranja, upotrijebite ovu opciju ako ne možete ažurirati sustav, "
+"međutim, u prisilnom ažuriranju neki programi mogu biti uklonjeni."
 
 msgid ""
 "\n"
@@ -81,6 +88,12 @@ msgid ""
 "portanto é a melhor opção quando o programa que você<br>\n"
 "deseja está disponível em mais de um tipo de instalação.<br>"
 msgstr ""
+"\n"
+"Izvorni programi bolje su integrirani u sustav <br>\n"
+"i podvrgavaju se daljnjim ispitivanjima prije nego što postanu dostupni, "
+"<br>\n"
+"tako da je najbolja opcija kada program <br>\n"
+"Želim je dostupan u više od jedne vrste instalacije. <br>"
 
 msgid ""
 "\n"
@@ -91,6 +104,13 @@ msgid ""
 "bem, mas não passam pelos mesmos testes feitos<br>\n"
 "com os programas nativos."
 msgstr ""
+"\n"
+"AUR programi su skripte koje je stvorio korisnik <br>\n"
+"za instaliranje programa koji nisu dostupni <br>\n"
+"izravno u izvornim spremištima sustava. <br>\n"
+"Programi instalirani ovom metodom rade <br>\n"
+"Pa, ali oni ne prolaze iste testove <br>\n"
+"s izvornim programima."
 
 msgid ""
 "\n"
@@ -102,6 +122,14 @@ msgid ""
 "para quem tem computadores que possuem boa capacidade<br>\n"
 "de processamento e armazenamento."
 msgstr ""
+"\n"
+"Flatpak programi dostupni su za sve <br>\n"
+"Linux distribucije obično se održavaju same od sebe <br>\n"
+"kreatori programa, međutim, nemaju neke <br>\n"
+"optimizacije i integracije sa sustavom, kao što se događa s <br>\n"
+"izvorni programi, to može biti dobra alternativa <br>\n"
+"za one koji imaju računala koja imaju dobar kapacitet <br>\n"
+"obrada i skladištenje."
 
 msgid ""
 "Programas Snap, assim como o Flatpak<br>\n"
@@ -110,305 +138,311 @@ msgid ""
 "se o programa que você procura está disponível apenas neste<br>\n"
 "formato, utilize-o."
 msgstr ""
+"Snap programi, baš kao i Flatpak <br>\n"
+"pruža programe za sve Linux distribucije. <br>\n"
+"Ima tendenciju da bude teži i manje integriran u sustav, ali <br>\n"
+"ako je program koji tražite dostupan samo na ovom <br>\n"
+"format, koristite ga."
 
 msgid "Aplicando - Aguarde"
-msgstr ""
+msgstr "Primjena - Molimo pričekajte"
 
 msgid "Procurar programa"
-msgstr ""
+msgstr "Traži program"
 
 msgid "Programas Nativos"
-msgstr ""
+msgstr "Izvorni programi"
 
 msgid "Programas AUR"
-msgstr ""
+msgstr "AUR programi"
 
 msgid "Programas Flatpak"
-msgstr ""
+msgstr "Flatpak programi"
 
 msgid "Programas Snap"
-msgstr ""
+msgstr "Snap programi"
 
 msgid "Navegadores"
-msgstr ""
+msgstr "navigatori"
 
 msgid "E-mail"
-msgstr ""
+msgstr "E-mail"
 
 msgid "Armazenamento nas nuvens"
-msgstr ""
+msgstr "Pohrana u oblaku"
 
 msgid "Download"
-msgstr ""
+msgstr "Preuzmi"
 
 msgid "Compartilhadores e Torrent"
-msgstr ""
+msgstr "Dioničari i bujica"
 
 msgid "Mensageiros e Conferências"
-msgstr ""
+msgstr "Glasnici i konferencije"
 
 msgid "Acesso Remoto, FTP, SSH, VNC, RDP..."
-msgstr ""
+msgstr "Daljinski pristup, FTP, SSH, VNC, RDP..."
 
 msgid "Ferramentas de rede"
-msgstr ""
+msgstr "Mrežni alati"
 
 msgid "Suíte Office"
-msgstr ""
+msgstr "Uredski apartman"
 
 msgid "Visualizadores de PDF, Epub, e-books e mais"
-msgstr ""
+msgstr "PDF gledatelji, epub, e-knjige i još mnogo toga"
 
 msgid "Editores de PDF"
-msgstr ""
+msgstr "PDF urednici"
 
 msgid "Agenda de tarefas e contatos"
-msgstr ""
+msgstr "Raspored zadataka i kontakata"
 
 msgid "Visualizadores de imagem"
-msgstr ""
+msgstr "Gledatelji slika"
 
 msgid "Editores de imagem e ferramentas de desenho"
-msgstr ""
+msgstr "Uređivači slika i alati za crtanje"
 
 msgid "Captura de tela (Screenshot)"
-msgstr ""
+msgstr "Snimak zaslona (Snimak zaslona)"
 
 msgid "Converter, redimensionar ou compactar imagens"
-msgstr ""
+msgstr "Pretvaranje, promjena veličine ili komprimiranje slika"
 
 msgid "Edição 3D e CAD"
-msgstr ""
+msgstr "3D i CAD uređivanje"
 
 msgid "Reprodutores de áudio"
-msgstr ""
+msgstr "Audio playeri"
 
 msgid "Rádio online"
-msgstr ""
+msgstr "Online radio"
 
 msgid "Gravadores e conversores de áudio"
-msgstr ""
+msgstr "Audio snimači i pretvarači"
 
 msgid "Editores de áudio"
-msgstr ""
+msgstr "Audio urednici"
 
 msgid "Reprodutores de vídeo"
-msgstr ""
+msgstr "Video plejeri"
 
 msgid "Vídeo online, IPTV, Youtube..."
-msgstr ""
+msgstr "Online video, IPTV, YouTube..."
 
 msgid "Editores e compactadores de vídeo"
-msgstr ""
+msgstr "Video urednici i kompresori"
 
 msgid "Gravadores e copiadores de CD e DVD"
-msgstr ""
+msgstr "CD i DVD snimači i kopirni uređaji"
 
 msgid "Webcam, gravação de tela e transmissão de vídeo"
-msgstr ""
+msgstr "Web kamera, snimanje zaslona i streaming videozapisa"
 
 msgid "Gerenciadores de jogos"
-msgstr ""
+msgstr "Menadžeri igara"
 
 msgid "Utilitários para jogos"
-msgstr ""
+msgstr "Uslužni programi za igre"
 
 msgid "Emulador Retroarch"
-msgstr ""
+msgstr "Retroarch emulator"
 
 msgid "Emuladores"
-msgstr ""
+msgstr "Emulatori"
 
 msgid "Criadores de jogos"
-msgstr ""
+msgstr "Stvoritelji igara"
 
 msgid "Ação/Arcade"
-msgstr ""
+msgstr "Radnja/Arkadne igre"
 
 msgid "Cartas"
-msgstr ""
+msgstr "Kartice"
 
 msgid "Educacional"
-msgstr ""
+msgstr "Obrazovni"
 
 msgid "Estratégia"
-msgstr ""
+msgstr "Strategija"
 
 msgid "Puzzles"
-msgstr ""
+msgstr "Zagonetke"
 
 msgid "Tabuleiro"
-msgstr ""
+msgstr "Ladica"
 
 msgid "RPG"
-msgstr ""
+msgstr "RPG"
 
 msgid "Armazenamento e partições"
-msgstr ""
+msgstr "Skladištenje i particije"
 
 msgid "Fontes (Tipografia)"
-msgstr ""
+msgstr "Fontovi (tipografija)"
 
 msgid "Java JRE"
-msgstr ""
+msgstr "Java JRE"
 
 msgid "Virtualização"
-msgstr ""
+msgstr "Virtualizacija"
 
 msgid "Editores de código e IDE"
-msgstr ""
+msgstr "Urednici koda i IDE"
 
 msgid "Banco de dados"
-msgstr ""
+msgstr "Baza podataka"
 
 msgid "Servidores WEB"
-msgstr ""
+msgstr "WEB poslužitelji"
 
 msgid "Pacotes nativos e AUR"
-msgstr ""
+msgstr "Izvorni i AUR paketi"
 
 msgid "Instalados:"
-msgstr ""
+msgstr "Instalirano:"
 
 msgid "Disponíveis:"
-msgstr ""
+msgstr "Dostupno:"
 
 msgid "Pacotes Flatpak"
-msgstr ""
+msgstr "Flatpak Paketi"
 
 msgid "Repositórios configurados:"
-msgstr ""
+msgstr "Konfigurirani spremišta:"
 
 msgid "Pacotes Snap"
-msgstr ""
+msgstr "Snap paketi"
 
 msgid "Pacotes Snap Instalados clique no pacote para remover"
-msgstr ""
+msgstr "Snap Paketi Instalirani kliknite na paket za uklanjanje"
 
 msgid "Versão: "
-msgstr ""
+msgstr "Verzija: "
 
 msgid "Pacote: "
-msgstr ""
+msgstr "Paket: "
 
 msgid "Não informada"
-msgstr ""
+msgstr "Nije informirano"
 
 msgid "Atualizar"
-msgstr ""
+msgstr "ažuriraj"
 
 msgid "Versão instalada"
-msgstr ""
+msgstr "Instalirana verzija"
 
 msgid "Versão disponível"
-msgstr ""
+msgstr "Dostupna verzija"
 
 msgid "Versão"
-msgstr ""
+msgstr "Verzija"
 
 msgid "Pacote .deb"
-msgstr ""
+msgstr ".deb paket"
 
 msgid ""
 "Esse programa está em formato .deb, que possui a melhor integração com o "
 "sistema."
 msgstr ""
+"Ovaj program je u .deb formatu, koji ima najbolju integraciju sa sustavom."
 
 msgid "Dependências a instalar"
-msgstr ""
+msgstr "Ovisnosti za instalaciju"
 
 msgid "Ver mais"
-msgstr ""
+msgstr "Pogledajte više"
 
 msgid "Pacotes com dependências não atendidas: "
-msgstr ""
+msgstr "Paketi s nezadovoljenim ovisnostima: "
 
 msgid "Depende de "
-msgstr ""
+msgstr "Ovisi o "
 
 msgid "mas não vai ser instalado."
-msgstr ""
+msgstr "ali neće biti instaliran."
 
 msgid "mas não está disponível"
-msgstr ""
+msgstr "ali nije dostupan"
 
 msgid "Informações sobre programas nativos"
-msgstr ""
+msgstr "Informacije o izvornim programima"
 
 msgid "Pacote:"
-msgstr ""
+msgstr "Paket:"
 
 msgid "Versão disponível:"
-msgstr ""
+msgstr "Dostupna verzija:"
 
 msgid "Repositório:"
-msgstr ""
+msgstr "Repozitorij:"
 
 msgid "Instalando"
-msgstr ""
+msgstr "Instaliranje"
 
 msgid "Removendo"
-msgstr ""
+msgstr "Uklanjanje"
 
 msgid "Informações sobre programas SNAP"
-msgstr ""
+msgstr "Informacije o SNAP programima"
 
 msgid "Programas SNAP"
-msgstr ""
+msgstr "SNAP programi"
 
 msgid "Versão disponivel:"
-msgstr ""
+msgstr "Dostupna verzija:"
 
 msgid "Licença:"
-msgstr ""
+msgstr "Licenca:"
 
 msgid "AUR"
-msgstr ""
+msgstr "AUR"
 
 msgid "Empacotador:"
-msgstr ""
+msgstr "Paker:"
 
 msgid "Reinstalar"
-msgstr ""
+msgstr "Ponovno instalirajte"
 
 msgid "Versão instalada:"
-msgstr ""
+msgstr "Instalirana verzija:"
 
 msgid "Uso de armazenamento:"
-msgstr ""
+msgstr "Korištenje skladištenja:"
 
 msgid "Tamanho do download:"
-msgstr ""
+msgstr "Veličina preuzimanja:"
 
 msgid "Site:"
-msgstr ""
+msgstr "Web stranica:"
 
 msgid "Motivo da instalação:"
-msgstr ""
+msgstr "Razlog za instalaciju:"
 
 msgid "Grupos:"
-msgstr ""
+msgstr "Grupe:"
 
 msgid "Assinado:"
-msgstr ""
+msgstr "Potpisano:"
 
 msgid "Complementos:"
-msgstr ""
+msgstr "Dopunjuje:"
 
 msgid "Dependências:"
-msgstr ""
+msgstr "Ovisnosti:"
 
 msgid "Remove:"
-msgstr ""
+msgstr "Ukloni:"
 
 msgid "Substitui:"
-msgstr ""
+msgstr "Zamjenjuje:"
 
 msgid "Arquivos do pacote:"
-msgstr ""
+msgstr "Datoteke paketa:"
 
 msgid "Clique aqui para ver os arquivos"
-msgstr ""
+msgstr "Kliknite ovdje da biste vidjeli datoteke"
 
 msgid "Informações sobre programas AUR"
-msgstr ""
+msgstr "Informacije o AUR programima"

@@ -54,7 +54,7 @@ msgstr ""
 "applied."
 
 msgid "Temas"
-msgstr "Topics"
+msgstr "Themes"
 
 msgid "Desktop"
 msgstr "Desktop"

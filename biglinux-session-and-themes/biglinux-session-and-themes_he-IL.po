@@ -21,9 +21,11 @@ msgid ""
 "Configuração alterada, se estiver utilizando o navegador, reinicie-o para "
 "que a nova configuração seja aplicada."
 msgstr ""
+"התצורה השתנתה, אם אתה משתמש בדפדפן, הפעל אותו מחדש כדי להחיל את ההגדרה החדשה."
+""
 
 msgid "Se estiver utilizando algum navegador, feche-o e abra novamente!"
-msgstr ""
+msgstr "אם אתה משתמש בדפדפן, סגור אותו ופתח אותו שוב!"
 
 msgid ""
 "\n"
@@ -32,6 +34,11 @@ msgid ""
 "\n"
 "Selecione não para utilizar a configuração padrão do sistema.\n"
 msgstr ""
+"\n"
+"תצורת שולחן העבודה שנבחרה כבר בשימוש במערכת זו,\n"
+"האם ברצונך לשחזר את התצורה שכבר נעשה בה שימוש?\n"
+"\n"
+"בחר לא כדי להשתמש בהגדרת ברירת המחדל של המערכת.\n"
 
 msgid ""
 "Configuração aplicada!\n"
@@ -40,130 +47,142 @@ msgid ""
 "para que a configuração termine de\n"
 "ser aplicada."
 msgstr ""
+"תצורה הוחלה!\n"
+"\n"
+"צא והיכנס שוב\n"
+"עבור התצורה כדי לסיים\n"
+"להיות מיושם."
 
 msgid "Temas"
-msgstr ""
+msgstr "נושאים"
 
 msgid "Desktop"
-msgstr ""
+msgstr "שולחן עבודה"
 
 msgid "Ajustes"
-msgstr ""
+msgstr "tweaks"
 
 msgid "Temas, Desktop e Ajustes"
-msgstr ""
+msgstr "ערכות נושא, שולחן עבודה והתאמות"
 
 msgid "Desempenho do desktop"
-msgstr ""
+msgstr "ביצועי מחשב שולחני"
 
 msgid "Aceleração do navegador"
-msgstr ""
+msgstr "האצת דפדפן"
 
 msgid "Usabilidade"
-msgstr ""
+msgstr "שמישות"
 
 msgid "Tema dos aplicativos"
-msgstr ""
+msgstr "נושא אפליקציות"
 
 msgid "Bordas arredondadas."
-msgstr ""
+msgstr "קצוות מעוגלים."
 
 msgid ""
 "Esse tema possui transparências com efeitos que<br>podem tornar o sistema "
 "lento em computadores<br>antigos ou ambientes virtualizados."
 msgstr ""
+"לנושא זה שקפים עם אפקטים <br>שיכולים להאט את המערכת <br>במחשבים ישנים או "
+"בסביבות וירטואליות."
 
 msgid "<b>Classic</b> e <b>New</b> têm melhor desempenho."
-msgstr ""
+msgstr "<b>קלאסי</b> <b>חדש</b> ביצועים טובים יותר."
 
 msgid "Renderizar o desktop via software"
-msgstr ""
+msgstr "לעבד את שולחן העבודה באמצעות תוכנה"
 
 msgid "(Pode ser útil em máquina virtual ou computadores antigos)"
-msgstr ""
+msgstr "(עשוי להיות שימושי במחשבים וירטואליים או במחשבים ישנים)"
 
 msgid "Escolher programas a serem carregados na memória durante boot"
-msgstr ""
+msgstr "בחר תוכניות לטעינה לזיכרון במהלך האתחול"
 
 msgid ""
 "O Preload carrega arquivos dos programas na memória, para que iniciem "
 "rapidamente. O uso excessivo causa lentidão. Escolha a opção desejada:"
 msgstr ""
+"טען מראש טוען קבצי תוכנית לזיכרון כך שהם יתחילו במהירות. שימוש יתר גורם "
+"לאיטיות. בחר באפשרות הרצויה:"
 
 msgid "Automático"
-msgstr ""
+msgstr "אוטומטי"
 
 msgid "Ativar"
-msgstr ""
+msgstr "הפעל"
 
 msgid "Desativar"
-msgstr ""
+msgstr "בטל הפעלה"
 
 msgid "Configurações do Brave"
-msgstr ""
+msgstr "הגדרות אמיצות"
 
 msgid "Escolha a opção desejada:"
-msgstr ""
+msgstr "בחר באפשרות הרצויה:"
 
 msgid "Remover propagandas"
-msgstr ""
+msgstr "הסרת מודעות"
 
 msgid "Suportar criptomoedas"
-msgstr ""
+msgstr "תמיכה בקריפטו"
 
 msgid "Botões da janela no lado esquerdo"
-msgstr ""
+msgstr "לחצני חלון בצד שמאל"
 
 msgid "Rolagem do mouse invertida"
-msgstr ""
+msgstr "גלילת עכבר הפוכה"
 
 msgid "Pesquisar arquivos"
-msgstr ""
+msgstr "חפש קבצים"
 
 msgid "Bloquear a área de trabalho"
-msgstr ""
+msgstr "נעל את שולחן העבודה"
 
 msgid "Tema aplicado"
-msgstr ""
+msgstr "נושא יישומי"
 
 msgid ""
 "É preciso reiniciar a sessão para concluir a configuração. Deseja fazer "
 "agora?"
 msgstr ""
+"עליך להפעיל מחדש את ההפעלה כדי להשלים את ההתקנה. רוצה לעשות את זה עכשיו?"
 
 msgid "Configuração do Desktop"
-msgstr ""
+msgstr "הגדרת שולחן עבודה"
 
 msgid ""
 "Você já utilizou esse desktop antes, deseja  restaurar sua personalização ou "
 "utilizar a configuração original?"
 msgstr ""
+"האם השתמשת בשולחן העבודה הזה בעבר, האם ברצונך לשחזר את ההתאמה האישית שלו או "
+"להשתמש בתצורה המקורית?"
 
 msgid "Sim"
-msgstr ""
+msgstr "הן"
 
 msgid "Não"
-msgstr ""
+msgstr "לא"
 
 msgid "Original"
-msgstr ""
+msgstr "מקורי"
 
 msgid "Restaurar"
-msgstr ""
+msgstr "שחזור"
 
 msgid "Desktop aplicado"
-msgstr ""
+msgstr "שולחן עבודה יישומי"
 
 msgid ""
 "Utilizando renderização por software, a qualidade das transparências está "
 "reduzida."
-msgstr ""
+msgstr "על ידי שימוש בעיבוד תוכנה, איכות השקפים מופחתת."
 
 msgid "Desempenho em modo normal!"
-msgstr ""
+msgstr "ביצועים במצב רגיל!"
 
 msgid "Desempenho em modo otimizado!"
-msgstr ""
+msgstr "ביצועים במצב מותאם!"
 
 msgid "Desempenho em modo performance!"
-msgstr ""
+msgstr "ביצועים במצב ביצועים!"

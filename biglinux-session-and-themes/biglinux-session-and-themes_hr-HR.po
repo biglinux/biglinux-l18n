@@ -21,9 +21,11 @@ msgid ""
 "Configuração alterada, se estiver utilizando o navegador, reinicie-o para "
 "que a nova configuração seja aplicada."
 msgstr ""
+"Konfiguracija je promijenjena, ako koristite preglednik, ponovno ga "
+"pokrenite kako biste primijenili novu postavku."
 
 msgid "Se estiver utilizando algum navegador, feche-o e abra novamente!"
-msgstr ""
+msgstr "Ako koristite preglednik, zatvorite ga i ponovo otvorite!"
 
 msgid ""
 "\n"
@@ -32,6 +34,11 @@ msgid ""
 "\n"
 "Selecione não para utilizar a configuração padrão do sistema.\n"
 msgstr ""
+"\n"
+"Odabrana konfiguracija radne površine već je korištena na ovom sustavu,\n"
+"želite li vratiti konfiguraciju koja je već korištena?\n"
+"\n"
+"Odaberite ne da biste koristili zadanu postavku sustava.\n"
 
 msgid ""
 "Configuração aplicada!\n"
@@ -40,130 +47,144 @@ msgid ""
 "para que a configuração termine de\n"
 "ser aplicada."
 msgstr ""
+"Primijenjena konfiguracija!\n"
+"\n"
+"Odjavite se i ponovno se prijavite\n"
+"kako bi konfiguracija završila\n"
+"primjenjivati."
 
 msgid "Temas"
-msgstr ""
+msgstr "Teme"
 
 msgid "Desktop"
-msgstr ""
+msgstr "Desktop"
 
 msgid "Ajustes"
-msgstr ""
+msgstr "ugađanje"
 
 msgid "Temas, Desktop e Ajustes"
-msgstr ""
+msgstr "Teme, radna površina i prilagodbe"
 
 msgid "Desempenho do desktop"
-msgstr ""
+msgstr "Učinak radne površine"
 
 msgid "Aceleração do navegador"
-msgstr ""
+msgstr "Ubrzanje preglednika"
 
 msgid "Usabilidade"
-msgstr ""
+msgstr "Upotrebljivost"
 
 msgid "Tema dos aplicativos"
-msgstr ""
+msgstr "Tema aplikacija"
 
 msgid "Bordas arredondadas."
-msgstr ""
+msgstr "Zaobljeni rubovi."
 
 msgid ""
 "Esse tema possui transparências com efeitos que<br>podem tornar o sistema "
 "lento em computadores<br>antigos ou ambientes virtualizados."
 msgstr ""
+"Ova tema ima prozirne folije s efektima koji <br>mogu usporiti sustav na "
+"<br>starim računalima ili virtualiziranim okruženjima."
 
 msgid "<b>Classic</b> e <b>New</b> têm melhor desempenho."
-msgstr ""
+msgstr "<b>Klasični</b> i<b>novi</b> rade bolje."
 
 msgid "Renderizar o desktop via software"
-msgstr ""
+msgstr "Render radnu površinu putem softvera"
 
 msgid "(Pode ser útil em máquina virtual ou computadores antigos)"
-msgstr ""
+msgstr "(Može biti korisno na virtualnim strojevima ili starim računalima)"
 
 msgid "Escolher programas a serem carregados na memória durante boot"
-msgstr ""
+msgstr "Odaberite programe za učitavanje u memoriju tijekom pokretanja"
 
 msgid ""
 "O Preload carrega arquivos dos programas na memória, para que iniciem "
 "rapidamente. O uso excessivo causa lentidão. Escolha a opção desejada:"
 msgstr ""
+"Prethodno učitavanje učitava programske datoteke u memoriju tako da brzo "
+"počnu. Prekomjerna upotreba uzrokuje sporost. Odaberite željenu opciju:"
 
 msgid "Automático"
-msgstr ""
+msgstr "Auto"
 
 msgid "Ativar"
-msgstr ""
+msgstr "Aktiviraj"
 
 msgid "Desativar"
-msgstr ""
+msgstr "Deaktiviraj"
 
 msgid "Configurações do Brave"
-msgstr ""
+msgstr "Brave postavke"
 
 msgid "Escolha a opção desejada:"
-msgstr ""
+msgstr "Odaberite željenu opciju:"
 
 msgid "Remover propagandas"
-msgstr ""
+msgstr "Ukloni oglase"
 
 msgid "Suportar criptomoedas"
-msgstr ""
+msgstr "Podržite kriptovalute"
 
 msgid "Botões da janela no lado esquerdo"
-msgstr ""
+msgstr "Gumbi prozora na lijevoj strani"
 
 msgid "Rolagem do mouse invertida"
-msgstr ""
+msgstr "Obrnuto pomicanje miša"
 
 msgid "Pesquisar arquivos"
-msgstr ""
+msgstr "Pretraživanje datoteka"
 
 msgid "Bloquear a área de trabalho"
-msgstr ""
+msgstr "Zaključajte radnu površinu"
 
 msgid "Tema aplicado"
-msgstr ""
+msgstr "Primijenjena tema"
 
 msgid ""
 "É preciso reiniciar a sessão para concluir a configuração. Deseja fazer "
 "agora?"
 msgstr ""
+"Morate ponovno pokrenuti sesiju da biste dovršili postavljanje. Želite li to "
+"učiniti sada?"
 
 msgid "Configuração do Desktop"
-msgstr ""
+msgstr "Postavljanje radne površine"
 
 msgid ""
 "Você já utilizou esse desktop antes, deseja  restaurar sua personalização ou "
 "utilizar a configuração original?"
 msgstr ""
+"Jeste li prije koristili ovu radnu površinu, želite li vratiti njezinu "
+"personalizaciju ili upotrijebiti izvornu konfiguraciju?"
 
 msgid "Sim"
-msgstr ""
+msgstr "Da"
 
 msgid "Não"
-msgstr ""
+msgstr "Ne"
 
 msgid "Original"
-msgstr ""
+msgstr "Izvorni"
 
 msgid "Restaurar"
-msgstr ""
+msgstr "Vrati"
 
 msgid "Desktop aplicado"
-msgstr ""
+msgstr "Primijenjena radna površina"
 
 msgid ""
 "Utilizando renderização por software, a qualidade das transparências está "
 "reduzida."
 msgstr ""
+"Korištenjem prikazivanja softvera smanjuje se kvaliteta prozirnih folija."
 
 msgid "Desempenho em modo normal!"
-msgstr ""
+msgstr "Izvedba u normalnom načinu rada!"
 
 msgid "Desempenho em modo otimizado!"
-msgstr ""
+msgstr "Performanse u optimiziranom načinu!"
 
 msgid "Desempenho em modo performance!"
-msgstr ""
+msgstr "Performanse u načinu rada!"

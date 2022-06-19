@@ -18,19 +18,19 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit"
 
 msgid "Information"
-msgstr ""
+msgstr "Tiedot"
 
 msgid "License: "
-msgstr ""
+msgstr "Lisenssi "
 
 msgid "Created by:"
-msgstr ""
+msgstr "Luonut:"
 
 msgid "Date:"
-msgstr ""
+msgstr "Päivämäärä:"
 
 msgid "Code URL:"
-msgstr ""
+msgstr "Koodi URL:"
 
 msgid "Project URL:"
-msgstr ""
+msgstr "Hankkeen URL-osoite:"

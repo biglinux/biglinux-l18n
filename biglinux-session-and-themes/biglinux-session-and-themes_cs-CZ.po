@@ -21,9 +21,10 @@ msgid ""
 "Configuração alterada, se estiver utilizando o navegador, reinicie-o para "
 "que a nova configuração seja aplicada."
 msgstr ""
+"Pokud používáte prohlížeč, restartujte jej, aby se nová konfigurace použila."
 
 msgid "Se estiver utilizando algum navegador, feche-o e abra novamente!"
-msgstr ""
+msgstr "Pokud používáte prohlížeč, zavřete jej a znovu otevřete!"
 
 msgid ""
 "\n"
@@ -32,6 +33,11 @@ msgid ""
 "\n"
 "Selecione não para utilizar a configuração padrão do sistema.\n"
 msgstr ""
+"\n"
+"Vybraná konfigurace plochy již byla v tomto systému použita,\n"
+"chcete obnovit již použitou konfiguraci?\n"
+"\n"
+"Chcete-li použít výchozí konfiguraci systému, vyberte možnost ne.\n"
 
 msgid ""
 "Configuração aplicada!\n"
@@ -40,130 +46,143 @@ msgid ""
 "para que a configuração termine de\n"
 "ser aplicada."
 msgstr ""
+"Konfigurace použita!\n"
+"\n"
+"Odhlášení a opětovné přihlášení\n"
+"pro dokončení konfigurace\n"
+"použity."
 
 msgid "Temas"
-msgstr ""
+msgstr "Témata"
 
 msgid "Desktop"
-msgstr ""
+msgstr "Stolní počítač"
 
 msgid "Ajustes"
-msgstr ""
+msgstr "Nastavení"
 
 msgid "Temas, Desktop e Ajustes"
-msgstr ""
+msgstr "Motivy, plocha a nastavení"
 
 msgid "Desempenho do desktop"
-msgstr ""
+msgstr "Výkon stolních počítačů"
 
 msgid "Aceleração do navegador"
-msgstr ""
+msgstr "Zrychlení prohlížeče"
 
 msgid "Usabilidade"
-msgstr ""
+msgstr "Použitelnost"
 
 msgid "Tema dos aplicativos"
-msgstr ""
+msgstr "Téma aplikace"
 
 msgid "Bordas arredondadas."
-msgstr ""
+msgstr "Zaoblené hrany."
 
 msgid ""
 "Esse tema possui transparências com efeitos que<br>podem tornar o sistema "
 "lento em computadores<br>antigos ou ambientes virtualizados."
 msgstr ""
+"Toto téma obsahuje průsvitky s efekty, které mohou<br>zpomalit systém na "
+"starých počítačích<br>nebo ve virtualizovaných prostředích."
 
 msgid "<b>Classic</b> e <b>New</b> têm melhor desempenho."
-msgstr ""
+msgstr "Modely<b>Classic</b> a <b>New</b> mají lepší výkon."
 
 msgid "Renderizar o desktop via software"
-msgstr ""
+msgstr "Vykreslování pracovní plochy pomocí softwaru"
 
 msgid "(Pode ser útil em máquina virtual ou computadores antigos)"
-msgstr ""
+msgstr "(Může být užitečné ve virtuálním počítači nebo ve starých počítačích)"
 
 msgid "Escolher programas a serem carregados na memória durante boot"
-msgstr ""
+msgstr "Výběr programů, které se mají načíst do paměti při spuštění systému"
 
 msgid ""
 "O Preload carrega arquivos dos programas na memória, para que iniciem "
 "rapidamente. O uso excessivo causa lentidão. Escolha a opção desejada:"
 msgstr ""
+"Předběžné načtení načte soubory programu do paměti, aby se rychle spustily. "
+"Nadměrné používání způsobuje zpomalení. Vyberte požadovanou možnost:"
 
 msgid "Automático"
-msgstr ""
+msgstr "Automatické"
 
 msgid "Ativar"
-msgstr ""
+msgstr "Aktivace"
 
 msgid "Desativar"
-msgstr ""
+msgstr "Deaktivace"
 
 msgid "Configurações do Brave"
-msgstr ""
+msgstr "Odvážné konfigurace"
 
 msgid "Escolha a opção desejada:"
-msgstr ""
+msgstr "Vyberte požadovanou možnost:"
 
 msgid "Remover propagandas"
-msgstr ""
+msgstr "Odstranění reklam"
 
 msgid "Suportar criptomoedas"
-msgstr ""
+msgstr "Podpora kryptoměn"
 
 msgid "Botões da janela no lado esquerdo"
-msgstr ""
+msgstr "Tlačítka okna na levé straně"
 
 msgid "Rolagem do mouse invertida"
-msgstr ""
+msgstr "Obrácené posouvání myší"
 
 msgid "Pesquisar arquivos"
-msgstr ""
+msgstr "Vyhledávání v archivech"
 
 msgid "Bloquear a área de trabalho"
-msgstr ""
+msgstr "Uzamčení plochy"
 
 msgid "Tema aplicado"
-msgstr ""
+msgstr "Použité téma"
 
 msgid ""
 "É preciso reiniciar a sessão para concluir a configuração. Deseja fazer "
 "agora?"
 msgstr ""
+"Pro dokončení konfigurace musíte být znovu přihlášeni. Chcete to udělat "
+"hned?"
 
 msgid "Configuração do Desktop"
-msgstr ""
+msgstr "Konfigurace pracovní plochy"
 
 msgid ""
 "Você já utilizou esse desktop antes, deseja  restaurar sua personalização ou "
 "utilizar a configuração original?"
 msgstr ""
+"Používali jste tuto plochu již dříve, chcete obnovit její přizpůsobení nebo "
+"použít původní konfiguraci?"
 
 msgid "Sim"
-msgstr ""
+msgstr "Ano"
 
 msgid "Não"
-msgstr ""
+msgstr "Ne"
 
 msgid "Original"
-msgstr ""
+msgstr "Originál"
 
 msgid "Restaurar"
-msgstr ""
+msgstr "Obnovení"
 
 msgid "Desktop aplicado"
-msgstr ""
+msgstr "Použitá plocha"
 
 msgid ""
 "Utilizando renderização por software, a qualidade das transparências está "
 "reduzida."
-msgstr ""
+msgstr "Při softwarovém vykreslování se snižuje kvalita průsvitek."
 
 msgid "Desempenho em modo normal!"
-msgstr ""
+msgstr "Výkon v normálním režimu!"
 
 msgid "Desempenho em modo otimizado!"
-msgstr ""
+msgstr "Výkon v rozšířeném režimu!"
 
 msgid "Desempenho em modo performance!"
-msgstr ""
+msgstr "Výkon v režimu výkonu!"

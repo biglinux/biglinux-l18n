@@ -18,51 +18,53 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit"
 
 msgid "Configurações de texto para voz"
-msgstr ""
+msgstr "Параметри синтезу мовлення з тексту"
 
 msgid "Vozes - Abrir BigStore"
-msgstr ""
+msgstr "Голоси - Відкрити BigStore"
 
 msgid "Voice Configuration"
-msgstr ""
+msgstr "Налаштування голосу"
 
 msgid "Configurar voz"
-msgstr ""
+msgstr "Налаштування голосу"
 
 msgid "Para falar um texto selecionado use o atalho "
-msgstr ""
+msgstr "Щоб промовити виділений текст, скористайтеся ярликом"
 
 msgid "[Alt] + [V]"
-msgstr ""
+msgstr "[Alt] + [V]"
 
 msgid ""
 "ou o ícone na sessão Utilitários no menu do sistema. Para interromper a "
 "leitura use novamene o atalho ou ícone."
 msgstr ""
+"або іконку в розділі Службові програми системного меню. Щоб припинити "
+"читання, знову скористайтеся ярликом або піктограмою."
 
 msgid "Selecione as configurações de sua preferência"
-msgstr ""
+msgstr "Виберіть бажані налаштування"
 
 msgid "Números maiores deixam a voz mais rápida, o padrão é: -25"
-msgstr ""
+msgstr "Більш високі цифри роблять голос швидшим, за замовчуванням: -25"
 
 msgid "Velocidade"
-msgstr ""
+msgstr "Швидкість"
 
 msgid "Números maiores deixam a voz mais aguda, o padrão é: -25"
-msgstr ""
+msgstr "Більші цифри підвищують голос, за замовчуванням: -25"
 
 msgid "Tom"
-msgstr ""
+msgstr "Тон"
 
 msgid "O padrão é: 0."
-msgstr ""
+msgstr "За замовчуванням: 0."
 
 msgid "Volume"
-msgstr ""
+msgstr "Обсяг"
 
 msgid "As vozes são otimizadas para idiomas expecíficos."
-msgstr ""
+msgstr "Голоси оптимізовані для певних мов."
 
 msgid "Voz"
-msgstr ""
+msgstr "Голос"

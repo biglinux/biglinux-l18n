@@ -24,68 +24,79 @@ msgid ""
 "Você também pode utilizar o gerenciador de arquivos, clicar com o botão "
 "direito no arquivo PDF, 'Abrir com' e selecionar a opção de OCR."
 msgstr ""
+"Izberite datoteko PDF, za katero želite uporabiti OCR, da lahko iščete ali "
+"kopirate besedila.\n"
+"\n"
+"Uporabite lahko tudi upravitelja datotek, desno kliknite na datoteko PDF, "
+"\"Odpri z\" in izberite možnost OCR."
 
 msgid "NORMAL"
-msgstr ""
+msgstr "NORMALNO"
 
 msgid "ECONÔMICO"
-msgstr ""
+msgstr "GOSPODARSKI"
 
 msgid "MAIS ECONÔMICO"
-msgstr ""
+msgstr "VEČ GOSPODARSKEGA"
 
 msgid "ALINHAR"
-msgstr ""
+msgstr "ALIGN"
 
 msgid "AUTO ROTAÇÃO"
-msgstr ""
+msgstr "AVTOMATSKO OBRAČANJE"
 
 msgid "ALINHAR E GIRAR AUTOMÁTICA"
-msgstr ""
+msgstr "SAMODEJNO PORAVNAVANJE IN OBRAČANJE"
 
 msgid "NÃO MUDE"
-msgstr ""
+msgstr "NE SPREMINJAJTE"
 
 msgid "ESPANHOL"
-msgstr ""
+msgstr "ŠPANSKI"
 
 msgid "INGLÊS"
-msgstr ""
+msgstr "ENGLISH"
 
 msgid "PORTUGUÊS"
-msgstr ""
+msgstr "PORTUGALSKA"
 
 msgid ""
 "Você pode optar por reduzir a qualidade da imagem.<br>Dessa forma você terá "
 "arquivos menores, facilitando,<br>por exemplo, enviá-los por e-mail."
 msgstr ""
+"Lahko zmanjšate kakovost slike.<br>Tako boste imeli manjše datoteke, ki jih "
+"boste lažje<br>poslali na primer po e-pošti."
 
 msgid ""
 "Para adicionar novos idiomas, instale os complementos do tesseract no "
 "gerenciador de pacotes do sistema."
 msgstr ""
+"Če želite dodati nove jezike, namestite dodatke tesseract v upravitelju "
+"sistemskih paketov."
 
 msgid "Aplicar"
-msgstr ""
+msgstr "Uporabi"
 
 msgid "Torne seu PDF pesquisável"
-msgstr ""
+msgstr "Omogočite iskanje v PDF"
 
 msgid ""
 "Adicionar OCR no PDF digitalizado permitindo seleção de textos e busca:"
 msgstr ""
+"Optično prepoznavanje OCR v optično prebranem PDF, ki omogoča izbiro "
+"besedila in iskanje:"
 
 msgid "OCR para PDF"
-msgstr ""
+msgstr "OCR za PDF"
 
 msgid "Arquivo"
-msgstr ""
+msgstr "Datoteka"
 
 msgid "Pasta:"
-msgstr ""
+msgstr "Mapa:"
 
 msgid "Abrir"
-msgstr ""
+msgstr "Odpri"
 
 msgid "Arquivo salvo: "
-msgstr ""
+msgstr "Shranjena datoteka "

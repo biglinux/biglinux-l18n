@@ -82,7 +82,7 @@ msgstr "エッジを丸くした。"
 msgid ""
 "Esse tema possui transparências com efeitos que<br>podem tornar o sistema "
 "lento em computadores<br>antigos ou ambientes virtualizados."
-msgstr "このテーマには、<br>古い<br>コンピューターや仮想環境では</br></br>システムの速度を低下させる効果のある透過性があります。"
+msgstr "このテーマには、<br>\">古いコンピューターや仮想化環境でシステムの速度を低下させる可能性のある<br>効果のある透明度があります。"
 
 msgid "<b>Classic</b> e <b>New</b> têm melhor desempenho."
 msgstr "<b>Classicと</b> <b>Newは</b>性能が向上しています。"

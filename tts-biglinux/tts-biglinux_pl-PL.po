@@ -18,51 +18,53 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit"
 
 msgid "Configurações de texto para voz"
-msgstr ""
+msgstr "Ustawienia tekstu na mowę"
 
 msgid "Vozes - Abrir BigStore"
-msgstr ""
+msgstr "Głosy - Otwórz BigStore"
 
 msgid "Voice Configuration"
-msgstr ""
+msgstr "Konfiguracja głosowa"
 
 msgid "Configurar voz"
-msgstr ""
+msgstr "Konfiguracja głosu"
 
 msgid "Para falar um texto selecionado use o atalho "
-msgstr ""
+msgstr "Aby wypowiedzieć wybrany tekst, należy użyć skrótu "
 
 msgid "[Alt] + [V]"
-msgstr ""
+msgstr "[Alt] + [V]"
 
 msgid ""
 "ou o ícone na sessão Utilitários no menu do sistema. Para interromper a "
 "leitura use novamene o atalho ou ícone."
 msgstr ""
+"lub ikonę w sekcji Narzędzia w menu systemowym. Aby przerwać czytanie, "
+"należy ponownie użyć skrótu lub ikony."
 
 msgid "Selecione as configurações de sua preferência"
-msgstr ""
+msgstr "Wybierz preferowane ustawienia"
 
 msgid "Números maiores deixam a voz mais rápida, o padrão é: -25"
-msgstr ""
+msgstr "Większe liczby powodują, że głos jest szybszy, domyślnie: -25"
 
 msgid "Velocidade"
-msgstr ""
+msgstr "Speed"
 
 msgid "Números maiores deixam a voz mais aguda, o padrão é: -25"
-msgstr ""
+msgstr "Wyższe liczby oznaczają, że głos jest wyższy, standardem jest: -25"
 
 msgid "Tom"
-msgstr ""
+msgstr "Tom"
 
 msgid "O padrão é: 0."
-msgstr ""
+msgstr "Wartość domyślna to: 0."
 
 msgid "Volume"
-msgstr ""
+msgstr "Tom"
 
 msgid "As vozes são otimizadas para idiomas expecíficos."
-msgstr ""
+msgstr "Głosy są zoptymalizowane dla poszczególnych języków."
 
 msgid "Voz"
-msgstr ""
+msgstr "Głos"

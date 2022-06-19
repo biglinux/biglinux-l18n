@@ -18,66 +18,70 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit"
 
 msgid "Procurar compartilhamentos"
-msgstr ""
+msgstr "Pretraživanje dionica"
 
 msgid "Localiza compartilhamentos na rede (Windows ou Samba)."
-msgstr ""
+msgstr "Pronalazi dionice na mreži (Windows ili Samba)."
 
 msgid "GPL v2 or greater"
-msgstr ""
+msgstr "GPL v2 ili veći"
 
 msgid "Bruno Gonçalves"
-msgstr ""
+msgstr "Bruno Goncalves - Fan zona,"
 
 msgid "01/08/2019"
-msgstr ""
+msgstr "01/08/2019"
 
 msgid "https://github.com/biglinux/sambasearch"
-msgstr ""
+msgstr "https://github.com/biglinux/sambasearch"
 
 msgid "https://www.biglinux.com.br"
-msgstr ""
+msgstr "https://www.biglinux.com.br"
 
 msgid ""
 "Alteração aplicada, verifique se os compartilhamentos de rede estão "
 "aparecendo no gerenciador de arquivos."
 msgstr ""
+"Primijenjena promjena, provjerite prikazuju li se mrežne dionice u "
+"upravitelju datoteka."
 
 msgid "Usuário"
-msgstr ""
+msgstr "Korisnik"
 
 msgid "Insira o usuário do servidor que deseja acessar"
-msgstr ""
+msgstr "Unesite korisnika poslužitelja kojem želite pristupiti"
 
 msgid "Senha"
-msgstr ""
+msgstr "Lozinka"
 
 msgid "Insira a senha do usuário do servidor que deseja acessar"
-msgstr ""
+msgstr "Unesite lozinku korisnika poslužitelja kojem želite pristupiti"
 
 msgid ""
 "*A maioria dos servidores precisa de login e senha para listar os "
 "compartilhamentos disponíveis, deixe em branco para efetuar uma busca "
 "anônima."
 msgstr ""
+"* Većina poslužitelja trebaju prijavu i lozinku za popis dostupnih dionica, "
+"ostaviti prazno za obavljanje anonimne pretrage."
 
 msgid "Cancelar"
-msgstr ""
+msgstr "Odustani"
 
 msgid "Próximo"
-msgstr ""
+msgstr "dalje"
 
 msgid "Anônimo"
-msgstr ""
+msgstr "Anonimni"
 
 msgid "Procura efetuada com o usuário:"
-msgstr ""
+msgstr "Pretraživanje izvršeno s korisnikom:"
 
 msgid "na rede:"
-msgstr ""
+msgstr "na mreži:"
 
 msgid "Voltar"
-msgstr ""
+msgstr "Vrati se"
 
 msgid "Fechar"
-msgstr ""
+msgstr "Zatvoriti"

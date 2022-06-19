@@ -21,9 +21,11 @@ msgid ""
 "Configuração alterada, se estiver utilizando o navegador, reinicie-o para "
 "que a nova configuração seja aplicada."
 msgstr ""
+"Configuratie gewijzigd, als u de browser gebruikt, herstart die dan om de "
+"nieuwe configuratie toe te passen."
 
 msgid "Se estiver utilizando algum navegador, feche-o e abra novamente!"
-msgstr ""
+msgstr "Als u een browser gebruikt, sluit hem dan en open hem opnieuw!"
 
 msgid ""
 "\n"
@@ -32,6 +34,11 @@ msgid ""
 "\n"
 "Selecione não para utilizar a configuração padrão do sistema.\n"
 msgstr ""
+"\n"
+"De gekozen bureaubladconfiguratie is al gebruikt op dit systeem,\n"
+"wilt u de reeds gebruikte configuratie herstellen?\n"
+"\n"
+"Kies no om de standaard systeemconfiguratie te gebruiken.\n"
 
 msgid ""
 "Configuração aplicada!\n"
@@ -40,130 +47,145 @@ msgid ""
 "para que a configuração termine de\n"
 "ser aplicada."
 msgstr ""
+"Configuratie toegepast!\n"
+"\n"
+"Log uit en log weer in\n"
+"om de configuratie te voltooien\n"
+"toegepast."
 
 msgid "Temas"
-msgstr ""
+msgstr "Thema's"
 
 msgid "Desktop"
-msgstr ""
+msgstr "Desktop"
 
 msgid "Ajustes"
-msgstr ""
+msgstr "Instellingen"
 
 msgid "Temas, Desktop e Ajustes"
-msgstr ""
+msgstr "Thema's, Bureaublad en Instellingen"
 
 msgid "Desempenho do desktop"
-msgstr ""
+msgstr "Desktop prestaties"
 
 msgid "Aceleração do navegador"
-msgstr ""
+msgstr "Browserversnelling"
 
 msgid "Usabilidade"
-msgstr ""
+msgstr "Bruikbaarheid"
 
 msgid "Tema dos aplicativos"
-msgstr ""
+msgstr "Toepassingsthema"
 
 msgid "Bordas arredondadas."
-msgstr ""
+msgstr "Afgeronde randen."
 
 msgid ""
 "Esse tema possui transparências com efeitos que<br>podem tornar o sistema "
 "lento em computadores<br>antigos ou ambientes virtualizados."
 msgstr ""
+"Dit thema heeft transparanten met effecten die<br>het systeem kunnen "
+"vertragen<br>op oude computers of gevirtualiseerde omgevingen."
 
 msgid "<b>Classic</b> e <b>New</b> têm melhor desempenho."
-msgstr ""
+msgstr "<b>Classic</b> en <b>New</b> hebben betere prestaties."
 
 msgid "Renderizar o desktop via software"
-msgstr ""
+msgstr "Weergave van het bureaublad via software"
 
 msgid "(Pode ser útil em máquina virtual ou computadores antigos)"
-msgstr ""
+msgstr "(Kan nuttig zijn op virtuele machines of oude computers)"
 
 msgid "Escolher programas a serem carregados na memória durante boot"
 msgstr ""
+"Kies programma's die in het geheugen geladen moeten worden bij het opstarten"
 
 msgid ""
 "O Preload carrega arquivos dos programas na memória, para que iniciem "
 "rapidamente. O uso excessivo causa lentidão. Escolha a opção desejada:"
 msgstr ""
+"Preload laadt programmabestanden in het geheugen zodat ze snel starten. "
+"Overdadig gebruik veroorzaakt vertragingen. Kies de gewenste optie:"
 
 msgid "Automático"
-msgstr ""
+msgstr "Automatisch"
 
 msgid "Ativar"
-msgstr ""
+msgstr "Activeer"
 
 msgid "Desativar"
-msgstr ""
+msgstr "Deactiveer"
 
 msgid "Configurações do Brave"
-msgstr ""
+msgstr "Moedige configuraties"
 
 msgid "Escolha a opção desejada:"
-msgstr ""
+msgstr "Kies de gewenste optie:"
 
 msgid "Remover propagandas"
-msgstr ""
+msgstr "Verwijder advertenties"
 
 msgid "Suportar criptomoedas"
-msgstr ""
+msgstr "Ondersteunende cryptocurrencies"
 
 msgid "Botões da janela no lado esquerdo"
-msgstr ""
+msgstr "Venster knoppen aan de linkerkant"
 
 msgid "Rolagem do mouse invertida"
-msgstr ""
+msgstr "Omgekeerd scrollen met de muis"
 
 msgid "Pesquisar arquivos"
-msgstr ""
+msgstr "Zoek archieven"
 
 msgid "Bloquear a área de trabalho"
-msgstr ""
+msgstr "Het bureaublad vergrendelen"
 
 msgid "Tema aplicado"
-msgstr ""
+msgstr "Thema toegepast"
 
 msgid ""
 "É preciso reiniciar a sessão para concluir a configuração. Deseja fazer "
 "agora?"
 msgstr ""
+"U moet opnieuw ingelogd zijn om de configuratie te voltooien. Wilt u het nu "
+"doen?"
 
 msgid "Configuração do Desktop"
-msgstr ""
+msgstr "Desktopconfiguratie"
 
 msgid ""
 "Você já utilizou esse desktop antes, deseja  restaurar sua personalização ou "
 "utilizar a configuração original?"
 msgstr ""
+"Hebt u deze desktop al eerder gebruikt, wilt u de aanpassingen herstellen of "
+"de oorspronkelijke configuratie gebruiken?"
 
 msgid "Sim"
-msgstr ""
+msgstr "Ja"
 
 msgid "Não"
-msgstr ""
+msgstr "Nee"
 
 msgid "Original"
-msgstr ""
+msgstr "Origineel"
 
 msgid "Restaurar"
-msgstr ""
+msgstr "Herstel"
 
 msgid "Desktop aplicado"
-msgstr ""
+msgstr "Desktop toegepast"
 
 msgid ""
 "Utilizando renderização por software, a qualidade das transparências está "
 "reduzida."
 msgstr ""
+"Met software rendering wordt de kwaliteit van transparanten verminderd."
 
 msgid "Desempenho em modo normal!"
-msgstr ""
+msgstr "Prestaties in de normale modus!"
 
 msgid "Desempenho em modo otimizado!"
-msgstr ""
+msgstr "Prestaties in verbeterde modus!"
 
 msgid "Desempenho em modo performance!"
-msgstr ""
+msgstr "Prestaties in de prestatiemodus!"

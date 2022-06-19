@@ -18,126 +18,128 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit"
 
 msgid "Selecionar imagem"
-msgstr ""
+msgstr "выбраць малюнак"
 
 msgid "Adicionar WebApps"
-msgstr ""
+msgstr "Дадаць WebApps"
 
 msgid "WebApps Adicionados"
-msgstr ""
+msgstr "Дададзеныя WebApps"
 
 msgid "WebApps BigLinux"
-msgstr ""
+msgstr "Вэб-прыкладанні BigLinux"
 
 msgid "Url:"
-msgstr ""
+msgstr "URL:"
 
 msgid "Detectar Nome e Ícone"
-msgstr ""
+msgstr "Вызначыць імя і значок"
 
 msgid "Nome:"
-msgstr ""
+msgstr "Імя:"
 
 msgid "Ícone:"
-msgstr ""
+msgstr "Значок:"
 
 msgid "Alterar"
-msgstr ""
+msgstr "Змяніць"
 
 msgid "Navegador:"
-msgstr ""
+msgstr "Браўзэр:"
 
 msgid "Categoria:"
-msgstr ""
+msgstr "Катэгорыя:"
 
 msgid "DESENVOLVIMENTO"
-msgstr ""
+msgstr "РАЗВІЦЦЁ"
 
 msgid "ESCRITÓRIO"
-msgstr ""
+msgstr "ОФІС"
 
 msgid "GRÁFICOS"
-msgstr ""
+msgstr "ГРАФІКА"
 
 msgid "JOGOS"
-msgstr ""
+msgstr "ГУЛЬНІ"
 
 msgid "MULTIMÍDIA"
-msgstr ""
+msgstr "МУЛЬТЫМЕДЫЯ"
 
 msgid "Criar atalho na Área de Trabalho"
-msgstr ""
+msgstr "Стварыць ярлык на працоўным стале"
 
 msgid "Perfil adicional"
-msgstr ""
+msgstr "дадатковы профіль"
 
 msgid "YouTube Modo TV"
-msgstr ""
+msgstr "Рэжым YouTube TV"
 
 msgid "Adicionar"
-msgstr ""
+msgstr "Дадаць"
 
 msgid "Para adicionar um WebApp, você precisa informar a Url e o Nome."
-msgstr ""
+msgstr "Каб дадаць WebApp, вам трэба падаць URL і імя."
 
 msgid "Para detectar o Nome e o Ícone você precisa informar a Url."
-msgstr ""
+msgstr "Каб выявіць імя і значок, вам трэба паведаміць URL."
 
 msgid ""
 "A Url é inválida ou a conexão falhou.<br>Tente inserir o ícone pelo botão "
 "Alterar."
 msgstr ""
+"URL-адрас няправільны або злучэнне не атрымалася.<br> Паспрабуйце ўставіць "
+"значок праз кнопку Змяніць."
 
 msgid "O WebApp foi adicionado com sucesso!"
-msgstr ""
+msgstr "WebApp было паспяхова дададзена!"
 
 msgid "Ícones encontrados"
-msgstr ""
+msgstr "Знайшлі абразкі"
 
 msgid "Selecione o ícone preferido:"
-msgstr ""
+msgstr "Выберыце ўпадабаны значок:"
 
 msgid "Desenvolvimento"
-msgstr ""
+msgstr "Развіццё"
 
 msgid "Escritório"
-msgstr ""
+msgstr "Офіс"
 
 msgid "Gráficos"
-msgstr ""
+msgstr "Графіка"
 
 msgid "Jogos"
-msgstr ""
+msgstr "Гульні"
 
 msgid "Multimídia"
-msgstr ""
+msgstr "Мультымедыя"
 
 msgid "Tem certeza que deseja remover este WebApp?"
-msgstr ""
+msgstr "Вы ўпэўнены, што жадаеце выдаліць гэтую вэб-праграму?"
 
 msgid "Nenhum WebApp adicionado!"
-msgstr ""
+msgstr "WebApp не дададзена!"
 
 msgid "Navegador padrão<br>dos webapps:"
-msgstr ""
+msgstr "браўзер па змаўчанні<br> з вэб-праграм:"
 
 msgid "Alterar navegador"
-msgstr ""
+msgstr "змяніць браўзэр"
 
 msgid "Selecione o navegador preferido:"
-msgstr ""
+msgstr "Выберыце ўпадабаны браўзер:"
 
 msgid "WebApps Nativos"
-msgstr ""
+msgstr "Уласныя вэб-прыкладанні"
 
 msgid "Bom dia"
-msgstr ""
+msgstr "Добрай раніцы"
 
 msgid "Boa tarde"
-msgstr ""
+msgstr "Добры дзень"
 
 msgid "Boa noite"
-msgstr ""
+msgstr "Дабранач"
 
 msgid "Aguarde, estamos preparando para começar..."
-msgstr ""
+msgstr "Пачакайце, мы рыхтуемся пачаць..."

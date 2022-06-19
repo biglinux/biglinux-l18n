@@ -18,37 +18,41 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit"
 
 msgid "Desempenho"
-msgstr ""
+msgstr "Árangur"
 
 msgid "Tema"
-msgstr ""
+msgstr "Þema"
 
 msgid ""
 "Renderizar o desktop via software<br><small>(Pode ser útil em máquina "
 "virtual)"
 msgstr ""
+"Sendu skjáborðið í gegnum hugbúnað <br><small>(Getur verið gagnlegt í "
+"sýndarvél)"
 
 msgid ""
 "Utilizar GPU nos navegadores<br><small>(Desative no caso de distorção no "
 "vídeo)"
 msgstr ""
+"Notaðu GPU í vöfrum <br><small>(Slökkva á ef um er að ræða röskun á "
+"myndskeiðum)"
 
 msgid "Escolha o desktop:"
-msgstr ""
+msgstr "Veldu skjáborðið:"
 
 msgid "têm melhor desempenho."
-msgstr ""
+msgstr "standa sig betur."
 
 msgid "e"
-msgstr ""
+msgstr "og"
 
 msgid "Escolha o modelo do teclado:"
-msgstr ""
+msgstr "Veldu lyklaborðslíkanið þitt:"
 
 msgid "Escolha o tema dos aplicativos:"
-msgstr ""
+msgstr "Veldu þema forritanna:"
 
 msgid ""
 "Utilizando renderização por software, a qualidade das transparências será "
 "reduzida."
-msgstr ""
+msgstr "Með því að nota hugbúnað flutningur, gæði af the gagnsæi mun minnka."

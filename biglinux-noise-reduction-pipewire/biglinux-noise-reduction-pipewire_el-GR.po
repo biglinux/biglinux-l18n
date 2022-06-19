@@ -18,40 +18,42 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit"
 
 msgid "Reduzir ruídos do microfone"
-msgstr ""
+msgstr "Μείωση του θορύβου του μικροφώνου"
 
 msgid "Microfone sem ruídos"
-msgstr ""
+msgstr "Μικρόφωνο χωρίς θόρυβο"
 
 msgid "Desativando"
-msgstr ""
+msgstr "Απενεργοποίηση του"
 
 msgid "Filtro do Microfone"
-msgstr ""
+msgstr "Φίλτρο μικροφώνου"
 
 msgid "Ativando"
-msgstr ""
+msgstr "Ενεργοποίηση"
 
 msgid "Filtro de ruído"
-msgstr ""
+msgstr "Φίλτρο θορύβου"
 
 msgid "Iniciar automaticamente"
-msgstr ""
+msgstr "Ξεκινήστε αυτόματα"
 
 msgid "Configuração aplicada"
-msgstr ""
+msgstr "Εφαρμοσμένη διαμόρφωση"
 
 msgid "Microfone"
-msgstr ""
+msgstr "Μικρόφωνο"
 
 msgid "Configuração de áudio."
-msgstr ""
+msgstr "Διαμόρφωση ήχου."
 
 msgid "Confirma a remoção das personalizações na configuração de áudio?"
 msgstr ""
+"Μπορείτε να επιβεβαιώσετε την αφαίρεση των προσαρμογών στη ρύθμιση "
+"παραμέτρων ήχου"
 
 msgid "Configuração de áudio"
-msgstr ""
+msgstr "Διαμόρφωση ήχου"
 
 msgid ""
 "Configuração de áudio restaurada.\n"
@@ -59,6 +61,10 @@ msgid ""
 "Os programas em execução no momento podem precisar ser fechados\n"
 "e abertos novamente para o áudio funcionar corretamente."
 msgstr ""
+"Επαναφορά των ρυθμίσεων ήχου.\n"
+"\n"
+"Τα τρέχοντα προγράμματα μπορεί να χρειαστεί να κλείσουν\n"
+"και να ανοίξει ξανά για να λειτουργήσει σωστά ο ήχος."
 
 msgid "Cancelado, nenhuma configuração foi removida!"
-msgstr ""
+msgstr "Ακυρώθηκε, δεν έχει αφαιρεθεί καμία διαμόρφωση!"

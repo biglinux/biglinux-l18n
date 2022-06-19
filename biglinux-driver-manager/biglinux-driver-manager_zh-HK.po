@@ -1,0 +1,284 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the biglinux-driver-manager package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: biglinux-driver-manager\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-06-08 21:46-0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: zh_HK\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit"
+
+msgid "O Big-Hardware-Relatory já está em uso."
+msgstr "大硬件遺址已經在使用中。"
+
+msgid "Informações sobre o Hardware"
+msgstr "硬體資訊"
+
+msgid "Este driver é software livre."
+msgstr "這個驅動程序是免費軟件。"
+
+msgid "Este driver é proprietário."
+msgstr "此驅動程序是專有的。"
+
+msgid "Este driver parece compatível com este computador."
+msgstr "這個驅動程序似乎與這台電腦兼容。"
+
+msgid "Remover"
+msgstr "移除"
+
+msgid "Instalar"
+msgstr "安裝"
+
+msgid ""
+"Já existe outro driver nVidia instalado, para instalar este driver, remova "
+"primeiro o driver instalado."
+msgstr "已經安裝了另一個 nVidia 驅動程序，要安裝此驅動程序，請先刪除已安裝的驅動程序。"
+
+msgid "Desativado"
+msgstr "殘疾人"
+
+msgid "Categorias"
+msgstr "分類"
+
+msgid "Principais"
+msgstr "主要"
+
+msgid "Resumo"
+msgstr "摘要"
+
+msgid "Processador"
+msgstr "處理器"
+
+msgid "Placa de vídeo"
+msgstr "視頻卡"
+
+msgid "Placa mãe"
+msgstr "主機板"
+
+msgid "Memória"
+msgstr "回憶錄"
+
+msgid "Rede"
+msgstr "淨"
+
+msgid "Usb"
+msgstr "USB"
+
+msgid "Pci"
+msgstr "外部連結標準"
+
+msgid "Bateria"
+msgstr "鼓"
+
+msgid "Armazenamento"
+msgstr "儲存"
+
+msgid "Sistema"
+msgstr "系統"
+
+msgid "Bluetooth"
+msgstr "藍牙"
+
+msgid "Temperatura"
+msgstr "臨時雇員"
+
+msgid "Impressora"
+msgstr "印表機"
+
+msgid "Áudio"
+msgstr "音訊"
+
+msgid "Mais informações"
+msgstr "更多資訊"
+
+msgid "Pesquisar"
+msgstr "搜索"
+
+msgid "Resultado da pesquisa"
+msgstr "搜尋結果"
+
+msgid "Informações de Hardware"
+msgstr "硬體資訊"
+
+msgid "Informações Sobre o Sistema e o Hardware"
+msgstr "系統與硬體資訊"
+
+msgid "Memória RAM:"
+msgstr "記憶體記憶體："
+
+msgid "Vídeo:"
+msgstr "影片:"
+
+msgid "Instalado na partição:"
+msgstr "安裝在分區上："
+
+msgid "Tamanho da partição:"
+msgstr "分割區大小："
+
+msgid "Espaço utilizado:"
+msgstr "使用空間："
+
+msgid "Espaço livre:"
+msgstr "可用空間："
+
+msgid "Data que o sistema foi instalado:"
+msgstr "安裝系統的日期："
+
+msgid "Kernel em uso:"
+msgstr "使用中的核心："
+
+msgid "Instalar ou Remover Drivers"
+msgstr "安裝或移除驅動程式"
+
+msgid ""
+"O BigLinux inclui milhares de drivers e firmwares por padrão, porém ainda "
+"pode ser necessário instalar mais alguns."
+msgstr "BigLinux 默認情況下包含數千個驅動程序和固件，但您可能仍然需要安裝一些更多驅動程序和固件。"
+
+msgid "Gerar Relatório"
+msgstr "產生報告"
+
+msgid "Cria um arquivo com informações que pode ser publicado na internet."
+msgstr "建立包含可在網際網路上發佈之資訊的檔案。"
+
+msgid "Ver informações do dispositivo no Linux Hardware"
+msgstr "檢視 Linux 硬體上的裝置資訊"
+
+msgid "Categoria"
+msgstr "類別"
+
+msgid "ID"
+msgstr "ID"
+
+msgid "Info"
+msgstr "信息"
+
+msgid "Enviar para transfer.sh"
+msgstr "傳送至 transfer.sh"
+
+msgid "Visualizar"
+msgstr "檢視"
+
+msgid "O relatório foi salvo no arquivo:"
+msgstr "報告已儲存至檔案："
+
+msgid ""
+"Deseja visualizar o arquivo ou envia-lo ao site transfer.sh, para ter uma "
+"URL com os dados do seu computador de forma fácil de compartilhar?"
+msgstr "您是否要查看文件或將其發送到 transfer.sh 網站，以便以易於共享的方式在計算機上具有數據的 URL？"
+
+msgid "Driver detectado:"
+msgstr "偵測到驅動程式："
+
+msgid "<small>* A detecção não inclui impressoras e scanners</small>"
+msgstr "<small>*偵測不包括印表機和掃描器</small>"
+
+msgid "Wifi"
+msgstr "無線網路"
+
+msgid "Rede Cabeada"
+msgstr "有線網路"
+
+msgid "Impressora 3D"
+msgstr "3D 打印機"
+
+msgid "Scanner"
+msgstr "掃描器"
+
+msgid "TV Digital"
+msgstr "數位電視"
+
+msgid "Webcam"
+msgstr "網路攝影機"
+
+msgid "Touchscreen"
+msgstr "觸控螢幕"
+
+msgid "Som"
+msgstr "聲音"
+
+msgid "Outros"
+msgstr "其他"
+
+msgid "Pesquisar Driver ou Firmware"
+msgstr "搜尋驅動程式或韌體"
+
+msgid "Big-Driver-Manager"
+msgstr "大驅動程序經理"
+
+msgid "Instalar ou Remover Drivers e Firmwares"
+msgstr "安裝或移除驅動程式和韌體"
+
+msgid ""
+"Geralmente é preciso reiniciar o computador para o driver ou firmware ser "
+"aplicado."
+msgstr "通常必須重新啟動電腦，才能套用驅動程式或韌體。"
+
+msgid "Driver ou firmware"
+msgstr "驅動程式或韌體"
+
+msgid "Este pacote fornece arquivos compatíveis com este computador."
+msgstr "該軟件包提供與此計算機兼容的文件。"
+
+msgid "Concluído, reinicie o computador para ativar a configuração do driver."
+msgstr "完成後，重新啟動計算機以激活驅動程序配置。"
+
+msgid "Driver"
+msgstr "驅動程式"
+
+msgid "Ocorreu um erro e o driver não pode ser aplicado."
+msgstr "發生錯誤，無法套用驅動程式。"
+
+msgid "Swap (Memória Virtual)"
+msgstr "交換 (虛擬記憶體)"
+
+msgid "Conexões de Internet"
+msgstr "網際網路連線"
+
+msgid "Dispositivos e conexões USB"
+msgstr "USB 裝置和連線"
+
+msgid "Portas PCI"
+msgstr "PCI 連接埠"
+
+msgid "Dispositivos de armazenamento"
+msgstr "儲存裝置"
+
+msgid "Partições montadas"
+msgstr "掛載的分割區"
+
+msgid "Partições desmontadas"
+msgstr "拆除分區"
+
+msgid "Dispositivos lógicos"
+msgstr "邏輯裝置"
+
+msgid "Raid"
+msgstr "突襲"
+
+msgid "Informações"
+msgstr "信息"
+
+msgid "Repositórios"
+msgstr "儲存庫"
+
+msgid ""
+"Digite sua senha para gerar um relatório removendo dados sensíveis, por "
+"exemplo, endereço de IP, ou cancele para utilizar as informações da tela "
+"anterior."
+msgstr "輸入您的密碼以產生移除敏感資料 (例如 IP 位址) 的報告，或取消以使用上一個畫面中的資訊。"
+
+msgid "Digite sua senha para gerar um relatório mais completo."
+msgstr "輸入您的密碼以產生更完整的報告。"
+
+msgid "Enviando, aguarde..."
+msgstr "正在傳送中，請稍候..."

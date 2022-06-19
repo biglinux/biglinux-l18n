@@ -18,10 +18,10 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit"
 
 msgid "MÓDULO: Nenhum módulo precisa ser instalado."
-msgstr ""
+msgstr "ΜΟΝΑΔΑ: Δεν χρειάζεται να εγκατασταθεί καμία μονάδα."
 
 msgid "FIRMWARE: Nenhum firmware precisa ser instalado."
-msgstr ""
+msgstr "FIRMWARE: Δεν απαιτείται εγκατάσταση υλικολογισμικού."
 
 msgid "Hardware"
-msgstr ""
+msgstr "Υλικό"

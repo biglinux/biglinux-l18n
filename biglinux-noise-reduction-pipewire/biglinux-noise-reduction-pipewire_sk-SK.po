@@ -18,40 +18,40 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit"
 
 msgid "Reduzir ruídos do microfone"
-msgstr ""
+msgstr "Zníženie hluku mikrofónu"
 
 msgid "Microfone sem ruídos"
-msgstr ""
+msgstr "Bezhlučný mikrofón"
 
 msgid "Desativando"
-msgstr ""
+msgstr "Deaktivácia stránky"
 
 msgid "Filtro do Microfone"
-msgstr ""
+msgstr "Mikrofónový filter"
 
 msgid "Ativando"
-msgstr ""
+msgstr "Aktivácia stránky"
 
 msgid "Filtro de ruído"
-msgstr ""
+msgstr "Šumový filter"
 
 msgid "Iniciar automaticamente"
-msgstr ""
+msgstr "Automatické spustenie"
 
 msgid "Configuração aplicada"
-msgstr ""
+msgstr "Použitá konfigurácia"
 
 msgid "Microfone"
-msgstr ""
+msgstr "Mikrofón"
 
 msgid "Configuração de áudio."
-msgstr ""
+msgstr "Konfigurácia zvuku."
 
 msgid "Confirma a remoção das personalizações na configuração de áudio?"
-msgstr ""
+msgstr "Môžete potvrdiť odstránenie prispôsobení v konfigurácii zvuku?"
 
 msgid "Configuração de áudio"
-msgstr ""
+msgstr "Konfigurácia zvuku"
 
 msgid ""
 "Configuração de áudio restaurada.\n"
@@ -59,6 +59,10 @@ msgid ""
 "Os programas em execução no momento podem precisar ser fechados\n"
 "e abertos novamente para o áudio funcionar corretamente."
 msgstr ""
+"Obnovenie konfigurácie zvuku.\n"
+"\n"
+"V súčasnosti spustené programy môže byť potrebné ukončiť\n"
+"a znovu otvoriť, aby zvuk fungoval správne."
 
 msgid "Cancelado, nenhuma configuração foi removida!"
-msgstr ""
+msgstr "Zrušené, žiadna konfigurácia nebola odstránená!"

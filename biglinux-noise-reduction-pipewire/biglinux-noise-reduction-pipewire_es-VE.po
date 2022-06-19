@@ -1,0 +1,71 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the biglinux-noise-reduction-pipewire package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: biglinux-noise-reduction-pipewire\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-06-08 21:46-0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: es_VE\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit"
+
+msgid "Reduzir ruídos do microfone"
+msgstr "Reducir el ruido del micrófono"
+
+msgid "Microfone sem ruídos"
+msgstr "Micrófono sin ruido"
+
+msgid "Desativando"
+msgstr "Desactivación de"
+
+msgid "Filtro do Microfone"
+msgstr "Filtro de micrófono"
+
+msgid "Ativando"
+msgstr "Activando"
+
+msgid "Filtro de ruído"
+msgstr "Filtro de ruido"
+
+msgid "Iniciar automaticamente"
+msgstr "Comenzar automáticamente"
+
+msgid "Configuração aplicada"
+msgstr "Configuración aplicada"
+
+msgid "Microfone"
+msgstr "Micrófono"
+
+msgid "Configuração de áudio."
+msgstr "Configuración de audio."
+
+msgid "Confirma a remoção das personalizações na configuração de áudio?"
+msgstr ""
+"¿Puede confirmar la eliminación de las personalizaciones en la configuración "
+"de audio?"
+
+msgid "Configuração de áudio"
+msgstr "Configuración de audio"
+
+msgid ""
+"Configuração de áudio restaurada.\n"
+"\n"
+"Os programas em execução no momento podem precisar ser fechados\n"
+"e abertos novamente para o áudio funcionar corretamente."
+msgstr ""
+"Configuración de audio restaurada.\n"
+"\n"
+"Es posible que haya que cerrar los programas que se están ejecutando "
+"actualmente\n"
+"y abierto de nuevo para que el audio funcione correctamente."
+
+msgid "Cancelado, nenhuma configuração foi removida!"
+msgstr "Cancelado, ¡no se ha eliminado ninguna configuración!"

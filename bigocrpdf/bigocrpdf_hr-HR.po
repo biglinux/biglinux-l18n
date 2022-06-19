@@ -24,68 +24,78 @@ msgid ""
 "Você também pode utilizar o gerenciador de arquivos, clicar com o botão "
 "direito no arquivo PDF, 'Abrir com' e selecionar a opção de OCR."
 msgstr ""
+"Odaberite PDF datoteku za primjenu OCR-a, pomoću koje će biti moguće "
+"pretraživati ili kopirati tekstove.\n"
+"\n"
+"Također možete koristiti upravitelj datoteka, desnom tipkom miša kliknite "
+"PDF datoteku, \"Otvori sa\" i odaberite opciju OCR."
 
 msgid "NORMAL"
-msgstr ""
+msgstr "NORMALNO"
 
 msgid "ECONÔMICO"
-msgstr ""
+msgstr "EKONOMIČAN"
 
 msgid "MAIS ECONÔMICO"
-msgstr ""
+msgstr "EKONOMIČNIJE"
 
 msgid "ALINHAR"
-msgstr ""
+msgstr "PORAVNATI"
 
 msgid "AUTO ROTAÇÃO"
-msgstr ""
+msgstr "AUTOMATSKA ROTACIJA"
 
 msgid "ALINHAR E GIRAR AUTOMÁTICA"
-msgstr ""
+msgstr "AUTOMATSKO PORAVNAVANJE I ROTIRANJE"
 
 msgid "NÃO MUDE"
-msgstr ""
+msgstr "NE MIJENJAJ SE"
 
 msgid "ESPANHOL"
-msgstr ""
+msgstr "ŠPANJOLSKI"
 
 msgid "INGLÊS"
-msgstr ""
+msgstr "HRVATSKI"
 
 msgid "PORTUGUÊS"
-msgstr ""
+msgstr "PORTUGALSKI"
 
 msgid ""
 "Você pode optar por reduzir a qualidade da imagem.<br>Dessa forma você terá "
 "arquivos menores, facilitando,<br>por exemplo, enviá-los por e-mail."
 msgstr ""
+"Možete odabrati snižavanje kvalitete slike. <br>Nataj ćete način imati manje "
+"datoteke, što olakšava,<br>na primjer, slanje e-poštom."
 
 msgid ""
 "Para adicionar novos idiomas, instale os complementos do tesseract no "
 "gerenciador de pacotes do sistema."
 msgstr ""
+"Da biste dodali nove jezike, instalirajte dodatke tesseract u upravitelj "
+"paketa sustava."
 
 msgid "Aplicar"
-msgstr ""
+msgstr "Primijeni"
 
 msgid "Torne seu PDF pesquisável"
-msgstr ""
+msgstr "Omogućite pretraživanje PDF-a"
 
 msgid ""
 "Adicionar OCR no PDF digitalizado permitindo seleção de textos e busca:"
 msgstr ""
+"Dodajte OCR skeniranom PDF-u koji omogućuje odabir teksta i pretraživanje:"
 
 msgid "OCR para PDF"
-msgstr ""
+msgstr "OCR do PDF"
 
 msgid "Arquivo"
-msgstr ""
+msgstr "turpija"
 
 msgid "Pasta:"
-msgstr ""
+msgstr "Mapa:"
 
 msgid "Abrir"
-msgstr ""
+msgstr "Otvori"
 
 msgid "Arquivo salvo: "
-msgstr ""
+msgstr "Spremljena datoteka: "

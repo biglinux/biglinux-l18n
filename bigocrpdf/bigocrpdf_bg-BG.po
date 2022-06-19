@@ -24,68 +24,80 @@ msgid ""
 "Você também pode utilizar o gerenciador de arquivos, clicar com o botão "
 "direito no arquivo PDF, 'Abrir com' e selecionar a opção de OCR."
 msgstr ""
+"Изберете PDF файла, към който да приложите OCR, за да можете да търсите или "
+"копирате текстове.\n"
+"\n"
+"Можете също така да използвате файловия мениджър, да щракнете с десния бутон "
+"върху PDF файла, да изберете \"Open with\" и да изберете опцията OCR."
 
 msgid "NORMAL"
-msgstr ""
+msgstr "НОРМАЛЕН"
 
 msgid "ECONÔMICO"
-msgstr ""
+msgstr "ИКОНОМИЧЕСКИ"
 
 msgid "MAIS ECONÔMICO"
-msgstr ""
+msgstr "ПОВЕЧЕ ИКОНОМИЧЕСКИ"
 
 msgid "ALINHAR"
-msgstr ""
+msgstr "ПОДРЕЖДАНЕ"
 
 msgid "AUTO ROTAÇÃO"
-msgstr ""
+msgstr "АВТОМАТИЧНО ЗАВЪРТАНЕ"
 
 msgid "ALINHAR E GIRAR AUTOMÁTICA"
-msgstr ""
+msgstr "АВТОМАТИЧНО ПОДРАВНЯВАНЕ И ЗАВЪРТАНЕ"
 
 msgid "NÃO MUDE"
-msgstr ""
+msgstr "НЕ ПРОМЕНЯЙТЕ"
 
 msgid "ESPANHOL"
-msgstr ""
+msgstr "ИСПАНСКИ ЕЗИК"
 
 msgid "INGLÊS"
-msgstr ""
+msgstr "АНГЛИЙСКИ"
 
 msgid "PORTUGUÊS"
-msgstr ""
+msgstr "ПОРТУГСКА"
 
 msgid ""
 "Você pode optar por reduzir a qualidade da imagem.<br>Dessa forma você terá "
 "arquivos menores, facilitando,<br>por exemplo, enviá-los por e-mail."
 msgstr ""
+"Можете да изберете да намалите качеството на изображението.<br>По този начин "
+"файловете ще бъдат по-малки, което ще улесни<br>изпращането им по имейл, "
+"например."
 
 msgid ""
 "Para adicionar novos idiomas, instale os complementos do tesseract no "
 "gerenciador de pacotes do sistema."
 msgstr ""
+"За да добавите нови езици, инсталирайте добавките на tesseract в системния "
+"пакетен мениджър."
 
 msgid "Aplicar"
-msgstr ""
+msgstr "Направете заявка на"
 
 msgid "Torne seu PDF pesquisável"
-msgstr ""
+msgstr "Направете своя PDF файл с възможност за търсене"
 
 msgid ""
 "Adicionar OCR no PDF digitalizado permitindo seleção de textos e busca:"
 msgstr ""
+"Добавяне на OCR към сканирания PDF файл, което позволява избор на текст и "
+"търсене:"
 
 msgid "OCR para PDF"
-msgstr ""
+msgstr "OCR за PDF"
 
 msgid "Arquivo"
-msgstr ""
+msgstr "Файл"
 
 msgid "Pasta:"
-msgstr ""
+msgstr "Папка:"
 
 msgid "Abrir"
-msgstr ""
+msgstr "Отворете"
 
 msgid "Arquivo salvo: "
-msgstr ""
+msgstr "Запазен файл "

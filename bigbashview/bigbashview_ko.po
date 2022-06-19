@@ -18,19 +18,19 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit"
 
 msgid "Information"
-msgstr ""
+msgstr "인포메이션"
 
 msgid "License: "
-msgstr ""
+msgstr "라이선스: "
 
 msgid "Created by:"
-msgstr ""
+msgstr "만든 사람:"
 
 msgid "Date:"
-msgstr ""
+msgstr "날짜:"
 
 msgid "Code URL:"
-msgstr ""
+msgstr "코드 URL:"
 
 msgid "Project URL:"
-msgstr ""
+msgstr "프로젝트 URL:"

@@ -18,267 +18,279 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit"
 
 msgid "O Big-Hardware-Relatory já está em uso."
-msgstr ""
+msgstr "Big-Hardware-Relatory jest już w użyciu."
 
 msgid "Informações sobre o Hardware"
-msgstr ""
+msgstr "Informacje o sprzęcie"
 
 msgid "Este driver é software livre."
-msgstr ""
+msgstr "Ten sterownik jest darmowym oprogramowaniem."
 
 msgid "Este driver é proprietário."
-msgstr ""
+msgstr "Ten sterownik jest zastrzeżony."
 
 msgid "Este driver parece compatível com este computador."
-msgstr ""
+msgstr "Ten sterownik wydaje się być kompatybilny z tym komputerem."
 
 msgid "Remover"
-msgstr ""
+msgstr "Usuń"
 
 msgid "Instalar"
-msgstr ""
+msgstr "Zainstaluj"
 
 msgid ""
 "Já existe outro driver nVidia instalado, para instalar este driver, remova "
 "primeiro o driver instalado."
 msgstr ""
+"Jest już zainstalowany inny sterownik nVidia, aby zainstalować ten "
+"sterownik, należy najpierw usunąć zainstalowany sterownik."
 
 msgid "Desativado"
-msgstr ""
+msgstr "Niepełnosprawni"
 
 msgid "Categorias"
-msgstr ""
+msgstr "Kategorie"
 
 msgid "Principais"
-msgstr ""
+msgstr "Główna"
 
 msgid "Resumo"
-msgstr ""
+msgstr "Podsumowanie"
 
 msgid "Processador"
-msgstr ""
+msgstr "Procesor"
 
 msgid "Placa de vídeo"
-msgstr ""
+msgstr "Karta wideo"
 
 msgid "Placa mãe"
-msgstr ""
+msgstr "Płyta główna"
 
 msgid "Memória"
-msgstr ""
+msgstr "Pamięć"
 
 msgid "Rede"
-msgstr ""
+msgstr "Sieć"
 
 msgid "Usb"
-msgstr ""
+msgstr "Usb"
 
 msgid "Pci"
-msgstr ""
+msgstr "Pci"
 
 msgid "Bateria"
-msgstr ""
+msgstr "Bateria"
 
 msgid "Armazenamento"
-msgstr ""
+msgstr "Przechowywanie"
 
 msgid "Sistema"
-msgstr ""
+msgstr "System"
 
 msgid "Bluetooth"
-msgstr ""
+msgstr "Bluetooth"
 
 msgid "Temperatura"
-msgstr ""
+msgstr "Temperatura"
 
 msgid "Impressora"
-msgstr ""
+msgstr "Drukarka"
 
 msgid "Áudio"
-msgstr ""
+msgstr "Audio"
 
 msgid "Mais informações"
-msgstr ""
+msgstr "Więcej informacji"
 
 msgid "Pesquisar"
-msgstr ""
+msgstr "Szukaj"
 
 msgid "Resultado da pesquisa"
-msgstr ""
+msgstr "Wynik wyszukiwania"
 
 msgid "Informações de Hardware"
-msgstr ""
+msgstr "Informacje o sprzęcie"
 
 msgid "Informações Sobre o Sistema e o Hardware"
-msgstr ""
+msgstr "Informacje o systemie i sprzęcie"
 
 msgid "Memória RAM:"
-msgstr ""
+msgstr "Pamięć RAM:"
 
 msgid "Vídeo:"
-msgstr ""
+msgstr "Wideo:"
 
 msgid "Instalado na partição:"
-msgstr ""
+msgstr "Zainstalowane na partycji:"
 
 msgid "Tamanho da partição:"
-msgstr ""
+msgstr "Wielkość partycji:"
 
 msgid "Espaço utilizado:"
-msgstr ""
+msgstr "Wykorzystana przestrzeń:"
 
 msgid "Espaço livre:"
-msgstr ""
+msgstr "Czysta przestrzeń:"
 
 msgid "Data que o sistema foi instalado:"
-msgstr ""
+msgstr "Data zainstalowania systemu:"
 
 msgid "Kernel em uso:"
-msgstr ""
+msgstr "Używane jądro:"
 
 msgid "Instalar ou Remover Drivers"
-msgstr ""
+msgstr "Instalowanie lub usuwanie sterowników"
 
 msgid ""
 "O BigLinux inclui milhares de drivers e firmwares por padrão, porém ainda "
 "pode ser necessário instalar mais alguns."
 msgstr ""
+"BigLinux zawiera domyślnie tysiące sterowników i firmware'u, ale może się "
+"okazać, że trzeba będzie zainstalować jeszcze kilka innych."
 
 msgid "Gerar Relatório"
-msgstr ""
+msgstr "Generuj raport"
 
 msgid "Cria um arquivo com informações que pode ser publicado na internet."
-msgstr ""
+msgstr "Tworzy plik z informacjami, które mogą być opublikowane w Internecie."
 
 msgid "Ver informações do dispositivo no Linux Hardware"
-msgstr ""
+msgstr "Wyświetlanie informacji o urządzeniach w systemie Linux Hardware"
 
 msgid "Categoria"
-msgstr ""
+msgstr "Kategoria"
 
 msgid "ID"
-msgstr ""
+msgstr "ID"
 
 msgid "Info"
-msgstr ""
+msgstr "Info"
 
 msgid "Enviar para transfer.sh"
-msgstr ""
+msgstr "Wyślij do transfer.sh"
 
 msgid "Visualizar"
-msgstr ""
+msgstr "Zobacz"
 
 msgid "O relatório foi salvo no arquivo:"
-msgstr ""
+msgstr "Raport został zapisany do archiwum:"
 
 msgid ""
 "Deseja visualizar o arquivo ou envia-lo ao site transfer.sh, para ter uma "
 "URL com os dados do seu computador de forma fácil de compartilhar?"
 msgstr ""
+"Czy chcą Państwo wyświetlić plik lub wysłać go do transfer.sh, aby mieć "
+"adres URL z danymi z Państwa komputera w łatwy sposób do udostępnienia?"
 
 msgid "Driver detectado:"
-msgstr ""
+msgstr "Wykryty sterownik:"
 
 msgid "<small>* A detecção não inclui impressoras e scanners</small>"
-msgstr ""
+msgstr "<small>* Wykrywanie nie obejmuje drukarek i skanerów</small>"
 
 msgid "Wifi"
-msgstr ""
+msgstr "Wifi"
 
 msgid "Rede Cabeada"
-msgstr ""
+msgstr "Sieć przewodowa"
 
 msgid "Impressora 3D"
-msgstr ""
+msgstr "Drukarka 3D"
 
 msgid "Scanner"
-msgstr ""
+msgstr "Skaner"
 
 msgid "TV Digital"
-msgstr ""
+msgstr "Telewizja cyfrowa"
 
 msgid "Webcam"
-msgstr ""
+msgstr "Kamera internetowa"
 
 msgid "Touchscreen"
-msgstr ""
+msgstr "Ekran dotykowy"
 
 msgid "Som"
-msgstr ""
+msgstr "Dźwięk"
 
 msgid "Outros"
-msgstr ""
+msgstr "Inne"
 
 msgid "Pesquisar Driver ou Firmware"
-msgstr ""
+msgstr "Wyszukaj sterownik lub oprogramowanie sprzętowe"
 
 msgid "Big-Driver-Manager"
-msgstr ""
+msgstr "Big-Driver-Manager"
 
 msgid "Instalar ou Remover Drivers e Firmwares"
-msgstr ""
+msgstr "Instalowanie lub usuwanie sterowników i oprogramowania sprzętowego"
 
 msgid ""
 "Geralmente é preciso reiniciar o computador para o driver ou firmware ser "
 "aplicado."
 msgstr ""
+"Zazwyczaj konieczne jest ponowne uruchomienie komputera, aby sterownik lub "
+"firmware zostały zastosowane."
 
 msgid "Driver ou firmware"
-msgstr ""
+msgstr "Sterownik lub oprogramowanie sprzętowe"
 
 msgid "Este pacote fornece arquivos compatíveis com este computador."
-msgstr ""
+msgstr "Ten pakiet zawiera pliki kompatybilne z tym komputerem."
 
 msgid "Concluído, reinicie o computador para ativar a configuração do driver."
 msgstr ""
+"Po zakończeniu należy ponownie uruchomić komputer, aby aktywować "
+"konfigurację sterowników."
 
 msgid "Driver"
-msgstr ""
+msgstr "Kierowca"
 
 msgid "Ocorreu um erro e o driver não pode ser aplicado."
-msgstr ""
+msgstr "Wystąpił błąd i nie można zastosować sterownika."
 
 msgid "Swap (Memória Virtual)"
-msgstr ""
+msgstr "Swap (pamięć wirtualna)"
 
 msgid "Conexões de Internet"
-msgstr ""
+msgstr "Połączenia internetowe"
 
 msgid "Dispositivos e conexões USB"
-msgstr ""
+msgstr "Urządzenia i połączenia USB"
 
 msgid "Portas PCI"
-msgstr ""
+msgstr "Porty PCI"
 
 msgid "Dispositivos de armazenamento"
-msgstr ""
+msgstr "Urządzenia pamięci masowej"
 
 msgid "Partições montadas"
-msgstr ""
+msgstr "Montowane partycje"
 
 msgid "Partições desmontadas"
-msgstr ""
+msgstr "Zdemontowane ścianki działowe"
 
 msgid "Dispositivos lógicos"
-msgstr ""
+msgstr "Urządzenia logiczne"
 
 msgid "Raid"
-msgstr ""
+msgstr "Raid"
 
 msgid "Informações"
-msgstr ""
+msgstr "Informacje"
 
 msgid "Repositórios"
-msgstr ""
+msgstr "Repozytoria"
 
 msgid ""
 "Digite sua senha para gerar um relatório removendo dados sensíveis, por "
 "exemplo, endereço de IP, ou cancele para utilizar as informações da tela "
 "anterior."
 msgstr ""
+"Proszę wprowadzić hasło, aby wygenerować raport usuwający wrażliwe dane, np. "
+"adres IP, lub anulować, aby wykorzystać informacje z poprzedniego ekranu."
 
 msgid "Digite sua senha para gerar um relatório mais completo."
-msgstr ""
+msgstr "Proszę wprowadzić hasło, aby wygenerować bardziej kompletny raport."
 
 msgid "Enviando, aguarde..."
-msgstr ""
+msgstr "Wysyłam, proszę czekać..."

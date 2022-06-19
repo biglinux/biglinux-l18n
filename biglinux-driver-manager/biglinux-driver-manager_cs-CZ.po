@@ -18,267 +18,277 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit"
 
 msgid "O Big-Hardware-Relatory já está em uso."
-msgstr ""
+msgstr "Big-Hardware-Relatory se již používá."
 
 msgid "Informações sobre o Hardware"
-msgstr ""
+msgstr "Informace o hardwaru"
 
 msgid "Este driver é software livre."
-msgstr ""
+msgstr "Tento ovladač je svobodný software."
 
 msgid "Este driver é proprietário."
-msgstr ""
+msgstr "Tento ovladač je proprietární."
 
 msgid "Este driver parece compatível com este computador."
-msgstr ""
+msgstr "Zdá se, že tento ovladač je s tímto počítačem kompatibilní."
 
 msgid "Remover"
-msgstr ""
+msgstr "Odstranění stránky"
 
 msgid "Instalar"
-msgstr ""
+msgstr "Instalace"
 
 msgid ""
 "Já existe outro driver nVidia instalado, para instalar este driver, remova "
 "primeiro o driver instalado."
 msgstr ""
+"Již je nainstalován jiný ovladač nVidia, chcete-li nainstalovat tento "
+"ovladač, nejprve odeberte nainstalovaný ovladač."
 
 msgid "Desativado"
-msgstr ""
+msgstr "Bezbariérový"
 
 msgid "Categorias"
-msgstr ""
+msgstr "Kategorie"
 
 msgid "Principais"
-msgstr ""
+msgstr "Hlavní stránka"
 
 msgid "Resumo"
-msgstr ""
+msgstr "Souhrn"
 
 msgid "Processador"
-msgstr ""
+msgstr "Procesor"
 
 msgid "Placa de vídeo"
-msgstr ""
+msgstr "Grafická karta"
 
 msgid "Placa mãe"
-msgstr ""
+msgstr "Základní deska"
 
 msgid "Memória"
-msgstr ""
+msgstr "Paměť"
 
 msgid "Rede"
-msgstr ""
+msgstr "Síť"
 
 msgid "Usb"
-msgstr ""
+msgstr "Usb"
 
 msgid "Pci"
-msgstr ""
+msgstr "Pci"
 
 msgid "Bateria"
-msgstr ""
+msgstr "Baterie"
 
 msgid "Armazenamento"
-msgstr ""
+msgstr "Úložiště"
 
 msgid "Sistema"
-msgstr ""
+msgstr "Systém"
 
 msgid "Bluetooth"
-msgstr ""
+msgstr "Bluetooth"
 
 msgid "Temperatura"
-msgstr ""
+msgstr "Teplota"
 
 msgid "Impressora"
-msgstr ""
+msgstr "Tiskárna"
 
 msgid "Áudio"
-msgstr ""
+msgstr "Audio"
 
 msgid "Mais informações"
-msgstr ""
+msgstr "Více informací"
 
 msgid "Pesquisar"
-msgstr ""
+msgstr "Vyhledávání"
 
 msgid "Resultado da pesquisa"
-msgstr ""
+msgstr "Výsledek hledání"
 
 msgid "Informações de Hardware"
-msgstr ""
+msgstr "Informace o hardwaru"
 
 msgid "Informações Sobre o Sistema e o Hardware"
-msgstr ""
+msgstr "Informace o systému a hardwaru"
 
 msgid "Memória RAM:"
-msgstr ""
+msgstr "Paměť RAM:"
 
 msgid "Vídeo:"
-msgstr ""
+msgstr "Video:"
 
 msgid "Instalado na partição:"
-msgstr ""
+msgstr "Nainstalováno na oddílu:"
 
 msgid "Tamanho da partição:"
-msgstr ""
+msgstr "Velikost oddílu:"
 
 msgid "Espaço utilizado:"
-msgstr ""
+msgstr "Využitý prostor:"
 
 msgid "Espaço livre:"
-msgstr ""
+msgstr "Volný prostor:"
 
 msgid "Data que o sistema foi instalado:"
-msgstr ""
+msgstr "Datum instalace systému:"
 
 msgid "Kernel em uso:"
-msgstr ""
+msgstr "Používané jádro:"
 
 msgid "Instalar ou Remover Drivers"
-msgstr ""
+msgstr "Instalace nebo odebrání ovladačů"
 
 msgid ""
 "O BigLinux inclui milhares de drivers e firmwares por padrão, porém ainda "
 "pode ser necessário instalar mais alguns."
 msgstr ""
+"BigLinux ve výchozím nastavení obsahuje tisíce ovladačů a firmwaru, ale "
+"možná budete potřebovat nainstalovat další."
 
 msgid "Gerar Relatório"
-msgstr ""
+msgstr "Vytvořit zprávu"
 
 msgid "Cria um arquivo com informações que pode ser publicado na internet."
-msgstr ""
+msgstr "Vytvoří soubor s informacemi, které lze zveřejnit na internetu."
 
 msgid "Ver informações do dispositivo no Linux Hardware"
-msgstr ""
+msgstr "Zobrazení informací o zařízení v systému Linux Hardware"
 
 msgid "Categoria"
-msgstr ""
+msgstr "Kategorie"
 
 msgid "ID"
-msgstr ""
+msgstr "ID"
 
 msgid "Info"
-msgstr ""
+msgstr "Informace"
 
 msgid "Enviar para transfer.sh"
-msgstr ""
+msgstr "Odeslat do transfer.sh"
 
 msgid "Visualizar"
-msgstr ""
+msgstr "Zobrazit"
 
 msgid "O relatório foi salvo no arquivo:"
-msgstr ""
+msgstr "Zpráva byla uložena do archivu:"
 
 msgid ""
 "Deseja visualizar o arquivo ou envia-lo ao site transfer.sh, para ter uma "
 "URL com os dados do seu computador de forma fácil de compartilhar?"
 msgstr ""
+"Chcete soubor zobrazit nebo odeslat do transfer.sh, abyste mohli snadno "
+"sdílet adresu URL s daty z vašeho počítače?"
 
 msgid "Driver detectado:"
-msgstr ""
+msgstr "Zjištěn řidič:"
 
 msgid "<small>* A detecção não inclui impressoras e scanners</small>"
-msgstr ""
+msgstr "<small>* Detekce nezahrnuje tiskárny a skenery</small>"
 
 msgid "Wifi"
-msgstr ""
+msgstr "Wifi"
 
 msgid "Rede Cabeada"
-msgstr ""
+msgstr "Kabelová síť"
 
 msgid "Impressora 3D"
-msgstr ""
+msgstr "3D tiskárna"
 
 msgid "Scanner"
-msgstr ""
+msgstr "Skener"
 
 msgid "TV Digital"
-msgstr ""
+msgstr "Digitální televize"
 
 msgid "Webcam"
-msgstr ""
+msgstr "Webová kamera"
 
 msgid "Touchscreen"
-msgstr ""
+msgstr "Dotykový displej"
 
 msgid "Som"
-msgstr ""
+msgstr "Zvuk"
 
 msgid "Outros"
-msgstr ""
+msgstr "Další"
 
 msgid "Pesquisar Driver ou Firmware"
-msgstr ""
+msgstr "Hledání ovladače nebo firmwaru"
 
 msgid "Big-Driver-Manager"
-msgstr ""
+msgstr "Big-Driver-Manager"
 
 msgid "Instalar ou Remover Drivers e Firmwares"
-msgstr ""
+msgstr "Instalace nebo odebrání ovladačů a firmwaru"
 
 msgid ""
 "Geralmente é preciso reiniciar o computador para o driver ou firmware ser "
 "aplicado."
 msgstr ""
+"Pro použití ovladače nebo firmwaru je obvykle nutné restartovat počítač."
 
 msgid "Driver ou firmware"
-msgstr ""
+msgstr "Ovladač nebo firmware"
 
 msgid "Este pacote fornece arquivos compatíveis com este computador."
-msgstr ""
+msgstr "Tento balíček obsahuje soubory kompatibilní s tímto počítačem."
 
 msgid "Concluído, reinicie o computador para ativar a configuração do driver."
 msgstr ""
+"Po dokončení restartujte počítač, aby se aktivovala konfigurace ovladače."
 
 msgid "Driver"
-msgstr ""
+msgstr "Řidič"
 
 msgid "Ocorreu um erro e o driver não pode ser aplicado."
-msgstr ""
+msgstr "Došlo k chybě a ovladač nelze použít."
 
 msgid "Swap (Memória Virtual)"
-msgstr ""
+msgstr "Swap (virtuální paměť)"
 
 msgid "Conexões de Internet"
-msgstr ""
+msgstr "Připojení k internetu"
 
 msgid "Dispositivos e conexões USB"
-msgstr ""
+msgstr "Zařízení a připojení USB"
 
 msgid "Portas PCI"
-msgstr ""
+msgstr "Porty PCI"
 
 msgid "Dispositivos de armazenamento"
-msgstr ""
+msgstr "Úložná zařízení"
 
 msgid "Partições montadas"
-msgstr ""
+msgstr "Namontované příčky"
 
 msgid "Partições desmontadas"
-msgstr ""
+msgstr "Demontované příčky"
 
 msgid "Dispositivos lógicos"
-msgstr ""
+msgstr "Logická zařízení"
 
 msgid "Raid"
-msgstr ""
+msgstr "Nájezd"
 
 msgid "Informações"
-msgstr ""
+msgstr "Informace"
 
 msgid "Repositórios"
-msgstr ""
+msgstr "Úložiště"
 
 msgid ""
 "Digite sua senha para gerar um relatório removendo dados sensíveis, por "
 "exemplo, endereço de IP, ou cancele para utilizar as informações da tela "
 "anterior."
 msgstr ""
+"Zadejte heslo pro vygenerování zprávy s odstraněním citlivých údajů, např. "
+"IP adresy, nebo zrušte použití informací z předchozí obrazovky."
 
 msgid "Digite sua senha para gerar um relatório mais completo."
-msgstr ""
+msgstr "Pro vygenerování úplnější zprávy zadejte své heslo."
 
 msgid "Enviando, aguarde..."
-msgstr ""
+msgstr "Odesílám, počkejte prosím..."

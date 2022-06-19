@@ -18,126 +18,128 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit"
 
 msgid "Selecionar imagem"
-msgstr ""
+msgstr "Wybierz obraz"
 
 msgid "Adicionar WebApps"
-msgstr ""
+msgstr "Dodaj WebApps"
 
 msgid "WebApps Adicionados"
-msgstr ""
+msgstr "Dodano WebApps"
 
 msgid "WebApps BigLinux"
-msgstr ""
+msgstr "WebApps BigLinux"
 
 msgid "Url:"
-msgstr ""
+msgstr "Url:"
 
 msgid "Detectar Nome e Ícone"
-msgstr ""
+msgstr "Wykryj nazwę i ikonę"
 
 msgid "Nome:"
-msgstr ""
+msgstr "Nazwa:"
 
 msgid "Ícone:"
-msgstr ""
+msgstr "Ikona:"
 
 msgid "Alterar"
-msgstr ""
+msgstr "Zmiana"
 
 msgid "Navegador:"
-msgstr ""
+msgstr "Nawigator:"
 
 msgid "Categoria:"
-msgstr ""
+msgstr "Kategoria:"
 
 msgid "DESENVOLVIMENTO"
-msgstr ""
+msgstr "ROZWÓJ"
 
 msgid "ESCRITÓRIO"
-msgstr ""
+msgstr "BIURO"
 
 msgid "GRÁFICOS"
-msgstr ""
+msgstr "GRAFIKA"
 
 msgid "JOGOS"
-msgstr ""
+msgstr "GAMES"
 
 msgid "MULTIMÍDIA"
-msgstr ""
+msgstr "MULTIMEDIA"
 
 msgid "Criar atalho na Área de Trabalho"
-msgstr ""
+msgstr "Utwórz skrót na Pulpicie"
 
 msgid "Perfil adicional"
-msgstr ""
+msgstr "Profil dodatkowy"
 
 msgid "YouTube Modo TV"
-msgstr ""
+msgstr "Tryb YouTube TV"
 
 msgid "Adicionar"
-msgstr ""
+msgstr "Dodaj"
 
 msgid "Para adicionar um WebApp, você precisa informar a Url e o Nome."
-msgstr ""
+msgstr "Aby dodać WebApp, należy podać Url i Nazwę."
 
 msgid "Para detectar o Nome e o Ícone você precisa informar a Url."
-msgstr ""
+msgstr "Aby wykryć Nazwę i Ikonę należy podać Url."
 
 msgid ""
 "A Url é inválida ou a conexão falhou.<br>Tente inserir o ícone pelo botão "
 "Alterar."
 msgstr ""
+"Url jest nieprawidłowy lub połączenie nie powiodło się.<br>Proszę spróbować "
+"wstawić ikonę za pomocą przycisku Zmień."
 
 msgid "O WebApp foi adicionado com sucesso!"
-msgstr ""
+msgstr "WebApp został dodany pomyślnie!"
 
 msgid "Ícones encontrados"
-msgstr ""
+msgstr "Znalezione ikony"
 
 msgid "Selecione o ícone preferido:"
-msgstr ""
+msgstr "Wybrać preferowaną ikonę:"
 
 msgid "Desenvolvimento"
-msgstr ""
+msgstr "Rozwój"
 
 msgid "Escritório"
-msgstr ""
+msgstr "Biuro"
 
 msgid "Gráficos"
-msgstr ""
+msgstr "Grafika"
 
 msgid "Jogos"
-msgstr ""
+msgstr "Gry"
 
 msgid "Multimídia"
-msgstr ""
+msgstr "Multimedia"
 
 msgid "Tem certeza que deseja remover este WebApp?"
-msgstr ""
+msgstr "Czy jest Pan pewien, że chce Pan usunąć tę aplikację WebApp?"
 
 msgid "Nenhum WebApp adicionado!"
-msgstr ""
+msgstr "Nie dodano WebApp!"
 
 msgid "Navegador padrão<br>dos webapps:"
-msgstr ""
+msgstr "Domyślna przeglądarka<br>webapps:"
 
 msgid "Alterar navegador"
-msgstr ""
+msgstr "Zmień przeglądarkę"
 
 msgid "Selecione o navegador preferido:"
-msgstr ""
+msgstr "Proszę wybrać preferowaną przeglądarkę:"
 
 msgid "WebApps Nativos"
-msgstr ""
+msgstr "Natywne aplikacje internetowe"
 
 msgid "Bom dia"
-msgstr ""
+msgstr "Dzień dobry"
 
 msgid "Boa tarde"
-msgstr ""
+msgstr "Dzień dobry"
 
 msgid "Boa noite"
-msgstr ""
+msgstr "Dobry wieczór"
 
 msgid "Aguarde, estamos preparando para começar..."
-msgstr ""
+msgstr "Proszę czekać, przygotowujemy się do rozpoczęcia..."

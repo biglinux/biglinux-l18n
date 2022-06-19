@@ -34,47 +34,52 @@ msgid "NORMAL"
 msgstr "NORMAL"
 
 msgid "ECONÔMICO"
-msgstr ""
+msgstr "WIRTSCHAFTLICH"
 
 msgid "MAIS ECONÔMICO"
-msgstr ""
+msgstr "WIRTSCHAFTLICHER"
 
 msgid "ALINHAR"
-msgstr ""
+msgstr "AUSRICHTEN"
 
 msgid "AUTO ROTAÇÃO"
-msgstr ""
+msgstr "AUTOMATISCHE ROTATION"
 
 msgid "ALINHAR E GIRAR AUTOMÁTICA"
-msgstr ""
+msgstr "AUTOMATISCHES AUSRICHTEN UND DREHEN"
 
 msgid "NÃO MUDE"
-msgstr ""
+msgstr "VERÄNDERE DICH NICHT"
 
 msgid "ESPANHOL"
-msgstr ""
+msgstr "SPANISCH"
 
 msgid "INGLÊS"
-msgstr ""
+msgstr "ENGLISCH"
 
 msgid "PORTUGUÊS"
-msgstr ""
+msgstr "PORTUGIESISCH"
 
 msgid ""
 "Você pode optar por reduzir a qualidade da imagem.<br>Dessa forma você terá "
 "arquivos menores, facilitando,<br>por exemplo, enviá-los por e-mail."
 msgstr ""
+"Sie können die Bildqualität reduzieren.<br>Auf diese Weise erhalten Sie "
+"kleinere Dateien,<br>die sich beispielsweise leichter per E-Mail versenden "
+"lassen."
 
 msgid ""
 "Para adicionar novos idiomas, instale os complementos do tesseract no "
 "gerenciador de pacotes do sistema."
 msgstr ""
+"Um neue Sprachen hinzuzufügen, installieren Sie die Tesseract-Add-Ons im "
+"Paketmanager Ihres Systems."
 
 msgid "Aplicar"
-msgstr ""
+msgstr "Bewerben"
 
 msgid "Torne seu PDF pesquisável"
-msgstr ""
+msgstr "Machen Sie Ihr PDF durchsuchbar"
 
 msgid ""
 "Adicionar OCR no PDF digitalizado permitindo seleção de textos e busca:"
@@ -86,13 +91,13 @@ msgid "OCR para PDF"
 msgstr "OCR für PDF"
 
 msgid "Arquivo"
-msgstr ""
+msgstr "Datei"
 
 msgid "Pasta:"
-msgstr ""
+msgstr "Mappe:"
 
 msgid "Abrir"
-msgstr ""
+msgstr "Offen"
 
 msgid "Arquivo salvo: "
 msgstr "Datei gespeichert "

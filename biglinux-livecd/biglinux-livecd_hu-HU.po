@@ -18,37 +18,40 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit"
 
 msgid "Desempenho"
-msgstr ""
+msgstr "Teljesítmény"
 
 msgid "Tema"
-msgstr ""
+msgstr "Téma"
 
 msgid ""
 "Renderizar o desktop via software<br><small>(Pode ser útil em máquina "
 "virtual)"
 msgstr ""
+"Az asztal megjelenítése szoftveresen<br><small>(Hasznos lehet virtuális "
+"gépben)"
 
 msgid ""
 "Utilizar GPU nos navegadores<br><small>(Desative no caso de distorção no "
 "vídeo)"
 msgstr ""
+"GPU használata böngészőkben<br><small>(Videótorzulás esetén kikapcsolható)"
 
 msgid "Escolha o desktop:"
-msgstr ""
+msgstr "Válassza ki az asztalt:"
 
 msgid "têm melhor desempenho."
-msgstr ""
+msgstr "jobban teljesít."
 
 msgid "e"
-msgstr ""
+msgstr "e"
 
 msgid "Escolha o modelo do teclado:"
-msgstr ""
+msgstr "Válassza ki a billentyűzet modelljét:"
 
 msgid "Escolha o tema dos aplicativos:"
-msgstr ""
+msgstr "Válassza ki az alkalmazások témáját:"
 
 msgid ""
 "Utilizando renderização por software, a qualidade das transparências será "
 "reduzida."
-msgstr ""
+msgstr "A szoftveres renderelés használatával a fóliák minősége csökken."

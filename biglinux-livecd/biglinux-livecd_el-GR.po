@@ -18,37 +18,42 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit"
 
 msgid "Desempenho"
-msgstr ""
+msgstr "Επιδόσεις"
 
 msgid "Tema"
-msgstr ""
+msgstr "Θέμα"
 
 msgid ""
 "Renderizar o desktop via software<br><small>(Pode ser útil em máquina "
 "virtual)"
 msgstr ""
+"Απεικόνιση της επιφάνειας εργασίας μέσω λογισμικού<br><small>(Μπορεί να "
+"είναι χρήσιμο σε εικονική μηχανή)"
 
 msgid ""
 "Utilizar GPU nos navegadores<br><small>(Desative no caso de distorção no "
 "vídeo)"
 msgstr ""
+"Χρήση GPU σε προγράμματα περιήγησης<br><small>(Απενεργοποίηση σε περίπτωση "
+"παραμόρφωσης βίντεο)"
 
 msgid "Escolha o desktop:"
-msgstr ""
+msgstr "Επιλέξτε την επιφάνεια εργασίας σας:"
 
 msgid "têm melhor desempenho."
-msgstr ""
+msgstr "αποδίδουν καλύτερα."
 
 msgid "e"
-msgstr ""
+msgstr "e"
 
 msgid "Escolha o modelo do teclado:"
-msgstr ""
+msgstr "Επιλέξτε το μοντέλο του πληκτρολογίου σας:"
 
 msgid "Escolha o tema dos aplicativos:"
-msgstr ""
+msgstr "Επιλέξτε το θέμα των εφαρμογών:"
 
 msgid ""
 "Utilizando renderização por software, a qualidade das transparências será "
 "reduzida."
 msgstr ""
+"Χρησιμοποιώντας λογισμικό απόδοσης, η ποιότητα των διαφανειών θα μειωθεί."

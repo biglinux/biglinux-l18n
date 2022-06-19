@@ -18,51 +18,53 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit"
 
 msgid "Configurações de texto para voz"
-msgstr ""
+msgstr "הגדרות טקסט לדיבור"
 
 msgid "Vozes - Abrir BigStore"
-msgstr ""
+msgstr "קולות - חנות גדולה פתוחה"
 
 msgid "Voice Configuration"
-msgstr ""
+msgstr "תצורת קול"
 
 msgid "Configurar voz"
-msgstr ""
+msgstr "הגדרת קול"
 
 msgid "Para falar um texto selecionado use o atalho "
-msgstr ""
+msgstr "כדי לדבר טקסט שנבחר השתמש בקיצור הדרך "
 
 msgid "[Alt] + [V]"
-msgstr ""
+msgstr "[Alt] + [V]"
 
 msgid ""
 "ou o ícone na sessão Utilitários no menu do sistema. Para interromper a "
 "leitura use novamene o atalho ou ícone."
 msgstr ""
+"או את הסמל בסעיף Utilities של תפריט המערכת. כדי להפסיק לקרוא, השתמש שוב "
+"בקיצור הדרך או בסמל."
 
 msgid "Selecione as configurações de sua preferência"
-msgstr ""
+msgstr "בחר את ההגדרות המועדפות עליך"
 
 msgid "Números maiores deixam a voz mais rápida, o padrão é: -25"
-msgstr ""
+msgstr "מספרים גבוהים יותר הופכים את הקול למהיר יותר, ברירת המחדל היא: -25"
 
 msgid "Velocidade"
-msgstr ""
+msgstr "מהירות"
 
 msgid "Números maiores deixam a voz mais aguda, o padrão é: -25"
-msgstr ""
+msgstr "מספרים גבוהים יותר הופכים את הקול גבוה יותר, ברירת המחדל היא: -25"
 
 msgid "Tom"
-msgstr ""
+msgstr "טום"
 
 msgid "O padrão é: 0."
-msgstr ""
+msgstr "ברירת המחדל היא: 0."
 
 msgid "Volume"
-msgstr ""
+msgstr "וולום"
 
 msgid "As vozes são otimizadas para idiomas expecíficos."
-msgstr ""
+msgstr "הקולות מותאמים לשפות ספציפיות."
 
 msgid "Voz"
-msgstr ""
+msgstr "קול"

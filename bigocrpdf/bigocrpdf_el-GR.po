@@ -24,68 +24,81 @@ msgid ""
 "Você também pode utilizar o gerenciador de arquivos, clicar com o botão "
 "direito no arquivo PDF, 'Abrir com' e selecionar a opção de OCR."
 msgstr ""
+"Επιλέξτε το αρχείο PDF για να εφαρμόσετε OCR, ώστε να μπορείτε να "
+"αναζητήσετε ή να αντιγράψετε κείμενα.\n"
+"\n"
+"Μπορείτε επίσης να χρησιμοποιήσετε τη διαχείριση αρχείων, να κάνετε δεξί "
+"κλικ στο αρχείο PDF, να επιλέξετε 'Άνοιγμα με' και να επιλέξετε την επιλογή "
+"OCR."
 
 msgid "NORMAL"
-msgstr ""
+msgstr "ΚΑΝΟΝΙΚΟ"
 
 msgid "ECONÔMICO"
-msgstr ""
+msgstr "ΟΙΚΟΝΟΜΙΚΗ"
 
 msgid "MAIS ECONÔMICO"
-msgstr ""
+msgstr "ΠΕΡΙΣΣΟΤΕΡΑ ΟΙΚΟΝΟΜΙΚΑ"
 
 msgid "ALINHAR"
-msgstr ""
+msgstr "ALIGN"
 
 msgid "AUTO ROTAÇÃO"
-msgstr ""
+msgstr "ΑΥΤΟΜΑΤΗ ΠΕΡΙΣΤΡΟΦΗ"
 
 msgid "ALINHAR E GIRAR AUTOMÁTICA"
-msgstr ""
+msgstr "ΑΥΤΌΜΑΤΗ ΕΥΘΥΓΡΆΜΜΙΣΗ ΚΑΙ ΠΕΡΙΣΤΡΟΦΉ"
 
 msgid "NÃO MUDE"
-msgstr ""
+msgstr "ΜΗΝ ΑΛΛΑΞΕΤΕ"
 
 msgid "ESPANHOL"
-msgstr ""
+msgstr "ΙΣΠΑΝΙΚΆ"
 
 msgid "INGLÊS"
-msgstr ""
+msgstr "ΑΓΓΛΙΚΑ"
 
 msgid "PORTUGUÊS"
-msgstr ""
+msgstr "PORTUGUESE"
 
 msgid ""
 "Você pode optar por reduzir a qualidade da imagem.<br>Dessa forma você terá "
 "arquivos menores, facilitando,<br>por exemplo, enviá-los por e-mail."
 msgstr ""
+"Μπορείτε να επιλέξετε να μειώσετε την ποιότητα της εικόνας.<br>Με αυτόν τον "
+"τρόπο θα έχετε μικρότερα αρχεία, γεγονός που διευκολύνει την<br>αποστολή "
+"τους μέσω ηλεκτρονικού ταχυδρομείου, γιαπαράδειγμα."
 
 msgid ""
 "Para adicionar novos idiomas, instale os complementos do tesseract no "
 "gerenciador de pacotes do sistema."
 msgstr ""
+"Για να προσθέσετε νέες γλώσσες, εγκαταστήστε τα πρόσθετα tesseract στον "
+"διαχειριστή πακέτων του συστήματος."
 
 msgid "Aplicar"
-msgstr ""
+msgstr "Εφαρμογή"
 
 msgid "Torne seu PDF pesquisável"
-msgstr ""
+msgstr "Κάντε το PDF σας αναζητήσιμο"
 
 msgid ""
 "Adicionar OCR no PDF digitalizado permitindo seleção de textos e busca:"
 msgstr ""
+"Προσθέστε OCR στο σαρωμένο PDF, επιτρέποντας την επιλογή και αναζήτηση "
+"κειμένου:"
 
 msgid "OCR para PDF"
-msgstr ""
+msgstr "OCR για PDF"
 
 msgid "Arquivo"
-msgstr ""
+msgstr "Αρχείο"
 
 msgid "Pasta:"
-msgstr ""
+msgstr "Φάκελος:"
 
 msgid "Abrir"
-msgstr ""
+msgstr "Ανοίξτε το"
 
 msgid "Arquivo salvo: "
-msgstr ""
+msgstr "Το αρχείο αποθηκεύτηκε "

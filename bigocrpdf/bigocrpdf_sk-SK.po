@@ -24,68 +24,79 @@ msgid ""
 "Você também pode utilizar o gerenciador de arquivos, clicar com o botão "
 "direito no arquivo PDF, 'Abrir com' e selecionar a opção de OCR."
 msgstr ""
+"Vyberte súbor PDF, na ktorý chcete použiť OCR, aby ste mohli vyhľadávať "
+"alebo kopírovať texty.\n"
+"\n"
+"Môžete tiež použiť správcu súborov, kliknúť pravým tlačidlom myši na súbor "
+"PDF, \"Otvoriť pomocou\" a vybrať možnosť OCR."
 
 msgid "NORMAL"
-msgstr ""
+msgstr "NORMÁLNE"
 
 msgid "ECONÔMICO"
-msgstr ""
+msgstr "EKONOMIKA"
 
 msgid "MAIS ECONÔMICO"
-msgstr ""
+msgstr "VIAC EKONOMICKÉHO"
 
 msgid "ALINHAR"
-msgstr ""
+msgstr "ALIGN"
 
 msgid "AUTO ROTAÇÃO"
-msgstr ""
+msgstr "AUTOMATICKÉ OTÁČANIE"
 
 msgid "ALINHAR E GIRAR AUTOMÁTICA"
-msgstr ""
+msgstr "AUTOMATICKÉ ZAROVNANIE A OTOČENIE"
 
 msgid "NÃO MUDE"
-msgstr ""
+msgstr "NEMENIŤ"
 
 msgid "ESPANHOL"
-msgstr ""
+msgstr "ŠPANIELSKY"
 
 msgid "INGLÊS"
-msgstr ""
+msgstr "ANGLIČTINA"
 
 msgid "PORTUGUÊS"
-msgstr ""
+msgstr "PORTUGALSKO"
 
 msgid ""
 "Você pode optar por reduzir a qualidade da imagem.<br>Dessa forma você terá "
 "arquivos menores, facilitando,<br>por exemplo, enviá-los por e-mail."
 msgstr ""
+"Môžete si zvoliť zníženie kvality obrazu.<br>Týmto spôsobom získate menšie "
+"súbory, ktoré sa ľahšie<br>posielajú napríklad e-mailom."
 
 msgid ""
 "Para adicionar novos idiomas, instale os complementos do tesseract no "
 "gerenciador de pacotes do sistema."
 msgstr ""
+"Ak chcete pridať nové jazyky, nainštalujte doplnky tesseract v správcovi "
+"systémových balíkov."
 
 msgid "Aplicar"
-msgstr ""
+msgstr "Aplikovať"
 
 msgid "Torne seu PDF pesquisável"
-msgstr ""
+msgstr "Zabezpečte, aby sa vo vašom PDF dalo vyhľadávať"
 
 msgid ""
 "Adicionar OCR no PDF digitalizado permitindo seleção de textos e busca:"
 msgstr ""
+"Pridanie OCR do naskenovaného PDF, ktoré umožňuje výber textu a vyhľadávanie:"
+""
 
 msgid "OCR para PDF"
-msgstr ""
+msgstr "OCR pre PDF"
 
 msgid "Arquivo"
-msgstr ""
+msgstr "Súbor"
 
 msgid "Pasta:"
-msgstr ""
+msgstr "Priečinok:"
 
 msgid "Abrir"
-msgstr ""
+msgstr "Otvorte stránku"
 
 msgid "Arquivo salvo: "
-msgstr ""
+msgstr "Uložený súbor "

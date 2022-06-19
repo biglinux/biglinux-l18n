@@ -18,126 +18,131 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit"
 
 msgid "Selecionar imagem"
-msgstr ""
+msgstr "Επιλέξτε εικόνα"
 
 msgid "Adicionar WebApps"
-msgstr ""
+msgstr "Προσθήκη WebApps"
 
 msgid "WebApps Adicionados"
-msgstr ""
+msgstr "Προστέθηκαν WebApps"
 
 msgid "WebApps BigLinux"
-msgstr ""
+msgstr "WebApps BigLinux"
 
 msgid "Url:"
-msgstr ""
+msgstr "Url:"
 
 msgid "Detectar Nome e Ícone"
-msgstr ""
+msgstr "Όνομα και εικονίδιο ανίχνευσης"
 
 msgid "Nome:"
-msgstr ""
+msgstr "Όνομα:"
 
 msgid "Ícone:"
-msgstr ""
+msgstr "Εικόνα:"
 
 msgid "Alterar"
-msgstr ""
+msgstr "Αλλαγή"
 
 msgid "Navegador:"
-msgstr ""
+msgstr "Πλοηγός:"
 
 msgid "Categoria:"
-msgstr ""
+msgstr "Κατηγορία:"
 
 msgid "DESENVOLVIMENTO"
-msgstr ""
+msgstr "ΑΝΑΠΤΥΞΗ"
 
 msgid "ESCRITÓRIO"
-msgstr ""
+msgstr "ΓΡΑΦΕΙΟ"
 
 msgid "GRÁFICOS"
-msgstr ""
+msgstr "GRAPHICS"
 
 msgid "JOGOS"
-msgstr ""
+msgstr "ΠΑΙΧΝΙΔΙΑ"
 
 msgid "MULTIMÍDIA"
-msgstr ""
+msgstr "MULTIMEDIA"
 
 msgid "Criar atalho na Área de Trabalho"
-msgstr ""
+msgstr "Δημιουργία συντόμευσης στην επιφάνεια εργασίας"
 
 msgid "Perfil adicional"
-msgstr ""
+msgstr "Πρόσθετο προφίλ"
 
 msgid "YouTube Modo TV"
-msgstr ""
+msgstr "Λειτουργία YouTube TV"
 
 msgid "Adicionar"
-msgstr ""
+msgstr "Προσθέστε"
 
 msgid "Para adicionar um WebApp, você precisa informar a Url e o Nome."
 msgstr ""
+"Για να προσθέσετε μια εφαρμογή WebApp, πρέπει να ενημερώσετε το Url και το "
+"όνομα."
 
 msgid "Para detectar o Nome e o Ícone você precisa informar a Url."
 msgstr ""
+"Για να εντοπίσετε το όνομα και το εικονίδιο θα πρέπει να ενημερώσετε το Url."
 
 msgid ""
 "A Url é inválida ou a conexão falhou.<br>Tente inserir o ícone pelo botão "
 "Alterar."
 msgstr ""
+"Το Url είναι άκυρο ή η σύνδεση απέτυχε.<br>Προσπαθήστε να εισαγάγετε το "
+"εικονίδιο με το κουμπί Αλλαγή."
 
 msgid "O WebApp foi adicionado com sucesso!"
-msgstr ""
+msgstr "Η εφαρμογή WebApp προστέθηκε με επιτυχία!"
 
 msgid "Ícones encontrados"
-msgstr ""
+msgstr "Βρέθηκαν εικονίδια"
 
 msgid "Selecione o ícone preferido:"
-msgstr ""
+msgstr "Επιλέξτε το προτιμώμενο εικονίδιο:"
 
 msgid "Desenvolvimento"
-msgstr ""
+msgstr "Ανάπτυξη"
 
 msgid "Escritório"
-msgstr ""
+msgstr "Γραφείο"
 
 msgid "Gráficos"
-msgstr ""
+msgstr "Γραφικά"
 
 msgid "Jogos"
-msgstr ""
+msgstr "Παιχνίδια"
 
 msgid "Multimídia"
-msgstr ""
+msgstr "Πολυμέσα"
 
 msgid "Tem certeza que deseja remover este WebApp?"
-msgstr ""
+msgstr "Είστε σίγουροι ότι θέλετε να καταργήσετε αυτή την εφαρμογή WebApp"
 
 msgid "Nenhum WebApp adicionado!"
-msgstr ""
+msgstr "Δεν προστέθηκε WebApp!"
 
 msgid "Navegador padrão<br>dos webapps:"
-msgstr ""
+msgstr "Προεπιλεγμένο πρόγραμμα περιήγησης<br>εφαρμογών ιστού:"
 
 msgid "Alterar navegador"
-msgstr ""
+msgstr "Αλλαγή προγράμματος περιήγησης"
 
 msgid "Selecione o navegador preferido:"
-msgstr ""
+msgstr "Επιλέξτε το πρόγραμμα περιήγησης που προτιμάτε:"
 
 msgid "WebApps Nativos"
-msgstr ""
+msgstr "Native WebApps"
 
 msgid "Bom dia"
-msgstr ""
+msgstr "Καλημέρα"
 
 msgid "Boa tarde"
-msgstr ""
+msgstr "Καλησπέρα"
 
 msgid "Boa noite"
-msgstr ""
+msgstr "Καλησπέρα"
 
 msgid "Aguarde, estamos preparando para começar..."
-msgstr ""
+msgstr "Αναμείνατε, είμαστε έτοιμοι να ξεκινήσουμε..."

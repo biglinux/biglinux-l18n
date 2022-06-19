@@ -123,7 +123,7 @@ msgstr ""
 "Sie sich die Nachrichten an!"
 
 msgid "Big Store"
-msgstr "Großer Laden"
+msgstr "Big Store"
 
 msgid "Web Apps"
 msgstr "Web-Anwendungen"
@@ -155,7 +155,7 @@ msgid "Twitter"
 msgstr "Twitter"
 
 msgid "Telegram"
-msgstr "Telegramm"
+msgstr "Telegram"
 
 msgid "Instagram"
 msgstr "Instagram"
@@ -234,7 +234,7 @@ msgid "Configurar este tema de janelas."
 msgstr "Konfigurieren Sie dieses Windows-Thema."
 
 msgid "Qt Designer"
-msgstr "Qt-Designer"
+msgstr "Qt Designer"
 
 msgid "Gerenciador de áudio avançado - Alsamixer"
 msgstr "Advanced Audio Manager - Alsamixer"

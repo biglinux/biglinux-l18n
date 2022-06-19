@@ -24,68 +24,74 @@ msgid ""
 "Você também pode utilizar o gerenciador de arquivos, clicar com o botão "
 "direito no arquivo PDF, 'Abrir com' e selecionar a opção de OCR."
 msgstr ""
+"OCR을 적용 할 PDF 파일을 선택하면 텍스트를 검색하거나 복사 할 수 있습니다.\n"
+"\n"
+"파일 관리자를 사용하여 PDF 파일을 마우스 오른쪽 버튼으로 클릭하고 '연결 프로그램'을 선택한 다음 OCR 옵션을 선택할 수도 있습니다."
+""
 
 msgid "NORMAL"
-msgstr ""
+msgstr "일반"
 
 msgid "ECONÔMICO"
-msgstr ""
+msgstr "경제적입니다"
 
 msgid "MAIS ECONÔMICO"
-msgstr ""
+msgstr "보다 경제적입니다"
 
 msgid "ALINHAR"
-msgstr ""
+msgstr "정렬"
 
 msgid "AUTO ROTAÇÃO"
-msgstr ""
+msgstr "자동 회전"
 
 msgid "ALINHAR E GIRAR AUTOMÁTICA"
-msgstr ""
+msgstr "자동 정렬 및 회전"
 
 msgid "NÃO MUDE"
-msgstr ""
+msgstr "바꾸지 마"
 
 msgid "ESPANHOL"
-msgstr ""
+msgstr "스페인 사람"
 
 msgid "INGLÊS"
-msgstr ""
+msgstr "영어"
 
 msgid "PORTUGUÊS"
-msgstr ""
+msgstr "포르투갈어"
 
 msgid ""
 "Você pode optar por reduzir a qualidade da imagem.<br>Dessa forma você terá "
 "arquivos menores, facilitando,<br>por exemplo, enviá-los por e-mail."
 msgstr ""
+"이미지 품질을 낮추도록 선택할 수 있습니다.<br>이렇게하면 더 작은 파일을 만들 수 있으므로 <br>예를 들어 이메일로 더 쉽게 보낼 "
+"수 있습니다."
 
 msgid ""
 "Para adicionar novos idiomas, instale os complementos do tesseract no "
 "gerenciador de pacotes do sistema."
-msgstr ""
+msgstr "새 언어를 추가하려면 시스템 패키지 관리자에서 tesseract 애드온을 설치하십시오."
 
 msgid "Aplicar"
-msgstr ""
+msgstr "적용"
 
 msgid "Torne seu PDF pesquisável"
-msgstr ""
+msgstr "PDF를 검색 가능하게 만들기"
 
 msgid ""
 "Adicionar OCR no PDF digitalizado permitindo seleção de textos e busca:"
-msgstr ""
+msgstr "스캔한 PDF에 OCR을 추가하여 텍스트 선택 및 검색을 허용합니다."
 
 msgid "OCR para PDF"
-msgstr ""
+msgstr "OCR을 PDF로 변환"
 
 msgid "Arquivo"
-msgstr ""
+msgstr "파일"
 
 msgid "Pasta:"
-msgstr ""
+msgstr "폴더:"
 
 msgid "Abrir"
-msgstr ""
+msgstr "오픈"
 
 msgid "Arquivo salvo: "
-msgstr ""
+msgstr "저장된 파일: "

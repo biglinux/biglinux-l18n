@@ -18,126 +18,128 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit"
 
 msgid "Selecionar imagem"
-msgstr ""
+msgstr "Välj bild"
 
 msgid "Adicionar WebApps"
-msgstr ""
+msgstr "Lägg till webbapplikationer"
 
 msgid "WebApps Adicionados"
-msgstr ""
+msgstr "WebApps har lagts till"
 
 msgid "WebApps BigLinux"
-msgstr ""
+msgstr "Webbapplikationer BigLinux"
 
 msgid "Url:"
-msgstr ""
+msgstr "Url:"
 
 msgid "Detectar Nome e Ícone"
-msgstr ""
+msgstr "Upptäcka namn och ikon"
 
 msgid "Nome:"
-msgstr ""
+msgstr "Namn:"
 
 msgid "Ícone:"
-msgstr ""
+msgstr "Ikon:"
 
 msgid "Alterar"
-msgstr ""
+msgstr "Ändra"
 
 msgid "Navegador:"
-msgstr ""
+msgstr "Navigator:"
 
 msgid "Categoria:"
-msgstr ""
+msgstr "Kategori:"
 
 msgid "DESENVOLVIMENTO"
-msgstr ""
+msgstr "UTVECKLING"
 
 msgid "ESCRITÓRIO"
-msgstr ""
+msgstr "KONTOR"
 
 msgid "GRÁFICOS"
-msgstr ""
+msgstr "GRAFIK"
 
 msgid "JOGOS"
-msgstr ""
+msgstr "SPEL"
 
 msgid "MULTIMÍDIA"
-msgstr ""
+msgstr "MULTIMEDIA"
 
 msgid "Criar atalho na Área de Trabalho"
-msgstr ""
+msgstr "Skapa en genväg på skrivbordet"
 
 msgid "Perfil adicional"
-msgstr ""
+msgstr "Ytterligare en profil"
 
 msgid "YouTube Modo TV"
-msgstr ""
+msgstr "YouTube TV-läge"
 
 msgid "Adicionar"
-msgstr ""
+msgstr "Lägg till"
 
 msgid "Para adicionar um WebApp, você precisa informar a Url e o Nome."
-msgstr ""
+msgstr "För att lägga till en WebApp måste du ange Url och Name."
 
 msgid "Para detectar o Nome e o Ícone você precisa informar a Url."
-msgstr ""
+msgstr "För att upptäcka namnet och ikonen måste du informera om url:en."
 
 msgid ""
 "A Url é inválida ou a conexão falhou.<br>Tente inserir o ícone pelo botão "
 "Alterar."
 msgstr ""
+"Url är ogiltig eller anslutningen misslyckades.<br>Försök att sätta in "
+"ikonen med knappen Ändra."
 
 msgid "O WebApp foi adicionado com sucesso!"
-msgstr ""
+msgstr "Webappen har lagts till framgångsrikt!"
 
 msgid "Ícones encontrados"
-msgstr ""
+msgstr "Hittade ikoner"
 
 msgid "Selecione o ícone preferido:"
-msgstr ""
+msgstr "Välj den önskade ikonen:"
 
 msgid "Desenvolvimento"
-msgstr ""
+msgstr "Utveckling"
 
 msgid "Escritório"
-msgstr ""
+msgstr "Kontor"
 
 msgid "Gráficos"
-msgstr ""
+msgstr "Grafik"
 
 msgid "Jogos"
-msgstr ""
+msgstr "Spel"
 
 msgid "Multimídia"
-msgstr ""
+msgstr "Multimedia"
 
 msgid "Tem certeza que deseja remover este WebApp?"
-msgstr ""
+msgstr "Är du säker på att du vill ta bort den här webbappen?"
 
 msgid "Nenhum WebApp adicionado!"
-msgstr ""
+msgstr "Ingen WebApp har lagts till!"
 
 msgid "Navegador padrão<br>dos webapps:"
-msgstr ""
+msgstr "Standardwebbläsare för<br> webbapplikationer:"
 
 msgid "Alterar navegador"
-msgstr ""
+msgstr "Byt webbläsare"
 
 msgid "Selecione o navegador preferido:"
-msgstr ""
+msgstr "Välj den webbläsare som du föredrar:"
 
 msgid "WebApps Nativos"
-msgstr ""
+msgstr "Inhemska webbapplikationer"
 
 msgid "Bom dia"
-msgstr ""
+msgstr "God morgon"
 
 msgid "Boa tarde"
-msgstr ""
+msgstr "God eftermiddag"
 
 msgid "Boa noite"
-msgstr ""
+msgstr "God kväll"
 
 msgid "Aguarde, estamos preparando para começar..."
-msgstr ""
+msgstr "Vänta, vi är redo att börja..."

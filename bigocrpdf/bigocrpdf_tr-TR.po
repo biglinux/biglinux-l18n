@@ -24,68 +24,78 @@ msgid ""
 "Você também pode utilizar o gerenciador de arquivos, clicar com o botão "
 "direito no arquivo PDF, 'Abrir com' e selecionar a opção de OCR."
 msgstr ""
+"OCR uygulamak için PDF dosyasını seçin, böylece metinleri arayabilir veya "
+"kopyalayabilirsiniz.\n"
+"\n"
+"Ayrıca dosya yöneticisini kullanabilir, PDF dosyasına sağ tıklayabilir, "
+"'Birlikte aç' ve OCR seçeneğini seçebilirsiniz."
 
 msgid "NORMAL"
-msgstr ""
+msgstr "NORMAL"
 
 msgid "ECONÔMICO"
-msgstr ""
+msgstr "EKONOMİK"
 
 msgid "MAIS ECONÔMICO"
-msgstr ""
+msgstr "DAHA FAZLA EKONOMİK"
 
 msgid "ALINHAR"
-msgstr ""
+msgstr "ALIGN"
 
 msgid "AUTO ROTAÇÃO"
-msgstr ""
+msgstr "OTOMATİK DÖNÜŞ"
 
 msgid "ALINHAR E GIRAR AUTOMÁTICA"
-msgstr ""
+msgstr "OTOMATIK HIZALAMA VE DÖNDÜRME"
 
 msgid "NÃO MUDE"
-msgstr ""
+msgstr "DEĞİŞTİRMEYİN"
 
 msgid "ESPANHOL"
-msgstr ""
+msgstr "İSPANYOLCA"
 
 msgid "INGLÊS"
-msgstr ""
+msgstr "İNGİLİZCE"
 
 msgid "PORTUGUÊS"
-msgstr ""
+msgstr "PORTEKİZ"
 
 msgid ""
 "Você pode optar por reduzir a qualidade da imagem.<br>Dessa forma você terá "
 "arquivos menores, facilitando,<br>por exemplo, enviá-los por e-mail."
 msgstr ""
+"Görüntü kalitesini düşürmeyi seçebilirsiniz.<br>Bu şekilde daha küçük "
+"dosyalara sahip olursunuz ve<br>örneğin e-posta ile göndermeyi "
+"kolaylaştırırsınız."
 
 msgid ""
 "Para adicionar novos idiomas, instale os complementos do tesseract no "
 "gerenciador de pacotes do sistema."
 msgstr ""
+"Yeni diller eklemek için sistem paket yöneticisinden tesseract eklentilerini "
+"yükleyin."
 
 msgid "Aplicar"
-msgstr ""
+msgstr "Başvurmak"
 
 msgid "Torne seu PDF pesquisável"
-msgstr ""
+msgstr "PDF'nizi aranabilir hale getirin"
 
 msgid ""
 "Adicionar OCR no PDF digitalizado permitindo seleção de textos e busca:"
-msgstr ""
+msgstr "Taranan PDF'ye OCR ekleyerek metin seçimine ve aramaya olanak tanır:"
 
 msgid "OCR para PDF"
-msgstr ""
+msgstr "PDF için OCR"
 
 msgid "Arquivo"
-msgstr ""
+msgstr "Dosya"
 
 msgid "Pasta:"
-msgstr ""
+msgstr "Klasör:"
 
 msgid "Abrir"
-msgstr ""
+msgstr "Açık"
 
 msgid "Arquivo salvo: "
-msgstr ""
+msgstr "Dosya kaydedildi "

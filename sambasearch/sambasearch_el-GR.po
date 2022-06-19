@@ -18,66 +18,74 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit"
 
 msgid "Procurar compartilhamentos"
-msgstr ""
+msgstr "Αναζήτηση μετοχών"
 
 msgid "Localiza compartilhamentos na rede (Windows ou Samba)."
-msgstr ""
+msgstr "Εντοπίστε τις κοινές μνήμες δικτύου (Windows ή Samba)."
 
 msgid "GPL v2 or greater"
-msgstr ""
+msgstr "GPL v2 ή μεγαλύτερη"
 
 msgid "Bruno Gonçalves"
-msgstr ""
+msgstr "Bruno Gonçalves"
 
 msgid "01/08/2019"
-msgstr ""
+msgstr "01/08/2019"
 
 msgid "https://github.com/biglinux/sambasearch"
-msgstr ""
+msgstr "https://github.com/biglinux/sambasearch"
 
 msgid "https://www.biglinux.com.br"
-msgstr ""
+msgstr "https://www.biglinux.com.br"
 
 msgid ""
 "Alteração aplicada, verifique se os compartilhamentos de rede estão "
 "aparecendo no gerenciador de arquivos."
 msgstr ""
+"Αλλαγή εφαρμόζεται, ελέγξτε ότι οι κοινές μετοχές δικτύου εμφανίζονται στη "
+"διαχείριση αρχείων."
 
 msgid "Usuário"
-msgstr ""
+msgstr "Χρήστης"
 
 msgid "Insira o usuário do servidor que deseja acessar"
 msgstr ""
+"Εισάγετε τον χρήστη του διακομιστή στον οποίο θέλετε να αποκτήσετε πρόσβαση"
 
 msgid "Senha"
-msgstr ""
+msgstr "Κωδικός πρόσβασης"
 
 msgid "Insira a senha do usuário do servidor que deseja acessar"
 msgstr ""
+"Εισάγετε τον κωδικό πρόσβασης του χρήστη του διακομιστή στον οποίο θέλετε να "
+"αποκτήσετε πρόσβαση"
 
 msgid ""
 "*A maioria dos servidores precisa de login e senha para listar os "
 "compartilhamentos disponíveis, deixe em branco para efetuar uma busca "
 "anônima."
 msgstr ""
+"*Οι περισσότεροι διακομιστές απαιτούν είσοδο και κωδικό πρόσβασης για τη "
+"λίστα των διαθέσιμων μετοχών, αφήστε το κενό για να εκτελέσετε ανώνυμη "
+"αναζήτηση."
 
 msgid "Cancelar"
-msgstr ""
+msgstr "Ακύρωση"
 
 msgid "Próximo"
-msgstr ""
+msgstr "Επόμενο"
 
 msgid "Anônimo"
-msgstr ""
+msgstr "Ανώνυμος"
 
 msgid "Procura efetuada com o usuário:"
-msgstr ""
+msgstr "Αναζήτηση που πραγματοποιείται με τον χρήστη:"
 
 msgid "na rede:"
-msgstr ""
+msgstr "στο δίκτυο:"
 
 msgid "Voltar"
-msgstr ""
+msgstr "Πίσω"
 
 msgid "Fechar"
-msgstr ""
+msgstr "Κλείστε το"

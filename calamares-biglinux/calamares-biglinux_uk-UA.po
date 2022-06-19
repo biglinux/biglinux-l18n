@@ -26,9 +26,16 @@ msgid ""
 "\n"
 "Deseja prosseguir com com a instalação em modo EFI?"
 msgstr ""
+"Поточна завантаження відбувається за допомогою режиму EFI, але я не знайшов "
+"жодного розділу EFI на цьому комп'ютері, якщо на цьому комп'ютері вже "
+"встановлена інша система, і ви маєте намір, щоб вона залишалася "
+"встановленою, вам, ймовірно, потрібно буде змінити конфігурацію в BIOS, щоб "
+"завантажитися в Legacy mode, який також називається режимом BIOS.\n"
+"\n"
+"Ви хочете продовжити установку в режимі EFI?"
 
 msgid "Instalar o sistema"
-msgstr ""
+msgstr "Встановлюємо систему"
 
 msgid ""
 "O boot atual está utilizando o modo Legacy/BIOS, porém encontrei pelo menos "
@@ -38,45 +45,51 @@ msgid ""
 "\n"
 "Deseja prosseguir com com a instalação em modo Legacy/BIOS?"
 msgstr ""
+"Поточна завантаження використовується режим Legacy/BIOS, але я знайшов хоча "
+"б один розділ EFI на цьому комп'ютері. Щоб установка пройшла успішно, "
+"ймовірно, буде потрібно змінити конфігурацію в BIOS для завантаження в "
+"режимі EFI або UEFI.\n"
+"\n"
+"Ви хочете продовжити установку в режимі Legacy/BIOS?"
 
 msgid "Instalar o BigLinux"
-msgstr ""
+msgstr "Встановіть BigLinux"
 
 msgid "PADRÃO"
-msgstr ""
+msgstr "СТАНДАРТ"
 
 msgid "DESEMPENHO"
-msgstr ""
+msgstr "Продуктивність"
 
 msgid "COMPATIBILIDADE"
-msgstr ""
+msgstr "СУМІСНІСТЬ"
 
 msgid "Compacta os dados"
-msgstr ""
+msgstr "Стиснути дані"
 
 msgid "Pontos de restauração"
-msgstr ""
+msgstr "точки відновлення"
 
 msgid "Adia a gravação dos dados"
-msgstr ""
+msgstr "Відкласти запис даних"
 
 msgid "Funciona com tabelas de particionamento antigas"
-msgstr ""
+msgstr "Працює зі старими таблицями розбиття"
 
 msgid "BTRFS com fsync"
-msgstr ""
+msgstr "BTRFS з fsync"
 
 msgid "BTRFS sem fsync"
-msgstr ""
+msgstr "BTRFS без fsync"
 
 msgid "SELECIONAR"
-msgstr ""
+msgstr "ВИБРАТИ"
 
 msgid "Instalar no HD"
-msgstr ""
+msgstr "Встановити на HD"
 
 msgid "O sistema está em modo"
-msgstr ""
+msgstr "Система в режимі"
 
 msgid "e com o kernel"
-msgstr ""
+msgstr "і з ядром"

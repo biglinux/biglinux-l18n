@@ -18,267 +18,289 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit"
 
 msgid "O Big-Hardware-Relatory já está em uso."
-msgstr ""
+msgstr "Το Big-Hardware-Relatory χρησιμοποιείται ήδη."
 
 msgid "Informações sobre o Hardware"
-msgstr ""
+msgstr "Πληροφορίες υλικού"
 
 msgid "Este driver é software livre."
-msgstr ""
+msgstr "Αυτό το πρόγραμμα οδήγησης είναι ελεύθερο λογισμικό."
 
 msgid "Este driver é proprietário."
-msgstr ""
+msgstr "Αυτό το πρόγραμμα οδήγησης είναι ιδιόκτητο."
 
 msgid "Este driver parece compatível com este computador."
 msgstr ""
+"Αυτό το πρόγραμμα οδήγησης φαίνεται να είναι συμβατό με αυτόν τον υπολογιστή."
+""
 
 msgid "Remover"
-msgstr ""
+msgstr "Αφαιρέστε το"
 
 msgid "Instalar"
-msgstr ""
+msgstr "Εγκαταστήστε το"
 
 msgid ""
 "Já existe outro driver nVidia instalado, para instalar este driver, remova "
 "primeiro o driver instalado."
 msgstr ""
+"Υπάρχει ήδη εγκατεστημένο ένα άλλο πρόγραμμα οδήγησης nVidia, για να "
+"εγκαταστήσετε αυτό το πρόγραμμα οδήγησης, αφαιρέστε πρώτα το εγκατεστημένο "
+"πρόγραμμα οδήγησης."
 
 msgid "Desativado"
-msgstr ""
+msgstr "Άτομα με ειδικές ανάγκες"
 
 msgid "Categorias"
-msgstr ""
+msgstr "Κατηγορίες"
 
 msgid "Principais"
-msgstr ""
+msgstr "Κύρια"
 
 msgid "Resumo"
-msgstr ""
+msgstr "Περίληψη"
 
 msgid "Processador"
-msgstr ""
+msgstr "Επεξεργαστής"
 
 msgid "Placa de vídeo"
-msgstr ""
+msgstr "Κάρτα βίντεο"
 
 msgid "Placa mãe"
-msgstr ""
+msgstr "Μητρική πλακέτα"
 
 msgid "Memória"
-msgstr ""
+msgstr "Μνήμη"
 
 msgid "Rede"
-msgstr ""
+msgstr "Δίκτυο"
 
 msgid "Usb"
-msgstr ""
+msgstr "Usb"
 
 msgid "Pci"
-msgstr ""
+msgstr "Pci"
 
 msgid "Bateria"
-msgstr ""
+msgstr "Μπαταρία"
 
 msgid "Armazenamento"
-msgstr ""
+msgstr "Αποθήκευση"
 
 msgid "Sistema"
-msgstr ""
+msgstr "Σύστημα"
 
 msgid "Bluetooth"
-msgstr ""
+msgstr "Bluetooth"
 
 msgid "Temperatura"
-msgstr ""
+msgstr "Θερμοκρασία"
 
 msgid "Impressora"
-msgstr ""
+msgstr "Εκτυπωτής"
 
 msgid "Áudio"
-msgstr ""
+msgstr "Ήχος"
 
 msgid "Mais informações"
-msgstr ""
+msgstr "Περισσότερες πληροφορίες"
 
 msgid "Pesquisar"
-msgstr ""
+msgstr "Αναζήτηση"
 
 msgid "Resultado da pesquisa"
-msgstr ""
+msgstr "Αποτελέσματα αναζήτησης"
 
 msgid "Informações de Hardware"
-msgstr ""
+msgstr "Πληροφορίες υλικού"
 
 msgid "Informações Sobre o Sistema e o Hardware"
-msgstr ""
+msgstr "Πληροφορίες για το σύστημα και το υλικό"
 
 msgid "Memória RAM:"
-msgstr ""
+msgstr "Μνήμη RAM:"
 
 msgid "Vídeo:"
-msgstr ""
+msgstr "Βίντεο:"
 
 msgid "Instalado na partição:"
-msgstr ""
+msgstr "Εγκατεστημένο στο διαμέρισμα:"
 
 msgid "Tamanho da partição:"
-msgstr ""
+msgstr "Μέγεθος διαμερίσματος:"
 
 msgid "Espaço utilizado:"
-msgstr ""
+msgstr "Χώρος που χρησιμοποιείται:"
 
 msgid "Espaço livre:"
-msgstr ""
+msgstr "Ελεύθερος χώρος:"
 
 msgid "Data que o sistema foi instalado:"
-msgstr ""
+msgstr "Ημερομηνία εγκατάστασης του συστήματος:"
 
 msgid "Kernel em uso:"
-msgstr ""
+msgstr "Χρησιμοποιούμενος πυρήνας:"
 
 msgid "Instalar ou Remover Drivers"
-msgstr ""
+msgstr "Εγκατάσταση ή αφαίρεση οδηγών"
 
 msgid ""
 "O BigLinux inclui milhares de drivers e firmwares por padrão, porém ainda "
 "pode ser necessário instalar mais alguns."
 msgstr ""
+"Το BigLinux περιλαμβάνει χιλιάδες προγράμματα οδήγησης και υλικολογισμικού "
+"από προεπιλογή, αλλά ίσως χρειαστεί να εγκαταστήσετε μερικά ακόμη."
 
 msgid "Gerar Relatório"
-msgstr ""
+msgstr "Δημιουργία αναφοράς"
 
 msgid "Cria um arquivo com informações que pode ser publicado na internet."
 msgstr ""
+"Δημιουργεί ένα αρχείο με πληροφορίες που μπορούν να δημοσιευτούν στο "
+"διαδίκτυο."
 
 msgid "Ver informações do dispositivo no Linux Hardware"
-msgstr ""
+msgstr "Προβολή πληροφοριών συσκευής στο υλικό Linux"
 
 msgid "Categoria"
-msgstr ""
+msgstr "Κατηγορία"
 
 msgid "ID"
-msgstr ""
+msgstr "ID"
 
 msgid "Info"
-msgstr ""
+msgstr "Πληροφορίες"
 
 msgid "Enviar para transfer.sh"
-msgstr ""
+msgstr "Αποστολή στο transfer.sh"
 
 msgid "Visualizar"
-msgstr ""
+msgstr "Προβολή"
 
 msgid "O relatório foi salvo no arquivo:"
-msgstr ""
+msgstr "Η έκθεση έχει αποθηκευτεί στο αρχείο:"
 
 msgid ""
 "Deseja visualizar o arquivo ou envia-lo ao site transfer.sh, para ter uma "
 "URL com os dados do seu computador de forma fácil de compartilhar?"
 msgstr ""
+"Θέλετε να δείτε το αρχείο ή να το στείλετε στο transfer.sh, για να έχετε μια "
+"διεύθυνση URL με τα δεδομένα από τον υπολογιστή σας με εύκολο τρόπο για να "
+"τα μοιραστείτε"
 
 msgid "Driver detectado:"
-msgstr ""
+msgstr "Εντοπίστηκε οδηγός:"
 
 msgid "<small>* A detecção não inclui impressoras e scanners</small>"
-msgstr ""
+msgstr "<small>* Η ανίχνευση δεν περιλαμβάνει εκτυπωτές και σαρωτές</small>"
 
 msgid "Wifi"
-msgstr ""
+msgstr "Wifi"
 
 msgid "Rede Cabeada"
-msgstr ""
+msgstr "Ενσύρματο δίκτυο"
 
 msgid "Impressora 3D"
-msgstr ""
+msgstr "Εκτυπωτής 3D"
 
 msgid "Scanner"
-msgstr ""
+msgstr "Σαρωτής"
 
 msgid "TV Digital"
-msgstr ""
+msgstr "Ψηφιακή τηλεόραση"
 
 msgid "Webcam"
-msgstr ""
+msgstr "Webcam"
 
 msgid "Touchscreen"
-msgstr ""
+msgstr "Οθόνη αφής"
 
 msgid "Som"
-msgstr ""
+msgstr "Ήχος"
 
 msgid "Outros"
-msgstr ""
+msgstr "Άλλα"
 
 msgid "Pesquisar Driver ou Firmware"
-msgstr ""
+msgstr "Αναζήτηση προγράμματος οδήγησης ή υλικολογισμικού"
 
 msgid "Big-Driver-Manager"
-msgstr ""
+msgstr "Big-Driver-Manager"
 
 msgid "Instalar ou Remover Drivers e Firmwares"
-msgstr ""
+msgstr "Εγκατάσταση ή αφαίρεση οδηγών και υλικολογισμικού"
 
 msgid ""
 "Geralmente é preciso reiniciar o computador para o driver ou firmware ser "
 "aplicado."
 msgstr ""
+"Συνήθως είναι απαραίτητη η επανεκκίνηση του υπολογιστή για να εφαρμοστεί το "
+"πρόγραμμα οδήγησης ή το υλικολογισμικό."
 
 msgid "Driver ou firmware"
-msgstr ""
+msgstr "Πρόγραμμα οδήγησης ή υλικολογισμικό"
 
 msgid "Este pacote fornece arquivos compatíveis com este computador."
-msgstr ""
+msgstr "Αυτό το πακέτο παρέχει αρχεία συμβατά με αυτόν τον υπολογιστή."
 
 msgid "Concluído, reinicie o computador para ativar a configuração do driver."
 msgstr ""
+"Μόλις ολοκληρωθεί, επανεκκινήστε τον υπολογιστή σας για να ενεργοποιήσετε τη "
+"διαμόρφωση του προγράμματος οδήγησης."
 
 msgid "Driver"
-msgstr ""
+msgstr "Οδηγός"
 
 msgid "Ocorreu um erro e o driver não pode ser aplicado."
 msgstr ""
+"Παρουσιάστηκε σφάλμα και το πρόγραμμα οδήγησης δεν μπορεί να εφαρμοστεί."
 
 msgid "Swap (Memória Virtual)"
-msgstr ""
+msgstr "Swap (Εικονική μνήμη)"
 
 msgid "Conexões de Internet"
-msgstr ""
+msgstr "Συνδέσεις Internet"
 
 msgid "Dispositivos e conexões USB"
-msgstr ""
+msgstr "Συσκευές και συνδέσεις USB"
 
 msgid "Portas PCI"
-msgstr ""
+msgstr "Θύρες PCI"
 
 msgid "Dispositivos de armazenamento"
-msgstr ""
+msgstr "Συσκευές αποθήκευσης"
 
 msgid "Partições montadas"
-msgstr ""
+msgstr "Τοποθετημένα χωρίσματα"
 
 msgid "Partições desmontadas"
-msgstr ""
+msgstr "Αποσυναρμολογημένα χωρίσματα"
 
 msgid "Dispositivos lógicos"
-msgstr ""
+msgstr "Λογικές συσκευές"
 
 msgid "Raid"
-msgstr ""
+msgstr "Επιδρομή"
 
 msgid "Informações"
-msgstr ""
+msgstr "Πληροφορίες"
 
 msgid "Repositórios"
-msgstr ""
+msgstr "Αποθετήρια"
 
 msgid ""
 "Digite sua senha para gerar um relatório removendo dados sensíveis, por "
 "exemplo, endereço de IP, ou cancele para utilizar as informações da tela "
 "anterior."
 msgstr ""
+"Εισάγετε τον κωδικό πρόσβασής σας για να δημιουργήσετε μια αναφορά που "
+"αφαιρεί ευαίσθητα δεδομένα, π.χ. διεύθυνση IP, ή ακυρώστε για να "
+"χρησιμοποιήσετε τις πληροφορίες από την προηγούμενη οθόνη."
 
 msgid "Digite sua senha para gerar um relatório mais completo."
 msgstr ""
+"Εισάγετε τον κωδικό πρόσβασής σας για να δημιουργήσετε μια πιο ολοκληρωμένη "
+"αναφορά."
 
 msgid "Enviando, aguarde..."
-msgstr ""
+msgstr "Αποστολή, παρακαλώ περιμένετε..."

@@ -18,40 +18,40 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit"
 
 msgid "Reduzir ruídos do microfone"
-msgstr ""
+msgstr "Smanjiti šum mikrofona"
 
 msgid "Microfone sem ruídos"
-msgstr ""
+msgstr "Bešumni mikrofon"
 
 msgid "Desativando"
-msgstr ""
+msgstr "Deaktiviranje"
 
 msgid "Filtro do Microfone"
-msgstr ""
+msgstr "Filter za mikrofon"
 
 msgid "Ativando"
-msgstr ""
+msgstr "aktiviranje"
 
 msgid "Filtro de ruído"
-msgstr ""
+msgstr "Filter buke"
 
 msgid "Iniciar automaticamente"
-msgstr ""
+msgstr "Pokrenite automatski"
 
 msgid "Configuração aplicada"
-msgstr ""
+msgstr "Primijenjena konfiguracija"
 
 msgid "Microfone"
-msgstr ""
+msgstr "Mikrofon"
 
 msgid "Configuração de áudio."
-msgstr ""
+msgstr "Postavljanje zvuka."
 
 msgid "Confirma a remoção das personalizações na configuração de áudio?"
-msgstr ""
+msgstr "Potvrđujete li uklanjanje prilagodbi u audio konfiguraciji?"
 
 msgid "Configuração de áudio"
-msgstr ""
+msgstr "Postavljanje zvuka"
 
 msgid ""
 "Configuração de áudio restaurada.\n"
@@ -59,6 +59,10 @@ msgid ""
 "Os programas em execução no momento podem precisar ser fechados\n"
 "e abertos novamente para o áudio funcionar corretamente."
 msgstr ""
+"Audio postavka obnovljena.\n"
+"\n"
+"Trenutno pokrenute programe možda će trebati zatvoriti\n"
+"i ponovno se otvorio kako bi zvuk ispravno radio."
 
 msgid "Cancelado, nenhuma configuração foi removida!"
-msgstr ""
+msgstr "Otkazano, postavke nisu uklonjene!"

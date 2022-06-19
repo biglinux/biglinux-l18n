@@ -24,68 +24,79 @@ msgid ""
 "Você também pode utilizar o gerenciador de arquivos, clicar com o botão "
 "direito no arquivo PDF, 'Abrir com' e selecionar a opção de OCR."
 msgstr ""
+"Wybrać plik PDF do zastosowania OCR, dzięki czemu można wyszukiwać lub "
+"kopiować teksty.\n"
+"\n"
+"Może Pan również skorzystać z menedżera plików, kliknąć prawym przyciskiem "
+"myszy na plik PDF, \"Otwórz za pomocą\" i wybrać opcję OCR."
 
 msgid "NORMAL"
-msgstr ""
+msgstr "NORMAL"
 
 msgid "ECONÔMICO"
-msgstr ""
+msgstr "EKONOMICZNY"
 
 msgid "MAIS ECONÔMICO"
-msgstr ""
+msgstr "WIĘCEJ EKONOMICZNYCH"
 
 msgid "ALINHAR"
-msgstr ""
+msgstr "ALIGN"
 
 msgid "AUTO ROTAÇÃO"
-msgstr ""
+msgstr "AUTO OBRÓT"
 
 msgid "ALINHAR E GIRAR AUTOMÁTICA"
-msgstr ""
+msgstr "AUTOMATYCZNE WYRÓWNYWANIE I OBRACANIE"
 
 msgid "NÃO MUDE"
-msgstr ""
+msgstr "NIE ZMIENIAĆ"
 
 msgid "ESPANHOL"
-msgstr ""
+msgstr "SPANISH"
 
 msgid "INGLÊS"
-msgstr ""
+msgstr "ANGLIA"
 
 msgid "PORTUGUÊS"
-msgstr ""
+msgstr "PORTUGUESE"
 
 msgid ""
 "Você pode optar por reduzir a qualidade da imagem.<br>Dessa forma você terá "
 "arquivos menores, facilitando,<br>por exemplo, enviá-los por e-mail."
 msgstr ""
+"Mogą Państwo wybrać obniżenie jakości obrazu.<br>W ten sposób będą Państwo "
+"mieli mniejsze pliki, co ułatwi<br>ich wysyłanie np. pocztą elektroniczną."
 
 msgid ""
 "Para adicionar novos idiomas, instale os complementos do tesseract no "
 "gerenciador de pacotes do sistema."
 msgstr ""
+"Aby dodać nowe języki, należy zainstalować dodatki tesseract w systemowym "
+"menedżerze pakietów."
 
 msgid "Aplicar"
-msgstr ""
+msgstr "Aplikuj"
 
 msgid "Torne seu PDF pesquisável"
-msgstr ""
+msgstr "Sprawić, by Państwa PDF był przeszukiwalny"
 
 msgid ""
 "Adicionar OCR no PDF digitalizado permitindo seleção de textos e busca:"
 msgstr ""
+"Dodanie OCR do zeskanowanego PDF umożliwiającego zaznaczanie i wyszukiwanie "
+"tekstu:"
 
 msgid "OCR para PDF"
-msgstr ""
+msgstr "OCR dla PDF"
 
 msgid "Arquivo"
-msgstr ""
+msgstr "Plik"
 
 msgid "Pasta:"
-msgstr ""
+msgstr "Folder:"
 
 msgid "Abrir"
-msgstr ""
+msgstr "Otwórz"
 
 msgid "Arquivo salvo: "
-msgstr ""
+msgstr "Plik zapisany "

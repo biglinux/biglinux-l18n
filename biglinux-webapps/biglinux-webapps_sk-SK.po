@@ -18,126 +18,128 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit"
 
 msgid "Selecionar imagem"
-msgstr ""
+msgstr "Vybrať obrázok"
 
 msgid "Adicionar WebApps"
-msgstr ""
+msgstr "Pridanie webových aplikácií"
 
 msgid "WebApps Adicionados"
-msgstr ""
+msgstr "Pridanie webových aplikácií"
 
 msgid "WebApps BigLinux"
-msgstr ""
+msgstr "Webové aplikácie BigLinux"
 
 msgid "Url:"
-msgstr ""
+msgstr "Url:"
 
 msgid "Detectar Nome e Ícone"
-msgstr ""
+msgstr "Zistiť názov a ikonu"
 
 msgid "Nome:"
-msgstr ""
+msgstr "Názov:"
 
 msgid "Ícone:"
-msgstr ""
+msgstr "Ikona:"
 
 msgid "Alterar"
-msgstr ""
+msgstr "Zmena"
 
 msgid "Navegador:"
-msgstr ""
+msgstr "Navigátor:"
 
 msgid "Categoria:"
-msgstr ""
+msgstr "Kategória:"
 
 msgid "DESENVOLVIMENTO"
-msgstr ""
+msgstr "VÝVOJ"
 
 msgid "ESCRITÓRIO"
-msgstr ""
+msgstr "OFFICE"
 
 msgid "GRÁFICOS"
-msgstr ""
+msgstr "GRAFIKA"
 
 msgid "JOGOS"
-msgstr ""
+msgstr "HRY"
 
 msgid "MULTIMÍDIA"
-msgstr ""
+msgstr "MULTIMÉDIÁ"
 
 msgid "Criar atalho na Área de Trabalho"
-msgstr ""
+msgstr "Vytvorenie zástupcu na pracovnej ploche"
 
 msgid "Perfil adicional"
-msgstr ""
+msgstr "Ďalší profil"
 
 msgid "YouTube Modo TV"
-msgstr ""
+msgstr "Režim YouTube TV"
 
 msgid "Adicionar"
-msgstr ""
+msgstr "Pridať"
 
 msgid "Para adicionar um WebApp, você precisa informar a Url e o Nome."
-msgstr ""
+msgstr "Ak chcete pridať webovú aplikáciu, musíte oznámiť adresu Url a názov."
 
 msgid "Para detectar o Nome e o Ícone você precisa informar a Url."
-msgstr ""
+msgstr "Ak chcete zistiť názov a ikonu, musíte informovať o URL."
 
 msgid ""
 "A Url é inválida ou a conexão falhou.<br>Tente inserir o ícone pelo botão "
 "Alterar."
 msgstr ""
+"Url je neplatná alebo pripojenie zlyhalo.<br>Skúste vložiť ikonu pomocou "
+"tlačidla Zmeniť."
 
 msgid "O WebApp foi adicionado com sucesso!"
-msgstr ""
+msgstr "Webová aplikácia bola úspešne pridaná!"
 
 msgid "Ícones encontrados"
-msgstr ""
+msgstr "Nájdené ikony"
 
 msgid "Selecione o ícone preferido:"
-msgstr ""
+msgstr "Vyberte uprednostňovanú ikonu:"
 
 msgid "Desenvolvimento"
-msgstr ""
+msgstr "Vývoj"
 
 msgid "Escritório"
-msgstr ""
+msgstr "Kancelária"
 
 msgid "Gráficos"
-msgstr ""
+msgstr "Grafika"
 
 msgid "Jogos"
-msgstr ""
+msgstr "Hry"
 
 msgid "Multimídia"
-msgstr ""
+msgstr "Multimédiá"
 
 msgid "Tem certeza que deseja remover este WebApp?"
-msgstr ""
+msgstr "Ste si istí, že chcete odstrániť túto webovú aplikáciu?"
 
 msgid "Nenhum WebApp adicionado!"
-msgstr ""
+msgstr "Nebola pridaná žiadna webová aplikácia!"
 
 msgid "Navegador padrão<br>dos webapps:"
-msgstr ""
+msgstr "Predvolený prehliadač<br>webových aplikácií:"
 
 msgid "Alterar navegador"
-msgstr ""
+msgstr "Zmena prehliadača"
 
 msgid "Selecione o navegador preferido:"
-msgstr ""
+msgstr "Vyberte preferovaný prehliadač:"
 
 msgid "WebApps Nativos"
-msgstr ""
+msgstr "Natívne webové aplikácie"
 
 msgid "Bom dia"
-msgstr ""
+msgstr "Dobré ráno"
 
 msgid "Boa tarde"
-msgstr ""
+msgstr "Dobré popoludnie"
 
 msgid "Boa noite"
-msgstr ""
+msgstr "Dobrý večer"
 
 msgid "Aguarde, estamos preparando para começar..."
-msgstr ""
+msgstr "Pripravte sa, začíname..."

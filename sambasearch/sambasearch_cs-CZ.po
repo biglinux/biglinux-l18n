@@ -18,66 +18,70 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit"
 
 msgid "Procurar compartilhamentos"
-msgstr ""
+msgstr "Vyhledávání akcií"
 
 msgid "Localiza compartilhamentos na rede (Windows ou Samba)."
-msgstr ""
+msgstr "Vyhledejte síťové sdílené položky (Windows nebo Samba)."
 
 msgid "GPL v2 or greater"
-msgstr ""
+msgstr "GPL v2 nebo vyšší"
 
 msgid "Bruno Gonçalves"
-msgstr ""
+msgstr "Bruno Gonçalves"
 
 msgid "01/08/2019"
-msgstr ""
+msgstr "01/08/2019"
 
 msgid "https://github.com/biglinux/sambasearch"
-msgstr ""
+msgstr "https://github.com/biglinux/sambasearch"
 
 msgid "https://www.biglinux.com.br"
-msgstr ""
+msgstr "https://www.biglinux.com.br"
 
 msgid ""
 "Alteração aplicada, verifique se os compartilhamentos de rede estão "
 "aparecendo no gerenciador de arquivos."
 msgstr ""
+"Po provedení změny zkontrolujte, zda se síťové sdílené položky zobrazují ve "
+"správci souborů."
 
 msgid "Usuário"
-msgstr ""
+msgstr "Uživatel"
 
 msgid "Insira o usuário do servidor que deseja acessar"
-msgstr ""
+msgstr "Zadejte uživatele serveru, ke kterému chcete získat přístup"
 
 msgid "Senha"
-msgstr ""
+msgstr "Heslo"
 
 msgid "Insira a senha do usuário do servidor que deseja acessar"
-msgstr ""
+msgstr "Zadejte heslo uživatele serveru, ke kterému chcete získat přístup"
 
 msgid ""
 "*A maioria dos servidores precisa de login e senha para listar os "
 "compartilhamentos disponíveis, deixe em branco para efetuar uma busca "
 "anônima."
 msgstr ""
+"*Většina serverů vyžaduje pro zobrazení seznamu dostupných sdílených položek "
+"přihlašovací jméno a heslo, pro anonymní vyhledávání ponechte prázdné pole."
 
 msgid "Cancelar"
-msgstr ""
+msgstr "Zrušit"
 
 msgid "Próximo"
-msgstr ""
+msgstr "Další"
 
 msgid "Anônimo"
-msgstr ""
+msgstr "Anonymní"
 
 msgid "Procura efetuada com o usuário:"
-msgstr ""
+msgstr "Vyhledávání prováděné s uživatelem:"
 
 msgid "na rede:"
-msgstr ""
+msgstr "v síti:"
 
 msgid "Voltar"
-msgstr ""
+msgstr "Zpět"
 
 msgid "Fechar"
-msgstr ""
+msgstr "Zavřít"

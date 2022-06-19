@@ -18,267 +18,284 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit"
 
 msgid "O Big-Hardware-Relatory já está em uso."
-msgstr ""
+msgstr "De Big-Hardware-Relatory is al in gebruik."
 
 msgid "Informações sobre o Hardware"
-msgstr ""
+msgstr "Hardware-informatie"
 
 msgid "Este driver é software livre."
-msgstr ""
+msgstr "Dit stuurprogramma is gratis software."
 
 msgid "Este driver é proprietário."
-msgstr ""
+msgstr "Dit stuurprogramma is gepatenteerd."
 
 msgid "Este driver parece compatível com este computador."
-msgstr ""
+msgstr "Dit stuurprogramma lijkt compatibel te zijn met deze computer."
 
 msgid "Remover"
-msgstr ""
+msgstr "Verwijder"
 
 msgid "Instalar"
-msgstr ""
+msgstr "Installeer"
 
 msgid ""
 "Já existe outro driver nVidia instalado, para instalar este driver, remova "
 "primeiro o driver instalado."
 msgstr ""
+"Er is al een ander nVidia stuurprogramma geïnstalleerd, om dit "
+"stuurprogramma te installeren moet u eerst het geïnstalleerde stuurprogramma "
+"verwijderen."
 
 msgid "Desativado"
-msgstr ""
+msgstr "Uitgeschakeld"
 
 msgid "Categorias"
-msgstr ""
+msgstr "Categorieën"
 
 msgid "Principais"
-msgstr ""
+msgstr "Hoofd"
 
 msgid "Resumo"
-msgstr ""
+msgstr "Samenvatting"
 
 msgid "Processador"
-msgstr ""
+msgstr "Processor"
 
 msgid "Placa de vídeo"
-msgstr ""
+msgstr "Videokaart"
 
 msgid "Placa mãe"
-msgstr ""
+msgstr "Moederbord"
 
 msgid "Memória"
-msgstr ""
+msgstr "Geheugen"
 
 msgid "Rede"
-msgstr ""
+msgstr "Netwerk"
 
 msgid "Usb"
-msgstr ""
+msgstr "Usb"
 
 msgid "Pci"
-msgstr ""
+msgstr "Pci"
 
 msgid "Bateria"
-msgstr ""
+msgstr "Batterij"
 
 msgid "Armazenamento"
-msgstr ""
+msgstr "Opslag"
 
 msgid "Sistema"
-msgstr ""
+msgstr "Systeem"
 
 msgid "Bluetooth"
-msgstr ""
+msgstr "Bluetooth"
 
 msgid "Temperatura"
-msgstr ""
+msgstr "Temperatuur"
 
 msgid "Impressora"
-msgstr ""
+msgstr "Printer"
 
 msgid "Áudio"
-msgstr ""
+msgstr "Audio"
 
 msgid "Mais informações"
-msgstr ""
+msgstr "Meer informatie"
 
 msgid "Pesquisar"
-msgstr ""
+msgstr "Zoeken"
 
 msgid "Resultado da pesquisa"
-msgstr ""
+msgstr "Zoekresultaat"
 
 msgid "Informações de Hardware"
-msgstr ""
+msgstr "Hardware-informatie"
 
 msgid "Informações Sobre o Sistema e o Hardware"
-msgstr ""
+msgstr "Systeem en Hardware Informatie"
 
 msgid "Memória RAM:"
-msgstr ""
+msgstr "RAM geheugen:"
 
 msgid "Vídeo:"
-msgstr ""
+msgstr "Video:"
 
 msgid "Instalado na partição:"
-msgstr ""
+msgstr "Geïnstalleerd op de partitie:"
 
 msgid "Tamanho da partição:"
-msgstr ""
+msgstr "Partitiegrootte:"
 
 msgid "Espaço utilizado:"
-msgstr ""
+msgstr "Gebruikte ruimte:"
 
 msgid "Espaço livre:"
-msgstr ""
+msgstr "Vrije ruimte:"
 
 msgid "Data que o sistema foi instalado:"
-msgstr ""
+msgstr "Datum waarop het systeem werd geïnstalleerd:"
 
 msgid "Kernel em uso:"
-msgstr ""
+msgstr "Kernel in gebruik:"
 
 msgid "Instalar ou Remover Drivers"
-msgstr ""
+msgstr "Stuurprogramma's installeren of verwijderen"
 
 msgid ""
 "O BigLinux inclui milhares de drivers e firmwares por padrão, porém ainda "
 "pode ser necessário instalar mais alguns."
 msgstr ""
+"BigLinux bevat standaard duizenden stuurprogramma's en firmware, maar het "
+"kan zijn dat u er nog een paar moet installeren."
 
 msgid "Gerar Relatório"
-msgstr ""
+msgstr "Genereer verslag"
 
 msgid "Cria um arquivo com informações que pode ser publicado na internet."
 msgstr ""
+"Maakt een bestand met informatie die op het internet gepubliceerd kan worden."
+""
 
 msgid "Ver informações do dispositivo no Linux Hardware"
-msgstr ""
+msgstr "Apparaatinformatie bekijken op Linux Hardware"
 
 msgid "Categoria"
-msgstr ""
+msgstr "Categorie"
 
 msgid "ID"
-msgstr ""
+msgstr "ID"
 
 msgid "Info"
-msgstr ""
+msgstr "Info"
 
 msgid "Enviar para transfer.sh"
-msgstr ""
+msgstr "Stuur naar transfer.sh"
 
 msgid "Visualizar"
-msgstr ""
+msgstr "Bekijk"
 
 msgid "O relatório foi salvo no arquivo:"
-msgstr ""
+msgstr "Het rapport is in het archief opgeslagen:"
 
 msgid ""
 "Deseja visualizar o arquivo ou envia-lo ao site transfer.sh, para ter uma "
 "URL com os dados do seu computador de forma fácil de compartilhar?"
 msgstr ""
+"Wilt u het bestand bekijken of naar transfer.sh sturen, om een URL te hebben "
+"met de gegevens van uw computer op een gemakkelijke manier te delen?"
 
 msgid "Driver detectado:"
-msgstr ""
+msgstr "Gedetecteerd stuurprogramma:"
 
 msgid "<small>* A detecção não inclui impressoras e scanners</small>"
-msgstr ""
+msgstr "<small>* Detectie omvat geen printers en scanners</small>"
 
 msgid "Wifi"
-msgstr ""
+msgstr "Wifi"
 
 msgid "Rede Cabeada"
-msgstr ""
+msgstr "Bekabeld Netwerk"
 
 msgid "Impressora 3D"
-msgstr ""
+msgstr "3D-printer"
 
 msgid "Scanner"
-msgstr ""
+msgstr "Scanner"
 
 msgid "TV Digital"
-msgstr ""
+msgstr "Digitale TV"
 
 msgid "Webcam"
-msgstr ""
+msgstr "Webcam"
 
 msgid "Touchscreen"
-msgstr ""
+msgstr "Touchscreen"
 
 msgid "Som"
-msgstr ""
+msgstr "Geluid"
 
 msgid "Outros"
-msgstr ""
+msgstr "Andere"
 
 msgid "Pesquisar Driver ou Firmware"
-msgstr ""
+msgstr "Stuurprogramma of firmware zoeken"
 
 msgid "Big-Driver-Manager"
-msgstr ""
+msgstr "Grote-Driver-Manager"
 
 msgid "Instalar ou Remover Drivers e Firmwares"
-msgstr ""
+msgstr "Stuurprogramma's en firmware installeren of verwijderen"
 
 msgid ""
 "Geralmente é preciso reiniciar o computador para o driver ou firmware ser "
 "aplicado."
 msgstr ""
+"Meestal moet de computer opnieuw opgestart worden om het stuurprogramma of "
+"de firmware te kunnen toepassen."
 
 msgid "Driver ou firmware"
-msgstr ""
+msgstr "Stuurprogramma of firmware"
 
 msgid "Este pacote fornece arquivos compatíveis com este computador."
-msgstr ""
+msgstr "Dit pakket bevat bestanden die compatibel zijn met deze computer."
 
 msgid "Concluído, reinicie o computador para ativar a configuração do driver."
 msgstr ""
+"Zodra u klaar bent, herstart u uw computer om de driverconfiguratie te "
+"activeren."
 
 msgid "Driver"
-msgstr ""
+msgstr "Bestuurder"
 
 msgid "Ocorreu um erro e o driver não pode ser aplicado."
 msgstr ""
+"Er is een fout opgetreden en het stuurprogramma kan niet worden toegepast."
 
 msgid "Swap (Memória Virtual)"
-msgstr ""
+msgstr "Swap (virtueel geheugen)"
 
 msgid "Conexões de Internet"
-msgstr ""
+msgstr "Internet Verbindingen"
 
 msgid "Dispositivos e conexões USB"
-msgstr ""
+msgstr "USB-apparaten en aansluitingen"
 
 msgid "Portas PCI"
-msgstr ""
+msgstr "PCI-poorten"
 
 msgid "Dispositivos de armazenamento"
-msgstr ""
+msgstr "Opslagapparatuur"
 
 msgid "Partições montadas"
-msgstr ""
+msgstr "Gemonteerde scheidingswanden"
 
 msgid "Partições desmontadas"
-msgstr ""
+msgstr "Ontmantelde scheidingswanden"
 
 msgid "Dispositivos lógicos"
-msgstr ""
+msgstr "Logische apparaten"
 
 msgid "Raid"
-msgstr ""
+msgstr "Overval"
 
 msgid "Informações"
-msgstr ""
+msgstr "Informatie"
 
 msgid "Repositórios"
-msgstr ""
+msgstr "Repositories"
 
 msgid ""
 "Digite sua senha para gerar um relatório removendo dados sensíveis, por "
 "exemplo, endereço de IP, ou cancele para utilizar as informações da tela "
 "anterior."
 msgstr ""
+"Voer uw wachtwoord in om een rapport te genereren waarin gevoelige gegevens, "
+"b.v. IP-adres, worden verwijderd, of annuleer om de informatie van het "
+"vorige scherm te gebruiken."
 
 msgid "Digite sua senha para gerar um relatório mais completo."
-msgstr ""
+msgstr "Voer uw wachtwoord in om een vollediger rapport te genereren."
 
 msgid "Enviando, aguarde..."
-msgstr ""
+msgstr "Zenden, even geduld..."

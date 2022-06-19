@@ -24,68 +24,79 @@ msgid ""
 "Você também pode utilizar o gerenciador de arquivos, clicar com o botão "
 "direito no arquivo PDF, 'Abrir com' e selecionar a opção de OCR."
 msgstr ""
+"Kies het PDF-bestand om OCR op toe te passen, zodat u teksten kunt zoeken of "
+"kopiëren.\n"
+"\n"
+"U kunt ook het bestandsbeheer gebruiken, klik met de rechtermuisknop op het "
+"PDF bestand, \"Openen met\" en kies de OCR optie."
 
 msgid "NORMAL"
-msgstr ""
+msgstr "NORMAAL"
 
 msgid "ECONÔMICO"
-msgstr ""
+msgstr "ECONOMISCH"
 
 msgid "MAIS ECONÔMICO"
-msgstr ""
+msgstr "MEER ECONOMISCH"
 
 msgid "ALINHAR"
-msgstr ""
+msgstr "ALIGN"
 
 msgid "AUTO ROTAÇÃO"
-msgstr ""
+msgstr "AUTO ROTATIE"
 
 msgid "ALINHAR E GIRAR AUTOMÁTICA"
-msgstr ""
+msgstr "AUTOMATISCH UITLIJNEN EN ROTEREN"
 
 msgid "NÃO MUDE"
-msgstr ""
+msgstr "NIET WIJZIGEN"
 
 msgid "ESPANHOL"
-msgstr ""
+msgstr "SPAANS"
 
 msgid "INGLÊS"
-msgstr ""
+msgstr "ENGELS"
 
 msgid "PORTUGUÊS"
-msgstr ""
+msgstr "PORTUGESE"
 
 msgid ""
 "Você pode optar por reduzir a qualidade da imagem.<br>Dessa forma você terá "
 "arquivos menores, facilitando,<br>por exemplo, enviá-los por e-mail."
 msgstr ""
+"U kunt kiezen om de beeldkwaliteit te verminderen.<br>Op die manier hebt u "
+"kleinere bestanden, zodat u<br>ze bijvoorbeeld gemakkelijker per e-mail kunt "
+"verzenden."
 
 msgid ""
 "Para adicionar novos idiomas, instale os complementos do tesseract no "
 "gerenciador de pacotes do sistema."
 msgstr ""
+"Om nieuwe talen toe te voegen, installeert u de tesseract add-ons in de "
+"systeem pakketbeheerder."
 
 msgid "Aplicar"
-msgstr ""
+msgstr "Solliciteer op"
 
 msgid "Torne seu PDF pesquisável"
-msgstr ""
+msgstr "Maak uw PDF doorzoekbaar"
 
 msgid ""
 "Adicionar OCR no PDF digitalizado permitindo seleção de textos e busca:"
 msgstr ""
+"Voeg OCR toe aan de gescande PDF om tekst te kunnen selecteren en zoeken:"
 
 msgid "OCR para PDF"
-msgstr ""
+msgstr "OCR voor PDF"
 
 msgid "Arquivo"
-msgstr ""
+msgstr "Bestand"
 
 msgid "Pasta:"
-msgstr ""
+msgstr "Map:"
 
 msgid "Abrir"
-msgstr ""
+msgstr "Open"
 
 msgid "Arquivo salvo: "
-msgstr ""
+msgstr "Bestand opgeslagen "

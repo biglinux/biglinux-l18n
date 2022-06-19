@@ -18,37 +18,41 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit"
 
 msgid "Desempenho"
-msgstr ""
+msgstr "Performans"
 
 msgid "Tema"
-msgstr ""
+msgstr "Tema"
 
 msgid ""
 "Renderizar o desktop via software<br><small>(Pode ser útil em máquina "
 "virtual)"
 msgstr ""
+"Masaüstünü yazılım aracılığıyla oluşturma<br><small>(Sanal makinede faydalı "
+"olabilir)"
 
 msgid ""
 "Utilizar GPU nos navegadores<br><small>(Desative no caso de distorção no "
 "vídeo)"
 msgstr ""
+"Tarayıcılarda GPU kullanma<br><small>(Video bozulması durumunda devre dışı "
+"bırakın)"
 
 msgid "Escolha o desktop:"
-msgstr ""
+msgstr "Masaüstünüzü seçin:"
 
 msgid "têm melhor desempenho."
-msgstr ""
+msgstr "daha iyi performans gösterir."
 
 msgid "e"
-msgstr ""
+msgstr "e"
 
 msgid "Escolha o modelo do teclado:"
-msgstr ""
+msgstr "Klavye modelinizi seçin:"
 
 msgid "Escolha o tema dos aplicativos:"
-msgstr ""
+msgstr "Uygulamaların temasını seçin:"
 
 msgid ""
 "Utilizando renderização por software, a qualidade das transparências será "
 "reduzida."
-msgstr ""
+msgstr "Yazılım oluşturma kullanıldığında asetatların kalitesi düşecektir."

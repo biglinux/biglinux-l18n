@@ -18,267 +18,279 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit"
 
 msgid "O Big-Hardware-Relatory já está em uso."
-msgstr ""
+msgstr "Big-Hardware-Relatory on juba kasutusel."
 
 msgid "Informações sobre o Hardware"
-msgstr ""
+msgstr "Riistvara teave"
 
 msgid "Este driver é software livre."
-msgstr ""
+msgstr "See draiver on tasuta tarkvara."
 
 msgid "Este driver é proprietário."
-msgstr ""
+msgstr "See draiver on patenteeritud."
 
 msgid "Este driver parece compatível com este computador."
-msgstr ""
+msgstr "See draiver näib olevat selle arvutiga ühilduv."
 
 msgid "Remover"
-msgstr ""
+msgstr "Eemaldage"
 
 msgid "Instalar"
-msgstr ""
+msgstr "Paigaldage"
 
 msgid ""
 "Já existe outro driver nVidia instalado, para instalar este driver, remova "
 "primeiro o driver instalado."
 msgstr ""
+"On juba paigaldatud teine nVidia draiver, selle draiveri paigaldamiseks "
+"eemaldage esmalt paigaldatud draiver."
 
 msgid "Desativado"
-msgstr ""
+msgstr "Puudega inimesed"
 
 msgid "Categorias"
-msgstr ""
+msgstr "Kategooriad"
 
 msgid "Principais"
-msgstr ""
+msgstr "Main"
 
 msgid "Resumo"
-msgstr ""
+msgstr "Kokkuvõte"
 
 msgid "Processador"
-msgstr ""
+msgstr "Protsessor"
 
 msgid "Placa de vídeo"
-msgstr ""
+msgstr "Videokaart"
 
 msgid "Placa mãe"
-msgstr ""
+msgstr "Emaplaat"
 
 msgid "Memória"
-msgstr ""
+msgstr "Mälu"
 
 msgid "Rede"
-msgstr ""
+msgstr "Võrk"
 
 msgid "Usb"
-msgstr ""
+msgstr "Usb"
 
 msgid "Pci"
-msgstr ""
+msgstr "Pci"
 
 msgid "Bateria"
-msgstr ""
+msgstr "Aku"
 
 msgid "Armazenamento"
-msgstr ""
+msgstr "Ladustamine"
 
 msgid "Sistema"
-msgstr ""
+msgstr "Süsteem"
 
 msgid "Bluetooth"
-msgstr ""
+msgstr "Bluetooth"
 
 msgid "Temperatura"
-msgstr ""
+msgstr "Temperatuur"
 
 msgid "Impressora"
-msgstr ""
+msgstr "Printer"
 
 msgid "Áudio"
-msgstr ""
+msgstr "Audio"
 
 msgid "Mais informações"
-msgstr ""
+msgstr "Lisateave"
 
 msgid "Pesquisar"
-msgstr ""
+msgstr "Otsi"
 
 msgid "Resultado da pesquisa"
-msgstr ""
+msgstr "Otsingu tulemus"
 
 msgid "Informações de Hardware"
-msgstr ""
+msgstr "Riistvara teave"
 
 msgid "Informações Sobre o Sistema e o Hardware"
-msgstr ""
+msgstr "Teave süsteemi ja riistvara kohta"
 
 msgid "Memória RAM:"
-msgstr ""
+msgstr "RAM-mälu:"
 
 msgid "Vídeo:"
-msgstr ""
+msgstr "Video:"
 
 msgid "Instalado na partição:"
-msgstr ""
+msgstr "Paigaldatud partitsioonile:"
 
 msgid "Tamanho da partição:"
-msgstr ""
+msgstr "Jaotise suurus:"
 
 msgid "Espaço utilizado:"
-msgstr ""
+msgstr "Kasutatud ruum:"
 
 msgid "Espaço livre:"
-msgstr ""
+msgstr "Vaba ruum:"
 
 msgid "Data que o sistema foi instalado:"
-msgstr ""
+msgstr "Süsteemi paigaldamise kuupäev:"
 
 msgid "Kernel em uso:"
-msgstr ""
+msgstr "Kasutatav tuum:"
 
 msgid "Instalar ou Remover Drivers"
-msgstr ""
+msgstr "Paigaldage või eemaldage draiverid"
 
 msgid ""
 "O BigLinux inclui milhares de drivers e firmwares por padrão, porém ainda "
 "pode ser necessário instalar mais alguns."
 msgstr ""
+"BigLinux sisaldab vaikimisi tuhandeid draivereid ja püsivara, kuid võite "
+"siiski vajada veel mõne installimist."
 
 msgid "Gerar Relatório"
-msgstr ""
+msgstr "Aruande koostamine"
 
 msgid "Cria um arquivo com informações que pode ser publicado na internet."
-msgstr ""
+msgstr "See loob faili teabega, mida saab Internetis avaldada."
 
 msgid "Ver informações do dispositivo no Linux Hardware"
-msgstr ""
+msgstr "Seadme teabe vaatamine Linuxi riistvara kohta"
 
 msgid "Categoria"
-msgstr ""
+msgstr "Kategooria"
 
 msgid "ID"
-msgstr ""
+msgstr "ID"
 
 msgid "Info"
-msgstr ""
+msgstr "Info"
 
 msgid "Enviar para transfer.sh"
-msgstr ""
+msgstr "Saada transfer.sh"
 
 msgid "Visualizar"
-msgstr ""
+msgstr "Vaata"
 
 msgid "O relatório foi salvo no arquivo:"
-msgstr ""
+msgstr "Aruanne on salvestatud arhiivi:"
 
 msgid ""
 "Deseja visualizar o arquivo ou envia-lo ao site transfer.sh, para ter uma "
 "URL com os dados do seu computador de forma fácil de compartilhar?"
 msgstr ""
+"Kas soovite faili vaadata või saata selle transfer.sh, et saada URL-i oma "
+"arvutist andmete lihtsaks jagamiseks?"
 
 msgid "Driver detectado:"
-msgstr ""
+msgstr "Juhi tuvastamine:"
 
 msgid "<small>* A detecção não inclui impressoras e scanners</small>"
-msgstr ""
+msgstr "<small>* Tuvastus ei hõlma printereid ja skannereid</small>"
 
 msgid "Wifi"
-msgstr ""
+msgstr "Wifi"
 
 msgid "Rede Cabeada"
-msgstr ""
+msgstr "Traadiga võrk"
 
 msgid "Impressora 3D"
-msgstr ""
+msgstr "3D-printer"
 
 msgid "Scanner"
-msgstr ""
+msgstr "Skanner"
 
 msgid "TV Digital"
-msgstr ""
+msgstr "Digitaalne televisioon"
 
 msgid "Webcam"
-msgstr ""
+msgstr "Veebikaamera"
 
 msgid "Touchscreen"
-msgstr ""
+msgstr "Puuteekraan"
 
 msgid "Som"
-msgstr ""
+msgstr "Heli"
 
 msgid "Outros"
-msgstr ""
+msgstr "Muud"
 
 msgid "Pesquisar Driver ou Firmware"
-msgstr ""
+msgstr "Juhi või püsivara otsimine"
 
 msgid "Big-Driver-Manager"
-msgstr ""
+msgstr "Big-Driver-Manager"
 
 msgid "Instalar ou Remover Drivers e Firmwares"
-msgstr ""
+msgstr "Paigaldage või eemaldage draiverid ja püsivara"
 
 msgid ""
 "Geralmente é preciso reiniciar o computador para o driver ou firmware ser "
 "aplicado."
 msgstr ""
+"Tavaliselt on vajalik arvuti taaskäivitamine, et draiver või püsivara saaks "
+"rakendatud."
 
 msgid "Driver ou firmware"
-msgstr ""
+msgstr "Juhi või püsivara"
 
 msgid "Este pacote fornece arquivos compatíveis com este computador."
-msgstr ""
+msgstr "See pakett sisaldab selle arvutiga ühilduvaid faile."
 
 msgid "Concluído, reinicie o computador para ativar a configuração do driver."
 msgstr ""
+"Kui olete lõpetanud, käivitage arvuti uuesti, et aktiveerida draiveri "
+"konfiguratsioon."
 
 msgid "Driver"
-msgstr ""
+msgstr "Juht"
 
 msgid "Ocorreu um erro e o driver não pode ser aplicado."
-msgstr ""
+msgstr "Tekkis viga ja draiverit ei saa rakendada."
 
 msgid "Swap (Memória Virtual)"
-msgstr ""
+msgstr "Vahetus (virtuaalne mälu)"
 
 msgid "Conexões de Internet"
-msgstr ""
+msgstr "Interneti-ühendused"
 
 msgid "Dispositivos e conexões USB"
-msgstr ""
+msgstr "USB-seadmed ja ühendused"
 
 msgid "Portas PCI"
-msgstr ""
+msgstr "PCI-pordid"
 
 msgid "Dispositivos de armazenamento"
-msgstr ""
+msgstr "Salvestusseadmed"
 
 msgid "Partições montadas"
-msgstr ""
+msgstr "Paigaldatud vaheseinad"
 
 msgid "Partições desmontadas"
-msgstr ""
+msgstr "Demonteeritud vaheseinad"
 
 msgid "Dispositivos lógicos"
-msgstr ""
+msgstr "Loogikaseadmed"
 
 msgid "Raid"
-msgstr ""
+msgstr "Raid"
 
 msgid "Informações"
-msgstr ""
+msgstr "Teave"
 
 msgid "Repositórios"
-msgstr ""
+msgstr "Repositooriumid"
 
 msgid ""
 "Digite sua senha para gerar um relatório removendo dados sensíveis, por "
 "exemplo, endereço de IP, ou cancele para utilizar as informações da tela "
 "anterior."
 msgstr ""
+"Sisestage oma parool, et luua aruanne, millest on eemaldatud tundlikud "
+"andmed, nt IP-aadress, või tühistage, et kasutada eelmise ekraani teavet."
 
 msgid "Digite sua senha para gerar um relatório mais completo."
-msgstr ""
+msgstr "Täielikuma aruande koostamiseks sisestage oma parool."
 
 msgid "Enviando, aguarde..."
-msgstr ""
+msgstr "Saatmine, palun oodake..."

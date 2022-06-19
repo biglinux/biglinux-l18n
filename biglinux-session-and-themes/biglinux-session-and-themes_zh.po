@@ -81,7 +81,7 @@ msgstr "圆形的边缘。"
 msgid ""
 "Esse tema possui transparências com efeitos que<br>podem tornar o sistema "
 "lento em computadores<br>antigos ou ambientes virtualizados."
-msgstr "这个主题有透明的效果，<br>在旧电脑<br>或虚拟环境</br></br>中会<br>降低系统速度</br>。"
+msgstr "此主題具有透明效果，<br>可能會降低舊<br>計算機或虛擬化環境中的系統速度。"
 
 msgid "<b>Classic</b> e <b>New</b> têm melhor desempenho."
 msgstr "<b>经典</b>和<b>新版</b>有更好的性能。"

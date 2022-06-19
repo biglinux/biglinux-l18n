@@ -18,267 +18,278 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit"
 
 msgid "O Big-Hardware-Relatory já está em uso."
-msgstr ""
+msgstr "Big-Hardware-Relatory ужо выкарыстоўваецца."
 
 msgid "Informações sobre o Hardware"
-msgstr ""
+msgstr "Інфармацыя аб абсталяванні"
 
 msgid "Este driver é software livre."
-msgstr ""
+msgstr "Гэты драйвер бясплатная праграма."
 
 msgid "Este driver é proprietário."
-msgstr ""
+msgstr "Гэты драйвер з&#39;яўляецца ўласнасцю."
 
 msgid "Este driver parece compatível com este computador."
-msgstr ""
+msgstr "Здаецца, гэты драйвер сумяшчальны з гэтым кампутарам."
 
 msgid "Remover"
-msgstr ""
+msgstr "Выдаліць"
 
 msgid "Instalar"
-msgstr ""
+msgstr "Ўсталяваць"
 
 msgid ""
 "Já existe outro driver nVidia instalado, para instalar este driver, remova "
 "primeiro o driver instalado."
 msgstr ""
+"Ужо ўсталяваны іншы драйвер nVidia, каб усталяваць гэты драйвер, спачатку "
+"выдаліце ўсталяваны драйвер."
 
 msgid "Desativado"
-msgstr ""
+msgstr "Адключаны"
 
 msgid "Categorias"
-msgstr ""
+msgstr "Катэгорыі"
 
 msgid "Principais"
-msgstr ""
+msgstr "Галоўны"
 
 msgid "Resumo"
-msgstr ""
+msgstr "Рэзюмэ"
 
 msgid "Processador"
-msgstr ""
+msgstr "Працэсар"
 
 msgid "Placa de vídeo"
-msgstr ""
+msgstr "Відэакарта"
 
 msgid "Placa mãe"
-msgstr ""
+msgstr "Матчына плата"
 
 msgid "Memória"
-msgstr ""
+msgstr "Памяць"
 
 msgid "Rede"
-msgstr ""
+msgstr "Сетка"
 
 msgid "Usb"
-msgstr ""
+msgstr "USB"
 
 msgid "Pci"
-msgstr ""
+msgstr "PCI"
 
 msgid "Bateria"
-msgstr ""
+msgstr "Барабаны"
 
 msgid "Armazenamento"
-msgstr ""
+msgstr "Захоўванне"
 
 msgid "Sistema"
-msgstr ""
+msgstr "Сістэма"
 
 msgid "Bluetooth"
-msgstr ""
+msgstr "Bluetooth"
 
 msgid "Temperatura"
-msgstr ""
+msgstr "Тэмпература"
 
 msgid "Impressora"
-msgstr ""
+msgstr "Прынтэр"
 
 msgid "Áudio"
-msgstr ""
+msgstr "аўдыё"
 
 msgid "Mais informações"
-msgstr ""
+msgstr "Больш інфармацыі"
 
 msgid "Pesquisar"
-msgstr ""
+msgstr "Пошук"
 
 msgid "Resultado da pesquisa"
-msgstr ""
+msgstr "вынік пошуку"
 
 msgid "Informações de Hardware"
-msgstr ""
+msgstr "Інфармацыя аб абсталяванні"
 
 msgid "Informações Sobre o Sistema e o Hardware"
-msgstr ""
+msgstr "Інфармацыя пра сістэму і абсталяванне"
 
 msgid "Memória RAM:"
-msgstr ""
+msgstr "Аператыўная памяць:"
 
 msgid "Vídeo:"
-msgstr ""
+msgstr "Відэа:"
 
 msgid "Instalado na partição:"
-msgstr ""
+msgstr "Усталявана на раздзел:"
 
 msgid "Tamanho da partição:"
-msgstr ""
+msgstr "Памер падзелу:"
 
 msgid "Espaço utilizado:"
-msgstr ""
+msgstr "Выкарыстанае месца:"
 
 msgid "Espaço livre:"
-msgstr ""
+msgstr "Вольная прастора:"
 
 msgid "Data que o sistema foi instalado:"
-msgstr ""
+msgstr "Дата ўстаноўкі сістэмы:"
 
 msgid "Kernel em uso:"
-msgstr ""
+msgstr "Ядро ў выкарыстанні:"
 
 msgid "Instalar ou Remover Drivers"
-msgstr ""
+msgstr "Ўстаноўка або выдаленне драйвераў"
 
 msgid ""
 "O BigLinux inclui milhares de drivers e firmwares por padrão, porém ainda "
 "pode ser necessário instalar mais alguns."
 msgstr ""
+"BigLinux па змаўчанні ўключае тысячы драйвераў і прашыўкі, але вам усё роўна "
+"спатрэбіцца ўсталяваць яшчэ некалькі."
 
 msgid "Gerar Relatório"
-msgstr ""
+msgstr "Стварыць справаздачу"
 
 msgid "Cria um arquivo com informações que pode ser publicado na internet."
-msgstr ""
+msgstr "Стварае файл з інфармацыяй, якую можна апублікаваць у Інтэрнэце."
 
 msgid "Ver informações do dispositivo no Linux Hardware"
-msgstr ""
+msgstr "Прагляд інфармацыі аб прыладзе ў Linux Hardware"
 
 msgid "Categoria"
-msgstr ""
+msgstr "Катэгорыя"
 
 msgid "ID"
-msgstr ""
+msgstr "ID"
 
 msgid "Info"
-msgstr ""
+msgstr "інфармацыя"
 
 msgid "Enviar para transfer.sh"
-msgstr ""
+msgstr "Адправіць на transfer.sh"
 
 msgid "Visualizar"
-msgstr ""
+msgstr "Для прагляду"
 
 msgid "O relatório foi salvo no arquivo:"
-msgstr ""
+msgstr "Справаздача была захавана ў файле:"
 
 msgid ""
 "Deseja visualizar o arquivo ou envia-lo ao site transfer.sh, para ter uma "
 "URL com os dados do seu computador de forma fácil de compartilhar?"
 msgstr ""
+"Вы хочаце праглядзець файл або загрузіць яго на вэб-сайт transfer.sh, каб "
+"мець URL з дадзенымі з вашага камп&#39;ютара, якімі можна лёгка абагуліць?"
 
 msgid "Driver detectado:"
-msgstr ""
+msgstr "Выяўлены драйвер:"
 
 msgid "<small>* A detecção não inclui impressoras e scanners</small>"
-msgstr ""
+msgstr "<small>* Выяўленне не ўключае прынтэры і сканары</small>"
 
 msgid "Wifi"
-msgstr ""
+msgstr "Wi-Fi"
 
 msgid "Rede Cabeada"
-msgstr ""
+msgstr "правадная сетка"
 
 msgid "Impressora 3D"
-msgstr ""
+msgstr "3d прынтэр"
 
 msgid "Scanner"
-msgstr ""
+msgstr "сканер"
 
 msgid "TV Digital"
-msgstr ""
+msgstr "Лічбавае тэлебачанне"
 
 msgid "Webcam"
-msgstr ""
+msgstr "вэбкамера"
 
 msgid "Touchscreen"
-msgstr ""
+msgstr "Сэнсарны экран"
 
 msgid "Som"
-msgstr ""
+msgstr "Гук"
 
 msgid "Outros"
-msgstr ""
+msgstr "Іншыя"
 
 msgid "Pesquisar Driver ou Firmware"
-msgstr ""
+msgstr "Пошук драйвераў або прашыўкі"
 
 msgid "Big-Driver-Manager"
-msgstr ""
+msgstr "Вялікі кіроўца-менеджар"
 
 msgid "Instalar ou Remover Drivers e Firmwares"
-msgstr ""
+msgstr "Ўстаноўка або выдаленне драйвераў і прашыўкі"
 
 msgid ""
 "Geralmente é preciso reiniciar o computador para o driver ou firmware ser "
 "aplicado."
 msgstr ""
+"Звычайна неабходна перазагрузіць кампутар, каб драйвер або прашыўка ўступілі "
+"ў сілу."
 
 msgid "Driver ou firmware"
-msgstr ""
+msgstr "Драйвер або прашыўка"
 
 msgid "Este pacote fornece arquivos compatíveis com este computador."
-msgstr ""
+msgstr "Гэты пакет змяшчае файлы, сумяшчальныя з гэтым камп&#39;ютарам."
 
 msgid "Concluído, reinicie o computador para ativar a configuração do driver."
-msgstr ""
+msgstr "Завершана, перазагрузіце кампутар, каб актываваць наладу драйвера."
 
 msgid "Driver"
-msgstr ""
+msgstr "кіроўца"
 
 msgid "Ocorreu um erro e o driver não pode ser aplicado."
-msgstr ""
+msgstr "Адбылася памылка, і драйвер нельга ўжыць."
 
 msgid "Swap (Memória Virtual)"
-msgstr ""
+msgstr "Памяняць месцамі (віртуальная памяць)"
 
 msgid "Conexões de Internet"
-msgstr ""
+msgstr "Інтэрнэт-злучэння"
 
 msgid "Dispositivos e conexões USB"
-msgstr ""
+msgstr "USB-прылады і злучэнні"
 
 msgid "Portas PCI"
-msgstr ""
+msgstr "парты PCI"
 
 msgid "Dispositivos de armazenamento"
-msgstr ""
+msgstr "прылады захоўвання дадзеных"
 
 msgid "Partições montadas"
-msgstr ""
+msgstr "змантаваныя перагародкі"
 
 msgid "Partições desmontadas"
-msgstr ""
+msgstr "размантаваныя раздзелы"
 
 msgid "Dispositivos lógicos"
-msgstr ""
+msgstr "лагічныя прылады"
 
 msgid "Raid"
-msgstr ""
+msgstr "налёт"
 
 msgid "Informações"
-msgstr ""
+msgstr "Інфармацыя"
 
 msgid "Repositórios"
-msgstr ""
+msgstr "сховішчы"
 
 msgid ""
 "Digite sua senha para gerar um relatório removendo dados sensíveis, por "
 "exemplo, endereço de IP, ou cancele para utilizar as informações da tela "
 "anterior."
 msgstr ""
+"Увядзіце свой пароль, каб стварыць справаздачу аб выдаленні канфідэнцыяльных "
+"даных, напрыклад, IP-адрас, або адмяніце, каб выкарыстоўваць інфармацыю з "
+"папярэдняга экрана."
 
 msgid "Digite sua senha para gerar um relatório mais completo."
-msgstr ""
+msgstr "Увядзіце свой пароль, каб стварыць больш поўную справаздачу."
 
 msgid "Enviando, aguarde..."
-msgstr ""
+msgstr "Адпраўка, пачакайце..."

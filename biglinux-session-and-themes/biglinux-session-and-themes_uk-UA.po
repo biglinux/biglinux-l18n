@@ -21,9 +21,11 @@ msgid ""
 "Configuração alterada, se estiver utilizando o navegador, reinicie-o para "
 "que a nova configuração seja aplicada."
 msgstr ""
+"Змінена конфігурація, якщо ви використовуєте браузер, перезапустіть його, "
+"щоб нова конфігурація почала діяти."
 
 msgid "Se estiver utilizando algum navegador, feche-o e abra novamente!"
-msgstr ""
+msgstr "Якщо ви використовуєте браузер, закрийте його та відкрийте знову!"
 
 msgid ""
 "\n"
@@ -32,6 +34,11 @@ msgid ""
 "\n"
 "Selecione não para utilizar a configuração padrão do sistema.\n"
 msgstr ""
+"\n"
+"Вибрана конфігурація робочого столу вже використовувалася в цій системі,\n"
+"ви хочете відновити конфігурацію, яка вже використовувалася?\n"
+"\n"
+"Виберіть ні, щоб використовувати конфігурацію системи за замовчуванням.\n"
 
 msgid ""
 "Configuração aplicada!\n"
@@ -40,130 +47,142 @@ msgid ""
 "para que a configuração termine de\n"
 "ser aplicada."
 msgstr ""
+"Конфігурація застосована!\n"
+"\n"
+"Вийдіть і знову ввійдіть для завершення конфігурації застосовуватися."
 
 msgid "Temas"
-msgstr ""
+msgstr "теми"
 
 msgid "Desktop"
-msgstr ""
+msgstr "Робочий стіл"
 
 msgid "Ajustes"
-msgstr ""
+msgstr "Налаштування"
 
 msgid "Temas, Desktop e Ajustes"
-msgstr ""
+msgstr "Теми, робочий стіл і налаштування"
 
 msgid "Desempenho do desktop"
-msgstr ""
+msgstr "продуктивність робочого столу"
 
 msgid "Aceleração do navegador"
-msgstr ""
+msgstr "прискорення браузера"
 
 msgid "Usabilidade"
-msgstr ""
+msgstr "Зручність використання"
 
 msgid "Tema dos aplicativos"
-msgstr ""
+msgstr "Тема додатків"
 
 msgid "Bordas arredondadas."
-msgstr ""
+msgstr "Закруглені краї."
 
 msgid ""
 "Esse tema possui transparências com efeitos que<br>podem tornar o sistema "
 "lento em computadores<br>antigos ou ambientes virtualizados."
 msgstr ""
+"Ця тема містить прозорі плівки з ефектами, які<br>можуть уповільнити роботу "
+"системи на старих<br>комп’ютерах або віртуалізованих середовищах."
 
 msgid "<b>Classic</b> e <b>New</b> têm melhor desempenho."
-msgstr ""
+msgstr "<b> Класичний </b> і <b> Новий </b> працюють краще."
 
 msgid "Renderizar o desktop via software"
-msgstr ""
+msgstr "Відтворіть робочий стіл за допомогою програмного забезпечення"
 
 msgid "(Pode ser útil em máquina virtual ou computadores antigos)"
-msgstr ""
+msgstr "(Може бути корисним на віртуальній машині або старих комп’ютерах)"
 
 msgid "Escolher programas a serem carregados na memória durante boot"
-msgstr ""
+msgstr "Виберіть програми для завантаження в пам'ять під час завантаження"
 
 msgid ""
 "O Preload carrega arquivos dos programas na memória, para que iniciem "
 "rapidamente. O uso excessivo causa lentidão. Escolha a opção desejada:"
 msgstr ""
+"Попереднє завантаження завантажує програмні файли в пам’ять, щоб вони швидко "
+"запускалися. Надмірне використання викликає уповільнення. Виберіть потрібний "
+"варіант:"
 
 msgid "Automático"
-msgstr ""
+msgstr "Автоматичний"
 
 msgid "Ativar"
-msgstr ""
+msgstr "активувати"
 
 msgid "Desativar"
-msgstr ""
+msgstr "вимкнути"
 
 msgid "Configurações do Brave"
-msgstr ""
+msgstr "Brave Settings"
 
 msgid "Escolha a opção desejada:"
-msgstr ""
+msgstr "Виберіть потрібний варіант:"
 
 msgid "Remover propagandas"
-msgstr ""
+msgstr "видалити рекламу"
 
 msgid "Suportar criptomoedas"
-msgstr ""
+msgstr "підтримка криптовалюти"
 
 msgid "Botões da janela no lado esquerdo"
-msgstr ""
+msgstr "Кнопки вікна з лівого боку"
 
 msgid "Rolagem do mouse invertida"
-msgstr ""
+msgstr "Перевернута прокрутка миші"
 
 msgid "Pesquisar arquivos"
-msgstr ""
+msgstr "пошук файлів"
 
 msgid "Bloquear a área de trabalho"
-msgstr ""
+msgstr "Заблокуйте робочу область"
 
 msgid "Tema aplicado"
-msgstr ""
+msgstr "Прикладна тема"
 
 msgid ""
 "É preciso reiniciar a sessão para concluir a configuração. Deseja fazer "
 "agora?"
 msgstr ""
+"Щоб завершити налаштування, необхідно перезапустити сеанс. Ви хочете зробити "
+"це зараз?"
 
 msgid "Configuração do Desktop"
-msgstr ""
+msgstr "Конфігурація робочого столу"
 
 msgid ""
 "Você já utilizou esse desktop antes, deseja  restaurar sua personalização ou "
 "utilizar a configuração original?"
 msgstr ""
+"Ви використовували цей робочий стіл раніше, хочете відновити свої "
+"налаштування чи використати оригінальну конфігурацію?"
 
 msgid "Sim"
-msgstr ""
+msgstr "Так"
 
 msgid "Não"
-msgstr ""
+msgstr "Ні"
 
 msgid "Original"
-msgstr ""
+msgstr "Оригінал"
 
 msgid "Restaurar"
-msgstr ""
+msgstr "Відновити"
 
 msgid "Desktop aplicado"
-msgstr ""
+msgstr "Робочий стіл застосовано"
 
 msgid ""
 "Utilizando renderização por software, a qualidade das transparências está "
 "reduzida."
-msgstr ""
+msgstr "Використання програмного рендеринга знижує якість прозорих плівк."
 
 msgid "Desempenho em modo normal!"
-msgstr ""
+msgstr "Продуктивність в оптимізованому режимі!"
 
 msgid "Desempenho em modo otimizado!"
-msgstr ""
+msgstr "Продуктивність в оптимізованому режимі!"
 
 msgid "Desempenho em modo performance!"
-msgstr ""
+msgstr "Продуктивність у режимі продуктивності!"

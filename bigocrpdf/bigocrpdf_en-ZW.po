@@ -1,0 +1,100 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the bigocrpdf package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: bigocrpdf\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-06-08 21:46-0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: en_ZW\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit"
+
+msgid ""
+"Escolha o arquivo PDF para aplicar o OCR, com isso será possível efetuar "
+"buscas ou copiar textos.\n"
+"\n"
+"Você também pode utilizar o gerenciador de arquivos, clicar com o botão "
+"direito no arquivo PDF, 'Abrir com' e selecionar a opção de OCR."
+msgstr ""
+"Choose the PDF file to apply OCR to, so you can search or copy texts.\n"
+"\n"
+"You can also use the file manager, right-click on the PDF file, 'Open with' "
+"and select the OCR option."
+
+msgid "NORMAL"
+msgstr "NORMAL"
+
+msgid "ECONÔMICO"
+msgstr "ECONOMIC"
+
+msgid "MAIS ECONÔMICO"
+msgstr "MORE ECONOMIC"
+
+msgid "ALINHAR"
+msgstr "ALIGN"
+
+msgid "AUTO ROTAÇÃO"
+msgstr "AUTO ROTATION"
+
+msgid "ALINHAR E GIRAR AUTOMÁTICA"
+msgstr "AUTOMATIC ALIGN AND ROTATE"
+
+msgid "NÃO MUDE"
+msgstr "DO NOT CHANGE"
+
+msgid "ESPANHOL"
+msgstr "SPANISH"
+
+msgid "INGLÊS"
+msgstr "ENGLISH"
+
+msgid "PORTUGUÊS"
+msgstr "PORTUGUESE"
+
+msgid ""
+"Você pode optar por reduzir a qualidade da imagem.<br>Dessa forma você terá "
+"arquivos menores, facilitando,<br>por exemplo, enviá-los por e-mail."
+msgstr ""
+"You can choose to reduce the image quality.<br>This way you will have "
+"smaller files, making<br>it</br>easier, for<br>example,</br>to<br>send them "
+"by e-mail</br></br>."
+
+msgid ""
+"Para adicionar novos idiomas, instale os complementos do tesseract no "
+"gerenciador de pacotes do sistema."
+msgstr ""
+"To add new languages, install the tesseract add-ons in the system package "
+"manager."
+
+msgid "Aplicar"
+msgstr "Apply"
+
+msgid "Torne seu PDF pesquisável"
+msgstr "Make your PDF searchable"
+
+msgid ""
+"Adicionar OCR no PDF digitalizado permitindo seleção de textos e busca:"
+msgstr "Add OCR to the scanned PDF allowing text selection and searching:"
+
+msgid "OCR para PDF"
+msgstr "OCR for PDF"
+
+msgid "Arquivo"
+msgstr "File"
+
+msgid "Pasta:"
+msgstr "Folder:"
+
+msgid "Abrir"
+msgstr "Open"
+
+msgid "Arquivo salvo: "
+msgstr "File saved "

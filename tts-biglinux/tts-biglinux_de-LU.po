@@ -1,0 +1,72 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the tts-biglinux package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: tts-biglinux\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-06-08 21:46-0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: de_LU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit"
+
+msgid "Configurações de texto para voz"
+msgstr "Einstellungen für Text in Sprache"
+
+msgid "Vozes - Abrir BigStore"
+msgstr "Stimmen - BigStore öffnen"
+
+msgid "Voice Configuration"
+msgstr "Sprachkonfiguration"
+
+msgid "Configurar voz"
+msgstr "Sprache konfigurieren"
+
+msgid "Para falar um texto selecionado use o atalho "
+msgstr ""
+"Um einen ausgewählten Text zu sprechen, verwenden Sie die Tastenkombination "
+
+msgid "[Alt] + [V]"
+msgstr "[Alt] + [V]"
+
+msgid ""
+"ou o ícone na sessão Utilitários no menu do sistema. Para interromper a "
+"leitura use novamene o atalho ou ícone."
+msgstr ""
+"oder das Symbol in der Rubrik Dienstprogramme des Systemmenüs. Um das Lesen "
+"zu beenden, verwenden Sie erneut den Shortcut oder das Symbol."
+
+msgid "Selecione as configurações de sua preferência"
+msgstr "Wählen Sie Ihre bevorzugten Einstellungen"
+
+msgid "Números maiores deixam a voz mais rápida, o padrão é: -25"
+msgstr ""
+"Größere Zahlen machen die Stimme schneller, die Voreinstellung ist: -25"
+
+msgid "Velocidade"
+msgstr "Geschwindigkeit"
+
+msgid "Números maiores deixam a voz mais aguda, o padrão é: -25"
+msgstr "Höhere Zahlen machen die Stimme höher, der Standard ist: -25"
+
+msgid "Tom"
+msgstr "Tom"
+
+msgid "O padrão é: 0."
+msgstr "Die Voreinstellung ist: 0."
+
+msgid "Volume"
+msgstr "Band"
+
+msgid "As vozes são otimizadas para idiomas expecíficos."
+msgstr "Die Stimmen sind für bestimmte Sprachen optimiert."
+
+msgid "Voz"
+msgstr "Stimme"

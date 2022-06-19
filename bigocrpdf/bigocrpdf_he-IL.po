@@ -24,68 +24,75 @@ msgid ""
 "Você também pode utilizar o gerenciador de arquivos, clicar com o botão "
 "direito no arquivo PDF, 'Abrir com' e selecionar a opção de OCR."
 msgstr ""
+"בחר את קובץ ה- PDF להחלת OCR, איתו ניתן יהיה לחפש או להעתיק טקסטים.\n"
+"\n"
+"אתה יכול גם להשתמש במנהל הקבצים, לחץ באמצעות לחצן העכבר הימני על קובץ ה- "
+"PDF, 'פתח באמצעות' ובחר באפשרות OCR."
 
 msgid "NORMAL"
-msgstr ""
+msgstr "נורמלי"
 
 msgid "ECONÔMICO"
-msgstr ""
+msgstr "חסכוני"
 
 msgid "MAIS ECONÔMICO"
-msgstr ""
+msgstr "חסכוני יותר"
 
 msgid "ALINHAR"
-msgstr ""
+msgstr "ליישר"
 
 msgid "AUTO ROTAÇÃO"
-msgstr ""
+msgstr "סיבוב אוטומטי"
 
 msgid "ALINHAR E GIRAR AUTOMÁTICA"
-msgstr ""
+msgstr "אוטומטי ליישר ולסובב"
 
 msgid "NÃO MUDE"
-msgstr ""
+msgstr "אל תשתנה"
 
 msgid "ESPANHOL"
-msgstr ""
+msgstr "ספרדית"
 
 msgid "INGLÊS"
-msgstr ""
+msgstr "אנגלית"
 
 msgid "PORTUGUÊS"
-msgstr ""
+msgstr "פורטוגזית"
 
 msgid ""
 "Você pode optar por reduzir a qualidade da imagem.<br>Dessa forma você terá "
 "arquivos menores, facilitando,<br>por exemplo, enviá-los por e-mail."
 msgstr ""
+"אתה יכול לבחור להוריד את איכות התמונה. <br>בדרךזו יהיו לך קבצים קטנים יותר, "
+"מה שמקל<br>, למשל, לשלוח אותם בדוא\"ל."
 
 msgid ""
 "Para adicionar novos idiomas, instale os complementos do tesseract no "
 "gerenciador de pacotes do sistema."
 msgstr ""
+"כדי להוסיף שפות חדשות, התקן את הרחבות tesseract במנהל החבילות של המערכת."
 
 msgid "Aplicar"
-msgstr ""
+msgstr "החל"
 
 msgid "Torne seu PDF pesquisável"
-msgstr ""
+msgstr "הפוך את קובץ ה- PDF לחיפוש"
 
 msgid ""
 "Adicionar OCR no PDF digitalizado permitindo seleção de textos e busca:"
-msgstr ""
+msgstr "הוסף זיהוי תווים אופטי (OCR) למסמך PDF הסרוק המאפשר בחירת טקסט וחיפוש"
 
 msgid "OCR para PDF"
-msgstr ""
+msgstr "זיהוי תווים אופטי ל- PDF"
 
 msgid "Arquivo"
-msgstr ""
+msgstr "קובץ"
 
 msgid "Pasta:"
-msgstr ""
+msgstr "תיקייה:"
 
 msgid "Abrir"
-msgstr ""
+msgstr "פתוח"
 
 msgid "Arquivo salvo: "
-msgstr ""
+msgstr "קובץ שמור: "

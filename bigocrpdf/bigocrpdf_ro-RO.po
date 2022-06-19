@@ -24,68 +24,80 @@ msgid ""
 "Você também pode utilizar o gerenciador de arquivos, clicar com o botão "
 "direito no arquivo PDF, 'Abrir com' e selecionar a opção de OCR."
 msgstr ""
+"Alegeți fișierul PDF la care doriți să aplicați OCR, astfel încât să puteți "
+"căuta sau copia texte.\n"
+"\n"
+"De asemenea, puteți utiliza managerul de fișiere, faceți clic dreapta pe "
+"fișierul PDF, \"Open with\" (Deschidere cu) și selectați opțiunea OCR."
 
 msgid "NORMAL"
-msgstr ""
+msgstr "NORMAL"
 
 msgid "ECONÔMICO"
-msgstr ""
+msgstr "ECONOMIC"
 
 msgid "MAIS ECONÔMICO"
-msgstr ""
+msgstr "MAI ECONOMIC"
 
 msgid "ALINHAR"
-msgstr ""
+msgstr "ALINIAȚI"
 
 msgid "AUTO ROTAÇÃO"
-msgstr ""
+msgstr "ROTAȚIE AUTOMATĂ"
 
 msgid "ALINHAR E GIRAR AUTOMÁTICA"
-msgstr ""
+msgstr "ALINIEREA ȘI ROTIREA AUTOMATĂ"
 
 msgid "NÃO MUDE"
-msgstr ""
+msgstr "NU SCHIMBAȚI"
 
 msgid "ESPANHOL"
-msgstr ""
+msgstr "SPANIOL"
 
 msgid "INGLÊS"
-msgstr ""
+msgstr "ENGLISH"
 
 msgid "PORTUGUÊS"
-msgstr ""
+msgstr "PORTUGHEZ"
 
 msgid ""
 "Você pode optar por reduzir a qualidade da imagem.<br>Dessa forma você terá "
 "arquivos menores, facilitando,<br>por exemplo, enviá-los por e-mail."
 msgstr ""
+"Puteți alege să reduceți calitatea imaginii.<br>În acest fel, veți avea "
+"fișiere mai mici, ceea ce va facilita<br>trimiterea lor prin e-mail, de "
+"exemplu."
 
 msgid ""
 "Para adicionar novos idiomas, instale os complementos do tesseract no "
 "gerenciador de pacotes do sistema."
 msgstr ""
+"Pentru a adăuga noi limbi, instalați suplimentele tesseract în managerul de "
+"pachete de sistem."
 
 msgid "Aplicar"
-msgstr ""
+msgstr "Aplicați"
 
 msgid "Torne seu PDF pesquisável"
-msgstr ""
+msgstr "Faceți ca PDF-ul dvs. să poată fi căutat"
 
 msgid ""
 "Adicionar OCR no PDF digitalizado permitindo seleção de textos e busca:"
 msgstr ""
+"Adăugați OCR la PDF-ul scanat pentru a permite selectarea și căutarea de "
+"text:"
 
 msgid "OCR para PDF"
-msgstr ""
+msgstr "OCR pentru PDF"
 
 msgid "Arquivo"
-msgstr ""
+msgstr "Fișier"
 
 msgid "Pasta:"
-msgstr ""
+msgstr "Dosar:"
 
 msgid "Abrir"
-msgstr ""
+msgstr "Deschideți"
 
 msgid "Arquivo salvo: "
-msgstr ""
+msgstr "Fișier salvat "

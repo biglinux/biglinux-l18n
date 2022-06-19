@@ -18,51 +18,53 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit"
 
 msgid "Configurações de texto para voz"
-msgstr ""
+msgstr "Nastavenia prevodu textu na reč"
 
 msgid "Vozes - Abrir BigStore"
-msgstr ""
+msgstr "Hlasy - Otvoriť BigStore"
 
 msgid "Voice Configuration"
-msgstr ""
+msgstr "Konfigurácia hlasu"
 
 msgid "Configurar voz"
-msgstr ""
+msgstr "Konfigurácia hlasu"
 
 msgid "Para falar um texto selecionado use o atalho "
-msgstr ""
+msgstr "Ak chcete vysloviť vybraný text, použite skratku "
 
 msgid "[Alt] + [V]"
-msgstr ""
+msgstr "[Alt] + [V]"
 
 msgid ""
 "ou o ícone na sessão Utilitários no menu do sistema. Para interromper a "
 "leitura use novamene o atalho ou ícone."
 msgstr ""
+"alebo ikonu v časti Nástroje v systémovej ponuke. Ak chcete ukončiť čítanie, "
+"opäť použite skratku alebo ikonu ."
 
 msgid "Selecione as configurações de sua preferência"
-msgstr ""
+msgstr "Vyberte preferované nastavenia"
 
 msgid "Números maiores deixam a voz mais rápida, o padrão é: -25"
-msgstr ""
+msgstr "Väčšie čísla zrýchľujú hlas, predvolená hodnota je: -25"
 
 msgid "Velocidade"
-msgstr ""
+msgstr "Rýchlosť"
 
 msgid "Números maiores deixam a voz mais aguda, o padrão é: -25"
-msgstr ""
+msgstr "Vyššie čísla zvyšujú hlas, štandard je: -25"
 
 msgid "Tom"
-msgstr ""
+msgstr "Tom"
 
 msgid "O padrão é: 0."
-msgstr ""
+msgstr "Predvolená hodnota je: 0."
 
 msgid "Volume"
-msgstr ""
+msgstr "Zväzok"
 
 msgid "As vozes são otimizadas para idiomas expecíficos."
-msgstr ""
+msgstr "Hlasy sú optimalizované pre konkrétne jazyky."
 
 msgid "Voz"
-msgstr ""
+msgstr "Hlas"

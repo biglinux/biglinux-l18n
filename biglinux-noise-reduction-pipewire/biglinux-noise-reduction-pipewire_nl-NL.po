@@ -18,40 +18,42 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit"
 
 msgid "Reduzir ruídos do microfone"
-msgstr ""
+msgstr "Microfoonruis verminderen"
 
 msgid "Microfone sem ruídos"
-msgstr ""
+msgstr "Ruisvrije microfoon"
 
 msgid "Desativando"
-msgstr ""
+msgstr "Deactiveren van"
 
 msgid "Filtro do Microfone"
-msgstr ""
+msgstr "Microfoonfilter"
 
 msgid "Ativando"
-msgstr ""
+msgstr "Activeren"
 
 msgid "Filtro de ruído"
-msgstr ""
+msgstr "Ruisfilter"
 
 msgid "Iniciar automaticamente"
-msgstr ""
+msgstr "Automatisch starten"
 
 msgid "Configuração aplicada"
-msgstr ""
+msgstr "Toegepaste configuratie"
 
 msgid "Microfone"
-msgstr ""
+msgstr "Microfoon"
 
 msgid "Configuração de áudio."
-msgstr ""
+msgstr "Audio configuratie."
 
 msgid "Confirma a remoção das personalizações na configuração de áudio?"
 msgstr ""
+"Kunt u bevestigen dat de aanpassingen in de audioconfiguratie verwijderd "
+"zijn?"
 
 msgid "Configuração de áudio"
-msgstr ""
+msgstr "Audio configuratie"
 
 msgid ""
 "Configuração de áudio restaurada.\n"
@@ -59,6 +61,10 @@ msgid ""
 "Os programas em execução no momento podem precisar ser fechados\n"
 "e abertos novamente para o áudio funcionar corretamente."
 msgstr ""
+"Audio configuratie hersteld.\n"
+"\n"
+"Het kan zijn dat momenteel lopende programma's moeten worden afgesloten\n"
+"en weer geopend om de audio goed te laten werken."
 
 msgid "Cancelado, nenhuma configuração foi removida!"
-msgstr ""
+msgstr "Geannuleerd, er is geen configuratie verwijderd!"

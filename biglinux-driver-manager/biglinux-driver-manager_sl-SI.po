@@ -18,267 +18,282 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit"
 
 msgid "O Big-Hardware-Relatory já está em uso."
-msgstr ""
+msgstr "Veliki strojni pripomoček je že v uporabi."
 
 msgid "Informações sobre o Hardware"
-msgstr ""
+msgstr "Informacije o strojni opremi"
 
 msgid "Este driver é software livre."
-msgstr ""
+msgstr "Ta gonilnik je brezplačna programska oprema."
 
 msgid "Este driver é proprietário."
-msgstr ""
+msgstr "Ta gonilnik je lastniški."
 
 msgid "Este driver parece compatível com este computador."
-msgstr ""
+msgstr "Zdi se, da je ta gonilnik združljiv s tem računalnikom."
 
 msgid "Remover"
-msgstr ""
+msgstr "Odstranite"
 
 msgid "Instalar"
-msgstr ""
+msgstr "Namestitev"
 
 msgid ""
 "Já existe outro driver nVidia instalado, para instalar este driver, remova "
 "primeiro o driver instalado."
 msgstr ""
+"Nameščen je že drug gonilnik nVidia, če želite namestiti ta gonilnik, "
+"najprej odstranite nameščeni gonilnik."
 
 msgid "Desativado"
-msgstr ""
+msgstr "Onemogočeno"
 
 msgid "Categorias"
-msgstr ""
+msgstr "Kategorije"
 
 msgid "Principais"
-msgstr ""
+msgstr "Glavna stran"
 
 msgid "Resumo"
-msgstr ""
+msgstr "Povzetek"
 
 msgid "Processador"
-msgstr ""
+msgstr "Procesor"
 
 msgid "Placa de vídeo"
-msgstr ""
+msgstr "Grafična kartica"
 
 msgid "Placa mãe"
-msgstr ""
+msgstr "Matična plošča"
 
 msgid "Memória"
-msgstr ""
+msgstr "Spomin"
 
 msgid "Rede"
-msgstr ""
+msgstr "Omrežje"
 
 msgid "Usb"
-msgstr ""
+msgstr "Usb"
 
 msgid "Pci"
-msgstr ""
+msgstr "Pci"
 
 msgid "Bateria"
-msgstr ""
+msgstr "Baterija"
 
 msgid "Armazenamento"
-msgstr ""
+msgstr "Shranjevanje"
 
 msgid "Sistema"
-msgstr ""
+msgstr "Sistem"
 
 msgid "Bluetooth"
-msgstr ""
+msgstr "Bluetooth"
 
 msgid "Temperatura"
-msgstr ""
+msgstr "Temperatura"
 
 msgid "Impressora"
-msgstr ""
+msgstr "Tiskalnik"
 
 msgid "Áudio"
-msgstr ""
+msgstr "Audio"
 
 msgid "Mais informações"
-msgstr ""
+msgstr "Več informacij"
 
 msgid "Pesquisar"
-msgstr ""
+msgstr "Iskanje"
 
 msgid "Resultado da pesquisa"
-msgstr ""
+msgstr "Rezultat iskanja"
 
 msgid "Informações de Hardware"
-msgstr ""
+msgstr "Informacije o strojni opremi"
 
 msgid "Informações Sobre o Sistema e o Hardware"
-msgstr ""
+msgstr "Informacije o sistemu in strojni opremi"
 
 msgid "Memória RAM:"
-msgstr ""
+msgstr "Pomnilnik RAM:"
 
 msgid "Vídeo:"
-msgstr ""
+msgstr "Videoposnetek:"
 
 msgid "Instalado na partição:"
-msgstr ""
+msgstr "Nameščen na razdelku:"
 
 msgid "Tamanho da partição:"
-msgstr ""
+msgstr "Velikost particije:"
 
 msgid "Espaço utilizado:"
-msgstr ""
+msgstr "Uporabljen prostor:"
 
 msgid "Espaço livre:"
-msgstr ""
+msgstr "Prosti prostor:"
 
 msgid "Data que o sistema foi instalado:"
-msgstr ""
+msgstr "Datum namestitve sistema:"
 
 msgid "Kernel em uso:"
-msgstr ""
+msgstr "Jedro v uporabi:"
 
 msgid "Instalar ou Remover Drivers"
-msgstr ""
+msgstr "Namestitev ali odstranitev gonilnikov"
 
 msgid ""
 "O BigLinux inclui milhares de drivers e firmwares por padrão, porém ainda "
 "pode ser necessário instalar mais alguns."
 msgstr ""
+"BigLinux privzeto vključuje na tisoče gonilnikov in vdelane programske "
+"opreme, vendar boste morda morali namestiti še nekaj drugih."
 
 msgid "Gerar Relatório"
-msgstr ""
+msgstr "Ustvarjanje poročila"
 
 msgid "Cria um arquivo com informações que pode ser publicado na internet."
 msgstr ""
+"Ustvari datoteko z informacijami, ki jih je mogoče objaviti v internetu."
 
 msgid "Ver informações do dispositivo no Linux Hardware"
-msgstr ""
+msgstr "Prikaz informacij o napravi v strojni opremi Linuxa"
 
 msgid "Categoria"
-msgstr ""
+msgstr "Kategorija"
 
 msgid "ID"
-msgstr ""
+msgstr "ID"
 
 msgid "Info"
-msgstr ""
+msgstr "Info"
 
 msgid "Enviar para transfer.sh"
-msgstr ""
+msgstr "Pošlji v transfer.sh"
 
 msgid "Visualizar"
-msgstr ""
+msgstr "Oglejte si"
 
 msgid "O relatório foi salvo no arquivo:"
-msgstr ""
+msgstr "Poročilo je bilo shranjeno v arhiv:"
 
 msgid ""
 "Deseja visualizar o arquivo ou envia-lo ao site transfer.sh, para ter uma "
 "URL com os dados do seu computador de forma fácil de compartilhar?"
 msgstr ""
+"Ali si želite ogledati datoteko ali jo poslati v program transfer.sh, da bi "
+"imeli URL s podatki iz računalnika na enostaven način za skupno rabo?"
 
 msgid "Driver detectado:"
-msgstr ""
+msgstr "Zaznan voznik:"
 
 msgid "<small>* A detecção não inclui impressoras e scanners</small>"
 msgstr ""
+"<small>* Odkrivanje ne vključuje tiskalnikov in optičnih bralnikov</small>"
 
 msgid "Wifi"
-msgstr ""
+msgstr "Wifi"
 
 msgid "Rede Cabeada"
-msgstr ""
+msgstr "Žično omrežje"
 
 msgid "Impressora 3D"
-msgstr ""
+msgstr "3D tiskalnik"
 
 msgid "Scanner"
-msgstr ""
+msgstr "Skener"
 
 msgid "TV Digital"
-msgstr ""
+msgstr "Digitalna televizija"
 
 msgid "Webcam"
-msgstr ""
+msgstr "Spletna kamera"
 
 msgid "Touchscreen"
-msgstr ""
+msgstr "Zaslon na dotik"
 
 msgid "Som"
-msgstr ""
+msgstr "Zvok"
 
 msgid "Outros"
-msgstr ""
+msgstr "Drugo"
 
 msgid "Pesquisar Driver ou Firmware"
-msgstr ""
+msgstr "Iskanje gonilnika ali vdelane programske opreme"
 
 msgid "Big-Driver-Manager"
-msgstr ""
+msgstr "Big-Driver-Manager"
 
 msgid "Instalar ou Remover Drivers e Firmwares"
-msgstr ""
+msgstr "Namestitev ali odstranitev gonilnikov in vdelane programske opreme"
 
 msgid ""
 "Geralmente é preciso reiniciar o computador para o driver ou firmware ser "
 "aplicado."
 msgstr ""
+"Za uporabo gonilnika ali vdelane programske opreme je običajno treba znova "
+"zagnati računalnik."
 
 msgid "Driver ou firmware"
-msgstr ""
+msgstr "Gonilnik ali vdelana programska oprema"
 
 msgid "Este pacote fornece arquivos compatíveis com este computador."
-msgstr ""
+msgstr "Ta paket vsebuje datoteke, združljive s tem računalnikom."
 
 msgid "Concluído, reinicie o computador para ativar a configuração do driver."
 msgstr ""
+"Po končanem delu znova zaženite računalnik, da se konfiguracija gonilnika "
+"aktivira."
 
 msgid "Driver"
-msgstr ""
+msgstr "Voznik"
 
 msgid "Ocorreu um erro e o driver não pode ser aplicado."
-msgstr ""
+msgstr "Zgodila se je napaka in gonilnika ni mogoče uporabiti."
 
 msgid "Swap (Memória Virtual)"
-msgstr ""
+msgstr "Zamenjava (navidezni pomnilnik)"
 
 msgid "Conexões de Internet"
-msgstr ""
+msgstr "Internetne povezave"
 
 msgid "Dispositivos e conexões USB"
-msgstr ""
+msgstr "Naprave in povezave USB"
 
 msgid "Portas PCI"
-msgstr ""
+msgstr "Vrata PCI"
 
 msgid "Dispositivos de armazenamento"
-msgstr ""
+msgstr "Naprave za shranjevanje"
 
 msgid "Partições montadas"
-msgstr ""
+msgstr "Vgrajene pregrade"
 
 msgid "Partições desmontadas"
-msgstr ""
+msgstr "Demontirane predelne stene"
 
 msgid "Dispositivos lógicos"
-msgstr ""
+msgstr "Logične naprave"
 
 msgid "Raid"
-msgstr ""
+msgstr "Raid"
 
 msgid "Informações"
-msgstr ""
+msgstr "Informacije"
 
 msgid "Repositórios"
-msgstr ""
+msgstr "Repozitoriji"
 
 msgid ""
 "Digite sua senha para gerar um relatório removendo dados sensíveis, por "
 "exemplo, endereço de IP, ou cancele para utilizar as informações da tela "
 "anterior."
 msgstr ""
+"Vnesite geslo, če želite ustvariti poročilo, v katerem bodo odstranjeni "
+"občutljivi podatki, npr. naslov IP, ali prekličite, če želite uporabiti "
+"podatke iz prejšnjega zaslona."
 
 msgid "Digite sua senha para gerar um relatório mais completo."
-msgstr ""
+msgstr "Če želite ustvariti popolnejše poročilo, vnesite svoje geslo."
 
 msgid "Enviando, aguarde..."
-msgstr ""
+msgstr "Pošiljanje, počakajte..."

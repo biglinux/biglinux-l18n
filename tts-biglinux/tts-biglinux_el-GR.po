@@ -18,51 +18,54 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit"
 
 msgid "Configurações de texto para voz"
-msgstr ""
+msgstr "Ρυθμίσεις μετατροπής κειμένου σε ομιλία"
 
 msgid "Vozes - Abrir BigStore"
-msgstr ""
+msgstr "Φωνές - Open BigStore"
 
 msgid "Voice Configuration"
-msgstr ""
+msgstr "Διαμόρφωση φωνής"
 
 msgid "Configurar voz"
-msgstr ""
+msgstr "Διαμόρφωση φωνής"
 
 msgid "Para falar um texto selecionado use o atalho "
-msgstr ""
+msgstr "Για να μιλήσετε ένα επιλεγμένο κείμενο χρησιμοποιήστε τη συντόμευση "
 
 msgid "[Alt] + [V]"
-msgstr ""
+msgstr "[Alt] + [V]"
 
 msgid ""
 "ou o ícone na sessão Utilitários no menu do sistema. Para interromper a "
 "leitura use novamene o atalho ou ícone."
 msgstr ""
+"ή το εικονίδιο στην ενότητα Utilities του μενού συστήματος. Για να "
+"σταματήσετε την ανάγνωση, χρησιμοποιήστε ξανά τη συντόμευση ή το εικονίδιο."
 
 msgid "Selecione as configurações de sua preferência"
-msgstr ""
+msgstr "Επιλέξτε τις προτιμώμενες ρυθμίσεις σας"
 
 msgid "Números maiores deixam a voz mais rápida, o padrão é: -25"
 msgstr ""
+"Μεγαλύτεροι αριθμοί κάνουν τη φωνή πιο γρήγορη, η προεπιλογή είναι: -25"
 
 msgid "Velocidade"
-msgstr ""
+msgstr "Ταχύτητα"
 
 msgid "Números maiores deixam a voz mais aguda, o padrão é: -25"
-msgstr ""
+msgstr "Μεγαλύτεροι αριθμοί κάνουν τη φωνή υψηλότερη, το πρότυπο είναι: -25"
 
 msgid "Tom"
-msgstr ""
+msgstr "Tom"
 
 msgid "O padrão é: 0."
-msgstr ""
+msgstr "Η προεπιλογή είναι: 0."
 
 msgid "Volume"
-msgstr ""
+msgstr "Τόμος"
 
 msgid "As vozes são otimizadas para idiomas expecíficos."
-msgstr ""
+msgstr "Οι φωνές είναι βελτιστοποιημένες για συγκεκριμένες γλώσσες."
 
 msgid "Voz"
-msgstr ""
+msgstr "Φωνή"
