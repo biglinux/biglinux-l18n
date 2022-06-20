@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: bigcontrolcenter\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-06-08 21:46-0300\n"
+"POT-Creation-Date: 2022-06-20 07:12-0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -16,12 +16,6 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit"
-
-msgid "Iniciando no BigLinux"
-msgstr "Spustenie systému BigLinux"
-
-msgid "Central de Controle"
-msgstr "Riadiace centrum"
 
 msgid ""
 "A webcam já está sendo utilizada pelo programa: $WEBCAM_BUSY\n"
@@ -60,6 +54,9 @@ msgstr "Hardinfo Relatory"
 msgid "Introdução ao BigLinux"
 msgstr "Úvod do systému BigLinux"
 
+msgid "Central de Controle"
+msgstr "Riadiace centrum"
+
 msgid "Bem vindo ao BigLinux"
 msgstr "Vitajte v systéme BigLinux"
 
@@ -81,6 +78,9 @@ msgid ""
 msgstr ""
 "Ponúkame kompletné konfigurácie, z ktorých si môžete veľmi jednoducho vybrať."
 ""
+
+msgid "Escolha seu Avatar"
+msgstr "Vyberte si svojho avatara"
 
 msgid "Escolha seu navegador padrão"
 msgstr "Vyberte si predvolený prehliadač"
@@ -163,6 +163,9 @@ msgstr "Facebook"
 
 msgid "Parabéns, você concluiu os primeiros passos para utilizar o BigLinux."
 msgstr "Blahoželáme, dokončili ste prvé kroky k používaniu systému BigLinux."
+
+msgid "Aguarde, carregando..."
+msgstr "Pripravte sa, nakladanie..."
 
 msgid "Integração com Google Drive e ownCloud"
 msgstr "Integrácia so službami Disk Google a ownCloud"
@@ -627,6 +630,9 @@ msgstr "Nastavenia obrazovky boli resetované."
 
 msgid "Configurações da tela"
 msgstr "Nastavenia obrazovky"
+
+msgid "Aguarde, criando arquivos de cache..."
+msgstr "Pripravte sa na vytváranie súborov vyrovnávacej pamäte..."
 
 msgid "Maximizado"
 msgstr "Maximalizované"

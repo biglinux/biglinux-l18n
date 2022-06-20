@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: bigcontrolcenter\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-06-08 21:46-0300\n"
+"POT-Creation-Date: 2022-06-20 07:12-0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -16,12 +16,6 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit"
-
-msgid "Iniciando no BigLinux"
-msgstr "启动BigLinux"
-
-msgid "Central de Controle"
-msgstr "控制中心"
 
 msgid ""
 "A webcam já está sendo utilizada pelo programa: $WEBCAM_BUSY\n"
@@ -60,6 +54,9 @@ msgstr "困难情况下的相关信息"
 msgid "Introdução ao BigLinux"
 msgstr "BigLinux 簡介"
 
+msgid "Central de Controle"
+msgstr "控制中心"
+
 msgid "Bem vindo ao BigLinux"
 msgstr "欢迎来到BigLinux"
 
@@ -79,6 +76,9 @@ msgid ""
 "Disponiblizamos configurações completas para você selecionar de forma "
 "extremamente simples."
 msgstr "我们以非常简单的方式提供完整的配置供你选择。"
+
+msgid "Escolha seu Avatar"
+msgstr "选择你的头像"
 
 msgid "Escolha seu navegador padrão"
 msgstr "选择你的默认浏览器"
@@ -156,6 +156,9 @@ msgstr "脸书"
 
 msgid "Parabéns, você concluiu os primeiros passos para utilizar o BigLinux."
 msgstr "恭喜，您已經完成了使用 BigLinux 的第一步。"
+
+msgid "Aguarde, carregando..."
+msgstr "准备好了，正在加载..."
 
 msgid "Integração com Google Drive e ownCloud"
 msgstr "与Google Drive和ownCloud整合"
@@ -575,6 +578,9 @@ msgstr "屏幕设置已被重置。"
 
 msgid "Configurações da tela"
 msgstr "屏幕设置"
+
+msgid "Aguarde, criando arquivos de cache..."
+msgstr "准备就绪，创建缓存文件..."
 
 msgid "Maximizado"
 msgstr "最大化"

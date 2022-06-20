@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: biglinux-driver-manager\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-06-08 21:46-0300\n"
+"POT-Creation-Date: 2022-06-20 07:13-0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -47,20 +47,120 @@ msgstr ""
 msgid "Desativado"
 msgstr "使用不可"
 
+msgid "Informações de Hardware"
+msgstr "ハードウェア情報"
+
+msgid "Enviar para transfer.sh"
+msgstr "transfer.shに送信する"
+
+msgid "Visualizar"
+msgstr "表示"
+
+msgid "O relatório foi salvo no arquivo:"
+msgstr "レポートがアーカイブに保存されました。"
+
+msgid ""
+"Deseja visualizar o arquivo ou envia-lo ao site transfer.sh, para ter uma "
+"URL com os dados do seu computador de forma fácil de compartilhar?"
+msgstr "ファイルを表示したり、transfer.shに送信して、共有する簡単な方法でコンピュータからのデータでURLを持つようにしたいですか？"
+
 msgid "Categorias"
 msgstr "カテゴリー"
 
 msgid "Principais"
 msgstr "メイン"
 
+msgid "Driver detectado:"
+msgstr "ドライバーを検出しました。"
+
+msgid "<small>* A detecção não inclui impressoras e scanners</small>"
+msgstr "<small>* プリンター、スキャナーは検出対象に含まれません</small>"
+
+msgid "Placa de vídeo"
+msgstr "ビデオカード"
+
+msgid "Wifi"
+msgstr "無線LAN"
+
+msgid "Rede Cabeada"
+msgstr "有線ネットワーク"
+
+msgid "Bluetooth"
+msgstr "ブルートゥース"
+
+msgid "Impressora"
+msgstr "プリンター"
+
+msgid "Impressora 3D"
+msgstr "3Dプリンター"
+
+msgid "Scanner"
+msgstr "スキャナ"
+
+msgid "TV Digital"
+msgstr "デジタルテレビ"
+
+msgid "Webcam"
+msgstr "ウェブカメラ"
+
+msgid "Touchscreen"
+msgstr "タッチスクリーン"
+
+msgid "Som"
+msgstr "サウンド"
+
+msgid "Outros"
+msgstr "その他"
+
+msgid "Pesquisar Driver ou Firmware"
+msgstr "ドライバーまたはファームウェアの検索"
+
+msgid "Resultado da pesquisa"
+msgstr "検索結果"
+
+msgid "Big-Driver-Manager"
+msgstr "ビッグドライバーマネージャ"
+
+msgid "Instalar ou Remover Drivers e Firmwares"
+msgstr "ドライバとファームウェアのインストールと削除"
+
+msgid ""
+"Geralmente é preciso reiniciar o computador para o driver ou firmware ser "
+"aplicado."
+msgstr "ドライバやファームウェアを適用するには、通常、コンピュータを再起動する必要があります。"
+
+msgid "Driver ou firmware"
+msgstr "ドライバまたはファームウェア"
+
+msgid "Este pacote fornece arquivos compatíveis com este computador."
+msgstr "このパッケージは、このコンピューターに対応したファイルを提供します。"
+
+msgid "Concluído, reinicie o computador para ativar a configuração do driver."
+msgstr "完了したら、コンピュータを再起動し、ドライバーの設定を有効にします。"
+
+msgid "Driver"
+msgstr "ドライバー"
+
+msgid "Ocorreu um erro e o driver não pode ser aplicado."
+msgstr "エラーが発生したため、ドライバを適用できません。"
+
+msgid ""
+"Digite sua senha para gerar um relatório removendo dados sensíveis, por "
+"exemplo, endereço de IP, ou cancele para utilizar as informações da tela "
+"anterior."
+msgstr "IPアドレスなどの機密データを削除してレポートを作成する場合はパスワードを入力し、前の画面の情報を使用する場合はキャンセルしてください。"
+
+msgid "Digite sua senha para gerar um relatório mais completo."
+msgstr "パスワードを入力すると、より詳細なレポートが作成されます。"
+
+msgid "Enviando, aguarde..."
+msgstr "送信中です、お待ちください..."
+
 msgid "Resumo"
 msgstr "概要"
 
 msgid "Processador"
 msgstr "プロセッサー"
-
-msgid "Placa de vídeo"
-msgstr "ビデオカード"
 
 msgid "Placa mãe"
 msgstr "マザーボード"
@@ -86,14 +186,8 @@ msgstr "ストレージ"
 msgid "Sistema"
 msgstr "システム"
 
-msgid "Bluetooth"
-msgstr "ブルートゥース"
-
 msgid "Temperatura"
 msgstr "温度"
-
-msgid "Impressora"
-msgstr "プリンター"
 
 msgid "Áudio"
 msgstr "オーディオ"
@@ -103,12 +197,6 @@ msgstr "詳細はこちら"
 
 msgid "Pesquisar"
 msgstr "検索"
-
-msgid "Resultado da pesquisa"
-msgstr "検索結果"
-
-msgid "Informações de Hardware"
-msgstr "ハードウェア情報"
 
 msgid "Informações Sobre o Sistema e o Hardware"
 msgstr "システム・ハードウェア情報"
@@ -163,87 +251,11 @@ msgstr "ID"
 msgid "Info"
 msgstr "情報"
 
-msgid "Enviar para transfer.sh"
-msgstr "transfer.shに送信する"
-
-msgid "Visualizar"
-msgstr "表示"
-
-msgid "O relatório foi salvo no arquivo:"
-msgstr "レポートがアーカイブに保存されました。"
-
-msgid ""
-"Deseja visualizar o arquivo ou envia-lo ao site transfer.sh, para ter uma "
-"URL com os dados do seu computador de forma fácil de compartilhar?"
-msgstr "ファイルを表示したり、transfer.shに送信して、共有する簡単な方法でコンピュータからのデータでURLを持つようにしたいですか？"
-
-msgid "Driver detectado:"
-msgstr "ドライバーを検出しました。"
-
-msgid "<small>* A detecção não inclui impressoras e scanners</small>"
-msgstr "<small>* プリンター、スキャナーは検出対象に含まれません</small>"
-
-msgid "Wifi"
-msgstr "無線LAN"
-
-msgid "Rede Cabeada"
-msgstr "有線ネットワーク"
-
-msgid "Impressora 3D"
-msgstr "3Dプリンター"
-
-msgid "Scanner"
-msgstr "スキャナ"
-
-msgid "TV Digital"
-msgstr "デジタルテレビ"
-
-msgid "Webcam"
-msgstr "ウェブカメラ"
-
-msgid "Touchscreen"
-msgstr "タッチスクリーン"
-
-msgid "Som"
-msgstr "サウンド"
-
-msgid "Outros"
-msgstr "その他"
-
-msgid "Pesquisar Driver ou Firmware"
-msgstr "ドライバーまたはファームウェアの検索"
-
-msgid "Big-Driver-Manager"
-msgstr "ビッグドライバーマネージャ"
-
-msgid "Instalar ou Remover Drivers e Firmwares"
-msgstr "ドライバとファームウェアのインストールと削除"
-
-msgid ""
-"Geralmente é preciso reiniciar o computador para o driver ou firmware ser "
-"aplicado."
-msgstr "ドライバやファームウェアを適用するには、通常、コンピュータを再起動する必要があります。"
-
-msgid "Driver ou firmware"
-msgstr "ドライバまたはファームウェア"
-
-msgid "Este pacote fornece arquivos compatíveis com este computador."
-msgstr "このパッケージは、このコンピューターに対応したファイルを提供します。"
-
-msgid "Concluído, reinicie o computador para ativar a configuração do driver."
-msgstr "完了したら、コンピュータを再起動し、ドライバーの設定を有効にします。"
-
-msgid "Driver"
-msgstr "ドライバー"
-
-msgid "Ocorreu um erro e o driver não pode ser aplicado."
-msgstr "エラーが発生したため、ドライバを適用できません。"
-
 msgid "Swap (Memória Virtual)"
 msgstr "スワップ(仮想メモリ)"
 
-msgid "Conexões de Internet"
-msgstr "インターネット接続"
+msgid "Conexões de Rede"
+msgstr "ネットワーク接続"
 
 msgid "Dispositivos e conexões USB"
 msgstr "USBデバイスと接続"
@@ -251,7 +263,7 @@ msgstr "USBデバイスと接続"
 msgid "Portas PCI"
 msgstr "PCIポート"
 
-msgid "Dispositivos de armazenamento"
+msgid "Dispositivos de Armazenamento"
 msgstr "ストレージデバイス"
 
 msgid "Partições montadas"
@@ -266,20 +278,8 @@ msgstr "ロジックデバイス"
 msgid "Raid"
 msgstr "レイド"
 
-msgid "Informações"
-msgstr "インフォメーション"
+msgid "Informações de Sistema"
+msgstr "システム情報"
 
 msgid "Repositórios"
 msgstr "レポジトリー"
-
-msgid ""
-"Digite sua senha para gerar um relatório removendo dados sensíveis, por "
-"exemplo, endereço de IP, ou cancele para utilizar as informações da tela "
-"anterior."
-msgstr "IPアドレスなどの機密データを削除してレポートを作成する場合はパスワードを入力し、前の画面の情報を使用する場合はキャンセルしてください。"
-
-msgid "Digite sua senha para gerar um relatório mais completo."
-msgstr "パスワードを入力すると、より詳細なレポートが作成されます。"
-
-msgid "Enviando, aguarde..."
-msgstr "送信中です、お待ちください..."

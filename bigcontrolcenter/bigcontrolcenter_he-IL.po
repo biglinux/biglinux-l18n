@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: bigcontrolcenter\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-06-08 21:46-0300\n"
+"POT-Creation-Date: 2022-06-20 07:12-0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -16,12 +16,6 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit"
-
-msgid "Iniciando no BigLinux"
-msgstr "מתחיל ב- BigLinux"
-
-msgid "Central de Controle"
-msgstr "מרכז הבקרה"
 
 msgid ""
 "A webcam já está sendo utilizada pelo programa: $WEBCAM_BUSY\n"
@@ -60,6 +54,9 @@ msgstr "דוח מידע"
 msgid "Introdução ao BigLinux"
 msgstr "מבוא ל- ביגלינוקס"
 
+msgid "Central de Controle"
+msgstr "מרכז הבקרה"
+
 msgid "Bem vindo ao BigLinux"
 msgstr "ברוכים הבאים ל BigLinux"
 
@@ -79,6 +76,9 @@ msgid ""
 "Disponiblizamos configurações completas para você selecionar de forma "
 "extremamente simples."
 msgstr "תצורות שלמות זמינות לבחירתך בצורה פשוטה ביותר."
+
+msgid "Escolha seu Avatar"
+msgstr "בחר את הדמות שלך"
 
 msgid "Escolha seu navegador padrão"
 msgstr "בחר את דפדפן ברירת המחדל שלך"
@@ -159,6 +159,9 @@ msgstr "פייסבוק"
 
 msgid "Parabéns, você concluiu os primeiros passos para utilizar o BigLinux."
 msgstr "מזל טוב, השלמת את הצעדים הראשונים לשימוש ב- BigLinux."
+
+msgid "Aguarde, carregando..."
+msgstr "חכה, טוען..."
 
 msgid "Integração com Google Drive e ownCloud"
 msgstr "שילוב עם גוגל דרייב ו-OwnCloud"
@@ -600,6 +603,9 @@ msgstr "הגדרות המסך אופסו."
 
 msgid "Configurações da tela"
 msgstr "הגדרות מסך"
+
+msgid "Aguarde, criando arquivos de cache..."
+msgstr "אנא המתן, יצירת קבצי מטמון..."
 
 msgid "Maximizado"
 msgstr "מוגדל"

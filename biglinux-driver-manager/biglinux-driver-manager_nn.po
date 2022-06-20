@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: biglinux-driver-manager\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-06-08 21:46-0300\n"
+"POT-Creation-Date: 2022-06-20 07:13-0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -48,20 +48,129 @@ msgstr ""
 msgid "Desativado"
 msgstr "deaktivert"
 
+msgid "Informações de Hardware"
+msgstr "Informasjon om maskinvare"
+
+msgid "Enviar para transfer.sh"
+msgstr "Send til transfer.sh"
+
+msgid "Visualizar"
+msgstr "utsikt"
+
+msgid "O relatório foi salvo no arquivo:"
+msgstr "Rapporten ble lagret i filen:"
+
+msgid ""
+"Deseja visualizar o arquivo ou envia-lo ao site transfer.sh, para ter uma "
+"URL com os dados do seu computador de forma fácil de compartilhar?"
+msgstr ""
+"Vil du se filen eller sende den til nettstedet transfer.sh, for å ha en URL "
+"med dataene på datamaskinen din på en enkel å dele måte?"
+
 msgid "Categorias"
 msgstr "Kategorier"
 
 msgid "Principais"
 msgstr "Hoved"
 
+msgid "Driver detectado:"
+msgstr "Driver oppdaget:"
+
+msgid "<small>* A detecção não inclui impressoras e scanners</small>"
+msgstr "<small>*Deteksjon inkluderer ikke skrivere og skannere</small>"
+
+msgid "Placa de vídeo"
+msgstr "Skjermkort"
+
+msgid "Wifi"
+msgstr "WiFi"
+
+msgid "Rede Cabeada"
+msgstr "Kablet nettverk"
+
+msgid "Bluetooth"
+msgstr "Bluetooth"
+
+msgid "Impressora"
+msgstr "skriver"
+
+msgid "Impressora 3D"
+msgstr "3D-skriver"
+
+msgid "Scanner"
+msgstr "Skanner"
+
+msgid "TV Digital"
+msgstr "Digital-TV"
+
+msgid "Webcam"
+msgstr "webkamera"
+
+msgid "Touchscreen"
+msgstr "Berøringsskjerm"
+
+msgid "Som"
+msgstr "lyd"
+
+msgid "Outros"
+msgstr "Annet"
+
+msgid "Pesquisar Driver ou Firmware"
+msgstr "Søk etter Driver eller Firmware"
+
+msgid "Resultado da pesquisa"
+msgstr "Søk resultat"
+
+msgid "Big-Driver-Manager"
+msgstr "Stor sjåfør-leder"
+
+msgid "Instalar ou Remover Drivers e Firmwares"
+msgstr "Installer eller fjern drivere og firmwares"
+
+msgid ""
+"Geralmente é preciso reiniciar o computador para o driver ou firmware ser "
+"aplicado."
+msgstr ""
+"Det er generelt nødvendig å starte datamaskinen på nytt for at driveren "
+"eller fastvaren skal gjelde."
+
+msgid "Driver ou firmware"
+msgstr "Driver eller fastvare"
+
+msgid "Este pacote fornece arquivos compatíveis com este computador."
+msgstr ""
+"Denne pakken inneholder filer som er kompatible med denne datamaskinen."
+
+msgid "Concluído, reinicie o computador para ativar a configuração do driver."
+msgstr ""
+"Ferdig, start datamaskinen på nytt for å aktivere driverkonfigurasjonen."
+
+msgid "Driver"
+msgstr "Driver"
+
+msgid "Ocorreu um erro e o driver não pode ser aplicado."
+msgstr "Det oppstod en feil, og driveren kan ikke brukes."
+
+msgid ""
+"Digite sua senha para gerar um relatório removendo dados sensíveis, por "
+"exemplo, endereço de IP, ou cancele para utilizar as informações da tela "
+"anterior."
+msgstr ""
+"Skriv inn passordet ditt for å generere en rapport som fjerner sensitive "
+"data, for eksempel IP-adresse, eller avbryt for å bruke informasjonen fra "
+"forrige skjermbilde."
+
+msgid "Digite sua senha para gerar um relatório mais completo."
+msgstr "Skriv inn passordet ditt for å generere en mer fullstendig rapport."
+
+msgid "Enviando, aguarde..."
+msgstr "Sender, vennligst vent..."
+
 msgid "Resumo"
 msgstr "Sammendrag"
 
 msgid "Processador"
 msgstr "prosessor"
-
-msgid "Placa de vídeo"
-msgstr "Skjermkort"
 
 msgid "Placa mãe"
 msgstr "Hovedkort"
@@ -87,14 +196,8 @@ msgstr "Lagring"
 msgid "Sistema"
 msgstr "Systemet"
 
-msgid "Bluetooth"
-msgstr "Bluetooth"
-
 msgid "Temperatura"
 msgstr "praktikanter"
-
-msgid "Impressora"
-msgstr "skriver"
 
 msgid "Áudio"
 msgstr "Lyd"
@@ -104,12 +207,6 @@ msgstr "Mer informasjon"
 
 msgid "Pesquisar"
 msgstr "Søke"
-
-msgid "Resultado da pesquisa"
-msgstr "Søk resultat"
-
-msgid "Informações de Hardware"
-msgstr "Informasjon om maskinvare"
 
 msgid "Informações Sobre o Sistema e o Hardware"
 msgstr "Informasjon om system og maskinvare"
@@ -166,93 +263,11 @@ msgstr "ID"
 msgid "Info"
 msgstr "Info"
 
-msgid "Enviar para transfer.sh"
-msgstr "Send til transfer.sh"
-
-msgid "Visualizar"
-msgstr "utsikt"
-
-msgid "O relatório foi salvo no arquivo:"
-msgstr "Rapporten ble lagret i filen:"
-
-msgid ""
-"Deseja visualizar o arquivo ou envia-lo ao site transfer.sh, para ter uma "
-"URL com os dados do seu computador de forma fácil de compartilhar?"
-msgstr ""
-"Vil du se filen eller sende den til nettstedet transfer.sh, for å ha en URL "
-"med dataene på datamaskinen din på en enkel å dele måte?"
-
-msgid "Driver detectado:"
-msgstr "Driver oppdaget:"
-
-msgid "<small>* A detecção não inclui impressoras e scanners</small>"
-msgstr "<small>*Deteksjon inkluderer ikke skrivere og skannere</small>"
-
-msgid "Wifi"
-msgstr "WiFi"
-
-msgid "Rede Cabeada"
-msgstr "Kablet nettverk"
-
-msgid "Impressora 3D"
-msgstr "3D-skriver"
-
-msgid "Scanner"
-msgstr "Skanner"
-
-msgid "TV Digital"
-msgstr "Digital-TV"
-
-msgid "Webcam"
-msgstr "webkamera"
-
-msgid "Touchscreen"
-msgstr "Berøringsskjerm"
-
-msgid "Som"
-msgstr "lyd"
-
-msgid "Outros"
-msgstr "Annet"
-
-msgid "Pesquisar Driver ou Firmware"
-msgstr "Søk etter Driver eller Firmware"
-
-msgid "Big-Driver-Manager"
-msgstr "Stor sjåfør-leder"
-
-msgid "Instalar ou Remover Drivers e Firmwares"
-msgstr "Installer eller fjern drivere og firmwares"
-
-msgid ""
-"Geralmente é preciso reiniciar o computador para o driver ou firmware ser "
-"aplicado."
-msgstr ""
-"Det er generelt nødvendig å starte datamaskinen på nytt for at driveren "
-"eller fastvaren skal gjelde."
-
-msgid "Driver ou firmware"
-msgstr "Driver eller fastvare"
-
-msgid "Este pacote fornece arquivos compatíveis com este computador."
-msgstr ""
-"Denne pakken inneholder filer som er kompatible med denne datamaskinen."
-
-msgid "Concluído, reinicie o computador para ativar a configuração do driver."
-msgstr ""
-"Ferdig, start datamaskinen på nytt for å aktivere driverkonfigurasjonen."
-
-msgid "Driver"
-msgstr "Driver"
-
-msgid "Ocorreu um erro e o driver não pode ser aplicado."
-msgstr "Det oppstod en feil, og driveren kan ikke brukes."
-
 msgid "Swap (Memória Virtual)"
 msgstr "Bytte (virtuelt minne)"
 
-msgid "Conexões de Internet"
-msgstr "Internett-tilkoblinger"
+msgid "Conexões de Rede"
+msgstr "Nettverkstilkoblinger"
 
 msgid "Dispositivos e conexões USB"
 msgstr "USB-enheter og tilkoblinger"
@@ -260,8 +275,8 @@ msgstr "USB-enheter og tilkoblinger"
 msgid "Portas PCI"
 msgstr "PCI-porter"
 
-msgid "Dispositivos de armazenamento"
-msgstr "Lagringsenheter"
+msgid "Dispositivos de Armazenamento"
+msgstr "lagringsenheter"
 
 msgid "Partições montadas"
 msgstr "Monterte partisjoner"
@@ -275,23 +290,8 @@ msgstr "Logiske enheter"
 msgid "Raid"
 msgstr "Raid"
 
-msgid "Informações"
-msgstr "Informasjon"
+msgid "Informações de Sistema"
+msgstr "Informasjon om systemet"
 
 msgid "Repositórios"
 msgstr "Repositorier"
-
-msgid ""
-"Digite sua senha para gerar um relatório removendo dados sensíveis, por "
-"exemplo, endereço de IP, ou cancele para utilizar as informações da tela "
-"anterior."
-msgstr ""
-"Skriv inn passordet ditt for å generere en rapport som fjerner sensitive "
-"data, for eksempel IP-adresse, eller avbryt for å bruke informasjonen fra "
-"forrige skjermbilde."
-
-msgid "Digite sua senha para gerar um relatório mais completo."
-msgstr "Skriv inn passordet ditt for å generere en mer fullstendig rapport."
-
-msgid "Enviando, aguarde..."
-msgstr "Sender, vennligst vent..."

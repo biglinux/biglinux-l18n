@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: bigcontrolcenter\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-06-08 21:46-0300\n"
+"POT-Creation-Date: 2022-06-20 07:12-0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -16,12 +16,6 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit"
-
-msgid "Iniciando no BigLinux"
-msgstr "BigLinux starten"
-
-msgid "Central de Controle"
-msgstr "Controlecentrum"
 
 msgid ""
 "A webcam já está sendo utilizada pelo programa: $WEBCAM_BUSY\n"
@@ -60,6 +54,9 @@ msgstr "Hardinfo Relatory"
 msgid "Introdução ao BigLinux"
 msgstr "Inleiding tot BigLinux"
 
+msgid "Central de Controle"
+msgstr "Controlecentrum"
+
 msgid "Bem vindo ao BigLinux"
 msgstr "Welkom bij BigLinux"
 
@@ -81,6 +78,9 @@ msgid ""
 msgstr ""
 "Wij bieden complete configuraties waaruit u op een heel eenvoudige manier "
 "kunt kiezen."
+
+msgid "Escolha seu Avatar"
+msgstr "Kies uw Avatar"
 
 msgid "Escolha seu navegador padrão"
 msgstr "Kies uw standaardbrowser"
@@ -167,6 +167,9 @@ msgid "Parabéns, você concluiu os primeiros passos para utilizar o BigLinux."
 msgstr ""
 "Gefeliciteerd, u hebt de eerste stappen naar het gebruik van BigLinux "
 "voltooid."
+
+msgid "Aguarde, carregando..."
+msgstr "Stand by, laden..."
 
 msgid "Integração com Google Drive e ownCloud"
 msgstr "Integratie met Google Drive en ownCloud"
@@ -635,6 +638,9 @@ msgstr "De scherminstellingen zijn opnieuw ingesteld."
 
 msgid "Configurações da tela"
 msgstr "Scherminstellingen"
+
+msgid "Aguarde, criando arquivos de cache..."
+msgstr "Sta klaar, om cache-bestanden te maken..."
 
 msgid "Maximizado"
 msgstr "Gemaximaliseerd"

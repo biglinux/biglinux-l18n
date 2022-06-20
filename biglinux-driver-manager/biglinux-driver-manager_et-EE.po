@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: biglinux-driver-manager\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-06-08 21:46-0300\n"
+"POT-Creation-Date: 2022-06-20 07:13-0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -48,20 +48,128 @@ msgstr ""
 msgid "Desativado"
 msgstr "Puudega inimesed"
 
+msgid "Informações de Hardware"
+msgstr "Riistvara teave"
+
+msgid "Enviar para transfer.sh"
+msgstr "Saada transfer.sh"
+
+msgid "Visualizar"
+msgstr "Vaata"
+
+msgid "O relatório foi salvo no arquivo:"
+msgstr "Aruanne on salvestatud arhiivi:"
+
+msgid ""
+"Deseja visualizar o arquivo ou envia-lo ao site transfer.sh, para ter uma "
+"URL com os dados do seu computador de forma fácil de compartilhar?"
+msgstr ""
+"Kas soovite faili vaadata või saata selle transfer.sh, et saada URL-i oma "
+"arvutist andmete lihtsaks jagamiseks?"
+
 msgid "Categorias"
 msgstr "Kategooriad"
 
 msgid "Principais"
 msgstr "Main"
 
+msgid "Driver detectado:"
+msgstr "Juhi tuvastamine:"
+
+msgid "<small>* A detecção não inclui impressoras e scanners</small>"
+msgstr "<small>* Tuvastus ei hõlma printereid ja skannereid</small>"
+
+msgid "Placa de vídeo"
+msgstr "Videokaart"
+
+msgid "Wifi"
+msgstr "Wifi"
+
+msgid "Rede Cabeada"
+msgstr "Traadiga võrk"
+
+msgid "Bluetooth"
+msgstr "Bluetooth"
+
+msgid "Impressora"
+msgstr "Printer"
+
+msgid "Impressora 3D"
+msgstr "3D-printer"
+
+msgid "Scanner"
+msgstr "Skanner"
+
+msgid "TV Digital"
+msgstr "Digitaalne televisioon"
+
+msgid "Webcam"
+msgstr "Veebikaamera"
+
+msgid "Touchscreen"
+msgstr "Puuteekraan"
+
+msgid "Som"
+msgstr "Heli"
+
+msgid "Outros"
+msgstr "Muud"
+
+msgid "Pesquisar Driver ou Firmware"
+msgstr "Juhi või püsivara otsimine"
+
+msgid "Resultado da pesquisa"
+msgstr "Otsingu tulemus"
+
+msgid "Big-Driver-Manager"
+msgstr "Big-Driver-Manager"
+
+msgid "Instalar ou Remover Drivers e Firmwares"
+msgstr "Paigaldage või eemaldage draiverid ja püsivara"
+
+msgid ""
+"Geralmente é preciso reiniciar o computador para o driver ou firmware ser "
+"aplicado."
+msgstr ""
+"Tavaliselt on vajalik arvuti taaskäivitamine, et draiver või püsivara saaks "
+"rakendatud."
+
+msgid "Driver ou firmware"
+msgstr "Juhi või püsivara"
+
+msgid "Este pacote fornece arquivos compatíveis com este computador."
+msgstr "See pakett sisaldab selle arvutiga ühilduvaid faile."
+
+msgid "Concluído, reinicie o computador para ativar a configuração do driver."
+msgstr ""
+"Kui olete lõpetanud, käivitage arvuti uuesti, et aktiveerida draiveri "
+"konfiguratsioon."
+
+msgid "Driver"
+msgstr "Juht"
+
+msgid "Ocorreu um erro e o driver não pode ser aplicado."
+msgstr "Tekkis viga ja draiverit ei saa rakendada."
+
+msgid ""
+"Digite sua senha para gerar um relatório removendo dados sensíveis, por "
+"exemplo, endereço de IP, ou cancele para utilizar as informações da tela "
+"anterior."
+msgstr ""
+"Sisestage oma parool, et luua aruanne, millest on eemaldatud tundlikud "
+"andmed, nt IP-aadress, või tühistage, et kasutada eelmise ekraani teavet."
+
+msgid "Digite sua senha para gerar um relatório mais completo."
+msgstr "Täielikuma aruande koostamiseks sisestage oma parool."
+
+msgid "Enviando, aguarde..."
+msgstr "Saatmine, palun oodake..."
+
 msgid "Resumo"
 msgstr "Kokkuvõte"
 
 msgid "Processador"
 msgstr "Protsessor"
-
-msgid "Placa de vídeo"
-msgstr "Videokaart"
 
 msgid "Placa mãe"
 msgstr "Emaplaat"
@@ -87,14 +195,8 @@ msgstr "Ladustamine"
 msgid "Sistema"
 msgstr "Süsteem"
 
-msgid "Bluetooth"
-msgstr "Bluetooth"
-
 msgid "Temperatura"
 msgstr "Temperatuur"
-
-msgid "Impressora"
-msgstr "Printer"
 
 msgid "Áudio"
 msgstr "Audio"
@@ -104,12 +206,6 @@ msgstr "Lisateave"
 
 msgid "Pesquisar"
 msgstr "Otsi"
-
-msgid "Resultado da pesquisa"
-msgstr "Otsingu tulemus"
-
-msgid "Informações de Hardware"
-msgstr "Riistvara teave"
 
 msgid "Informações Sobre o Sistema e o Hardware"
 msgstr "Teave süsteemi ja riistvara kohta"
@@ -166,93 +262,11 @@ msgstr "ID"
 msgid "Info"
 msgstr "Info"
 
-msgid "Enviar para transfer.sh"
-msgstr "Saada transfer.sh"
-
-msgid "Visualizar"
-msgstr "Vaata"
-
-msgid "O relatório foi salvo no arquivo:"
-msgstr "Aruanne on salvestatud arhiivi:"
-
-msgid ""
-"Deseja visualizar o arquivo ou envia-lo ao site transfer.sh, para ter uma "
-"URL com os dados do seu computador de forma fácil de compartilhar?"
-msgstr ""
-"Kas soovite faili vaadata või saata selle transfer.sh, et saada URL-i oma "
-"arvutist andmete lihtsaks jagamiseks?"
-
-msgid "Driver detectado:"
-msgstr "Juhi tuvastamine:"
-
-msgid "<small>* A detecção não inclui impressoras e scanners</small>"
-msgstr "<small>* Tuvastus ei hõlma printereid ja skannereid</small>"
-
-msgid "Wifi"
-msgstr "Wifi"
-
-msgid "Rede Cabeada"
-msgstr "Traadiga võrk"
-
-msgid "Impressora 3D"
-msgstr "3D-printer"
-
-msgid "Scanner"
-msgstr "Skanner"
-
-msgid "TV Digital"
-msgstr "Digitaalne televisioon"
-
-msgid "Webcam"
-msgstr "Veebikaamera"
-
-msgid "Touchscreen"
-msgstr "Puuteekraan"
-
-msgid "Som"
-msgstr "Heli"
-
-msgid "Outros"
-msgstr "Muud"
-
-msgid "Pesquisar Driver ou Firmware"
-msgstr "Juhi või püsivara otsimine"
-
-msgid "Big-Driver-Manager"
-msgstr "Big-Driver-Manager"
-
-msgid "Instalar ou Remover Drivers e Firmwares"
-msgstr "Paigaldage või eemaldage draiverid ja püsivara"
-
-msgid ""
-"Geralmente é preciso reiniciar o computador para o driver ou firmware ser "
-"aplicado."
-msgstr ""
-"Tavaliselt on vajalik arvuti taaskäivitamine, et draiver või püsivara saaks "
-"rakendatud."
-
-msgid "Driver ou firmware"
-msgstr "Juhi või püsivara"
-
-msgid "Este pacote fornece arquivos compatíveis com este computador."
-msgstr "See pakett sisaldab selle arvutiga ühilduvaid faile."
-
-msgid "Concluído, reinicie o computador para ativar a configuração do driver."
-msgstr ""
-"Kui olete lõpetanud, käivitage arvuti uuesti, et aktiveerida draiveri "
-"konfiguratsioon."
-
-msgid "Driver"
-msgstr "Juht"
-
-msgid "Ocorreu um erro e o driver não pode ser aplicado."
-msgstr "Tekkis viga ja draiverit ei saa rakendada."
-
 msgid "Swap (Memória Virtual)"
 msgstr "Vahetus (virtuaalne mälu)"
 
-msgid "Conexões de Internet"
-msgstr "Interneti-ühendused"
+msgid "Conexões de Rede"
+msgstr "Võrguühendused"
 
 msgid "Dispositivos e conexões USB"
 msgstr "USB-seadmed ja ühendused"
@@ -260,7 +274,7 @@ msgstr "USB-seadmed ja ühendused"
 msgid "Portas PCI"
 msgstr "PCI-pordid"
 
-msgid "Dispositivos de armazenamento"
+msgid "Dispositivos de Armazenamento"
 msgstr "Salvestusseadmed"
 
 msgid "Partições montadas"
@@ -275,22 +289,8 @@ msgstr "Loogikaseadmed"
 msgid "Raid"
 msgstr "Raid"
 
-msgid "Informações"
-msgstr "Teave"
+msgid "Informações de Sistema"
+msgstr "Süsteemi teave"
 
 msgid "Repositórios"
 msgstr "Repositooriumid"
-
-msgid ""
-"Digite sua senha para gerar um relatório removendo dados sensíveis, por "
-"exemplo, endereço de IP, ou cancele para utilizar as informações da tela "
-"anterior."
-msgstr ""
-"Sisestage oma parool, et luua aruanne, millest on eemaldatud tundlikud "
-"andmed, nt IP-aadress, või tühistage, et kasutada eelmise ekraani teavet."
-
-msgid "Digite sua senha para gerar um relatório mais completo."
-msgstr "Täielikuma aruande koostamiseks sisestage oma parool."
-
-msgid "Enviando, aguarde..."
-msgstr "Saatmine, palun oodake..."

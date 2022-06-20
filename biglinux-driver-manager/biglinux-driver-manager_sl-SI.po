@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: biglinux-driver-manager\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-06-08 21:46-0300\n"
+"POT-Creation-Date: 2022-06-20 07:13-0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -48,20 +48,130 @@ msgstr ""
 msgid "Desativado"
 msgstr "Onemogočeno"
 
+msgid "Informações de Hardware"
+msgstr "Informacije o strojni opremi"
+
+msgid "Enviar para transfer.sh"
+msgstr "Pošlji v transfer.sh"
+
+msgid "Visualizar"
+msgstr "Oglejte si"
+
+msgid "O relatório foi salvo no arquivo:"
+msgstr "Poročilo je bilo shranjeno v arhiv:"
+
+msgid ""
+"Deseja visualizar o arquivo ou envia-lo ao site transfer.sh, para ter uma "
+"URL com os dados do seu computador de forma fácil de compartilhar?"
+msgstr ""
+"Ali si želite ogledati datoteko ali jo poslati v program transfer.sh, da bi "
+"imeli URL s podatki iz računalnika na enostaven način za skupno rabo?"
+
 msgid "Categorias"
 msgstr "Kategorije"
 
 msgid "Principais"
 msgstr "Glavna stran"
 
+msgid "Driver detectado:"
+msgstr "Zaznan voznik:"
+
+msgid "<small>* A detecção não inclui impressoras e scanners</small>"
+msgstr ""
+"<small>* Odkrivanje ne vključuje tiskalnikov in optičnih bralnikov</small>"
+
+msgid "Placa de vídeo"
+msgstr "Grafična kartica"
+
+msgid "Wifi"
+msgstr "Wifi"
+
+msgid "Rede Cabeada"
+msgstr "Žično omrežje"
+
+msgid "Bluetooth"
+msgstr "Bluetooth"
+
+msgid "Impressora"
+msgstr "Tiskalnik"
+
+msgid "Impressora 3D"
+msgstr "3D tiskalnik"
+
+msgid "Scanner"
+msgstr "Skener"
+
+msgid "TV Digital"
+msgstr "Digitalna televizija"
+
+msgid "Webcam"
+msgstr "Spletna kamera"
+
+msgid "Touchscreen"
+msgstr "Zaslon na dotik"
+
+msgid "Som"
+msgstr "Zvok"
+
+msgid "Outros"
+msgstr "Drugo"
+
+msgid "Pesquisar Driver ou Firmware"
+msgstr "Iskanje gonilnika ali vdelane programske opreme"
+
+msgid "Resultado da pesquisa"
+msgstr "Rezultat iskanja"
+
+msgid "Big-Driver-Manager"
+msgstr "Big-Driver-Manager"
+
+msgid "Instalar ou Remover Drivers e Firmwares"
+msgstr "Namestitev ali odstranitev gonilnikov in vdelane programske opreme"
+
+msgid ""
+"Geralmente é preciso reiniciar o computador para o driver ou firmware ser "
+"aplicado."
+msgstr ""
+"Za uporabo gonilnika ali vdelane programske opreme je običajno treba znova "
+"zagnati računalnik."
+
+msgid "Driver ou firmware"
+msgstr "Gonilnik ali vdelana programska oprema"
+
+msgid "Este pacote fornece arquivos compatíveis com este computador."
+msgstr "Ta paket vsebuje datoteke, združljive s tem računalnikom."
+
+msgid "Concluído, reinicie o computador para ativar a configuração do driver."
+msgstr ""
+"Po končanem delu znova zaženite računalnik, da se konfiguracija gonilnika "
+"aktivira."
+
+msgid "Driver"
+msgstr "Voznik"
+
+msgid "Ocorreu um erro e o driver não pode ser aplicado."
+msgstr "Zgodila se je napaka in gonilnika ni mogoče uporabiti."
+
+msgid ""
+"Digite sua senha para gerar um relatório removendo dados sensíveis, por "
+"exemplo, endereço de IP, ou cancele para utilizar as informações da tela "
+"anterior."
+msgstr ""
+"Vnesite geslo, če želite ustvariti poročilo, v katerem bodo odstranjeni "
+"občutljivi podatki, npr. naslov IP, ali prekličite, če želite uporabiti "
+"podatke iz prejšnjega zaslona."
+
+msgid "Digite sua senha para gerar um relatório mais completo."
+msgstr "Če želite ustvariti popolnejše poročilo, vnesite svoje geslo."
+
+msgid "Enviando, aguarde..."
+msgstr "Pošiljanje, počakajte..."
+
 msgid "Resumo"
 msgstr "Povzetek"
 
 msgid "Processador"
 msgstr "Procesor"
-
-msgid "Placa de vídeo"
-msgstr "Grafična kartica"
 
 msgid "Placa mãe"
 msgstr "Matična plošča"
@@ -87,14 +197,8 @@ msgstr "Shranjevanje"
 msgid "Sistema"
 msgstr "Sistem"
 
-msgid "Bluetooth"
-msgstr "Bluetooth"
-
 msgid "Temperatura"
 msgstr "Temperatura"
-
-msgid "Impressora"
-msgstr "Tiskalnik"
 
 msgid "Áudio"
 msgstr "Audio"
@@ -104,12 +208,6 @@ msgstr "Več informacij"
 
 msgid "Pesquisar"
 msgstr "Iskanje"
-
-msgid "Resultado da pesquisa"
-msgstr "Rezultat iskanja"
-
-msgid "Informações de Hardware"
-msgstr "Informacije o strojni opremi"
 
 msgid "Informações Sobre o Sistema e o Hardware"
 msgstr "Informacije o sistemu in strojni opremi"
@@ -167,94 +265,11 @@ msgstr "ID"
 msgid "Info"
 msgstr "Info"
 
-msgid "Enviar para transfer.sh"
-msgstr "Pošlji v transfer.sh"
-
-msgid "Visualizar"
-msgstr "Oglejte si"
-
-msgid "O relatório foi salvo no arquivo:"
-msgstr "Poročilo je bilo shranjeno v arhiv:"
-
-msgid ""
-"Deseja visualizar o arquivo ou envia-lo ao site transfer.sh, para ter uma "
-"URL com os dados do seu computador de forma fácil de compartilhar?"
-msgstr ""
-"Ali si želite ogledati datoteko ali jo poslati v program transfer.sh, da bi "
-"imeli URL s podatki iz računalnika na enostaven način za skupno rabo?"
-
-msgid "Driver detectado:"
-msgstr "Zaznan voznik:"
-
-msgid "<small>* A detecção não inclui impressoras e scanners</small>"
-msgstr ""
-"<small>* Odkrivanje ne vključuje tiskalnikov in optičnih bralnikov</small>"
-
-msgid "Wifi"
-msgstr "Wifi"
-
-msgid "Rede Cabeada"
-msgstr "Žično omrežje"
-
-msgid "Impressora 3D"
-msgstr "3D tiskalnik"
-
-msgid "Scanner"
-msgstr "Skener"
-
-msgid "TV Digital"
-msgstr "Digitalna televizija"
-
-msgid "Webcam"
-msgstr "Spletna kamera"
-
-msgid "Touchscreen"
-msgstr "Zaslon na dotik"
-
-msgid "Som"
-msgstr "Zvok"
-
-msgid "Outros"
-msgstr "Drugo"
-
-msgid "Pesquisar Driver ou Firmware"
-msgstr "Iskanje gonilnika ali vdelane programske opreme"
-
-msgid "Big-Driver-Manager"
-msgstr "Big-Driver-Manager"
-
-msgid "Instalar ou Remover Drivers e Firmwares"
-msgstr "Namestitev ali odstranitev gonilnikov in vdelane programske opreme"
-
-msgid ""
-"Geralmente é preciso reiniciar o computador para o driver ou firmware ser "
-"aplicado."
-msgstr ""
-"Za uporabo gonilnika ali vdelane programske opreme je običajno treba znova "
-"zagnati računalnik."
-
-msgid "Driver ou firmware"
-msgstr "Gonilnik ali vdelana programska oprema"
-
-msgid "Este pacote fornece arquivos compatíveis com este computador."
-msgstr "Ta paket vsebuje datoteke, združljive s tem računalnikom."
-
-msgid "Concluído, reinicie o computador para ativar a configuração do driver."
-msgstr ""
-"Po končanem delu znova zaženite računalnik, da se konfiguracija gonilnika "
-"aktivira."
-
-msgid "Driver"
-msgstr "Voznik"
-
-msgid "Ocorreu um erro e o driver não pode ser aplicado."
-msgstr "Zgodila se je napaka in gonilnika ni mogoče uporabiti."
-
 msgid "Swap (Memória Virtual)"
 msgstr "Zamenjava (navidezni pomnilnik)"
 
-msgid "Conexões de Internet"
-msgstr "Internetne povezave"
+msgid "Conexões de Rede"
+msgstr "Omrežne povezave"
 
 msgid "Dispositivos e conexões USB"
 msgstr "Naprave in povezave USB"
@@ -262,7 +277,7 @@ msgstr "Naprave in povezave USB"
 msgid "Portas PCI"
 msgstr "Vrata PCI"
 
-msgid "Dispositivos de armazenamento"
+msgid "Dispositivos de Armazenamento"
 msgstr "Naprave za shranjevanje"
 
 msgid "Partições montadas"
@@ -277,23 +292,8 @@ msgstr "Logične naprave"
 msgid "Raid"
 msgstr "Raid"
 
-msgid "Informações"
-msgstr "Informacije"
+msgid "Informações de Sistema"
+msgstr "Sistemske informacije"
 
 msgid "Repositórios"
 msgstr "Repozitoriji"
-
-msgid ""
-"Digite sua senha para gerar um relatório removendo dados sensíveis, por "
-"exemplo, endereço de IP, ou cancele para utilizar as informações da tela "
-"anterior."
-msgstr ""
-"Vnesite geslo, če želite ustvariti poročilo, v katerem bodo odstranjeni "
-"občutljivi podatki, npr. naslov IP, ali prekličite, če želite uporabiti "
-"podatke iz prejšnjega zaslona."
-
-msgid "Digite sua senha para gerar um relatório mais completo."
-msgstr "Če želite ustvariti popolnejše poročilo, vnesite svoje geslo."
-
-msgid "Enviando, aguarde..."
-msgstr "Pošiljanje, počakajte..."

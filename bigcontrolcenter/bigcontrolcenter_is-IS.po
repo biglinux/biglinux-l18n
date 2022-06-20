@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: bigcontrolcenter\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-06-08 21:46-0300\n"
+"POT-Creation-Date: 2022-06-20 07:12-0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -16,12 +16,6 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit"
-
-msgid "Iniciando no BigLinux"
-msgstr "Byrjar á BigLinux"
-
-msgid "Central de Controle"
-msgstr "Stjórnstöð"
 
 msgid ""
 "A webcam já está sendo utilizada pelo programa: $WEBCAM_BUSY\n"
@@ -60,6 +54,9 @@ msgstr "Hardinfo skýrsla"
 msgid "Introdução ao BigLinux"
 msgstr "Kynning á BigLinux"
 
+msgid "Central de Controle"
+msgstr "Stjórnstöð"
+
 msgid "Bem vindo ao BigLinux"
 msgstr "Velkomin í BigLinux"
 
@@ -79,6 +76,9 @@ msgid ""
 "Disponiblizamos configurações completas para você selecionar de forma "
 "extremamente simples."
 msgstr "Heill stillingar eru í boði fyrir þig að velja á afar einfaldan hátt."
+
+msgid "Escolha seu Avatar"
+msgstr "Veldu Avatar þinn"
 
 msgid "Escolha seu navegador padrão"
 msgstr "Veldu sjálfgefna vafrann þinn"
@@ -162,6 +162,9 @@ msgstr "Facebook"
 
 msgid "Parabéns, você concluiu os primeiros passos para utilizar o BigLinux."
 msgstr "Til hamingju, þú hefur lokið fyrstu skrefunum til að nota BigLinux."
+
+msgid "Aguarde, carregando..."
+msgstr "Bíddu, hleðsla..."
 
 msgid "Integração com Google Drive e ownCloud"
 msgstr "Samþætting við Google Drive og ownCloud"
@@ -622,6 +625,9 @@ msgstr "Stillingar skjásins hafa verið endurstilltar."
 
 msgid "Configurações da tela"
 msgstr "Skjástillingar"
+
+msgid "Aguarde, criando arquivos de cache..."
+msgstr "Vinsamlegast bíddu, búðu til skyndiminni skrár..."
 
 msgid "Maximizado"
 msgstr "Hámarkað"

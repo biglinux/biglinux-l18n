@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: bigcontrolcenter\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-06-08 21:46-0300\n"
+"POT-Creation-Date: 2022-06-20 07:12-0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -16,12 +16,6 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit"
-
-msgid "Iniciando no BigLinux"
-msgstr "Starter på BigLinux"
-
-msgid "Central de Controle"
-msgstr "Kontrollsenter"
 
 msgid ""
 "A webcam já está sendo utilizada pelo programa: $WEBCAM_BUSY\n"
@@ -60,6 +54,9 @@ msgstr "Hardinfo-rapport"
 msgid "Introdução ao BigLinux"
 msgstr "Innføring i BigLinux"
 
+msgid "Central de Controle"
+msgstr "Kontrollsenter"
+
 msgid "Bem vindo ao BigLinux"
 msgstr "Velkommen til BigLinux"
 
@@ -81,6 +78,9 @@ msgid ""
 msgstr ""
 "Komplette konfigurasjoner er tilgjengelige for deg å velge på en ekstremt "
 "enkel måte."
+
+msgid "Escolha seu Avatar"
+msgstr "Velg din avatar"
 
 msgid "Escolha seu navegador padrão"
 msgstr "Velg standard nettleser"
@@ -164,6 +164,9 @@ msgstr "Facebook"
 
 msgid "Parabéns, você concluiu os primeiros passos para utilizar o BigLinux."
 msgstr "Gratulerer, du har fullført de første trinnene for å bruke BigLinux."
+
+msgid "Aguarde, carregando..."
+msgstr "Vente, lasting..."
 
 msgid "Integração com Google Drive e ownCloud"
 msgstr "Integrasjon med Google Drive og ownCloud"
@@ -623,6 +626,9 @@ msgstr "Skjerminnstillingene er tilbakestilt."
 
 msgid "Configurações da tela"
 msgstr "Skjerminnstillinger"
+
+msgid "Aguarde, criando arquivos de cache..."
+msgstr "Vennligst vent, lage cache-filer..."
 
 msgid "Maximizado"
 msgstr "Maksimeres"

@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: biglinux-driver-manager\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-06-08 21:46-0300\n"
+"POT-Creation-Date: 2022-06-20 07:13-0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -46,20 +46,121 @@ msgstr "이미 다른 nVidia 드라이버가 설치되어 있습니다. 이 드�
 msgid "Desativado"
 msgstr "비활성화"
 
+msgid "Informações de Hardware"
+msgstr "하드웨어 정보"
+
+msgid "Enviar para transfer.sh"
+msgstr "transfer.sh 으로 보내기"
+
+msgid "Visualizar"
+msgstr "전망"
+
+msgid "O relatório foi salvo no arquivo:"
+msgstr "보고서가 파일에 저장되었습니다."
+
+msgid ""
+"Deseja visualizar o arquivo ou envia-lo ao site transfer.sh, para ter uma "
+"URL com os dados do seu computador de forma fácil de compartilhar?"
+msgstr "파일을 보거나 transfer.sh 웹 사이트로 보내 컴퓨터의 데이터가 포함 된 URL을 쉽게 공유 할 수 있습니까?"
+
 msgid "Categorias"
 msgstr "카테고리"
 
 msgid "Principais"
 msgstr "메인"
 
+msgid "Driver detectado:"
+msgstr "드라이버 감지:"
+
+msgid "<small>* A detecção não inclui impressoras e scanners</small>"
+msgstr "<small>* 감지 기능에는 프린터 및 스캐너가 포함되지 않습니다.</small>"
+
+msgid "Placa de vídeo"
+msgstr "비디오 카드"
+
+msgid "Wifi"
+msgstr "와이파이"
+
+msgid "Rede Cabeada"
+msgstr "케이블 연결 네트워크"
+
+msgid "Bluetooth"
+msgstr "블루투스"
+
+msgid "Impressora"
+msgstr "프린터"
+
+msgid "Impressora 3D"
+msgstr "3D 프린터"
+
+msgid "Scanner"
+msgstr "스캐너"
+
+msgid "TV Digital"
+msgstr "디지털 TV"
+
+msgid "Webcam"
+msgstr "웹캠"
+
+msgid "Touchscreen"
+msgstr "터치스크린"
+
+msgid "Som"
+msgstr "사운드"
+
+msgid "Outros"
+msgstr "기타"
+
+msgid "Pesquisar Driver ou Firmware"
+msgstr "드라이버 또는 펌웨어 검색"
+
+msgid "Resultado da pesquisa"
+msgstr "검색 결과"
+
+msgid "Big-Driver-Manager"
+msgstr "빅 드라이버 매니저"
+
+msgid "Instalar ou Remover Drivers e Firmwares"
+msgstr "드라이버 및 펌웨어 설치 또는 제거"
+
+msgid ""
+"Geralmente é preciso reiniciar o computador para o driver ou firmware ser "
+"aplicado."
+msgstr "일반적으로 드라이버 또는 펌웨어를 적용하려면 컴퓨터를 다시 시작해야 합니다."
+
+msgid "Driver ou firmware"
+msgstr "드라이버 또는 펌웨어"
+
+msgid "Este pacote fornece arquivos compatíveis com este computador."
+msgstr "이 패키지는 이 컴퓨터와 호환되는 파일을 제공합니다."
+
+msgid "Concluído, reinicie o computador para ativar a configuração do driver."
+msgstr "완료, 컴퓨터를 다시 시작하여 드라이버 구성을 활성화하십시오."
+
+msgid "Driver"
+msgstr "드라이버"
+
+msgid "Ocorreu um erro e o driver não pode ser aplicado."
+msgstr "오류가 발생하여 드라이버를 적용할 수 없습니다."
+
+msgid ""
+"Digite sua senha para gerar um relatório removendo dados sensíveis, por "
+"exemplo, endereço de IP, ou cancele para utilizar as informações da tela "
+"anterior."
+msgstr ""
+"암호를 입력하여 중요한 데이터 (예: IP 주소) 를 제거하는 보고서를 생성하거나 취소를 입력하여 이전 화면의 정보를 사용합니다."
+
+msgid "Digite sua senha para gerar um relatório mais completo."
+msgstr "더 완전한 보고서를 생성하려면 비밀번호를 입력합니다."
+
+msgid "Enviando, aguarde..."
+msgstr "보내는 중입니다. 잠시만 기다려"
+
 msgid "Resumo"
 msgstr "요약"
 
 msgid "Processador"
 msgstr "프로세서"
-
-msgid "Placa de vídeo"
-msgstr "비디오 카드"
 
 msgid "Placa mãe"
 msgstr "마더보드"
@@ -85,14 +186,8 @@ msgstr "스토리지"
 msgid "Sistema"
 msgstr "시스템"
 
-msgid "Bluetooth"
-msgstr "블루투스"
-
 msgid "Temperatura"
 msgstr "임시 직원"
-
-msgid "Impressora"
-msgstr "프린터"
 
 msgid "Áudio"
 msgstr "오디오"
@@ -102,12 +197,6 @@ msgstr "추가 정보"
 
 msgid "Pesquisar"
 msgstr "검색"
-
-msgid "Resultado da pesquisa"
-msgstr "검색 결과"
-
-msgid "Informações de Hardware"
-msgstr "하드웨어 정보"
 
 msgid "Informações Sobre o Sistema e o Hardware"
 msgstr "시스템 및 하드웨어 정보"
@@ -162,87 +251,11 @@ msgstr "신분증"
 msgid "Info"
 msgstr "정보"
 
-msgid "Enviar para transfer.sh"
-msgstr "transfer.sh 으로 보내기"
-
-msgid "Visualizar"
-msgstr "전망"
-
-msgid "O relatório foi salvo no arquivo:"
-msgstr "보고서가 파일에 저장되었습니다."
-
-msgid ""
-"Deseja visualizar o arquivo ou envia-lo ao site transfer.sh, para ter uma "
-"URL com os dados do seu computador de forma fácil de compartilhar?"
-msgstr "파일을 보거나 transfer.sh 웹 사이트로 보내 컴퓨터의 데이터가 포함 된 URL을 쉽게 공유 할 수 있습니까?"
-
-msgid "Driver detectado:"
-msgstr "드라이버 감지:"
-
-msgid "<small>* A detecção não inclui impressoras e scanners</small>"
-msgstr "<small>* 감지 기능에는 프린터 및 스캐너가 포함되지 않습니다.</small>"
-
-msgid "Wifi"
-msgstr "와이파이"
-
-msgid "Rede Cabeada"
-msgstr "케이블 연결 네트워크"
-
-msgid "Impressora 3D"
-msgstr "3D 프린터"
-
-msgid "Scanner"
-msgstr "스캐너"
-
-msgid "TV Digital"
-msgstr "디지털 TV"
-
-msgid "Webcam"
-msgstr "웹캠"
-
-msgid "Touchscreen"
-msgstr "터치스크린"
-
-msgid "Som"
-msgstr "사운드"
-
-msgid "Outros"
-msgstr "기타"
-
-msgid "Pesquisar Driver ou Firmware"
-msgstr "드라이버 또는 펌웨어 검색"
-
-msgid "Big-Driver-Manager"
-msgstr "빅 드라이버 매니저"
-
-msgid "Instalar ou Remover Drivers e Firmwares"
-msgstr "드라이버 및 펌웨어 설치 또는 제거"
-
-msgid ""
-"Geralmente é preciso reiniciar o computador para o driver ou firmware ser "
-"aplicado."
-msgstr "일반적으로 드라이버 또는 펌웨어를 적용하려면 컴퓨터를 다시 시작해야 합니다."
-
-msgid "Driver ou firmware"
-msgstr "드라이버 또는 펌웨어"
-
-msgid "Este pacote fornece arquivos compatíveis com este computador."
-msgstr "이 패키지는 이 컴퓨터와 호환되는 파일을 제공합니다."
-
-msgid "Concluído, reinicie o computador para ativar a configuração do driver."
-msgstr "완료, 컴퓨터를 다시 시작하여 드라이버 구성을 활성화하십시오."
-
-msgid "Driver"
-msgstr "드라이버"
-
-msgid "Ocorreu um erro e o driver não pode ser aplicado."
-msgstr "오류가 발생하여 드라이버를 적용할 수 없습니다."
-
 msgid "Swap (Memória Virtual)"
 msgstr "스왑 (가상 메모리)"
 
-msgid "Conexões de Internet"
-msgstr "인터넷 연결"
+msgid "Conexões de Rede"
+msgstr "네트워크 연결"
 
 msgid "Dispositivos e conexões USB"
 msgstr "USB 장치 및 연결"
@@ -250,7 +263,7 @@ msgstr "USB 장치 및 연결"
 msgid "Portas PCI"
 msgstr "PCI 포트"
 
-msgid "Dispositivos de armazenamento"
+msgid "Dispositivos de Armazenamento"
 msgstr "스토리지 디바이스"
 
 msgid "Partições montadas"
@@ -265,21 +278,8 @@ msgstr "논리 디바이스"
 msgid "Raid"
 msgstr "레이드"
 
-msgid "Informações"
-msgstr "인포메이션"
+msgid "Informações de Sistema"
+msgstr "시스템 정보"
 
 msgid "Repositórios"
 msgstr "리포지토리"
-
-msgid ""
-"Digite sua senha para gerar um relatório removendo dados sensíveis, por "
-"exemplo, endereço de IP, ou cancele para utilizar as informações da tela "
-"anterior."
-msgstr ""
-"암호를 입력하여 중요한 데이터 (예: IP 주소) 를 제거하는 보고서를 생성하거나 취소를 입력하여 이전 화면의 정보를 사용합니다."
-
-msgid "Digite sua senha para gerar um relatório mais completo."
-msgstr "더 완전한 보고서를 생성하려면 비밀번호를 입력합니다."
-
-msgid "Enviando, aguarde..."
-msgstr "보내는 중입니다. 잠시만 기다려"

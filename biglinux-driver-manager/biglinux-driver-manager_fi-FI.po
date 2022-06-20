@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: biglinux-driver-manager\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-06-08 21:46-0300\n"
+"POT-Creation-Date: 2022-06-20 07:13-0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -48,20 +48,130 @@ msgstr ""
 msgid "Desativado"
 msgstr "Vammaiset"
 
+msgid "Informações de Hardware"
+msgstr "Laitteistoa koskevat tiedot"
+
+msgid "Enviar para transfer.sh"
+msgstr "Lähetä tiedostoon transfer.sh"
+
+msgid "Visualizar"
+msgstr "Näytä"
+
+msgid "O relatório foi salvo no arquivo:"
+msgstr "Raportti on tallennettu arkistoon:"
+
+msgid ""
+"Deseja visualizar o arquivo ou envia-lo ao site transfer.sh, para ter uma "
+"URL com os dados do seu computador de forma fácil de compartilhar?"
+msgstr ""
+"Haluatko tarkastella tiedostoa tai lähettää sen transfer.sh:lle, jotta saat "
+"URL-osoitteen, jossa on tiedot tietokoneeltasi helposti jaettavaksi?"
+
 msgid "Categorias"
 msgstr "Kategoriat"
 
 msgid "Principais"
 msgstr "Main"
 
+msgid "Driver detectado:"
+msgstr "Kuljettaja havaittu:"
+
+msgid "<small>* A detecção não inclui impressoras e scanners</small>"
+msgstr "<small>* Havaitseminen ei sisällä tulostimia ja skannereita</small>"
+
+msgid "Placa de vídeo"
+msgstr "Videokortti"
+
+msgid "Wifi"
+msgstr "Wifi"
+
+msgid "Rede Cabeada"
+msgstr "Langallinen verkko"
+
+msgid "Bluetooth"
+msgstr "Bluetooth"
+
+msgid "Impressora"
+msgstr "Tulostin"
+
+msgid "Impressora 3D"
+msgstr "3D-tulostin"
+
+msgid "Scanner"
+msgstr "Skanneri"
+
+msgid "TV Digital"
+msgstr "Digitaalinen televisio"
+
+msgid "Webcam"
+msgstr "Webkamera"
+
+msgid "Touchscreen"
+msgstr "Kosketusnäyttö"
+
+msgid "Som"
+msgstr "Ääni"
+
+msgid "Outros"
+msgstr "Muut"
+
+msgid "Pesquisar Driver ou Firmware"
+msgstr "Etsi ajuria tai laiteohjelmaa"
+
+msgid "Resultado da pesquisa"
+msgstr "Hakutulos"
+
+msgid "Big-Driver-Manager"
+msgstr "Big-Driver-Manager"
+
+msgid "Instalar ou Remover Drivers e Firmwares"
+msgstr "Asenna tai poista ajurit ja laiteohjelmat"
+
+msgid ""
+"Geralmente é preciso reiniciar o computador para o driver ou firmware ser "
+"aplicado."
+msgstr ""
+"Tietokone on yleensä käynnistettävä uudelleen, jotta ohjain tai "
+"laiteohjelmisto voidaan asentaa."
+
+msgid "Driver ou firmware"
+msgstr "Ajuri tai laiteohjelma"
+
+msgid "Este pacote fornece arquivos compatíveis com este computador."
+msgstr ""
+"Tämä paketti sisältää tämän tietokoneen kanssa yhteensopivat tiedostot."
+
+msgid "Concluído, reinicie o computador para ativar a configuração do driver."
+msgstr ""
+"Kun olet valmis, käynnistä tietokone uudelleen aktivoidaksesi "
+"ajurikokoonpanon."
+
+msgid "Driver"
+msgstr "Kuljettaja"
+
+msgid "Ocorreu um erro e o driver não pode ser aplicado."
+msgstr "Tapahtui virhe, eikä ohjainta voida käyttää."
+
+msgid ""
+"Digite sua senha para gerar um relatório removendo dados sensíveis, por "
+"exemplo, endereço de IP, ou cancele para utilizar as informações da tela "
+"anterior."
+msgstr ""
+"Syötä salasanasi, jos haluat luoda raportin, josta poistetaan arkaluonteiset "
+"tiedot, kuten IP-osoite, tai peruuta, jos haluat käyttää edellisen näytön "
+"tietoja."
+
+msgid "Digite sua senha para gerar um relatório mais completo."
+msgstr "Syötä salasanasi luodaksesi täydellisemmän raportin."
+
+msgid "Enviando, aguarde..."
+msgstr "Lähetys, odota..."
+
 msgid "Resumo"
 msgstr "Yhteenveto"
 
 msgid "Processador"
 msgstr "Prosessori"
-
-msgid "Placa de vídeo"
-msgstr "Videokortti"
 
 msgid "Placa mãe"
 msgstr "Emolevy"
@@ -87,14 +197,8 @@ msgstr "Varastointi"
 msgid "Sistema"
 msgstr "Järjestelmä"
 
-msgid "Bluetooth"
-msgstr "Bluetooth"
-
 msgid "Temperatura"
 msgstr "Lämpötila"
-
-msgid "Impressora"
-msgstr "Tulostin"
 
 msgid "Áudio"
 msgstr "Audio"
@@ -104,12 +208,6 @@ msgstr "Lisätietoja"
 
 msgid "Pesquisar"
 msgstr "Etsi"
-
-msgid "Resultado da pesquisa"
-msgstr "Hakutulos"
-
-msgid "Informações de Hardware"
-msgstr "Laitteistoa koskevat tiedot"
 
 msgid "Informações Sobre o Sistema e o Hardware"
 msgstr "Järjestelmää ja laitteistoa koskevat tiedot"
@@ -167,94 +265,11 @@ msgstr "ID"
 msgid "Info"
 msgstr "Info"
 
-msgid "Enviar para transfer.sh"
-msgstr "Lähetä tiedostoon transfer.sh"
-
-msgid "Visualizar"
-msgstr "Näytä"
-
-msgid "O relatório foi salvo no arquivo:"
-msgstr "Raportti on tallennettu arkistoon:"
-
-msgid ""
-"Deseja visualizar o arquivo ou envia-lo ao site transfer.sh, para ter uma "
-"URL com os dados do seu computador de forma fácil de compartilhar?"
-msgstr ""
-"Haluatko tarkastella tiedostoa tai lähettää sen transfer.sh:lle, jotta saat "
-"URL-osoitteen, jossa on tiedot tietokoneeltasi helposti jaettavaksi?"
-
-msgid "Driver detectado:"
-msgstr "Kuljettaja havaittu:"
-
-msgid "<small>* A detecção não inclui impressoras e scanners</small>"
-msgstr "<small>* Havaitseminen ei sisällä tulostimia ja skannereita</small>"
-
-msgid "Wifi"
-msgstr "Wifi"
-
-msgid "Rede Cabeada"
-msgstr "Langallinen verkko"
-
-msgid "Impressora 3D"
-msgstr "3D-tulostin"
-
-msgid "Scanner"
-msgstr "Skanneri"
-
-msgid "TV Digital"
-msgstr "Digitaalinen televisio"
-
-msgid "Webcam"
-msgstr "Webkamera"
-
-msgid "Touchscreen"
-msgstr "Kosketusnäyttö"
-
-msgid "Som"
-msgstr "Ääni"
-
-msgid "Outros"
-msgstr "Muut"
-
-msgid "Pesquisar Driver ou Firmware"
-msgstr "Etsi ajuria tai laiteohjelmaa"
-
-msgid "Big-Driver-Manager"
-msgstr "Big-Driver-Manager"
-
-msgid "Instalar ou Remover Drivers e Firmwares"
-msgstr "Asenna tai poista ajurit ja laiteohjelmat"
-
-msgid ""
-"Geralmente é preciso reiniciar o computador para o driver ou firmware ser "
-"aplicado."
-msgstr ""
-"Tietokone on yleensä käynnistettävä uudelleen, jotta ohjain tai "
-"laiteohjelmisto voidaan asentaa."
-
-msgid "Driver ou firmware"
-msgstr "Ajuri tai laiteohjelma"
-
-msgid "Este pacote fornece arquivos compatíveis com este computador."
-msgstr ""
-"Tämä paketti sisältää tämän tietokoneen kanssa yhteensopivat tiedostot."
-
-msgid "Concluído, reinicie o computador para ativar a configuração do driver."
-msgstr ""
-"Kun olet valmis, käynnistä tietokone uudelleen aktivoidaksesi "
-"ajurikokoonpanon."
-
-msgid "Driver"
-msgstr "Kuljettaja"
-
-msgid "Ocorreu um erro e o driver não pode ser aplicado."
-msgstr "Tapahtui virhe, eikä ohjainta voida käyttää."
-
 msgid "Swap (Memória Virtual)"
 msgstr "Swap (virtuaalimuisti)"
 
-msgid "Conexões de Internet"
-msgstr "Internet-yhteydet"
+msgid "Conexões de Rede"
+msgstr "Verkkoyhteydet"
 
 msgid "Dispositivos e conexões USB"
 msgstr "USB-laitteet ja -liitännät"
@@ -262,7 +277,7 @@ msgstr "USB-laitteet ja -liitännät"
 msgid "Portas PCI"
 msgstr "PCI-portit"
 
-msgid "Dispositivos de armazenamento"
+msgid "Dispositivos de Armazenamento"
 msgstr "Tallennuslaitteet"
 
 msgid "Partições montadas"
@@ -277,23 +292,8 @@ msgstr "Logiikkalaitteet"
 msgid "Raid"
 msgstr "Raid"
 
-msgid "Informações"
-msgstr "Tiedot"
+msgid "Informações de Sistema"
+msgstr "Järjestelmätiedot"
 
 msgid "Repositórios"
 msgstr "Tietovarastot"
-
-msgid ""
-"Digite sua senha para gerar um relatório removendo dados sensíveis, por "
-"exemplo, endereço de IP, ou cancele para utilizar as informações da tela "
-"anterior."
-msgstr ""
-"Syötä salasanasi, jos haluat luoda raportin, josta poistetaan arkaluonteiset "
-"tiedot, kuten IP-osoite, tai peruuta, jos haluat käyttää edellisen näytön "
-"tietoja."
-
-msgid "Digite sua senha para gerar um relatório mais completo."
-msgstr "Syötä salasanasi luodaksesi täydellisemmän raportin."
-
-msgid "Enviando, aguarde..."
-msgstr "Lähetys, odota..."

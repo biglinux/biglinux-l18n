@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: biglinux-driver-manager\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-06-08 21:46-0300\n"
+"POT-Creation-Date: 2022-06-20 07:13-0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -48,20 +48,128 @@ msgstr ""
 msgid "Desativado"
 msgstr "Desativado"
 
+msgid "Informações de Hardware"
+msgstr "Informações de Hardware"
+
+msgid "Enviar para transfer.sh"
+msgstr "Enviar para transfer.sh"
+
+msgid "Visualizar"
+msgstr "Visualizar"
+
+msgid "O relatório foi salvo no arquivo:"
+msgstr "O relatório foi salvo no arquivo:"
+
+msgid ""
+"Deseja visualizar o arquivo ou envia-lo ao site transfer.sh, para ter uma "
+"URL com os dados do seu computador de forma fácil de compartilhar?"
+msgstr ""
+"Deseja visualizar o arquivo ou envia-lo ao site transfer.sh, para ter uma "
+"URL com os dados do seu computador de forma fácil de compartilhar?"
+
 msgid "Categorias"
 msgstr "Categorias"
 
 msgid "Principais"
 msgstr "Principais"
 
+msgid "Driver detectado:"
+msgstr "Driver detectado:"
+
+msgid "<small>* A detecção não inclui impressoras e scanners</small>"
+msgstr "<small>* A detecção não inclui impressoras e scanners</small>"
+
+msgid "Placa de vídeo"
+msgstr "Placa de vídeo"
+
+msgid "Wifi"
+msgstr "Wifi"
+
+msgid "Rede Cabeada"
+msgstr "Rede Cabeada"
+
+msgid "Bluetooth"
+msgstr "Bluetooth"
+
+msgid "Impressora"
+msgstr "Impressora"
+
+msgid "Impressora 3D"
+msgstr "Impressora 3D"
+
+msgid "Scanner"
+msgstr "Scanner"
+
+msgid "TV Digital"
+msgstr "TV Digital"
+
+msgid "Webcam"
+msgstr "Webcam"
+
+msgid "Touchscreen"
+msgstr "Touchscreen"
+
+msgid "Som"
+msgstr "Som"
+
+msgid "Outros"
+msgstr "Outros"
+
+msgid "Pesquisar Driver ou Firmware"
+msgstr "Pesquisar Driver ou Firmware"
+
+msgid "Resultado da pesquisa"
+msgstr "Resultado da pesquisa"
+
+msgid "Big-Driver-Manager"
+msgstr "Big-Driver-Manager"
+
+msgid "Instalar ou Remover Drivers e Firmwares"
+msgstr "Instalar ou Remover Drivers e Firmwares"
+
+msgid ""
+"Geralmente é preciso reiniciar o computador para o driver ou firmware ser "
+"aplicado."
+msgstr ""
+"Geralmente é preciso reiniciar o computador para o driver ou firmware ser "
+"aplicado."
+
+msgid "Driver ou firmware"
+msgstr "Driver ou firmware"
+
+msgid "Este pacote fornece arquivos compatíveis com este computador."
+msgstr "Este pacote fornece arquivos compatíveis com este computador."
+
+msgid "Concluído, reinicie o computador para ativar a configuração do driver."
+msgstr ""
+"Concluído, reinicie o computador para ativar a configuração do driver."
+
+msgid "Driver"
+msgstr "Driver"
+
+msgid "Ocorreu um erro e o driver não pode ser aplicado."
+msgstr "Ocorreu um erro e o driver não pode ser aplicado."
+
+msgid ""
+"Digite sua senha para gerar um relatório removendo dados sensíveis, por "
+"exemplo, endereço de IP, ou cancele para utilizar as informações da tela "
+"anterior."
+msgstr ""
+"Digite sua senha para gerar um relatório removendo dados sensíveis, por "
+"exemplo, endereço de IP, ou cancele para utilizar as informações da tela "
+"anterior."
+
+msgid "Digite sua senha para gerar um relatório mais completo."
+msgstr "Digite sua senha para gerar um relatório mais completo."
+
+msgid "Enviando, aguarde..."
+msgstr "Enviando, aguarde..."
+
 msgid "Resumo"
 msgstr "Resumo"
 
 msgid "Processador"
 msgstr "Processador"
-
-msgid "Placa de vídeo"
-msgstr "Placa de vídeo"
 
 msgid "Placa mãe"
 msgstr "Placa mãe"
@@ -87,14 +195,8 @@ msgstr "Armazenamento"
 msgid "Sistema"
 msgstr "Sistema"
 
-msgid "Bluetooth"
-msgstr "Bluetooth"
-
 msgid "Temperatura"
 msgstr "Temperatura"
-
-msgid "Impressora"
-msgstr "Impressora"
 
 msgid "Áudio"
 msgstr "Áudio"
@@ -104,12 +206,6 @@ msgstr "Mais informações"
 
 msgid "Pesquisar"
 msgstr "Pesquisar"
-
-msgid "Resultado da pesquisa"
-msgstr "Resultado da pesquisa"
-
-msgid "Informações de Hardware"
-msgstr "Informações de Hardware"
 
 msgid "Informações Sobre o Sistema e o Hardware"
 msgstr "Informações Sobre o Sistema e o Hardware"
@@ -166,92 +262,11 @@ msgstr "ID"
 msgid "Info"
 msgstr "Info"
 
-msgid "Enviar para transfer.sh"
-msgstr "Enviar para transfer.sh"
-
-msgid "Visualizar"
-msgstr "Visualizar"
-
-msgid "O relatório foi salvo no arquivo:"
-msgstr "O relatório foi salvo no arquivo:"
-
-msgid ""
-"Deseja visualizar o arquivo ou envia-lo ao site transfer.sh, para ter uma "
-"URL com os dados do seu computador de forma fácil de compartilhar?"
-msgstr ""
-"Deseja visualizar o arquivo ou envia-lo ao site transfer.sh, para ter uma "
-"URL com os dados do seu computador de forma fácil de compartilhar?"
-
-msgid "Driver detectado:"
-msgstr "Driver detectado:"
-
-msgid "<small>* A detecção não inclui impressoras e scanners</small>"
-msgstr "<small>* A detecção não inclui impressoras e scanners</small>"
-
-msgid "Wifi"
-msgstr "Wifi"
-
-msgid "Rede Cabeada"
-msgstr "Rede Cabeada"
-
-msgid "Impressora 3D"
-msgstr "Impressora 3D"
-
-msgid "Scanner"
-msgstr "Scanner"
-
-msgid "TV Digital"
-msgstr "TV Digital"
-
-msgid "Webcam"
-msgstr "Webcam"
-
-msgid "Touchscreen"
-msgstr "Touchscreen"
-
-msgid "Som"
-msgstr "Som"
-
-msgid "Outros"
-msgstr "Outros"
-
-msgid "Pesquisar Driver ou Firmware"
-msgstr "Pesquisar Driver ou Firmware"
-
-msgid "Big-Driver-Manager"
-msgstr "Big-Driver-Manager"
-
-msgid "Instalar ou Remover Drivers e Firmwares"
-msgstr "Instalar ou Remover Drivers e Firmwares"
-
-msgid ""
-"Geralmente é preciso reiniciar o computador para o driver ou firmware ser "
-"aplicado."
-msgstr ""
-"Geralmente é preciso reiniciar o computador para o driver ou firmware ser "
-"aplicado."
-
-msgid "Driver ou firmware"
-msgstr "Driver ou firmware"
-
-msgid "Este pacote fornece arquivos compatíveis com este computador."
-msgstr "Este pacote fornece arquivos compatíveis com este computador."
-
-msgid "Concluído, reinicie o computador para ativar a configuração do driver."
-msgstr ""
-"Concluído, reinicie o computador para ativar a configuração do driver."
-
-msgid "Driver"
-msgstr "Driver"
-
-msgid "Ocorreu um erro e o driver não pode ser aplicado."
-msgstr "Ocorreu um erro e o driver não pode ser aplicado."
-
 msgid "Swap (Memória Virtual)"
 msgstr "Swap (Memória Virtual)"
 
-msgid "Conexões de Internet"
-msgstr "Conexões de Internet"
+msgid "Conexões de Rede"
+msgstr "Conexões de Rede"
 
 msgid "Dispositivos e conexões USB"
 msgstr "Dispositivos e conexões USB"
@@ -259,8 +274,8 @@ msgstr "Dispositivos e conexões USB"
 msgid "Portas PCI"
 msgstr "Portas PCI"
 
-msgid "Dispositivos de armazenamento"
-msgstr "Dispositivos de armazenamento"
+msgid "Dispositivos de Armazenamento"
+msgstr "Dispositivos de Armazenamento"
 
 msgid "Partições montadas"
 msgstr "Partições montadas"
@@ -274,23 +289,8 @@ msgstr "Dispositivos lógicos"
 msgid "Raid"
 msgstr "Raid"
 
-msgid "Informações"
-msgstr "Informações"
+msgid "Informações de Sistema"
+msgstr "Informações de Sistema"
 
 msgid "Repositórios"
 msgstr "Repositórios"
-
-msgid ""
-"Digite sua senha para gerar um relatório removendo dados sensíveis, por "
-"exemplo, endereço de IP, ou cancele para utilizar as informações da tela "
-"anterior."
-msgstr ""
-"Digite sua senha para gerar um relatório removendo dados sensíveis, por "
-"exemplo, endereço de IP, ou cancele para utilizar as informações da tela "
-"anterior."
-
-msgid "Digite sua senha para gerar um relatório mais completo."
-msgstr "Digite sua senha para gerar um relatório mais completo."
-
-msgid "Enviando, aguarde..."
-msgstr "Enviando, aguarde..."

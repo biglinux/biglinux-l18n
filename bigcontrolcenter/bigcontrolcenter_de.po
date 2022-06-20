@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: bigcontrolcenter\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-06-08 21:46-0300\n"
+"POT-Creation-Date: 2022-06-20 07:12-0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -16,12 +16,6 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit"
-
-msgid "Iniciando no BigLinux"
-msgstr "BigLinux starten"
-
-msgid "Central de Controle"
-msgstr "Kontrollzentrum"
 
 msgid ""
 "A webcam já está sendo utilizada pelo programa: $WEBCAM_BUSY\n"
@@ -60,6 +54,9 @@ msgstr "Hardinfo Relator"
 msgid "Introdução ao BigLinux"
 msgstr "Einführung in BigLinux"
 
+msgid "Central de Controle"
+msgstr "Kontrollzentrum"
+
 msgid "Bem vindo ao BigLinux"
 msgstr "Willkommen bei BigLinux"
 
@@ -81,6 +78,9 @@ msgid ""
 msgstr ""
 "Wir stellen Ihnen komplette Konfigurationen zur Verfügung, aus denen Sie "
 "ganz einfach auswählen können."
+
+msgid "Escolha seu Avatar"
+msgstr "Wählen Sie Ihren Avatar"
 
 msgid "Escolha seu navegador padrão"
 msgstr "Wählen Sie Ihren Standardbrowser"
@@ -167,6 +167,9 @@ msgid "Parabéns, você concluiu os primeiros passos para utilizar o BigLinux."
 msgstr ""
 "Herzlichen Glückwunsch, Sie haben die ersten Schritte zur Verwendung von "
 "BigLinux abgeschlossen."
+
+msgid "Aguarde, carregando..."
+msgstr "Bereithalten, Laden..."
 
 msgid "Integração com Google Drive e ownCloud"
 msgstr "Integration mit Google Drive und ownCloud"
@@ -645,6 +648,9 @@ msgstr "Die Bildschirmeinstellungen wurden zurückgesetzt."
 
 msgid "Configurações da tela"
 msgstr "Bildschirmeinstellungen"
+
+msgid "Aguarde, criando arquivos de cache..."
+msgstr "Bereithalten, um Cache-Dateien zu erstellen..."
 
 msgid "Maximizado"
 msgstr "Maximiert"

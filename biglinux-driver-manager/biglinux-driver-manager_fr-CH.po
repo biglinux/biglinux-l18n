@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: biglinux-driver-manager\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-06-08 21:46-0300\n"
+"POT-Creation-Date: 2022-06-20 07:13-0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -48,20 +48,130 @@ msgstr ""
 msgid "Desativado"
 msgstr "Handicapés"
 
+msgid "Informações de Hardware"
+msgstr "Informations sur le matériel"
+
+msgid "Enviar para transfer.sh"
+msgstr "Envoyer à transfer.sh"
+
+msgid "Visualizar"
+msgstr "Voir"
+
+msgid "O relatório foi salvo no arquivo:"
+msgstr "Le rapport a été enregistré dans les archives :"
+
+msgid ""
+"Deseja visualizar o arquivo ou envia-lo ao site transfer.sh, para ter uma "
+"URL com os dados do seu computador de forma fácil de compartilhar?"
+msgstr ""
+"Voulez-vous voir le fichier ou l'envoyer à transfer.sh, pour avoir une URL "
+"avec les données de votre ordinateur d'une manière facile à partager ?"
+
 msgid "Categorias"
 msgstr "Catégories"
 
 msgid "Principais"
 msgstr "Principal"
 
+msgid "Driver detectado:"
+msgstr "Pilote détecté :"
+
+msgid "<small>* A detecção não inclui impressoras e scanners</small>"
+msgstr ""
+"<small>* La détection n'inclut pas les imprimantes et les scanners</small>"
+
+msgid "Placa de vídeo"
+msgstr "Carte vidéo"
+
+msgid "Wifi"
+msgstr "Wifi"
+
+msgid "Rede Cabeada"
+msgstr "Réseau câblé"
+
+msgid "Bluetooth"
+msgstr "Bluetooth"
+
+msgid "Impressora"
+msgstr "Imprimante"
+
+msgid "Impressora 3D"
+msgstr "Imprimante 3D"
+
+msgid "Scanner"
+msgstr "Scanner"
+
+msgid "TV Digital"
+msgstr "Télévision numérique"
+
+msgid "Webcam"
+msgstr "Webcam"
+
+msgid "Touchscreen"
+msgstr "Écran tactile"
+
+msgid "Som"
+msgstr "Son"
+
+msgid "Outros"
+msgstr "Autre"
+
+msgid "Pesquisar Driver ou Firmware"
+msgstr "Rechercher un pilote ou un micrologiciel"
+
+msgid "Resultado da pesquisa"
+msgstr "Résultat de la recherche"
+
+msgid "Big-Driver-Manager"
+msgstr "Big-Driver-Manager"
+
+msgid "Instalar ou Remover Drivers e Firmwares"
+msgstr "Installer ou supprimer des pilotes et des micrologiciels"
+
+msgid ""
+"Geralmente é preciso reiniciar o computador para o driver ou firmware ser "
+"aplicado."
+msgstr ""
+"Il est généralement nécessaire de redémarrer l'ordinateur pour que le pilote "
+"ou le micrologiciel soit appliqué."
+
+msgid "Driver ou firmware"
+msgstr "Pilote ou micrologiciel"
+
+msgid "Este pacote fornece arquivos compatíveis com este computador."
+msgstr "Ce paquetage fournit des fichiers compatibles avec cet ordinateur."
+
+msgid "Concluído, reinicie o computador para ativar a configuração do driver."
+msgstr ""
+"Une fois terminé, redémarrez votre ordinateur pour activer la configuration "
+"du pilote."
+
+msgid "Driver"
+msgstr "Conducteur"
+
+msgid "Ocorreu um erro e o driver não pode ser aplicado."
+msgstr "Une erreur s'est produite et le pilote ne peut pas être appliqué."
+
+msgid ""
+"Digite sua senha para gerar um relatório removendo dados sensíveis, por "
+"exemplo, endereço de IP, ou cancele para utilizar as informações da tela "
+"anterior."
+msgstr ""
+"Saisissez votre mot de passe pour générer un rapport supprimant les données "
+"sensibles, par exemple l'adresse IP, ou annulez pour utiliser les "
+"informations de l'écran précédent."
+
+msgid "Digite sua senha para gerar um relatório mais completo."
+msgstr "Saisissez votre mot de passe pour générer un rapport plus complet."
+
+msgid "Enviando, aguarde..."
+msgstr "Envoi, veuillez patienter..."
+
 msgid "Resumo"
 msgstr "Résumé"
 
 msgid "Processador"
 msgstr "Processeur"
-
-msgid "Placa de vídeo"
-msgstr "Carte vidéo"
 
 msgid "Placa mãe"
 msgstr "Carte mère"
@@ -87,14 +197,8 @@ msgstr "Stockage"
 msgid "Sistema"
 msgstr "Système"
 
-msgid "Bluetooth"
-msgstr "Bluetooth"
-
 msgid "Temperatura"
 msgstr "Température"
-
-msgid "Impressora"
-msgstr "Imprimante"
 
 msgid "Áudio"
 msgstr "Audio"
@@ -104,12 +208,6 @@ msgstr "Plus d'informations"
 
 msgid "Pesquisar"
 msgstr "Recherche"
-
-msgid "Resultado da pesquisa"
-msgstr "Résultat de la recherche"
-
-msgid "Informações de Hardware"
-msgstr "Informations sur le matériel"
 
 msgid "Informações Sobre o Sistema e o Hardware"
 msgstr "Informations sur le système et le matériel"
@@ -168,94 +266,11 @@ msgstr "ID"
 msgid "Info"
 msgstr "Info"
 
-msgid "Enviar para transfer.sh"
-msgstr "Envoyer à transfer.sh"
-
-msgid "Visualizar"
-msgstr "Voir"
-
-msgid "O relatório foi salvo no arquivo:"
-msgstr "Le rapport a été enregistré dans les archives :"
-
-msgid ""
-"Deseja visualizar o arquivo ou envia-lo ao site transfer.sh, para ter uma "
-"URL com os dados do seu computador de forma fácil de compartilhar?"
-msgstr ""
-"Voulez-vous voir le fichier ou l'envoyer à transfer.sh, pour avoir une URL "
-"avec les données de votre ordinateur d'une manière facile à partager ?"
-
-msgid "Driver detectado:"
-msgstr "Pilote détecté :"
-
-msgid "<small>* A detecção não inclui impressoras e scanners</small>"
-msgstr ""
-"<small>* La détection n'inclut pas les imprimantes et les scanners</small>"
-
-msgid "Wifi"
-msgstr "Wifi"
-
-msgid "Rede Cabeada"
-msgstr "Réseau câblé"
-
-msgid "Impressora 3D"
-msgstr "Imprimante 3D"
-
-msgid "Scanner"
-msgstr "Scanner"
-
-msgid "TV Digital"
-msgstr "Télévision numérique"
-
-msgid "Webcam"
-msgstr "Webcam"
-
-msgid "Touchscreen"
-msgstr "Écran tactile"
-
-msgid "Som"
-msgstr "Son"
-
-msgid "Outros"
-msgstr "Autre"
-
-msgid "Pesquisar Driver ou Firmware"
-msgstr "Rechercher un pilote ou un micrologiciel"
-
-msgid "Big-Driver-Manager"
-msgstr "Big-Driver-Manager"
-
-msgid "Instalar ou Remover Drivers e Firmwares"
-msgstr "Installer ou supprimer des pilotes et des micrologiciels"
-
-msgid ""
-"Geralmente é preciso reiniciar o computador para o driver ou firmware ser "
-"aplicado."
-msgstr ""
-"Il est généralement nécessaire de redémarrer l'ordinateur pour que le pilote "
-"ou le micrologiciel soit appliqué."
-
-msgid "Driver ou firmware"
-msgstr "Pilote ou micrologiciel"
-
-msgid "Este pacote fornece arquivos compatíveis com este computador."
-msgstr "Ce paquetage fournit des fichiers compatibles avec cet ordinateur."
-
-msgid "Concluído, reinicie o computador para ativar a configuração do driver."
-msgstr ""
-"Une fois terminé, redémarrez votre ordinateur pour activer la configuration "
-"du pilote."
-
-msgid "Driver"
-msgstr "Conducteur"
-
-msgid "Ocorreu um erro e o driver não pode ser aplicado."
-msgstr "Une erreur s'est produite et le pilote ne peut pas être appliqué."
-
 msgid "Swap (Memória Virtual)"
 msgstr "Swap (mémoire virtuelle)"
 
-msgid "Conexões de Internet"
-msgstr "Connexions Internet"
+msgid "Conexões de Rede"
+msgstr "Connexions réseau"
 
 msgid "Dispositivos e conexões USB"
 msgstr "Dispositifs et connexions USB"
@@ -263,8 +278,8 @@ msgstr "Dispositifs et connexions USB"
 msgid "Portas PCI"
 msgstr "Ports PCI"
 
-msgid "Dispositivos de armazenamento"
-msgstr "Dispositifs de stockage"
+msgid "Dispositivos de Armazenamento"
+msgstr "Périphériques de stockage"
 
 msgid "Partições montadas"
 msgstr "Cloisons montées"
@@ -278,23 +293,8 @@ msgstr "Dispositifs logiques"
 msgid "Raid"
 msgstr "Raid"
 
-msgid "Informações"
-msgstr "Information"
+msgid "Informações de Sistema"
+msgstr "Informations sur le système"
 
 msgid "Repositórios"
 msgstr "Dépôts"
-
-msgid ""
-"Digite sua senha para gerar um relatório removendo dados sensíveis, por "
-"exemplo, endereço de IP, ou cancele para utilizar as informações da tela "
-"anterior."
-msgstr ""
-"Saisissez votre mot de passe pour générer un rapport supprimant les données "
-"sensibles, par exemple l'adresse IP, ou annulez pour utiliser les "
-"informations de l'écran précédent."
-
-msgid "Digite sua senha para gerar um relatório mais completo."
-msgstr "Saisissez votre mot de passe pour générer un rapport plus complet."
-
-msgid "Enviando, aguarde..."
-msgstr "Envoi, veuillez patienter..."

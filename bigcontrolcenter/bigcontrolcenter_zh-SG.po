@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: bigcontrolcenter\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-06-08 21:46-0300\n"
+"POT-Creation-Date: 2022-06-20 07:12-0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -16,12 +16,6 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit"
-
-msgid "Iniciando no BigLinux"
-msgstr "启动BigLinux"
-
-msgid "Central de Controle"
-msgstr "控制中心"
 
 msgid ""
 "A webcam já está sendo utilizada pelo programa: $WEBCAM_BUSY\n"
@@ -60,6 +54,9 @@ msgstr "困难情况下的相关信息"
 msgid "Introdução ao BigLinux"
 msgstr "BigLinux简介"
 
+msgid "Central de Controle"
+msgstr "控制中心"
+
 msgid "Bem vindo ao BigLinux"
 msgstr "欢迎来到BigLinux"
 
@@ -79,6 +76,9 @@ msgid ""
 "Disponiblizamos configurações completas para você selecionar de forma "
 "extremamente simples."
 msgstr "我们以非常简单的方式提供完整的配置供你选择。"
+
+msgid "Escolha seu Avatar"
+msgstr "选择你的头像"
 
 msgid "Escolha seu navegador padrão"
 msgstr "选择你的默认浏览器"
@@ -157,6 +157,9 @@ msgstr "脸书"
 msgid "Parabéns, você concluiu os primeiros passos para utilizar o BigLinux."
 msgstr "恭喜你，你已经完成了使用BigLinux的第一个步骤。"
 
+msgid "Aguarde, carregando..."
+msgstr "准备好了，正在加载..."
+
 msgid "Integração com Google Drive e ownCloud"
 msgstr "与Google Drive和ownCloud整合"
 
@@ -200,7 +203,7 @@ msgstr ""
 "<br><br>\n"
 "它也可以用来访问管理器\n"
 "<br>\n"
-"经理和安装系统的终端。</br></br></br></br>"
+"经理和安装系统的终端。"
 
 msgid "Temas do Bootsplash"
 msgstr "Bootsplash主题"
@@ -453,7 +456,7 @@ msgstr ""
 "<br><br>\n"
 "通过激活，它将自动连接，你将使用与你的安卓设备相同的连接。\n"
 "<br>\n"
-"*如果你正在使用移动数据，它将从你的数据计划中消耗。</br></br></br></br></br></br></br>"
+"*如果你正在使用移动数据，它将从你的数据计划中消耗。"
 
 msgid "Visualizar informações do sistema e hardware"
 msgstr "查看系统和硬件信息"
@@ -575,6 +578,9 @@ msgstr "屏幕设置已被重置。"
 msgid "Configurações da tela"
 msgstr "屏幕设置"
 
+msgid "Aguarde, criando arquivos de cache..."
+msgstr "准备就绪，创建缓存文件..."
+
 msgid "Maximizado"
 msgstr "最大化"
 
@@ -608,7 +614,7 @@ msgstr "Waydroid也可以通过系统菜单启动"
 msgid ""
 "Se a aceleração 3D estiver ativada em um hardware incompatível<br> o android "
 "não passará da tela de loading"
-msgstr "如果在不兼容的硬件上启用3D加速，<br>安卓将无法通过加载屏幕</br>。"
+msgstr "如果在不兼容的硬件上启用3D加速，<br>安卓将无法通过加载屏幕。"
 
 msgid "Parar o Waydroid"
 msgstr "阻止Waydroid"

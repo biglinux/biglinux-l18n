@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: biglinux-driver-manager\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-06-08 21:46-0300\n"
+"POT-Creation-Date: 2022-06-20 07:13-0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -48,20 +48,129 @@ msgstr ""
 msgid "Desativado"
 msgstr "Engelli"
 
+msgid "Informações de Hardware"
+msgstr "Donanım Bilgileri"
+
+msgid "Enviar para transfer.sh"
+msgstr "Transfer.sh dosyasına gönder"
+
+msgid "Visualizar"
+msgstr "Görünüm"
+
+msgid "O relatório foi salvo no arquivo:"
+msgstr "Rapor arşive kaydedildi:"
+
+msgid ""
+"Deseja visualizar o arquivo ou envia-lo ao site transfer.sh, para ter uma "
+"URL com os dados do seu computador de forma fácil de compartilhar?"
+msgstr ""
+"Dosyayı görüntülemek mi yoksa bilgisayarınızdaki verileri kolay bir şekilde "
+"paylaşmak için bir URL'ye sahip olmak için transfer.sh'ye göndermek mi "
+"istiyorsunuz?"
+
 msgid "Categorias"
 msgstr "Kategoriler"
 
 msgid "Principais"
 msgstr "Ana"
 
+msgid "Driver detectado:"
+msgstr "Sürücü tespit edildi:"
+
+msgid "<small>* A detecção não inclui impressoras e scanners</small>"
+msgstr "<small>* Algılama yazıcıları ve tarayıcıları içermez</small>"
+
+msgid "Placa de vídeo"
+msgstr "Ekran kartı"
+
+msgid "Wifi"
+msgstr "Wifi"
+
+msgid "Rede Cabeada"
+msgstr "Kablolu Ağ"
+
+msgid "Bluetooth"
+msgstr "Bluetooth"
+
+msgid "Impressora"
+msgstr "Yazıcı"
+
+msgid "Impressora 3D"
+msgstr "3D yazıcı"
+
+msgid "Scanner"
+msgstr "Tarayıcı"
+
+msgid "TV Digital"
+msgstr "Dijital TV"
+
+msgid "Webcam"
+msgstr "Web kamerası"
+
+msgid "Touchscreen"
+msgstr "Dokunmatik ekran"
+
+msgid "Som"
+msgstr "Ses"
+
+msgid "Outros"
+msgstr "Diğer"
+
+msgid "Pesquisar Driver ou Firmware"
+msgstr "Sürücü veya Ürün Yazılımını Arama"
+
+msgid "Resultado da pesquisa"
+msgstr "Arama sonucu"
+
+msgid "Big-Driver-Manager"
+msgstr "Big-Driver-Manager"
+
+msgid "Instalar ou Remover Drivers e Firmwares"
+msgstr "Sürücüleri ve Ürün Yazılımını Yükleme veya Kaldırma"
+
+msgid ""
+"Geralmente é preciso reiniciar o computador para o driver ou firmware ser "
+"aplicado."
+msgstr ""
+"Sürücü veya ürün yazılımının uygulanması için genellikle bilgisayarın "
+"yeniden başlatılması gerekir."
+
+msgid "Driver ou firmware"
+msgstr "Sürücü veya ürün yazılımı"
+
+msgid "Este pacote fornece arquivos compatíveis com este computador."
+msgstr "Bu paket, bu bilgisayarla uyumlu dosyalar sağlar."
+
+msgid "Concluído, reinicie o computador para ativar a configuração do driver."
+msgstr ""
+"Tamamlandığında, sürücü yapılandırmasını etkinleştirmek için bilgisayarınızı "
+"yeniden başlatın."
+
+msgid "Driver"
+msgstr "Sürücü"
+
+msgid "Ocorreu um erro e o driver não pode ser aplicado."
+msgstr "Bir hata oluştu ve sürücü uygulanamıyor."
+
+msgid ""
+"Digite sua senha para gerar um relatório removendo dados sensíveis, por "
+"exemplo, endereço de IP, ou cancele para utilizar as informações da tela "
+"anterior."
+msgstr ""
+"IP adresi gibi hassas verileri kaldıran bir rapor oluşturmak için şifrenizi "
+"girin veya önceki ekrandaki bilgileri kullanmak için iptal edin."
+
+msgid "Digite sua senha para gerar um relatório mais completo."
+msgstr "Daha eksiksiz bir rapor oluşturmak için şifrenizi girin."
+
+msgid "Enviando, aguarde..."
+msgstr "Gönderiliyor, lütfen bekleyin..."
+
 msgid "Resumo"
 msgstr "Özet"
 
 msgid "Processador"
 msgstr "İşlemci"
-
-msgid "Placa de vídeo"
-msgstr "Ekran kartı"
 
 msgid "Placa mãe"
 msgstr "Anakart"
@@ -87,14 +196,8 @@ msgstr "Depolama"
 msgid "Sistema"
 msgstr "Sistem"
 
-msgid "Bluetooth"
-msgstr "Bluetooth"
-
 msgid "Temperatura"
 msgstr "Sıcaklık"
-
-msgid "Impressora"
-msgstr "Yazıcı"
 
 msgid "Áudio"
 msgstr "Ses"
@@ -104,12 +207,6 @@ msgstr "Daha fazla bilgi"
 
 msgid "Pesquisar"
 msgstr "Arama"
-
-msgid "Resultado da pesquisa"
-msgstr "Arama sonucu"
-
-msgid "Informações de Hardware"
-msgstr "Donanım Bilgileri"
 
 msgid "Informações Sobre o Sistema e o Hardware"
 msgstr "Sistem ve Donanım Bilgileri"
@@ -166,94 +263,11 @@ msgstr "KIMLIK"
 msgid "Info"
 msgstr "Bilgi"
 
-msgid "Enviar para transfer.sh"
-msgstr "Transfer.sh dosyasına gönder"
-
-msgid "Visualizar"
-msgstr "Görünüm"
-
-msgid "O relatório foi salvo no arquivo:"
-msgstr "Rapor arşive kaydedildi:"
-
-msgid ""
-"Deseja visualizar o arquivo ou envia-lo ao site transfer.sh, para ter uma "
-"URL com os dados do seu computador de forma fácil de compartilhar?"
-msgstr ""
-"Dosyayı görüntülemek mi yoksa bilgisayarınızdaki verileri kolay bir şekilde "
-"paylaşmak için bir URL'ye sahip olmak için transfer.sh'ye göndermek mi "
-"istiyorsunuz?"
-
-msgid "Driver detectado:"
-msgstr "Sürücü tespit edildi:"
-
-msgid "<small>* A detecção não inclui impressoras e scanners</small>"
-msgstr "<small>* Algılama yazıcıları ve tarayıcıları içermez</small>"
-
-msgid "Wifi"
-msgstr "Wifi"
-
-msgid "Rede Cabeada"
-msgstr "Kablolu Ağ"
-
-msgid "Impressora 3D"
-msgstr "3D yazıcı"
-
-msgid "Scanner"
-msgstr "Tarayıcı"
-
-msgid "TV Digital"
-msgstr "Dijital TV"
-
-msgid "Webcam"
-msgstr "Web kamerası"
-
-msgid "Touchscreen"
-msgstr "Dokunmatik ekran"
-
-msgid "Som"
-msgstr "Ses"
-
-msgid "Outros"
-msgstr "Diğer"
-
-msgid "Pesquisar Driver ou Firmware"
-msgstr "Sürücü veya Ürün Yazılımını Arama"
-
-msgid "Big-Driver-Manager"
-msgstr "Big-Driver-Manager"
-
-msgid "Instalar ou Remover Drivers e Firmwares"
-msgstr "Sürücüleri ve Ürün Yazılımını Yükleme veya Kaldırma"
-
-msgid ""
-"Geralmente é preciso reiniciar o computador para o driver ou firmware ser "
-"aplicado."
-msgstr ""
-"Sürücü veya ürün yazılımının uygulanması için genellikle bilgisayarın "
-"yeniden başlatılması gerekir."
-
-msgid "Driver ou firmware"
-msgstr "Sürücü veya ürün yazılımı"
-
-msgid "Este pacote fornece arquivos compatíveis com este computador."
-msgstr "Bu paket, bu bilgisayarla uyumlu dosyalar sağlar."
-
-msgid "Concluído, reinicie o computador para ativar a configuração do driver."
-msgstr ""
-"Tamamlandığında, sürücü yapılandırmasını etkinleştirmek için bilgisayarınızı "
-"yeniden başlatın."
-
-msgid "Driver"
-msgstr "Sürücü"
-
-msgid "Ocorreu um erro e o driver não pode ser aplicado."
-msgstr "Bir hata oluştu ve sürücü uygulanamıyor."
-
 msgid "Swap (Memória Virtual)"
 msgstr "Swap (Sanal Bellek)"
 
-msgid "Conexões de Internet"
-msgstr "İnternet Bağlantıları"
+msgid "Conexões de Rede"
+msgstr "Ağ Bağlantıları"
 
 msgid "Dispositivos e conexões USB"
 msgstr "USB aygıtları ve bağlantıları"
@@ -261,8 +275,8 @@ msgstr "USB aygıtları ve bağlantıları"
 msgid "Portas PCI"
 msgstr "PCI bağlantı noktaları"
 
-msgid "Dispositivos de armazenamento"
-msgstr "Depolama cihazları"
+msgid "Dispositivos de Armazenamento"
+msgstr "Depolama Cihazları"
 
 msgid "Partições montadas"
 msgstr "Monte edilmiş bölmeler"
@@ -276,22 +290,8 @@ msgstr "Mantıksal cihazlar"
 msgid "Raid"
 msgstr "Baskın"
 
-msgid "Informações"
-msgstr "Bilgi"
+msgid "Informações de Sistema"
+msgstr "Sistem Bilgileri"
 
 msgid "Repositórios"
 msgstr "Depolar"
-
-msgid ""
-"Digite sua senha para gerar um relatório removendo dados sensíveis, por "
-"exemplo, endereço de IP, ou cancele para utilizar as informações da tela "
-"anterior."
-msgstr ""
-"IP adresi gibi hassas verileri kaldıran bir rapor oluşturmak için şifrenizi "
-"girin veya önceki ekrandaki bilgileri kullanmak için iptal edin."
-
-msgid "Digite sua senha para gerar um relatório mais completo."
-msgstr "Daha eksiksiz bir rapor oluşturmak için şifrenizi girin."
-
-msgid "Enviando, aguarde..."
-msgstr "Gönderiliyor, lütfen bekleyin..."

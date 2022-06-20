@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: biglinux-driver-manager\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-06-08 21:46-0300\n"
+"POT-Creation-Date: 2022-06-20 07:13-0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -48,20 +48,128 @@ msgstr ""
 msgid "Desativado"
 msgstr "інвалід"
 
+msgid "Informações de Hardware"
+msgstr "Інформація про обладнання"
+
+msgid "Enviar para transfer.sh"
+msgstr "Надіслати до transfer.sh"
+
+msgid "Visualizar"
+msgstr "вид"
+
+msgid "O relatório foi salvo no arquivo:"
+msgstr "Звіт був збережений у файл:"
+
+msgid ""
+"Deseja visualizar o arquivo ou envia-lo ao site transfer.sh, para ter uma "
+"URL com os dados do seu computador de forma fácil de compartilhar?"
+msgstr ""
+"Ви хочете переглянути файл або відправити його на веб-сайт transfer.sh, щоб "
+"мати URL-адресу з даними на вашому комп'ютері в простий для обміну способом?"
+
 msgid "Categorias"
 msgstr "Категорії"
 
 msgid "Principais"
 msgstr "Головна"
 
+msgid "Driver detectado:"
+msgstr "Виявлено драйвер:"
+
+msgid "<small>* A detecção não inclui impressoras e scanners</small>"
+msgstr "<small> * Виявлення не включає принтери та сканери </small>"
+
+msgid "Placa de vídeo"
+msgstr "Відеокарта"
+
+msgid "Wifi"
+msgstr "WiFi"
+
+msgid "Rede Cabeada"
+msgstr "Кабельна мережа"
+
+msgid "Bluetooth"
+msgstr "Bluetooth"
+
+msgid "Impressora"
+msgstr "Принтер"
+
+msgid "Impressora 3D"
+msgstr "3D принтер"
+
+msgid "Scanner"
+msgstr "Сканер"
+
+msgid "TV Digital"
+msgstr "Цифрове ТБ"
+
+msgid "Webcam"
+msgstr "веб-камера"
+
+msgid "Touchscreen"
+msgstr "Сенсорний"
+
+msgid "Som"
+msgstr "звук"
+
+msgid "Outros"
+msgstr "Інші"
+
+msgid "Pesquisar Driver ou Firmware"
+msgstr "Пошук драйвера або прошивки"
+
+msgid "Resultado da pesquisa"
+msgstr "Результат пошуку"
+
+msgid "Big-Driver-Manager"
+msgstr "Менеджер великих водіїв"
+
+msgid "Instalar ou Remover Drivers e Firmwares"
+msgstr "Встановіть або видаліть драйвери та мікропрограму"
+
+msgid ""
+"Geralmente é preciso reiniciar o computador para o driver ou firmware ser "
+"aplicado."
+msgstr ""
+"Зазвичай необхідно перезавантажити комп’ютер, щоб драйвер або прошивка "
+"вступили в силу."
+
+msgid "Driver ou firmware"
+msgstr "Драйвер або прошивка"
+
+msgid "Este pacote fornece arquivos compatíveis com este computador."
+msgstr "Цей пакет надає файли, сумісні з цим комп'ютером."
+
+msgid "Concluído, reinicie o computador para ativar a configuração do driver."
+msgstr ""
+"Готово, перезавантажте комп'ютер, щоб активувати конфігурацію драйверів."
+
+msgid "Driver"
+msgstr "Водій"
+
+msgid "Ocorreu um erro e o driver não pode ser aplicado."
+msgstr "Сталася помилка, і драйвер не може бути застосований."
+
+msgid ""
+"Digite sua senha para gerar um relatório removendo dados sensíveis, por "
+"exemplo, endereço de IP, ou cancele para utilizar as informações da tela "
+"anterior."
+msgstr ""
+"Введіть пароль, щоб створити звіт про видалення конфіденційних даних, "
+"наприклад, IP-адреси, або скасувати використання інформації з попереднього "
+"екрана."
+
+msgid "Digite sua senha para gerar um relatório mais completo."
+msgstr "Введіть свій пароль, щоб згенерувати більш повний звіт."
+
+msgid "Enviando, aguarde..."
+msgstr "Відправка, будь ласка, зачекайте"
+
 msgid "Resumo"
 msgstr "Резюме"
 
 msgid "Processador"
 msgstr "Процесор"
-
-msgid "Placa de vídeo"
-msgstr "Відеокарта"
 
 msgid "Placa mãe"
 msgstr "материнська плата"
@@ -87,14 +195,8 @@ msgstr "Зберігання"
 msgid "Sistema"
 msgstr "система"
 
-msgid "Bluetooth"
-msgstr "Bluetooth"
-
 msgid "Temperatura"
 msgstr "Температура"
-
-msgid "Impressora"
-msgstr "Принтер"
 
 msgid "Áudio"
 msgstr "Аудіо"
@@ -104,12 +206,6 @@ msgstr "Більше інформації"
 
 msgid "Pesquisar"
 msgstr "Шукати..."
-
-msgid "Resultado da pesquisa"
-msgstr "Результат пошуку"
-
-msgid "Informações de Hardware"
-msgstr "Інформація про обладнання"
 
 msgid "Informações Sobre o Sistema e o Hardware"
 msgstr "Інформація про систему та обладнання"
@@ -166,92 +262,11 @@ msgstr "ІД"
 msgid "Info"
 msgstr "Інфо"
 
-msgid "Enviar para transfer.sh"
-msgstr "Надіслати до transfer.sh"
-
-msgid "Visualizar"
-msgstr "вид"
-
-msgid "O relatório foi salvo no arquivo:"
-msgstr "Звіт був збережений у файл:"
-
-msgid ""
-"Deseja visualizar o arquivo ou envia-lo ao site transfer.sh, para ter uma "
-"URL com os dados do seu computador de forma fácil de compartilhar?"
-msgstr ""
-"Ви хочете переглянути файл або відправити його на веб-сайт transfer.sh, щоб "
-"мати URL-адресу з даними на вашому комп'ютері в простий для обміну способом?"
-
-msgid "Driver detectado:"
-msgstr "Виявлено драйвер:"
-
-msgid "<small>* A detecção não inclui impressoras e scanners</small>"
-msgstr "<small> * Виявлення не включає принтери та сканери </small>"
-
-msgid "Wifi"
-msgstr "WiFi"
-
-msgid "Rede Cabeada"
-msgstr "Кабельна мережа"
-
-msgid "Impressora 3D"
-msgstr "3D принтер"
-
-msgid "Scanner"
-msgstr "Сканер"
-
-msgid "TV Digital"
-msgstr "Цифрове ТБ"
-
-msgid "Webcam"
-msgstr "веб-камера"
-
-msgid "Touchscreen"
-msgstr "Сенсорний"
-
-msgid "Som"
-msgstr "звук"
-
-msgid "Outros"
-msgstr "Інші"
-
-msgid "Pesquisar Driver ou Firmware"
-msgstr "Пошук драйвера або прошивки"
-
-msgid "Big-Driver-Manager"
-msgstr "Менеджер великих водіїв"
-
-msgid "Instalar ou Remover Drivers e Firmwares"
-msgstr "Встановіть або видаліть драйвери та мікропрограму"
-
-msgid ""
-"Geralmente é preciso reiniciar o computador para o driver ou firmware ser "
-"aplicado."
-msgstr ""
-"Зазвичай необхідно перезавантажити комп’ютер, щоб драйвер або прошивка "
-"вступили в силу."
-
-msgid "Driver ou firmware"
-msgstr "Драйвер або прошивка"
-
-msgid "Este pacote fornece arquivos compatíveis com este computador."
-msgstr "Цей пакет надає файли, сумісні з цим комп'ютером."
-
-msgid "Concluído, reinicie o computador para ativar a configuração do driver."
-msgstr ""
-"Готово, перезавантажте комп'ютер, щоб активувати конфігурацію драйверів."
-
-msgid "Driver"
-msgstr "Водій"
-
-msgid "Ocorreu um erro e o driver não pode ser aplicado."
-msgstr "Сталася помилка, і драйвер не може бути застосований."
-
 msgid "Swap (Memória Virtual)"
 msgstr "Swap (віртуальна пам'ять)"
 
-msgid "Conexões de Internet"
-msgstr "Підключення до Інтернету"
+msgid "Conexões de Rede"
+msgstr "Мережеві підключення"
 
 msgid "Dispositivos e conexões USB"
 msgstr "Пристрої та підключення USB"
@@ -259,8 +274,8 @@ msgstr "Пристрої та підключення USB"
 msgid "Portas PCI"
 msgstr "Порти PCI"
 
-msgid "Dispositivos de armazenamento"
-msgstr "Пристрої зберігання"
+msgid "Dispositivos de Armazenamento"
+msgstr "Пристрої зберігання даних"
 
 msgid "Partições montadas"
 msgstr "навісні перегородки"
@@ -274,23 +289,8 @@ msgstr "Логічні пристрої"
 msgid "Raid"
 msgstr "Рейд"
 
-msgid "Informações"
-msgstr "Інформація"
+msgid "Informações de Sistema"
+msgstr "Інформація про систему"
 
 msgid "Repositórios"
 msgstr "сховища"
-
-msgid ""
-"Digite sua senha para gerar um relatório removendo dados sensíveis, por "
-"exemplo, endereço de IP, ou cancele para utilizar as informações da tela "
-"anterior."
-msgstr ""
-"Введіть пароль, щоб створити звіт про видалення конфіденційних даних, "
-"наприклад, IP-адреси, або скасувати використання інформації з попереднього "
-"екрана."
-
-msgid "Digite sua senha para gerar um relatório mais completo."
-msgstr "Введіть свій пароль, щоб згенерувати більш повний звіт."
-
-msgid "Enviando, aguarde..."
-msgstr "Відправка, будь ласка, зачекайте"
