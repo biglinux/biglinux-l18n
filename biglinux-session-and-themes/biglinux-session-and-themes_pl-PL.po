@@ -64,9 +64,6 @@ msgstr "Pulpit"
 msgid "Ajustes"
 msgstr "Ustawienia"
 
-msgid "Temas, Desktop e Ajustes"
-msgstr "Motywy, Pulpit i Ustawienia"
-
 msgid "Desempenho do desktop"
 msgstr "Wydajność pulpitu"
 

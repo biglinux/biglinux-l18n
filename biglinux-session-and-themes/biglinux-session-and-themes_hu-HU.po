@@ -63,9 +63,6 @@ msgstr "Asztali"
 msgid "Ajustes"
 msgstr "Beállítások"
 
-msgid "Temas, Desktop e Ajustes"
-msgstr "Témák, Asztal és beállítások"
-
 msgid "Desempenho do desktop"
 msgstr "Asztali teljesítmény"
 

@@ -83,6 +83,3 @@ msgstr "na rede:"
 
 msgid "Voltar"
 msgstr "Voltar"
-
-msgid "Fechar"
-msgstr "Fechar"

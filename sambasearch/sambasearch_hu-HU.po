@@ -82,6 +82,3 @@ msgstr "a hálózaton:"
 
 msgid "Voltar"
 msgstr "Vissza"
-
-msgid "Fechar"
-msgstr "Zárja be a"

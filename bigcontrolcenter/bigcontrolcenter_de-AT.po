@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: bigcontrolcenter\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-06-21 03:18-0300\n"
+"POT-Creation-Date: 2022-06-21 05:45-0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -30,11 +30,20 @@ msgstr ""
 "Die vorgenommenen Änderungen können Sie sehen\n"
 "im Bild Ihrer Webcam in anderen Programmen."
 
+msgid "Webcam"
+msgstr "Webcam"
+
 msgid "Category"
 msgstr "Kategorie"
 
 msgid "Name"
 msgstr "Name"
+
+msgid "ID"
+msgstr "ID"
+
+msgid "Info"
+msgstr "Info"
 
 msgid ""
 "O relatório foi salvo no arquivo $FILE_TO_SAVE\n"
@@ -47,6 +56,9 @@ msgstr ""
 
 msgid "Visualizar o relatório"
 msgstr "Den Bericht ansehen"
+
+msgid "Fechar"
+msgstr "Schließen Sie"
 
 msgid "Hardinfo Relatory"
 msgstr "Hardinfo Relatory"
@@ -78,6 +90,9 @@ msgid ""
 msgstr ""
 "Wir stellen Ihnen komplette Konfigurationen zur Verfügung, aus denen Sie "
 "ganz einfach auswählen können."
+
+msgid "Temas, Desktop e Ajustes"
+msgstr "Themes, Desktop und Einstellungen"
 
 msgid "Escolha seu Avatar"
 msgstr "Wählen Sie Ihren Avatar"
@@ -134,6 +149,9 @@ msgstr "Rauschunterdrücker"
 msgid "Configurar a voz do sistema (TTS)"
 msgstr "Einstellen der Systemstimme (TTS)"
 
+msgid "OCR para PDF"
+msgstr "OCR für PDF"
+
 msgid "Doação e Redes sociais"
 msgstr "Spende und soziale Netzwerke"
 
@@ -167,6 +185,15 @@ msgid "Parabéns, você concluiu os primeiros passos para utilizar o BigLinux."
 msgstr ""
 "Glückwunsch, Sie haben die ersten Schritte zur Verwendung von BigLinux "
 "abgeschlossen."
+
+msgid "Bom dia"
+msgstr "Guten Morgen"
+
+msgid "Boa tarde"
+msgstr "Guten Tag"
+
+msgid "Boa noite"
+msgstr "Guten Abend"
 
 msgid "Aguarde, carregando..."
 msgstr "Bereithalten, Laden..."
@@ -396,6 +423,15 @@ msgstr "KDE-Kontrollzentrum"
 msgid "Configurador avançado de energia"
 msgstr "Erweiterter Power-Konfigurator"
 
+msgid "Categorias"
+msgstr "Kategorien"
+
+msgid "Principais"
+msgstr "Haupt"
+
+msgid "Sistema"
+msgstr "System"
+
 msgid "Aparência"
 msgstr "Erscheinungsbild"
 
@@ -407,6 +443,9 @@ msgstr "Anpassen"
 
 msgid "Telefone"
 msgstr "Telefon"
+
+msgid "Multimídia"
+msgstr "Multimedia"
 
 msgid "Rede e Internet"
 msgstr "Netzwerk und Internet"
@@ -423,11 +462,23 @@ msgstr "Datenschutz"
 msgid "Servidor"
 msgstr "Server"
 
+msgid "Desenvolvimento"
+msgstr "Entwicklung"
+
 msgid "Sobre"
 msgstr "Über"
 
+msgid "Outros"
+msgstr "Andere"
+
 msgid "Pesquisar..."
 msgstr "Suche..."
+
+msgid "Resultado da pesquisa"
+msgstr "Suchergebnis"
+
+msgid "Abrir"
+msgstr "Öffnen Sie"
 
 msgid "Temas, desktop e ajustes"
 msgstr "Themes, Desktop und Einstellungen"

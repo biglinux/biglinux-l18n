@@ -88,17 +88,11 @@ msgstr ""
 "Προσθέστε OCR στο σαρωμένο PDF, επιτρέποντας την επιλογή και αναζήτηση "
 "κειμένου:"
 
-msgid "OCR para PDF"
-msgstr "OCR για PDF"
-
 msgid "Arquivo"
 msgstr "Αρχείο"
 
 msgid "Pasta:"
 msgstr "Φάκελος:"
-
-msgid "Abrir"
-msgstr "Ανοίξτε το"
 
 msgid "Arquivo salvo: "
 msgstr "Το αρχείο αποθηκεύτηκε "

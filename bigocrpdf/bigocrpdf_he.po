@@ -82,17 +82,11 @@ msgid ""
 "Adicionar OCR no PDF digitalizado permitindo seleção de textos e busca:"
 msgstr "הוסף זיהוי תווים אופטי (OCR) למסמך PDF הסרוק המאפשר בחירת טקסט וחיפוש"
 
-msgid "OCR para PDF"
-msgstr "זיהוי תווים אופטי ל- PDF"
-
 msgid "Arquivo"
 msgstr "קובץ"
 
 msgid "Pasta:"
 msgstr "תיקייה:"
-
-msgid "Abrir"
-msgstr "פתוח"
 
 msgid "Arquivo salvo: "
 msgstr "קובץ שמור: "

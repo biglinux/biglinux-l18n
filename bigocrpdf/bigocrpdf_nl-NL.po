@@ -86,17 +86,11 @@ msgid ""
 msgstr ""
 "Voeg OCR toe aan de gescande PDF om tekst te kunnen selecteren en zoeken:"
 
-msgid "OCR para PDF"
-msgstr "OCR voor PDF"
-
 msgid "Arquivo"
 msgstr "Bestand"
 
 msgid "Pasta:"
 msgstr "Map:"
-
-msgid "Abrir"
-msgstr "Open"
 
 msgid "Arquivo salvo: "
 msgstr "Bestand opgeslagen "

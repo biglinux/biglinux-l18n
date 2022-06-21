@@ -61,9 +61,6 @@ msgstr "Stolný počítač"
 msgid "Ajustes"
 msgstr "Nastavenia"
 
-msgid "Temas, Desktop e Ajustes"
-msgstr "Témy, pracovná plocha a nastavenia"
-
 msgid "Desempenho do desktop"
 msgstr "Výkon stolových počítačov"
 

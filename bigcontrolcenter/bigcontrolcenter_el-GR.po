@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: bigcontrolcenter\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-06-21 03:18-0300\n"
+"POT-Creation-Date: 2022-06-21 05:45-0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -30,11 +30,20 @@ msgstr ""
 "Μπορείτε να δείτε τις αλλαγές που έγιναν\n"
 "στην εικόνα της κάμεράς σας σε άλλα προγράμματα."
 
+msgid "Webcam"
+msgstr "Webcam"
+
 msgid "Category"
 msgstr "Κατηγορία"
 
 msgid "Name"
 msgstr "Όνομα"
+
+msgid "ID"
+msgstr "ID"
+
+msgid "Info"
+msgstr "Πληροφορίες"
 
 msgid ""
 "O relatório foi salvo no arquivo $FILE_TO_SAVE\n"
@@ -47,6 +56,9 @@ msgstr ""
 
 msgid "Visualizar o relatório"
 msgstr "Δείτε την έκθεση"
+
+msgid "Fechar"
+msgstr "Κλείστε το"
 
 msgid "Hardinfo Relatory"
 msgstr "Hardinfo Σχετικό"
@@ -78,6 +90,9 @@ msgid ""
 msgstr ""
 "Παρέχουμε πλήρεις διαμορφώσεις για να επιλέξετε από αυτές με πολύ απλό τρόπο."
 ""
+
+msgid "Temas, Desktop e Ajustes"
+msgstr "Θέματα, επιφάνεια εργασίας και ρυθμίσεις"
 
 msgid "Escolha seu Avatar"
 msgstr "Επιλέξτε το Avatar σας"
@@ -135,6 +150,9 @@ msgstr "Μειωτής θορύβου"
 msgid "Configurar a voz do sistema (TTS)"
 msgstr "Ρύθμιση της φωνής του συστήματος (TTS)"
 
+msgid "OCR para PDF"
+msgstr "OCR για PDF"
+
 msgid "Doação e Redes sociais"
 msgstr "Δωρεές και κοινωνικά δίκτυα"
 
@@ -166,6 +184,15 @@ msgstr "Facebook"
 
 msgid "Parabéns, você concluiu os primeiros passos para utilizar o BigLinux."
 msgstr "Συγχαρητήρια, ολοκληρώσατε τα πρώτα βήματα για τη χρήση του BigLinux."
+
+msgid "Bom dia"
+msgstr "Καλημέρα"
+
+msgid "Boa tarde"
+msgstr "Καλησπέρα"
+
+msgid "Boa noite"
+msgstr "Καλησπέρα"
 
 msgid "Aguarde, carregando..."
 msgstr "Αναμείνατε, φόρτωση..."
@@ -394,6 +421,15 @@ msgstr "Κέντρο ελέγχου KDE"
 msgid "Configurador avançado de energia"
 msgstr "Προηγμένη διαμόρφωση ισχύος"
 
+msgid "Categorias"
+msgstr "Κατηγορίες"
+
+msgid "Principais"
+msgstr "Κύρια"
+
+msgid "Sistema"
+msgstr "Σύστημα"
+
 msgid "Aparência"
 msgstr "Εμφάνιση"
 
@@ -405,6 +441,9 @@ msgstr "Προσαρμογή"
 
 msgid "Telefone"
 msgstr "Τηλέφωνο"
+
+msgid "Multimídia"
+msgstr "Πολυμέσα"
 
 msgid "Rede e Internet"
 msgstr "Δίκτυο και Διαδίκτυο"
@@ -421,11 +460,23 @@ msgstr "Απόρρητο"
 msgid "Servidor"
 msgstr "Διακομιστής"
 
+msgid "Desenvolvimento"
+msgstr "Ανάπτυξη"
+
 msgid "Sobre"
 msgstr "Σχετικά με το"
 
+msgid "Outros"
+msgstr "Άλλα"
+
 msgid "Pesquisar..."
 msgstr "Αναζήτηση..."
+
+msgid "Resultado da pesquisa"
+msgstr "Αποτελέσματα αναζήτησης"
+
+msgid "Abrir"
+msgstr "Ανοίξτε το"
 
 msgid "Temas, desktop e ajustes"
 msgstr "Θέματα, επιφάνεια εργασίας και ρυθμίσεις"

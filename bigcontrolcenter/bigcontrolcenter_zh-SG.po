@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: bigcontrolcenter\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-06-21 03:18-0300\n"
+"POT-Creation-Date: 2022-06-21 05:45-0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -30,11 +30,20 @@ msgstr ""
 "可以看到所做的改变\n"
 "在其他程序中你的网络摄像头的图像。"
 
+msgid "Webcam"
+msgstr "网络摄像头"
+
 msgid "Category"
 msgstr "类别"
 
 msgid "Name"
 msgstr "命名"
+
+msgid "ID"
+msgstr "身份证"
+
+msgid "Info"
+msgstr "信息"
 
 msgid ""
 "O relatório foi salvo no arquivo $FILE_TO_SAVE\n"
@@ -47,6 +56,9 @@ msgstr ""
 
 msgid "Visualizar o relatório"
 msgstr "查看报告"
+
+msgid "Fechar"
+msgstr "关闭"
 
 msgid "Hardinfo Relatory"
 msgstr "困难情况下的相关信息"
@@ -76,6 +88,9 @@ msgid ""
 "Disponiblizamos configurações completas para você selecionar de forma "
 "extremamente simples."
 msgstr "我们以非常简单的方式提供完整的配置供你选择。"
+
+msgid "Temas, Desktop e Ajustes"
+msgstr "主题、桌面和设置"
 
 msgid "Escolha seu Avatar"
 msgstr "选择你的头像"
@@ -127,6 +142,9 @@ msgstr "降噪器"
 msgid "Configurar a voz do sistema (TTS)"
 msgstr "设置系统语音（TTS）"
 
+msgid "OCR para PDF"
+msgstr "用于PDF的OCR"
+
 msgid "Doação e Redes sociais"
 msgstr "捐赠和社会网络"
 
@@ -156,6 +174,15 @@ msgstr "脸书"
 
 msgid "Parabéns, você concluiu os primeiros passos para utilizar o BigLinux."
 msgstr "恭喜你，你已经完成了使用BigLinux的第一个步骤。"
+
+msgid "Bom dia"
+msgstr "早晨好"
+
+msgid "Boa tarde"
+msgstr "下午好"
+
+msgid "Boa noite"
+msgstr "晚上好"
 
 msgid "Aguarde, carregando..."
 msgstr "准备好了，正在加载..."
@@ -362,6 +389,15 @@ msgstr "KDE控制中心"
 msgid "Configurador avançado de energia"
 msgstr "高级电源配置器"
 
+msgid "Categorias"
+msgstr "类别"
+
+msgid "Principais"
+msgstr "主要内容"
+
+msgid "Sistema"
+msgstr "系统"
+
 msgid "Aparência"
 msgstr "外观"
 
@@ -373,6 +409,9 @@ msgstr "定制"
 
 msgid "Telefone"
 msgstr "电话"
+
+msgid "Multimídia"
+msgstr "多媒体"
 
 msgid "Rede e Internet"
 msgstr "网络和互联网"
@@ -389,11 +428,23 @@ msgstr "隐私"
 msgid "Servidor"
 msgstr "服务器"
 
+msgid "Desenvolvimento"
+msgstr "发展"
+
 msgid "Sobre"
 msgstr "关于"
 
+msgid "Outros"
+msgstr "其他"
+
 msgid "Pesquisar..."
 msgstr "搜索..."
+
+msgid "Resultado da pesquisa"
+msgstr "搜索结果"
+
+msgid "Abrir"
+msgstr "开放式"
 
 msgid "Temas, desktop e ajustes"
 msgstr "主题、桌面和设置"

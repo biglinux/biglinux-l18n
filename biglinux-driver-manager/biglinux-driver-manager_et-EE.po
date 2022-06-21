@@ -67,12 +67,6 @@ msgstr ""
 "Kas soovite faili vaadata või saata selle transfer.sh, et saada URL-i oma "
 "arvutist andmete lihtsaks jagamiseks?"
 
-msgid "Categorias"
-msgstr "Kategooriad"
-
-msgid "Principais"
-msgstr "Main"
-
 msgid "Driver detectado:"
 msgstr "Juhi tuvastamine:"
 
@@ -103,23 +97,14 @@ msgstr "Skanner"
 msgid "TV Digital"
 msgstr "Digitaalne televisioon"
 
-msgid "Webcam"
-msgstr "Veebikaamera"
-
 msgid "Touchscreen"
 msgstr "Puuteekraan"
 
 msgid "Som"
 msgstr "Heli"
 
-msgid "Outros"
-msgstr "Muud"
-
 msgid "Pesquisar Driver ou Firmware"
 msgstr "Juhi või püsivara otsimine"
-
-msgid "Resultado da pesquisa"
-msgstr "Otsingu tulemus"
 
 msgid "Big-Driver-Manager"
 msgstr "Big-Driver-Manager"
@@ -192,9 +177,6 @@ msgstr "Aku"
 msgid "Armazenamento"
 msgstr "Ladustamine"
 
-msgid "Sistema"
-msgstr "Süsteem"
-
 msgid "Temperatura"
 msgstr "Temperatuur"
 
@@ -255,12 +237,6 @@ msgstr "Seadme teabe vaatamine Linuxi riistvara kohta"
 
 msgid "Categoria"
 msgstr "Kategooria"
-
-msgid "ID"
-msgstr "ID"
-
-msgid "Info"
-msgstr "Info"
 
 msgid "Swap (Memória Virtual)"
 msgstr "Vahetus (virtuaalne mälu)"

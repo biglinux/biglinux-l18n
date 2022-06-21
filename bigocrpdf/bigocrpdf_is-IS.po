@@ -84,17 +84,11 @@ msgid ""
 "Adicionar OCR no PDF digitalizado permitindo seleção de textos e busca:"
 msgstr "Bæta OCR við skönnuð PDF leyfa texta val og leita:"
 
-msgid "OCR para PDF"
-msgstr "OCR til PDF"
-
 msgid "Arquivo"
 msgstr "skrá"
 
 msgid "Pasta:"
 msgstr "Mappa:"
-
-msgid "Abrir"
-msgstr "Opna"
 
 msgid "Arquivo salvo: "
 msgstr "Vistuð skrá: "

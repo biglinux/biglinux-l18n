@@ -100,9 +100,6 @@ msgstr "Najdene ikone"
 msgid "Selecione o ícone preferido:"
 msgstr "Izberite želeno ikono:"
 
-msgid "Desenvolvimento"
-msgstr "Razvoj"
-
 msgid "Escritório"
 msgstr "Pisarna"
 
@@ -111,9 +108,6 @@ msgstr "Grafika"
 
 msgid "Jogos"
 msgstr "Igre"
-
-msgid "Multimídia"
-msgstr "Večpredstavnostna stran"
 
 msgid "Tem certeza que deseja remover este WebApp?"
 msgstr "Ste prepričani, da želite odstraniti to spletno aplikacijo?"
@@ -132,15 +126,6 @@ msgstr "Izberite želeni brskalnik:"
 
 msgid "WebApps Nativos"
 msgstr "Nativne spletne aplikacije"
-
-msgid "Bom dia"
-msgstr "Dobro jutro"
-
-msgid "Boa tarde"
-msgstr "Dobro popoldne"
-
-msgid "Boa noite"
-msgstr "Dober večer"
 
 msgid "Aguarde, estamos preparando para começar..."
 msgstr "Počakajte, pripravljamo se na začetek..."

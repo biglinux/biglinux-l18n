@@ -82,6 +82,3 @@ msgstr "ağ üzerinde:"
 
 msgid "Voltar"
 msgstr "Geri"
-
-msgid "Fechar"
-msgstr "Kapat"

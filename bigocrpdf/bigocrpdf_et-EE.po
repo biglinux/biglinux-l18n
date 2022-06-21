@@ -84,17 +84,11 @@ msgid ""
 msgstr ""
 "Lisage skaneeritud PDF-le OCR, mis võimaldab teksti valimist ja otsingut:"
 
-msgid "OCR para PDF"
-msgstr "OCR PDF-i jaoks"
-
 msgid "Arquivo"
 msgstr "Faili"
 
 msgid "Pasta:"
 msgstr "Kaustik:"
-
-msgid "Abrir"
-msgstr "Avatud"
 
 msgid "Arquivo salvo: "
 msgstr "Faili salvestatud "

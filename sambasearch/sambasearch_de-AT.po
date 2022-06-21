@@ -85,6 +85,3 @@ msgstr "im Netzwerk:"
 
 msgid "Voltar"
 msgstr "Zurück"
-
-msgid "Fechar"
-msgstr "Schließen Sie"

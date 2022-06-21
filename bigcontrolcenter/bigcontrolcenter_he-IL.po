@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: bigcontrolcenter\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-06-21 03:18-0300\n"
+"POT-Creation-Date: 2022-06-21 05:45-0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -30,11 +30,20 @@ msgstr ""
 "ניתן לראות את השינויים שבוצעו\n"
 "על תמונת מצלמת האינטרנט שלך בתוכניות אחרות."
 
+msgid "Webcam"
+msgstr "מצלמת אינטרנט"
+
 msgid "Category"
 msgstr "קטגוריה"
 
 msgid "Name"
 msgstr "שם"
+
+msgid "ID"
+msgstr "תעודת זהות"
+
+msgid "Info"
+msgstr "מידע"
 
 msgid ""
 "O relatório foi salvo no arquivo $FILE_TO_SAVE\n"
@@ -47,6 +56,9 @@ msgstr ""
 
 msgid "Visualizar o relatório"
 msgstr "הצג את הדוח"
+
+msgid "Fechar"
+msgstr "סגור"
 
 msgid "Hardinfo Relatory"
 msgstr "דוח מידע"
@@ -76,6 +88,9 @@ msgid ""
 "Disponiblizamos configurações completas para você selecionar de forma "
 "extremamente simples."
 msgstr "תצורות שלמות זמינות לבחירתך בצורה פשוטה ביותר."
+
+msgid "Temas, Desktop e Ajustes"
+msgstr "ערכות נושא, שולחן עבודה והתאמות"
 
 msgid "Escolha seu Avatar"
 msgstr "בחר את הדמות שלך"
@@ -130,6 +145,9 @@ msgstr "כמפחית רעש"
 msgid "Configurar a voz do sistema (TTS)"
 msgstr "הגדרת קול מערכת (TTS)"
 
+msgid "OCR para PDF"
+msgstr "זיהוי תווים אופטי ל- PDF"
+
 msgid "Doação e Redes sociais"
 msgstr "תרומה ורשתות חברתיות"
 
@@ -159,6 +177,15 @@ msgstr "פייסבוק"
 
 msgid "Parabéns, você concluiu os primeiros passos para utilizar o BigLinux."
 msgstr "מזל טוב, השלמת את הצעדים הראשונים לשימוש ב- BigLinux."
+
+msgid "Bom dia"
+msgstr "סלאם"
+
+msgid "Boa tarde"
+msgstr "אחר צהריים טובים"
+
+msgid "Boa noite"
+msgstr "לילה טוב"
 
 msgid "Aguarde, carregando..."
 msgstr "חכה, טוען..."
@@ -374,6 +401,15 @@ msgstr "מרכז הבקרה של KDE"
 msgid "Configurador avançado de energia"
 msgstr "קונפיגורטור כוח מתקדם"
 
+msgid "Categorias"
+msgstr "קטגוריות"
+
+msgid "Principais"
+msgstr "ראשי"
+
+msgid "Sistema"
+msgstr "מערכת"
+
 msgid "Aparência"
 msgstr "מראה"
 
@@ -385,6 +421,9 @@ msgstr "להתאים אישית"
 
 msgid "Telefone"
 msgstr "טלפון"
+
+msgid "Multimídia"
+msgstr "מולטימדיה"
 
 msgid "Rede e Internet"
 msgstr "רשת ואינטרנט"
@@ -401,11 +440,23 @@ msgstr "פרטיות"
 msgid "Servidor"
 msgstr "מיינפריים"
 
+msgid "Desenvolvimento"
+msgstr "פיתוח"
+
 msgid "Sobre"
 msgstr "אודות"
 
+msgid "Outros"
+msgstr "אחרים"
+
 msgid "Pesquisar..."
 msgstr "חפש..."
+
+msgid "Resultado da pesquisa"
+msgstr "תוצאת חיפוש"
+
+msgid "Abrir"
+msgstr "פתוח"
 
 msgid "Temas, desktop e ajustes"
 msgstr "ערכות נושא, שולחן עבודה, וtweaks"

@@ -62,9 +62,6 @@ msgstr "Desktop"
 msgid "Ajustes"
 msgstr "Ajustes"
 
-msgid "Temas, Desktop e Ajustes"
-msgstr "Temas, Desktop e Ajustes"
-
 msgid "Desempenho do desktop"
 msgstr "Desempenho do desktop"
 

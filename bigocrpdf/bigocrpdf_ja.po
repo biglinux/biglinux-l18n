@@ -78,17 +78,11 @@ msgid ""
 "Adicionar OCR no PDF digitalizado permitindo seleção de textos e busca:"
 msgstr "スキャンしたPDFにOCRを付加し、テキストの選択と検索を可能にします。"
 
-msgid "OCR para PDF"
-msgstr "PDF用OCR"
-
 msgid "Arquivo"
 msgstr "ファイル"
 
 msgid "Pasta:"
 msgstr "フォルダ："
-
-msgid "Abrir"
-msgstr "開ける"
 
 msgid "Arquivo salvo: "
 msgstr "ファイルを保存しました。 "

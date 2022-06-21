@@ -86,17 +86,11 @@ msgstr ""
 "Optično prepoznavanje OCR v optično prebranem PDF, ki omogoča izbiro "
 "besedila in iskanje:"
 
-msgid "OCR para PDF"
-msgstr "OCR za PDF"
-
 msgid "Arquivo"
 msgstr "Datoteka"
 
 msgid "Pasta:"
 msgstr "Mapa:"
-
-msgid "Abrir"
-msgstr "Odpri"
 
 msgid "Arquivo salvo: "
 msgstr "Shranjena datoteka "

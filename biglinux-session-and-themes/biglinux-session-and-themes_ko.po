@@ -60,9 +60,6 @@ msgstr "데스크탑"
 msgid "Ajustes"
 msgstr "비틀기"
 
-msgid "Temas, Desktop e Ajustes"
-msgstr "테마, 데스크톱 및 조정"
-
 msgid "Desempenho do desktop"
 msgstr "데스크탑 성능"
 

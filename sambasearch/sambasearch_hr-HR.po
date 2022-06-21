@@ -82,6 +82,3 @@ msgstr "na mreži:"
 
 msgid "Voltar"
 msgstr "Vrati se"
-
-msgid "Fechar"
-msgstr "Zatvoriti"

@@ -67,12 +67,6 @@ msgstr ""
 "Haluatko tarkastella tiedostoa tai lähettää sen transfer.sh:lle, jotta saat "
 "URL-osoitteen, jossa on tiedot tietokoneeltasi helposti jaettavaksi?"
 
-msgid "Categorias"
-msgstr "Kategoriat"
-
-msgid "Principais"
-msgstr "Main"
-
 msgid "Driver detectado:"
 msgstr "Kuljettaja havaittu:"
 
@@ -103,23 +97,14 @@ msgstr "Skanneri"
 msgid "TV Digital"
 msgstr "Digitaalinen televisio"
 
-msgid "Webcam"
-msgstr "Webkamera"
-
 msgid "Touchscreen"
 msgstr "Kosketusnäyttö"
 
 msgid "Som"
 msgstr "Ääni"
 
-msgid "Outros"
-msgstr "Muut"
-
 msgid "Pesquisar Driver ou Firmware"
 msgstr "Etsi ajuria tai laiteohjelmaa"
-
-msgid "Resultado da pesquisa"
-msgstr "Hakutulos"
 
 msgid "Big-Driver-Manager"
 msgstr "Big-Driver-Manager"
@@ -194,9 +179,6 @@ msgstr "Akku"
 msgid "Armazenamento"
 msgstr "Varastointi"
 
-msgid "Sistema"
-msgstr "Järjestelmä"
-
 msgid "Temperatura"
 msgstr "Lämpötila"
 
@@ -258,12 +240,6 @@ msgstr "Linux-laitteiston laitetietojen tarkasteleminen"
 
 msgid "Categoria"
 msgstr "Luokka"
-
-msgid "ID"
-msgstr "ID"
-
-msgid "Info"
-msgstr "Info"
 
 msgid "Swap (Memória Virtual)"
 msgstr "Swap (virtuaalimuisti)"

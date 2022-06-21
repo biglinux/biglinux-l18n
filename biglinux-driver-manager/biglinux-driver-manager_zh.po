@@ -63,12 +63,6 @@ msgid ""
 "URL com os dados do seu computador de forma fácil de compartilhar?"
 msgstr "你想查看文件或将其发送到transfer.sh，以一种简单的方式分享来自你电脑的数据的URL吗？"
 
-msgid "Categorias"
-msgstr "类别"
-
-msgid "Principais"
-msgstr "主要内容"
-
 msgid "Driver detectado:"
 msgstr "检测到的驱动程序。"
 
@@ -99,23 +93,14 @@ msgstr "扫描器"
 msgid "TV Digital"
 msgstr "数字电视"
 
-msgid "Webcam"
-msgstr "网络摄像头"
-
 msgid "Touchscreen"
 msgstr "触摸屏"
 
 msgid "Som"
 msgstr "声音"
 
-msgid "Outros"
-msgstr "其他"
-
 msgid "Pesquisar Driver ou Firmware"
 msgstr "搜索驱动程序或固件"
-
-msgid "Resultado da pesquisa"
-msgstr "搜索结果"
 
 msgid "Big-Driver-Manager"
 msgstr "大司机-经理人"
@@ -182,9 +167,6 @@ msgstr "电池"
 msgid "Armazenamento"
 msgstr "储存"
 
-msgid "Sistema"
-msgstr "系统"
-
 msgid "Temperatura"
 msgstr "温度"
 
@@ -243,12 +225,6 @@ msgstr "查看Linux硬件上的设备信息"
 
 msgid "Categoria"
 msgstr "类别"
-
-msgid "ID"
-msgstr "身份证"
-
-msgid "Info"
-msgstr "信息"
 
 msgid "Swap (Memória Virtual)"
 msgstr "交换（虚拟内存）"

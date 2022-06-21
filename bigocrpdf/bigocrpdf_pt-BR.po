@@ -85,17 +85,11 @@ msgid ""
 msgstr ""
 "Adicionar OCR no PDF digitalizado permitindo seleção de textos e busca:"
 
-msgid "OCR para PDF"
-msgstr "OCR para PDF"
-
 msgid "Arquivo"
 msgstr "Arquivo"
 
 msgid "Pasta:"
 msgstr "Pasta:"
-
-msgid "Abrir"
-msgstr "Abrir"
 
 msgid "Arquivo salvo: "
 msgstr "Arquivo salvo: "

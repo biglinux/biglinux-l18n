@@ -63,12 +63,6 @@ msgid ""
 "URL com os dados do seu computador de forma fácil de compartilhar?"
 msgstr "파일을 보거나 transfer.sh 웹 사이트로 보내 컴퓨터의 데이터가 포함 된 URL을 쉽게 공유 할 수 있습니까?"
 
-msgid "Categorias"
-msgstr "카테고리"
-
-msgid "Principais"
-msgstr "메인"
-
 msgid "Driver detectado:"
 msgstr "드라이버 감지:"
 
@@ -99,23 +93,14 @@ msgstr "스캐너"
 msgid "TV Digital"
 msgstr "디지털 TV"
 
-msgid "Webcam"
-msgstr "웹캠"
-
 msgid "Touchscreen"
 msgstr "터치스크린"
 
 msgid "Som"
 msgstr "사운드"
 
-msgid "Outros"
-msgstr "기타"
-
 msgid "Pesquisar Driver ou Firmware"
 msgstr "드라이버 또는 펌웨어 검색"
-
-msgid "Resultado da pesquisa"
-msgstr "검색 결과"
 
 msgid "Big-Driver-Manager"
 msgstr "빅 드라이버 매니저"
@@ -183,9 +168,6 @@ msgstr "드럼"
 msgid "Armazenamento"
 msgstr "스토리지"
 
-msgid "Sistema"
-msgstr "시스템"
-
 msgid "Temperatura"
 msgstr "임시 직원"
 
@@ -244,12 +226,6 @@ msgstr "Linux 하드웨어에 대한 장치 정보 보기"
 
 msgid "Categoria"
 msgstr "카테고리"
-
-msgid "ID"
-msgstr "신분증"
-
-msgid "Info"
-msgstr "정보"
 
 msgid "Swap (Memória Virtual)"
 msgstr "스왑 (가상 메모리)"

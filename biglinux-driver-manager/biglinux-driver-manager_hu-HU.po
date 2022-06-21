@@ -70,12 +70,6 @@ msgstr ""
 "URL-címet kapjon az adatokkal a számítógépéről, és könnyen megoszthassa "
 "azokat?"
 
-msgid "Categorias"
-msgstr "Kategóriák"
-
-msgid "Principais"
-msgstr "Főoldal"
-
 msgid "Driver detectado:"
 msgstr "A sofőr észlelte:"
 
@@ -107,23 +101,14 @@ msgstr "Szkenner"
 msgid "TV Digital"
 msgstr "Digitális TV"
 
-msgid "Webcam"
-msgstr "Webkamera"
-
 msgid "Touchscreen"
 msgstr "Érintőképernyő"
 
 msgid "Som"
 msgstr "Hang"
 
-msgid "Outros"
-msgstr "Egyéb"
-
 msgid "Pesquisar Driver ou Firmware"
 msgstr "Illesztőprogram vagy firmware keresése"
-
-msgid "Resultado da pesquisa"
-msgstr "Keresés eredménye"
 
 msgid "Big-Driver-Manager"
 msgstr "Big-Driver-Manager"
@@ -197,9 +182,6 @@ msgstr "Akkumulátor"
 msgid "Armazenamento"
 msgstr "Tárolás"
 
-msgid "Sistema"
-msgstr "Rendszer"
-
 msgid "Temperatura"
 msgstr "Hőmérséklet"
 
@@ -262,12 +244,6 @@ msgstr "Eszközinformációk megtekintése a Linux Hardveren"
 
 msgid "Categoria"
 msgstr "Kategória"
-
-msgid "ID"
-msgstr "ID"
-
-msgid "Info"
-msgstr "Info"
 
 msgid "Swap (Memória Virtual)"
 msgstr "Swap (virtuális memória)"

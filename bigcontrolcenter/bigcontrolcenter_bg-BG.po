@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: bigcontrolcenter\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-06-21 03:18-0300\n"
+"POT-Creation-Date: 2022-06-21 05:45-0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -30,11 +30,20 @@ msgstr ""
 "Направените промени могат да се видят\n"
 "в изображението на уеб камерата в други програми."
 
+msgid "Webcam"
+msgstr "Уеб камера"
+
 msgid "Category"
 msgstr "Категория"
 
 msgid "Name"
 msgstr "Име"
+
+msgid "ID"
+msgstr "ID"
+
+msgid "Info"
+msgstr "Информация"
 
 msgid ""
 "O relatório foi salvo no arquivo $FILE_TO_SAVE\n"
@@ -47,6 +56,9 @@ msgstr ""
 
 msgid "Visualizar o relatório"
 msgstr "Преглед на доклада"
+
+msgid "Fechar"
+msgstr "Затвори"
 
 msgid "Hardinfo Relatory"
 msgstr "Релация на Hardinfo"
@@ -78,6 +90,9 @@ msgid ""
 msgstr ""
 "Предоставяме ви пълни конфигурации, от които можете да избирате по много "
 "лесен начин."
+
+msgid "Temas, Desktop e Ajustes"
+msgstr "Теми, работен плот и настройки"
 
 msgid "Escolha seu Avatar"
 msgstr "Изберете своя аватар"
@@ -134,6 +149,9 @@ msgstr "Редуктор на шума"
 msgid "Configurar a voz do sistema (TTS)"
 msgstr "Задаване на системния глас (TTS)"
 
+msgid "OCR para PDF"
+msgstr "OCR за PDF"
+
 msgid "Doação e Redes sociais"
 msgstr "Дарения и социални мрежи"
 
@@ -163,6 +181,15 @@ msgstr "Facebook"
 
 msgid "Parabéns, você concluiu os primeiros passos para utilizar o BigLinux."
 msgstr "Поздравления, завършихте първите стъпки за използване на BigLinux."
+
+msgid "Bom dia"
+msgstr "Добро утро"
+
+msgid "Boa tarde"
+msgstr "Добър ден"
+
+msgid "Boa noite"
+msgstr "Добър вечер"
 
 msgid "Aguarde, carregando..."
 msgstr "Очаквайте, зареждане..."
@@ -389,6 +416,15 @@ msgstr "Център за управление на KDE"
 msgid "Configurador avançado de energia"
 msgstr "Усъвършенстван конфигуратор на захранването"
 
+msgid "Categorias"
+msgstr "Категории"
+
+msgid "Principais"
+msgstr "Основен"
+
+msgid "Sistema"
+msgstr "Система"
+
 msgid "Aparência"
 msgstr "Външен вид"
 
@@ -400,6 +436,9 @@ msgstr "Персонализиране на"
 
 msgid "Telefone"
 msgstr "Телефон"
+
+msgid "Multimídia"
+msgstr "Мултимедия"
 
 msgid "Rede e Internet"
 msgstr "Мрежа и интернет"
@@ -416,11 +455,23 @@ msgstr "Поверителност"
 msgid "Servidor"
 msgstr "Сървър"
 
+msgid "Desenvolvimento"
+msgstr "Развитие"
+
 msgid "Sobre"
 msgstr "За"
 
+msgid "Outros"
+msgstr "Други"
+
 msgid "Pesquisar..."
 msgstr "Търсене..."
+
+msgid "Resultado da pesquisa"
+msgstr "Резултат от търсенето"
+
+msgid "Abrir"
+msgstr "Отворете"
 
 msgid "Temas, desktop e ajustes"
 msgstr "Теми, десктоп и настройки"

@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: bigcontrolcenter\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-06-21 03:18-0300\n"
+"POT-Creation-Date: 2022-06-21 05:45-0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -30,11 +30,20 @@ msgstr ""
 "Wprowadzone zmiany można zobaczyć\n"
 "w obrazie Państwa kamery internetowej w innych programach."
 
+msgid "Webcam"
+msgstr "Kamera internetowa"
+
 msgid "Category"
 msgstr "Kategoria"
 
 msgid "Name"
 msgstr "Nazwa"
+
+msgid "ID"
+msgstr "ID"
+
+msgid "Info"
+msgstr "Info"
 
 msgid ""
 "O relatório foi salvo no arquivo $FILE_TO_SAVE\n"
@@ -47,6 +56,9 @@ msgstr ""
 
 msgid "Visualizar o relatório"
 msgstr "Zobacz raport"
+
+msgid "Fechar"
+msgstr "Zamknij"
 
 msgid "Hardinfo Relatory"
 msgstr "Hardinfo Relatory"
@@ -78,6 +90,9 @@ msgid ""
 msgstr ""
 "Zapewniamy kompletne konfiguracje, z których mogą Państwo wybierać w bardzo "
 "prosty sposób."
+
+msgid "Temas, Desktop e Ajustes"
+msgstr "Motywy, Pulpit i Ustawienia"
 
 msgid "Escolha seu Avatar"
 msgstr "Proszę wybrać swój awatar"
@@ -135,6 +150,9 @@ msgstr "Reduktor hałasu"
 msgid "Configurar a voz do sistema (TTS)"
 msgstr "Ustawianie głosu systemowego (TTS)"
 
+msgid "OCR para PDF"
+msgstr "OCR dla PDF"
+
 msgid "Doação e Redes sociais"
 msgstr "Darowizny i sieci społeczne"
 
@@ -166,6 +184,15 @@ msgstr "Facebook"
 
 msgid "Parabéns, você concluiu os primeiros passos para utilizar o BigLinux."
 msgstr "Gratulacje, zakończyli Państwo pierwsze kroki w używaniu BigLinux."
+
+msgid "Bom dia"
+msgstr "Dzień dobry"
+
+msgid "Boa tarde"
+msgstr "Dzień dobry"
+
+msgid "Boa noite"
+msgstr "Dobry wieczór"
 
 msgid "Aguarde, carregando..."
 msgstr "Proszę czekać, załadunek..."
@@ -393,6 +420,15 @@ msgstr "Centrum Sterowania KDE"
 msgid "Configurador avançado de energia"
 msgstr "Zaawansowany konfigurator mocy"
 
+msgid "Categorias"
+msgstr "Kategorie"
+
+msgid "Principais"
+msgstr "Główna"
+
+msgid "Sistema"
+msgstr "System"
+
 msgid "Aparência"
 msgstr "Wygląd"
 
@@ -404,6 +440,9 @@ msgstr "Dostosuj"
 
 msgid "Telefone"
 msgstr "Telefon"
+
+msgid "Multimídia"
+msgstr "Multimedia"
 
 msgid "Rede e Internet"
 msgstr "Sieć i Internet"
@@ -420,11 +459,23 @@ msgstr "Prywatność"
 msgid "Servidor"
 msgstr "Serwer"
 
+msgid "Desenvolvimento"
+msgstr "Rozwój"
+
 msgid "Sobre"
 msgstr "O"
 
+msgid "Outros"
+msgstr "Inne"
+
 msgid "Pesquisar..."
 msgstr "Szukaj..."
+
+msgid "Resultado da pesquisa"
+msgstr "Wynik wyszukiwania"
+
+msgid "Abrir"
+msgstr "Otwórz"
 
 msgid "Temas, desktop e ajustes"
 msgstr "Motywy, pulpit i ustawienia"

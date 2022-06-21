@@ -68,12 +68,6 @@ msgstr ""
 "Wilt u het bestand bekijken of naar transfer.sh sturen, om een URL te hebben "
 "met de gegevens van uw computer op een gemakkelijke manier te delen?"
 
-msgid "Categorias"
-msgstr "Categorieën"
-
-msgid "Principais"
-msgstr "Hoofd"
-
 msgid "Driver detectado:"
 msgstr "Gedetecteerd stuurprogramma:"
 
@@ -104,23 +98,14 @@ msgstr "Scanner"
 msgid "TV Digital"
 msgstr "Digitale TV"
 
-msgid "Webcam"
-msgstr "Webcam"
-
 msgid "Touchscreen"
 msgstr "Touchscreen"
 
 msgid "Som"
 msgstr "Geluid"
 
-msgid "Outros"
-msgstr "Andere"
-
 msgid "Pesquisar Driver ou Firmware"
 msgstr "Stuurprogramma of firmware zoeken"
-
-msgid "Resultado da pesquisa"
-msgstr "Zoekresultaat"
 
 msgid "Big-Driver-Manager"
 msgstr "Grote-Driver-Manager"
@@ -195,9 +180,6 @@ msgstr "Batterij"
 msgid "Armazenamento"
 msgstr "Opslag"
 
-msgid "Sistema"
-msgstr "Systeem"
-
 msgid "Temperatura"
 msgstr "Temperatuur"
 
@@ -260,12 +242,6 @@ msgstr "Apparaatinformatie bekijken op Linux Hardware"
 
 msgid "Categoria"
 msgstr "Categorie"
-
-msgid "ID"
-msgstr "ID"
-
-msgid "Info"
-msgstr "Info"
 
 msgid "Swap (Memória Virtual)"
 msgstr "Swap (virtueel geheugen)"

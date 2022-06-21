@@ -86,6 +86,3 @@ msgstr "στο δίκτυο:"
 
 msgid "Voltar"
 msgstr "Πίσω"
-
-msgid "Fechar"
-msgstr "Κλείστε το"

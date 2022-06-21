@@ -62,9 +62,6 @@ msgstr "Masaüstü"
 msgid "Ajustes"
 msgstr "Ayarlar"
 
-msgid "Temas, Desktop e Ajustes"
-msgstr "Temalar, Masaüstü ve Ayarlar"
-
 msgid "Desempenho do desktop"
 msgstr "Masaüstü performansı"
 

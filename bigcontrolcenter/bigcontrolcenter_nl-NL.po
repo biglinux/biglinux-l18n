@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: bigcontrolcenter\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-06-21 03:18-0300\n"
+"POT-Creation-Date: 2022-06-21 05:45-0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -30,11 +30,20 @@ msgstr ""
 "De aangebrachte wijzigingen zijn te zien\n"
 "in het beeld van uw webcam in andere programma's."
 
+msgid "Webcam"
+msgstr "Webcam"
+
 msgid "Category"
 msgstr "Categorie"
 
 msgid "Name"
 msgstr "Naam"
+
+msgid "ID"
+msgstr "ID"
+
+msgid "Info"
+msgstr "Info"
 
 msgid ""
 "O relatório foi salvo no arquivo $FILE_TO_SAVE\n"
@@ -47,6 +56,9 @@ msgstr ""
 
 msgid "Visualizar o relatório"
 msgstr "Bekijk het verslag"
+
+msgid "Fechar"
+msgstr "Sluiten"
 
 msgid "Hardinfo Relatory"
 msgstr "Hardinfo Relatory"
@@ -78,6 +90,9 @@ msgid ""
 msgstr ""
 "Wij bieden complete configuraties waaruit u op een heel eenvoudige manier "
 "kunt kiezen."
+
+msgid "Temas, Desktop e Ajustes"
+msgstr "Thema's, Bureaublad en Instellingen"
 
 msgid "Escolha seu Avatar"
 msgstr "Kies uw Avatar"
@@ -135,6 +150,9 @@ msgstr "Ruisonderdrukker"
 msgid "Configurar a voz do sistema (TTS)"
 msgstr "Instellen van de systeemstem (TTS)"
 
+msgid "OCR para PDF"
+msgstr "OCR voor PDF"
+
 msgid "Doação e Redes sociais"
 msgstr "Donatie en sociale netwerken"
 
@@ -167,6 +185,15 @@ msgid "Parabéns, você concluiu os primeiros passos para utilizar o BigLinux."
 msgstr ""
 "Gefeliciteerd, u hebt de eerste stappen naar het gebruik van BigLinux "
 "voltooid."
+
+msgid "Bom dia"
+msgstr "Goede morgen"
+
+msgid "Boa tarde"
+msgstr "Goedemiddag"
+
+msgid "Boa noite"
+msgstr "Goedenavond"
 
 msgid "Aguarde, carregando..."
 msgstr "Stand by, laden..."
@@ -392,6 +419,15 @@ msgstr "KDE Controlecentrum"
 msgid "Configurador avançado de energia"
 msgstr "Geavanceerde vermogensconfigurator"
 
+msgid "Categorias"
+msgstr "Categorieën"
+
+msgid "Principais"
+msgstr "Hoofd"
+
+msgid "Sistema"
+msgstr "Systeem"
+
 msgid "Aparência"
 msgstr "Verschijning"
 
@@ -403,6 +439,9 @@ msgstr "Aanpassen"
 
 msgid "Telefone"
 msgstr "Telefoon"
+
+msgid "Multimídia"
+msgstr "Multimedia"
 
 msgid "Rede e Internet"
 msgstr "Netwerk en Internet"
@@ -419,11 +458,23 @@ msgstr "Privacy"
 msgid "Servidor"
 msgstr "Server"
 
+msgid "Desenvolvimento"
+msgstr "Ontwikkeling"
+
 msgid "Sobre"
 msgstr "Over"
 
+msgid "Outros"
+msgstr "Andere"
+
 msgid "Pesquisar..."
 msgstr "Zoeken..."
+
+msgid "Resultado da pesquisa"
+msgstr "Zoekresultaat"
+
+msgid "Abrir"
+msgstr "Open"
 
 msgid "Temas, desktop e ajustes"
 msgstr "Thema's, bureaublad en instellingen"

@@ -62,9 +62,6 @@ msgstr "Skrifborð"
 msgid "Ajustes"
 msgstr "klípur"
 
-msgid "Temas, Desktop e Ajustes"
-msgstr "Þemu, skrifborð og leiðréttingar"
-
 msgid "Desempenho do desktop"
 msgstr "Desktop árangur"
 

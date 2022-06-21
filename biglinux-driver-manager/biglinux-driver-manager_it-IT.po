@@ -67,12 +67,6 @@ msgstr ""
 "Vuole visualizzare il file o inviarlo a transfer.sh, per avere un URL con i "
 "dati dal suo computer in modo semplice da condividere?"
 
-msgid "Categorias"
-msgstr "Categorie"
-
-msgid "Principais"
-msgstr "Principale"
-
 msgid "Driver detectado:"
 msgstr "Driver rilevato:"
 
@@ -104,23 +98,14 @@ msgstr "Scanner"
 msgid "TV Digital"
 msgstr "TV digitale"
 
-msgid "Webcam"
-msgstr "Webcam"
-
 msgid "Touchscreen"
 msgstr "Touchscreen"
 
 msgid "Som"
 msgstr "Suono"
 
-msgid "Outros"
-msgstr "Altro"
-
 msgid "Pesquisar Driver ou Firmware"
 msgstr "Cerca il driver o il firmware"
-
-msgid "Resultado da pesquisa"
-msgstr "Risultato della ricerca"
 
 msgid "Big-Driver-Manager"
 msgstr "Manager del Big-Driver"
@@ -194,9 +179,6 @@ msgstr "Batteria"
 msgid "Armazenamento"
 msgstr "Conservazione"
 
-msgid "Sistema"
-msgstr "Sistema"
-
 msgid "Temperatura"
 msgstr "Temperatura"
 
@@ -258,12 +240,6 @@ msgstr "Visualizza le informazioni sul dispositivo su Linux Hardware"
 
 msgid "Categoria"
 msgstr "Categoria"
-
-msgid "ID"
-msgstr "ID"
-
-msgid "Info"
-msgstr "Info"
 
 msgid "Swap (Memória Virtual)"
 msgstr "Swap (memoria virtuale)"

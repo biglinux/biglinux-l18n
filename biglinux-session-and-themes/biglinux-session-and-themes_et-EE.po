@@ -62,9 +62,6 @@ msgstr "Töölauaarvuti"
 msgid "Ajustes"
 msgstr "Seaded"
 
-msgid "Temas, Desktop e Ajustes"
-msgstr "Teemad, töölaud ja seaded"
-
 msgid "Desempenho do desktop"
 msgstr "Töölaua jõudlus"
 

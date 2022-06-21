@@ -82,6 +82,3 @@ msgstr "i nätverket:"
 
 msgid "Voltar"
 msgstr "Tillbaka"
-
-msgid "Fechar"
-msgstr "Stäng"

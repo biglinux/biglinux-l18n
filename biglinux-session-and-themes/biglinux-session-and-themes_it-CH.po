@@ -63,9 +63,6 @@ msgstr "Desktop"
 msgid "Ajustes"
 msgstr "Impostazioni"
 
-msgid "Temas, Desktop e Ajustes"
-msgstr "Temi, Desktop e Impostazioni"
-
 msgid "Desempenho do desktop"
 msgstr "Prestazioni del desktop"
 

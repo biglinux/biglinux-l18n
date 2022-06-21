@@ -62,9 +62,6 @@ msgstr "Skrivebord"
 msgid "Ajustes"
 msgstr "justeringer"
 
-msgid "Temas, Desktop e Ajustes"
-msgstr "Temaer, skrivebord og justeringer"
-
 msgid "Desempenho do desktop"
 msgstr "Ytelse på skrivebordet"
 

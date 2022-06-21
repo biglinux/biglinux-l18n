@@ -62,9 +62,6 @@ msgstr "Desktop"
 msgid "Ajustes"
 msgstr "ugađanje"
 
-msgid "Temas, Desktop e Ajustes"
-msgstr "Teme, radna površina i prilagodbe"
-
 msgid "Desempenho do desktop"
 msgstr "Učinak radne površine"
 

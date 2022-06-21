@@ -82,6 +82,3 @@ msgstr "in the network:"
 
 msgid "Voltar"
 msgstr "Back"
-
-msgid "Fechar"
-msgstr "Close"

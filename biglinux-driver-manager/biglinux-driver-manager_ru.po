@@ -67,12 +67,6 @@ msgstr ""
 "Вы хотите просмотреть файл или отправить его в transfer.sh, чтобы иметь URL "
 "с данными с вашего компьютера в удобном для обмена виде?"
 
-msgid "Categorias"
-msgstr "Категории"
-
-msgid "Principais"
-msgstr "Главная"
-
 msgid "Driver detectado:"
 msgstr "Обнаружен драйвер:"
 
@@ -103,23 +97,14 @@ msgstr "Сканер"
 msgid "TV Digital"
 msgstr "Цифровое телевидение"
 
-msgid "Webcam"
-msgstr "Веб-камера"
-
 msgid "Touchscreen"
 msgstr "Сенсорный экран"
 
 msgid "Som"
 msgstr "Звук"
 
-msgid "Outros"
-msgstr "Другое"
-
 msgid "Pesquisar Driver ou Firmware"
 msgstr "Поиск драйвера или микропрограммы"
-
-msgid "Resultado da pesquisa"
-msgstr "Результат поиска"
 
 msgid "Big-Driver-Manager"
 msgstr "Big-Driver-Manager"
@@ -193,9 +178,6 @@ msgstr "Аккумулятор"
 msgid "Armazenamento"
 msgstr "Хранение"
 
-msgid "Sistema"
-msgstr "Система"
-
 msgid "Temperatura"
 msgstr "Температура"
 
@@ -256,12 +238,6 @@ msgstr "Просмотр информации об устройстве на Lin
 
 msgid "Categoria"
 msgstr "Категория"
-
-msgid "ID"
-msgstr "ID"
-
-msgid "Info"
-msgstr "Информация"
 
 msgid "Swap (Memória Virtual)"
 msgstr "Swap (виртуальная память)"

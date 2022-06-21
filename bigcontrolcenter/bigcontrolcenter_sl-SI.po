@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: bigcontrolcenter\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-06-21 03:18-0300\n"
+"POT-Creation-Date: 2022-06-21 05:45-0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -30,11 +30,20 @@ msgstr ""
 "Izvedene spremembe so vidne\n"
 "na sliko spletne kamere v drugih programih."
 
+msgid "Webcam"
+msgstr "Spletna kamera"
+
 msgid "Category"
 msgstr "Kategorija"
 
 msgid "Name"
 msgstr "Ime"
+
+msgid "ID"
+msgstr "ID"
+
+msgid "Info"
+msgstr "Info"
 
 msgid ""
 "O relatório foi salvo no arquivo $FILE_TO_SAVE\n"
@@ -47,6 +56,9 @@ msgstr ""
 
 msgid "Visualizar o relatório"
 msgstr "Oglejte si poročilo"
+
+msgid "Fechar"
+msgstr "Zapri"
 
 msgid "Hardinfo Relatory"
 msgstr "Odnosnik Hardinfo"
@@ -78,6 +90,9 @@ msgid ""
 msgstr ""
 "Ponujamo popolne konfiguracije, med katerimi lahko izbirate na zelo preprost "
 "način."
+
+msgid "Temas, Desktop e Ajustes"
+msgstr "Motive, namizje in nastavitve"
 
 msgid "Escolha seu Avatar"
 msgstr "Izberite svoj avatar"
@@ -135,6 +150,9 @@ msgstr "Sredstvo za zmanjševanje hrupa"
 msgid "Configurar a voz do sistema (TTS)"
 msgstr "Nastavitev sistemskega glasu (TTS)"
 
+msgid "OCR para PDF"
+msgstr "OCR za PDF"
+
 msgid "Doação e Redes sociais"
 msgstr "Donacije in družbena omrežja"
 
@@ -165,6 +183,15 @@ msgstr "Facebook"
 
 msgid "Parabéns, você concluiu os primeiros passos para utilizar o BigLinux."
 msgstr "Čestitamo, opravili ste prve korake za uporabo sistema BigLinux."
+
+msgid "Bom dia"
+msgstr "Dobro jutro"
+
+msgid "Boa tarde"
+msgstr "Dobro popoldne"
+
+msgid "Boa noite"
+msgstr "Dober večer"
 
 msgid "Aguarde, carregando..."
 msgstr "Počakajte, nakladanje..."
@@ -386,6 +413,15 @@ msgstr "Nadzorno središče KDE"
 msgid "Configurador avançado de energia"
 msgstr "Napredni konfigurator napajanja"
 
+msgid "Categorias"
+msgstr "Kategorije"
+
+msgid "Principais"
+msgstr "Glavna stran"
+
+msgid "Sistema"
+msgstr "Sistem"
+
 msgid "Aparência"
 msgstr "Videz"
 
@@ -397,6 +433,9 @@ msgstr "Prilagodite"
 
 msgid "Telefone"
 msgstr "Telefon"
+
+msgid "Multimídia"
+msgstr "Večpredstavnostna stran"
 
 msgid "Rede e Internet"
 msgstr "Omrežje in internet"
@@ -413,11 +452,23 @@ msgstr "Zasebnost"
 msgid "Servidor"
 msgstr "Strežnik"
 
+msgid "Desenvolvimento"
+msgstr "Razvoj"
+
 msgid "Sobre"
 msgstr "O"
 
+msgid "Outros"
+msgstr "Drugo"
+
 msgid "Pesquisar..."
 msgstr "Iskanje..."
+
+msgid "Resultado da pesquisa"
+msgstr "Rezultat iskanja"
+
+msgid "Abrir"
+msgstr "Odpri"
 
 msgid "Temas, desktop e ajustes"
 msgstr "Motive, namizje in nastavitve"

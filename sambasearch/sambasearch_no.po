@@ -81,6 +81,3 @@ msgstr "på nettverket:"
 
 msgid "Voltar"
 msgstr "Gå tilbake"
-
-msgid "Fechar"
-msgstr "Lukk"

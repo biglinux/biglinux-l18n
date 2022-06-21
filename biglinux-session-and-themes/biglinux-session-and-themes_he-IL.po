@@ -62,9 +62,6 @@ msgstr "שולחן עבודה"
 msgid "Ajustes"
 msgstr "tweaks"
 
-msgid "Temas, Desktop e Ajustes"
-msgstr "ערכות נושא, שולחן עבודה והתאמות"
-
 msgid "Desempenho do desktop"
 msgstr "ביצועי מחשב שולחני"
 

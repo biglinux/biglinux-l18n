@@ -87,17 +87,11 @@ msgstr ""
 "Ajoutez l'OCR au PDF numérisé pour permettre la sélection et la recherche de "
 "texte :"
 
-msgid "OCR para PDF"
-msgstr "OCR pour PDF"
-
 msgid "Arquivo"
 msgstr "Fichier"
 
 msgid "Pasta:"
 msgstr "Dossier :"
-
-msgid "Abrir"
-msgstr "Ouvrir"
 
 msgid "Arquivo salvo: "
 msgstr "Fichier sauvegardé "

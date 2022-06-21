@@ -83,6 +83,3 @@ msgstr "у сетцы:"
 
 msgid "Voltar"
 msgstr "Вяртацца"
-
-msgid "Fechar"
-msgstr "Закрыць"

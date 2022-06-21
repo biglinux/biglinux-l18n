@@ -68,12 +68,6 @@ msgstr ""
 "Želite li vidjeti datoteku ili je poslati na web mjesto transfer.sh, da "
 "biste na jednostavan način imali URL s podacima na računalu?"
 
-msgid "Categorias"
-msgstr "Kategorije"
-
-msgid "Principais"
-msgstr "Glavni"
-
 msgid "Driver detectado:"
 msgstr "Otkriven vozač:"
 
@@ -104,23 +98,14 @@ msgstr "Skener"
 msgid "TV Digital"
 msgstr "Digitalna TV"
 
-msgid "Webcam"
-msgstr "web kamera"
-
 msgid "Touchscreen"
 msgstr "zaslon osjetljiv na dodir"
 
 msgid "Som"
 msgstr "zvuk"
 
-msgid "Outros"
-msgstr "Ostalo"
-
 msgid "Pesquisar Driver ou Firmware"
 msgstr "Potražite upravljački program ili firmver"
-
-msgid "Resultado da pesquisa"
-msgstr "Rezultati pretrage"
 
 msgid "Big-Driver-Manager"
 msgstr "Voditelj velikog vozača"
@@ -194,9 +179,6 @@ msgstr "Bubnjevi"
 msgid "Armazenamento"
 msgstr "Skladištenje"
 
-msgid "Sistema"
-msgstr "Sustav"
-
 msgid "Temperatura"
 msgstr "Vrijeme"
 
@@ -257,12 +239,6 @@ msgstr "Prikaz informacija o uređaju na Linux hardveru"
 
 msgid "Categoria"
 msgstr "Kategorija"
-
-msgid "ID"
-msgstr "OSOBNA ISKAZNICA"
-
-msgid "Info"
-msgstr "Informacije"
 
 msgid "Swap (Memória Virtual)"
 msgstr "Zamjena (virtualna memorija)"

@@ -78,6 +78,3 @@ msgstr "在网络上。"
 
 msgid "Voltar"
 msgstr "溯源"
-
-msgid "Fechar"
-msgstr "关闭"

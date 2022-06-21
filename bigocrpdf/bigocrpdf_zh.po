@@ -78,17 +78,11 @@ msgid ""
 "Adicionar OCR no PDF digitalizado permitindo seleção de textos e busca:"
 msgstr "在扫描的PDF中添加OCR，允许文本选择和搜索。"
 
-msgid "OCR para PDF"
-msgstr "用于PDF的OCR"
-
 msgid "Arquivo"
 msgstr "文件"
 
 msgid "Pasta:"
 msgstr "文件夾："
-
-msgid "Abrir"
-msgstr "打開"
 
 msgid "Arquivo salvo: "
 msgstr "文件保存。 "

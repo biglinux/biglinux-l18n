@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: bigcontrolcenter\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-06-21 03:18-0300\n"
+"POT-Creation-Date: 2022-06-21 05:45-0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -30,11 +30,20 @@ msgstr ""
 "Promjene koje su napravljene mogu se vidjeti\n"
 "na vašoj web kameri sliku u drugim programima."
 
+msgid "Webcam"
+msgstr "web kamera"
+
 msgid "Category"
 msgstr "Kategorija"
 
 msgid "Name"
 msgstr "Ime"
+
+msgid "ID"
+msgstr "OSOBNA ISKAZNICA"
+
+msgid "Info"
+msgstr "Informacije"
 
 msgid ""
 "O relatório foi salvo no arquivo $FILE_TO_SAVE\n"
@@ -47,6 +56,9 @@ msgstr ""
 
 msgid "Visualizar o relatório"
 msgstr "Pregled izvješća"
+
+msgid "Fechar"
+msgstr "Zatvoriti"
 
 msgid "Hardinfo Relatory"
 msgstr "Hardinfo izvještaj"
@@ -77,6 +89,9 @@ msgid ""
 "extremamente simples."
 msgstr ""
 "Kompletne konfiguracije dostupne su za odabir na izuzetno jednostavan način."
+
+msgid "Temas, Desktop e Ajustes"
+msgstr "Teme, radna površina i prilagodbe"
 
 msgid "Escolha seu Avatar"
 msgstr "Odaberite svoj Avatar"
@@ -135,6 +150,9 @@ msgstr "Reduktor buke"
 msgid "Configurar a voz do sistema (TTS)"
 msgstr "Postavljanje glasovnog sustava (TTS)"
 
+msgid "OCR para PDF"
+msgstr "OCR do PDF"
+
 msgid "Doação e Redes sociais"
 msgstr "Donacija i društvene mreže"
 
@@ -164,6 +182,15 @@ msgstr "Facebook"
 
 msgid "Parabéns, você concluiu os primeiros passos para utilizar o BigLinux."
 msgstr "Čestitamo, dovršili ste prve korake za korištenje BigLinuxa."
+
+msgid "Bom dia"
+msgstr "Salaam"
+
+msgid "Boa tarde"
+msgstr "Dobar dan"
+
+msgid "Boa noite"
+msgstr "Laku noć"
 
 msgid "Aguarde, carregando..."
 msgstr "Čekaj, utovar..."
@@ -386,6 +413,15 @@ msgstr "KDE kontrolni centar"
 msgid "Configurador avançado de energia"
 msgstr "Napredni konfigurator napajanja"
 
+msgid "Categorias"
+msgstr "Kategorije"
+
+msgid "Principais"
+msgstr "Glavni"
+
+msgid "Sistema"
+msgstr "Sustav"
+
 msgid "Aparência"
 msgstr "Izgled"
 
@@ -397,6 +433,9 @@ msgstr "personalizirati"
 
 msgid "Telefone"
 msgstr "telefon"
+
+msgid "Multimídia"
+msgstr "Multimedija"
 
 msgid "Rede e Internet"
 msgstr "Mreža i Internet"
@@ -413,11 +452,23 @@ msgstr "Privatnost"
 msgid "Servidor"
 msgstr "mainframe"
 
+msgid "Desenvolvimento"
+msgstr "Razvoj"
+
 msgid "Sobre"
 msgstr "O"
 
+msgid "Outros"
+msgstr "Ostalo"
+
 msgid "Pesquisar..."
 msgstr "Pretraga..."
+
+msgid "Resultado da pesquisa"
+msgstr "Rezultati pretrage"
+
+msgid "Abrir"
+msgstr "Otvori"
 
 msgid "Temas, desktop e ajustes"
 msgstr "Teme, radna površina i ugađanje"

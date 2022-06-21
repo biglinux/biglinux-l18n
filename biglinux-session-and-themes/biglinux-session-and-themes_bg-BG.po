@@ -63,9 +63,6 @@ msgstr "Настолен компютър"
 msgid "Ajustes"
 msgstr "Настройки"
 
-msgid "Temas, Desktop e Ajustes"
-msgstr "Теми, работен плот и настройки"
-
 msgid "Desempenho do desktop"
 msgstr "Производителност на работния плот"
 

@@ -80,6 +80,3 @@ msgstr "ברשת:"
 
 msgid "Voltar"
 msgstr "חזור אחורה"
-
-msgid "Fechar"
-msgstr "סגור"

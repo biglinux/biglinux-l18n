@@ -62,9 +62,6 @@ msgstr "Desktop"
 msgid "Ajustes"
 msgstr "Setări"
 
-msgid "Temas, Desktop e Ajustes"
-msgstr "Teme, desktop și setări"
-
 msgid "Desempenho do desktop"
 msgstr "Performanță desktop"
 

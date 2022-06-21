@@ -65,9 +65,6 @@ msgstr "Schreibtisch"
 msgid "Ajustes"
 msgstr "Einstellungen"
 
-msgid "Temas, Desktop e Ajustes"
-msgstr "Themes, Desktop und Einstellungen"
-
 msgid "Desempenho do desktop"
 msgstr "Desktop-Leistung"
 

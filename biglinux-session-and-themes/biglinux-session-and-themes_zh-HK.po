@@ -60,9 +60,6 @@ msgstr "桌上型"
 msgid "Ajustes"
 msgstr "苦惱"
 
-msgid "Temas, Desktop e Ajustes"
-msgstr "佈景主題、桌面和調整"
-
 msgid "Desempenho do desktop"
 msgstr "桌面效能"
 

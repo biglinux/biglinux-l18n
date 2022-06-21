@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: bigcontrolcenter\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-06-21 03:18-0300\n"
+"POT-Creation-Date: 2022-06-21 05:45-0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -30,11 +30,20 @@ msgstr ""
 "Provedené změny jsou patrné\n"
 "v obraze webové kamery v jiných programech."
 
+msgid "Webcam"
+msgstr "Webová kamera"
+
 msgid "Category"
 msgstr "Kategorie"
 
 msgid "Name"
 msgstr "Název"
+
+msgid "ID"
+msgstr "ID"
+
+msgid "Info"
+msgstr "Informace"
 
 msgid ""
 "O relatório foi salvo no arquivo $FILE_TO_SAVE\n"
@@ -47,6 +56,9 @@ msgstr ""
 
 msgid "Visualizar o relatório"
 msgstr "Zobrazit zprávu"
+
+msgid "Fechar"
+msgstr "Zavřít"
 
 msgid "Hardinfo Relatory"
 msgstr "Hardinfo Relatory"
@@ -77,6 +89,9 @@ msgid ""
 "extremamente simples."
 msgstr ""
 "Nabízíme kompletní konfigurace, ze kterých si můžete velmi jednoduše vybrat."
+
+msgid "Temas, Desktop e Ajustes"
+msgstr "Motivy, plocha a nastavení"
 
 msgid "Escolha seu Avatar"
 msgstr "Vyberte si svůj avatar"
@@ -133,6 +148,9 @@ msgstr "Redukce hluku"
 msgid "Configurar a voz do sistema (TTS)"
 msgstr "Nastavení systémového hlasu (TTS)"
 
+msgid "OCR para PDF"
+msgstr "OCR pro PDF"
+
 msgid "Doação e Redes sociais"
 msgstr "Dárcovství a sociální sítě"
 
@@ -162,6 +180,15 @@ msgstr "Facebook"
 
 msgid "Parabéns, você concluiu os primeiros passos para utilizar o BigLinux."
 msgstr "Gratulujeme, dokončili jste první kroky k používání systému BigLinux."
+
+msgid "Bom dia"
+msgstr "Dobré ráno"
+
+msgid "Boa tarde"
+msgstr "Dobré odpoledne"
+
+msgid "Boa noite"
+msgstr "Dobrý večer"
 
 msgid "Aguarde, carregando..."
 msgstr "Připravte se, načítání..."
@@ -382,6 +409,15 @@ msgstr "Ovládací centrum KDE"
 msgid "Configurador avançado de energia"
 msgstr "Pokročilý konfigurátor napájení"
 
+msgid "Categorias"
+msgstr "Kategorie"
+
+msgid "Principais"
+msgstr "Hlavní stránka"
+
+msgid "Sistema"
+msgstr "Systém"
+
 msgid "Aparência"
 msgstr "Vzhled"
 
@@ -393,6 +429,9 @@ msgstr "Přizpůsobení"
 
 msgid "Telefone"
 msgstr "Telefon"
+
+msgid "Multimídia"
+msgstr "Multimédia"
 
 msgid "Rede e Internet"
 msgstr "Síť a internet"
@@ -409,11 +448,23 @@ msgstr "Ochrana osobních údajů"
 msgid "Servidor"
 msgstr "Server"
 
+msgid "Desenvolvimento"
+msgstr "Vývoj"
+
 msgid "Sobre"
 msgstr "O stránkách"
 
+msgid "Outros"
+msgstr "Další"
+
 msgid "Pesquisar..."
 msgstr "Vyhledávání..."
+
+msgid "Resultado da pesquisa"
+msgstr "Výsledek hledání"
+
+msgid "Abrir"
+msgstr "Otevřít"
 
 msgid "Temas, desktop e ajustes"
 msgstr "Motivy, plocha a nastavení"

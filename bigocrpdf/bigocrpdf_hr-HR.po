@@ -85,17 +85,11 @@ msgid ""
 msgstr ""
 "Dodajte OCR skeniranom PDF-u koji omogućuje odabir teksta i pretraživanje:"
 
-msgid "OCR para PDF"
-msgstr "OCR do PDF"
-
 msgid "Arquivo"
 msgstr "turpija"
 
 msgid "Pasta:"
 msgstr "Mapa:"
-
-msgid "Abrir"
-msgstr "Otvori"
 
 msgid "Arquivo salvo: "
 msgstr "Spremljena datoteka: "

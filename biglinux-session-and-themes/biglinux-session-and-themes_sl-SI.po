@@ -62,9 +62,6 @@ msgstr "Namizni računalnik"
 msgid "Ajustes"
 msgstr "Nastavitve"
 
-msgid "Temas, Desktop e Ajustes"
-msgstr "Motive, namizje in nastavitve"
-
 msgid "Desempenho do desktop"
 msgstr "Delovanje namizja"
 

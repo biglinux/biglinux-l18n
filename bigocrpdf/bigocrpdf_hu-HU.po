@@ -87,17 +87,11 @@ msgstr ""
 "OCR hozzáadása a beolvasott PDF-hez, amely lehetővé teszi a szöveg "
 "kiválasztását és a keresést:"
 
-msgid "OCR para PDF"
-msgstr "OCR a PDF-hez"
-
 msgid "Arquivo"
 msgstr "Fájl"
 
 msgid "Pasta:"
 msgstr "Mappa:"
-
-msgid "Abrir"
-msgstr "Nyissa meg a  címet"
 
 msgid "Arquivo salvo: "
 msgstr "Fájl mentve "

@@ -67,12 +67,6 @@ msgstr ""
 "Viltu skoða skrána eða senda hana á transfer.sh vefsíðuna, til að hafa slóð "
 "með gögnum á tölvunni þinni á auðveldan hátt til að deila?"
 
-msgid "Categorias"
-msgstr "Flokkar"
-
-msgid "Principais"
-msgstr "Aðal"
-
 msgid "Driver detectado:"
 msgstr "Ökumaður uppgötvað:"
 
@@ -103,23 +97,14 @@ msgstr "Skanni"
 msgid "TV Digital"
 msgstr "Stafrænt sjónvarp"
 
-msgid "Webcam"
-msgstr "vefmyndavél"
-
 msgid "Touchscreen"
 msgstr "Snertiskjár"
 
 msgid "Som"
 msgstr "heilbrigður"
 
-msgid "Outros"
-msgstr "Annað"
-
 msgid "Pesquisar Driver ou Firmware"
 msgstr "Leita að bílstjóri eða Firmware"
-
-msgid "Resultado da pesquisa"
-msgstr "Leitarniðurstöður"
 
 msgid "Big-Driver-Manager"
 msgstr "Stór bílstjóri-framkvæmdastjóri"
@@ -190,9 +175,6 @@ msgstr "Trommur"
 msgid "Armazenamento"
 msgstr "geymsla"
 
-msgid "Sistema"
-msgstr "Kerfi"
-
 msgid "Temperatura"
 msgstr "Temps"
 
@@ -253,12 +235,6 @@ msgstr "Skoða upplýsingar um tækið á Linux Vélbúnaður"
 
 msgid "Categoria"
 msgstr "Flokkur"
-
-msgid "ID"
-msgstr "AUÐKENNI"
-
-msgid "Info"
-msgstr "Upplýsingar"
 
 msgid "Swap (Memória Virtual)"
 msgstr "Víxla (Virtual Memory)"

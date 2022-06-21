@@ -68,12 +68,6 @@ msgstr ""
 "paylaşmak için bir URL'ye sahip olmak için transfer.sh'ye göndermek mi "
 "istiyorsunuz?"
 
-msgid "Categorias"
-msgstr "Kategoriler"
-
-msgid "Principais"
-msgstr "Ana"
-
 msgid "Driver detectado:"
 msgstr "Sürücü tespit edildi:"
 
@@ -104,23 +98,14 @@ msgstr "Tarayıcı"
 msgid "TV Digital"
 msgstr "Dijital TV"
 
-msgid "Webcam"
-msgstr "Web kamerası"
-
 msgid "Touchscreen"
 msgstr "Dokunmatik ekran"
 
 msgid "Som"
 msgstr "Ses"
 
-msgid "Outros"
-msgstr "Diğer"
-
 msgid "Pesquisar Driver ou Firmware"
 msgstr "Sürücü veya Ürün Yazılımını Arama"
-
-msgid "Resultado da pesquisa"
-msgstr "Arama sonucu"
 
 msgid "Big-Driver-Manager"
 msgstr "Big-Driver-Manager"
@@ -193,9 +178,6 @@ msgstr "Akü"
 msgid "Armazenamento"
 msgstr "Depolama"
 
-msgid "Sistema"
-msgstr "Sistem"
-
 msgid "Temperatura"
 msgstr "Sıcaklık"
 
@@ -256,12 +238,6 @@ msgstr "Linux Donanımında cihaz bilgilerini görüntüleme"
 
 msgid "Categoria"
 msgstr "Kategori"
-
-msgid "ID"
-msgstr "KIMLIK"
-
-msgid "Info"
-msgstr "Bilgi"
 
 msgid "Swap (Memória Virtual)"
 msgstr "Swap (Sanal Bellek)"

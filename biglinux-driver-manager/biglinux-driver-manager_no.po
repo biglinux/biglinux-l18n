@@ -67,12 +67,6 @@ msgstr ""
 "Vil du se filen eller sende den til nettstedet transfer.sh, for å ha en URL "
 "med dataene på datamaskinen din på en enkel å dele måte?"
 
-msgid "Categorias"
-msgstr "Kategorier"
-
-msgid "Principais"
-msgstr "Hoved"
-
 msgid "Driver detectado:"
 msgstr "Driver oppdaget:"
 
@@ -103,23 +97,14 @@ msgstr "Skanner"
 msgid "TV Digital"
 msgstr "Digital-TV"
 
-msgid "Webcam"
-msgstr "webkamera"
-
 msgid "Touchscreen"
 msgstr "Berøringsskjerm"
 
 msgid "Som"
 msgstr "lyd"
 
-msgid "Outros"
-msgstr "Annet"
-
 msgid "Pesquisar Driver ou Firmware"
 msgstr "Søk etter Driver eller Firmware"
-
-msgid "Resultado da pesquisa"
-msgstr "Søk resultat"
 
 msgid "Big-Driver-Manager"
 msgstr "Stor sjåfør-leder"
@@ -193,9 +178,6 @@ msgstr "Trommer"
 msgid "Armazenamento"
 msgstr "Lagring"
 
-msgid "Sistema"
-msgstr "Systemet"
-
 msgid "Temperatura"
 msgstr "praktikanter"
 
@@ -256,12 +238,6 @@ msgstr "Vis enhetsinformasjon på Linux-maskinvare"
 
 msgid "Categoria"
 msgstr "Kategori"
-
-msgid "ID"
-msgstr "ID"
-
-msgid "Info"
-msgstr "Info"
 
 msgid "Swap (Memória Virtual)"
 msgstr "Bytte (virtuelt minne)"

@@ -82,6 +82,3 @@ msgstr "v omrežju:"
 
 msgid "Voltar"
 msgstr "Nazaj"
-
-msgid "Fechar"
-msgstr "Zapri"

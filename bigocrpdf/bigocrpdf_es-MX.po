@@ -86,17 +86,11 @@ msgid ""
 msgstr ""
 "Añade OCR al PDF escaneado permitiendo la selección y búsqueda de texto:"
 
-msgid "OCR para PDF"
-msgstr "OCR para PDF"
-
 msgid "Arquivo"
 msgstr "Archivo"
 
 msgid "Pasta:"
 msgstr "Carpeta:"
-
-msgid "Abrir"
-msgstr "Abrir"
 
 msgid "Arquivo salvo: "
 msgstr "Archivo guardado "

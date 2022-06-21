@@ -62,9 +62,6 @@ msgstr "Työpöytä"
 msgid "Ajustes"
 msgstr "Asetukset"
 
-msgid "Temas, Desktop e Ajustes"
-msgstr "Teemat, työpöytä ja asetukset"
-
 msgid "Desempenho do desktop"
 msgstr "Työpöydän suorituskyky"
 

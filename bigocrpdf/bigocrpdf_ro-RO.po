@@ -87,17 +87,11 @@ msgstr ""
 "Adăugați OCR la PDF-ul scanat pentru a permite selectarea și căutarea de "
 "text:"
 
-msgid "OCR para PDF"
-msgstr "OCR pentru PDF"
-
 msgid "Arquivo"
 msgstr "Fișier"
 
 msgid "Pasta:"
 msgstr "Dosar:"
-
-msgid "Abrir"
-msgstr "Deschideți"
 
 msgid "Arquivo salvo: "
 msgstr "Fișier salvat "

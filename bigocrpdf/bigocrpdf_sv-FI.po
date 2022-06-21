@@ -85,17 +85,11 @@ msgid ""
 msgstr ""
 "Lägg till OCR i den skannade PDF-filen så att du kan välja och söka text:"
 
-msgid "OCR para PDF"
-msgstr "OCR för PDF"
-
 msgid "Arquivo"
 msgstr "Fil"
 
 msgid "Pasta:"
 msgstr "Mapp:"
-
-msgid "Abrir"
-msgstr "Öppna"
 
 msgid "Arquivo salvo: "
 msgstr "Filen har sparats "

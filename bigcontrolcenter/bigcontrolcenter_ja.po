@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: bigcontrolcenter\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-06-21 03:18-0300\n"
+"POT-Creation-Date: 2022-06-21 05:45-0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -30,11 +30,20 @@ msgstr ""
 "変更点を確認することができます。\n"
 "を、他のプログラムでウェブカメラの画像に変換することができます。"
 
+msgid "Webcam"
+msgstr "ウェブカメラ"
+
 msgid "Category"
 msgstr "カテゴリー"
 
 msgid "Name"
 msgstr "名称"
+
+msgid "ID"
+msgstr "ID"
+
+msgid "Info"
+msgstr "情報"
 
 msgid ""
 "O relatório foi salvo no arquivo $FILE_TO_SAVE\n"
@@ -47,6 +56,9 @@ msgstr ""
 
 msgid "Visualizar o relatório"
 msgstr "レポートを見る"
+
+msgid "Fechar"
+msgstr "閉じる"
 
 msgid "Hardinfo Relatory"
 msgstr "Hardinfo関連"
@@ -76,6 +88,9 @@ msgid ""
 "Disponiblizamos configurações completas para você selecionar de forma "
 "extremamente simples."
 msgstr "お客様にシンプルにお選びいただけるよう、完全なコンフィギュレーションを提供します。"
+
+msgid "Temas, Desktop e Ajustes"
+msgstr "テーマ、デスクトップ、設定"
 
 msgid "Escolha seu Avatar"
 msgstr "アバターを選ぶ"
@@ -129,6 +144,9 @@ msgstr "ノイズリデューサ"
 msgid "Configurar a voz do sistema (TTS)"
 msgstr "システムボイス（TTS）を設定する"
 
+msgid "OCR para PDF"
+msgstr "PDF用OCR"
+
 msgid "Doação e Redes sociais"
 msgstr "寄付とソーシャルネットワーク"
 
@@ -158,6 +176,15 @@ msgstr "フェイスブック"
 
 msgid "Parabéns, você concluiu os primeiros passos para utilizar o BigLinux."
 msgstr "おめでとうございます。BigLinuxを使用するための最初のステップが完了しました。"
+
+msgid "Bom dia"
+msgstr "おはよう"
+
+msgid "Boa tarde"
+msgstr "こんにちは"
+
+msgid "Boa noite"
+msgstr "おやすみ"
 
 msgid "Aguarde, carregando..."
 msgstr "スタンバイ、ローディング..."
@@ -367,6 +394,15 @@ msgstr "KDEコントロールセンター"
 msgid "Configurador avançado de energia"
 msgstr "アドバンスト・パワー・コンフィギュレーター"
 
+msgid "Categorias"
+msgstr "カテゴリー"
+
+msgid "Principais"
+msgstr "メイン"
+
+msgid "Sistema"
+msgstr "システム"
+
 msgid "Aparência"
 msgstr "外観"
 
@@ -378,6 +414,9 @@ msgstr "カスタマイズ"
 
 msgid "Telefone"
 msgstr "電話番号"
+
+msgid "Multimídia"
+msgstr "マルチメディア"
 
 msgid "Rede e Internet"
 msgstr "ネットワークとインターネット"
@@ -394,11 +433,23 @@ msgstr "プライバシー"
 msgid "Servidor"
 msgstr "サーバー"
 
+msgid "Desenvolvimento"
+msgstr "開発"
+
 msgid "Sobre"
 msgstr "について"
 
+msgid "Outros"
+msgstr "その他"
+
 msgid "Pesquisar..."
 msgstr "検索..."
+
+msgid "Resultado da pesquisa"
+msgstr "検索結果"
+
+msgid "Abrir"
+msgstr "開ける"
 
 msgid "Temas, desktop e ajustes"
 msgstr "テーマ、デスクトップ、設定"

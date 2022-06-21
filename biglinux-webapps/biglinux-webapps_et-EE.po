@@ -99,9 +99,6 @@ msgstr "Leitud ikoonid"
 msgid "Selecione o ícone preferido:"
 msgstr "Valige eelistatud ikoon:"
 
-msgid "Desenvolvimento"
-msgstr "Arendus"
-
 msgid "Escritório"
 msgstr "Kontor"
 
@@ -110,9 +107,6 @@ msgstr "Graafika"
 
 msgid "Jogos"
 msgstr "Mängud"
-
-msgid "Multimídia"
-msgstr "Multimeedia"
 
 msgid "Tem certeza que deseja remover este WebApp?"
 msgstr "Kas olete kindel, et soovite selle veebirakenduse eemaldada?"
@@ -131,15 +125,6 @@ msgstr "Valige oma eelistatud brauser:"
 
 msgid "WebApps Nativos"
 msgstr "Natiivsed veebirakendused"
-
-msgid "Bom dia"
-msgstr "Tere hommikust"
-
-msgid "Boa tarde"
-msgstr "Tere päevast"
-
-msgid "Boa noite"
-msgstr "Tere õhtust"
 
 msgid "Aguarde, estamos preparando para começar..."
 msgstr "Ole valmis, me oleme valmis alustama..."

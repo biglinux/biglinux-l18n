@@ -86,17 +86,11 @@ msgstr ""
 "Lisää skannattuun PDF-tiedostoon OCR, joka mahdollistaa tekstin valinnan ja "
 "haun:"
 
-msgid "OCR para PDF"
-msgstr "OCR PDF:lle"
-
 msgid "Arquivo"
 msgstr "Tiedosto"
 
 msgid "Pasta:"
 msgstr "Kansio:"
-
-msgid "Abrir"
-msgstr "Avaa"
 
 msgid "Arquivo salvo: "
 msgstr "Tiedosto tallennettu "

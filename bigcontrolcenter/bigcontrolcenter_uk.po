@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: bigcontrolcenter\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-06-21 03:18-0300\n"
+"POT-Creation-Date: 2022-06-21 05:45-0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -25,11 +25,20 @@ msgid ""
 "na imagem da sua webcam em outros programas."
 msgstr "Веб-камера вже використовується програмою: $WEBCAM_BUSY"
 
+msgid "Webcam"
+msgstr "веб-камера"
+
 msgid "Category"
 msgstr "Категорія"
 
 msgid "Name"
 msgstr "ім'я"
+
+msgid "ID"
+msgstr "ІД"
+
+msgid "Info"
+msgstr "Інфо"
 
 msgid ""
 "O relatório foi salvo no arquivo $FILE_TO_SAVE\n"
@@ -42,6 +51,9 @@ msgstr ""
 
 msgid "Visualizar o relatório"
 msgstr "Переглянути звіт"
+
+msgid "Fechar"
+msgstr " Закрити"
 
 msgid "Hardinfo Relatory"
 msgstr "Звіт Hardinfo"
@@ -73,6 +85,9 @@ msgid ""
 msgstr ""
 "Ми надаємо повні налаштування, які можна вибрати надзвичайно простим "
 "способом."
+
+msgid "Temas, Desktop e Ajustes"
+msgstr "Теми, робочий стіл і налаштування"
 
 msgid "Escolha seu Avatar"
 msgstr "Виберіть свій аватар"
@@ -132,6 +147,9 @@ msgstr "Зменшення шуму"
 msgid "Configurar a voz do sistema (TTS)"
 msgstr "Налаштувати системний голос (TTS)"
 
+msgid "OCR para PDF"
+msgstr "OCR в PDF"
+
 msgid "Doação e Redes sociais"
 msgstr "Пожертвування та соціальні мережі"
 
@@ -161,6 +179,15 @@ msgstr "Facebook"
 
 msgid "Parabéns, você concluiu os primeiros passos para utilizar o BigLinux."
 msgstr "Вітаємо, ви зробили перші кроки щодо використання BigLinux."
+
+msgid "Bom dia"
+msgstr "Доброго ранку"
+
+msgid "Boa tarde"
+msgstr "Доброго дня"
+
+msgid "Boa noite"
+msgstr "Надобраніч"
 
 msgid "Aguarde, carregando..."
 msgstr "Зачекайте, завантаження..."
@@ -382,6 +409,15 @@ msgstr "Центр керування KDE"
 msgid "Configurador avançado de energia"
 msgstr "Розширений конфігуратор живлення"
 
+msgid "Categorias"
+msgstr "Категорії"
+
+msgid "Principais"
+msgstr "Головна"
+
+msgid "Sistema"
+msgstr "система"
+
 msgid "Aparência"
 msgstr "Зовнішній вигляд"
 
@@ -393,6 +429,9 @@ msgstr "Персоналізуйте"
 
 msgid "Telefone"
 msgstr "Телефон"
+
+msgid "Multimídia"
+msgstr "Мультимедіа"
 
 msgid "Rede e Internet"
 msgstr "Мережа та Інтернет"
@@ -409,11 +448,23 @@ msgstr "Конфіденційність"
 msgid "Servidor"
 msgstr "сервер"
 
+msgid "Desenvolvimento"
+msgstr "Розвиток"
+
 msgid "Sobre"
 msgstr "Про"
 
+msgid "Outros"
+msgstr "Інші"
+
 msgid "Pesquisar..."
 msgstr "Шукати..."
+
+msgid "Resultado da pesquisa"
+msgstr "Результат пошуку"
+
+msgid "Abrir"
+msgstr "ВІДЧИНЕНО"
 
 msgid "Temas, desktop e ajustes"
 msgstr "Теми, робочий стіл і налаштування"

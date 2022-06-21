@@ -86,17 +86,11 @@ msgstr ""
 "Dodanie OCR do zeskanowanego PDF umożliwiającego zaznaczanie i wyszukiwanie "
 "tekstu:"
 
-msgid "OCR para PDF"
-msgstr "OCR dla PDF"
-
 msgid "Arquivo"
 msgstr "Plik"
 
 msgid "Pasta:"
 msgstr "Folder:"
-
-msgid "Abrir"
-msgstr "Otwórz"
 
 msgid "Arquivo salvo: "
 msgstr "Plik zapisany "

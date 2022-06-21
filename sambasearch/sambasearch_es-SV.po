@@ -84,6 +84,3 @@ msgstr "en la red:"
 
 msgid "Voltar"
 msgstr "Volver"
-
-msgid "Fechar"
-msgstr "Cerrar"

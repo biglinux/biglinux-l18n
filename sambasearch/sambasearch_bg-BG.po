@@ -84,6 +84,3 @@ msgstr "в мрежата:"
 
 msgid "Voltar"
 msgstr "Обратно"
-
-msgid "Fechar"
-msgstr "Затвори"

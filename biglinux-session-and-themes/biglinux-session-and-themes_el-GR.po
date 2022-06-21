@@ -65,9 +65,6 @@ msgstr "Επιτραπέζια επιφάνεια εργασίας"
 msgid "Ajustes"
 msgstr "Ρυθμίσεις"
 
-msgid "Temas, Desktop e Ajustes"
-msgstr "Θέματα, επιφάνεια εργασίας και ρυθμίσεις"
-
 msgid "Desempenho do desktop"
 msgstr "Επιδόσεις επιφάνειας εργασίας"
 

@@ -82,6 +82,3 @@ msgstr "v sieti:"
 
 msgid "Voltar"
 msgstr "Späť"
-
-msgid "Fechar"
-msgstr "Zatvoriť"

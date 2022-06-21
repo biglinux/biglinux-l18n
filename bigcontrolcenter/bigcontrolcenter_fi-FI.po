@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: bigcontrolcenter\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-06-21 03:18-0300\n"
+"POT-Creation-Date: 2022-06-21 05:45-0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -30,11 +30,20 @@ msgstr ""
 "Tehdyt muutokset ovat nähtävissä\n"
 "web-kameran kuvassa muissa ohjelmissa."
 
+msgid "Webcam"
+msgstr "Webkamera"
+
 msgid "Category"
 msgstr "Luokka"
 
 msgid "Name"
 msgstr "Nimi"
+
+msgid "ID"
+msgstr "ID"
+
+msgid "Info"
+msgstr "Info"
 
 msgid ""
 "O relatório foi salvo no arquivo $FILE_TO_SAVE\n"
@@ -47,6 +56,9 @@ msgstr ""
 
 msgid "Visualizar o relatório"
 msgstr "Näytä raportti"
+
+msgid "Fechar"
+msgstr "Sulje"
 
 msgid "Hardinfo Relatory"
 msgstr "Hardinfo Suhteellinen"
@@ -78,6 +90,9 @@ msgid ""
 msgstr ""
 "Tarjoamme täydellisiä kokoonpanoja, joista voit valita hyvin "
 "yksinkertaisella tavalla."
+
+msgid "Temas, Desktop e Ajustes"
+msgstr "Teemat, työpöytä ja asetukset"
 
 msgid "Escolha seu Avatar"
 msgstr "Valitse Avatar"
@@ -134,6 +149,9 @@ msgstr "Melunvaimennin"
 msgid "Configurar a voz do sistema (TTS)"
 msgstr "Järjestelmän äänen (TTS) asettaminen"
 
+msgid "OCR para PDF"
+msgstr "OCR PDF:lle"
+
 msgid "Doação e Redes sociais"
 msgstr "Lahjoitukset ja sosiaaliset verkostot"
 
@@ -166,6 +184,15 @@ msgstr "Facebook"
 msgid "Parabéns, você concluiu os primeiros passos para utilizar o BigLinux."
 msgstr ""
 "Onneksi olkoon, olet suorittanut BigLinuxin käytön ensimmäiset vaiheet."
+
+msgid "Bom dia"
+msgstr "Hyvää huomenta"
+
+msgid "Boa tarde"
+msgstr "Hyvää iltapäivää"
+
+msgid "Boa noite"
+msgstr "Hyvää iltaa"
 
 msgid "Aguarde, carregando..."
 msgstr "Valmistautukaa, lastaus..."
@@ -388,6 +415,15 @@ msgstr "KDE-ohjauskeskus"
 msgid "Configurador avançado de energia"
 msgstr "Kehittynyt tehon konfiguraattori"
 
+msgid "Categorias"
+msgstr "Kategoriat"
+
+msgid "Principais"
+msgstr "Main"
+
+msgid "Sistema"
+msgstr "Järjestelmä"
+
 msgid "Aparência"
 msgstr "Ulkonäkö"
 
@@ -399,6 +435,9 @@ msgstr "Mukauta"
 
 msgid "Telefone"
 msgstr "Puhelin"
+
+msgid "Multimídia"
+msgstr "Multimedia"
 
 msgid "Rede e Internet"
 msgstr "Verkko ja Internet"
@@ -415,11 +454,23 @@ msgstr "Yksityisyys"
 msgid "Servidor"
 msgstr "Palvelin"
 
+msgid "Desenvolvimento"
+msgstr "Kehitys"
+
 msgid "Sobre"
 msgstr "Tietoja"
 
+msgid "Outros"
+msgstr "Muut"
+
 msgid "Pesquisar..."
 msgstr "Etsi..."
+
+msgid "Resultado da pesquisa"
+msgstr "Hakutulos"
+
+msgid "Abrir"
+msgstr "Avaa"
 
 msgid "Temas, desktop e ajustes"
 msgstr "Teemat, työpöytä ja asetukset"

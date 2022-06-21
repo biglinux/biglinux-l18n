@@ -60,9 +60,6 @@ msgstr "桌面"
 msgid "Ajustes"
 msgstr "设置"
 
-msgid "Temas, Desktop e Ajustes"
-msgstr "主题、桌面和设置"
-
 msgid "Desempenho do desktop"
 msgstr "桌面性能"
 

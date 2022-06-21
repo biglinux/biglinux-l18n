@@ -85,17 +85,11 @@ msgid ""
 "Adicionar OCR no PDF digitalizado permitindo seleção de textos e busca:"
 msgstr "Taranan PDF'ye OCR ekleyerek metin seçimine ve aramaya olanak tanır:"
 
-msgid "OCR para PDF"
-msgstr "PDF için OCR"
-
 msgid "Arquivo"
 msgstr "Dosya"
 
 msgid "Pasta:"
 msgstr "Klasör:"
-
-msgid "Abrir"
-msgstr "Açık"
 
 msgid "Arquivo salvo: "
 msgstr "Dosya kaydedildi "

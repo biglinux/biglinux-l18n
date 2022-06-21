@@ -81,17 +81,11 @@ msgid ""
 "Adicionar OCR no PDF digitalizado permitindo seleção de textos e busca:"
 msgstr "스캔한 PDF에 OCR을 추가하여 텍스트 선택 및 검색을 허용합니다."
 
-msgid "OCR para PDF"
-msgstr "OCR을 PDF로 변환"
-
 msgid "Arquivo"
 msgstr "파일"
 
 msgid "Pasta:"
 msgstr "폴더:"
-
-msgid "Abrir"
-msgstr "오픈"
 
 msgid "Arquivo salvo: "
 msgstr "저장된 파일: "

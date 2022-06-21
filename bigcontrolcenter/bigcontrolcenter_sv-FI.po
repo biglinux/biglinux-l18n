@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: bigcontrolcenter\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-06-21 03:18-0300\n"
+"POT-Creation-Date: 2022-06-21 05:45-0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -30,11 +30,20 @@ msgstr ""
 "De ändringar som gjorts kan ses\n"
 "i bilden av webbkameran i andra program."
 
+msgid "Webcam"
+msgstr "Webbkamera"
+
 msgid "Category"
 msgstr "Kategori"
 
 msgid "Name"
 msgstr "Namn"
+
+msgid "ID"
+msgstr "ID"
+
+msgid "Info"
+msgstr "Info"
 
 msgid ""
 "O relatório foi salvo no arquivo $FILE_TO_SAVE\n"
@@ -47,6 +56,9 @@ msgstr ""
 
 msgid "Visualizar o relatório"
 msgstr "Visa rapporten"
+
+msgid "Fechar"
+msgstr "Stäng"
 
 msgid "Hardinfo Relatory"
 msgstr "Hardinfo Relatory"
@@ -78,6 +90,9 @@ msgid ""
 msgstr ""
 "Vi tillhandahåller kompletta konfigurationer som du kan välja mellan på ett "
 "mycket enkelt sätt."
+
+msgid "Temas, Desktop e Ajustes"
+msgstr "Teman, skrivbord och inställningar"
 
 msgid "Escolha seu Avatar"
 msgstr "Välj din avatar"
@@ -134,6 +149,9 @@ msgstr "Ljudreducerare"
 msgid "Configurar a voz do sistema (TTS)"
 msgstr "Ställa in systemröst (TTS)"
 
+msgid "OCR para PDF"
+msgstr "OCR för PDF"
+
 msgid "Doação e Redes sociais"
 msgstr "Donationer och sociala nätverk"
 
@@ -165,6 +183,15 @@ msgstr "Facebook"
 
 msgid "Parabéns, você concluiu os primeiros passos para utilizar o BigLinux."
 msgstr "Grattis, du har slutfört de första stegen för att använda BigLinux."
+
+msgid "Bom dia"
+msgstr "God morgon"
+
+msgid "Boa tarde"
+msgstr "God eftermiddag"
+
+msgid "Boa noite"
+msgstr "God kväll"
 
 msgid "Aguarde, carregando..."
 msgstr "Var beredd på att ladda..."
@@ -385,6 +412,15 @@ msgstr "KDE:s kontrollcenter"
 msgid "Configurador avançado de energia"
 msgstr "Avancerad kraftkonfigurator"
 
+msgid "Categorias"
+msgstr "Kategorier"
+
+msgid "Principais"
+msgstr "Huvudsidan"
+
+msgid "Sistema"
+msgstr "System"
+
 msgid "Aparência"
 msgstr "Utseende"
 
@@ -396,6 +432,9 @@ msgstr "Anpassa"
 
 msgid "Telefone"
 msgstr "Telefon"
+
+msgid "Multimídia"
+msgstr "Multimedia"
 
 msgid "Rede e Internet"
 msgstr "Nätverk och Internet"
@@ -412,11 +451,23 @@ msgstr "Integritet"
 msgid "Servidor"
 msgstr "Server"
 
+msgid "Desenvolvimento"
+msgstr "Utveckling"
+
 msgid "Sobre"
 msgstr "Om"
 
+msgid "Outros"
+msgstr "Övriga"
+
 msgid "Pesquisar..."
 msgstr "Sök..."
+
+msgid "Resultado da pesquisa"
+msgstr "Sökresultat"
+
+msgid "Abrir"
+msgstr "Öppna"
 
 msgid "Temas, desktop e ajustes"
 msgstr "Teman, skrivbord och inställningar"

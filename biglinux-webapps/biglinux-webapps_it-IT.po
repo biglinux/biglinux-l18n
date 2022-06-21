@@ -99,9 +99,6 @@ msgstr "Icone trovate"
 msgid "Selecione o ícone preferido:"
 msgstr "Selezioni l'icona preferita:"
 
-msgid "Desenvolvimento"
-msgstr "Sviluppo"
-
 msgid "Escritório"
 msgstr "Ufficio"
 
@@ -110,9 +107,6 @@ msgstr "Grafica"
 
 msgid "Jogos"
 msgstr "Giochi"
-
-msgid "Multimídia"
-msgstr "Multimedia"
 
 msgid "Tem certeza que deseja remover este WebApp?"
 msgstr "È sicuro di voler rimuovere questa WebApp?"
@@ -131,15 +125,6 @@ msgstr "Selezioni il suo browser preferito:"
 
 msgid "WebApps Nativos"
 msgstr "Applicazioni Web native"
-
-msgid "Bom dia"
-msgstr "Buongiorno"
-
-msgid "Boa tarde"
-msgstr "Buon pomeriggio"
-
-msgid "Boa noite"
-msgstr "Buona sera"
 
 msgid "Aguarde, estamos preparando para começar..."
 msgstr "Tenetevi pronti, stiamo per iniziare..."

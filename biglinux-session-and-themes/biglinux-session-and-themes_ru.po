@@ -62,9 +62,6 @@ msgstr "Рабочий стол"
 msgid "Ajustes"
 msgstr "Настройки"
 
-msgid "Temas, Desktop e Ajustes"
-msgstr "Темы, рабочий стол и настройки"
-
 msgid "Desempenho do desktop"
 msgstr "Производительность рабочего стола"
 

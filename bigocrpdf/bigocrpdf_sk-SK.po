@@ -86,17 +86,11 @@ msgstr ""
 "Pridanie OCR do naskenovaného PDF, ktoré umožňuje výber textu a vyhľadávanie:"
 ""
 
-msgid "OCR para PDF"
-msgstr "OCR pre PDF"
-
 msgid "Arquivo"
 msgstr "Súbor"
 
 msgid "Pasta:"
 msgstr "Priečinok:"
-
-msgid "Abrir"
-msgstr "Otvorte stránku"
 
 msgid "Arquivo salvo: "
 msgstr "Uložený súbor "

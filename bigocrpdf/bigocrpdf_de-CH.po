@@ -87,17 +87,11 @@ msgstr ""
 "Fügen Sie der gescannten PDF-Datei OCR hinzu, um Text auszuwählen und zu "
 "suchen:"
 
-msgid "OCR para PDF"
-msgstr "OCR für PDF"
-
 msgid "Arquivo"
 msgstr "Datei"
 
 msgid "Pasta:"
 msgstr "Mappe:"
-
-msgid "Abrir"
-msgstr "Öffnen Sie"
 
 msgid "Arquivo salvo: "
 msgstr "Datei gespeichert "

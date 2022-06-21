@@ -99,9 +99,6 @@ msgstr "Nalezené ikony"
 msgid "Selecione o ícone preferido:"
 msgstr "Vyberte preferovanou ikonu:"
 
-msgid "Desenvolvimento"
-msgstr "Vývoj"
-
 msgid "Escritório"
 msgstr "Kancelář"
 
@@ -110,9 +107,6 @@ msgstr "Grafika"
 
 msgid "Jogos"
 msgstr "Hry"
-
-msgid "Multimídia"
-msgstr "Multimédia"
 
 msgid "Tem certeza que deseja remover este WebApp?"
 msgstr "Opravdu chcete tuto webovou aplikaci odebrat?"
@@ -131,15 +125,6 @@ msgstr "Vyberte preferovaný prohlížeč:"
 
 msgid "WebApps Nativos"
 msgstr "Nativní webové aplikace"
-
-msgid "Bom dia"
-msgstr "Dobré ráno"
-
-msgid "Boa tarde"
-msgstr "Dobré odpoledne"
-
-msgid "Boa noite"
-msgstr "Dobrý večer"
 
 msgid "Aguarde, estamos preparando para começar..."
 msgstr "Připravte se, začínáme..."

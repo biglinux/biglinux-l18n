@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: bigcontrolcenter\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-06-21 03:18-0300\n"
+"POT-Creation-Date: 2022-06-21 05:45-0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -30,11 +30,20 @@ msgstr ""
 "Yapılan değişiklikler görülebilir\n"
 "diğer programlarda web kameranızın görüntüsünde."
 
+msgid "Webcam"
+msgstr "Web kamerası"
+
 msgid "Category"
 msgstr "Kategori"
 
 msgid "Name"
 msgstr "İsim"
+
+msgid "ID"
+msgstr "KIMLIK"
+
+msgid "Info"
+msgstr "Bilgi"
 
 msgid ""
 "O relatório foi salvo no arquivo $FILE_TO_SAVE\n"
@@ -47,6 +56,9 @@ msgstr ""
 
 msgid "Visualizar o relatório"
 msgstr "Raporu görüntüleyin"
+
+msgid "Fechar"
+msgstr "Kapat"
 
 msgid "Hardinfo Relatory"
 msgstr "Hardinfo İlişkisi"
@@ -78,6 +90,9 @@ msgid ""
 msgstr ""
 "Aralarından seçim yapabileceğiniz eksiksiz konfigürasyonları çok basit bir "
 "şekilde sunuyoruz."
+
+msgid "Temas, Desktop e Ajustes"
+msgstr "Temalar, Masaüstü ve Ayarlar"
 
 msgid "Escolha seu Avatar"
 msgstr "Avatarınızı Seçin"
@@ -134,6 +149,9 @@ msgstr "Gürültü Azaltıcı"
 msgid "Configurar a voz do sistema (TTS)"
 msgstr "Sistem Sesini Ayarlama (TTS)"
 
+msgid "OCR para PDF"
+msgstr "PDF için OCR"
+
 msgid "Doação e Redes sociais"
 msgstr "Bağış ve sosyal ağlar"
 
@@ -163,6 +181,15 @@ msgstr "Facebook"
 
 msgid "Parabéns, você concluiu os primeiros passos para utilizar o BigLinux."
 msgstr "Tebrikler, BigLinux'u kullanmanın ilk adımlarını tamamladınız."
+
+msgid "Bom dia"
+msgstr "Günaydın"
+
+msgid "Boa tarde"
+msgstr "İyi günler"
+
+msgid "Boa noite"
+msgstr "İyi akşamlar"
 
 msgid "Aguarde, carregando..."
 msgstr "Beklemede kalın, yükleniyor..."
@@ -385,6 +412,15 @@ msgstr "KDE Kontrol Merkezi"
 msgid "Configurador avançado de energia"
 msgstr "Gelişmiş güç konfigüratörü"
 
+msgid "Categorias"
+msgstr "Kategoriler"
+
+msgid "Principais"
+msgstr "Ana"
+
+msgid "Sistema"
+msgstr "Sistem"
+
 msgid "Aparência"
 msgstr "Görünüş"
 
@@ -396,6 +432,9 @@ msgstr "Özelleştir"
 
 msgid "Telefone"
 msgstr "Telefon"
+
+msgid "Multimídia"
+msgstr "Multimedya"
 
 msgid "Rede e Internet"
 msgstr "Ağ ve İnternet"
@@ -412,11 +451,23 @@ msgstr "Gizlilik"
 msgid "Servidor"
 msgstr "Sunucu"
 
+msgid "Desenvolvimento"
+msgstr "Geliştirme"
+
 msgid "Sobre"
 msgstr "Hakkında"
 
+msgid "Outros"
+msgstr "Diğer"
+
 msgid "Pesquisar..."
 msgstr "Arama..."
+
+msgid "Resultado da pesquisa"
+msgstr "Arama sonucu"
+
+msgid "Abrir"
+msgstr "Açık"
 
 msgid "Temas, desktop e ajustes"
 msgstr "Temalar, masaüstü ve ayarlar"

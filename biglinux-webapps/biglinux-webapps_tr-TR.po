@@ -99,9 +99,6 @@ msgstr "Bulunan simgeler"
 msgid "Selecione o ícone preferido:"
 msgstr "Tercih edilen simgeyi seçin:"
 
-msgid "Desenvolvimento"
-msgstr "Geliştirme"
-
 msgid "Escritório"
 msgstr "Ofis"
 
@@ -110,9 +107,6 @@ msgstr "Grafikler"
 
 msgid "Jogos"
 msgstr "Oyunlar"
-
-msgid "Multimídia"
-msgstr "Multimedya"
 
 msgid "Tem certeza que deseja remover este WebApp?"
 msgstr "Bu WebApp'i kaldırmak istediğinizden emin misiniz?"
@@ -131,15 +125,6 @@ msgstr "Tercih ettiğiniz tarayıcıyı seçin:"
 
 msgid "WebApps Nativos"
 msgstr "Yerel Web Uygulamaları"
-
-msgid "Bom dia"
-msgstr "Günaydın"
-
-msgid "Boa tarde"
-msgstr "İyi günler"
-
-msgid "Boa noite"
-msgstr "İyi akşamlar"
 
 msgid "Aguarde, estamos preparando para começar..."
 msgstr "Beklemede kalın, başlamaya hazırlanıyoruz..."

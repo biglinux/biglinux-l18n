@@ -67,12 +67,6 @@ msgstr ""
 "Möchten Sie die Datei ansehen oder sie an transfer.sh senden, um eine URL "
 "mit den Daten von Ihrem Computer auf einfache Weise weiterzugeben?"
 
-msgid "Categorias"
-msgstr "Kategorien"
-
-msgid "Principais"
-msgstr "Hauptseite"
-
 msgid "Driver detectado:"
 msgstr "Treiber erkannt:"
 
@@ -103,23 +97,14 @@ msgstr "Scanner"
 msgid "TV Digital"
 msgstr "Digitales Fernsehen"
 
-msgid "Webcam"
-msgstr "Webcam"
-
 msgid "Touchscreen"
 msgstr "Berührungssensitiver Bildschirm"
 
 msgid "Som"
 msgstr "Klang"
 
-msgid "Outros"
-msgstr "Andere"
-
 msgid "Pesquisar Driver ou Firmware"
 msgstr "Treiber oder Firmware suchen"
-
-msgid "Resultado da pesquisa"
-msgstr "Suchergebnis"
 
 msgid "Big-Driver-Manager"
 msgstr "Big-Driver-Manager"
@@ -196,9 +181,6 @@ msgstr "Batterie"
 msgid "Armazenamento"
 msgstr "Lagerung"
 
-msgid "Sistema"
-msgstr "System"
-
 msgid "Temperatura"
 msgstr "Temperatur"
 
@@ -261,12 +243,6 @@ msgstr "Geräteinformationen auf Linux-Hardware anzeigen"
 
 msgid "Categoria"
 msgstr "Kategorie"
-
-msgid "ID"
-msgstr "ID"
-
-msgid "Info"
-msgstr "Infos"
 
 msgid "Swap (Memória Virtual)"
 msgstr "Swap (Virtueller Speicher)"

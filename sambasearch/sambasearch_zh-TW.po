@@ -78,6 +78,3 @@ msgstr "在網絡上："
 
 msgid "Voltar"
 msgstr "回去"
-
-msgid "Fechar"
-msgstr "關閉"

@@ -83,6 +83,3 @@ msgstr "op het netwerk:"
 
 msgid "Voltar"
 msgstr "Terug"
-
-msgid "Fechar"
-msgstr "Sluiten"

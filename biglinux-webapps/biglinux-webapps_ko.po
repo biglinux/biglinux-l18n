@@ -97,9 +97,6 @@ msgstr "찾음 아이콘"
 msgid "Selecione o ícone preferido:"
 msgstr "기본 아이콘을 선택합니다."
 
-msgid "Desenvolvimento"
-msgstr "개발"
-
 msgid "Escritório"
 msgstr "사무실"
 
@@ -108,9 +105,6 @@ msgstr "그래픽스"
 
 msgid "Jogos"
 msgstr "게임"
-
-msgid "Multimídia"
-msgstr "멀티미디어"
 
 msgid "Tem certeza que deseja remover este WebApp?"
 msgstr "이 웹앱을 제거하시겠습니까?"
@@ -129,15 +123,6 @@ msgstr "원하는 브라우저를 선택합니다."
 
 msgid "WebApps Nativos"
 msgstr "네이티브 웹앱"
-
-msgid "Bom dia"
-msgstr "살람"
-
-msgid "Boa tarde"
-msgstr "안녕하세요"
-
-msgid "Boa noite"
-msgstr "안녕히 주무세요"
 
 msgid "Aguarde, estamos preparando para começar..."
 msgstr "잠깐, 시작할 준비가 됐어..."

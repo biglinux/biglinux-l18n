@@ -87,17 +87,11 @@ msgstr ""
 "Додайте OCR до відсканованого PDF-файлу, дозволяючи вибирати та шукати текст:"
 ""
 
-msgid "OCR para PDF"
-msgstr "OCR в PDF"
-
 msgid "Arquivo"
 msgstr "Файл"
 
 msgid "Pasta:"
 msgstr "Папка:"
-
-msgid "Abrir"
-msgstr "ВІДЧИНЕНО"
 
 msgid "Arquivo salvo: "
 msgstr "Збережений файл: "

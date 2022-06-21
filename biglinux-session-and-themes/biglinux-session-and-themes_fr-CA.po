@@ -62,9 +62,6 @@ msgstr "Bureau"
 msgid "Ajustes"
 msgstr "Paramètres"
 
-msgid "Temas, Desktop e Ajustes"
-msgstr "Thèmes, Bureau et Paramètres"
-
 msgid "Desempenho do desktop"
 msgstr "Performances du bureau"
 

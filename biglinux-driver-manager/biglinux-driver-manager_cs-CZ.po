@@ -67,12 +67,6 @@ msgstr ""
 "Chcete soubor zobrazit nebo odeslat do transfer.sh, abyste mohli snadno "
 "sdílet adresu URL s daty z vašeho počítače?"
 
-msgid "Categorias"
-msgstr "Kategorie"
-
-msgid "Principais"
-msgstr "Hlavní stránka"
-
 msgid "Driver detectado:"
 msgstr "Zjištěn řidič:"
 
@@ -103,23 +97,14 @@ msgstr "Skener"
 msgid "TV Digital"
 msgstr "Digitální televize"
 
-msgid "Webcam"
-msgstr "Webová kamera"
-
 msgid "Touchscreen"
 msgstr "Dotykový displej"
 
 msgid "Som"
 msgstr "Zvuk"
 
-msgid "Outros"
-msgstr "Další"
-
 msgid "Pesquisar Driver ou Firmware"
 msgstr "Hledání ovladače nebo firmwaru"
-
-msgid "Resultado da pesquisa"
-msgstr "Výsledek hledání"
 
 msgid "Big-Driver-Manager"
 msgstr "Big-Driver-Manager"
@@ -190,9 +175,6 @@ msgstr "Baterie"
 msgid "Armazenamento"
 msgstr "Úložiště"
 
-msgid "Sistema"
-msgstr "Systém"
-
 msgid "Temperatura"
 msgstr "Teplota"
 
@@ -253,12 +235,6 @@ msgstr "Zobrazení informací o zařízení v systému Linux Hardware"
 
 msgid "Categoria"
 msgstr "Kategorie"
-
-msgid "ID"
-msgstr "ID"
-
-msgid "Info"
-msgstr "Informace"
 
 msgid "Swap (Memória Virtual)"
 msgstr "Swap (virtuální paměť)"
