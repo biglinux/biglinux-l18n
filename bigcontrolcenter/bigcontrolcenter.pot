@@ -7,7 +7,7 @@
 msgid   ""
 msgstr  "Project-Id-Version: bigcontrolcenter\n"
         "Report-Msgid-Bugs-To: \n"
-        "POT-Creation-Date: 2022-06-21 05:45-0300\n"
+        "POT-Creation-Date: 2022-06-22 06:30-0300\n"
         "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
         "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
         "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -56,6 +56,18 @@ msgid   "Introdução ao BigLinux"
 msgstr  ""
 
 msgid   "Central de Controle"
+msgstr  ""
+
+msgid   "Bom dia"
+msgstr  ""
+
+msgid   "Boa tarde"
+msgstr  ""
+
+msgid   "Boa noite"
+msgstr  ""
+
+msgid   "Aguarde, carregando..."
 msgstr  ""
 
 msgid   "Bem vindo ao BigLinux"
@@ -162,18 +174,6 @@ msgstr  ""
 msgid   "Parabéns, você concluiu os primeiros passos para utilizar o BigLinux."
 msgstr  ""
 
-msgid   "Bom dia"
-msgstr  ""
-
-msgid   "Boa tarde"
-msgstr  ""
-
-msgid   "Boa noite"
-msgstr  ""
-
-msgid   "Aguarde, carregando..."
-msgstr  ""
-
 msgid   "Integração com Google Drive e ownCloud"
 msgstr  ""
 
@@ -237,9 +237,6 @@ msgid   "Particionar ou formatar"
 msgstr  ""
 
 msgid   "Cuidado, este programa poderá apagar todos os dados do computador."
-msgstr  ""
-
-msgid   "Informações de armazenamento (SMART)"
 msgstr  ""
 
 msgid   "Firewall"
@@ -359,6 +356,9 @@ msgid   "Centro de controle do KDE"
 msgstr  ""
 
 msgid   "Configurador avançado de energia"
+msgstr  ""
+
+msgid   "Informações de armazenamento (SMART)"
 msgstr  ""
 
 msgid   "Categorias"
