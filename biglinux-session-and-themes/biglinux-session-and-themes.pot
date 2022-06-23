@@ -7,7 +7,7 @@
 msgid   ""
 msgstr  "Project-Id-Version: biglinux-session-and-themes\n"
         "Report-Msgid-Bugs-To: \n"
-        "POT-Creation-Date: 2022-06-22 06:30-0300\n"
+        "POT-Creation-Date: 2022-06-23 02:36-0300\n"
         "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
         "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
         "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -15,6 +15,9 @@ msgstr  "Project-Id-Version: biglinux-session-and-themes\n"
         "MIME-Version: 1.0\n"
         "Content-Type: text/plain; charset=UTF-8\n"
         "Content-Transfer-Encoding: 8bit\n"
+
+msgid   "Temas, Desktop e Ajustes"
+msgstr  ""
 
 msgid   "Configuração alterada, se estiver utilizando o navegador, reinicie-o "
         "para que a nova configuração seja aplicada."
@@ -38,6 +41,15 @@ msgid   "Configuração aplicada!\n"
         "ser aplicada."
 msgstr  ""
 
+msgid   "Desempenho em modo normal!"
+msgstr  ""
+
+msgid   "Desempenho em modo otimizado!"
+msgstr  ""
+
+msgid   "Desempenho em modo performance!"
+msgstr  ""
+
 msgid   "Temas"
 msgstr  ""
 
@@ -45,9 +57,6 @@ msgid   "Desktop"
 msgstr  ""
 
 msgid   "Ajustes"
-msgstr  ""
-
-msgid   "Temas, Desktop e Ajustes"
 msgstr  ""
 
 msgid   "Desempenho do desktop"
@@ -153,13 +162,4 @@ msgstr  ""
 
 msgid   "Utilizando renderização por software, a qualidade das transparências "
         "está reduzida."
-msgstr  ""
-
-msgid   "Desempenho em modo normal!"
-msgstr  ""
-
-msgid   "Desempenho em modo otimizado!"
-msgstr  ""
-
-msgid   "Desempenho em modo performance!"
 msgstr  ""

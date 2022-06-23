@@ -7,7 +7,7 @@
 msgid   ""
 msgstr  "Project-Id-Version: biglinux-driver-manager\n"
         "Report-Msgid-Bugs-To: \n"
-        "POT-Creation-Date: 2022-06-22 06:30-0300\n"
+        "POT-Creation-Date: 2022-06-23 02:36-0300\n"
         "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
         "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
         "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -158,7 +158,7 @@ msgstr  ""
 msgid   "Enviando, aguarde..."
 msgstr  ""
 
-msgid   "Resumo"
+msgid   "Ver informações do dispositivo no Linux Hardware"
 msgstr  ""
 
 msgid   "Processador"
@@ -170,7 +170,55 @@ msgstr  ""
 msgid   "Memória"
 msgstr  ""
 
+msgid   "Swap (Memória Virtual)"
+msgstr  ""
+
+msgid   "Áudio"
+msgstr  ""
+
 msgid   "Rede"
+msgstr  ""
+
+msgid   "Conexões de Rede"
+msgstr  ""
+
+msgid   "Dispositivos e conexões USB"
+msgstr  ""
+
+msgid   "Portas PCI"
+msgstr  ""
+
+msgid   "Bateria"
+msgstr  ""
+
+msgid   "Dispositivos de Armazenamento"
+msgstr  ""
+
+msgid   "Partições montadas"
+msgstr  ""
+
+msgid   "Partições desmontadas"
+msgstr  ""
+
+msgid   "Dispositivos lógicos"
+msgstr  ""
+
+msgid   "Raid"
+msgstr  ""
+
+msgid   "Sistema"
+msgstr  ""
+
+msgid   "Informações de Sistema"
+msgstr  ""
+
+msgid   "Repositórios"
+msgstr  ""
+
+msgid   "Temperatura"
+msgstr  ""
+
+msgid   "Resumo"
 msgstr  ""
 
 msgid   "Usb"
@@ -179,19 +227,7 @@ msgstr  ""
 msgid   "Pci"
 msgstr  ""
 
-msgid   "Bateria"
-msgstr  ""
-
 msgid   "Armazenamento"
-msgstr  ""
-
-msgid   "Sistema"
-msgstr  ""
-
-msgid   "Temperatura"
-msgstr  ""
-
-msgid   "Áudio"
 msgstr  ""
 
 msgid   "Mais informações"
@@ -243,9 +279,6 @@ msgstr  ""
 msgid   "Cria um arquivo com informações que pode ser publicado na internet."
 msgstr  ""
 
-msgid   "Ver informações do dispositivo no Linux Hardware"
-msgstr  ""
-
 msgid   "Categoria"
 msgstr  ""
 
@@ -256,37 +289,4 @@ msgid   "ID"
 msgstr  ""
 
 msgid   "Info"
-msgstr  ""
-
-msgid   "Swap (Memória Virtual)"
-msgstr  ""
-
-msgid   "Conexões de Rede"
-msgstr  ""
-
-msgid   "Dispositivos e conexões USB"
-msgstr  ""
-
-msgid   "Portas PCI"
-msgstr  ""
-
-msgid   "Dispositivos de Armazenamento"
-msgstr  ""
-
-msgid   "Partições montadas"
-msgstr  ""
-
-msgid   "Partições desmontadas"
-msgstr  ""
-
-msgid   "Dispositivos lógicos"
-msgstr  ""
-
-msgid   "Raid"
-msgstr  ""
-
-msgid   "Informações de Sistema"
-msgstr  ""
-
-msgid   "Repositórios"
 msgstr  ""
