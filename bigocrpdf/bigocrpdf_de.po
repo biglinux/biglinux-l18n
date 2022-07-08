@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: bigocrpdf\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-06-21 03:19-0300\n"
+"POT-Creation-Date: 2022-07-08 14:40-0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -16,3 +16,79 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit"
+
+msgid "Torne seu PDF pesquisável"
+msgstr "Machen Sie Ihr PDF durchsuchbar"
+
+msgid ""
+"Escolha o arquivo PDF para aplicar o OCR, com isso será possível efetuar "
+"buscas ou copiar textos.\n"
+"\n"
+"Você também pode utilizar o gerenciador de arquivos, clicar com o botão "
+"direito no arquivo PDF, 'Abrir com' e selecionar a opção de OCR."
+msgstr ""
+"Wählen Sie die PDF-Datei aus, auf die OCR angewendet werden soll, damit Sie "
+"Texte suchen oder kopieren können.\n"
+"\n"
+"Sie können auch den Dateimanager verwenden, mit der rechten Maustaste auf "
+"die PDF-Datei klicken, \"Öffnen mit\" wählen und die OCR-Option auswählen."
+
+msgid "Normal"
+msgstr ""
+
+msgid "Economico"
+msgstr ""
+
+msgid "Mais econômico"
+msgstr ""
+
+msgid "Alinhar"
+msgstr ""
+
+msgid "Auto rotacionar"
+msgstr ""
+
+msgid "Alinhar e auto rotacionar"
+msgstr ""
+
+msgid "Não alterar"
+msgstr ""
+
+msgid "Espanhol"
+msgstr ""
+
+msgid "Inglês"
+msgstr ""
+
+msgid "Português"
+msgstr ""
+
+msgid ""
+"Adicionar OCR no PDF digitalizado permitindo seleção de textos e busca:"
+msgstr ""
+"Fügen Sie der gescannten PDF-Datei OCR hinzu, um Text auszuwählen und zu "
+"suchen:"
+
+msgid "Quantidade de arquivos:"
+msgstr ""
+
+msgid "Páginas:"
+msgstr ""
+
+msgid "Idioma do PDF:"
+msgstr ""
+
+msgid "Qualidade do PDF:"
+msgstr ""
+
+msgid "Alinhamento:"
+msgstr ""
+
+msgid "OCR para PDF"
+msgstr "OCR für PDF"
+
+msgid "Concluído!"
+msgstr "Erledigt!"
+
+msgid "Salvo em: "
+msgstr ""
