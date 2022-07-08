@@ -102,8 +102,5 @@ msgstr "Folder:"
 msgid "OCR para PDF"
 msgstr "OCR for PDF"
 
-msgid "Concluído!"
-msgstr "Completed!"
-
 msgid "Salvo em: "
 msgstr "Saved in "

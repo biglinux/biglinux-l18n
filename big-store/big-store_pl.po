@@ -30,15 +30,6 @@ msgstr "Big-Store jest otwarty."
 msgid "Big-Store"
 msgstr "Big-Store"
 
-msgid "Instalar"
-msgstr "Zainstaluj"
-
-msgid "Remover"
-msgstr "Usuń"
-
-msgid "Internet"
-msgstr "Internet"
-
 msgid "Navegadores"
 msgstr "Przeglądarki"
 
@@ -157,12 +148,6 @@ msgstr "Zarząd"
 msgid "RPG"
 msgstr "RPG"
 
-msgid "Outros"
-msgstr "Inne"
-
-msgid "Sistema"
-msgstr "System"
-
 msgid "Armazenamento e partições"
 msgstr "Przechowywanie i przegrody"
 
@@ -189,21 +174,6 @@ msgstr "Programy rodzime"
 
 msgid "Programas AUR"
 msgstr "Programy AUR"
-
-msgid "Instalado na partição:"
-msgstr "Zainstalowane na partycji:"
-
-msgid "Tamanho da partição:"
-msgstr "Wielkość partycji:"
-
-msgid "Espaço utilizado:"
-msgstr "Wykorzystana przestrzeń:"
-
-msgid "Espaço livre:"
-msgstr "Czysta przestrzeń:"
-
-msgid "Data que o sistema foi instalado:"
-msgstr "Data zainstalowania systemu:"
 
 msgid "Pacotes nativos e AUR"
 msgstr "Pakiety natywne i AUR"
@@ -238,9 +208,6 @@ msgstr "Nie poinformowano"
 msgid "Atualizar"
 msgstr "Aktualizacja"
 
-msgid "Categorias"
-msgstr "Kategorie"
-
 msgid "Versão instalada"
 msgstr "Zainstalowana wersja"
 
@@ -258,12 +225,6 @@ msgid ""
 "sistema."
 msgstr ""
 "Ten program jest w formacie .deb, który ma najlepszą integrację z systemem."
-
-msgid "Mais informações"
-msgstr "Więcej informacji"
-
-msgid "Voltar"
-msgstr "Powrót"
 
 msgid "Dependências a instalar"
 msgstr "Zależności, które należy zainstalować"
@@ -297,9 +258,6 @@ msgstr "Dostępna wersja:"
 
 msgid "Repositório:"
 msgstr "Repozytorium:"
-
-msgid "Cancelar"
-msgstr "Anuluj"
 
 msgid "Instalando"
 msgstr "Instalacja"
@@ -337,9 +295,6 @@ msgstr "Pakiety"
 
 msgid "Ativado"
 msgstr "Aktywowany"
-
-msgid "Desativado"
-msgstr "Niepełnosprawni"
 
 msgid "Atualizações"
 msgstr "Aktualizacje"
@@ -379,6 +334,9 @@ msgstr ""
 "Wymuś aktualizacje, proszę skorzystać z tej opcji, jeżeli nie można "
 "zaktualizować systemu, jednak w wymuszonej aktualizacji niektóre programy "
 "mogą zostać usunięte."
+
+msgid "Repositórios nativos"
+msgstr ""
 
 msgid ""
 "\n"
@@ -461,8 +419,14 @@ msgstr "Program do wyszukiwania"
 msgid "Modo Simplificado"
 msgstr "Tryb uproszczony"
 
+msgid "Nativos"
+msgstr ""
+
 msgid "Início"
 msgstr "Strona główna"
+
+msgid "Nativos_text"
+msgstr ""
 
 msgid "Reinstalar"
 msgstr "Zainstaluj ponownie"

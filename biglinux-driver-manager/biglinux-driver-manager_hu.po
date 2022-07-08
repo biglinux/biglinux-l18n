@@ -33,6 +33,12 @@ msgid "Este driver parece compatível com este computador."
 msgstr ""
 "Úgy tűnik, hogy ez az illesztőprogram kompatibilis ezzel a számítógéppel."
 
+msgid "Remover"
+msgstr "Távolítsa el a"
+
+msgid "Instalar"
+msgstr "Telepítse a"
+
 msgid ""
 "Já existe outro driver nVidia instalado, para instalar este driver, remova "
 "primeiro o driver instalado."
@@ -40,6 +46,9 @@ msgstr ""
 "Már van egy másik nVidia illesztőprogram telepítve, ennek az "
 "illesztőprogramnak a telepítéséhez először távolítsa el a telepített "
 "illesztőprogramot."
+
+msgid "Desativado"
+msgstr "Mozgáskorlátozottak"
 
 msgid "Informações de Hardware"
 msgstr "Hardveres információk"
@@ -60,6 +69,9 @@ msgstr ""
 "Szeretné megtekinteni a fájlt, vagy elküldeni a transfer.sh-nak, hogy egy "
 "URL-címet kapjon az adatokkal a számítógépéről, és könnyen megoszthassa "
 "azokat?"
+
+msgid "Categorias"
+msgstr "Kategóriák"
 
 msgid "Principais"
 msgstr "Főoldal"
@@ -103,6 +115,9 @@ msgstr "Érintőképernyő"
 
 msgid "Som"
 msgstr "Hang"
+
+msgid "Outros"
+msgstr "Egyéb"
 
 msgid "Pesquisar Driver ou Firmware"
 msgstr "Illesztőprogram vagy firmware keresése"
@@ -191,6 +206,9 @@ msgstr "Logikai eszközök"
 msgid "Raid"
 msgstr "Raid"
 
+msgid "Sistema"
+msgstr "Rendszer"
+
 msgid "Informações de Sistema"
 msgstr "Rendszerinformáció"
 
@@ -212,6 +230,9 @@ msgstr "Pci"
 msgid "Armazenamento"
 msgstr "Tárolás"
 
+msgid "Mais informações"
+msgstr "További információ"
+
 msgid "Pesquisar"
 msgstr "Keresés"
 
@@ -223,6 +244,21 @@ msgstr "RAM memória:"
 
 msgid "Vídeo:"
 msgstr "Videó:"
+
+msgid "Instalado na partição:"
+msgstr "Telepítve a partícióra:"
+
+msgid "Tamanho da partição:"
+msgstr "Partíció mérete:"
+
+msgid "Espaço utilizado:"
+msgstr "Használt tér:"
+
+msgid "Espaço livre:"
+msgstr "Tiszta tér:"
+
+msgid "Data que o sistema foi instalado:"
+msgstr "A rendszer telepítésének dátuma:"
 
 msgid "Kernel em uso:"
 msgstr "Használatban lévő mag:"

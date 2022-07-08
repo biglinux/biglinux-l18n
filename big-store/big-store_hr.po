@@ -30,15 +30,6 @@ msgstr "Velika trgovina je otvorena."
 msgid "Big-Store"
 msgstr "Big-Store"
 
-msgid "Instalar"
-msgstr "Instalirajte"
-
-msgid "Remover"
-msgstr "Ukloni"
-
-msgid "Internet"
-msgstr "Internet"
-
 msgid "Navegadores"
 msgstr "navigatori"
 
@@ -156,12 +147,6 @@ msgstr "Ladica"
 msgid "RPG"
 msgstr "RPG"
 
-msgid "Outros"
-msgstr "Ostalo"
-
-msgid "Sistema"
-msgstr "Sustav"
-
 msgid "Armazenamento e partições"
 msgstr "Skladištenje i particije"
 
@@ -188,21 +173,6 @@ msgstr "Izvorni programi"
 
 msgid "Programas AUR"
 msgstr "AUR programi"
-
-msgid "Instalado na partição:"
-msgstr "Instalirano na particiji:"
-
-msgid "Tamanho da partição:"
-msgstr "Veličina particije:"
-
-msgid "Espaço utilizado:"
-msgstr "Prostor koji se koristi:"
-
-msgid "Espaço livre:"
-msgstr "Slobodni prostor:"
-
-msgid "Data que o sistema foi instalado:"
-msgstr "Datum instaliranja sustava:"
 
 msgid "Pacotes nativos e AUR"
 msgstr "Izvorni i AUR paketi"
@@ -237,9 +207,6 @@ msgstr "Nije informirano"
 msgid "Atualizar"
 msgstr "ažuriraj"
 
-msgid "Categorias"
-msgstr "Kategorije"
-
 msgid "Versão instalada"
 msgstr "Instalirana verzija"
 
@@ -257,12 +224,6 @@ msgid ""
 "sistema."
 msgstr ""
 "Ovaj program je u .deb formatu, koji ima najbolju integraciju sa sustavom."
-
-msgid "Mais informações"
-msgstr "Više informacija"
-
-msgid "Voltar"
-msgstr "Vrati se"
 
 msgid "Dependências a instalar"
 msgstr "Ovisnosti za instalaciju"
@@ -296,9 +257,6 @@ msgstr "Dostupna verzija:"
 
 msgid "Repositório:"
 msgstr "Repozitorij:"
-
-msgid "Cancelar"
-msgstr "Odustani"
 
 msgid "Instalando"
 msgstr "Instaliranje"
@@ -337,9 +295,6 @@ msgstr "Paketi"
 msgid "Ativado"
 msgstr "Omogućeno"
 
-msgid "Desativado"
-msgstr "onemogućeno"
-
 msgid "Atualizações"
 msgstr "nadogradnje"
 
@@ -377,6 +332,9 @@ msgid ""
 msgstr ""
 "Prisilno ažuriranja, upotrijebite ovu opciju ako ne možete ažurirati sustav, "
 "međutim, u prisilnom ažuriranju neki programi mogu biti uklonjeni."
+
+msgid "Repositórios nativos"
+msgstr ""
 
 msgid ""
 "\n"
@@ -460,8 +418,14 @@ msgstr "Traži program"
 msgid "Modo Simplificado"
 msgstr "Pojednostavljeni način"
 
+msgid "Nativos"
+msgstr ""
+
 msgid "Início"
 msgstr "Početak"
+
+msgid "Nativos_text"
+msgstr ""
 
 msgid "Reinstalar"
 msgstr "Ponovno instalirajte"

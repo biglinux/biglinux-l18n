@@ -91,5 +91,8 @@ msgstr "Obnovenie nastavení programu:"
 msgid "Principal"
 msgstr "Hlavná stránka"
 
+msgid "Internet"
+msgstr "Internet"
+
 msgid "Pesquisar Restaurar"
 msgstr "Obnovenie vyhľadávania"

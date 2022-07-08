@@ -30,15 +30,6 @@ msgstr "Το Big-Store είναι ανοιχτό."
 msgid "Big-Store"
 msgstr "Big-Store"
 
-msgid "Instalar"
-msgstr "Εγκαταστήστε το"
-
-msgid "Remover"
-msgstr "Αφαιρέστε το"
-
-msgid "Internet"
-msgstr "Διαδίκτυο"
-
 msgid "Navegadores"
 msgstr "Φυλλομετρητές"
 
@@ -156,12 +147,6 @@ msgstr "Συμβούλιο"
 msgid "RPG"
 msgstr "RPG"
 
-msgid "Outros"
-msgstr "Άλλα"
-
-msgid "Sistema"
-msgstr "Σύστημα"
-
 msgid "Armazenamento e partições"
 msgstr "Αποθήκευση και χωρίσματα"
 
@@ -188,21 +173,6 @@ msgstr "Ντόπια προγράμματα"
 
 msgid "Programas AUR"
 msgstr "Προγράμματα AUR"
-
-msgid "Instalado na partição:"
-msgstr "Εγκατεστημένο στο διαμέρισμα:"
-
-msgid "Tamanho da partição:"
-msgstr "Μέγεθος διαμερίσματος:"
-
-msgid "Espaço utilizado:"
-msgstr "Χώρος που χρησιμοποιείται:"
-
-msgid "Espaço livre:"
-msgstr "Ελεύθερος χώρος:"
-
-msgid "Data que o sistema foi instalado:"
-msgstr "Ημερομηνία εγκατάστασης του συστήματος:"
 
 msgid "Pacotes nativos e AUR"
 msgstr "Εγχώρια πακέτα και AUR"
@@ -238,9 +208,6 @@ msgstr "Δεν έχει ενημερωθεί"
 msgid "Atualizar"
 msgstr "Ενημέρωση"
 
-msgid "Categorias"
-msgstr "Κατηγορίες"
-
 msgid "Versão instalada"
 msgstr "Εγκατεστημένη έκδοση"
 
@@ -259,12 +226,6 @@ msgid ""
 msgstr ""
 "Αυτό το πρόγραμμα είναι σε μορφή .deb, η οποία έχει την καλύτερη ενσωμάτωση "
 "με το σύστημα."
-
-msgid "Mais informações"
-msgstr "Περισσότερες πληροφορίες"
-
-msgid "Voltar"
-msgstr "Πίσω"
 
 msgid "Dependências a instalar"
 msgstr "Εξαρτήσεις προς εγκατάσταση"
@@ -298,9 +259,6 @@ msgstr "Διαθέσιμη έκδοση:"
 
 msgid "Repositório:"
 msgstr "Αποθετήριο:"
-
-msgid "Cancelar"
-msgstr "Ακύρωση"
 
 msgid "Instalando"
 msgstr "Εγκατάσταση του"
@@ -338,9 +296,6 @@ msgstr "Πακέτα"
 
 msgid "Ativado"
 msgstr "Ενεργοποιημένο"
-
-msgid "Desativado"
-msgstr "Άτομα με ειδικές ανάγκες"
 
 msgid "Atualizações"
 msgstr "Ενημερώσεις"
@@ -380,6 +335,9 @@ msgstr ""
 "Αναγκαστική ενημέρωση, χρησιμοποιήστε αυτή την επιλογή εάν δεν μπορείτε να "
 "ενημερώσετε το σύστημα, ωστόσο, κατά την αναγκαστική ενημέρωση ενδέχεται να "
 "αφαιρεθούν ορισμένα προγράμματα."
+
+msgid "Repositórios nativos"
+msgstr ""
 
 msgid ""
 "\n"
@@ -462,8 +420,14 @@ msgstr "Πρόγραμμα αναζήτησης"
 msgid "Modo Simplificado"
 msgstr "Απλοποιημένη λειτουργία"
 
+msgid "Nativos"
+msgstr ""
+
 msgid "Início"
 msgstr "Αρχική σελίδα"
+
+msgid "Nativos_text"
+msgstr ""
 
 msgid "Reinstalar"
 msgstr "Επανεγκαταστήστε το"

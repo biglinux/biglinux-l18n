@@ -94,5 +94,8 @@ msgstr "Restablecer los ajustes del programa:"
 msgid "Principal"
 msgstr "Principal"
 
+msgid "Internet"
+msgstr "Internet"
+
 msgid "Pesquisar Restaurar"
 msgstr "Búsqueda de restauración"

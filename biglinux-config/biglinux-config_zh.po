@@ -83,5 +83,8 @@ msgstr "恢复节目设置。"
 msgid "Principal"
 msgstr "主要内容"
 
+msgid "Internet"
+msgstr "互联网"
+
 msgid "Pesquisar Restaurar"
 msgstr "搜索恢复"

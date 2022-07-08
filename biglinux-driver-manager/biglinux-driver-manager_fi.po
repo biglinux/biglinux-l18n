@@ -32,12 +32,21 @@ msgstr "Tämä ohjain on patentoitu."
 msgid "Este driver parece compatível com este computador."
 msgstr "Tämä ohjain näyttää olevan yhteensopiva tämän tietokoneen kanssa."
 
+msgid "Remover"
+msgstr "Poista"
+
+msgid "Instalar"
+msgstr "Asenna"
+
 msgid ""
 "Já existe outro driver nVidia instalado, para instalar este driver, remova "
 "primeiro o driver instalado."
 msgstr ""
 "Toinen nVidia-ohjain on jo asennettu, joten jos haluat asentaa tämän "
 "ohjaimen, poista ensin asennettu ohjain."
+
+msgid "Desativado"
+msgstr "Vammaiset"
 
 msgid "Informações de Hardware"
 msgstr "Laitteistoa koskevat tiedot"
@@ -57,6 +66,9 @@ msgid ""
 msgstr ""
 "Haluatko tarkastella tiedostoa tai lähettää sen transfer.sh:lle, jotta saat "
 "URL-osoitteen, jossa on tiedot tietokoneeltasi helposti jaettavaksi?"
+
+msgid "Categorias"
+msgstr "Kategoriat"
 
 msgid "Principais"
 msgstr "Main"
@@ -99,6 +111,9 @@ msgstr "Kosketusnäyttö"
 
 msgid "Som"
 msgstr "Ääni"
+
+msgid "Outros"
+msgstr "Muut"
 
 msgid "Pesquisar Driver ou Firmware"
 msgstr "Etsi ajuria tai laiteohjelmaa"
@@ -188,6 +203,9 @@ msgstr "Logiikkalaitteet"
 msgid "Raid"
 msgstr "Raid"
 
+msgid "Sistema"
+msgstr "Järjestelmä"
+
 msgid "Informações de Sistema"
 msgstr "Järjestelmätiedot"
 
@@ -209,6 +227,9 @@ msgstr "Pci"
 msgid "Armazenamento"
 msgstr "Varastointi"
 
+msgid "Mais informações"
+msgstr "Lisätietoja"
+
 msgid "Pesquisar"
 msgstr "Etsi"
 
@@ -220,6 +241,21 @@ msgstr "RAM-muisti:"
 
 msgid "Vídeo:"
 msgstr "Video:"
+
+msgid "Instalado na partição:"
+msgstr "Asennettu osioon:"
+
+msgid "Tamanho da partição:"
+msgstr "Osion koko:"
+
+msgid "Espaço utilizado:"
+msgstr "Käytetty tila:"
+
+msgid "Espaço livre:"
+msgstr "Tyhjää tilaa:"
+
+msgid "Data que o sistema foi instalado:"
+msgstr "Järjestelmän asennuspäivämäärä:"
 
 msgid "Kernel em uso:"
 msgstr "Käytössä oleva ydin:"

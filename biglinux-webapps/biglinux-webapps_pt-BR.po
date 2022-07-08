@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: biglinux-webapps\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-07-08 19:14-0300\n"
+"POT-Creation-Date: 2022-07-08 19:55-0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -79,9 +79,6 @@ msgstr "Adicionar"
 
 msgid "Para adicionar um WebApp, você precisa informar a Url e o Nome."
 msgstr "Para adicionar um WebApp, você precisa informar a Url e o Nome."
-
-msgid "Fechar"
-msgstr "Fechar"
 
 msgid "Para detectar o Nome e o Ícone você precisa informar a Url."
 msgstr "Para detectar o Nome e o Ícone você precisa informar a Url."

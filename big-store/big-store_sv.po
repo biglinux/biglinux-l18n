@@ -30,15 +30,6 @@ msgstr "Big-Store är öppen."
 msgid "Big-Store"
 msgstr "Big-Store"
 
-msgid "Instalar"
-msgstr "Installera"
-
-msgid "Remover"
-msgstr "Ta bort"
-
-msgid "Internet"
-msgstr "Internet"
-
 msgid "Navegadores"
 msgstr "Webbläsare"
 
@@ -156,12 +147,6 @@ msgstr "Styrelse"
 msgid "RPG"
 msgstr "RPG"
 
-msgid "Outros"
-msgstr "Övriga"
-
-msgid "Sistema"
-msgstr "System"
-
 msgid "Armazenamento e partições"
 msgstr "Förvaring och skiljeväggar"
 
@@ -188,21 +173,6 @@ msgstr "Inhemska program"
 
 msgid "Programas AUR"
 msgstr "AUR-programmen"
-
-msgid "Instalado na partição:"
-msgstr "Installerad på partitionen:"
-
-msgid "Tamanho da partição:"
-msgstr "Partitionsstorlek:"
-
-msgid "Espaço utilizado:"
-msgstr "Utrymme som används:"
-
-msgid "Espaço livre:"
-msgstr "Klart utrymme:"
-
-msgid "Data que o sistema foi instalado:"
-msgstr "Datum då systemet installerades:"
 
 msgid "Pacotes nativos e AUR"
 msgstr "Inhemska paket och AUR"
@@ -237,9 +207,6 @@ msgstr "Inte informerad"
 msgid "Atualizar"
 msgstr "Uppdatera"
 
-msgid "Categorias"
-msgstr "Kategorier"
-
 msgid "Versão instalada"
 msgstr "Installerad version"
 
@@ -258,12 +225,6 @@ msgid ""
 msgstr ""
 "Programmet är i .deb-format, vilket ger den bästa integrationen med systemet."
 ""
-
-msgid "Mais informações"
-msgstr "Mer information"
-
-msgid "Voltar"
-msgstr "Tillbaka"
 
 msgid "Dependências a instalar"
 msgstr "Beroenden som ska installeras"
@@ -297,9 +258,6 @@ msgstr "Tillgänglig version:"
 
 msgid "Repositório:"
 msgstr "Förvaringsplats:"
-
-msgid "Cancelar"
-msgstr "Avbryt"
 
 msgid "Instalando"
 msgstr "Installation av"
@@ -338,9 +296,6 @@ msgstr "Paket"
 msgid "Ativado"
 msgstr "Aktiverad"
 
-msgid "Desativado"
-msgstr "Inaktiverad"
-
 msgid "Atualizações"
 msgstr "Uppdateringar"
 
@@ -378,6 +333,9 @@ msgid ""
 msgstr ""
 "Forcera uppdateringar, använd det här alternativet om du inte kan uppdatera "
 "systemet, men i den forcerade uppdateringen kan vissa program tas bort."
+
+msgid "Repositórios nativos"
+msgstr ""
 
 msgid ""
 "\n"
@@ -460,8 +418,14 @@ msgstr "Sök program"
 msgid "Modo Simplificado"
 msgstr "Förenklat läge"
 
+msgid "Nativos"
+msgstr ""
+
 msgid "Início"
 msgstr "Hem"
+
+msgid "Nativos_text"
+msgstr ""
 
 msgid "Reinstalar"
 msgstr "Återinstallera"

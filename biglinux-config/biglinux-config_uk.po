@@ -91,5 +91,8 @@ msgstr "Відновлення налаштувань програми:"
 msgid "Principal"
 msgstr "Головна"
 
+msgid "Internet"
+msgstr "Internet"
+
 msgid "Pesquisar Restaurar"
 msgstr "Пошук Відновлення"

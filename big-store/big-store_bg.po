@@ -30,15 +30,6 @@ msgstr "Big-Store е отворен."
 msgid "Big-Store"
 msgstr "Big-Store"
 
-msgid "Instalar"
-msgstr "Инсталиране на"
-
-msgid "Remover"
-msgstr "Премахване на"
-
-msgid "Internet"
-msgstr "Интернет"
-
 msgid "Navegadores"
 msgstr "Браузъри"
 
@@ -156,12 +147,6 @@ msgstr "Съвет"
 msgid "RPG"
 msgstr "RPG"
 
-msgid "Outros"
-msgstr "Други"
-
-msgid "Sistema"
-msgstr "Система"
-
 msgid "Armazenamento e partições"
 msgstr "Съхранение и прегради"
 
@@ -188,21 +173,6 @@ msgstr "Родни програми"
 
 msgid "Programas AUR"
 msgstr "Програми на AUR"
-
-msgid "Instalado na partição:"
-msgstr "Инсталиран в дяла:"
-
-msgid "Tamanho da partição:"
-msgstr "Размер на дяла:"
-
-msgid "Espaço utilizado:"
-msgstr "Използвано пространство:"
-
-msgid "Espaço livre:"
-msgstr "Свободно пространство:"
-
-msgid "Data que o sistema foi instalado:"
-msgstr "Дата на инсталиране на системата:"
 
 msgid "Pacotes nativos e AUR"
 msgstr "Родни пакети и AUR"
@@ -237,9 +207,6 @@ msgstr "Не е информиран"
 msgid "Atualizar"
 msgstr "Актуализация"
 
-msgid "Categorias"
-msgstr "Категории"
-
 msgid "Versão instalada"
 msgstr "Инсталирана версия"
 
@@ -258,12 +225,6 @@ msgid ""
 msgstr ""
 "Тази програма е във формат .deb, който има най-добра интеграция със "
 "системата."
-
-msgid "Mais informações"
-msgstr "Повече информация"
-
-msgid "Voltar"
-msgstr "Обратно"
 
 msgid "Dependências a instalar"
 msgstr "Зависимости за инсталиране"
@@ -297,9 +258,6 @@ msgstr "Налична версия:"
 
 msgid "Repositório:"
 msgstr "Хранилище:"
-
-msgid "Cancelar"
-msgstr "Отмяна на"
 
 msgid "Instalando"
 msgstr "Инсталиране на"
@@ -336,9 +294,6 @@ msgstr "Пакети"
 
 msgid "Ativado"
 msgstr "Активиран"
-
-msgid "Desativado"
-msgstr "Инвалиди"
 
 msgid "Atualizações"
 msgstr "Актуализации"
@@ -378,6 +333,9 @@ msgstr ""
 "Принудителни актуализации, използвайте тази опция, ако не можете да "
 "актуализирате системата, но при принудителната актуализация някои програми "
 "може да бъдат премахнати."
+
+msgid "Repositórios nativos"
+msgstr ""
 
 msgid ""
 "\n"
@@ -461,8 +419,14 @@ msgstr "Програма за търсене"
 msgid "Modo Simplificado"
 msgstr "Опростен режим"
 
+msgid "Nativos"
+msgstr ""
+
 msgid "Início"
 msgstr "Начало"
+
+msgid "Nativos_text"
+msgstr ""
 
 msgid "Reinstalar"
 msgstr "Преинсталиране на"

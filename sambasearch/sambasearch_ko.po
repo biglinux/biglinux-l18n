@@ -61,6 +61,9 @@ msgid ""
 "anônima."
 msgstr "*대부분의 서버는 사용 가능한 공유를 나열하기 위해 로그인과 암호가 필요합니다. 익명 검색을 수행하려면 비워 두십시오."
 
+msgid "Cancelar"
+msgstr "취소"
+
 msgid "Próximo"
 msgstr "다음 것"
 
@@ -72,3 +75,9 @@ msgstr "사용자와 함께 수행된 검색:"
 
 msgid "na rede:"
 msgstr "네트워크에서 다음을 수행합니다."
+
+msgid "Voltar"
+msgstr "뒤로 가기"
+
+msgid "Fechar"
+msgstr "닫기"

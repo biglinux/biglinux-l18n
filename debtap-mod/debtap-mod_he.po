@@ -75,3 +75,6 @@ msgstr "התקן חבילה.deb"
 
 msgid "Convertendo o arquivo, aguarde, pode demorar alguns minutos..."
 msgstr "המרת הקובץ, אנא המתן, זה עלול לקחת כמה דקות..."
+
+msgid "Concluído!"
+msgstr "הושלם!"

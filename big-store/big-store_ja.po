@@ -30,15 +30,6 @@ msgstr "ビッグストアがオープンしました。"
 msgid "Big-Store"
 msgstr "ビッグストア"
 
-msgid "Instalar"
-msgstr "インストール"
-
-msgid "Remover"
-msgstr "削除"
-
-msgid "Internet"
-msgstr "インターネット"
-
 msgid "Navegadores"
 msgstr "ブラウザー"
 
@@ -156,12 +147,6 @@ msgstr "ボード"
 msgid "RPG"
 msgstr "ロールプレイングゲーム"
 
-msgid "Outros"
-msgstr "その他"
-
-msgid "Sistema"
-msgstr "システム"
-
 msgid "Armazenamento e partições"
 msgstr "収納・仕切り"
 
@@ -188,21 +173,6 @@ msgstr "ネイティブプログラム"
 
 msgid "Programas AUR"
 msgstr "AURプログラム"
-
-msgid "Instalado na partição:"
-msgstr "パーティションにインストールされています。"
-
-msgid "Tamanho da partição:"
-msgstr "パーティションサイズ。"
-
-msgid "Espaço utilizado:"
-msgstr "使用するスペース"
-
-msgid "Espaço livre:"
-msgstr "空間をクリアにする。"
-
-msgid "Data que o sistema foi instalado:"
-msgstr "システムがインストールされた日付。"
 
 msgid "Pacotes nativos e AUR"
 msgstr "ネイティブパッケージとAUR"
@@ -237,9 +207,6 @@ msgstr "非通知"
 msgid "Atualizar"
 msgstr "更新情報"
 
-msgid "Categorias"
-msgstr "カテゴリー"
-
 msgid "Versão instalada"
 msgstr "インストールされているバージョン"
 
@@ -256,12 +223,6 @@ msgid ""
 "Esse programa está em formato .deb, que possui a melhor integração com o "
 "sistema."
 msgstr "本プログラムは、システムとの連携が最も優れている.deb形式を採用しています。"
-
-msgid "Mais informações"
-msgstr "詳細はこちら"
-
-msgid "Voltar"
-msgstr "背面"
 
 msgid "Dependências a instalar"
 msgstr "インストールする依存関係"
@@ -295,9 +256,6 @@ msgstr "バージョンあり。"
 
 msgid "Repositório:"
 msgstr "リポジトリです。"
-
-msgid "Cancelar"
-msgstr "キャンセル"
 
 msgid "Instalando"
 msgstr "インストール"
@@ -334,9 +292,6 @@ msgstr "パッケージ"
 msgid "Ativado"
 msgstr "起動中"
 
-msgid "Desativado"
-msgstr "使用不可"
-
 msgid "Atualizações"
 msgstr "更新情報"
 
@@ -372,6 +327,9 @@ msgid ""
 "removidos."
 msgstr ""
 "強制アップデートは、システムのアップデートができない場合に使用します。ただし、強制アップデートでは一部のプログラムが削除されることがあります。"
+
+msgid "Repositórios nativos"
+msgstr ""
 
 msgid ""
 "\n"
@@ -454,8 +412,14 @@ msgstr "検索プログラム"
 msgid "Modo Simplificado"
 msgstr "簡易モード"
 
+msgid "Nativos"
+msgstr ""
+
 msgid "Início"
 msgstr "ホーム"
+
+msgid "Nativos_text"
+msgstr ""
 
 msgid "Reinstalar"
 msgstr "再インストール"

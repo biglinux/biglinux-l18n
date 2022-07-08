@@ -91,5 +91,8 @@ msgstr "Vraćanje postavki programa:"
 msgid "Principal"
 msgstr "Glavni"
 
+msgid "Internet"
+msgstr "Internet"
+
 msgid "Pesquisar Restaurar"
 msgstr "Vraćanje pretraživanja"

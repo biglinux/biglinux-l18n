@@ -82,9 +82,6 @@ msgstr ""
 "Για να προσθέσετε μια εφαρμογή WebApp, πρέπει να ενημερώσετε το Url και το "
 "όνομα."
 
-msgid "Fechar"
-msgstr "Κλείστε το"
-
 msgid "Para detectar o Nome e o Ícone você precisa informar a Url."
 msgstr ""
 "Για να εντοπίσετε το όνομα και το εικονίδιο θα πρέπει να ενημερώσετε το Url."

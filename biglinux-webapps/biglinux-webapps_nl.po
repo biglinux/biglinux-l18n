@@ -80,9 +80,6 @@ msgstr "Toevoegen"
 msgid "Para adicionar um WebApp, você precisa informar a Url e o Nome."
 msgstr "Om een WebApp toe te voegen, moet u de Url en de Name doorgeven."
 
-msgid "Fechar"
-msgstr "Sluiten"
-
 msgid "Para detectar o Nome e o Ícone você precisa informar a Url."
 msgstr ""
 "Om de Naam en de Icoon op te sporen moet u de Url op de hoogte brengen."

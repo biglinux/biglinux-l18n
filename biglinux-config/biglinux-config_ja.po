@@ -84,5 +84,8 @@ msgstr "プログラム設定を元に戻す。"
 msgid "Principal"
 msgstr "メイン"
 
+msgid "Internet"
+msgstr "インターネット"
+
 msgid "Pesquisar Restaurar"
 msgstr "検索リストア"

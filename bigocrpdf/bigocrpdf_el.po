@@ -106,8 +106,5 @@ msgstr "Φάκελος:"
 msgid "OCR para PDF"
 msgstr "OCR για PDF"
 
-msgid "Concluído!"
-msgstr "Έγινε!"
-
 msgid "Salvo em: "
 msgstr "Αποθηκεύτηκε σε "

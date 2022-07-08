@@ -106,8 +106,5 @@ msgstr "Mappa:"
 msgid "OCR para PDF"
 msgstr "OCR a PDF-hez"
 
-msgid "Concluído!"
-msgstr "Kész!"
-
 msgid "Salvo em: "
 msgstr "Mentve "

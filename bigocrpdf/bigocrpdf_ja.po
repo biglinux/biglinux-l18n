@@ -101,8 +101,5 @@ msgstr "フォルダ："
 msgid "OCR para PDF"
 msgstr "PDF用OCR"
 
-msgid "Concluído!"
-msgstr "完了！"
-
 msgid "Salvo em: "
 msgstr "で保存されます。 "

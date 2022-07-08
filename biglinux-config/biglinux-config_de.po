@@ -96,5 +96,8 @@ msgstr "Stellen Sie die Programmeinstellungen wieder her:"
 msgid "Principal"
 msgstr "Hauptseite"
 
+msgid "Internet"
+msgstr "Internet"
+
 msgid "Pesquisar Restaurar"
 msgstr "Suche Wiederherstellen"

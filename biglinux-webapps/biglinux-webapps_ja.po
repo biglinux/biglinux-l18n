@@ -80,9 +80,6 @@ msgstr "追加"
 msgid "Para adicionar um WebApp, você precisa informar a Url e o Nome."
 msgstr "WebAppを追加するには、URLと名前を指定する必要があります。"
 
-msgid "Fechar"
-msgstr "閉じる"
-
 msgid "Para detectar o Nome e o Ícone você precisa informar a Url."
 msgstr "名前とアイコンを検出するには、URLに通知する必要があります。"
 

@@ -32,12 +32,21 @@ msgstr "Tento ovladač je proprietární."
 msgid "Este driver parece compatível com este computador."
 msgstr "Zdá se, že tento ovladač je s tímto počítačem kompatibilní."
 
+msgid "Remover"
+msgstr "Odstranění stránky"
+
+msgid "Instalar"
+msgstr "Instalace"
+
 msgid ""
 "Já existe outro driver nVidia instalado, para instalar este driver, remova "
 "primeiro o driver instalado."
 msgstr ""
 "Již je nainstalován jiný ovladač nVidia, chcete-li nainstalovat tento "
 "ovladač, nejprve odeberte nainstalovaný ovladač."
+
+msgid "Desativado"
+msgstr "Bezbariérový"
 
 msgid "Informações de Hardware"
 msgstr "Informace o hardwaru"
@@ -57,6 +66,9 @@ msgid ""
 msgstr ""
 "Chcete soubor zobrazit nebo odeslat do transfer.sh, abyste mohli snadno "
 "sdílet adresu URL s daty z vašeho počítače?"
+
+msgid "Categorias"
+msgstr "Kategorie"
 
 msgid "Principais"
 msgstr "Hlavní stránka"
@@ -99,6 +111,9 @@ msgstr "Dotykový displej"
 
 msgid "Som"
 msgstr "Zvuk"
+
+msgid "Outros"
+msgstr "Další"
 
 msgid "Pesquisar Driver ou Firmware"
 msgstr "Hledání ovladače nebo firmwaru"
@@ -185,6 +200,9 @@ msgstr "Logická zařízení"
 msgid "Raid"
 msgstr "Nájezd"
 
+msgid "Sistema"
+msgstr "Systém"
+
 msgid "Informações de Sistema"
 msgstr "Systémové informace"
 
@@ -206,6 +224,9 @@ msgstr "Pci"
 msgid "Armazenamento"
 msgstr "Úložiště"
 
+msgid "Mais informações"
+msgstr "Více informací"
+
 msgid "Pesquisar"
 msgstr "Vyhledávání"
 
@@ -217,6 +238,21 @@ msgstr "Paměť RAM:"
 
 msgid "Vídeo:"
 msgstr "Video:"
+
+msgid "Instalado na partição:"
+msgstr "Nainstalováno na oddílu:"
+
+msgid "Tamanho da partição:"
+msgstr "Velikost oddílu:"
+
+msgid "Espaço utilizado:"
+msgstr "Využitý prostor:"
+
+msgid "Espaço livre:"
+msgstr "Volný prostor:"
+
+msgid "Data que o sistema foi instalado:"
+msgstr "Datum instalace systému:"
 
 msgid "Kernel em uso:"
 msgstr "Používané jádro:"

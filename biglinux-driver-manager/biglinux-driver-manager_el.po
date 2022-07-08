@@ -34,6 +34,12 @@ msgstr ""
 "Αυτό το πρόγραμμα οδήγησης φαίνεται να είναι συμβατό με αυτόν τον υπολογιστή."
 ""
 
+msgid "Remover"
+msgstr "Αφαιρέστε το"
+
+msgid "Instalar"
+msgstr "Εγκαταστήστε το"
+
 msgid ""
 "Já existe outro driver nVidia instalado, para instalar este driver, remova "
 "primeiro o driver instalado."
@@ -41,6 +47,9 @@ msgstr ""
 "Υπάρχει ήδη εγκατεστημένο ένα άλλο πρόγραμμα οδήγησης nVidia, για να "
 "εγκαταστήσετε αυτό το πρόγραμμα οδήγησης, αφαιρέστε πρώτα το εγκατεστημένο "
 "πρόγραμμα οδήγησης."
+
+msgid "Desativado"
+msgstr "Άτομα με ειδικές ανάγκες"
 
 msgid "Informações de Hardware"
 msgstr "Πληροφορίες υλικού"
@@ -61,6 +70,9 @@ msgstr ""
 "Θέλετε να δείτε το αρχείο ή να το στείλετε στο transfer.sh, για να έχετε μια "
 "διεύθυνση URL με τα δεδομένα από τον υπολογιστή σας με εύκολο τρόπο για να "
 "τα μοιραστείτε"
+
+msgid "Categorias"
+msgstr "Κατηγορίες"
 
 msgid "Principais"
 msgstr "Κύρια"
@@ -103,6 +115,9 @@ msgstr "Οθόνη αφής"
 
 msgid "Som"
 msgstr "Ήχος"
+
+msgid "Outros"
+msgstr "Άλλα"
 
 msgid "Pesquisar Driver ou Firmware"
 msgstr "Αναζήτηση προγράμματος οδήγησης ή υλικολογισμικού"
@@ -192,6 +207,9 @@ msgstr "Λογικές συσκευές"
 msgid "Raid"
 msgstr "Επιδρομή"
 
+msgid "Sistema"
+msgstr "Σύστημα"
+
 msgid "Informações de Sistema"
 msgstr "Πληροφορίες συστήματος"
 
@@ -213,6 +231,9 @@ msgstr "Pci"
 msgid "Armazenamento"
 msgstr "Αποθήκευση"
 
+msgid "Mais informações"
+msgstr "Περισσότερες πληροφορίες"
+
 msgid "Pesquisar"
 msgstr "Αναζήτηση"
 
@@ -224,6 +245,21 @@ msgstr "Μνήμη RAM:"
 
 msgid "Vídeo:"
 msgstr "Βίντεο:"
+
+msgid "Instalado na partição:"
+msgstr "Εγκατεστημένο στο διαμέρισμα:"
+
+msgid "Tamanho da partição:"
+msgstr "Μέγεθος διαμερίσματος:"
+
+msgid "Espaço utilizado:"
+msgstr "Χώρος που χρησιμοποιείται:"
+
+msgid "Espaço livre:"
+msgstr "Ελεύθερος χώρος:"
+
+msgid "Data que o sistema foi instalado:"
+msgstr "Ημερομηνία εγκατάστασης του συστήματος:"
 
 msgid "Kernel em uso:"
 msgstr "Χρησιμοποιούμενος πυρήνας:"

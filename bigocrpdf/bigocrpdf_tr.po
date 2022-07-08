@@ -103,8 +103,5 @@ msgstr "Klasör:"
 msgid "OCR para PDF"
 msgstr "PDF için OCR"
 
-msgid "Concluído!"
-msgstr "Tamamdır!"
-
 msgid "Salvo em: "
 msgstr "Kaydedildi "

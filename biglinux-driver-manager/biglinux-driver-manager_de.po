@@ -32,12 +32,21 @@ msgstr "Dieser Treiber ist proprietär."
 msgid "Este driver parece compatível com este computador."
 msgstr "Dieser Treiber scheint mit diesem Computer kompatibel zu sein."
 
+msgid "Remover"
+msgstr "Entfernen"
+
+msgid "Instalar"
+msgstr "Installieren Sie"
+
 msgid ""
 "Já existe outro driver nVidia instalado, para instalar este driver, remova "
 "primeiro o driver instalado."
 msgstr ""
 "Es ist bereits ein anderer nVidia-Treiber installiert. Um diesen Treiber zu "
 "installieren, entfernen Sie zuerst den installierten Treiber."
+
+msgid "Desativado"
+msgstr "Behinderte"
 
 msgid "Informações de Hardware"
 msgstr "Hardware-Informationen"
@@ -57,6 +66,9 @@ msgid ""
 msgstr ""
 "Möchten Sie die Datei ansehen oder sie an transfer.sh senden, um eine URL "
 "mit den Daten von Ihrem Computer auf einfache Weise weiterzugeben?"
+
+msgid "Categorias"
+msgstr "Kategorien"
 
 msgid "Principais"
 msgstr "Hauptseite"
@@ -99,6 +111,9 @@ msgstr "Berührungssensitiver Bildschirm"
 
 msgid "Som"
 msgstr "Klang"
+
+msgid "Outros"
+msgstr "Andere"
 
 msgid "Pesquisar Driver ou Firmware"
 msgstr "Treiber oder Firmware suchen"
@@ -189,6 +204,9 @@ msgstr "Logische Geräte"
 msgid "Raid"
 msgstr "Überfall"
 
+msgid "Sistema"
+msgstr "System"
+
 msgid "Informações de Sistema"
 msgstr "System-Informationen"
 
@@ -210,6 +228,9 @@ msgstr "Pci"
 msgid "Armazenamento"
 msgstr "Lagerung"
 
+msgid "Mais informações"
+msgstr "Weitere Informationen"
+
 msgid "Pesquisar"
 msgstr "Suche"
 
@@ -221,6 +242,21 @@ msgstr "RAM-Speicher:"
 
 msgid "Vídeo:"
 msgstr "Video:"
+
+msgid "Instalado na partição:"
+msgstr "Installiert auf der Partition:"
+
+msgid "Tamanho da partição:"
+msgstr "Größe der Partition:"
+
+msgid "Espaço utilizado:"
+msgstr "Genutzter Raum:"
+
+msgid "Espaço livre:"
+msgstr "Freiraum:"
+
+msgid "Data que o sistema foi instalado:"
+msgstr "Datum, an dem das System installiert wurde:"
 
 msgid "Kernel em uso:"
 msgstr "Kernel em uso:"

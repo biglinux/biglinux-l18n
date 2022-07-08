@@ -93,5 +93,8 @@ msgstr "Herstel de programma-instellingen:"
 msgid "Principal"
 msgstr "Hoofd"
 
+msgid "Internet"
+msgstr "Internet"
+
 msgid "Pesquisar Restaurar"
 msgstr "Zoek Herstel"

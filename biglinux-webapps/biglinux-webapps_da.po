@@ -80,9 +80,6 @@ msgstr "Tilføj"
 msgid "Para adicionar um WebApp, você precisa informar a Url e o Nome."
 msgstr "For at tilføje en WebApp skal du oplyse Url og Navn."
 
-msgid "Fechar"
-msgstr "Luk"
-
 msgid "Para detectar o Nome e o Ícone você precisa informar a Url."
 msgstr "For at registrere navnet og ikonet skal du oplyse url'en."
 

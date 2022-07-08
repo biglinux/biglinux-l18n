@@ -79,3 +79,6 @@ msgstr ".deb csomag telepítése"
 
 msgid "Convertendo o arquivo, aguarde, pode demorar alguns minutos..."
 msgstr "A fájl konvertálása, várjon, ez eltarthat néhány percig..."
+
+msgid "Concluído!"
+msgstr "Kész!"

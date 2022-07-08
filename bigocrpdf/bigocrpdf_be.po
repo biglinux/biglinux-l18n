@@ -103,8 +103,5 @@ msgstr "Папка:"
 msgid "OCR para PDF"
 msgstr "OCR ў pdf"
 
-msgid "Concluído!"
-msgstr "Выснову!"
-
 msgid "Salvo em: "
 msgstr "Захавана:"

@@ -30,15 +30,6 @@ msgstr "Big-Store je otevřen."
 msgid "Big-Store"
 msgstr "Big-Store"
 
-msgid "Instalar"
-msgstr "Instalace"
-
-msgid "Remover"
-msgstr "Odstranění stránky"
-
-msgid "Internet"
-msgstr "Internet"
-
 msgid "Navegadores"
 msgstr "Prohlížeče"
 
@@ -156,12 +147,6 @@ msgstr "Tabule"
 msgid "RPG"
 msgstr "RPG"
 
-msgid "Outros"
-msgstr "Další"
-
-msgid "Sistema"
-msgstr "Systém"
-
 msgid "Armazenamento e partições"
 msgstr "Úložiště a oddíly"
 
@@ -188,21 +173,6 @@ msgstr "Nativní programy"
 
 msgid "Programas AUR"
 msgstr "Programy AUR"
-
-msgid "Instalado na partição:"
-msgstr "Nainstalováno na oddílu:"
-
-msgid "Tamanho da partição:"
-msgstr "Velikost oddílu:"
-
-msgid "Espaço utilizado:"
-msgstr "Využitý prostor:"
-
-msgid "Espaço livre:"
-msgstr "Volný prostor:"
-
-msgid "Data que o sistema foi instalado:"
-msgstr "Datum instalace systému:"
 
 msgid "Pacotes nativos e AUR"
 msgstr "Nativní balíčky a AUR"
@@ -237,9 +207,6 @@ msgstr "Není informován"
 msgid "Atualizar"
 msgstr "Aktualizace"
 
-msgid "Categorias"
-msgstr "Kategorie"
-
 msgid "Versão instalada"
 msgstr "Nainstalovaná verze"
 
@@ -257,12 +224,6 @@ msgid ""
 "sistema."
 msgstr ""
 "Tento program je ve formátu .deb, který má nejlepší integraci se systémem."
-
-msgid "Mais informações"
-msgstr "Více informací"
-
-msgid "Voltar"
-msgstr "Zpět"
 
 msgid "Dependências a instalar"
 msgstr "Závislosti k instalaci"
@@ -296,9 +257,6 @@ msgstr "Dostupná verze:"
 
 msgid "Repositório:"
 msgstr "Úložiště:"
-
-msgid "Cancelar"
-msgstr "Zrušit"
 
 msgid "Instalando"
 msgstr "Instalace stránek"
@@ -336,9 +294,6 @@ msgstr "Balíčky"
 
 msgid "Ativado"
 msgstr "Aktivovaný"
-
-msgid "Desativado"
-msgstr "Bezbariérový"
 
 msgid "Atualizações"
 msgstr "Aktualizace"
@@ -378,6 +333,9 @@ msgstr ""
 "Vynutit aktualizace, tuto možnost použijte, pokud se vám nedaří aktualizovat "
 "systém, avšak při vynucené aktualizaci mohou být některé programy odstraněny."
 ""
+
+msgid "Repositórios nativos"
+msgstr ""
 
 msgid ""
 "\n"
@@ -460,8 +418,14 @@ msgstr "Vyhledávací program"
 msgid "Modo Simplificado"
 msgstr "Zjednodušený režim"
 
+msgid "Nativos"
+msgstr ""
+
 msgid "Início"
 msgstr "Home"
+
+msgid "Nativos_text"
+msgstr ""
 
 msgid "Reinstalar"
 msgstr "Přeinstalujte stránky"

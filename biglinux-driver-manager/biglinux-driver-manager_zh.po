@@ -32,10 +32,19 @@ msgstr "这个驱动程序是专有的。"
 msgid "Este driver parece compatível com este computador."
 msgstr "这个驱动程序似乎与这台计算机兼容。"
 
+msgid "Remover"
+msgstr "移除"
+
+msgid "Instalar"
+msgstr "安装"
+
 msgid ""
 "Já existe outro driver nVidia instalado, para instalar este driver, remova "
 "primeiro o driver instalado."
 msgstr "已经安装了另一个nVidia驱动，要安装这个驱动，请先删除已安装的驱动。"
+
+msgid "Desativado"
+msgstr "失能"
 
 msgid "Informações de Hardware"
 msgstr "硬件信息"
@@ -53,6 +62,9 @@ msgid ""
 "Deseja visualizar o arquivo ou envia-lo ao site transfer.sh, para ter uma "
 "URL com os dados do seu computador de forma fácil de compartilhar?"
 msgstr "你想查看文件或将其发送到transfer.sh，以一种简单的方式分享来自你电脑的数据的URL吗？"
+
+msgid "Categorias"
+msgstr "类别"
 
 msgid "Principais"
 msgstr "主要内容"
@@ -95,6 +107,9 @@ msgstr "触摸屏"
 
 msgid "Som"
 msgstr "声音"
+
+msgid "Outros"
+msgstr "其他"
 
 msgid "Pesquisar Driver ou Firmware"
 msgstr "搜索驱动程序或固件"
@@ -179,6 +194,9 @@ msgstr "逻辑装置"
 msgid "Raid"
 msgstr "袭击"
 
+msgid "Sistema"
+msgstr "系统"
+
 msgid "Informações de Sistema"
 msgstr "系统信息"
 
@@ -200,6 +218,9 @@ msgstr "芯片"
 msgid "Armazenamento"
 msgstr "储存"
 
+msgid "Mais informações"
+msgstr "更多信息"
+
 msgid "Pesquisar"
 msgstr "搜索"
 
@@ -211,6 +232,21 @@ msgstr "RAM內存："
 
 msgid "Vídeo:"
 msgstr "視頻："
+
+msgid "Instalado na partição:"
+msgstr "安装在分区上。"
+
+msgid "Tamanho da partição:"
+msgstr "分区大小。"
+
+msgid "Espaço utilizado:"
+msgstr "使用的空间。"
+
+msgid "Espaço livre:"
+msgstr "清理空间。"
+
+msgid "Data que o sistema foi instalado:"
+msgstr "系统安装的日期。"
 
 msgid "Kernel em uso:"
 msgstr "正在使用的內核："

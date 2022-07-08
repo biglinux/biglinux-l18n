@@ -97,5 +97,8 @@ msgstr "Възстановяване на настройките на прогр
 msgid "Principal"
 msgstr "Основен"
 
+msgid "Internet"
+msgstr "Интернет"
+
 msgid "Pesquisar Restaurar"
 msgstr "Възстановяване на търсенето"

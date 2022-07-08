@@ -104,8 +104,5 @@ msgstr "Složka:"
 msgid "OCR para PDF"
 msgstr "OCR pro PDF"
 
-msgid "Concluído!"
-msgstr "Hotovo!"
-
 msgid "Salvo em: "
 msgstr "Uloženo v "

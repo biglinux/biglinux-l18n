@@ -72,3 +72,6 @@ msgstr "安装.deb包"
 
 msgid "Convertendo o arquivo, aguarde, pode demorar alguns minutos..."
 msgstr "正在转换文件，请等待，可能需要几分钟时间..."
+
+msgid "Concluído!"
+msgstr "完成了!"

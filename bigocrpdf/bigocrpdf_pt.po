@@ -104,8 +104,5 @@ msgstr "Pasta:"
 msgid "OCR para PDF"
 msgstr "OCR para PDF"
 
-msgid "Concluído!"
-msgstr "Concluído!"
-
 msgid "Salvo em: "
 msgstr "Salvo em: "

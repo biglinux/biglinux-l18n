@@ -30,15 +30,6 @@ msgstr "대형 매장이 열려 있습니다."
 msgid "Big-Store"
 msgstr "빅 스토어"
 
-msgid "Instalar"
-msgstr "설치"
-
-msgid "Remover"
-msgstr "제거"
-
-msgid "Internet"
-msgstr "인터넷"
-
 msgid "Navegadores"
 msgstr "항해사"
 
@@ -156,12 +147,6 @@ msgstr "트레이"
 msgid "RPG"
 msgstr "롤 플레잉"
 
-msgid "Outros"
-msgstr "기타"
-
-msgid "Sistema"
-msgstr "시스템"
-
 msgid "Armazenamento e partições"
 msgstr "스토리지 및 파티션"
 
@@ -188,21 +173,6 @@ msgstr "네이티브 프로그램"
 
 msgid "Programas AUR"
 msgstr "AUR 프로그램"
-
-msgid "Instalado na partição:"
-msgstr "파티션에 설치됨:"
-
-msgid "Tamanho da partição:"
-msgstr "파티션 크기:"
-
-msgid "Espaço utilizado:"
-msgstr "사용된 공간:"
-
-msgid "Espaço livre:"
-msgstr "여유 공간:"
-
-msgid "Data que o sistema foi instalado:"
-msgstr "시스템 설치 날짜:"
 
 msgid "Pacotes nativos e AUR"
 msgstr "네이티브 및 AUR 패키지"
@@ -237,9 +207,6 @@ msgstr "정보 없음"
 msgid "Atualizar"
 msgstr "업데이트"
 
-msgid "Categorias"
-msgstr "카테고리"
-
 msgid "Versão instalada"
 msgstr "설치된 버전"
 
@@ -256,12 +223,6 @@ msgid ""
 "Esse programa está em formato .deb, que possui a melhor integração com o "
 "sistema."
 msgstr "이 프로그램은.deb 형식으로 시스템과 가장 잘 통합됩니다."
-
-msgid "Mais informações"
-msgstr "추가 정보"
-
-msgid "Voltar"
-msgstr "뒤로 가기"
 
 msgid "Dependências a instalar"
 msgstr "설치할 종속성"
@@ -295,9 +256,6 @@ msgstr "사용 가능한 버전:"
 
 msgid "Repositório:"
 msgstr "리포지토리:"
-
-msgid "Cancelar"
-msgstr "취소"
 
 msgid "Instalando"
 msgstr "설치 중"
@@ -333,9 +291,6 @@ msgstr "묶음"
 
 msgid "Ativado"
 msgstr "활성화됨"
-
-msgid "Desativado"
-msgstr "비활성화"
 
 msgid "Atualizações"
 msgstr "업그레이드"
@@ -373,6 +328,9 @@ msgid ""
 msgstr ""
 "강제 업데이트, 시스템을 업데이트 할 수없는 경우이 옵션을 사용하십시오. 그러나 강제 업데이트에서는 일부 프로그램이 제거 될 수 있습니다."
 ""
+
+msgid "Repositórios nativos"
+msgstr ""
 
 msgid ""
 "\n"
@@ -455,8 +413,14 @@ msgstr "프로그램 검색"
 msgid "Modo Simplificado"
 msgstr "간소화 모드"
 
+msgid "Nativos"
+msgstr ""
+
 msgid "Início"
 msgstr "시작"
+
+msgid "Nativos_text"
+msgstr ""
 
 msgid "Reinstalar"
 msgstr "재설치"

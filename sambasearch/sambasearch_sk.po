@@ -65,6 +65,9 @@ msgstr ""
 "*Väčšina serverov vyžaduje prihlasovacie meno a heslo na zobrazenie zoznamu "
 "dostupných akcií, ak chcete vykonať anonymné vyhľadávanie, nechajte prázdne."
 
+msgid "Cancelar"
+msgstr "Zrušiť"
+
 msgid "Próximo"
 msgstr "Ďalšie"
 
@@ -76,3 +79,9 @@ msgstr "Vyhľadávanie vykonané spolu s používateľom:"
 
 msgid "na rede:"
 msgstr "v sieti:"
+
+msgid "Voltar"
+msgstr "Späť"
+
+msgid "Fechar"
+msgstr "Zatvoriť"

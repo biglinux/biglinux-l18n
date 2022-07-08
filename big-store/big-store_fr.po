@@ -30,15 +30,6 @@ msgstr "Le Big-Store est ouvert."
 msgid "Big-Store"
 msgstr "Big-Store"
 
-msgid "Instalar"
-msgstr "Installer"
-
-msgid "Remover"
-msgstr "Retirer"
-
-msgid "Internet"
-msgstr "Internet"
-
 msgid "Navegadores"
 msgstr "Navigateurs"
 
@@ -156,12 +147,6 @@ msgstr "Conseil d'administration"
 msgid "RPG"
 msgstr "RPG"
 
-msgid "Outros"
-msgstr "Autre"
-
-msgid "Sistema"
-msgstr "Système"
-
 msgid "Armazenamento e partições"
 msgstr "Rangement et cloisons"
 
@@ -188,21 +173,6 @@ msgstr "Programmes autochtones"
 
 msgid "Programas AUR"
 msgstr "Programmes AUR"
-
-msgid "Instalado na partição:"
-msgstr "Installé sur la partition :"
-
-msgid "Tamanho da partição:"
-msgstr "Taille de la partition :"
-
-msgid "Espaço utilizado:"
-msgstr "Espace utilisé :"
-
-msgid "Espaço livre:"
-msgstr "Espace libre :"
-
-msgid "Data que o sistema foi instalado:"
-msgstr "Date à laquelle le système a été installé :"
 
 msgid "Pacotes nativos e AUR"
 msgstr "Paquets natifs et AUR"
@@ -237,9 +207,6 @@ msgstr "Non informé"
 msgid "Atualizar"
 msgstr "Mise à jour"
 
-msgid "Categorias"
-msgstr "Catégories"
-
 msgid "Versão instalada"
 msgstr "Version installée"
 
@@ -256,12 +223,6 @@ msgid ""
 "Esse programa está em formato .deb, que possui a melhor integração com o "
 "sistema."
 msgstr "Ce programme est au format .deb, qui s'intègre le mieux au système."
-
-msgid "Mais informações"
-msgstr "Plus d'informations"
-
-msgid "Voltar"
-msgstr "Dos"
 
 msgid "Dependências a instalar"
 msgstr "Dépendances à installer"
@@ -295,9 +256,6 @@ msgstr "Version disponible :"
 
 msgid "Repositório:"
 msgstr "Dépôt :"
-
-msgid "Cancelar"
-msgstr "Annuler"
 
 msgid "Instalando"
 msgstr "Installation de"
@@ -335,9 +293,6 @@ msgstr "Packages"
 
 msgid "Ativado"
 msgstr "Activé"
-
-msgid "Desativado"
-msgstr "Handicapés"
 
 msgid "Atualizações"
 msgstr "Mises à jour"
@@ -377,6 +332,9 @@ msgstr ""
 "Forcer les mises à jour, utilisez cette option si vous ne parvenez pas à "
 "mettre à jour le système, cependant, dans la mise à jour forcée, certains "
 "programmes peuvent être supprimés."
+
+msgid "Repositórios nativos"
+msgstr ""
 
 msgid ""
 "\n"
@@ -461,8 +419,14 @@ msgstr "Programme de recherche"
 msgid "Modo Simplificado"
 msgstr "Mode simplifié"
 
+msgid "Nativos"
+msgstr ""
+
 msgid "Início"
 msgstr "Accueil"
+
+msgid "Nativos_text"
+msgstr ""
 
 msgid "Reinstalar"
 msgstr "Réinstaller"

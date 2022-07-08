@@ -80,9 +80,6 @@ msgstr "Lisää"
 msgid "Para adicionar um WebApp, você precisa informar a Url e o Nome."
 msgstr "WebAppin lisäämiseksi sinun on ilmoitettava Url ja Name."
 
-msgid "Fechar"
-msgstr "Sulje"
-
 msgid "Para detectar o Nome e o Ícone você precisa informar a Url."
 msgstr "Havaita nimi ja kuvake sinun täytyy ilmoittaa Url."
 

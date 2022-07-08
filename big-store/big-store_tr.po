@@ -30,15 +30,6 @@ msgstr "Big-Store açık."
 msgid "Big-Store"
 msgstr "Big-Store"
 
-msgid "Instalar"
-msgstr "Kurulum"
-
-msgid "Remover"
-msgstr "Kaldırmak"
-
-msgid "Internet"
-msgstr "İnternet"
-
 msgid "Navegadores"
 msgstr "Tarayıcılar"
 
@@ -156,12 +147,6 @@ msgstr "Yönetim Kurulu"
 msgid "RPG"
 msgstr "RPG"
 
-msgid "Outros"
-msgstr "Diğer"
-
-msgid "Sistema"
-msgstr "Sistem"
-
 msgid "Armazenamento e partições"
 msgstr "Depolama ve bölmeler"
 
@@ -188,21 +173,6 @@ msgstr "Yerel Programlar"
 
 msgid "Programas AUR"
 msgstr "AUR programları"
-
-msgid "Instalado na partição:"
-msgstr "Bölüme yüklendi:"
-
-msgid "Tamanho da partição:"
-msgstr "Bölüm boyutu:"
-
-msgid "Espaço utilizado:"
-msgstr "Kullanılan alan:"
-
-msgid "Espaço livre:"
-msgstr "Boş alan:"
-
-msgid "Data que o sistema foi instalado:"
-msgstr "Sistemin kurulduğu tarih:"
 
 msgid "Pacotes nativos e AUR"
 msgstr "Yerel paketler ve AUR"
@@ -237,9 +207,6 @@ msgstr "Bilgilendirilmedi"
 msgid "Atualizar"
 msgstr "Güncelleme"
 
-msgid "Categorias"
-msgstr "Kategoriler"
-
 msgid "Versão instalada"
 msgstr "Yüklü sürüm"
 
@@ -257,12 +224,6 @@ msgid ""
 "sistema."
 msgstr ""
 "Bu program, sistemle en iyi entegrasyona sahip olan .deb formatındadır."
-
-msgid "Mais informações"
-msgstr "Daha fazla bilgi"
-
-msgid "Voltar"
-msgstr "Geri"
 
 msgid "Dependências a instalar"
 msgstr "Yüklenecek bağımlılıklar"
@@ -296,9 +257,6 @@ msgstr "Versiyon mevcut:"
 
 msgid "Repositório:"
 msgstr "Depo:"
-
-msgid "Cancelar"
-msgstr "İptal"
 
 msgid "Instalando"
 msgstr "Yükleme"
@@ -337,9 +295,6 @@ msgstr "Paketler"
 msgid "Ativado"
 msgstr "Etkinleştirilmiş"
 
-msgid "Desativado"
-msgstr "Engelli"
-
 msgid "Atualizações"
 msgstr "Güncellemeler"
 
@@ -377,6 +332,9 @@ msgid ""
 msgstr ""
 "Güncellemeleri zorla, sistemi güncelleyemiyorsanız bu seçeneği kullanın, "
 "ancak zorunlu güncellemede bazı programlar kaldırılabilir."
+
+msgid "Repositórios nativos"
+msgstr ""
 
 msgid ""
 "\n"
@@ -459,8 +417,14 @@ msgstr "Arama programı"
 msgid "Modo Simplificado"
 msgstr "Basitleştirilmiş Mod"
 
+msgid "Nativos"
+msgstr ""
+
 msgid "Início"
 msgstr "Ev"
+
+msgid "Nativos_text"
+msgstr ""
 
 msgid "Reinstalar"
 msgstr "Yeniden Yükle"

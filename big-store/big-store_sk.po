@@ -30,15 +30,6 @@ msgstr "Big-Store je otvorený."
 msgid "Big-Store"
 msgstr "Big-Store"
 
-msgid "Instalar"
-msgstr "Inštalácia stránky"
-
-msgid "Remover"
-msgstr "Odstránenie stránky"
-
-msgid "Internet"
-msgstr "Internet"
-
 msgid "Navegadores"
 msgstr "Prehliadače"
 
@@ -156,12 +147,6 @@ msgstr "Rada"
 msgid "RPG"
 msgstr "RPG"
 
-msgid "Outros"
-msgstr "Iné"
-
-msgid "Sistema"
-msgstr "Systém"
-
 msgid "Armazenamento e partições"
 msgstr "Úložné priestory a priečky"
 
@@ -188,21 +173,6 @@ msgstr "Pôvodné programy"
 
 msgid "Programas AUR"
 msgstr "Programy AUR"
-
-msgid "Instalado na partição:"
-msgstr "Nainštalovaný na oddiele:"
-
-msgid "Tamanho da partição:"
-msgstr "Veľkosť oddielu:"
-
-msgid "Espaço utilizado:"
-msgstr "Použitý priestor:"
-
-msgid "Espaço livre:"
-msgstr "Voľný priestor:"
-
-msgid "Data que o sistema foi instalado:"
-msgstr "Dátum inštalácie systému:"
 
 msgid "Pacotes nativos e AUR"
 msgstr "Pôvodné balíky a AUR"
@@ -237,9 +207,6 @@ msgstr "Nie je informovaný"
 msgid "Atualizar"
 msgstr "Aktualizácia"
 
-msgid "Categorias"
-msgstr "Kategórie"
-
 msgid "Versão instalada"
 msgstr "Nainštalovaná verzia"
 
@@ -257,12 +224,6 @@ msgid ""
 "sistema."
 msgstr ""
 "Tento program je vo formáte .deb, ktorý má najlepšiu integráciu so systémom."
-
-msgid "Mais informações"
-msgstr "Viac informácií"
-
-msgid "Voltar"
-msgstr "Späť"
 
 msgid "Dependências a instalar"
 msgstr "Závislosti na inštaláciu"
@@ -296,9 +257,6 @@ msgstr "Dostupná verzia:"
 
 msgid "Repositório:"
 msgstr "Úložisko:"
-
-msgid "Cancelar"
-msgstr "Zrušiť"
 
 msgid "Instalando"
 msgstr "Inštalácia stránky"
@@ -336,9 +294,6 @@ msgstr "Balíky"
 
 msgid "Ativado"
 msgstr "Aktivované"
-
-msgid "Desativado"
-msgstr "Bezbariérový"
 
 msgid "Atualizações"
 msgstr "Aktualizácie"
@@ -378,6 +333,9 @@ msgstr ""
 "Vynútiť aktualizácie, túto možnosť použite, ak sa vám nedarí aktualizovať "
 "systém, avšak pri vynútenej aktualizácii môžu byť niektoré programy "
 "odstránené."
+
+msgid "Repositórios nativos"
+msgstr ""
 
 msgid ""
 "\n"
@@ -460,8 +418,14 @@ msgstr "Vyhľadávací program"
 msgid "Modo Simplificado"
 msgstr "Zjednodušený režim"
 
+msgid "Nativos"
+msgstr ""
+
 msgid "Início"
 msgstr "Domov"
+
+msgid "Nativos_text"
+msgstr ""
 
 msgid "Reinstalar"
 msgstr "Preinštalujte stránku"

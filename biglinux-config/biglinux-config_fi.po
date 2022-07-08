@@ -91,5 +91,8 @@ msgstr "Palauta ohjelman asetukset:"
 msgid "Principal"
 msgstr "Main"
 
+msgid "Internet"
+msgstr "Internet"
+
 msgid "Pesquisar Restaurar"
 msgstr "Haku Palauta"

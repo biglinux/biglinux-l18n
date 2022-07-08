@@ -30,15 +30,6 @@ msgstr "Біг-магазин відкритий."
 msgid "Big-Store"
 msgstr "Біг-магазин"
 
-msgid "Instalar"
-msgstr "Встановити"
-
-msgid "Remover"
-msgstr "Вилучити:"
-
-msgid "Internet"
-msgstr "Internet"
-
 msgid "Navegadores"
 msgstr "навігаторів"
 
@@ -156,12 +147,6 @@ msgstr "Лоток"
 msgid "RPG"
 msgstr "RPG"
 
-msgid "Outros"
-msgstr "Інші"
-
-msgid "Sistema"
-msgstr "система"
-
 msgid "Armazenamento e partições"
 msgstr "Зберігання та перегородки"
 
@@ -188,21 +173,6 @@ msgstr "Нативні програми"
 
 msgid "Programas AUR"
 msgstr "Програми AUR"
-
-msgid "Instalado na partição:"
-msgstr "Встановлено на розділ:"
-
-msgid "Tamanho da partição:"
-msgstr "Розмір розділу:"
-
-msgid "Espaço utilizado:"
-msgstr "Використовуваний простір:"
-
-msgid "Espaço livre:"
-msgstr "Вільний простір:"
-
-msgid "Data que o sistema foi instalado:"
-msgstr "Дата установки системи:"
 
 msgid "Pacotes nativos e AUR"
 msgstr "Рідні та AUR пакети"
@@ -237,9 +207,6 @@ msgstr "Не інформований"
 msgid "Atualizar"
 msgstr "оновити"
 
-msgid "Categorias"
-msgstr "Категорії"
-
 msgid "Versão instalada"
 msgstr "Встановлена версія"
 
@@ -258,12 +225,6 @@ msgid ""
 msgstr ""
 "Дана програма знаходиться в формате.deb, який має найкращу інтеграцію з "
 "системою."
-
-msgid "Mais informações"
-msgstr "Більше інформації"
-
-msgid "Voltar"
-msgstr "Повертатися"
 
 msgid "Dependências a instalar"
 msgstr "Залежності для встановлення"
@@ -297,9 +258,6 @@ msgstr "Доступна версія:"
 
 msgid "Repositório:"
 msgstr "Сховище:"
-
-msgid "Cancelar"
-msgstr "Скасувати"
 
 msgid "Instalando"
 msgstr "Встановлення"
@@ -337,9 +295,6 @@ msgstr "Пучки"
 
 msgid "Ativado"
 msgstr "Включено"
-
-msgid "Desativado"
-msgstr "інвалід"
 
 msgid "Atualizações"
 msgstr "оновлення"
@@ -379,6 +334,9 @@ msgstr ""
 "Примусово оновлюйте, використовуйте цей параметр, якщо не вдається оновити "
 "систему, однак при примусовому оновленні деякі програми можуть бути видалені."
 ""
+
+msgid "Repositórios nativos"
+msgstr ""
 
 msgid ""
 "\n"
@@ -461,8 +419,14 @@ msgstr "Пошук програми"
 msgid "Modo Simplificado"
 msgstr "Спрощений режим"
 
+msgid "Nativos"
+msgstr ""
+
 msgid "Início"
 msgstr "Старт"
+
+msgid "Nativos_text"
+msgstr ""
 
 msgid "Reinstalar"
 msgstr "Перевстановити"

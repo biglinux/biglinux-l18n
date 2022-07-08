@@ -91,5 +91,8 @@ msgstr "Endurheimta forritastillingar:"
 msgid "Principal"
 msgstr "Aðal"
 
+msgid "Internet"
+msgstr "Internet"
+
 msgid "Pesquisar Restaurar"
 msgstr "Leita Endurheimta"

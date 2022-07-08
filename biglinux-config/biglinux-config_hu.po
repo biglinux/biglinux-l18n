@@ -93,5 +93,8 @@ msgstr "A programbeállítások visszaállítása:"
 msgid "Principal"
 msgstr "Főoldal"
 
+msgid "Internet"
+msgstr "Internet"
+
 msgid "Pesquisar Restaurar"
 msgstr "Keresés helyreállítása"

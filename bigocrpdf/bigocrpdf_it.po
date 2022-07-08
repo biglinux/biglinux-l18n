@@ -105,8 +105,5 @@ msgstr "Cartella:"
 msgid "OCR para PDF"
 msgstr "OCR per PDF"
 
-msgid "Concluído!"
-msgstr "Fatto!"
-
 msgid "Salvo em: "
 msgstr "Salvato in "

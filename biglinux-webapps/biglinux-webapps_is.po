@@ -80,9 +80,6 @@ msgstr "Bæta"
 msgid "Para adicionar um WebApp, você precisa informar a Url e o Nome."
 msgstr "Til að bæta við WebApp þarftu að slá inn vefslóð og nafn."
 
-msgid "Fechar"
-msgstr "Loka"
-
 msgid "Para detectar o Nome e o Ícone você precisa informar a Url."
 msgstr "Til að greina nafnið og táknið þarftu að slá inn vefslóðina."
 

@@ -30,15 +30,6 @@ msgstr "Big-Store está aberta."
 msgid "Big-Store"
 msgstr "Big-Store"
 
-msgid "Instalar"
-msgstr "Instalar"
-
-msgid "Remover"
-msgstr "Remover"
-
-msgid "Internet"
-msgstr "Internet"
-
 msgid "Navegadores"
 msgstr "Navegadores"
 
@@ -156,12 +147,6 @@ msgstr "Tabuleiro"
 msgid "RPG"
 msgstr "RPG"
 
-msgid "Outros"
-msgstr "Outros"
-
-msgid "Sistema"
-msgstr "Sistema"
-
 msgid "Armazenamento e partições"
 msgstr "Armazenamento e partições"
 
@@ -188,21 +173,6 @@ msgstr "Programas Nativos"
 
 msgid "Programas AUR"
 msgstr "Programas AUR"
-
-msgid "Instalado na partição:"
-msgstr "Instalado na partição:"
-
-msgid "Tamanho da partição:"
-msgstr "Tamanho da partição:"
-
-msgid "Espaço utilizado:"
-msgstr "Espaço utilizado:"
-
-msgid "Espaço livre:"
-msgstr "Espaço livre:"
-
-msgid "Data que o sistema foi instalado:"
-msgstr "Data que o sistema foi instalado:"
 
 msgid "Pacotes nativos e AUR"
 msgstr "Pacotes nativos e AUR"
@@ -237,9 +207,6 @@ msgstr "Não informada"
 msgid "Atualizar"
 msgstr "Atualizar"
 
-msgid "Categorias"
-msgstr "Categorias"
-
 msgid "Versão instalada"
 msgstr "Versão instalada"
 
@@ -258,12 +225,6 @@ msgid ""
 msgstr ""
 "Esse programa está em formato .deb, que possui a melhor integração com o "
 "sistema."
-
-msgid "Mais informações"
-msgstr "Mais informações"
-
-msgid "Voltar"
-msgstr "Voltar"
 
 msgid "Dependências a instalar"
 msgstr "Dependências a instalar"
@@ -297,9 +258,6 @@ msgstr "Versão disponível:"
 
 msgid "Repositório:"
 msgstr "Repositório:"
-
-msgid "Cancelar"
-msgstr "Cancelar"
 
 msgid "Instalando"
 msgstr "Instalando"
@@ -337,9 +295,6 @@ msgstr "Pacotes"
 
 msgid "Ativado"
 msgstr "Ativado"
-
-msgid "Desativado"
-msgstr "Desativado"
 
 msgid "Atualizações"
 msgstr "Atualizações"
@@ -379,6 +334,9 @@ msgstr ""
 "Forçar atualizações, utilize essa opção se não estiver conseguindo atualizar "
 "o sistema, porém, na atualização forçada alguns programas podem ser "
 "removidos."
+
+msgid "Repositórios nativos"
+msgstr ""
 
 msgid ""
 "\n"
@@ -461,8 +419,14 @@ msgstr "Procurar programa"
 msgid "Modo Simplificado"
 msgstr "Modo Simplificado"
 
+msgid "Nativos"
+msgstr ""
+
 msgid "Início"
 msgstr "Início"
+
+msgid "Nativos_text"
+msgstr ""
 
 msgid "Reinstalar"
 msgstr "Reinstalar"

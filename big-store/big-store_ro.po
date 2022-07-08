@@ -30,15 +30,6 @@ msgstr "Big-Store este deschis."
 msgid "Big-Store"
 msgstr "Big-Store"
 
-msgid "Instalar"
-msgstr "Instalați"
-
-msgid "Remover"
-msgstr "Eliminați"
-
-msgid "Internet"
-msgstr "Internet"
-
 msgid "Navegadores"
 msgstr "Browsere"
 
@@ -156,12 +147,6 @@ msgstr "Consiliul de administrație"
 msgid "RPG"
 msgstr "RPG"
 
-msgid "Outros"
-msgstr "Altele"
-
-msgid "Sistema"
-msgstr "Sistem"
-
 msgid "Armazenamento e partições"
 msgstr "Depozitare și partiții"
 
@@ -188,21 +173,6 @@ msgstr "Programe autohtone"
 
 msgid "Programas AUR"
 msgstr "Programe AUR"
-
-msgid "Instalado na partição:"
-msgstr "Instalat pe partiție:"
-
-msgid "Tamanho da partição:"
-msgstr "Dimensiunea partiției:"
-
-msgid "Espaço utilizado:"
-msgstr "Spațiu utilizat:"
-
-msgid "Espaço livre:"
-msgstr "Spațiu liber:"
-
-msgid "Data que o sistema foi instalado:"
-msgstr "Data la care a fost instalat sistemul:"
 
 msgid "Pacotes nativos e AUR"
 msgstr "Pachete native și AUR"
@@ -239,9 +209,6 @@ msgstr "Neinformat"
 msgid "Atualizar"
 msgstr "Actualizare"
 
-msgid "Categorias"
-msgstr "Categorii"
-
 msgid "Versão instalada"
 msgstr "Versiunea instalată"
 
@@ -260,12 +227,6 @@ msgid ""
 msgstr ""
 "Acest program este în format .deb, care are cea mai bună integrare cu "
 "sistemul."
-
-msgid "Mais informações"
-msgstr "Mai multe informații"
-
-msgid "Voltar"
-msgstr "Înapoi"
 
 msgid "Dependências a instalar"
 msgstr "Dependențe de instalat"
@@ -299,9 +260,6 @@ msgstr "Versiune disponibilă:"
 
 msgid "Repositório:"
 msgstr "Depozitar:"
-
-msgid "Cancelar"
-msgstr "Anulează"
 
 msgid "Instalando"
 msgstr "Instalarea"
@@ -339,9 +297,6 @@ msgstr "Pachete"
 
 msgid "Ativado"
 msgstr "Activat"
-
-msgid "Desativado"
-msgstr "Persoane cu handicap"
 
 msgid "Atualizações"
 msgstr "Actualizări"
@@ -381,6 +336,9 @@ msgstr ""
 "Forțați actualizările, utilizați această opțiune dacă nu puteți actualiza "
 "sistemul; cu toate acestea, în cadrul actualizării forțate, este posibil ca "
 "unele programe să fie eliminate."
+
+msgid "Repositórios nativos"
+msgstr ""
 
 msgid ""
 "\n"
@@ -463,8 +421,14 @@ msgstr "Program de căutare"
 msgid "Modo Simplificado"
 msgstr "Modul simplificat"
 
+msgid "Nativos"
+msgstr ""
+
 msgid "Início"
 msgstr "Acasă"
+
+msgid "Nativos_text"
+msgstr ""
 
 msgid "Reinstalar"
 msgstr "Reinstalați"

@@ -92,5 +92,8 @@ msgstr "Ripristina le impostazioni del programma:"
 msgid "Principal"
 msgstr "Principale"
 
+msgid "Internet"
+msgstr "Internet"
+
 msgid "Pesquisar Restaurar"
 msgstr "Cerca Ripristino"

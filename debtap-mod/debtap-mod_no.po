@@ -78,3 +78,6 @@ msgstr "Installer .deb-pakken"
 
 msgid "Convertendo o arquivo, aguarde, pode demorar alguns minutos..."
 msgstr "Konvertere filen, vennligst vent, det kan ta noen minutter..."
+
+msgid "Concluído!"
+msgstr "Fullført!"

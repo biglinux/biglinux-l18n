@@ -80,9 +80,6 @@ msgstr "Aggiungi"
 msgid "Para adicionar um WebApp, você precisa informar a Url e o Nome."
 msgstr "Per aggiungere una WebApp, deve comunicare l'Url e il Nome."
 
-msgid "Fechar"
-msgstr "Chiudere"
-
 msgid "Para detectar o Nome e o Ícone você precisa informar a Url."
 msgstr "Per rilevare il Nome e l'Icona è necessario informare l'Url."
 

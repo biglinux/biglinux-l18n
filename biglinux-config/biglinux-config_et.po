@@ -91,5 +91,8 @@ msgstr "Taastage programmi seaded:"
 msgid "Principal"
 msgstr "Main"
 
+msgid "Internet"
+msgstr "Internet"
+
 msgid "Pesquisar Restaurar"
 msgstr "Otsi taastamine"

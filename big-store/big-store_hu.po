@@ -30,15 +30,6 @@ msgstr "A Big-Store nyitva van."
 msgid "Big-Store"
 msgstr "Big-Store"
 
-msgid "Instalar"
-msgstr "Telepítse a"
-
-msgid "Remover"
-msgstr "Távolítsa el a"
-
-msgid "Internet"
-msgstr "Internet"
-
 msgid "Navegadores"
 msgstr "Böngészők"
 
@@ -156,12 +147,6 @@ msgstr "Igazgatótanács"
 msgid "RPG"
 msgstr "RPG"
 
-msgid "Outros"
-msgstr "Egyéb"
-
-msgid "Sistema"
-msgstr "Rendszer"
-
 msgid "Armazenamento e partições"
 msgstr "Tárolás és válaszfalak"
 
@@ -188,21 +173,6 @@ msgstr "Bennszülött programok"
 
 msgid "Programas AUR"
 msgstr "AUR programok"
-
-msgid "Instalado na partição:"
-msgstr "Telepítve a partícióra:"
-
-msgid "Tamanho da partição:"
-msgstr "Partíció mérete:"
-
-msgid "Espaço utilizado:"
-msgstr "Használt tér:"
-
-msgid "Espaço livre:"
-msgstr "Tiszta tér:"
-
-msgid "Data que o sistema foi instalado:"
-msgstr "A rendszer telepítésének dátuma:"
 
 msgid "Pacotes nativos e AUR"
 msgstr "Natív csomagok és AUR"
@@ -237,9 +207,6 @@ msgstr "Nem tájékoztatták"
 msgid "Atualizar"
 msgstr "Frissítés"
 
-msgid "Categorias"
-msgstr "Kategóriák"
-
 msgid "Versão instalada"
 msgstr "Telepített verzió"
 
@@ -257,12 +224,6 @@ msgid ""
 "sistema."
 msgstr ""
 "Ez a program .deb formátumú, amely a legjobban integrálódik a rendszerbe."
-
-msgid "Mais informações"
-msgstr "További információ"
-
-msgid "Voltar"
-msgstr "Vissza"
 
 msgid "Dependências a instalar"
 msgstr "Telepítendő függőségek"
@@ -296,9 +257,6 @@ msgstr "Elérhető verzió:"
 
 msgid "Repositório:"
 msgstr "Tárhely:"
-
-msgid "Cancelar"
-msgstr "Törölje"
 
 msgid "Instalando"
 msgstr "A  telepítése"
@@ -336,9 +294,6 @@ msgstr "Csomagok"
 
 msgid "Ativado"
 msgstr "Aktivált"
-
-msgid "Desativado"
-msgstr "Mozgáskorlátozottak"
 
 msgid "Atualizações"
 msgstr "Frissítések"
@@ -378,6 +333,9 @@ msgstr ""
 "Kényszerfrissítés, használja ezt a lehetőséget, ha nem tudja frissíteni a "
 "rendszert, azonban a kényszerfrissítés során egyes programok eltávolításra "
 "kerülhetnek."
+
+msgid "Repositórios nativos"
+msgstr ""
 
 msgid ""
 "\n"
@@ -461,8 +419,14 @@ msgstr "Keresés program"
 msgid "Modo Simplificado"
 msgstr "Egyszerűsített mód"
 
+msgid "Nativos"
+msgstr ""
+
 msgid "Início"
 msgstr "Home"
+
+msgid "Nativos_text"
+msgstr ""
 
 msgid "Reinstalar"
 msgstr "Telepítse újra a"

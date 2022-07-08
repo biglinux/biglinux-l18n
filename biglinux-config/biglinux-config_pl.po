@@ -91,5 +91,8 @@ msgstr "Przywrócić ustawienia programu:"
 msgid "Principal"
 msgstr "Główna"
 
+msgid "Internet"
+msgstr "Internet"
+
 msgid "Pesquisar Restaurar"
 msgstr "Szukaj Przywróć"

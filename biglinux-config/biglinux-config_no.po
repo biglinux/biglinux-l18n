@@ -91,5 +91,8 @@ msgstr "Gjenopprett programinnstillinger:"
 msgid "Principal"
 msgstr "Hoved"
 
+msgid "Internet"
+msgstr "Internett"
+
 msgid "Pesquisar Restaurar"
 msgstr "Søk Gjenopprett"

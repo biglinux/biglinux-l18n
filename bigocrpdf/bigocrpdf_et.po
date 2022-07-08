@@ -104,8 +104,5 @@ msgstr "Kaustik:"
 msgid "OCR para PDF"
 msgstr "OCR PDF-i jaoks"
 
-msgid "Concluído!"
-msgstr "Valmis!"
-
 msgid "Salvo em: "
 msgstr "Salvestatud sisse "

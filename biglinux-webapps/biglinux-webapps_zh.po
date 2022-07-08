@@ -80,9 +80,6 @@ msgstr "添加"
 msgid "Para adicionar um WebApp, você precisa informar a Url e o Nome."
 msgstr "要添加 WebApp，您需要提供 Url 和 Name。"
 
-msgid "Fechar"
-msgstr "关闭"
-
 msgid "Para detectar o Nome e o Ícone você precisa informar a Url."
 msgstr "要檢測名稱和圖標，您需要通知 URL。"
 

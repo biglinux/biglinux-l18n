@@ -65,6 +65,9 @@ msgstr ""
 "*Většina serverů vyžaduje pro zobrazení seznamu dostupných sdílených položek "
 "přihlašovací jméno a heslo, pro anonymní vyhledávání ponechte prázdné pole."
 
+msgid "Cancelar"
+msgstr "Zrušit"
+
 msgid "Próximo"
 msgstr "Další"
 
@@ -76,3 +79,9 @@ msgstr "Vyhledávání prováděné s uživatelem:"
 
 msgid "na rede:"
 msgstr "v síti:"
+
+msgid "Voltar"
+msgstr "Zpět"
+
+msgid "Fechar"
+msgstr "Zavřít"

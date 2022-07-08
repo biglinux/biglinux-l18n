@@ -78,3 +78,6 @@ msgstr "Setja upp.deb pakka"
 
 msgid "Convertendo o arquivo, aguarde, pode demorar alguns minutos..."
 msgstr "Umbreyta skrá, vinsamlegast bíddu, það getur tekið nokkrar mínútur..."
+
+msgid "Concluído!"
+msgstr "Lokið!"

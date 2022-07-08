@@ -102,8 +102,5 @@ msgstr "תיקייה:"
 msgid "OCR para PDF"
 msgstr "זיהוי תווים אופטי ל- PDF"
 
-msgid "Concluído!"
-msgstr "הושלם!"
-
 msgid "Salvo em: "
 msgstr "נשמר ב: "

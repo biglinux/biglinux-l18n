@@ -80,9 +80,6 @@ msgstr "הוסף"
 msgid "Para adicionar um WebApp, você precisa informar a Url e o Nome."
 msgstr "כדי להוסיף WebApp, עליך להזין את כתובת האתר ואת השם."
 
-msgid "Fechar"
-msgstr "סגור"
-
 msgid "Para detectar o Nome e o Ícone você precisa informar a Url."
 msgstr "כדי לזהות את השם והסמל עליך להזין את כתובת האתר."
 

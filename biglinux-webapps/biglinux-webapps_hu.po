@@ -80,9 +80,6 @@ msgstr "Add"
 msgid "Para adicionar um WebApp, você precisa informar a Url e o Nome."
 msgstr "Egy Webalkalmazás hozzáadásához meg kell adnia az Url és a Név címet."
 
-msgid "Fechar"
-msgstr "Zárja be a"
-
 msgid "Para detectar o Nome e o Ícone você precisa informar a Url."
 msgstr "A név és az ikon észleléséhez tájékoztatnia kell az Url-t."
 

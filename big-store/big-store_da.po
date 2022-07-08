@@ -30,15 +30,6 @@ msgstr "Big-Store está aberta."
 msgid "Big-Store"
 msgstr "Big-Store"
 
-msgid "Instalar"
-msgstr "Installer"
-
-msgid "Remover"
-msgstr "Fjern"
-
-msgid "Internet"
-msgstr "Internet"
-
 msgid "Navegadores"
 msgstr "Browsere"
 
@@ -156,12 +147,6 @@ msgstr "Bestyrelsen"
 msgid "RPG"
 msgstr "RPG"
 
-msgid "Outros"
-msgstr "Andre"
-
-msgid "Sistema"
-msgstr "System"
-
 msgid "Armazenamento e partições"
 msgstr "Opbevaring og skillevægge"
 
@@ -188,21 +173,6 @@ msgstr "Indfødte programmer"
 
 msgid "Programas AUR"
 msgstr "AUR-programmer"
-
-msgid "Instalado na partição:"
-msgstr "Installeret på partitionen:"
-
-msgid "Tamanho da partição:"
-msgstr "Partitionsstørrelse:"
-
-msgid "Espaço utilizado:"
-msgstr "Anvendt plads:"
-
-msgid "Espaço livre:"
-msgstr "Rydde plads:"
-
-msgid "Data que o sistema foi instalado:"
-msgstr "Dato, hvor systemet blev installeret:"
 
 msgid "Pacotes nativos e AUR"
 msgstr "Indfødte pakker og AUR"
@@ -237,9 +207,6 @@ msgstr "Ikke informeret"
 msgid "Atualizar"
 msgstr "Opdatering"
 
-msgid "Categorias"
-msgstr "Kategorier"
-
 msgid "Versão instalada"
 msgstr "Installerede version"
 
@@ -257,12 +224,6 @@ msgid ""
 "sistema."
 msgstr ""
 "Dette program er i .deb-format, som har den bedste integration med systemet."
-
-msgid "Mais informações"
-msgstr "Flere oplysninger"
-
-msgid "Voltar"
-msgstr "Tilbage"
 
 msgid "Dependências a instalar"
 msgstr "Afhængigheder, der skal installeres"
@@ -296,9 +257,6 @@ msgstr "Tilgængelig version:"
 
 msgid "Repositório:"
 msgstr "Opbevaringssted:"
-
-msgid "Cancelar"
-msgstr "Annuller"
 
 msgid "Instalando"
 msgstr "Installation af"
@@ -337,9 +295,6 @@ msgstr "Pakker"
 msgid "Ativado"
 msgstr "Aktiveret"
 
-msgid "Desativado"
-msgstr "Handicappede"
-
 msgid "Atualizações"
 msgstr "Opdateringer"
 
@@ -377,6 +332,9 @@ msgid ""
 msgstr ""
 "Tvinge opdateringer, brug denne indstilling, hvis du ikke kan opdatere "
 "systemet, men ved den tvungne opdatering kan nogle programmer blive fjernet."
+
+msgid "Repositórios nativos"
+msgstr ""
 
 msgid ""
 "\n"
@@ -459,8 +417,14 @@ msgstr "Søg program"
 msgid "Modo Simplificado"
 msgstr "Modo Simplificado"
 
+msgid "Nativos"
+msgstr ""
+
 msgid "Início"
 msgstr "Hjem"
+
+msgid "Nativos_text"
+msgstr ""
 
 msgid "Reinstalar"
 msgstr "Geninstaller"

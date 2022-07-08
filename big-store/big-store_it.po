@@ -30,15 +30,6 @@ msgstr "Il Big-Store è aperto."
 msgid "Big-Store"
 msgstr "Big-Store"
 
-msgid "Instalar"
-msgstr "Installare"
-
-msgid "Remover"
-msgstr "Rimuovere"
-
-msgid "Internet"
-msgstr "Internet"
-
 msgid "Navegadores"
 msgstr "Browser"
 
@@ -156,12 +147,6 @@ msgstr "Consiglio di amministrazione"
 msgid "RPG"
 msgstr "GIOCO DI RUOLO"
 
-msgid "Outros"
-msgstr "Altro"
-
-msgid "Sistema"
-msgstr "Sistema"
-
 msgid "Armazenamento e partições"
 msgstr "Archiviazione e divisori"
 
@@ -188,21 +173,6 @@ msgstr "Programmi per i nativi"
 
 msgid "Programas AUR"
 msgstr "Programmi AUR"
-
-msgid "Instalado na partição:"
-msgstr "Installato sulla partizione:"
-
-msgid "Tamanho da partição:"
-msgstr "Dimensione della partizione:"
-
-msgid "Espaço utilizado:"
-msgstr "Spazio utilizzato:"
-
-msgid "Espaço livre:"
-msgstr "Spazio libero:"
-
-msgid "Data que o sistema foi instalado:"
-msgstr "Data di installazione del sistema:"
 
 msgid "Pacotes nativos e AUR"
 msgstr "Pacchetti nativi e AUR"
@@ -237,9 +207,6 @@ msgstr "Non informato"
 msgid "Atualizar"
 msgstr "Aggiornamento"
 
-msgid "Categorias"
-msgstr "Categorie"
-
 msgid "Versão instalada"
 msgstr "Versione installata"
 
@@ -258,12 +225,6 @@ msgid ""
 msgstr ""
 "Questo programma è in formato .deb, che ha la migliore integrazione con il "
 "sistema."
-
-msgid "Mais informações"
-msgstr "Maggiori informazioni"
-
-msgid "Voltar"
-msgstr "Indietro"
 
 msgid "Dependências a instalar"
 msgstr "Dipendenze da installare"
@@ -297,9 +258,6 @@ msgstr "Versione disponibile:"
 
 msgid "Repositório:"
 msgstr "Repository:"
-
-msgid "Cancelar"
-msgstr "Annullamento"
 
 msgid "Instalando"
 msgstr "Installazione"
@@ -337,9 +295,6 @@ msgstr "Pacchetti"
 
 msgid "Ativado"
 msgstr "Attivato"
-
-msgid "Desativado"
-msgstr "Disabilitato"
 
 msgid "Atualizações"
 msgstr "Aggiornamenti"
@@ -379,6 +334,9 @@ msgstr ""
 "Aggiornamenti forzati, utilizzi questa opzione se non riesce ad aggiornare "
 "il sistema; tuttavia, nell'aggiornamento forzato alcuni programmi potrebbero "
 "essere rimossi."
+
+msgid "Repositórios nativos"
+msgstr ""
 
 msgid ""
 "\n"
@@ -461,8 +419,14 @@ msgstr "Programma di ricerca"
 msgid "Modo Simplificado"
 msgstr "Modalità semplificata"
 
+msgid "Nativos"
+msgstr ""
+
 msgid "Início"
 msgstr "Casa"
+
+msgid "Nativos_text"
+msgstr ""
 
 msgid "Reinstalar"
 msgstr "Reinstallare"

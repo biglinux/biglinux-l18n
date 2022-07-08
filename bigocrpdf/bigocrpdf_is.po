@@ -103,8 +103,5 @@ msgstr "Mappa:"
 msgid "OCR para PDF"
 msgstr "OCR til PDF"
 
-msgid "Concluído!"
-msgstr "Lokið!"
-
 msgid "Salvo em: "
 msgstr "Vistað í: "

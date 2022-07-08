@@ -30,15 +30,6 @@ msgstr "Big-Store is open."
 msgid "Big-Store"
 msgstr "Big-Store"
 
-msgid "Instalar"
-msgstr "Install"
-
-msgid "Remover"
-msgstr "Remove"
-
-msgid "Internet"
-msgstr "Internet"
-
 msgid "Navegadores"
 msgstr "Browsers"
 
@@ -156,12 +147,6 @@ msgstr "Board"
 msgid "RPG"
 msgstr "RPG"
 
-msgid "Outros"
-msgstr "Other"
-
-msgid "Sistema"
-msgstr "System"
-
 msgid "Armazenamento e partições"
 msgstr "Storage and partitions"
 
@@ -188,21 +173,6 @@ msgstr "Native Programs"
 
 msgid "Programas AUR"
 msgstr "AUR Programs"
-
-msgid "Instalado na partição:"
-msgstr "Installed on the partition:"
-
-msgid "Tamanho da partição:"
-msgstr "Partition size:"
-
-msgid "Espaço utilizado:"
-msgstr "Space used:"
-
-msgid "Espaço livre:"
-msgstr "Clear space:"
-
-msgid "Data que o sistema foi instalado:"
-msgstr "Date the system was installed:"
 
 msgid "Pacotes nativos e AUR"
 msgstr "Native packages and AUR"
@@ -237,9 +207,6 @@ msgstr "Not informed"
 msgid "Atualizar"
 msgstr "Update"
 
-msgid "Categorias"
-msgstr "Categories"
-
 msgid "Versão instalada"
 msgstr "Installed version"
 
@@ -258,12 +225,6 @@ msgid ""
 msgstr ""
 "This program is in .deb format, which has the best integration with the "
 "system."
-
-msgid "Mais informações"
-msgstr "More information"
-
-msgid "Voltar"
-msgstr "Back"
 
 msgid "Dependências a instalar"
 msgstr "Dependencies to install"
@@ -297,9 +258,6 @@ msgstr "Version available:"
 
 msgid "Repositório:"
 msgstr "Repository:"
-
-msgid "Cancelar"
-msgstr "Cancel"
 
 msgid "Instalando"
 msgstr "Installing"
@@ -336,9 +294,6 @@ msgstr "Packages"
 
 msgid "Ativado"
 msgstr "Activated"
-
-msgid "Desativado"
-msgstr "Disabled"
 
 msgid "Atualizações"
 msgstr "Updates"
@@ -377,6 +332,9 @@ msgid ""
 msgstr ""
 "Force updates, use this option if you are unable to update the system, "
 "however, in the forced update some programs may be removed."
+
+msgid "Repositórios nativos"
+msgstr "Native Repositories"
 
 msgid ""
 "\n"
@@ -459,8 +417,14 @@ msgstr "Program Search"
 msgid "Modo Simplificado"
 msgstr "Simplified Mode"
 
+msgid "Nativos"
+msgstr "Natives"
+
 msgid "Início"
 msgstr "Home"
+
+msgid "Nativos_text"
+msgstr "Native_text"
 
 msgid "Reinstalar"
 msgstr "Reinstall"

@@ -63,6 +63,9 @@ msgstr ""
 "* רוב השרתים זקוקים לשם התחברות וסיסמה כדי לרשום מניות זמינות, השאר ריק כדי "
 "לבצע חיפוש אנונימי."
 
+msgid "Cancelar"
+msgstr "ביטול"
+
 msgid "Próximo"
 msgstr "הקרוב"
 
@@ -74,3 +77,9 @@ msgstr "חיפוש שבוצע עם המשתמש:"
 
 msgid "na rede:"
 msgstr "ברשת:"
+
+msgid "Voltar"
+msgstr "חזור אחורה"
+
+msgid "Fechar"
+msgstr "סגור"

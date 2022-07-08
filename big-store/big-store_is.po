@@ -30,15 +30,6 @@ msgstr "Big-Store er opið."
 msgid "Big-Store"
 msgstr "Big-Store"
 
-msgid "Instalar"
-msgstr "Setja upp"
-
-msgid "Remover"
-msgstr "fjarlægja"
-
-msgid "Internet"
-msgstr "Internet"
-
 msgid "Navegadores"
 msgstr "siglingafólk"
 
@@ -156,12 +147,6 @@ msgstr "Bakki"
 msgid "RPG"
 msgstr "RPG"
 
-msgid "Outros"
-msgstr "Annað"
-
-msgid "Sistema"
-msgstr "Kerfi"
-
 msgid "Armazenamento e partições"
 msgstr "Geymsla og skipting"
 
@@ -188,21 +173,6 @@ msgstr "Innfædd forrit"
 
 msgid "Programas AUR"
 msgstr "AUR forrit"
-
-msgid "Instalado na partição:"
-msgstr "Uppsett á skiptingunni:"
-
-msgid "Tamanho da partição:"
-msgstr "Skipting stærð:"
-
-msgid "Espaço utilizado:"
-msgstr "Rými notað:"
-
-msgid "Espaço livre:"
-msgstr "Laust pláss:"
-
-msgid "Data que o sistema foi instalado:"
-msgstr "Dagsetning kerfið var sett upp:"
 
 msgid "Pacotes nativos e AUR"
 msgstr "Innfæddur og AUR pakkar"
@@ -237,9 +207,6 @@ msgstr "Ekki upplýst"
 msgid "Atualizar"
 msgstr "uppfæra"
 
-msgid "Categorias"
-msgstr "Flokkar"
-
 msgid "Versão instalada"
 msgstr "Uppsett útgáfa"
 
@@ -256,12 +223,6 @@ msgid ""
 "Esse programa está em formato .deb, que possui a melhor integração com o "
 "sistema."
 msgstr "Þetta forrit er í.deb sniði, sem hefur bestu samþættingu við kerfið."
-
-msgid "Mais informações"
-msgstr "Nánari upplýsingar"
-
-msgid "Voltar"
-msgstr "Fara aftur"
 
 msgid "Dependências a instalar"
 msgstr "Ósjálfstæði til að setja upp"
@@ -295,9 +256,6 @@ msgstr "Laus útgáfa:"
 
 msgid "Repositório:"
 msgstr "Geymsla:"
-
-msgid "Cancelar"
-msgstr "Hætta"
 
 msgid "Instalando"
 msgstr "Uppsetning"
@@ -336,9 +294,6 @@ msgstr "Knippi"
 msgid "Ativado"
 msgstr "Virkt"
 
-msgid "Desativado"
-msgstr "fatlaður"
-
 msgid "Atualizações"
 msgstr "uppfærsla"
 
@@ -376,6 +331,9 @@ msgid ""
 msgstr ""
 "Þvingaðu uppfærslur, notaðu þennan valkost ef þú getur ekki uppfært kerfið, "
 "en í þvingaðri uppfærslu geta sum forrit verið fjarlægð."
+
+msgid "Repositórios nativos"
+msgstr ""
 
 msgid ""
 "\n"
@@ -459,8 +417,14 @@ msgstr "Leita að forriti"
 msgid "Modo Simplificado"
 msgstr "Einfölduð Mode"
 
+msgid "Nativos"
+msgstr ""
+
 msgid "Início"
 msgstr "Byrja"
+
+msgid "Nativos_text"
+msgstr ""
 
 msgid "Reinstalar"
 msgstr "Setja aftur"

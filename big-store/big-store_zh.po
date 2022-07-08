@@ -30,15 +30,6 @@ msgstr "大卖场开张了。"
 msgid "Big-Store"
 msgstr "BigStore"
 
-msgid "Instalar"
-msgstr "安装"
-
-msgid "Remover"
-msgstr "移除"
-
-msgid "Internet"
-msgstr "互联网"
-
 msgid "Navegadores"
 msgstr "浏览器"
 
@@ -156,12 +147,6 @@ msgstr "董事会"
 msgid "RPG"
 msgstr "角色扮演"
 
-msgid "Outros"
-msgstr "其他"
-
-msgid "Sistema"
-msgstr "系统"
-
 msgid "Armazenamento e partições"
 msgstr "储存和隔断"
 
@@ -188,21 +173,6 @@ msgstr "本地方案"
 
 msgid "Programas AUR"
 msgstr "AUR方案"
-
-msgid "Instalado na partição:"
-msgstr "安装在分区上。"
-
-msgid "Tamanho da partição:"
-msgstr "分区大小。"
-
-msgid "Espaço utilizado:"
-msgstr "使用的空间。"
-
-msgid "Espaço livre:"
-msgstr "清理空间。"
-
-msgid "Data que o sistema foi instalado:"
-msgstr "系统安装的日期。"
 
 msgid "Pacotes nativos e AUR"
 msgstr "原生包和AUR"
@@ -237,9 +207,6 @@ msgstr "未被告知"
 msgid "Atualizar"
 msgstr "更新"
 
-msgid "Categorias"
-msgstr "类别"
-
 msgid "Versão instalada"
 msgstr "安装的版本"
 
@@ -256,12 +223,6 @@ msgid ""
 "Esse programa está em formato .deb, que possui a melhor integração com o "
 "sistema."
 msgstr "这个程序是.deb格式，与系统有最好的整合。"
-
-msgid "Mais informações"
-msgstr "更多信息"
-
-msgid "Voltar"
-msgstr "溯源"
 
 msgid "Dependências a instalar"
 msgstr "需要安装的依赖性"
@@ -295,9 +256,6 @@ msgstr "可用的版本。"
 
 msgid "Repositório:"
 msgstr "存储库。"
-
-msgid "Cancelar"
-msgstr "取消"
 
 msgid "Instalando"
 msgstr "安装"
@@ -334,9 +292,6 @@ msgstr "节目包"
 msgid "Ativado"
 msgstr "已激活"
 
-msgid "Desativado"
-msgstr "失能"
-
 msgid "Atualizações"
 msgstr "更新"
 
@@ -369,6 +324,9 @@ msgid ""
 "o sistema, porém, na atualização forçada alguns programas podem ser "
 "removidos."
 msgstr "强制更新，如果你无法更新系统，就使用这个选项，然而，在强制更新中，一些程序可能被删除。"
+
+msgid "Repositórios nativos"
+msgstr ""
 
 msgid ""
 "\n"
@@ -451,8 +409,14 @@ msgstr "搜索程序"
 msgid "Modo Simplificado"
 msgstr "简化模式"
 
+msgid "Nativos"
+msgstr ""
+
 msgid "Início"
 msgstr "首页"
+
+msgid "Nativos_text"
+msgstr ""
 
 msgid "Reinstalar"
 msgstr "重新安裝"

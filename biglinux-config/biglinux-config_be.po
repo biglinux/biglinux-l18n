@@ -91,5 +91,8 @@ msgstr "Аднавіць налады праграмы:"
 msgid "Principal"
 msgstr "Галоўны"
 
+msgid "Internet"
+msgstr "Інтэрнэт"
+
 msgid "Pesquisar Restaurar"
 msgstr "Пошук Аднаўленне"

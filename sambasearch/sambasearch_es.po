@@ -67,6 +67,9 @@ msgstr ""
 "contraseña para listar las acciones disponibles, déjelo en blanco para "
 "realizar una búsqueda anónima."
 
+msgid "Cancelar"
+msgstr "Cancelar"
+
 msgid "Próximo"
 msgstr "Siguiente"
 
@@ -78,3 +81,9 @@ msgstr "Búsqueda realizada con el usuario:"
 
 msgid "na rede:"
 msgstr "en la red:"
+
+msgid "Voltar"
+msgstr "Volver"
+
+msgid "Fechar"
+msgstr "Cerrar"

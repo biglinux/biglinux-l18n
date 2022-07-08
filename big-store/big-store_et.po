@@ -30,15 +30,6 @@ msgstr "Big-Store on avatud."
 msgid "Big-Store"
 msgstr "Big-Store"
 
-msgid "Instalar"
-msgstr "Paigaldage"
-
-msgid "Remover"
-msgstr "Eemaldage"
-
-msgid "Internet"
-msgstr "Internet"
-
 msgid "Navegadores"
 msgstr "Brauserid"
 
@@ -156,12 +147,6 @@ msgstr "Juhatus"
 msgid "RPG"
 msgstr "RPG"
 
-msgid "Outros"
-msgstr "Muud"
-
-msgid "Sistema"
-msgstr "Süsteem"
-
 msgid "Armazenamento e partições"
 msgstr "Ladustamine ja vaheseinad"
 
@@ -188,21 +173,6 @@ msgstr "Emakeelsed programmid"
 
 msgid "Programas AUR"
 msgstr "AUR programmid"
-
-msgid "Instalado na partição:"
-msgstr "Paigaldatud partitsioonile:"
-
-msgid "Tamanho da partição:"
-msgstr "Jaotise suurus:"
-
-msgid "Espaço utilizado:"
-msgstr "Kasutatud ruum:"
-
-msgid "Espaço livre:"
-msgstr "Vaba ruum:"
-
-msgid "Data que o sistema foi instalado:"
-msgstr "Süsteemi paigaldamise kuupäev:"
 
 msgid "Pacotes nativos e AUR"
 msgstr "Emakeelsed paketid ja AUR"
@@ -237,9 +207,6 @@ msgstr "Ei ole teavitatud"
 msgid "Atualizar"
 msgstr "Ajakohastamine"
 
-msgid "Categorias"
-msgstr "Kategooriad"
-
 msgid "Versão instalada"
 msgstr "Installeeritud versioon"
 
@@ -258,12 +225,6 @@ msgid ""
 msgstr ""
 "See programm on .deb formaadis, mis on kõige paremini süsteemiga "
 "integreeritav."
-
-msgid "Mais informações"
-msgstr "Lisateave"
-
-msgid "Voltar"
-msgstr "Tagasi"
 
 msgid "Dependências a instalar"
 msgstr "Paigaldatavad sõltuvused"
@@ -297,9 +258,6 @@ msgstr "Saadaval versioon:"
 
 msgid "Repositório:"
 msgstr "Hoiukoht:"
-
-msgid "Cancelar"
-msgstr "Tühista"
 
 msgid "Instalando"
 msgstr "Paigaldamine"
@@ -338,9 +296,6 @@ msgstr "Pakendid"
 msgid "Ativado"
 msgstr "Aktiveeritud"
 
-msgid "Desativado"
-msgstr "Puudega inimesed"
-
 msgid "Atualizações"
 msgstr "Uuendused"
 
@@ -378,6 +333,9 @@ msgid ""
 msgstr ""
 "Force updates, kasutage seda valikut, kui te ei saa süsteemi uuendada, kuid "
 "sunniviisilise uuendamise korral võidakse mõned programmid eemaldada."
+
+msgid "Repositórios nativos"
+msgstr ""
 
 msgid ""
 "\n"
@@ -460,8 +418,14 @@ msgstr "Otsi programmi"
 msgid "Modo Simplificado"
 msgstr "Lihtsustatud režiim"
 
+msgid "Nativos"
+msgstr ""
+
 msgid "Início"
 msgstr "Kodu"
+
+msgid "Nativos_text"
+msgstr ""
 
 msgid "Reinstalar"
 msgstr "Installige uuesti"

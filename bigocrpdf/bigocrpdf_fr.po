@@ -105,8 +105,5 @@ msgstr "Dossier:"
 msgid "OCR para PDF"
 msgstr "OCR pour PDF"
 
-msgid "Concluído!"
-msgstr "C'est fait !"
-
 msgid "Salvo em: "
 msgstr "Enregistré dans "
