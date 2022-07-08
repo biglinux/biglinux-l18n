@@ -32,12 +32,6 @@ msgstr "This driver is proprietary."
 msgid "Este driver parece compatível com este computador."
 msgstr "This driver seems to be compatible with this computer."
 
-msgid "Remover"
-msgstr "Remove"
-
-msgid "Instalar"
-msgstr "Install"
-
 msgid ""
 "Já existe outro driver nVidia instalado, para instalar este driver, remova "
 "primeiro o driver instalado."
@@ -183,9 +177,6 @@ msgstr "Temperature"
 msgid "Áudio"
 msgstr "Audio"
 
-msgid "Mais informações"
-msgstr "More information"
-
 msgid "Pesquisar"
 msgstr "Search"
 
@@ -197,21 +188,6 @@ msgstr "RAM memory:"
 
 msgid "Vídeo:"
 msgstr "Video:"
-
-msgid "Instalado na partição:"
-msgstr "Installed on the partition:"
-
-msgid "Tamanho da partição:"
-msgstr "Partition size:"
-
-msgid "Espaço utilizado:"
-msgstr "Space used:"
-
-msgid "Espaço livre:"
-msgstr "Clear space:"
-
-msgid "Data que o sistema foi instalado:"
-msgstr "Date the system was installed:"
 
 msgid "Kernel em uso:"
 msgstr "Kernel in use:"

@@ -66,9 +66,6 @@ msgstr ""
 "compartilhamentos disponíveis, deixe em branco para efetuar uma busca "
 "anônima."
 
-msgid "Cancelar"
-msgstr "Cancelar"
-
 msgid "Próximo"
 msgstr "Próximo"
 
@@ -80,6 +77,3 @@ msgstr "Procura efetuada com o usuário:"
 
 msgid "na rede:"
 msgstr "na rede:"
-
-msgid "Voltar"
-msgstr "Voltar"

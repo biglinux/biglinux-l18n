@@ -99,15 +99,6 @@ msgstr "Found icons"
 msgid "Selecione o ícone preferido:"
 msgstr "Select your preferred icon:"
 
-msgid "Escritório"
-msgstr "Office"
-
-msgid "Gráficos"
-msgstr "Graphics"
-
-msgid "Jogos"
-msgstr "Games"
-
 msgid "Tem certeza que deseja remover este WebApp?"
 msgstr "Are you sure you want to remove this WebApp?"
 
