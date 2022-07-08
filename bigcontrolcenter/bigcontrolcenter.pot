@@ -7,7 +7,7 @@
 msgid   ""
 msgstr  "Project-Id-Version: bigcontrolcenter\n"
         "Report-Msgid-Bugs-To: \n"
-        "POT-Creation-Date: 2022-06-23 02:36-0300\n"
+        "POT-Creation-Date: 2022-07-08 12:29-0300\n"
         "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
         "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
         "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -93,6 +93,9 @@ msgid   "Temas, Desktop e Ajustes"
 msgstr  ""
 
 msgid   "Escolha seu Avatar"
+msgstr  ""
+
+msgid   "Pacotes de Idioma"
 msgstr  ""
 
 msgid   "Escolha seu navegador padrão"
@@ -339,9 +342,6 @@ msgstr  ""
 msgid   "Acesse o terminal de comandos."
 msgstr  ""
 
-msgid   "Gerenciar senhas salvas"
-msgstr  ""
-
 msgid   "Som e microfone"
 msgstr  ""
 
@@ -362,6 +362,24 @@ msgid   "Informações de armazenamento (SMART)"
 msgstr  ""
 
 msgid   "Gerenciar serviços (Systemd)"
+msgstr  ""
+
+msgid   "Configurar o AppimageLauncher"
+msgstr  ""
+
+msgid   "Escolher o comportamento dos programas disponibilizados em .appimage"
+msgstr  ""
+
+msgid   "Controle o brilho e as cores"
+msgstr  ""
+
+msgid   "Brilho e cor"
+msgstr  ""
+
+msgid   "Equalizador (DSP)"
+msgstr  ""
+
+msgid   "Gerenciador de senhas"
 msgstr  ""
 
 msgid   "As configurações da tela foram resetadas."

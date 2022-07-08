@@ -7,7 +7,7 @@
 msgid   ""
 msgstr  "Project-Id-Version: biglinux-driver-manager\n"
         "Report-Msgid-Bugs-To: \n"
-        "POT-Creation-Date: 2022-06-23 02:36-0300\n"
+        "POT-Creation-Date: 2022-07-08 12:29-0300\n"
         "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
         "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
         "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -147,14 +147,6 @@ msgstr  ""
 msgid   "Ocorreu um erro e o driver não pode ser aplicado."
 msgstr  ""
 
-msgid   "Digite sua senha para gerar um relatório removendo dados sensíveis, "
-        "por exemplo, endereço de IP, ou cancele para utilizar as informações "
-        "da tela anterior."
-msgstr  ""
-
-msgid   "Digite sua senha para gerar um relatório mais completo."
-msgstr  ""
-
 msgid   "Enviando, aguarde..."
 msgstr  ""
 
@@ -289,4 +281,12 @@ msgid   "ID"
 msgstr  ""
 
 msgid   "Info"
+msgstr  ""
+
+msgid   "Digite sua senha para gerar um relatório removendo dados sensíveis, "
+        "por exemplo, endereço de IP, ou cancele para utilizar as informações "
+        "da tela anterior."
+msgstr  ""
+
+msgid   "Digite sua senha para gerar um relatório mais completo."
 msgstr  ""
