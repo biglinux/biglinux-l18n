@@ -99,11 +99,14 @@ msgid ""
 msgstr ""
 "Teljes konfigurációkat kínálunk, amelyek közül nagyon egyszerűen választhat."
 
+msgid "Temas, Desktop e Ajustes"
+msgstr "Témák, Asztal és beállítások"
+
 msgid "Escolha seu Avatar"
 msgstr "Válassza ki az avatárját"
 
 msgid "Pacotes de Idioma"
-msgstr ""
+msgstr "Nyelvi csomagok"
 
 msgid "Escolha seu navegador padrão"
 msgstr "Válassza ki az alapértelmezett böngészőt"
@@ -158,6 +161,9 @@ msgstr "Zajcsökkentő"
 
 msgid "Configurar a voz do sistema (TTS)"
 msgstr "Rendszerhang (TTS) beállítása"
+
+msgid "OCR para PDF"
+msgstr "OCR a PDF-hez"
 
 msgid "Doação e Redes sociais"
 msgstr "Adományozás és szociális hálózatok"
@@ -410,25 +416,25 @@ msgid "Informações de armazenamento (SMART)"
 msgstr "Tárolási információk (SMART)"
 
 msgid "Gerenciar serviços (Systemd)"
-msgstr ""
+msgstr "Szolgáltatások kezelése (Systemd)"
 
 msgid "Configurar o AppimageLauncher"
-msgstr ""
+msgstr "Az AppimageLauncher konfigurálása"
 
 msgid "Escolher o comportamento dos programas disponibilizados em .appimage"
-msgstr ""
+msgstr "Válassza ki a .appimage-ben elérhető programok viselkedését"
 
 msgid "Controle o brilho e as cores"
-msgstr ""
+msgstr "A fényerő és a színek szabályozása"
 
 msgid "Brilho e cor"
-msgstr ""
+msgstr "Fény és szín"
 
 msgid "Equalizador (DSP)"
-msgstr ""
+msgstr "Egyenlítő (DSP)"
 
 msgid "Gerenciador de senhas"
-msgstr ""
+msgstr "Jelszókezelő"
 
 msgid "As configurações da tela foram resetadas."
 msgstr "A képernyőbeállítások visszaállítása megtörtént."
@@ -442,9 +448,6 @@ msgstr "Kategóriák"
 msgid "Principais"
 msgstr "Főoldal"
 
-msgid "Sistema"
-msgstr "Rendszer"
-
 msgid "Aparência"
 msgstr "Megjelenés"
 
@@ -456,9 +459,6 @@ msgstr "Testreszabás"
 
 msgid "Telefone"
 msgstr "Telefon"
-
-msgid "Multimídia"
-msgstr "Multimédia"
 
 msgid "Rede e Internet"
 msgstr "Hálózat és internet"

@@ -32,59 +32,56 @@ msgstr ""
 "また、ファイルマネージャーを使用して、PDFファイルを右クリックし、'Open with'を選択し、OCRオプションを選択することができます。"
 
 msgid "Normal"
-msgstr ""
+msgstr "通常"
 
 msgid "Economico"
-msgstr ""
+msgstr "経済的"
 
 msgid "Mais econômico"
-msgstr ""
+msgstr "より経済的に"
 
 msgid "Alinhar"
-msgstr ""
+msgstr "整列"
 
 msgid "Auto rotacionar"
-msgstr ""
+msgstr "オートローテーション"
 
 msgid "Alinhar e auto rotacionar"
-msgstr ""
+msgstr "アライメントとオートローテーション"
 
 msgid "Não alterar"
-msgstr ""
+msgstr "変更しないでください"
 
 msgid "Espanhol"
-msgstr ""
+msgstr "スパニッシュ"
 
 msgid "Inglês"
-msgstr ""
+msgstr "イングリッシュ"
 
 msgid "Português"
-msgstr ""
+msgstr "ポルトガル語"
 
 msgid ""
 "Adicionar OCR no PDF digitalizado permitindo seleção de textos e busca:"
 msgstr "スキャンしたPDFにOCRを付加し、テキストの選択と検索を可能にします。"
 
 msgid "Quantidade de arquivos:"
-msgstr ""
+msgstr "ファイル数です。"
 
 msgid "Páginas:"
-msgstr ""
+msgstr "ページです。"
 
 msgid "Idioma do PDF:"
-msgstr ""
+msgstr "PDF言語です。"
 
 msgid "Qualidade do PDF:"
-msgstr ""
+msgstr "PDF品質です。"
 
 msgid "Alinhamento:"
-msgstr ""
-
-msgid "OCR para PDF"
-msgstr "PDF用OCR"
+msgstr "アライメント"
 
 msgid "Concluído!"
 msgstr "完了！"
 
 msgid "Salvo em: "
-msgstr ""
+msgstr "で保存されます。 "

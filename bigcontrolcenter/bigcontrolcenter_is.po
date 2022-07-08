@@ -98,11 +98,14 @@ msgid ""
 "extremamente simples."
 msgstr "Heill stillingar eru í boði fyrir þig að velja á afar einfaldan hátt."
 
+msgid "Temas, Desktop e Ajustes"
+msgstr "Þemu, skrifborð og leiðréttingar"
+
 msgid "Escolha seu Avatar"
 msgstr "Veldu Avatar þinn"
 
 msgid "Pacotes de Idioma"
-msgstr ""
+msgstr "Tungumál Bakpoki"
 
 msgid "Escolha seu navegador padrão"
 msgstr "Veldu sjálfgefna vafrann þinn"
@@ -155,6 +158,9 @@ msgstr "Hávaði rörtengi"
 
 msgid "Configurar a voz do sistema (TTS)"
 msgstr "Setja upp kerfi rödd (TTS)"
+
+msgid "OCR para PDF"
+msgstr "OCR til PDF"
 
 msgid "Doação e Redes sociais"
 msgstr "Framlag og félagsleg net"
@@ -402,25 +408,25 @@ msgid "Informações de armazenamento (SMART)"
 msgstr "Upplýsingar um geymslu (SMART)"
 
 msgid "Gerenciar serviços (Systemd)"
-msgstr ""
+msgstr "Stjórna þjónustu (Systemd)"
 
 msgid "Configurar o AppimageLauncher"
-msgstr ""
+msgstr "Stilla ImageLauncher forritið"
 
 msgid "Escolher o comportamento dos programas disponibilizados em .appimage"
-msgstr ""
+msgstr "Veldu hegðun forritanna sem eru í boði í.appimage"
 
 msgid "Controle o brilho e as cores"
-msgstr ""
+msgstr "Stjórna birtustig og litum"
 
 msgid "Brilho e cor"
-msgstr ""
+msgstr "Birtustig og litur"
 
 msgid "Equalizador (DSP)"
-msgstr ""
+msgstr "Tónjafnari (DSP)"
 
 msgid "Gerenciador de senhas"
-msgstr ""
+msgstr "Lykilorð framkvæmdastjóri"
 
 msgid "As configurações da tela foram resetadas."
 msgstr "Stillingar skjásins hafa verið endurstilltar."
@@ -434,9 +440,6 @@ msgstr "Flokkar"
 msgid "Principais"
 msgstr "Aðal"
 
-msgid "Sistema"
-msgstr "Kerfi"
-
 msgid "Aparência"
 msgstr "Útlit"
 
@@ -448,9 +451,6 @@ msgstr "sérsníða"
 
 msgid "Telefone"
 msgstr "sími"
-
-msgid "Multimídia"
-msgstr "Margmiðlun"
 
 msgid "Rede e Internet"
 msgstr "Net og Internet"

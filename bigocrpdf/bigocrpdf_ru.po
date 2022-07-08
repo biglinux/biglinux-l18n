@@ -84,9 +84,6 @@ msgstr "Качество PDF:"
 msgid "Alinhamento:"
 msgstr "Выравнивание:"
 
-msgid "OCR para PDF"
-msgstr "OCR для PDF"
-
 msgid "Concluído!"
 msgstr "Готово!"
 

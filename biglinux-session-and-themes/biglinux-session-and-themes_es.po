@@ -17,9 +17,6 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit"
 
-msgid "Temas, Desktop e Ajustes"
-msgstr "Temas, escritorio y configuración"
-
 msgid ""
 "Configuração alterada, se estiver utilizando o navegador, reinicie-o para "
 "que a nova configuração seja aplicada."
@@ -87,9 +84,6 @@ msgstr "Usabilidad"
 msgid "Tema dos aplicativos"
 msgstr "Tema de aplicación"
 
-msgid "Fechar"
-msgstr "Cerrar"
-
 msgid "Bordas arredondadas."
 msgstr "Bordes redondeados."
 
@@ -98,7 +92,7 @@ msgid ""
 "lento em computadores<br>antigos ou ambientes virtualizados."
 msgstr ""
 "Este tema tiene transparencias con efectos que pueden<br>ralentizar el "
-"sistema en ordenadores antiguos<br>o entornos virtualizados</br></br>."
+"sistema en ordenadores antiguos<br>o entornos virtualizados."
 
 msgid "<b>Classic</b> e <b>New</b> têm melhor desempenho."
 msgstr "<b>Classic</b> y <b>New</b> tienen mejor rendimiento."

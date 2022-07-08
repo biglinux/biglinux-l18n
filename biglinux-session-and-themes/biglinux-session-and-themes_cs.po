@@ -17,9 +17,6 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit"
 
-msgid "Temas, Desktop e Ajustes"
-msgstr "Motivy, plocha a nastavení"
-
 msgid ""
 "Configuração alterada, se estiver utilizando o navegador, reinicie-o para "
 "que a nova configuração seja aplicada."
@@ -84,9 +81,6 @@ msgstr "Použitelnost"
 
 msgid "Tema dos aplicativos"
 msgstr "Téma aplikace"
-
-msgid "Fechar"
-msgstr "Zavřít"
 
 msgid "Bordas arredondadas."
 msgstr "Zaoblené hrany."

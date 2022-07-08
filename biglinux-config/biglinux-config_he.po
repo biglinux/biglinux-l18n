@@ -17,6 +17,29 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit"
 
+msgid "Restaurar Configurações"
+msgstr "שחזור הגדרות"
+
+msgid ""
+"Atenção! O programa está aberto!\\nEle será fechado para que a restauração "
+"tenha efeito."
+msgstr "תשומת לב! התוכנית פתוחה! \\ Nזה יהיה סגור כדי שהשחזור ייכנס לתוקף."
+
+msgid "As configurações foram restauradas com sucesso!"
+msgstr "ההגדרות שוחזרו בהצלחה!"
+
+msgid ""
+"Você tem certeza que deseja restaurar todas as configurações do KDE/"
+"Plasma?\\nIsso apagará todas as configurações definidas por $USER!"
+msgstr ""
+"האם אתה בטוח שברצונך לשחזר את כל הגדרות KDE/פלזמה? \\ n פעולה זו תמחק את כל "
+"ההגדרות שהוגדרו על ידי משתמש $"
+
+msgid ""
+"As configurações foram restauradas com sucesso!\\nÉ necessário fazer logoff/"
+"login para concluir a restauração!"
+msgstr "ההגדרות שוחזרו בהצלחה! \\ n עליך להתנתק\\ להתחבר כדי להשלים את השחזור!"
+
 msgid ""
 "Restaurar&nbsp;o&nbsp;programa&nbsp;como&nbsp;modo&nbsp;padrão&nbsp;ou&nbsp;distribuição&nbsp;BigLinux."
 ""
@@ -46,6 +69,9 @@ msgstr ""
 "קטעי וידאו- (סמפלייר) smplayer.sh מולטימדיה smplayer.png סמפלייר skel "
 "$comment_skel"
 
+msgid "Fechar"
+msgstr "סגור"
+
 msgid "Restaurar no modo padrão da distribuição"
 msgstr "שחזר למצב ברירת המחדל של ההפצה"
 
@@ -64,28 +90,20 @@ msgstr "שחזר את הגדרות התוכנית:"
 msgid "Principal"
 msgstr "ראשי"
 
+msgid "Internet"
+msgstr "מרשתת"
+
+msgid "Multimídia"
+msgstr "מולטימדיה"
+
+msgid "Gráficos"
+msgstr "גרפיקה"
+
+msgid "Escritório"
+msgstr "משרד"
+
+msgid "Sistema"
+msgstr "מערכת"
+
 msgid "Pesquisar Restaurar"
 msgstr "חיפוש שחזור"
-
-msgid "Restaurar Configurações"
-msgstr "שחזור הגדרות"
-
-msgid ""
-"Atenção! O programa está aberto!\\nEle será fechado para que a restauração "
-"tenha efeito."
-msgstr "תשומת לב! התוכנית פתוחה! \\ Nזה יהיה סגור כדי שהשחזור ייכנס לתוקף."
-
-msgid "As configurações foram restauradas com sucesso!"
-msgstr "ההגדרות שוחזרו בהצלחה!"
-
-msgid ""
-"Você tem certeza que deseja restaurar todas as configurações do KDE/"
-"Plasma?\\nIsso apagará todas as configurações definidas por $USER!"
-msgstr ""
-"האם אתה בטוח שברצונך לשחזר את כל הגדרות KDE/פלזמה? \\ n פעולה זו תמחק את כל "
-"ההגדרות שהוגדרו על ידי משתמש $"
-
-msgid ""
-"As configurações foram restauradas com sucesso!\\nÉ necessário fazer logoff/"
-"login para concluir a restauração!"
-msgstr "ההגדרות שוחזרו בהצלחה! \\ n עליך להתנתק\\ להתחבר כדי להשלים את השחזור!"

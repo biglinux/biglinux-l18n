@@ -17,6 +17,33 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit"
 
+msgid "Restaurar Configurações"
+msgstr "Endurheimta stillingar"
+
+msgid ""
+"Atenção! O programa está aberto!\\nEle será fechado para que a restauração "
+"tenha efeito."
+msgstr ""
+"Athygli! Forritið er opið! \\ nÞað verður lokað til að endurheimtin taki "
+"gildi."
+
+msgid "As configurações foram restauradas com sucesso!"
+msgstr "Stillingar hafa verið endurreistar!"
+
+msgid ""
+"Você tem certeza que deseja restaurar todas as configurações do KDE/"
+"Plasma?\\nIsso apagará todas as configurações definidas por $USER!"
+msgstr ""
+"Ertu viss um að þú viljir endurheimta allar KDE/Plasma stillingar? \\ nÞetta "
+"mun eyða öllum stillingum sem skilgreindar eru af $USER!"
+
+msgid ""
+"As configurações foram restauradas com sucesso!\\nÉ necessário fazer logoff/"
+"login para concluir a restauração!"
+msgstr ""
+"Stillingar hafa verið endurreistar! \\ nÞú verður að skrá þig af/skrá þig "
+"inn til að ljúka endurheimt!"
+
 msgid ""
 "Restaurar&nbsp;o&nbsp;programa&nbsp;como&nbsp;modo&nbsp;padrão&nbsp;ou&nbsp;distribuição&nbsp;BigLinux."
 ""
@@ -46,6 +73,9 @@ msgstr ""
 "Myndbönd- (Smplayer) smplayer.sh Margmiðlun smplayer.png Smaspilari skel "
 "$comment_skel"
 
+msgid "Fechar"
+msgstr "Loka"
+
 msgid "Restaurar no modo padrão da distribuição"
 msgstr "Endurheimta í sjálfgefna stillingu dreifingarinnar"
 
@@ -64,32 +94,20 @@ msgstr "Endurheimta forritastillingar:"
 msgid "Principal"
 msgstr "Aðal"
 
+msgid "Internet"
+msgstr "Internet"
+
+msgid "Multimídia"
+msgstr "Margmiðlun"
+
+msgid "Gráficos"
+msgstr "Grafík"
+
+msgid "Escritório"
+msgstr "Skrifstofa"
+
+msgid "Sistema"
+msgstr "Kerfi"
+
 msgid "Pesquisar Restaurar"
 msgstr "Leita Endurheimta"
-
-msgid "Restaurar Configurações"
-msgstr "Endurheimta stillingar"
-
-msgid ""
-"Atenção! O programa está aberto!\\nEle será fechado para que a restauração "
-"tenha efeito."
-msgstr ""
-"Athygli! Forritið er opið! \\ nÞað verður lokað til að endurheimtin taki "
-"gildi."
-
-msgid "As configurações foram restauradas com sucesso!"
-msgstr "Stillingar hafa verið endurreistar!"
-
-msgid ""
-"Você tem certeza que deseja restaurar todas as configurações do KDE/"
-"Plasma?\\nIsso apagará todas as configurações definidas por $USER!"
-msgstr ""
-"Ertu viss um að þú viljir endurheimta allar KDE/Plasma stillingar? \\ nÞetta "
-"mun eyða öllum stillingum sem skilgreindar eru af $USER!"
-
-msgid ""
-"As configurações foram restauradas com sucesso!\\nÉ necessário fazer logoff/"
-"login para concluir a restauração!"
-msgstr ""
-"Stillingar hafa verið endurreistar! \\ nÞú verður að skrá þig af/skrá þig "
-"inn til að ljúka endurheimt!"

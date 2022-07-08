@@ -98,11 +98,14 @@ msgid ""
 "extremamente simples."
 msgstr "我们以非常简单的方式提供完整的配置供你选择。"
 
+msgid "Temas, Desktop e Ajustes"
+msgstr "主题、桌面和设置"
+
 msgid "Escolha seu Avatar"
 msgstr "选择你的头像"
 
 msgid "Pacotes de Idioma"
-msgstr ""
+msgstr "语言包"
 
 msgid "Escolha seu navegador padrão"
 msgstr "选择你的默认浏览器"
@@ -150,6 +153,9 @@ msgstr "降噪器"
 
 msgid "Configurar a voz do sistema (TTS)"
 msgstr "设置系统语音（TTS）"
+
+msgid "OCR para PDF"
+msgstr "用于PDF的OCR"
 
 msgid "Doação e Redes sociais"
 msgstr "捐赠和社会网络"
@@ -382,25 +388,25 @@ msgid "Informações de armazenamento (SMART)"
 msgstr "存储信息（SMART）。"
 
 msgid "Gerenciar serviços (Systemd)"
-msgstr ""
+msgstr "管理服务（Systemd）。"
 
 msgid "Configurar o AppimageLauncher"
-msgstr ""
+msgstr "配置AppimageLauncher"
 
 msgid "Escolher o comportamento dos programas disponibilizados em .appimage"
-msgstr ""
+msgstr "选择.appimage中可用的程序的行为"
 
 msgid "Controle o brilho e as cores"
-msgstr ""
+msgstr "控制亮度和颜色"
 
 msgid "Brilho e cor"
-msgstr ""
+msgstr "光泽和色彩"
 
 msgid "Equalizador (DSP)"
-msgstr ""
+msgstr "均衡器（DSP）"
 
 msgid "Gerenciador de senhas"
-msgstr ""
+msgstr "密码管理器"
 
 msgid "As configurações da tela foram resetadas."
 msgstr "屏幕设置已被重置。"
@@ -414,9 +420,6 @@ msgstr "类别"
 msgid "Principais"
 msgstr "主要内容"
 
-msgid "Sistema"
-msgstr "系统"
-
 msgid "Aparência"
 msgstr "外观"
 
@@ -428,9 +431,6 @@ msgstr "定制"
 
 msgid "Telefone"
 msgstr "电话"
-
-msgid "Multimídia"
-msgstr "多媒体"
 
 msgid "Rede e Internet"
 msgstr "网络和互联网"

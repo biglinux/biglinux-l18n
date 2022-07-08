@@ -25,7 +25,7 @@ msgstr ""
 "Generated-By: pygettext.py 1.5"
 
 msgid "Big-Store está aberta."
-msgstr ""
+msgstr "Big-Store on avoinna."
 
 msgid "Big-Store"
 msgstr "Big-Store"
@@ -104,6 +104,12 @@ msgid ""
 "se o programa que você procura está disponível apenas neste<br>\n"
 "formato, utilize-o."
 msgstr ""
+"\n"
+"Snap-ohjelmat, kuten Flatpak<br>\n"
+"tarjoaa ohjelmistoja kaikille Linux-jakeluille.<br>\n"
+"Se on yleensä painavampi ja vähemmän integroitu järjestelmään, mutta<br>\n"
+"jos etsimäsi ohjelma on saatavilla vain tässä osoitteessa<br>\n"
+"muodossa, käytä sitä."
 
 msgid ""
 "\n"
@@ -111,6 +117,10 @@ msgid ""
 "e oculta resultados que são úteis <br>\n"
 "apenas a usuários avançados."
 msgstr ""
+"\n"
+"Näyttää vain valitut ohjelmat<br>\n"
+"ja piilottaa hyödylliset tulokset <br>\n"
+"vain edistyneille käyttäjille."
 
 msgid "Aplicando - Aguarde"
 msgstr "Hakemuksen tekeminen - Odota"
@@ -119,7 +129,7 @@ msgid "Procurar programa"
 msgstr "Hakuohjelma"
 
 msgid "Modo Simplificado"
-msgstr ""
+msgstr "Yksinkertaistettu tila"
 
 msgid "Navegadores"
 msgstr "Selaimet"
@@ -146,7 +156,7 @@ msgid "Ferramentas de rede"
 msgstr "Verkkotyökalut"
 
 msgid "Notícias, Feeds e RSS"
-msgstr ""
+msgstr "Uutiset, syötteet ja RSS"
 
 msgid "Suíte Office"
 msgstr "Office Suite"
@@ -270,15 +280,6 @@ msgstr "Flatpak-ohjelmat"
 
 msgid "Programas Snap"
 msgstr "Snap-ohjelmat"
-
-msgid "Internet"
-msgstr "Internet"
-
-msgid "Escritório"
-msgstr "Toimisto"
-
-msgid "Gráficos"
-msgstr "Grafiikka"
 
 msgid "Jogos"
 msgstr "Pelit"

@@ -100,11 +100,14 @@ msgstr ""
 "Komplette konfigurasjoner er tilgjengelige for deg å velge på en ekstremt "
 "enkel måte."
 
+msgid "Temas, Desktop e Ajustes"
+msgstr "Temaer, skrivebord og justeringer"
+
 msgid "Escolha seu Avatar"
 msgstr "Velg din avatar"
 
 msgid "Pacotes de Idioma"
-msgstr ""
+msgstr "Språkpakker"
 
 msgid "Escolha seu navegador padrão"
 msgstr "Velg standard nettleser"
@@ -157,6 +160,9 @@ msgstr "Støy redusering"
 
 msgid "Configurar a voz do sistema (TTS)"
 msgstr "Konfigurer systemstemme (TTS)"
+
+msgid "OCR para PDF"
+msgstr "OCR til PDF"
 
 msgid "Doação e Redes sociais"
 msgstr "Donasjon og sosiale nettverk"
@@ -403,25 +409,25 @@ msgid "Informações de armazenamento (SMART)"
 msgstr "Lagringsinformasjon (SMART)"
 
 msgid "Gerenciar serviços (Systemd)"
-msgstr ""
+msgstr "Administrer tjenester (Systemd)"
 
 msgid "Configurar o AppimageLauncher"
-msgstr ""
+msgstr "Konfigurere ImageLauncher-appen"
 
 msgid "Escolher o comportamento dos programas disponibilizados em .appimage"
-msgstr ""
+msgstr "Velg oppførselen til programmene som er tilgjengelige i .appimage"
 
 msgid "Controle o brilho e as cores"
-msgstr ""
+msgstr "Kontroller lysstyrke og farger"
 
 msgid "Brilho e cor"
-msgstr ""
+msgstr "Lysstyrke og farge"
 
 msgid "Equalizador (DSP)"
-msgstr ""
+msgstr "Utjevner (DSP)"
 
 msgid "Gerenciador de senhas"
-msgstr ""
+msgstr "Passordbehandling"
 
 msgid "As configurações da tela foram resetadas."
 msgstr "Skjerminnstillingene er tilbakestilt."
@@ -435,9 +441,6 @@ msgstr "Kategorier"
 msgid "Principais"
 msgstr "Hoved"
 
-msgid "Sistema"
-msgstr "Systemet"
-
 msgid "Aparência"
 msgstr "Utseende"
 
@@ -449,9 +452,6 @@ msgstr "tilpasse"
 
 msgid "Telefone"
 msgstr "telefon"
-
-msgid "Multimídia"
-msgstr "Multimedia"
 
 msgid "Rede e Internet"
 msgstr "Nettverk og Internett"

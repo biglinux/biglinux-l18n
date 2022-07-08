@@ -34,34 +34,34 @@ msgstr ""
 "PDF bestand, \"Openen met\" en kies de OCR optie."
 
 msgid "Normal"
-msgstr ""
+msgstr "Normaal"
 
 msgid "Economico"
-msgstr ""
+msgstr "Zuinig"
 
 msgid "Mais econômico"
-msgstr ""
+msgstr "Zuiniger"
 
 msgid "Alinhar"
-msgstr ""
+msgstr "Uitlijnen"
 
 msgid "Auto rotacionar"
-msgstr ""
+msgstr "Automatisch roteren"
 
 msgid "Alinhar e auto rotacionar"
-msgstr ""
+msgstr "Uitlijnen en auto-roteren"
 
 msgid "Não alterar"
-msgstr ""
+msgstr "Niet veranderen"
 
 msgid "Espanhol"
-msgstr ""
+msgstr "Spaans"
 
 msgid "Inglês"
-msgstr ""
+msgstr "Engels"
 
 msgid "Português"
-msgstr ""
+msgstr "Portugees"
 
 msgid ""
 "Adicionar OCR no PDF digitalizado permitindo seleção de textos e busca:"
@@ -69,25 +69,22 @@ msgstr ""
 "Voeg OCR toe aan de gescande PDF om tekst te kunnen selecteren en zoeken:"
 
 msgid "Quantidade de arquivos:"
-msgstr ""
+msgstr "Aantal bestanden:"
 
 msgid "Páginas:"
-msgstr ""
+msgstr "Pagina's:"
 
 msgid "Idioma do PDF:"
-msgstr ""
+msgstr "PDF taal:"
 
 msgid "Qualidade do PDF:"
-msgstr ""
+msgstr "PDF kwaliteit:"
 
 msgid "Alinhamento:"
-msgstr ""
-
-msgid "OCR para PDF"
-msgstr "OCR voor PDF"
+msgstr "Uitlijning:"
 
 msgid "Concluído!"
 msgstr "Klaar!"
 
 msgid "Salvo em: "
-msgstr ""
+msgstr "Opgeslagen in "

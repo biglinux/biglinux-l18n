@@ -25,7 +25,7 @@ msgstr ""
 "Generated-By: pygettext.py 1.5"
 
 msgid "Big-Store está aberta."
-msgstr ""
+msgstr "Το Big-Store είναι ανοιχτό."
 
 msgid "Big-Store"
 msgstr "Big-Store"
@@ -103,6 +103,12 @@ msgid ""
 "se o programa que você procura está disponível apenas neste<br>\n"
 "formato, utilize-o."
 msgstr ""
+"\n"
+"Προγράμματα Snap, όπως το Flatpak<br>\n"
+"παρέχει λογισμικό για όλες τις διανομές Linux.<br>\n"
+"Τείνει να είναι βαρύτερο και λιγότερο ενσωματωμένο στο σύστημα, αλλά<br>\n"
+"αν το πρόγραμμα που αναζητάτε είναι διαθέσιμο μόνο σε αυτό το<br>\n"
+"μορφή, χρησιμοποιήστε την."
 
 msgid ""
 "\n"
@@ -110,6 +116,10 @@ msgid ""
 "e oculta resultados que são úteis <br>\n"
 "apenas a usuários avançados."
 msgstr ""
+"\n"
+"Εμφανίζει μόνο επιλεγμένα προγράμματα<br>\n"
+"και αποκρύπτει τα αποτελέσματα που είναι χρήσιμα <br>\n"
+"μόνο για προχωρημένους χρήστες."
 
 msgid "Aplicando - Aguarde"
 msgstr "Εφαρμογή - Παρακαλώ περιμένετε"
@@ -118,7 +128,7 @@ msgid "Procurar programa"
 msgstr "Πρόγραμμα αναζήτησης"
 
 msgid "Modo Simplificado"
-msgstr ""
+msgstr "Απλοποιημένη λειτουργία"
 
 msgid "Navegadores"
 msgstr "Φυλλομετρητές"
@@ -145,7 +155,7 @@ msgid "Ferramentas de rede"
 msgstr "Εργαλεία δικτύου"
 
 msgid "Notícias, Feeds e RSS"
-msgstr ""
+msgstr "Ειδήσεις, τροφοδοσίες και RSS"
 
 msgid "Suíte Office"
 msgstr "Σουίτα γραφείου"
@@ -269,15 +279,6 @@ msgstr "Προγράμματα Flatpak"
 
 msgid "Programas Snap"
 msgstr "Προγράμματα Snap"
-
-msgid "Internet"
-msgstr "Διαδίκτυο"
-
-msgid "Escritório"
-msgstr "Γραφείο"
-
-msgid "Gráficos"
-msgstr "Γραφικά"
 
 msgid "Jogos"
 msgstr "Παιχνίδια"

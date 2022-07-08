@@ -17,6 +17,33 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit"
 
+msgid "Restaurar Configurações"
+msgstr "Аднавіць налады"
+
+msgid ""
+"Atenção! O programa está aberto!\\nEle será fechado para que a restauração "
+"tenha efeito."
+msgstr ""
+"Галава ўверх! Праграма адкрыта!\\nЯна будзе зачынена, каб аднаўленне "
+"ўступіла ў сілу."
+
+msgid "As configurações foram restauradas com sucesso!"
+msgstr "Налады былі паспяхова адноўлены!"
+
+msgid ""
+"Você tem certeza que deseja restaurar todas as configurações do KDE/"
+"Plasma?\\nIsso apagará todas as configurações definidas por $USER!"
+msgstr ""
+"Вы ўпэўнены, што хочаце аднавіць усе налады KDE/Plasma?\\nГэта прывядзе да "
+"выдалення ўсіх налад, вызначаных $USER!"
+
+msgid ""
+"As configurações foram restauradas com sucesso!\\nÉ necessário fazer logoff/"
+"login para concluir a restauração!"
+msgstr ""
+"Налады паспяхова адноўлены!\\nДля завяршэння аднаўлення неабходны выхад з "
+"сістэмы!"
+
 msgid ""
 "Restaurar&nbsp;o&nbsp;programa&nbsp;como&nbsp;modo&nbsp;padrão&nbsp;ou&nbsp;distribuição&nbsp;BigLinux."
 ""
@@ -46,6 +73,9 @@ msgstr ""
 "Відэа-(Smplayer) smplayer.sh Мультымедыя smplayer.png smplayer skel "
 "$COMMENT_skel"
 
+msgid "Fechar"
+msgstr "Закрыць"
+
 msgid "Restaurar no modo padrão da distribuição"
 msgstr "Аднавіць у рэжыме распаўсюджвання па змаўчанні"
 
@@ -64,32 +94,20 @@ msgstr "Аднавіць налады праграмы:"
 msgid "Principal"
 msgstr "Галоўны"
 
+msgid "Internet"
+msgstr "Інтэрнэт"
+
+msgid "Multimídia"
+msgstr "Мультымедыя"
+
+msgid "Gráficos"
+msgstr "Графіка"
+
+msgid "Escritório"
+msgstr "Офіс"
+
+msgid "Sistema"
+msgstr "Сістэма"
+
 msgid "Pesquisar Restaurar"
 msgstr "Пошук Аднаўленне"
-
-msgid "Restaurar Configurações"
-msgstr "Аднавіць налады"
-
-msgid ""
-"Atenção! O programa está aberto!\\nEle será fechado para que a restauração "
-"tenha efeito."
-msgstr ""
-"Галава ўверх! Праграма адкрыта!\\nЯна будзе зачынена, каб аднаўленне "
-"ўступіла ў сілу."
-
-msgid "As configurações foram restauradas com sucesso!"
-msgstr "Налады былі паспяхова адноўлены!"
-
-msgid ""
-"Você tem certeza que deseja restaurar todas as configurações do KDE/"
-"Plasma?\\nIsso apagará todas as configurações definidas por $USER!"
-msgstr ""
-"Вы ўпэўнены, што хочаце аднавіць усе налады KDE/Plasma?\\nГэта прывядзе да "
-"выдалення ўсіх налад, вызначаных $USER!"
-
-msgid ""
-"As configurações foram restauradas com sucesso!\\nÉ necessário fazer logoff/"
-"login para concluir a restauração!"
-msgstr ""
-"Налады паспяхова адноўлены!\\nДля завяршэння аднаўлення неабходны выхад з "
-"сістэмы!"

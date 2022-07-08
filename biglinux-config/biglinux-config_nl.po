@@ -17,6 +17,33 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit"
 
+msgid "Restaurar Configurações"
+msgstr "Instellingen herstellen"
+
+msgid ""
+"Atenção! O programa está aberto!\\nEle será fechado para que a restauração "
+"tenha efeito."
+msgstr ""
+"Voorzichtig! Het programma is open! Het zal gesloten zijn om de restauratie "
+"te laten ingaan."
+
+msgid "As configurações foram restauradas com sucesso!"
+msgstr "De instellingen zijn met succes hersteld!"
+
+msgid ""
+"Você tem certeza que deseja restaurar todas as configurações do KDE/"
+"Plasma?\\nIsso apagará todas as configurações definidas por $USER!"
+msgstr ""
+"Weet u zeker dat u alle KDE/Plasma-instellingen wilt herstellen? Wissen alle "
+"instellingen die door $USER zijn ingesteld!"
+
+msgid ""
+"As configurações foram restauradas com sucesso!\\nÉ necessário fazer logoff/"
+"login para concluir a restauração!"
+msgstr ""
+"De instellingen zijn met succes hersteld! U moet uit/aanloggen om het "
+"herstel te voltooien!"
+
 msgid ""
 "Restaurar&nbsp;o&nbsp;programa&nbsp;como&nbsp;modo&nbsp;padrão&nbsp;ou&nbsp;distribuição&nbsp;BigLinux."
 ""
@@ -46,6 +73,9 @@ msgstr ""
 "Video's-(Smplayer) smplayer.sh Multimedia smplayer.png smplayer skel "
 "$COMMENT_skel"
 
+msgid "Fechar"
+msgstr "Sluiten"
+
 msgid "Restaurar no modo padrão da distribuição"
 msgstr "Terugzetten naar standaard distributiemodus"
 
@@ -66,32 +96,20 @@ msgstr "Herstel de programma-instellingen:"
 msgid "Principal"
 msgstr "Hoofd"
 
+msgid "Internet"
+msgstr "Internet"
+
+msgid "Multimídia"
+msgstr "Multimedia"
+
+msgid "Gráficos"
+msgstr "Graphics"
+
+msgid "Escritório"
+msgstr "Kantoor"
+
+msgid "Sistema"
+msgstr "Systeem"
+
 msgid "Pesquisar Restaurar"
 msgstr "Zoek Herstel"
-
-msgid "Restaurar Configurações"
-msgstr "Instellingen herstellen"
-
-msgid ""
-"Atenção! O programa está aberto!\\nEle será fechado para que a restauração "
-"tenha efeito."
-msgstr ""
-"Voorzichtig! Het programma is open! Het zal gesloten zijn om de restauratie "
-"te laten ingaan."
-
-msgid "As configurações foram restauradas com sucesso!"
-msgstr "De instellingen zijn met succes hersteld!"
-
-msgid ""
-"Você tem certeza que deseja restaurar todas as configurações do KDE/"
-"Plasma?\\nIsso apagará todas as configurações definidas por $USER!"
-msgstr ""
-"Weet u zeker dat u alle KDE/Plasma-instellingen wilt herstellen? Wissen alle "
-"instellingen die door $USER zijn ingesteld!"
-
-msgid ""
-"As configurações foram restauradas com sucesso!\\nÉ necessário fazer logoff/"
-"login para concluir a restauração!"
-msgstr ""
-"De instellingen zijn met succes hersteld! U moet uit/aanloggen om het "
-"herstel te voltooien!"

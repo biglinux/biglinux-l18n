@@ -17,9 +17,6 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit"
 
-msgid "Temas, Desktop e Ajustes"
-msgstr "Temalar, Masaüstü ve Ayarlar"
-
 msgid ""
 "Configuração alterada, se estiver utilizando o navegador, reinicie-o para "
 "que a nova configuração seja aplicada."
@@ -85,9 +82,6 @@ msgstr "Kullanılabilirlik"
 
 msgid "Tema dos aplicativos"
 msgstr "Uygulama teması"
-
-msgid "Fechar"
-msgstr "Kapat"
 
 msgid "Bordas arredondadas."
 msgstr "Yuvarlatılmış kenarlar."

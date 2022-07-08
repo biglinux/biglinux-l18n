@@ -17,6 +17,33 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit"
 
+msgid "Restaurar Configurações"
+msgstr "Seadete taastamine"
+
+msgid ""
+"Atenção! O programa está aberto!\\nEle será fechado para que a restauração "
+"tenha efeito."
+msgstr ""
+"Ettevaatust! Programm on avatud! See on suletud, et taastamine saaks toimuda."
+""
+
+msgid "As configurações foram restauradas com sucesso!"
+msgstr "Seaded on edukalt taastatud!"
+
+msgid ""
+"Você tem certeza que deseja restaurar todas as configurações do KDE/"
+"Plasma?\\nIsso apagará todas as configurações definidas por $USER!"
+msgstr ""
+"Kas olete kindel, et soovite taastada kõik KDE/Plasma seaded?\\nIsIsIsIs "
+"kustutab kõik $USERi poolt määratud seaded!"
+
+msgid ""
+"As configurações foram restauradas com sucesso!\\nÉ necessário fazer logoff/"
+"login para concluir a restauração!"
+msgstr ""
+"Seaded on edukalt taastatud! Taastamise lõpuleviimiseks peate välja/ sisse "
+"logima!"
+
 msgid ""
 "Restaurar&nbsp;o&nbsp;programa&nbsp;como&nbsp;modo&nbsp;padrão&nbsp;ou&nbsp;distribuição&nbsp;BigLinux."
 ""
@@ -46,6 +73,9 @@ msgstr ""
 "Videos-(Smplayer) smplayer.sh Multimeedia smplayer.png smplayer skel "
 "$COMMENT_skel"
 
+msgid "Fechar"
+msgstr "Sulge"
+
 msgid "Restaurar no modo padrão da distribuição"
 msgstr "Taastada vaikimisi jaotamise režiim"
 
@@ -64,32 +94,20 @@ msgstr "Taastage programmi seaded:"
 msgid "Principal"
 msgstr "Main"
 
+msgid "Internet"
+msgstr "Internet"
+
+msgid "Multimídia"
+msgstr "Multimeedia"
+
+msgid "Gráficos"
+msgstr "Graafika"
+
+msgid "Escritório"
+msgstr "Kontor"
+
+msgid "Sistema"
+msgstr "Süsteem"
+
 msgid "Pesquisar Restaurar"
 msgstr "Otsi taastamine"
-
-msgid "Restaurar Configurações"
-msgstr "Seadete taastamine"
-
-msgid ""
-"Atenção! O programa está aberto!\\nEle será fechado para que a restauração "
-"tenha efeito."
-msgstr ""
-"Ettevaatust! Programm on avatud! See on suletud, et taastamine saaks toimuda."
-""
-
-msgid "As configurações foram restauradas com sucesso!"
-msgstr "Seaded on edukalt taastatud!"
-
-msgid ""
-"Você tem certeza que deseja restaurar todas as configurações do KDE/"
-"Plasma?\\nIsso apagará todas as configurações definidas por $USER!"
-msgstr ""
-"Kas olete kindel, et soovite taastada kõik KDE/Plasma seaded?\\nIsIsIsIs "
-"kustutab kõik $USERi poolt määratud seaded!"
-
-msgid ""
-"As configurações foram restauradas com sucesso!\\nÉ necessário fazer logoff/"
-"login para concluir a restauração!"
-msgstr ""
-"Seaded on edukalt taastatud! Taastamise lõpuleviimiseks peate välja/ sisse "
-"logima!"

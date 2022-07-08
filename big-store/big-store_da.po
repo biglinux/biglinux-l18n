@@ -25,7 +25,7 @@ msgstr ""
 "Generated-By: pygettext.py 1.5"
 
 msgid "Big-Store está aberta."
-msgstr ""
+msgstr "Big-Store está aberta."
 
 msgid "Big-Store"
 msgstr "Big-Store"
@@ -103,6 +103,12 @@ msgid ""
 "se o programa que você procura está disponível apenas neste<br>\n"
 "formato, utilize-o."
 msgstr ""
+"\n"
+"Programas Snap, assim como o Flatpak<br>\n"
+"disponibiliza programas para todas as distribuições Linux.<br>\n"
+"Tende a ser mais pesado e menos integrado ao sistema, mas<br>\n"
+"se o programa que você procura está disponível apenas neste<br>\n"
+"formato, utilize-o."
 
 msgid ""
 "\n"
@@ -110,6 +116,10 @@ msgid ""
 "e oculta resultados que são úteis <br>\n"
 "apenas a usuários avançados."
 msgstr ""
+"\n"
+"Exibe apenas programas selecionados<br> \n"
+"e oculta resultados que são úteis <br>\n"
+"apenas a usuários avançados."
 
 msgid "Aplicando - Aguarde"
 msgstr "Ansøgning - Vent venligst"
@@ -118,7 +128,7 @@ msgid "Procurar programa"
 msgstr "Søg program"
 
 msgid "Modo Simplificado"
-msgstr ""
+msgstr "Modo Simplificado"
 
 msgid "Navegadores"
 msgstr "Browsere"
@@ -145,7 +155,7 @@ msgid "Ferramentas de rede"
 msgstr "Netværksværktøjer"
 
 msgid "Notícias, Feeds e RSS"
-msgstr ""
+msgstr "Notícias, Feeds e RSS"
 
 msgid "Suíte Office"
 msgstr "Kontorpakke"
@@ -269,15 +279,6 @@ msgstr "Flatpak-programmer"
 
 msgid "Programas Snap"
 msgstr "Snap-programmer"
-
-msgid "Internet"
-msgstr "Internet"
-
-msgid "Escritório"
-msgstr "Kontor"
-
-msgid "Gráficos"
-msgstr "Grafik"
 
 msgid "Jogos"
 msgstr "Spil"

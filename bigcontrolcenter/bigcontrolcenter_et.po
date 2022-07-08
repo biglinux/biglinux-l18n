@@ -100,11 +100,14 @@ msgstr ""
 "Pakume teile täielikke konfiguratsioone, mille hulgast saate väga lihtsalt "
 "valida."
 
+msgid "Temas, Desktop e Ajustes"
+msgstr "Teemad, töölaud ja seaded"
+
 msgid "Escolha seu Avatar"
 msgstr "Valige oma Avatar"
 
 msgid "Pacotes de Idioma"
-msgstr ""
+msgstr "Keelepaketid"
 
 msgid "Escolha seu navegador padrão"
 msgstr "Valige oma vaikimisi brauser"
@@ -157,6 +160,9 @@ msgstr "Müravähendaja"
 
 msgid "Configurar a voz do sistema (TTS)"
 msgstr "Süsteemi hääle (TTS) seadistamine"
+
+msgid "OCR para PDF"
+msgstr "OCR PDF-i jaoks"
 
 msgid "Doação e Redes sociais"
 msgstr "Annetused ja sotsiaalsed võrgustikud"
@@ -404,25 +410,25 @@ msgid "Informações de armazenamento (SMART)"
 msgstr "Ladustamise teave (SMART)"
 
 msgid "Gerenciar serviços (Systemd)"
-msgstr ""
+msgstr "Teenuste haldamine (Systemd)"
 
 msgid "Configurar o AppimageLauncher"
-msgstr ""
+msgstr "AppimageLauncher'i konfigureerimine"
 
 msgid "Escolher o comportamento dos programas disponibilizados em .appimage"
-msgstr ""
+msgstr "Valige .appimage'is saadaval olevate programmide käitumine"
 
 msgid "Controle o brilho e as cores"
-msgstr ""
+msgstr "Heleduse ja värvide reguleerimine"
 
 msgid "Brilho e cor"
-msgstr ""
+msgstr "Sära ja värvus"
 
 msgid "Equalizador (DSP)"
-msgstr ""
+msgstr "Ekvalaiser (DSP)"
 
 msgid "Gerenciador de senhas"
-msgstr ""
+msgstr "Salasõnahaldur"
 
 msgid "As configurações da tela foram resetadas."
 msgstr "Ekraani seaded on lähtestatud."
@@ -436,9 +442,6 @@ msgstr "Kategooriad"
 msgid "Principais"
 msgstr "Main"
 
-msgid "Sistema"
-msgstr "Süsteem"
-
 msgid "Aparência"
 msgstr "Välimus"
 
@@ -450,9 +453,6 @@ msgstr "Kohandada"
 
 msgid "Telefone"
 msgstr "Telefon"
-
-msgid "Multimídia"
-msgstr "Multimeedia"
 
 msgid "Rede e Internet"
 msgstr "Võrk ja Internet"

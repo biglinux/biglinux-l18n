@@ -100,11 +100,14 @@ msgstr ""
 "Предоставяме ви пълни конфигурации, от които можете да избирате по много "
 "лесен начин."
 
+msgid "Temas, Desktop e Ajustes"
+msgstr "Теми, работен плот и настройки"
+
 msgid "Escolha seu Avatar"
 msgstr "Изберете своя аватар"
 
 msgid "Pacotes de Idioma"
-msgstr ""
+msgstr "Езикови пакети"
 
 msgid "Escolha seu navegador padrão"
 msgstr "Изберете браузъра по подразбиране"
@@ -157,6 +160,9 @@ msgstr "Редуктор на шума"
 
 msgid "Configurar a voz do sistema (TTS)"
 msgstr "Задаване на системния глас (TTS)"
+
+msgid "OCR para PDF"
+msgstr "OCR за PDF"
 
 msgid "Doação e Redes sociais"
 msgstr "Дарения и социални мрежи"
@@ -408,25 +414,25 @@ msgid "Informações de armazenamento (SMART)"
 msgstr "Информация за съхранение (SMART)"
 
 msgid "Gerenciar serviços (Systemd)"
-msgstr ""
+msgstr "Управление на услуги (Systemd)"
 
 msgid "Configurar o AppimageLauncher"
-msgstr ""
+msgstr "Конфигуриране на AppimageLauncher"
 
 msgid "Escolher o comportamento dos programas disponibilizados em .appimage"
-msgstr ""
+msgstr "Изберете поведението на програмите, налични в .appimage"
 
 msgid "Controle o brilho e as cores"
-msgstr ""
+msgstr "Управление на яркостта и цветовете"
 
 msgid "Brilho e cor"
-msgstr ""
+msgstr "Блясък и цвят"
 
 msgid "Equalizador (DSP)"
-msgstr ""
+msgstr "Еквалайзер (DSP)"
 
 msgid "Gerenciador de senhas"
-msgstr ""
+msgstr "Мениджър на пароли"
 
 msgid "As configurações da tela foram resetadas."
 msgstr "Настройките на екрана са нулирани."
@@ -440,9 +446,6 @@ msgstr "Категории"
 msgid "Principais"
 msgstr "Основен"
 
-msgid "Sistema"
-msgstr "Система"
-
 msgid "Aparência"
 msgstr "Външен вид"
 
@@ -454,9 +457,6 @@ msgstr "Персонализиране на"
 
 msgid "Telefone"
 msgstr "Телефон"
-
-msgid "Multimídia"
-msgstr "Мултимедия"
 
 msgid "Rede e Internet"
 msgstr "Мрежа и интернет"

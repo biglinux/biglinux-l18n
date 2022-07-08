@@ -34,34 +34,34 @@ msgstr ""
 "PDF, \"Otevřít pomocí\" a vybrat možnost OCR."
 
 msgid "Normal"
-msgstr ""
+msgstr "Normální"
 
 msgid "Economico"
-msgstr ""
+msgstr "Úsporné"
 
 msgid "Mais econômico"
-msgstr ""
+msgstr "Úspornější"
 
 msgid "Alinhar"
-msgstr ""
+msgstr "Zarovnat"
 
 msgid "Auto rotacionar"
-msgstr ""
+msgstr "Automatické otáčení"
 
 msgid "Alinhar e auto rotacionar"
-msgstr ""
+msgstr "Zarovnání a automatické otáčení"
 
 msgid "Não alterar"
-msgstr ""
+msgstr "Neměňte"
 
 msgid "Espanhol"
-msgstr ""
+msgstr "Španělština"
 
 msgid "Inglês"
-msgstr ""
+msgstr "Angličtina"
 
 msgid "Português"
-msgstr ""
+msgstr "Portugalština"
 
 msgid ""
 "Adicionar OCR no PDF digitalizado permitindo seleção de textos e busca:"
@@ -69,25 +69,22 @@ msgstr ""
 "Přidání OCR do naskenovaného PDF, které umožňuje výběr textu a vyhledávání:"
 
 msgid "Quantidade de arquivos:"
-msgstr ""
+msgstr "Počet souborů:"
 
 msgid "Páginas:"
-msgstr ""
+msgstr "Stránky:"
 
 msgid "Idioma do PDF:"
-msgstr ""
+msgstr "Jazyk PDF:"
 
 msgid "Qualidade do PDF:"
-msgstr ""
+msgstr "Kvalita PDF:"
 
 msgid "Alinhamento:"
-msgstr ""
-
-msgid "OCR para PDF"
-msgstr "OCR pro PDF"
+msgstr "Zarovnání:"
 
 msgid "Concluído!"
 msgstr "Hotovo!"
 
 msgid "Salvo em: "
-msgstr ""
+msgstr "Uloženo v "

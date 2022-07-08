@@ -97,11 +97,14 @@ msgstr ""
 "Мы прапануем поўныя налады, якія вы можаце выбраць надзвычай простым "
 "спосабам."
 
+msgid "Temas, Desktop e Ajustes"
+msgstr "Тэмы, працоўны стол і налады"
+
 msgid "Escolha seu Avatar"
 msgstr "Выберыце свой аватар"
 
 msgid "Pacotes de Idioma"
-msgstr ""
+msgstr "Моўныя пакеты"
 
 msgid "Escolha seu navegador padrão"
 msgstr "Выберыце браўзер па змаўчанні"
@@ -154,6 +157,9 @@ msgstr "Зніжэнне шуму"
 
 msgid "Configurar a voz do sistema (TTS)"
 msgstr "Наладзіць сістэмны голас (TTS)"
+
+msgid "OCR para PDF"
+msgstr "OCR ў pdf"
 
 msgid "Doação e Redes sociais"
 msgstr "Ахвяраванне і сацыяльныя сеткі"
@@ -399,25 +405,25 @@ msgid "Informações de armazenamento (SMART)"
 msgstr "Інфармацыя пра захоўванне (SMART)"
 
 msgid "Gerenciar serviços (Systemd)"
-msgstr ""
+msgstr "Кіраванне службамі (Systemd)"
 
 msgid "Configurar o AppimageLauncher"
-msgstr ""
+msgstr "Наладзьце AppimageLauncher"
 
 msgid "Escolher o comportamento dos programas disponibilizados em .appimage"
-msgstr ""
+msgstr "Выберыце паводзіны праграм, даступных у .appimage"
 
 msgid "Controle o brilho e as cores"
-msgstr ""
+msgstr "Кіруйце яркасцю і колерамі"
 
 msgid "Brilho e cor"
-msgstr ""
+msgstr "яркасць і колер"
 
 msgid "Equalizador (DSP)"
-msgstr ""
+msgstr "Эквалайзер (DSP)"
 
 msgid "Gerenciador de senhas"
-msgstr ""
+msgstr "менеджэр пароляў"
 
 msgid "As configurações da tela foram resetadas."
 msgstr "Налады экрана былі скінуты."
@@ -431,9 +437,6 @@ msgstr "Катэгорыі"
 msgid "Principais"
 msgstr "Галоўны"
 
-msgid "Sistema"
-msgstr "Сістэма"
-
 msgid "Aparência"
 msgstr "Знешні выгляд"
 
@@ -445,9 +448,6 @@ msgstr "Персаналізацыя"
 
 msgid "Telefone"
 msgstr "Тэлефон"
-
-msgid "Multimídia"
-msgstr "Мультымедыя"
 
 msgid "Rede e Internet"
 msgstr "Сетка і Інтэрнэт"

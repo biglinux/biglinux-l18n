@@ -100,11 +100,14 @@ msgstr ""
 "Ponúkame kompletné konfigurácie, z ktorých si môžete veľmi jednoducho vybrať."
 ""
 
+msgid "Temas, Desktop e Ajustes"
+msgstr "Témy, pracovná plocha a nastavenia"
+
 msgid "Escolha seu Avatar"
 msgstr "Vyberte si svojho avatara"
 
 msgid "Pacotes de Idioma"
-msgstr ""
+msgstr "Jazykové balíky"
 
 msgid "Escolha seu navegador padrão"
 msgstr "Vyberte si predvolený prehliadač"
@@ -157,6 +160,9 @@ msgstr "Redukcia hluku"
 
 msgid "Configurar a voz do sistema (TTS)"
 msgstr "Nastavenie systémového hlasu (TTS)"
+
+msgid "OCR para PDF"
+msgstr "OCR pre PDF"
 
 msgid "Doação e Redes sociais"
 msgstr "Darcovstvo a sociálne siete"
@@ -404,25 +410,25 @@ msgid "Informações de armazenamento (SMART)"
 msgstr "Informácie o ukladaní (SMART)"
 
 msgid "Gerenciar serviços (Systemd)"
-msgstr ""
+msgstr "Správa služieb (Systemd)"
 
 msgid "Configurar o AppimageLauncher"
-msgstr ""
+msgstr "Konfigurácia aplikácie AppimageLauncher"
 
 msgid "Escolher o comportamento dos programas disponibilizados em .appimage"
-msgstr ""
+msgstr "Vyberte správanie programov dostupných v .appimage"
 
 msgid "Controle o brilho e as cores"
-msgstr ""
+msgstr "Ovládanie jasu a farieb"
 
 msgid "Brilho e cor"
-msgstr ""
+msgstr "Lesk a farba"
 
 msgid "Equalizador (DSP)"
-msgstr ""
+msgstr "Ekvalizér (DSP)"
 
 msgid "Gerenciador de senhas"
-msgstr ""
+msgstr "Správca hesiel"
 
 msgid "As configurações da tela foram resetadas."
 msgstr "Nastavenia obrazovky boli resetované."
@@ -436,9 +442,6 @@ msgstr "Kategórie"
 msgid "Principais"
 msgstr "Hlavná stránka"
 
-msgid "Sistema"
-msgstr "Systém"
-
 msgid "Aparência"
 msgstr "Vzhľad"
 
@@ -450,9 +453,6 @@ msgstr "Prispôsobenie stránky"
 
 msgid "Telefone"
 msgstr "Telefón"
-
-msgid "Multimídia"
-msgstr "Multimédiá"
 
 msgid "Rede e Internet"
 msgstr "Sieť a internet"

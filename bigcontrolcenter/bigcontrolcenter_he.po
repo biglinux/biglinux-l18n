@@ -98,6 +98,9 @@ msgid ""
 "extremamente simples."
 msgstr "תצורות שלמות זמינות לבחירתך בצורה פשוטה ביותר."
 
+msgid "Temas, Desktop e Ajustes"
+msgstr "ערכות נושא, שולחן עבודה והתאמות"
+
 msgid "Escolha seu Avatar"
 msgstr "בחר את הדמות שלך"
 
@@ -153,6 +156,9 @@ msgstr "כמפחית רעש"
 
 msgid "Configurar a voz do sistema (TTS)"
 msgstr "הגדרת קול מערכת (TTS)"
+
+msgid "OCR para PDF"
+msgstr "זיהוי תווים אופטי ל- PDF"
 
 msgid "Doação e Redes sociais"
 msgstr "תרומה ורשתות חברתיות"
@@ -425,9 +431,6 @@ msgstr "קטגוריות"
 msgid "Principais"
 msgstr "ראשי"
 
-msgid "Sistema"
-msgstr "מערכת"
-
 msgid "Aparência"
 msgstr "מראה"
 
@@ -439,9 +442,6 @@ msgstr "להתאים אישית"
 
 msgid "Telefone"
 msgstr "טלפון"
-
-msgid "Multimídia"
-msgstr "מולטימדיה"
 
 msgid "Rede e Internet"
 msgstr "רשת ואינטרנט"

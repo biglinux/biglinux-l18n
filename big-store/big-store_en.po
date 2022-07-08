@@ -279,15 +279,6 @@ msgstr "Flatpak programs"
 msgid "Programas Snap"
 msgstr "Snap Programs"
 
-msgid "Internet"
-msgstr "Internet"
-
-msgid "Escritório"
-msgstr "Office"
-
-msgid "Gráficos"
-msgstr "Graphics"
-
 msgid "Jogos"
 msgstr "Games"
 

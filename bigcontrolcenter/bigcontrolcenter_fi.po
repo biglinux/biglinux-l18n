@@ -100,11 +100,14 @@ msgstr ""
 "Tarjoamme täydellisiä kokoonpanoja, joista voit valita hyvin "
 "yksinkertaisella tavalla."
 
+msgid "Temas, Desktop e Ajustes"
+msgstr "Teemat, työpöytä ja asetukset"
+
 msgid "Escolha seu Avatar"
 msgstr "Valitse Avatar"
 
 msgid "Pacotes de Idioma"
-msgstr ""
+msgstr "Kielipaketit"
 
 msgid "Escolha seu navegador padrão"
 msgstr "Valitse oletusselaimesi"
@@ -157,6 +160,9 @@ msgstr "Melunvaimennin"
 
 msgid "Configurar a voz do sistema (TTS)"
 msgstr "Järjestelmän äänen (TTS) asettaminen"
+
+msgid "OCR para PDF"
+msgstr "OCR PDF:lle"
 
 msgid "Doação e Redes sociais"
 msgstr "Lahjoitukset ja sosiaaliset verkostot"
@@ -407,25 +413,26 @@ msgid "Informações de armazenamento (SMART)"
 msgstr "Varastointitiedot (SMART)"
 
 msgid "Gerenciar serviços (Systemd)"
-msgstr ""
+msgstr "Palveluiden hallinta (Systemd)"
 
 msgid "Configurar o AppimageLauncher"
-msgstr ""
+msgstr "AppimageLauncherin määrittäminen"
 
 msgid "Escolher o comportamento dos programas disponibilizados em .appimage"
 msgstr ""
+"Valitse .appimage-tiedostossa käytettävissä olevien ohjelmien käyttäytyminen"
 
 msgid "Controle o brilho e as cores"
-msgstr ""
+msgstr "Säädä kirkkautta ja värejä"
 
 msgid "Brilho e cor"
-msgstr ""
+msgstr "Kiilto ja väri"
 
 msgid "Equalizador (DSP)"
-msgstr ""
+msgstr "Equalizer (DSP)"
 
 msgid "Gerenciador de senhas"
-msgstr ""
+msgstr "Salasananhallinta"
 
 msgid "As configurações da tela foram resetadas."
 msgstr "Näytön asetukset on nollattu."
@@ -439,9 +446,6 @@ msgstr "Kategoriat"
 msgid "Principais"
 msgstr "Main"
 
-msgid "Sistema"
-msgstr "Järjestelmä"
-
 msgid "Aparência"
 msgstr "Ulkonäkö"
 
@@ -453,9 +457,6 @@ msgstr "Mukauta"
 
 msgid "Telefone"
 msgstr "Puhelin"
-
-msgid "Multimídia"
-msgstr "Multimedia"
 
 msgid "Rede e Internet"
 msgstr "Verkko ja Internet"

@@ -100,11 +100,14 @@ msgstr ""
 "Vi tillhandahåller kompletta konfigurationer som du kan välja mellan på ett "
 "mycket enkelt sätt."
 
+msgid "Temas, Desktop e Ajustes"
+msgstr "Teman, skrivbord och inställningar"
+
 msgid "Escolha seu Avatar"
 msgstr "Välj din avatar"
 
 msgid "Pacotes de Idioma"
-msgstr ""
+msgstr "Språkpaket"
 
 msgid "Escolha seu navegador padrão"
 msgstr "Välj din standardwebbläsare"
@@ -157,6 +160,9 @@ msgstr "Ljudreducerare"
 
 msgid "Configurar a voz do sistema (TTS)"
 msgstr "Ställa in systemröst (TTS)"
+
+msgid "OCR para PDF"
+msgstr "OCR för PDF"
 
 msgid "Doação e Redes sociais"
 msgstr "Donationer och sociala nätverk"
@@ -404,25 +410,25 @@ msgid "Informações de armazenamento (SMART)"
 msgstr "Lagringsinformation (SMART)"
 
 msgid "Gerenciar serviços (Systemd)"
-msgstr ""
+msgstr "Hantera tjänster (Systemd)"
 
 msgid "Configurar o AppimageLauncher"
-msgstr ""
+msgstr "Konfigurera AppimageLauncher"
 
 msgid "Escolher o comportamento dos programas disponibilizados em .appimage"
-msgstr ""
+msgstr "Välj beteende för de program som finns i .appimage"
 
 msgid "Controle o brilho e as cores"
-msgstr ""
+msgstr "Kontrollera ljusstyrka och färger"
 
 msgid "Brilho e cor"
-msgstr ""
+msgstr "Glans och färg"
 
 msgid "Equalizador (DSP)"
-msgstr ""
+msgstr "Equalizer (DSP)"
 
 msgid "Gerenciador de senhas"
-msgstr ""
+msgstr "Lösenordshanterare"
 
 msgid "As configurações da tela foram resetadas."
 msgstr "Skärminställningarna har återställts."
@@ -436,9 +442,6 @@ msgstr "Kategorier"
 msgid "Principais"
 msgstr "Huvudsidan"
 
-msgid "Sistema"
-msgstr "System"
-
 msgid "Aparência"
 msgstr "Utseende"
 
@@ -450,9 +453,6 @@ msgstr "Anpassa"
 
 msgid "Telefone"
 msgstr "Telefon"
-
-msgid "Multimídia"
-msgstr "Multimedia"
 
 msgid "Rede e Internet"
 msgstr "Nätverk och Internet"

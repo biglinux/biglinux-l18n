@@ -17,6 +17,27 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit"
 
+msgid "Restaurar Configurações"
+msgstr "設定の復元"
+
+msgid ""
+"Atenção! O programa está aberto!\\nEle será fechado para que a restauração "
+"tenha efeito."
+msgstr "注意!プログラムはオープンです！復旧の効果が出るまでクローズとなります。"
+
+msgid "As configurações foram restauradas com sucesso!"
+msgstr "設定の復元に成功しました"
+
+msgid ""
+"Você tem certeza que deseja restaurar todas as configurações do KDE/"
+"Plasma?\\nIsso apagará todas as configurações definidas por $USER!"
+msgstr "KDE/Plasmaの設定を全て復元してよろしいですか？ \\USERで設定した設定を全て消去します！(笑)"
+
+msgid ""
+"As configurações foram restauradas com sucesso!\\nÉ necessário fazer logoff/"
+"login para concluir a restauração!"
+msgstr "設定の復元に成功しました！復元を完了するには、ログオフ/ログオンする必要があります。"
+
 msgid ""
 "Restaurar&nbsp;o&nbsp;programa&nbsp;como&nbsp;modo&nbsp;padrão&nbsp;ou&nbsp;distribuição&nbsp;BigLinux."
 ""
@@ -45,6 +66,9 @@ msgid ""
 msgstr ""
 "動画-(Smplayer) smplayer.sh マルチメディア smplayer.png smplayer skel $COMMENT_skel"
 
+msgid "Fechar"
+msgstr "閉じる"
+
 msgid "Restaurar no modo padrão da distribuição"
 msgstr "デフォルトの配信モードに戻す"
 
@@ -63,26 +87,20 @@ msgstr "プログラム設定を元に戻す。"
 msgid "Principal"
 msgstr "メイン"
 
+msgid "Internet"
+msgstr "インターネット"
+
+msgid "Multimídia"
+msgstr "マルチメディア"
+
+msgid "Gráficos"
+msgstr "グラフィック"
+
+msgid "Escritório"
+msgstr "オフィス"
+
+msgid "Sistema"
+msgstr "システム"
+
 msgid "Pesquisar Restaurar"
 msgstr "検索リストア"
-
-msgid "Restaurar Configurações"
-msgstr "設定の復元"
-
-msgid ""
-"Atenção! O programa está aberto!\\nEle será fechado para que a restauração "
-"tenha efeito."
-msgstr "注意!プログラムはオープンです！復旧の効果が出るまでクローズとなります。"
-
-msgid "As configurações foram restauradas com sucesso!"
-msgstr "設定の復元に成功しました"
-
-msgid ""
-"Você tem certeza que deseja restaurar todas as configurações do KDE/"
-"Plasma?\\nIsso apagará todas as configurações definidas por $USER!"
-msgstr "KDE/Plasmaの設定を全て復元してよろしいですか？ \\USERで設定した設定を全て消去します！(笑)"
-
-msgid ""
-"As configurações foram restauradas com sucesso!\\nÉ necessário fazer logoff/"
-"login para concluir a restauração!"
-msgstr "設定の復元に成功しました！復元を完了するには、ログオフ/ログオンする必要があります。"

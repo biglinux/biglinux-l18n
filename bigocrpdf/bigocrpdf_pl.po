@@ -34,34 +34,34 @@ msgstr ""
 "myszy na plik PDF, \"Otwórz za pomocą\" i wybrać opcję OCR."
 
 msgid "Normal"
-msgstr ""
+msgstr "Normalna"
 
 msgid "Economico"
-msgstr ""
+msgstr "Ekonomiczny"
 
 msgid "Mais econômico"
-msgstr ""
+msgstr "Bardziej ekonomiczny"
 
 msgid "Alinhar"
-msgstr ""
+msgstr "Wyrównaj"
 
 msgid "Auto rotacionar"
-msgstr ""
+msgstr "Automatyczny obrót"
 
 msgid "Alinhar e auto rotacionar"
-msgstr ""
+msgstr "Wyrównywanie i automatyczne obracanie"
 
 msgid "Não alterar"
-msgstr ""
+msgstr "Nie zmieniać"
 
 msgid "Espanhol"
-msgstr ""
+msgstr "Hiszpański"
 
 msgid "Inglês"
-msgstr ""
+msgstr "Angielski"
 
 msgid "Português"
-msgstr ""
+msgstr "Portugalski"
 
 msgid ""
 "Adicionar OCR no PDF digitalizado permitindo seleção de textos e busca:"
@@ -70,25 +70,22 @@ msgstr ""
 "tekstu:"
 
 msgid "Quantidade de arquivos:"
-msgstr ""
+msgstr "Liczba plików:"
 
 msgid "Páginas:"
-msgstr ""
+msgstr "Strony:"
 
 msgid "Idioma do PDF:"
-msgstr ""
+msgstr "Język PDF:"
 
 msgid "Qualidade do PDF:"
-msgstr ""
+msgstr "Jakość PDF:"
 
 msgid "Alinhamento:"
-msgstr ""
-
-msgid "OCR para PDF"
-msgstr "OCR dla PDF"
+msgstr "Wyrównanie:"
 
 msgid "Concluído!"
 msgstr "Gotowe!"
 
 msgid "Salvo em: "
-msgstr ""
+msgstr "Zapisane w "

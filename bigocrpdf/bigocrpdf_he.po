@@ -81,9 +81,6 @@ msgstr "איכות PDF:"
 msgid "Alinhamento:"
 msgstr "יישור:"
 
-msgid "OCR para PDF"
-msgstr "זיהוי תווים אופטי ל- PDF"
-
 msgid "Concluído!"
 msgstr "הושלם!"
 

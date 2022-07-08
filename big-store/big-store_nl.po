@@ -25,7 +25,7 @@ msgstr ""
 "Generated-By: pygettext.py 1.5"
 
 msgid "Big-Store está aberta."
-msgstr ""
+msgstr "Big-Store is open."
 
 msgid "Big-Store"
 msgstr "Big-Store"
@@ -103,6 +103,12 @@ msgid ""
 "se o programa que você procura está disponível apenas neste<br>\n"
 "formato, utilize-o."
 msgstr ""
+"\n"
+"Snap programma's, zoals Flatpak<br>\n"
+"biedt software voor alle Linux-distributies.<br>\n"
+"Het is meestal zwaarder en minder in het systeem geïntegreerd, maar<br>\n"
+"als het programma dat u zoekt alleen beschikbaar is in dit<br>\n"
+"formaat, gebruik het dan."
 
 msgid ""
 "\n"
@@ -110,6 +116,10 @@ msgid ""
 "e oculta resultados que são úteis <br>\n"
 "apenas a usuários avançados."
 msgstr ""
+"\n"
+"Geeft alleen geselecteerde programma's weer<br>\n"
+"en verbergt resultaten die nuttig zijn <br>\n"
+"alleen voor gevorderde gebruikers."
 
 msgid "Aplicando - Aguarde"
 msgstr "Aanvragen - Even geduld a.u.b"
@@ -118,7 +128,7 @@ msgid "Procurar programa"
 msgstr "Zoekprogramma"
 
 msgid "Modo Simplificado"
-msgstr ""
+msgstr "Vereenvoudigde modus"
 
 msgid "Navegadores"
 msgstr "Browsers"
@@ -145,7 +155,7 @@ msgid "Ferramentas de rede"
 msgstr "Netwerkgereedschappen"
 
 msgid "Notícias, Feeds e RSS"
-msgstr ""
+msgstr "Nieuws, Feeds en RSS"
 
 msgid "Suíte Office"
 msgstr "Kantoor-Suite"
@@ -269,15 +279,6 @@ msgstr "Flatpak programma's"
 
 msgid "Programas Snap"
 msgstr "Snap programma's"
-
-msgid "Internet"
-msgstr "Internet"
-
-msgid "Escritório"
-msgstr "Kantoor"
-
-msgid "Gráficos"
-msgstr "Graphics"
 
 msgid "Jogos"
 msgstr "Spelletjes"

@@ -35,34 +35,34 @@ msgstr ""
 ""
 
 msgid "Normal"
-msgstr ""
+msgstr "Normál"
 
 msgid "Economico"
-msgstr ""
+msgstr "Gazdaságos"
 
 msgid "Mais econômico"
-msgstr ""
+msgstr "Gazdaságosabb"
 
 msgid "Alinhar"
-msgstr ""
+msgstr "Align"
 
 msgid "Auto rotacionar"
-msgstr ""
+msgstr "Automatikus forgatás"
 
 msgid "Alinhar e auto rotacionar"
-msgstr ""
+msgstr "Igazítás és automatikus forgatás"
 
 msgid "Não alterar"
-msgstr ""
+msgstr "Ne változtasson"
 
 msgid "Espanhol"
-msgstr ""
+msgstr "Spanyol"
 
 msgid "Inglês"
-msgstr ""
+msgstr "Angol"
 
 msgid "Português"
-msgstr ""
+msgstr "Portugál"
 
 msgid ""
 "Adicionar OCR no PDF digitalizado permitindo seleção de textos e busca:"
@@ -71,25 +71,22 @@ msgstr ""
 "kiválasztását és a keresést:"
 
 msgid "Quantidade de arquivos:"
-msgstr ""
+msgstr "A fájlok száma:"
 
 msgid "Páginas:"
-msgstr ""
+msgstr "Oldalak:"
 
 msgid "Idioma do PDF:"
-msgstr ""
+msgstr "PDF nyelv:"
 
 msgid "Qualidade do PDF:"
-msgstr ""
+msgstr "PDF minőség:"
 
 msgid "Alinhamento:"
-msgstr ""
-
-msgid "OCR para PDF"
-msgstr "OCR a PDF-hez"
+msgstr "Kijelölés:"
 
 msgid "Concluído!"
 msgstr "Kész!"
 
 msgid "Salvo em: "
-msgstr ""
+msgstr "Mentve "

@@ -99,11 +99,14 @@ msgid ""
 msgstr ""
 "Kompletne konfiguracije dostupne su za odabir na izuzetno jednostavan način."
 
+msgid "Temas, Desktop e Ajustes"
+msgstr "Teme, radna površina i prilagodbe"
+
 msgid "Escolha seu Avatar"
 msgstr "Odaberite svoj Avatar"
 
 msgid "Pacotes de Idioma"
-msgstr ""
+msgstr "Jezični paketi"
 
 msgid "Escolha seu navegador padrão"
 msgstr "Odaberite svoj zadani preglednik"
@@ -158,6 +161,9 @@ msgstr "Reduktor buke"
 
 msgid "Configurar a voz do sistema (TTS)"
 msgstr "Postavljanje glasovnog sustava (TTS)"
+
+msgid "OCR para PDF"
+msgstr "OCR do PDF"
 
 msgid "Doação e Redes sociais"
 msgstr "Donacija i društvene mreže"
@@ -405,25 +411,25 @@ msgid "Informações de armazenamento (SMART)"
 msgstr "Informacije za pohranu (SMART)"
 
 msgid "Gerenciar serviços (Systemd)"
-msgstr ""
+msgstr "Upravljanje uslugama (Systemd)"
 
 msgid "Configurar o AppimageLauncher"
-msgstr ""
+msgstr "Konfigurirajte aplikaciju ImageLauncher"
 
 msgid "Escolher o comportamento dos programas disponibilizados em .appimage"
-msgstr ""
+msgstr "Odaberite ponašanje programa dostupnih u .appimage"
 
 msgid "Controle o brilho e as cores"
-msgstr ""
+msgstr "Kontrola svjetline i boja"
 
 msgid "Brilho e cor"
-msgstr ""
+msgstr "Svjetlina i boja"
 
 msgid "Equalizador (DSP)"
-msgstr ""
+msgstr "Ekvilajzer (DSP)"
 
 msgid "Gerenciador de senhas"
-msgstr ""
+msgstr "Upravitelj lozinki"
 
 msgid "As configurações da tela foram resetadas."
 msgstr "Postavke zaslona su resetirane."
@@ -437,9 +443,6 @@ msgstr "Kategorije"
 msgid "Principais"
 msgstr "Glavni"
 
-msgid "Sistema"
-msgstr "Sustav"
-
 msgid "Aparência"
 msgstr "Izgled"
 
@@ -451,9 +454,6 @@ msgstr "personalizirati"
 
 msgid "Telefone"
 msgstr "telefon"
-
-msgid "Multimídia"
-msgstr "Multimedija"
 
 msgid "Rede e Internet"
 msgstr "Mreža i Internet"

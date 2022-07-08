@@ -32,59 +32,56 @@ msgstr ""
 "你也可以使用文件管理器，在PDF文件上点击右键，'用'打开，并选择OCR选项。"
 
 msgid "Normal"
-msgstr ""
+msgstr "正常"
 
 msgid "Economico"
-msgstr ""
+msgstr "经济型"
 
 msgid "Mais econômico"
-msgstr ""
+msgstr "更经济"
 
 msgid "Alinhar"
-msgstr ""
+msgstr "对齐"
 
 msgid "Auto rotacionar"
-msgstr ""
+msgstr "自动旋转"
 
 msgid "Alinhar e auto rotacionar"
-msgstr ""
+msgstr "对齐和自动旋转"
 
 msgid "Não alterar"
-msgstr ""
+msgstr "请勿更改"
 
 msgid "Espanhol"
-msgstr ""
+msgstr "西班牙"
 
 msgid "Inglês"
-msgstr ""
+msgstr "英语"
 
 msgid "Português"
-msgstr ""
+msgstr "葡萄牙语"
 
 msgid ""
 "Adicionar OCR no PDF digitalizado permitindo seleção de textos e busca:"
 msgstr "在扫描的PDF中添加OCR，允许文本选择和搜索。"
 
 msgid "Quantidade de arquivos:"
-msgstr ""
+msgstr "文件的数量。"
 
 msgid "Páginas:"
-msgstr ""
+msgstr "页数。"
 
 msgid "Idioma do PDF:"
-msgstr ""
+msgstr "PDF语言。"
 
 msgid "Qualidade do PDF:"
-msgstr ""
+msgstr "PDF质量。"
 
 msgid "Alinhamento:"
-msgstr ""
-
-msgid "OCR para PDF"
-msgstr "用于PDF的OCR"
+msgstr "隶属关系。"
 
 msgid "Concluído!"
 msgstr "完成了!"
 
 msgid "Salvo em: "
-msgstr ""
+msgstr "保存在。 "

@@ -17,6 +17,34 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit"
 
+msgid "Restaurar Configurações"
+msgstr "Återställa inställningar"
+
+msgid ""
+"Atenção! O programa está aberto!\\nEle será fechado para que a restauração "
+"tenha efeito."
+msgstr ""
+"Varning! Programmet är öppet! Det kommer att vara stängt för att "
+"restaureringen ska kunna träda i kraft."
+
+msgid "As configurações foram restauradas com sucesso!"
+msgstr "Inställningarna har återställts framgångsrikt!"
+
+msgid ""
+"Você tem certeza que deseja restaurar todas as configurações do KDE/"
+"Plasma?\\nIsso apagará todas as configurações definidas por $USER!"
+msgstr ""
+"Är du säker på att du vill återställa alla KDE/Plasma-"
+"inställningar?\\nIsIsIsIs raderar alla inställningar som har gjorts av "
+"$USER!"
+
+msgid ""
+"As configurações foram restauradas com sucesso!\\nÉ necessário fazer logoff/"
+"login para concluir a restauração!"
+msgstr ""
+"Inställningarna har återställts framgångsrikt! Du måste logga ut/på för att "
+"slutföra återställningen!"
+
 msgid ""
 "Restaurar&nbsp;o&nbsp;programa&nbsp;como&nbsp;modo&nbsp;padrão&nbsp;ou&nbsp;distribuição&nbsp;BigLinux."
 ""
@@ -46,6 +74,9 @@ msgstr ""
 "Videos-(Smplayer) smplayer.sh Multimedia smplayer.png smplayer skel "
 "$COMMENT_skel"
 
+msgid "Fechar"
+msgstr "Stäng"
+
 msgid "Restaurar no modo padrão da distribuição"
 msgstr "Återställa standarddistributionsläget"
 
@@ -67,33 +98,20 @@ msgstr "Återställer programinställningarna:"
 msgid "Principal"
 msgstr "Huvudsidan"
 
+msgid "Internet"
+msgstr "Internet"
+
+msgid "Multimídia"
+msgstr "Multimedia"
+
+msgid "Gráficos"
+msgstr "Grafik"
+
+msgid "Escritório"
+msgstr "Kontor"
+
+msgid "Sistema"
+msgstr "System"
+
 msgid "Pesquisar Restaurar"
 msgstr "Sök Återställning"
-
-msgid "Restaurar Configurações"
-msgstr "Återställa inställningar"
-
-msgid ""
-"Atenção! O programa está aberto!\\nEle será fechado para que a restauração "
-"tenha efeito."
-msgstr ""
-"Varning! Programmet är öppet! Det kommer att vara stängt för att "
-"restaureringen ska kunna träda i kraft."
-
-msgid "As configurações foram restauradas com sucesso!"
-msgstr "Inställningarna har återställts framgångsrikt!"
-
-msgid ""
-"Você tem certeza que deseja restaurar todas as configurações do KDE/"
-"Plasma?\\nIsso apagará todas as configurações definidas por $USER!"
-msgstr ""
-"Är du säker på att du vill återställa alla KDE/Plasma-"
-"inställningar?\\nIsIsIsIs raderar alla inställningar som har gjorts av "
-"$USER!"
-
-msgid ""
-"As configurações foram restauradas com sucesso!\\nÉ necessário fazer logoff/"
-"login para concluir a restauração!"
-msgstr ""
-"Inställningarna har återställts framgångsrikt! Du måste logga ut/på för att "
-"slutföra återställningen!"

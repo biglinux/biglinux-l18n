@@ -17,6 +17,33 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit"
 
+msgid "Restaurar Configurações"
+msgstr "Възстановяване на настройките"
+
+msgid ""
+"Atenção! O programa está aberto!\\nEle será fechado para que a restauração "
+"tenha efeito."
+msgstr ""
+"Внимание! Програмата е отворена! Тя ще бъде затворена, за да влезе в сила "
+"възстановяването."
+
+msgid "As configurações foram restauradas com sucesso!"
+msgstr "Настройките са успешно възстановени!"
+
+msgid ""
+"Você tem certeza que deseja restaurar todas as configurações do KDE/"
+"Plasma?\\nIsso apagará todas as configurações definidas por $USER!"
+msgstr ""
+"Сигурни ли сте, че искате да възстановите всички настройки на KDE/"
+"Plasma?\\nIsIsIsIs изтрива всички настройки, зададени от $USER!"
+
+msgid ""
+"As configurações foram restauradas com sucesso!\\nÉ necessário fazer logoff/"
+"login para concluir a restauração!"
+msgstr ""
+"Настройките са успешно възстановени! Трябва да излезете/включите, за да "
+"завършите възстановяването!"
+
 msgid ""
 "Restaurar&nbsp;o&nbsp;programa&nbsp;como&nbsp;modo&nbsp;padrão&nbsp;ou&nbsp;distribuição&nbsp;BigLinux."
 ""
@@ -48,6 +75,9 @@ msgstr ""
 "Видеоклипове-(Smplayer) smplayer.sh Мултимедия smplayer.png smplayer skel "
 "$COMMENT_skel"
 
+msgid "Fechar"
+msgstr "Затвори"
+
 msgid "Restaurar no modo padrão da distribuição"
 msgstr "Възстановяване на режима на разпространение по подразбиране"
 
@@ -70,32 +100,20 @@ msgstr "Възстановяване на настройките на прогр
 msgid "Principal"
 msgstr "Основен"
 
+msgid "Internet"
+msgstr "Интернет"
+
+msgid "Multimídia"
+msgstr "Мултимедия"
+
+msgid "Gráficos"
+msgstr "Графики"
+
+msgid "Escritório"
+msgstr "Офис"
+
+msgid "Sistema"
+msgstr "Система"
+
 msgid "Pesquisar Restaurar"
 msgstr "Възстановяване на търсенето"
-
-msgid "Restaurar Configurações"
-msgstr "Възстановяване на настройките"
-
-msgid ""
-"Atenção! O programa está aberto!\\nEle será fechado para que a restauração "
-"tenha efeito."
-msgstr ""
-"Внимание! Програмата е отворена! Тя ще бъде затворена, за да влезе в сила "
-"възстановяването."
-
-msgid "As configurações foram restauradas com sucesso!"
-msgstr "Настройките са успешно възстановени!"
-
-msgid ""
-"Você tem certeza que deseja restaurar todas as configurações do KDE/"
-"Plasma?\\nIsso apagará todas as configurações definidas por $USER!"
-msgstr ""
-"Сигурни ли сте, че искате да възстановите всички настройки на KDE/"
-"Plasma?\\nIsIsIsIs изтрива всички настройки, зададени от $USER!"
-
-msgid ""
-"As configurações foram restauradas com sucesso!\\nÉ necessário fazer logoff/"
-"login para concluir a restauração!"
-msgstr ""
-"Настройките са успешно възстановени! Трябва да излезете/включите, за да "
-"завършите възстановяването!"

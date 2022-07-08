@@ -34,59 +34,56 @@ msgstr ""
 "'Birlikte aç' ve OCR seçeneğini seçebilirsiniz."
 
 msgid "Normal"
-msgstr ""
+msgstr "Normal"
 
 msgid "Economico"
-msgstr ""
+msgstr "Ekonomik"
 
 msgid "Mais econômico"
-msgstr ""
+msgstr "Daha ekonomik"
 
 msgid "Alinhar"
-msgstr ""
+msgstr "Hizala"
 
 msgid "Auto rotacionar"
-msgstr ""
+msgstr "Otomatik döndürme"
 
 msgid "Alinhar e auto rotacionar"
-msgstr ""
+msgstr "Hizalama ve otomatik döndürme"
 
 msgid "Não alterar"
-msgstr ""
+msgstr "Değiştirmeyin"
 
 msgid "Espanhol"
-msgstr ""
+msgstr "İspanyolca"
 
 msgid "Inglês"
-msgstr ""
+msgstr "İngilizce"
 
 msgid "Português"
-msgstr ""
+msgstr "Portekizce"
 
 msgid ""
 "Adicionar OCR no PDF digitalizado permitindo seleção de textos e busca:"
 msgstr "Taranan PDF'ye OCR ekleyerek metin seçimine ve aramaya olanak tanır:"
 
 msgid "Quantidade de arquivos:"
-msgstr ""
+msgstr "Dosya sayısı:"
 
 msgid "Páginas:"
-msgstr ""
+msgstr "Sayfalar:"
 
 msgid "Idioma do PDF:"
-msgstr ""
+msgstr "PDF dili:"
 
 msgid "Qualidade do PDF:"
-msgstr ""
+msgstr "PDF kalitesinde:"
 
 msgid "Alinhamento:"
-msgstr ""
-
-msgid "OCR para PDF"
-msgstr "PDF için OCR"
+msgstr "Hizalanma:"
 
 msgid "Concluído!"
 msgstr "Tamamdır!"
 
 msgid "Salvo em: "
-msgstr ""
+msgstr "Kaydedildi "

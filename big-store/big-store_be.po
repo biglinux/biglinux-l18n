@@ -25,7 +25,7 @@ msgstr ""
 "Generated-By: pygettext.py 1.5"
 
 msgid "Big-Store está aberta."
-msgstr ""
+msgstr "Big-Store адкрыты."
 
 msgid "Big-Store"
 msgstr "Big-Store"
@@ -97,6 +97,10 @@ msgid ""
 "se o programa que você procura está disponível apenas neste<br>\n"
 "formato, utilize-o."
 msgstr ""
+"Праграмы Snap, а таксама Flatpak<br> забяспечвае праграмы для ўсіх "
+"дыстрыбутываў Linux.<br> Ён, як правіла, больш цяжкі і менш інтэграваны ў "
+"сістэму, але<br> калі праграма, якую вы шукаеце, даступная толькі ў "
+"гэтым<br> фармат, выкарыстоўвайце яго."
 
 msgid ""
 "\n"
@@ -104,6 +108,8 @@ msgid ""
 "e oculta resultados que são úteis <br>\n"
 "apenas a usuários avançados."
 msgstr ""
+"Паказаць толькі выбраныя праграмы<br> і хавае карысныя вынікі<br> толькі для "
+"прасунутых карыстальнікаў."
 
 msgid "Aplicando - Aguarde"
 msgstr "Заяўка - пачакайце"
@@ -112,7 +118,7 @@ msgid "Procurar programa"
 msgstr "пошукавая праграма"
 
 msgid "Modo Simplificado"
-msgstr ""
+msgstr "Спрошчаны рэжым"
 
 msgid "Navegadores"
 msgstr "браўзэры"
@@ -139,7 +145,7 @@ msgid "Ferramentas de rede"
 msgstr "сеткавыя інструменты"
 
 msgid "Notícias, Feeds e RSS"
-msgstr ""
+msgstr "Навіны, стужкі і RSS"
 
 msgid "Suíte Office"
 msgstr "офісны пакет"
@@ -263,15 +269,6 @@ msgstr "Праграмы flatpak"
 
 msgid "Programas Snap"
 msgstr "Прывязкавыя праграмы"
-
-msgid "Internet"
-msgstr "Інтэрнэт"
-
-msgid "Escritório"
-msgstr "Офіс"
-
-msgid "Gráficos"
-msgstr "Графіка"
 
 msgid "Jogos"
 msgstr "Гульні"

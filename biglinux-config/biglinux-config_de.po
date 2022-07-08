@@ -17,6 +17,33 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit"
 
+msgid "Restaurar Configurações"
+msgstr "Einstellungen wiederherstellen"
+
+msgid ""
+"Atenção! O programa está aberto!\\nEle será fechado para que a restauração "
+"tenha efeito."
+msgstr ""
+"Achtung! Das Programm ist offen und wird für die Dauer der Wiederherstellung "
+"geschlossen sein."
+
+msgid "As configurações foram restauradas com sucesso!"
+msgstr "Die Einstellungen wurden erfolgreich wiederhergestellt!"
+
+msgid ""
+"Você tem certeza que deseja restaurar todas as configurações do KDE/"
+"Plasma?\\nIsso apagará todas as configurações definidas por $USER!"
+msgstr ""
+"Sind Sie sicher, dass Sie alle KDE/Plasma-Einstellungen wiederherstellen "
+"wollen? \\nIsIsIs löscht alle Einstellungen, die von $USER gesetzt wurden!"
+
+msgid ""
+"As configurações foram restauradas com sucesso!\\nÉ necessário fazer logoff/"
+"login para concluir a restauração!"
+msgstr ""
+"Einstellungen erfolgreich wiederhergestellt!\\nAbmeldung/Anmeldung "
+"erforderlich, um die Wiederherstellung abzuschließen!"
+
 msgid ""
 "Restaurar&nbsp;o&nbsp;programa&nbsp;como&nbsp;modo&nbsp;padrão&nbsp;ou&nbsp;distribuição&nbsp;BigLinux."
 ""
@@ -48,6 +75,9 @@ msgstr ""
 "Videos-(Smplayer) smplayer.sh Multimedia smplayer.png smplayer skel "
 "$COMMENT_skel"
 
+msgid "Fechar"
+msgstr "Schließen Sie"
+
 msgid "Restaurar no modo padrão da distribuição"
 msgstr "Wiederherstellung des Standardverteilungsmodus"
 
@@ -69,32 +99,20 @@ msgstr "Stellen Sie die Programmeinstellungen wieder her:"
 msgid "Principal"
 msgstr "Hauptseite"
 
+msgid "Internet"
+msgstr "Internet"
+
+msgid "Multimídia"
+msgstr "Multimedia"
+
+msgid "Gráficos"
+msgstr "Grafiken"
+
+msgid "Escritório"
+msgstr "Büro"
+
+msgid "Sistema"
+msgstr "System"
+
 msgid "Pesquisar Restaurar"
 msgstr "Suche Wiederherstellen"
-
-msgid "Restaurar Configurações"
-msgstr "Einstellungen wiederherstellen"
-
-msgid ""
-"Atenção! O programa está aberto!\\nEle será fechado para que a restauração "
-"tenha efeito."
-msgstr ""
-"Achtung! Das Programm ist offen und wird für die Dauer der Wiederherstellung "
-"geschlossen sein."
-
-msgid "As configurações foram restauradas com sucesso!"
-msgstr "Die Einstellungen wurden erfolgreich wiederhergestellt!"
-
-msgid ""
-"Você tem certeza que deseja restaurar todas as configurações do KDE/"
-"Plasma?\\nIsso apagará todas as configurações definidas por $USER!"
-msgstr ""
-"Sind Sie sicher, dass Sie alle KDE/Plasma-Einstellungen wiederherstellen "
-"wollen? \\nIsIsIs löscht alle Einstellungen, die von $USER gesetzt wurden!"
-
-msgid ""
-"As configurações foram restauradas com sucesso!\\nÉ necessário fazer logoff/"
-"login para concluir a restauração!"
-msgstr ""
-"Einstellungen erfolgreich wiederhergestellt!\\nAbmeldung/Anmeldung "
-"erforderlich, um die Wiederherstellung abzuschließen!"

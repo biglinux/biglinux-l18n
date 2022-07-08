@@ -25,7 +25,7 @@ msgstr ""
 "Generated-By: pygettext.py 1.5"
 
 msgid "Big-Store está aberta."
-msgstr ""
+msgstr "Velika trgovina je otvorena."
 
 msgid "Big-Store"
 msgstr "Big-Store"
@@ -104,6 +104,12 @@ msgid ""
 "se o programa que você procura está disponível apenas neste<br>\n"
 "formato, utilize-o."
 msgstr ""
+"\n"
+"Snap programi, kao i Flatpak <br>\n"
+"nudi programe za sve Linux distribucije. <br>\n"
+"Ima tendenciju da bude teži i manje integriran u sustav, ali <br>\n"
+"ako je program koji tražite dostupan samo na ovom <br>\n"
+"format, koristite ga."
 
 msgid ""
 "\n"
@@ -111,6 +117,10 @@ msgid ""
 "e oculta resultados que são úteis <br>\n"
 "apenas a usuários avançados."
 msgstr ""
+"\n"
+"Prikazuje samo odabrane programe <br> \n"
+"i sakriti rezultate koji su korisni <br>\n"
+"samo napredni korisnici."
 
 msgid "Aplicando - Aguarde"
 msgstr "Primjena - Molimo pričekajte"
@@ -119,7 +129,7 @@ msgid "Procurar programa"
 msgstr "Traži program"
 
 msgid "Modo Simplificado"
-msgstr ""
+msgstr "Pojednostavljeni način"
 
 msgid "Navegadores"
 msgstr "navigatori"
@@ -146,7 +156,7 @@ msgid "Ferramentas de rede"
 msgstr "Mrežni alati"
 
 msgid "Notícias, Feeds e RSS"
-msgstr ""
+msgstr "Vijesti, feedovi, i RSS"
 
 msgid "Suíte Office"
 msgstr "Uredski apartman"
@@ -270,15 +280,6 @@ msgstr "Flatpak programi"
 
 msgid "Programas Snap"
 msgstr "Snap programi"
-
-msgid "Internet"
-msgstr "Internet"
-
-msgid "Escritório"
-msgstr "Ured"
-
-msgid "Gráficos"
-msgstr "Grafika"
 
 msgid "Jogos"
 msgstr "Igre"

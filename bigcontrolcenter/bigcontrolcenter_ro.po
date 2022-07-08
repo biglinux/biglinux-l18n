@@ -100,11 +100,14 @@ msgstr ""
 "Vă punem la dispoziție configurații complete din care puteți alege într-un "
 "mod foarte simplu."
 
+msgid "Temas, Desktop e Ajustes"
+msgstr "Teme, desktop și setări"
+
 msgid "Escolha seu Avatar"
 msgstr "Alege-ți Avatarul"
 
 msgid "Pacotes de Idioma"
-msgstr ""
+msgstr "Pachete de limbi străine"
 
 msgid "Escolha seu navegador padrão"
 msgstr "Alegeți browserul dvs. implicit"
@@ -157,6 +160,9 @@ msgstr "Reductor de zgomot"
 
 msgid "Configurar a voz do sistema (TTS)"
 msgstr "Setarea vocii sistemului (TTS)"
+
+msgid "OCR para PDF"
+msgstr "OCR pentru PDF"
 
 msgid "Doação e Redes sociais"
 msgstr "Donația și rețelele sociale"
@@ -409,25 +415,25 @@ msgid "Informações de armazenamento (SMART)"
 msgstr "Informații privind stocarea (SMART)"
 
 msgid "Gerenciar serviços (Systemd)"
-msgstr ""
+msgstr "Gestionarea serviciilor (Systemd)"
 
 msgid "Configurar o AppimageLauncher"
-msgstr ""
+msgstr "Configurarea AppimageLauncher"
 
 msgid "Escolher o comportamento dos programas disponibilizados em .appimage"
-msgstr ""
+msgstr "Alegeți comportamentul programelor disponibile în .appimage"
 
 msgid "Controle o brilho e as cores"
-msgstr ""
+msgstr "Controlați luminozitatea și culorile"
 
 msgid "Brilho e cor"
-msgstr ""
+msgstr "Strălucire și culoare"
 
 msgid "Equalizador (DSP)"
-msgstr ""
+msgstr "Egalizator (DSP)"
 
 msgid "Gerenciador de senhas"
-msgstr ""
+msgstr "Manager de parole"
 
 msgid "As configurações da tela foram resetadas."
 msgstr "Setările ecranului au fost resetate."
@@ -441,9 +447,6 @@ msgstr "Categorii"
 msgid "Principais"
 msgstr "Principal"
 
-msgid "Sistema"
-msgstr "Sistem"
-
 msgid "Aparência"
 msgstr "Aspect"
 
@@ -455,9 +458,6 @@ msgstr "Personalizați"
 
 msgid "Telefone"
 msgstr "Telefon"
-
-msgid "Multimídia"
-msgstr "Multimedia"
 
 msgid "Rede e Internet"
 msgstr "Rețea și Internet"

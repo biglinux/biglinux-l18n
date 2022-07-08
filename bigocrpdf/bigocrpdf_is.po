@@ -34,59 +34,56 @@ msgstr ""
 "og veldu OCR valkostinn."
 
 msgid "Normal"
-msgstr ""
+msgstr "vanabundinn"
 
 msgid "Economico"
-msgstr ""
+msgstr "Hagkvæmt"
 
 msgid "Mais econômico"
-msgstr ""
+msgstr "Hagkvæmari"
 
 msgid "Alinhar"
-msgstr ""
+msgstr "Samræma"
 
 msgid "Auto rotacionar"
-msgstr ""
+msgstr "Auto Snúa"
 
 msgid "Alinhar e auto rotacionar"
-msgstr ""
+msgstr "Samræma og Auto-Snúa"
 
 msgid "Não alterar"
-msgstr ""
+msgstr "Ekki breyta"
 
 msgid "Espanhol"
-msgstr ""
+msgstr "spænska, spænskt"
 
 msgid "Inglês"
-msgstr ""
+msgstr "Enska"
 
 msgid "Português"
-msgstr ""
+msgstr "Portúgalska"
 
 msgid ""
 "Adicionar OCR no PDF digitalizado permitindo seleção de textos e busca:"
 msgstr "Bæta OCR við skönnuð PDF leyfa texta val og leita:"
 
 msgid "Quantidade de arquivos:"
-msgstr ""
+msgstr "Fjöldi skráa:"
 
 msgid "Páginas:"
-msgstr ""
+msgstr "Síður:"
 
 msgid "Idioma do PDF:"
-msgstr ""
+msgstr "PDF tungumál:"
 
 msgid "Qualidade do PDF:"
-msgstr ""
+msgstr "PDF gæði:"
 
 msgid "Alinhamento:"
-msgstr ""
-
-msgid "OCR para PDF"
-msgstr "OCR til PDF"
+msgstr "Jöfnun:"
 
 msgid "Concluído!"
 msgstr "Lokið!"
 
 msgid "Salvo em: "
-msgstr ""
+msgstr "Vistað í: "

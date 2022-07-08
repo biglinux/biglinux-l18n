@@ -25,7 +25,7 @@ msgstr ""
 "Generated-By: pygettext.py 1.5"
 
 msgid "Big-Store está aberta."
-msgstr ""
+msgstr "Біг-магазин відкритий."
 
 msgid "Big-Store"
 msgstr "Біг-магазин"
@@ -103,6 +103,12 @@ msgid ""
 "se o programa que você procura está disponível apenas neste<br>\n"
 "formato, utilize-o."
 msgstr ""
+"\n"
+"Програми Snap, а також Flatpak <br>\n"
+"пропонує програми для всіх дистрибутивів Linux. <br>\n"
+"Він, як правило, важчий і менш інтегрований в систему, але <br>\n"
+"якщо програма, яку ви шукаєте, доступна тільки на цьому <br>\n"
+"форматувати, використовувати його."
 
 msgid ""
 "\n"
@@ -110,6 +116,10 @@ msgid ""
 "e oculta resultados que são úteis <br>\n"
 "apenas a usuários avançados."
 msgstr ""
+"\n"
+"Відображення лише вибраних програм <br> \n"
+"і приховати корисні результати <br>\n"
+"тільки для досвідчених користувачів."
 
 msgid "Aplicando - Aguarde"
 msgstr "Застосування - будь ласка, зачекайте"
@@ -118,7 +128,7 @@ msgid "Procurar programa"
 msgstr "Пошук програми"
 
 msgid "Modo Simplificado"
-msgstr ""
+msgstr "Спрощений режим"
 
 msgid "Navegadores"
 msgstr "навігаторів"
@@ -145,7 +155,7 @@ msgid "Ferramentas de rede"
 msgstr "Мережеві інструменти"
 
 msgid "Notícias, Feeds e RSS"
-msgstr ""
+msgstr "Новини, канали та RSS"
 
 msgid "Suíte Office"
 msgstr "Офісний пакет"
@@ -269,15 +279,6 @@ msgstr "Програми Flatpak"
 
 msgid "Programas Snap"
 msgstr "Прив'язати програми"
-
-msgid "Internet"
-msgstr "Internet"
-
-msgid "Escritório"
-msgstr "Офіс"
-
-msgid "Gráficos"
-msgstr "графіка"
 
 msgid "Jogos"
 msgstr "Ігри"

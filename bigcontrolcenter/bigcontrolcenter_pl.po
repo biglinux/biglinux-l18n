@@ -100,11 +100,14 @@ msgstr ""
 "Zapewniamy kompletne konfiguracje, z których mogą Państwo wybierać w bardzo "
 "prosty sposób."
 
+msgid "Temas, Desktop e Ajustes"
+msgstr "Motywy, Pulpit i Ustawienia"
+
 msgid "Escolha seu Avatar"
 msgstr "Proszę wybrać swój awatar"
 
 msgid "Pacotes de Idioma"
-msgstr ""
+msgstr "Pakiety językowe"
 
 msgid "Escolha seu navegador padrão"
 msgstr "Proszę wybrać swoją domyślną przeglądarkę"
@@ -158,6 +161,9 @@ msgstr "Reduktor hałasu"
 
 msgid "Configurar a voz do sistema (TTS)"
 msgstr "Ustawianie głosu systemowego (TTS)"
+
+msgid "OCR para PDF"
+msgstr "OCR dla PDF"
 
 msgid "Doação e Redes sociais"
 msgstr "Darowizny i sieci społeczne"
@@ -412,25 +418,25 @@ msgid "Informações de armazenamento (SMART)"
 msgstr "Informacje o pamięci masowej (SMART)"
 
 msgid "Gerenciar serviços (Systemd)"
-msgstr ""
+msgstr "Zarządzanie usługami (Systemd)"
 
 msgid "Configurar o AppimageLauncher"
-msgstr ""
+msgstr "Konfiguracja AppimageLauncher"
 
 msgid "Escolher o comportamento dos programas disponibilizados em .appimage"
-msgstr ""
+msgstr "Wybrać zachowanie programów dostępnych w .appimage"
 
 msgid "Controle o brilho e as cores"
-msgstr ""
+msgstr "Regulacja jasności i kolorów"
 
 msgid "Brilho e cor"
-msgstr ""
+msgstr "Połysk i kolor"
 
 msgid "Equalizador (DSP)"
-msgstr ""
+msgstr "Equalizer (DSP)"
 
 msgid "Gerenciador de senhas"
-msgstr ""
+msgstr "Menedżer haseł"
 
 msgid "As configurações da tela foram resetadas."
 msgstr "Ustawienia ekranu zostały zresetowane."
@@ -444,9 +450,6 @@ msgstr "Kategorie"
 msgid "Principais"
 msgstr "Główna"
 
-msgid "Sistema"
-msgstr "System"
-
 msgid "Aparência"
 msgstr "Wygląd"
 
@@ -458,9 +461,6 @@ msgstr "Dostosuj"
 
 msgid "Telefone"
 msgstr "Telefon"
-
-msgid "Multimídia"
-msgstr "Multimedia"
 
 msgid "Rede e Internet"
 msgstr "Sieć i Internet"

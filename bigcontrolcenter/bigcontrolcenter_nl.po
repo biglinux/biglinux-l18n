@@ -100,11 +100,14 @@ msgstr ""
 "Wij bieden complete configuraties waaruit u op een heel eenvoudige manier "
 "kunt kiezen."
 
+msgid "Temas, Desktop e Ajustes"
+msgstr "Thema's, Bureaublad en Instellingen"
+
 msgid "Escolha seu Avatar"
 msgstr "Kies uw Avatar"
 
 msgid "Pacotes de Idioma"
-msgstr ""
+msgstr "Taalpakketten"
 
 msgid "Escolha seu navegador padrão"
 msgstr "Kies uw standaardbrowser"
@@ -158,6 +161,9 @@ msgstr "Ruisonderdrukker"
 
 msgid "Configurar a voz do sistema (TTS)"
 msgstr "Instellen van de systeemstem (TTS)"
+
+msgid "OCR para PDF"
+msgstr "OCR voor PDF"
 
 msgid "Doação e Redes sociais"
 msgstr "Donatie en sociale netwerken"
@@ -411,25 +417,25 @@ msgid "Informações de armazenamento (SMART)"
 msgstr "Opslaginformatie (SMART)"
 
 msgid "Gerenciar serviços (Systemd)"
-msgstr ""
+msgstr "Diensten beheren (Systemd)"
 
 msgid "Configurar o AppimageLauncher"
-msgstr ""
+msgstr "De AppimageLauncher configureren"
 
 msgid "Escolher o comportamento dos programas disponibilizados em .appimage"
-msgstr ""
+msgstr "Kies het gedrag van de programma's die beschikbaar zijn in .appimage"
 
 msgid "Controle o brilho e as cores"
-msgstr ""
+msgstr "Helderheid en kleuren regelen"
 
 msgid "Brilho e cor"
-msgstr ""
+msgstr "Glans en kleur"
 
 msgid "Equalizador (DSP)"
-msgstr ""
+msgstr "Equalizer (DSP)"
 
 msgid "Gerenciador de senhas"
-msgstr ""
+msgstr "Wachtwoordbeheer"
 
 msgid "As configurações da tela foram resetadas."
 msgstr "De scherminstellingen zijn opnieuw ingesteld."
@@ -443,9 +449,6 @@ msgstr "Categorieën"
 msgid "Principais"
 msgstr "Hoofd"
 
-msgid "Sistema"
-msgstr "Systeem"
-
 msgid "Aparência"
 msgstr "Verschijning"
 
@@ -457,9 +460,6 @@ msgstr "Aanpassen"
 
 msgid "Telefone"
 msgstr "Telefoon"
-
-msgid "Multimídia"
-msgstr "Multimedia"
 
 msgid "Rede e Internet"
 msgstr "Netwerk en Internet"

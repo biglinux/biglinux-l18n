@@ -25,7 +25,7 @@ msgstr ""
 "Generated-By: pygettext.py 1.5"
 
 msgid "Big-Store está aberta."
-msgstr ""
+msgstr "ビッグストアがオープンしました。"
 
 msgid "Big-Store"
 msgstr "ビッグストア"
@@ -101,6 +101,12 @@ msgid ""
 "se o programa que você procura está disponível apenas neste<br>\n"
 "formato, utilize-o."
 msgstr ""
+"\n"
+"Flatpakのようなスナッププログラム<br>\n"
+"は、すべてのLinuxディストリビューションに対応したソフトウェアを提供しています。<br>\n"
+"重くなりがちで、システムとの一体感も薄れがちですが<br>\n"
+"探しているプログラムが、このサイトでしか入手できない場合は<br>\n"
+"形式を使用してください。"
 
 msgid ""
 "\n"
@@ -108,6 +114,10 @@ msgid ""
 "e oculta resultados que são úteis <br>\n"
 "apenas a usuários avançados."
 msgstr ""
+"\n"
+"選択した 番組のみ表示<br>\n"
+"で、有用な結果は非表示になります<br>\n"
+"は上級者向けです。"
 
 msgid "Aplicando - Aguarde"
 msgstr "応募中 - しばらくお待ちください"
@@ -116,7 +126,7 @@ msgid "Procurar programa"
 msgstr "検索プログラム"
 
 msgid "Modo Simplificado"
-msgstr ""
+msgstr "簡易モード"
 
 msgid "Navegadores"
 msgstr "ブラウザー"
@@ -143,7 +153,7 @@ msgid "Ferramentas de rede"
 msgstr "ネットワークツール"
 
 msgid "Notícias, Feeds e RSS"
-msgstr ""
+msgstr "ニュース、フィード、RSS"
 
 msgid "Suíte Office"
 msgstr "オフィススイート"
@@ -267,15 +277,6 @@ msgstr "Flatpakプログラム"
 
 msgid "Programas Snap"
 msgstr "スナップ・プログラム"
-
-msgid "Internet"
-msgstr "インターネット"
-
-msgid "Escritório"
-msgstr "オフィス"
-
-msgid "Gráficos"
-msgstr "グラフィック"
 
 msgid "Jogos"
 msgstr "ゲーム"

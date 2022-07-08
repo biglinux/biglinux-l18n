@@ -25,7 +25,7 @@ msgstr ""
 "Generated-By: pygettext.py 1.5"
 
 msgid "Big-Store está aberta."
-msgstr ""
+msgstr "Big-Store on avatud."
 
 msgid "Big-Store"
 msgstr "Big-Store"
@@ -103,6 +103,12 @@ msgid ""
 "se o programa que você procura está disponível apenas neste<br>\n"
 "formato, utilize-o."
 msgstr ""
+"\n"
+"Snap programmid, nagu Flatpak<br>\n"
+"pakub tarkvara kõikidele Linuxi distributsioonidele.<br>\n"
+"See kipub olema raskem ja vähem integreeritud süsteemi, kuid<br>\n"
+"kui otsitav programm on saadaval ainult selles programmis<br>\n"
+"formaat, kasutage seda."
 
 msgid ""
 "\n"
@@ -110,6 +116,10 @@ msgid ""
 "e oculta resultados que são úteis <br>\n"
 "apenas a usuários avançados."
 msgstr ""
+"\n"
+"Kuvab ainult valitud programme<br>\n"
+"ja peidab kasulikud tulemused <br>\n"
+"ainult edasijõudnud kasutajatele."
 
 msgid "Aplicando - Aguarde"
 msgstr "Taotlemine - Palun oodake"
@@ -118,7 +128,7 @@ msgid "Procurar programa"
 msgstr "Otsi programmi"
 
 msgid "Modo Simplificado"
-msgstr ""
+msgstr "Lihtsustatud režiim"
 
 msgid "Navegadores"
 msgstr "Brauserid"
@@ -145,7 +155,7 @@ msgid "Ferramentas de rede"
 msgstr "Võrguvahendid"
 
 msgid "Notícias, Feeds e RSS"
-msgstr ""
+msgstr "Uudised, söötmed ja RSS"
 
 msgid "Suíte Office"
 msgstr "Office Suite"
@@ -269,15 +279,6 @@ msgstr "Flatpak programmid"
 
 msgid "Programas Snap"
 msgstr "Snap programmid"
-
-msgid "Internet"
-msgstr "Internet"
-
-msgid "Escritório"
-msgstr "Kontor"
-
-msgid "Gráficos"
-msgstr "Graafika"
 
 msgid "Jogos"
 msgstr "Mängud"

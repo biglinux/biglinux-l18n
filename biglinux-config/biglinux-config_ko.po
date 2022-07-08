@@ -17,6 +17,27 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit"
 
+msgid "Restaurar Configurações"
+msgstr "복원 설정"
+
+msgid ""
+"Atenção! O programa está aberto!\\nEle será fechado para que a restauração "
+"tenha efeito."
+msgstr "주의!프로그램이 열려 있습니다!\\ n복원을 적용하려면 닫힙니다."
+
+msgid "As configurações foram restauradas com sucesso!"
+msgstr "설정이 성공적으로 복원되었습니다!"
+
+msgid ""
+"Você tem certeza que deseja restaurar todas as configurações do KDE/"
+"Plasma?\\nIsso apagará todas as configurações definidas por $USER!"
+msgstr "모든 KDE/플라즈마 설정을 복원하시겠습니까?\\ n이렇게 하면 $USER에서 정의한 모든 설정이 삭제됩니다."
+
+msgid ""
+"As configurações foram restauradas com sucesso!\\nÉ necessário fazer logoff/"
+"login para concluir a restauração!"
+msgstr "설정이 성공적으로 복원되었습니다!\\ n복원을 완료하려면 로그오프하거나 로그인해야 합니다!"
+
 msgid ""
 "Restaurar&nbsp;o&nbsp;programa&nbsp;como&nbsp;modo&nbsp;padrão&nbsp;ou&nbsp;distribuição&nbsp;BigLinux."
 ""
@@ -40,6 +61,9 @@ msgid ""
 "$COMMENT_skel"
 msgstr "동영상- (스플레이어) smplayer.sh 멀티미디어 smplayer.png 스플레이어 스케일 $코멘트_스켈"
 
+msgid "Fechar"
+msgstr "닫기"
+
 msgid "Restaurar no modo padrão da distribuição"
 msgstr "배포의 기본 모드로 복원"
 
@@ -58,26 +82,20 @@ msgstr "프로그램 설정 복원:"
 msgid "Principal"
 msgstr "메인"
 
+msgid "Internet"
+msgstr "인터넷"
+
+msgid "Multimídia"
+msgstr "멀티미디어"
+
+msgid "Gráficos"
+msgstr "그래픽스"
+
+msgid "Escritório"
+msgstr "사무실"
+
+msgid "Sistema"
+msgstr "시스템"
+
 msgid "Pesquisar Restaurar"
 msgstr "검색 복원"
-
-msgid "Restaurar Configurações"
-msgstr "복원 설정"
-
-msgid ""
-"Atenção! O programa está aberto!\\nEle será fechado para que a restauração "
-"tenha efeito."
-msgstr "주의!프로그램이 열려 있습니다!\\ n복원을 적용하려면 닫힙니다."
-
-msgid "As configurações foram restauradas com sucesso!"
-msgstr "설정이 성공적으로 복원되었습니다!"
-
-msgid ""
-"Você tem certeza que deseja restaurar todas as configurações do KDE/"
-"Plasma?\\nIsso apagará todas as configurações definidas por $USER!"
-msgstr "모든 KDE/플라즈마 설정을 복원하시겠습니까?\\ n이렇게 하면 $USER에서 정의한 모든 설정이 삭제됩니다."
-
-msgid ""
-"As configurações foram restauradas com sucesso!\\nÉ necessário fazer logoff/"
-"login para concluir a restauração!"
-msgstr "설정이 성공적으로 복원되었습니다!\\ n복원을 완료하려면 로그오프하거나 로그인해야 합니다!"

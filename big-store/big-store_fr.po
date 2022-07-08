@@ -25,7 +25,7 @@ msgstr ""
 "Generated-By: pygettext.py 1.5"
 
 msgid "Big-Store está aberta."
-msgstr ""
+msgstr "Le Big-Store est ouvert."
 
 msgid "Big-Store"
 msgstr "Big-Store"
@@ -105,6 +105,12 @@ msgid ""
 "se o programa que você procura está disponível apenas neste<br>\n"
 "formato, utilize-o."
 msgstr ""
+"\n"
+"Les programmes Snap, comme Flatpak<br>\n"
+"fournit des logiciels pour toutes les distributions Linux.<br>\n"
+"Il a tendance à être plus lourd et moins intégré au système, mais<br>\n"
+"si le programme que vous recherchez n'est disponible que dans cette<br>\n"
+"format, utilisez-le."
 
 msgid ""
 "\n"
@@ -112,6 +118,10 @@ msgid ""
 "e oculta resultados que são úteis <br>\n"
 "apenas a usuários avançados."
 msgstr ""
+"\n"
+"Affiche uniquement les programmes<br>sélectionnés \n"
+"et cache les résultats qui sont utiles <br>\n"
+"uniquement pour les utilisateurs avancés."
 
 msgid "Aplicando - Aguarde"
 msgstr "Candidature - Veuillez patienter"
@@ -120,7 +130,7 @@ msgid "Procurar programa"
 msgstr "Programme de recherche"
 
 msgid "Modo Simplificado"
-msgstr ""
+msgstr "Mode simplifié"
 
 msgid "Navegadores"
 msgstr "Navigateurs"
@@ -147,7 +157,7 @@ msgid "Ferramentas de rede"
 msgstr "Outils de réseau"
 
 msgid "Notícias, Feeds e RSS"
-msgstr ""
+msgstr "Actualités, flux et RSS"
 
 msgid "Suíte Office"
 msgstr "Office Suite"
@@ -271,15 +281,6 @@ msgstr "Programmes Flatpak"
 
 msgid "Programas Snap"
 msgstr "Programmes instantanés"
-
-msgid "Internet"
-msgstr "Internet"
-
-msgid "Escritório"
-msgstr "Bureau"
-
-msgid "Gráficos"
-msgstr "Graphiques"
 
 msgid "Jogos"
 msgstr "Jeux"

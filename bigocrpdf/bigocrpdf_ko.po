@@ -33,59 +33,56 @@ msgstr ""
 ""
 
 msgid "Normal"
-msgstr ""
+msgstr "일반"
 
 msgid "Economico"
-msgstr ""
+msgstr "경제적입니다"
 
 msgid "Mais econômico"
-msgstr ""
+msgstr "보다 경제적인"
 
 msgid "Alinhar"
-msgstr ""
+msgstr "정렬"
 
 msgid "Auto rotacionar"
-msgstr ""
+msgstr "자동 회전"
 
 msgid "Alinhar e auto rotacionar"
-msgstr ""
+msgstr "정렬 및 자동 회전"
 
 msgid "Não alterar"
-msgstr ""
+msgstr "바꾸지 마세요"
 
 msgid "Espanhol"
-msgstr ""
+msgstr "스페인 사람"
 
 msgid "Inglês"
-msgstr ""
+msgstr "영어"
 
 msgid "Português"
-msgstr ""
+msgstr "포르투갈인"
 
 msgid ""
 "Adicionar OCR no PDF digitalizado permitindo seleção de textos e busca:"
 msgstr "스캔한 PDF에 OCR을 추가하여 텍스트 선택 및 검색을 허용합니다."
 
 msgid "Quantidade de arquivos:"
-msgstr ""
+msgstr "파일 개수:"
 
 msgid "Páginas:"
-msgstr ""
+msgstr "페이지:"
 
 msgid "Idioma do PDF:"
-msgstr ""
+msgstr "PDF 언어:"
 
 msgid "Qualidade do PDF:"
-msgstr ""
+msgstr "PDF 품질:"
 
 msgid "Alinhamento:"
-msgstr ""
-
-msgid "OCR para PDF"
-msgstr "OCR을 PDF로 변환"
+msgstr "정렬:"
 
 msgid "Concluído!"
 msgstr "완료되었습니다!"
 
 msgid "Salvo em: "
-msgstr ""
+msgstr "저장 위치: "

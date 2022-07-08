@@ -25,7 +25,7 @@ msgstr ""
 "Generated-By: pygettext.py 1.5"
 
 msgid "Big-Store está aberta."
-msgstr ""
+msgstr "Big-Store er opið."
 
 msgid "Big-Store"
 msgstr "Big-Store"
@@ -103,6 +103,13 @@ msgid ""
 "se o programa que você procura está disponível apenas neste<br>\n"
 "formato, utilize-o."
 msgstr ""
+"\n"
+"Snap forrit, eins og heilbrigður eins og Flatpak <br>\n"
+"býður upp á forrit fyrir allar Linux dreifingar. <br>\n"
+"Það hefur tilhneigingu til að vera þyngri og minna samþætt inn í kerfið, en "
+"<br>\n"
+"ef forritið sem þú ert að leita að er aðeins í boði á þessu <br>\n"
+"snið, nota það."
 
 msgid ""
 "\n"
@@ -110,6 +117,10 @@ msgid ""
 "e oculta resultados que são úteis <br>\n"
 "apenas a usuários avançados."
 msgstr ""
+"\n"
+"Sýnir aðeins valin forrit <br> \n"
+"og fela niðurstöður sem eru gagnlegar <br>\n"
+"aðeins háþróaður notandi."
 
 msgid "Aplicando - Aguarde"
 msgstr "Sækja um - Vinsamlegast bíddu"
@@ -118,7 +129,7 @@ msgid "Procurar programa"
 msgstr "Leita að forriti"
 
 msgid "Modo Simplificado"
-msgstr ""
+msgstr "Einfölduð Mode"
 
 msgid "Navegadores"
 msgstr "siglingafólk"
@@ -145,7 +156,7 @@ msgid "Ferramentas de rede"
 msgstr "Net verkfæri"
 
 msgid "Notícias, Feeds e RSS"
-msgstr ""
+msgstr "Fréttir, straumar og RSS"
 
 msgid "Suíte Office"
 msgstr "Skrifstofa Suite"
@@ -269,15 +280,6 @@ msgstr "Flatpak Programs"
 
 msgid "Programas Snap"
 msgstr "Snap Programs"
-
-msgid "Internet"
-msgstr "Internet"
-
-msgid "Escritório"
-msgstr "Skrifstofa"
-
-msgid "Gráficos"
-msgstr "Grafík"
 
 msgid "Jogos"
 msgstr "Leikir"

@@ -17,6 +17,32 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit"
 
+msgid "Restaurar Configurações"
+msgstr "Beállítások visszaállítása"
+
+msgid ""
+"Atenção! O programa está aberto!\\nEle será fechado para que a restauração "
+"tenha efeito."
+msgstr ""
+"Vigyázat! A program nyitva van! A helyreállítás ideje alatt zárva lesz."
+
+msgid "As configurações foram restauradas com sucesso!"
+msgstr "A beállítások sikeresen helyreálltak!"
+
+msgid ""
+"Você tem certeza que deseja restaurar todas as configurações do KDE/"
+"Plasma?\\nIsso apagará todas as configurações definidas por $USER!"
+msgstr ""
+"Biztos, hogy vissza akarja állítani az összes KDE/Plasma "
+"beállítást?\\nIsIsIsIs törli az összes $USER által beállított beállítást!"
+
+msgid ""
+"As configurações foram restauradas com sucesso!\\nÉ necessário fazer logoff/"
+"login para concluir a restauração!"
+msgstr ""
+"A beállítások sikeresen helyreálltak! A helyreállítás befejezéséhez ki/be "
+"kell jelentkeznie!"
+
 msgid ""
 "Restaurar&nbsp;o&nbsp;programa&nbsp;como&nbsp;modo&nbsp;padrão&nbsp;ou&nbsp;distribuição&nbsp;BigLinux."
 ""
@@ -47,6 +73,9 @@ msgstr ""
 "Videók-(Smplayer) smplayer.sh Multimédia smplayer.png smplayer skel "
 "$COMMENT_skel"
 
+msgid "Fechar"
+msgstr "Zárja be a"
+
 msgid "Restaurar no modo padrão da distribuição"
 msgstr "Alapértelmezett elosztási mód visszaállítása"
 
@@ -67,31 +96,20 @@ msgstr "A programbeállítások visszaállítása:"
 msgid "Principal"
 msgstr "Főoldal"
 
+msgid "Internet"
+msgstr "Internet"
+
+msgid "Multimídia"
+msgstr "Multimédia"
+
+msgid "Gráficos"
+msgstr "Grafika"
+
+msgid "Escritório"
+msgstr "Iroda"
+
+msgid "Sistema"
+msgstr "Rendszer"
+
 msgid "Pesquisar Restaurar"
 msgstr "Keresés helyreállítása"
-
-msgid "Restaurar Configurações"
-msgstr "Beállítások visszaállítása"
-
-msgid ""
-"Atenção! O programa está aberto!\\nEle será fechado para que a restauração "
-"tenha efeito."
-msgstr ""
-"Vigyázat! A program nyitva van! A helyreállítás ideje alatt zárva lesz."
-
-msgid "As configurações foram restauradas com sucesso!"
-msgstr "A beállítások sikeresen helyreálltak!"
-
-msgid ""
-"Você tem certeza que deseja restaurar todas as configurações do KDE/"
-"Plasma?\\nIsso apagará todas as configurações definidas por $USER!"
-msgstr ""
-"Biztos, hogy vissza akarja állítani az összes KDE/Plasma "
-"beállítást?\\nIsIsIsIs törli az összes $USER által beállított beállítást!"
-
-msgid ""
-"As configurações foram restauradas com sucesso!\\nÉ necessário fazer logoff/"
-"login para concluir a restauração!"
-msgstr ""
-"A beállítások sikeresen helyreálltak! A helyreállítás befejezéséhez ki/be "
-"kell jelentkeznie!"

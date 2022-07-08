@@ -280,15 +280,6 @@ msgstr "Программы Flatpak"
 msgid "Programas Snap"
 msgstr "Программы Snap"
 
-msgid "Internet"
-msgstr "Интернет"
-
-msgid "Escritório"
-msgstr "Офис"
-
-msgid "Gráficos"
-msgstr "Графика"
-
 msgid "Jogos"
 msgstr "Игры"
 

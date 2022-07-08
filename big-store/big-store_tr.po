@@ -25,7 +25,7 @@ msgstr ""
 "Generated-By: pygettext.py 1.5"
 
 msgid "Big-Store está aberta."
-msgstr ""
+msgstr "Big-Store açık."
 
 msgid "Big-Store"
 msgstr "Big-Store"
@@ -103,6 +103,12 @@ msgid ""
 "se o programa que você procura está disponível apenas neste<br>\n"
 "formato, utilize-o."
 msgstr ""
+"\n"
+"Flatpak gibi Snap programları<br>\n"
+"tüm Linux dağıtımları için yazılım sağlar.<br>\n"
+"Daha ağır ve sisteme daha az entegre olma eğilimindedir, ancak<br>\n"
+"aradığınız program sadece bu programda mevcutsa<br>\n"
+"formatını kullanın."
 
 msgid ""
 "\n"
@@ -110,6 +116,10 @@ msgid ""
 "e oculta resultados que são úteis <br>\n"
 "apenas a usuários avançados."
 msgstr ""
+"\n"
+"Yalnızca seçili programları görüntüler<br>\n"
+"ve yararlı olan sonuçları gizler <br>\n"
+"sadece ileri düzey kullanıcılar içindir."
 
 msgid "Aplicando - Aguarde"
 msgstr "Başvuru - Lütfen bekleyin"
@@ -118,7 +128,7 @@ msgid "Procurar programa"
 msgstr "Arama programı"
 
 msgid "Modo Simplificado"
-msgstr ""
+msgstr "Basitleştirilmiş Mod"
 
 msgid "Navegadores"
 msgstr "Tarayıcılar"
@@ -145,7 +155,7 @@ msgid "Ferramentas de rede"
 msgstr "Ağ araçları"
 
 msgid "Notícias, Feeds e RSS"
-msgstr ""
+msgstr "Haberler, Akışlar ve RSS"
 
 msgid "Suíte Office"
 msgstr "Ofis Paketi"
@@ -269,15 +279,6 @@ msgstr "Flatpak programları"
 
 msgid "Programas Snap"
 msgstr "Snap programları"
-
-msgid "Internet"
-msgstr "İnternet"
-
-msgid "Escritório"
-msgstr "Ofis"
-
-msgid "Gráficos"
-msgstr "Grafikler"
 
 msgid "Jogos"
 msgstr "Oyunlar"

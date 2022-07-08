@@ -35,34 +35,34 @@ msgstr ""
 "OCR."
 
 msgid "Normal"
-msgstr ""
+msgstr "Κανονικό"
 
 msgid "Economico"
-msgstr ""
+msgstr "Οικονομικό"
 
 msgid "Mais econômico"
-msgstr ""
+msgstr "Πιο οικονομικό"
 
 msgid "Alinhar"
-msgstr ""
+msgstr "Ευθυγράμμιση"
 
 msgid "Auto rotacionar"
-msgstr ""
+msgstr "Αυτόματη περιστροφή"
 
 msgid "Alinhar e auto rotacionar"
-msgstr ""
+msgstr "Ευθυγράμμιση και αυτόματη περιστροφή"
 
 msgid "Não alterar"
-msgstr ""
+msgstr "Μην αλλάζετε"
 
 msgid "Espanhol"
-msgstr ""
+msgstr "Ισπανικά"
 
 msgid "Inglês"
-msgstr ""
+msgstr "Αγγλικά"
 
 msgid "Português"
-msgstr ""
+msgstr "Πορτογαλικά"
 
 msgid ""
 "Adicionar OCR no PDF digitalizado permitindo seleção de textos e busca:"
@@ -71,25 +71,22 @@ msgstr ""
 "κειμένου:"
 
 msgid "Quantidade de arquivos:"
-msgstr ""
+msgstr "Αριθμός αρχείων:"
 
 msgid "Páginas:"
-msgstr ""
+msgstr "Σελίδες:"
 
 msgid "Idioma do PDF:"
-msgstr ""
+msgstr "Γλώσσα PDF:"
 
 msgid "Qualidade do PDF:"
-msgstr ""
+msgstr "Ποιότητα PDF:"
 
 msgid "Alinhamento:"
-msgstr ""
-
-msgid "OCR para PDF"
-msgstr "OCR για PDF"
+msgstr "Ευθυγράμμιση:"
 
 msgid "Concluído!"
 msgstr "Έγινε!"
 
 msgid "Salvo em: "
-msgstr ""
+msgstr "Αποθηκεύτηκε σε "

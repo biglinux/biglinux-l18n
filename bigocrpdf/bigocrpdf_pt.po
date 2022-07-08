@@ -34,34 +34,34 @@ msgstr ""
 "direito no arquivo PDF, 'Abrir com' e selecionar a opção de OCR."
 
 msgid "Normal"
-msgstr ""
+msgstr "Normal"
 
 msgid "Economico"
-msgstr ""
+msgstr "Economico"
 
 msgid "Mais econômico"
-msgstr ""
+msgstr "Mais econômico"
 
 msgid "Alinhar"
-msgstr ""
+msgstr "Alinhar"
 
 msgid "Auto rotacionar"
-msgstr ""
+msgstr "Auto rotacionar"
 
 msgid "Alinhar e auto rotacionar"
-msgstr ""
+msgstr "Alinhar e auto rotacionar"
 
 msgid "Não alterar"
-msgstr ""
+msgstr "Não alterar"
 
 msgid "Espanhol"
-msgstr ""
+msgstr "Espanhol"
 
 msgid "Inglês"
-msgstr ""
+msgstr "Inglês"
 
 msgid "Português"
-msgstr ""
+msgstr "Português"
 
 msgid ""
 "Adicionar OCR no PDF digitalizado permitindo seleção de textos e busca:"
@@ -69,25 +69,22 @@ msgstr ""
 "Adicionar OCR no PDF digitalizado permitindo seleção de textos e busca:"
 
 msgid "Quantidade de arquivos:"
-msgstr ""
+msgstr "Quantidade de arquivos:"
 
 msgid "Páginas:"
-msgstr ""
+msgstr "Páginas:"
 
 msgid "Idioma do PDF:"
-msgstr ""
+msgstr "Idioma do PDF:"
 
 msgid "Qualidade do PDF:"
-msgstr ""
+msgstr "Qualidade do PDF:"
 
 msgid "Alinhamento:"
-msgstr ""
-
-msgid "OCR para PDF"
-msgstr "OCR para PDF"
+msgstr "Alinhamento:"
 
 msgid "Concluído!"
 msgstr "Concluído!"
 
 msgid "Salvo em: "
-msgstr ""
+msgstr "Salvo em: "

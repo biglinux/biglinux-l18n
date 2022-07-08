@@ -17,6 +17,32 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit"
 
+msgid "Restaurar Configurações"
+msgstr "Ayarları Geri Yükle"
+
+msgid ""
+"Atenção! O programa está aberto!\\nEle será fechado para que a restauração "
+"tenha efeito."
+msgstr ""
+"Dikkat! Program açık! Restorasyonun yürürlüğe girmesi için kapalı olacak."
+
+msgid "As configurações foram restauradas com sucesso!"
+msgstr "Ayarlar başarıyla geri yüklendi!"
+
+msgid ""
+"Você tem certeza que deseja restaurar todas as configurações do KDE/"
+"Plasma?\\nIsso apagará todas as configurações definidas por $USER!"
+msgstr ""
+"Tüm KDE/Plasma ayarlarını geri yüklemek istediğinizden emin misiniz? $USER "
+"tarafından ayarlanan tüm ayarları siler!"
+
+msgid ""
+"As configurações foram restauradas com sucesso!\\nÉ necessário fazer logoff/"
+"login para concluir a restauração!"
+msgstr ""
+"Ayarlar başarıyla geri yüklendi! Geri yüklemeyi tamamlamak için oturumu "
+"kapatmanız/açmanız gerekir!"
+
 msgid ""
 "Restaurar&nbsp;o&nbsp;programa&nbsp;como&nbsp;modo&nbsp;padrão&nbsp;ou&nbsp;distribuição&nbsp;BigLinux."
 ""
@@ -46,6 +72,9 @@ msgstr ""
 "Videolar-(Smplayer) smplayer.sh Multimedya smplayer.png smplayer skel "
 "$COMMENT_skel"
 
+msgid "Fechar"
+msgstr "Kapat"
+
 msgid "Restaurar no modo padrão da distribuição"
 msgstr "Varsayılan dağıtım moduna geri yükleme"
 
@@ -64,31 +93,20 @@ msgstr "Program ayarlarını geri yükleyin:"
 msgid "Principal"
 msgstr "Ana"
 
+msgid "Internet"
+msgstr "İnternet"
+
+msgid "Multimídia"
+msgstr "Multimedya"
+
+msgid "Gráficos"
+msgstr "Grafikler"
+
+msgid "Escritório"
+msgstr "Ofis"
+
+msgid "Sistema"
+msgstr "Sistem"
+
 msgid "Pesquisar Restaurar"
 msgstr "Arama Geri Yükleme"
-
-msgid "Restaurar Configurações"
-msgstr "Ayarları Geri Yükle"
-
-msgid ""
-"Atenção! O programa está aberto!\\nEle será fechado para que a restauração "
-"tenha efeito."
-msgstr ""
-"Dikkat! Program açık! Restorasyonun yürürlüğe girmesi için kapalı olacak."
-
-msgid "As configurações foram restauradas com sucesso!"
-msgstr "Ayarlar başarıyla geri yüklendi!"
-
-msgid ""
-"Você tem certeza que deseja restaurar todas as configurações do KDE/"
-"Plasma?\\nIsso apagará todas as configurações definidas por $USER!"
-msgstr ""
-"Tüm KDE/Plasma ayarlarını geri yüklemek istediğinizden emin misiniz? $USER "
-"tarafından ayarlanan tüm ayarları siler!"
-
-msgid ""
-"As configurações foram restauradas com sucesso!\\nÉ necessário fazer logoff/"
-"login para concluir a restauração!"
-msgstr ""
-"Ayarlar başarıyla geri yüklendi! Geri yüklemeyi tamamlamak için oturumu "
-"kapatmanız/açmanız gerekir!"

@@ -17,6 +17,33 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit"
 
+msgid "Restaurar Configurações"
+msgstr "Gjenopprett innstillinger"
+
+msgid ""
+"Atenção! O programa está aberto!\\nEle será fechado para que a restauração "
+"tenha efeito."
+msgstr ""
+"Oppmerksomhet! Programmet er åpent! \\ nDet vil være stengt for at "
+"gjenopprettingen skal tre i kraft."
+
+msgid "As configurações foram restauradas com sucesso!"
+msgstr "Innstillingene er gjenopprettet!"
+
+msgid ""
+"Você tem certeza que deseja restaurar todas as configurações do KDE/"
+"Plasma?\\nIsso apagará todas as configurações definidas por $USER!"
+msgstr ""
+"Er du sikker på at du vil gjenopprette alle KDE/Plasma-innstillinger? \\ "
+"nDette vil slette alle innstillinger som er definert av $USER."
+
+msgid ""
+"As configurações foram restauradas com sucesso!\\nÉ necessário fazer logoff/"
+"login para concluir a restauração!"
+msgstr ""
+"Innstillingene er gjenopprettet! \\ nDu må logge av/logge på for å fullføre "
+"gjenopprettingen."
+
 msgid ""
 "Restaurar&nbsp;o&nbsp;programa&nbsp;como&nbsp;modo&nbsp;padrão&nbsp;ou&nbsp;distribuição&nbsp;BigLinux."
 ""
@@ -46,6 +73,9 @@ msgstr ""
 "Videoer- (SMPlayer) smplayer.sh Multimedia smplayer.png smplayer skel "
 "$comment_skel"
 
+msgid "Fechar"
+msgstr "Lukk"
+
 msgid "Restaurar no modo padrão da distribuição"
 msgstr "Gjenopprett til standardmodus for distribusjonen"
 
@@ -64,32 +94,20 @@ msgstr "Gjenopprett programinnstillinger:"
 msgid "Principal"
 msgstr "Hoved"
 
+msgid "Internet"
+msgstr "Internett"
+
+msgid "Multimídia"
+msgstr "Multimedia"
+
+msgid "Gráficos"
+msgstr "grafikk"
+
+msgid "Escritório"
+msgstr "Kontor"
+
+msgid "Sistema"
+msgstr "Systemet"
+
 msgid "Pesquisar Restaurar"
 msgstr "Søk Gjenopprett"
-
-msgid "Restaurar Configurações"
-msgstr "Gjenopprett innstillinger"
-
-msgid ""
-"Atenção! O programa está aberto!\\nEle será fechado para que a restauração "
-"tenha efeito."
-msgstr ""
-"Oppmerksomhet! Programmet er åpent! \\ nDet vil være stengt for at "
-"gjenopprettingen skal tre i kraft."
-
-msgid "As configurações foram restauradas com sucesso!"
-msgstr "Innstillingene er gjenopprettet!"
-
-msgid ""
-"Você tem certeza que deseja restaurar todas as configurações do KDE/"
-"Plasma?\\nIsso apagará todas as configurações definidas por $USER!"
-msgstr ""
-"Er du sikker på at du vil gjenopprette alle KDE/Plasma-innstillinger? \\ "
-"nDette vil slette alle innstillinger som er definert av $USER."
-
-msgid ""
-"As configurações foram restauradas com sucesso!\\nÉ necessário fazer logoff/"
-"login para concluir a restauração!"
-msgstr ""
-"Innstillingene er gjenopprettet! \\ nDu må logge av/logge på for å fullføre "
-"gjenopprettingen."

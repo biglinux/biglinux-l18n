@@ -34,59 +34,56 @@ msgstr ""
 "velg OCR-alternativet."
 
 msgid "Normal"
-msgstr ""
+msgstr "vanlig"
 
 msgid "Economico"
-msgstr ""
+msgstr "Økonomisk"
 
 msgid "Mais econômico"
-msgstr ""
+msgstr "Mer økonomisk"
 
 msgid "Alinhar"
-msgstr ""
+msgstr "Juster"
 
 msgid "Auto rotacionar"
-msgstr ""
+msgstr "Automatisk rotering"
 
 msgid "Alinhar e auto rotacionar"
-msgstr ""
+msgstr "Juster og roter automatisk"
 
 msgid "Não alterar"
-msgstr ""
+msgstr "Ikke endre"
 
 msgid "Espanhol"
-msgstr ""
+msgstr "spansk"
 
 msgid "Inglês"
-msgstr ""
+msgstr "- Engelsk"
 
 msgid "Português"
-msgstr ""
+msgstr "Portugisisk"
 
 msgid ""
 "Adicionar OCR no PDF digitalizado permitindo seleção de textos e busca:"
 msgstr "Legg til OCR i den skannede PDF-filen, slik at tekstvalg og søk:"
 
 msgid "Quantidade de arquivos:"
-msgstr ""
+msgstr "Antall filer:"
 
 msgid "Páginas:"
-msgstr ""
+msgstr "Sider:"
 
 msgid "Idioma do PDF:"
-msgstr ""
+msgstr "PDF-språk:"
 
 msgid "Qualidade do PDF:"
-msgstr ""
+msgstr "PDF-kvalitet:"
 
 msgid "Alinhamento:"
-msgstr ""
-
-msgid "OCR para PDF"
-msgstr "OCR til PDF"
+msgstr "Justering:"
 
 msgid "Concluído!"
 msgstr "Fullført!"
 
 msgid "Salvo em: "
-msgstr ""
+msgstr "Lagret i: "

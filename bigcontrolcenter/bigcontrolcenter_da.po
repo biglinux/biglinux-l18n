@@ -100,11 +100,14 @@ msgstr ""
 "Vi tilbyder komplette konfigurationer, som du kan vælge mellem på en meget "
 "enkel måde."
 
+msgid "Temas, Desktop e Ajustes"
+msgstr "Temaer, skrivebord og indstillinger"
+
 msgid "Escolha seu Avatar"
 msgstr "Vælg din avatar"
 
 msgid "Pacotes de Idioma"
-msgstr ""
+msgstr "Pacotes de Idioma"
 
 msgid "Escolha seu navegador padrão"
 msgstr "Vælg din standardbrowser"
@@ -157,6 +160,9 @@ msgstr "Reducerer støj"
 
 msgid "Configurar a voz do sistema (TTS)"
 msgstr "Indstilling af systemstemmen (TTS)"
+
+msgid "OCR para PDF"
+msgstr "OCR til PDF"
 
 msgid "Doação e Redes sociais"
 msgstr "Donation og sociale netværk"
@@ -406,25 +412,25 @@ msgid "Informações de armazenamento (SMART)"
 msgstr "Opbevaringsoplysninger (SMART)"
 
 msgid "Gerenciar serviços (Systemd)"
-msgstr ""
+msgstr "Gerenciar serviços (Systemd)"
 
 msgid "Configurar o AppimageLauncher"
-msgstr ""
+msgstr "Configurar o AppimageLauncher"
 
 msgid "Escolher o comportamento dos programas disponibilizados em .appimage"
-msgstr ""
+msgstr "Escolher o comportamento dos programas disponibilizados em .appimage"
 
 msgid "Controle o brilho e as cores"
-msgstr ""
+msgstr "Controle o brilho e as cores"
 
 msgid "Brilho e cor"
-msgstr ""
+msgstr "Brilho e cor"
 
 msgid "Equalizador (DSP)"
-msgstr ""
+msgstr "Equalizador (DSP)"
 
 msgid "Gerenciador de senhas"
-msgstr ""
+msgstr "Gerenciador de senhas"
 
 msgid "As configurações da tela foram resetadas."
 msgstr "Skærmindstillingerne er blevet nulstillet."
@@ -438,9 +444,6 @@ msgstr "Kategorier"
 msgid "Principais"
 msgstr "Vigtigste"
 
-msgid "Sistema"
-msgstr "System"
-
 msgid "Aparência"
 msgstr "Udseende"
 
@@ -452,9 +455,6 @@ msgstr "Tilpas"
 
 msgid "Telefone"
 msgstr "Telefon"
-
-msgid "Multimídia"
-msgstr "Multimedier"
 
 msgid "Rede e Internet"
 msgstr "Netværk og internet"

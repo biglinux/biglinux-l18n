@@ -100,6 +100,9 @@ msgstr ""
 "We provide complete configurations for you to select from in an extremely "
 "simple way."
 
+msgid "Temas, Desktop e Ajustes"
+msgstr "Themes, Desktop and Settings"
+
 msgid "Escolha seu Avatar"
 msgstr "Choose your Avatar"
 
@@ -157,6 +160,9 @@ msgstr "Noise Reducer"
 
 msgid "Configurar a voz do sistema (TTS)"
 msgstr "Configure System Voice (TTS)"
+
+msgid "OCR para PDF"
+msgstr "OCR for PDF"
 
 msgid "Doação e Redes sociais"
 msgstr "Donation and Social Networks"
@@ -436,9 +442,6 @@ msgstr "Categories"
 msgid "Principais"
 msgstr "Main"
 
-msgid "Sistema"
-msgstr "System"
-
 msgid "Aparência"
 msgstr "Appearance"
 
@@ -450,9 +453,6 @@ msgstr "Customize"
 
 msgid "Telefone"
 msgstr "Phone"
-
-msgid "Multimídia"
-msgstr "Multimedia"
 
 msgid "Rede e Internet"
 msgstr "Network and Internet"

@@ -100,11 +100,14 @@ msgstr ""
 "Παρέχουμε πλήρεις διαμορφώσεις για να επιλέξετε από αυτές με πολύ απλό τρόπο."
 ""
 
+msgid "Temas, Desktop e Ajustes"
+msgstr "Θέματα, επιφάνεια εργασίας και ρυθμίσεις"
+
 msgid "Escolha seu Avatar"
 msgstr "Επιλέξτε το Avatar σας"
 
 msgid "Pacotes de Idioma"
-msgstr ""
+msgstr "Πακέτα γλωσσών"
 
 msgid "Escolha seu navegador padrão"
 msgstr "Επιλέξτε το προεπιλεγμένο πρόγραμμα περιήγησης"
@@ -158,6 +161,9 @@ msgstr "Μειωτής θορύβου"
 
 msgid "Configurar a voz do sistema (TTS)"
 msgstr "Ρύθμιση της φωνής του συστήματος (TTS)"
+
+msgid "OCR para PDF"
+msgstr "OCR για PDF"
 
 msgid "Doação e Redes sociais"
 msgstr "Δωρεές και κοινωνικά δίκτυα"
@@ -413,25 +419,26 @@ msgid "Informações de armazenamento (SMART)"
 msgstr "Πληροφορίες αποθήκευσης (SMART)"
 
 msgid "Gerenciar serviços (Systemd)"
-msgstr ""
+msgstr "Διαχείριση υπηρεσιών (Systemd)"
 
 msgid "Configurar o AppimageLauncher"
-msgstr ""
+msgstr "Διαμόρφωση του AppimageLauncher"
 
 msgid "Escolher o comportamento dos programas disponibilizados em .appimage"
 msgstr ""
+"Επιλέξτε τη συμπεριφορά των προγραμμάτων που είναι διαθέσιμα στο .appimage"
 
 msgid "Controle o brilho e as cores"
-msgstr ""
+msgstr "Έλεγχος φωτεινότητας και χρωμάτων"
 
 msgid "Brilho e cor"
-msgstr ""
+msgstr "Λάμψη και χρώμα"
 
 msgid "Equalizador (DSP)"
-msgstr ""
+msgstr "Ισοσταθμιστής (DSP)"
 
 msgid "Gerenciador de senhas"
-msgstr ""
+msgstr "Διαχείριση κωδικού πρόσβασης"
 
 msgid "As configurações da tela foram resetadas."
 msgstr "Οι ρυθμίσεις της οθόνης έχουν μηδενιστεί."
@@ -445,9 +452,6 @@ msgstr "Κατηγορίες"
 msgid "Principais"
 msgstr "Κύρια"
 
-msgid "Sistema"
-msgstr "Σύστημα"
-
 msgid "Aparência"
 msgstr "Εμφάνιση"
 
@@ -459,9 +463,6 @@ msgstr "Προσαρμογή"
 
 msgid "Telefone"
 msgstr "Τηλέφωνο"
-
-msgid "Multimídia"
-msgstr "Πολυμέσα"
 
 msgid "Rede e Internet"
 msgstr "Δίκτυο και Διαδίκτυο"

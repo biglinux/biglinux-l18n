@@ -98,11 +98,14 @@ msgid ""
 "extremamente simples."
 msgstr "お客様にシンプルにお選びいただけるよう、完全なコンフィギュレーションを提供します。"
 
+msgid "Temas, Desktop e Ajustes"
+msgstr "テーマ、デスクトップ、設定"
+
 msgid "Escolha seu Avatar"
 msgstr "アバターを選ぶ"
 
 msgid "Pacotes de Idioma"
-msgstr ""
+msgstr "ランゲージパック"
 
 msgid "Escolha seu navegador padrão"
 msgstr "デフォルトのブラウザを選択する"
@@ -152,6 +155,9 @@ msgstr "ノイズリデューサ"
 
 msgid "Configurar a voz do sistema (TTS)"
 msgstr "システムボイス（TTS）を設定する"
+
+msgid "OCR para PDF"
+msgstr "PDF用OCR"
 
 msgid "Doação e Redes sociais"
 msgstr "寄付とソーシャルネットワーク"
@@ -386,25 +392,25 @@ msgid "Informações de armazenamento (SMART)"
 msgstr "ストレージ情報（SMART）"
 
 msgid "Gerenciar serviços (Systemd)"
-msgstr ""
+msgstr "サービスの管理(Systemd)"
 
 msgid "Configurar o AppimageLauncher"
-msgstr ""
+msgstr "AppimageLauncherの設定"
 
 msgid "Escolher o comportamento dos programas disponibilizados em .appimage"
-msgstr ""
+msgstr ".appimageで利用できるプログラムの動作を選択します。"
 
 msgid "Controle o brilho e as cores"
-msgstr ""
+msgstr "輝度や色のコントロール"
 
 msgid "Brilho e cor"
-msgstr ""
+msgstr "輝きと色"
 
 msgid "Equalizador (DSP)"
-msgstr ""
+msgstr "イコライザー（DSP）"
 
 msgid "Gerenciador de senhas"
-msgstr ""
+msgstr "パスワードマネージャー"
 
 msgid "As configurações da tela foram resetadas."
 msgstr "画面の設定がリセットされました。"
@@ -418,9 +424,6 @@ msgstr "カテゴリー"
 msgid "Principais"
 msgstr "メイン"
 
-msgid "Sistema"
-msgstr "システム"
-
 msgid "Aparência"
 msgstr "外観"
 
@@ -432,9 +435,6 @@ msgstr "カスタマイズ"
 
 msgid "Telefone"
 msgstr "電話番号"
-
-msgid "Multimídia"
-msgstr "マルチメディア"
 
 msgid "Rede e Internet"
 msgstr "ネットワークとインターネット"

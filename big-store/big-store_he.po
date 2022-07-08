@@ -278,15 +278,6 @@ msgstr "תוכניות פלאטפאק"
 msgid "Programas Snap"
 msgstr "הצמד תוכניות"
 
-msgid "Internet"
-msgstr "מרשתת"
-
-msgid "Escritório"
-msgstr "משרד"
-
-msgid "Gráficos"
-msgstr "גרפיקה"
-
 msgid "Jogos"
 msgstr "משחקים"
 

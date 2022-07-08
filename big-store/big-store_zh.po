@@ -25,7 +25,7 @@ msgstr ""
 "Generated-By: pygettext.py 1.5"
 
 msgid "Big-Store está aberta."
-msgstr ""
+msgstr "大卖场开张了。"
 
 msgid "Big-Store"
 msgstr "BigStore"
@@ -101,6 +101,12 @@ msgid ""
 "se o programa que você procura está disponível apenas neste<br>\n"
 "formato, utilize-o."
 msgstr ""
+"\n"
+"Snap程序，如Flatpak<br>\n"
+"为所有Linux发行版提供软件。<br>\n"
+"它往往更重，而且与系统的整合度更低，但<br>\n"
+"如果你要找的程序只在这个地方有<br>\n"
+"格式，使用它。"
 
 msgid ""
 "\n"
@@ -108,6 +114,10 @@ msgid ""
 "e oculta resultados que são úteis <br>\n"
 "apenas a usuários avançados."
 msgstr ""
+"\n"
+"只显示 选定的 节目<br>\n"
+"并隐藏了一些有用的结果<br>\n"
+"只对高级用户开放。"
 
 msgid "Aplicando - Aguarde"
 msgstr "申请 - 请等待"
@@ -116,7 +126,7 @@ msgid "Procurar programa"
 msgstr "搜索程序"
 
 msgid "Modo Simplificado"
-msgstr ""
+msgstr "简化模式"
 
 msgid "Navegadores"
 msgstr "浏览器"
@@ -143,7 +153,7 @@ msgid "Ferramentas de rede"
 msgstr "网络工具"
 
 msgid "Notícias, Feeds e RSS"
-msgstr ""
+msgstr "新闻、提要和RSS"
 
 msgid "Suíte Office"
 msgstr "办公套件"
@@ -267,15 +277,6 @@ msgstr "Flatpak程序"
 
 msgid "Programas Snap"
 msgstr "捕捉方案"
-
-msgid "Internet"
-msgstr "互联网"
-
-msgid "Escritório"
-msgstr "办公室"
-
-msgid "Gráficos"
-msgstr "图形"
 
 msgid "Jogos"
 msgstr "游戏"

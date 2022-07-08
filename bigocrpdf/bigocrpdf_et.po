@@ -34,34 +34,34 @@ msgstr ""
 "koos\" ja valida OCR-variandi."
 
 msgid "Normal"
-msgstr ""
+msgstr "Tavaline"
 
 msgid "Economico"
-msgstr ""
+msgstr "Ökonoomne"
 
 msgid "Mais econômico"
-msgstr ""
+msgstr "Ökonoomsemad"
 
 msgid "Alinhar"
-msgstr ""
+msgstr "Joondage"
 
 msgid "Auto rotacionar"
-msgstr ""
+msgstr "Automaatne pööramine"
 
 msgid "Alinhar e auto rotacionar"
-msgstr ""
+msgstr "Joondamine ja automaatne pööramine"
 
 msgid "Não alterar"
-msgstr ""
+msgstr "Ärge muutke"
 
 msgid "Espanhol"
-msgstr ""
+msgstr "Hispaania"
 
 msgid "Inglês"
-msgstr ""
+msgstr "Inglise keeles"
 
 msgid "Português"
-msgstr ""
+msgstr "Portugali"
 
 msgid ""
 "Adicionar OCR no PDF digitalizado permitindo seleção de textos e busca:"
@@ -69,25 +69,22 @@ msgstr ""
 "Lisage skaneeritud PDF-le OCR, mis võimaldab teksti valimist ja otsingut:"
 
 msgid "Quantidade de arquivos:"
-msgstr ""
+msgstr "Failide arv:"
 
 msgid "Páginas:"
-msgstr ""
+msgstr "Leheküljed:"
 
 msgid "Idioma do PDF:"
-msgstr ""
+msgstr "PDF-keel:"
 
 msgid "Qualidade do PDF:"
-msgstr ""
+msgstr "PDF-kvaliteet:"
 
 msgid "Alinhamento:"
-msgstr ""
-
-msgid "OCR para PDF"
-msgstr "OCR PDF-i jaoks"
+msgstr "Kohanemine:"
 
 msgid "Concluído!"
 msgstr "Valmis!"
 
 msgid "Salvo em: "
-msgstr ""
+msgstr "Salvestatud sisse "

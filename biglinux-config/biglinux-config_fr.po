@@ -17,6 +17,33 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit"
 
+msgid "Restaurar Configurações"
+msgstr "Restaurer les paramètres"
+
+msgid ""
+"Atenção! O programa está aberto!\\nEle será fechado para que a restauração "
+"tenha efeito."
+msgstr ""
+"Attention ! Le programme est ouvert ! Il sera fermé le temps que la "
+"restauration prenne effet."
+
+msgid "As configurações foram restauradas com sucesso!"
+msgstr "Les paramètres ont été restaurés avec succès !"
+
+msgid ""
+"Você tem certeza que deseja restaurar todas as configurações do KDE/"
+"Plasma?\\nIsso apagará todas as configurações definidas por $USER!"
+msgstr ""
+"Êtes-vous sûr de vouloir restaurer tous les paramètres de KDE/Plasma ? "
+"Effacez tous les paramètres définis par $USER !"
+
+msgid ""
+"As configurações foram restauradas com sucesso!\\nÉ necessário fazer logoff/"
+"login para concluir a restauração!"
+msgstr ""
+"Les paramètres ont été restaurés avec succès ! Vous devez vous déconnecter/"
+"se connecter pour terminer la restauration !"
+
 msgid ""
 "Restaurar&nbsp;o&nbsp;programa&nbsp;como&nbsp;modo&nbsp;padrão&nbsp;ou&nbsp;distribuição&nbsp;BigLinux."
 ""
@@ -46,6 +73,9 @@ msgstr ""
 "Vidéos-(Smplayer) smplayer.sh Multimédia smplayer.png smplayer skel "
 "$COMMENT_skel"
 
+msgid "Fechar"
+msgstr "Fermer"
+
 msgid "Restaurar no modo padrão da distribuição"
 msgstr "Restaurer le mode de distribution par défaut"
 
@@ -65,32 +95,20 @@ msgstr "Rétablir les paramètres du programme :"
 msgid "Principal"
 msgstr "Principal"
 
+msgid "Internet"
+msgstr "Internet"
+
+msgid "Multimídia"
+msgstr "Multimédia"
+
+msgid "Gráficos"
+msgstr "Graphiques"
+
+msgid "Escritório"
+msgstr "Bureau"
+
+msgid "Sistema"
+msgstr "Système"
+
 msgid "Pesquisar Restaurar"
 msgstr "Recherche de restauration"
-
-msgid "Restaurar Configurações"
-msgstr "Restaurer les paramètres"
-
-msgid ""
-"Atenção! O programa está aberto!\\nEle será fechado para que a restauração "
-"tenha efeito."
-msgstr ""
-"Attention ! Le programme est ouvert ! Il sera fermé le temps que la "
-"restauration prenne effet."
-
-msgid "As configurações foram restauradas com sucesso!"
-msgstr "Les paramètres ont été restaurés avec succès !"
-
-msgid ""
-"Você tem certeza que deseja restaurar todas as configurações do KDE/"
-"Plasma?\\nIsso apagará todas as configurações definidas por $USER!"
-msgstr ""
-"Êtes-vous sûr de vouloir restaurer tous les paramètres de KDE/Plasma ? "
-"Effacez tous les paramètres définis par $USER !"
-
-msgid ""
-"As configurações foram restauradas com sucesso!\\nÉ necessário fazer logoff/"
-"login para concluir a restauração!"
-msgstr ""
-"Les paramètres ont été restaurés avec succès ! Vous devez vous déconnecter/"
-"se connecter pour terminer la restauration !"

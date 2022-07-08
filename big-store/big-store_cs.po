@@ -25,7 +25,7 @@ msgstr ""
 "Generated-By: pygettext.py 1.5"
 
 msgid "Big-Store está aberta."
-msgstr ""
+msgstr "Big-Store je otevřen."
 
 msgid "Big-Store"
 msgstr "Big-Store"
@@ -103,6 +103,12 @@ msgid ""
 "se o programa que você procura está disponível apenas neste<br>\n"
 "formato, utilize-o."
 msgstr ""
+"\n"
+"Programy Snap, jako je Flatpak<br>\n"
+"poskytuje software pro všechny distribuce Linuxu.<br>\n"
+"Bývá těžší a hůře integrovaná do systému<br>\n"
+"pokud je hledaný program dostupný pouze v této aplikaci<br>\n"
+"použijte tento formát."
 
 msgid ""
 "\n"
@@ -110,6 +116,10 @@ msgid ""
 "e oculta resultados que são úteis <br>\n"
 "apenas a usuários avançados."
 msgstr ""
+"\n"
+"Zobrazí pouze vybrané  programy<br>\n"
+"a skrývá užitečné výsledky <br>\n"
+"pouze pro pokročilé uživatele."
 
 msgid "Aplicando - Aguarde"
 msgstr "Podání žádosti - Počkejte prosím"
@@ -118,7 +128,7 @@ msgid "Procurar programa"
 msgstr "Vyhledávací program"
 
 msgid "Modo Simplificado"
-msgstr ""
+msgstr "Zjednodušený režim"
 
 msgid "Navegadores"
 msgstr "Prohlížeče"
@@ -145,7 +155,7 @@ msgid "Ferramentas de rede"
 msgstr "Síťové nástroje"
 
 msgid "Notícias, Feeds e RSS"
-msgstr ""
+msgstr "Zprávy, kanály a RSS"
 
 msgid "Suíte Office"
 msgstr "Kancelářská sada"
@@ -269,15 +279,6 @@ msgstr "Programy Flatpak"
 
 msgid "Programas Snap"
 msgstr "Snap programy"
-
-msgid "Internet"
-msgstr "Internet"
-
-msgid "Escritório"
-msgstr "Kancelář"
-
-msgid "Gráficos"
-msgstr "Grafika"
 
 msgid "Jogos"
 msgstr "Hry"

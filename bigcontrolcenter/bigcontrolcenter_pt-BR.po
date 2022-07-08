@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: bigcontrolcenter\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-07-08 12:29-0300\n"
+"POT-Creation-Date: 2022-07-08 15:57-0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -100,6 +100,9 @@ msgstr ""
 "Disponiblizamos configurações completas para você selecionar de forma "
 "extremamente simples."
 
+msgid "Temas, Desktop e Ajustes"
+msgstr "Temas, Desktop e Ajustes"
+
 msgid "Escolha seu Avatar"
 msgstr "Escolha seu Avatar"
 
@@ -157,6 +160,9 @@ msgstr "Redutor de Ruídos"
 
 msgid "Configurar a voz do sistema (TTS)"
 msgstr "Configurar a voz do sistema (TTS)"
+
+msgid "OCR para PDF"
+msgstr "OCR para PDF"
 
 msgid "Doação e Redes sociais"
 msgstr "Doação e Redes sociais"
@@ -436,9 +442,6 @@ msgstr "Categorias"
 msgid "Principais"
 msgstr "Principais"
 
-msgid "Sistema"
-msgstr "Sistema"
-
 msgid "Aparência"
 msgstr "Aparência"
 
@@ -450,9 +453,6 @@ msgstr "Personalizar"
 
 msgid "Telefone"
 msgstr "Telefone"
-
-msgid "Multimídia"
-msgstr "Multimídia"
 
 msgid "Rede e Internet"
 msgstr "Rede e Internet"

@@ -34,34 +34,34 @@ msgstr ""
 "миші на PDF-файлі, «Відкрити за допомогою» та виберіть опцію OCR."
 
 msgid "Normal"
-msgstr ""
+msgstr "регулярний"
 
 msgid "Economico"
-msgstr ""
+msgstr "Економічний"
 
 msgid "Mais econômico"
-msgstr ""
+msgstr "Більш економічний"
 
 msgid "Alinhar"
-msgstr ""
+msgstr "Вирівняти"
 
 msgid "Auto rotacionar"
-msgstr ""
+msgstr "Автоматичне обертання"
 
 msgid "Alinhar e auto rotacionar"
-msgstr ""
+msgstr "Вирівнювання та автоматичне обертання"
 
 msgid "Não alterar"
-msgstr ""
+msgstr "Не міняйте"
 
 msgid "Espanhol"
-msgstr ""
+msgstr "Іспанська"
 
 msgid "Inglês"
-msgstr ""
+msgstr "Англійська мова"
 
 msgid "Português"
-msgstr ""
+msgstr "Португальська"
 
 msgid ""
 "Adicionar OCR no PDF digitalizado permitindo seleção de textos e busca:"
@@ -70,25 +70,22 @@ msgstr ""
 ""
 
 msgid "Quantidade de arquivos:"
-msgstr ""
+msgstr "Кількість файлів:"
 
 msgid "Páginas:"
-msgstr ""
+msgstr "Сторінки:"
 
 msgid "Idioma do PDF:"
-msgstr ""
+msgstr "Мова PDF:"
 
 msgid "Qualidade do PDF:"
-msgstr ""
+msgstr "Якість PDF:"
 
 msgid "Alinhamento:"
-msgstr ""
-
-msgid "OCR para PDF"
-msgstr "OCR в PDF"
+msgstr "Вирівнювання:"
 
 msgid "Concluído!"
 msgstr "Завершено!"
 
 msgid "Salvo em: "
-msgstr ""
+msgstr "Збережено в: "

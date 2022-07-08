@@ -17,6 +17,32 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit"
 
+msgid "Restaurar Configurações"
+msgstr "Восстановление настроек"
+
+msgid ""
+"Atenção! O programa está aberto!\\nEle será fechado para que a restauração "
+"tenha efeito."
+msgstr ""
+"Внимание! Программа открыта! Она будет закрыта для проведения реставрации."
+
+msgid "As configurações foram restauradas com sucesso!"
+msgstr "Настройки были успешно восстановлены!"
+
+msgid ""
+"Você tem certeza que deseja restaurar todas as configurações do KDE/"
+"Plasma?\\nIsso apagará todas as configurações definidas por $USER!"
+msgstr ""
+"Вы уверены, что хотите восстановить все настройки KDE/"
+"Plasma?\\nIsIsIsIsIsIsИ сотрите все настройки, установленные $USER!"
+
+msgid ""
+"As configurações foram restauradas com sucesso!\\nÉ necessário fazer logoff/"
+"login para concluir a restauração!"
+msgstr ""
+"Настройки были успешно восстановлены! Для завершения восстановления "
+"необходимо выйти/включиться!"
+
 msgid ""
 "Restaurar&nbsp;o&nbsp;programa&nbsp;como&nbsp;modo&nbsp;padrão&nbsp;ou&nbsp;distribuição&nbsp;BigLinux."
 ""
@@ -46,6 +72,9 @@ msgstr ""
 "Videos-(Smplayer) smplayer.sh Multimedia smplayer.png smplayer skel "
 "$COMMENT_skel"
 
+msgid "Fechar"
+msgstr "Закрыть"
+
 msgid "Restaurar no modo padrão da distribuição"
 msgstr "Восстановление режима распределения по умолчанию"
 
@@ -64,31 +93,20 @@ msgstr "Восстановите настройки программы:"
 msgid "Principal"
 msgstr "Главная"
 
+msgid "Internet"
+msgstr "Интернет"
+
+msgid "Multimídia"
+msgstr "Мультимедиа"
+
+msgid "Gráficos"
+msgstr "Графика"
+
+msgid "Escritório"
+msgstr "Офис"
+
+msgid "Sistema"
+msgstr "Система"
+
 msgid "Pesquisar Restaurar"
 msgstr "Восстановление поиска"
-
-msgid "Restaurar Configurações"
-msgstr "Восстановление настроек"
-
-msgid ""
-"Atenção! O programa está aberto!\\nEle será fechado para que a restauração "
-"tenha efeito."
-msgstr ""
-"Внимание! Программа открыта! Она будет закрыта для проведения реставрации."
-
-msgid "As configurações foram restauradas com sucesso!"
-msgstr "Настройки были успешно восстановлены!"
-
-msgid ""
-"Você tem certeza que deseja restaurar todas as configurações do KDE/"
-"Plasma?\\nIsso apagará todas as configurações definidas por $USER!"
-msgstr ""
-"Вы уверены, что хотите восстановить все настройки KDE/"
-"Plasma?\\nIsIsIsIsIsIsИ сотрите все настройки, установленные $USER!"
-
-msgid ""
-"As configurações foram restauradas com sucesso!\\nÉ necessário fazer logoff/"
-"login para concluir a restauração!"
-msgstr ""
-"Настройки были успешно восстановлены! Для завершения восстановления "
-"необходимо выйти/включиться!"

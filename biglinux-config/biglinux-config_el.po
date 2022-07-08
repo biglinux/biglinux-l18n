@@ -17,6 +17,33 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit"
 
+msgid "Restaurar Configurações"
+msgstr "Επαναφορά ρυθμίσεων"
+
+msgid ""
+"Atenção! O programa está aberto!\\nEle será fechado para que a restauração "
+"tenha efeito."
+msgstr ""
+"Προσοχή! Το πρόγραμμα είναι ανοικτό! Θα παραμείνει κλειστό για να τεθεί σε "
+"ισχύ η αποκατάσταση."
+
+msgid "As configurações foram restauradas com sucesso!"
+msgstr "Οι ρυθμίσεις έχουν αποκατασταθεί με επιτυχία!"
+
+msgid ""
+"Você tem certeza que deseja restaurar todas as configurações do KDE/"
+"Plasma?\\nIsso apagará todas as configurações definidas por $USER!"
+msgstr ""
+"Είστε σίγουροι ότι θέλετε να επαναφέρετε όλες τις ρυθμίσεις του KDE/Plasma; "
+"\\nIsIsIsIs διαγράφει όλες τις ρυθμίσεις που έχουν οριστεί από το $USER!"
+
+msgid ""
+"As configurações foram restauradas com sucesso!\\nÉ necessário fazer logoff/"
+"login para concluir a restauração!"
+msgstr ""
+"Οι ρυθμίσεις έχουν αποκατασταθεί με επιτυχία! Πρέπει να αποσυνδεθείτε/"
+"εγγραφείτε για να ολοκληρώσετε την αποκατάσταση!"
+
 msgid ""
 "Restaurar&nbsp;o&nbsp;programa&nbsp;como&nbsp;modo&nbsp;padrão&nbsp;ou&nbsp;distribuição&nbsp;BigLinux."
 ""
@@ -46,6 +73,9 @@ msgstr ""
 "Βίντεο-(Smplayer) smplayer.sh Πολυμέσα smplayer.png smplayer skel "
 "$COMMENT_skel"
 
+msgid "Fechar"
+msgstr "Κλείστε το"
+
 msgid "Restaurar no modo padrão da distribuição"
 msgstr "Επαναφορά στην προεπιλεγμένη λειτουργία διανομής"
 
@@ -65,32 +95,20 @@ msgstr "Επαναφορά των ρυθμίσεων του προγράμματ
 msgid "Principal"
 msgstr "Κύρια"
 
+msgid "Internet"
+msgstr "Διαδίκτυο"
+
+msgid "Multimídia"
+msgstr "Πολυμέσα"
+
+msgid "Gráficos"
+msgstr "Γραφικά"
+
+msgid "Escritório"
+msgstr "Γραφείο"
+
+msgid "Sistema"
+msgstr "Σύστημα"
+
 msgid "Pesquisar Restaurar"
 msgstr "Αναζήτηση Επαναφορά"
-
-msgid "Restaurar Configurações"
-msgstr "Επαναφορά ρυθμίσεων"
-
-msgid ""
-"Atenção! O programa está aberto!\\nEle será fechado para que a restauração "
-"tenha efeito."
-msgstr ""
-"Προσοχή! Το πρόγραμμα είναι ανοικτό! Θα παραμείνει κλειστό για να τεθεί σε "
-"ισχύ η αποκατάσταση."
-
-msgid "As configurações foram restauradas com sucesso!"
-msgstr "Οι ρυθμίσεις έχουν αποκατασταθεί με επιτυχία!"
-
-msgid ""
-"Você tem certeza que deseja restaurar todas as configurações do KDE/"
-"Plasma?\\nIsso apagará todas as configurações definidas por $USER!"
-msgstr ""
-"Είστε σίγουροι ότι θέλετε να επαναφέρετε όλες τις ρυθμίσεις του KDE/Plasma; "
-"\\nIsIsIsIs διαγράφει όλες τις ρυθμίσεις που έχουν οριστεί από το $USER!"
-
-msgid ""
-"As configurações foram restauradas com sucesso!\\nÉ necessário fazer logoff/"
-"login para concluir a restauração!"
-msgstr ""
-"Οι ρυθμίσεις έχουν αποκατασταθεί με επιτυχία! Πρέπει να αποσυνδεθείτε/"
-"εγγραφείτε για να ολοκληρώσετε την αποκατάσταση!"

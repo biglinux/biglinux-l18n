@@ -17,6 +17,33 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit"
 
+msgid "Restaurar Configurações"
+msgstr "Restabilirea setărilor"
+
+msgid ""
+"Atenção! O programa está aberto!\\nEle será fechado para que a restauração "
+"tenha efeito."
+msgstr ""
+"Atenție! Programul este deschis! Acesta va fi închis pentru ca lucrările de "
+"restaurare să intre în vigoare."
+
+msgid "As configurações foram restauradas com sucesso!"
+msgstr "Setările au fost restaurate cu succes!"
+
+msgid ""
+"Você tem certeza que deseja restaurar todas as configurações do KDE/"
+"Plasma?\\nIsso apagará todas as configurações definidas por $USER!"
+msgstr ""
+"Sunteți sigur că doriți să restaurați toate setările KDE/Plasma?\\nIsIsIs "
+"șterge toate setările stabilite de $USER!"
+
+msgid ""
+"As configurações foram restauradas com sucesso!\\nÉ necessário fazer logoff/"
+"login para concluir a restauração!"
+msgstr ""
+"Setările au fost restaurate cu succes! Trebuie să vă deconectați/încadrați "
+"pentru a finaliza restaurarea!"
+
 msgid ""
 "Restaurar&nbsp;o&nbsp;programa&nbsp;como&nbsp;modo&nbsp;padrão&nbsp;ou&nbsp;distribuição&nbsp;BigLinux."
 ""
@@ -46,6 +73,9 @@ msgstr ""
 "Videoclipuri-(Smplayer) smplayer.sh Multimedia smplayer.png smplayer skel "
 "$COMMENT_skel"
 
+msgid "Fechar"
+msgstr "Închideți"
+
 msgid "Restaurar no modo padrão da distribuição"
 msgstr "Restabilirea modului de distribuție implicit"
 
@@ -67,32 +97,20 @@ msgstr "Restabiliți setările programului:"
 msgid "Principal"
 msgstr "Principal"
 
+msgid "Internet"
+msgstr "Internet"
+
+msgid "Multimídia"
+msgstr "Multimedia"
+
+msgid "Gráficos"
+msgstr "Grafică"
+
+msgid "Escritório"
+msgstr "Birou"
+
+msgid "Sistema"
+msgstr "Sistem"
+
 msgid "Pesquisar Restaurar"
 msgstr "Căutare Restaurare"
-
-msgid "Restaurar Configurações"
-msgstr "Restabilirea setărilor"
-
-msgid ""
-"Atenção! O programa está aberto!\\nEle será fechado para que a restauração "
-"tenha efeito."
-msgstr ""
-"Atenție! Programul este deschis! Acesta va fi închis pentru ca lucrările de "
-"restaurare să intre în vigoare."
-
-msgid "As configurações foram restauradas com sucesso!"
-msgstr "Setările au fost restaurate cu succes!"
-
-msgid ""
-"Você tem certeza que deseja restaurar todas as configurações do KDE/"
-"Plasma?\\nIsso apagará todas as configurações definidas por $USER!"
-msgstr ""
-"Sunteți sigur că doriți să restaurați toate setările KDE/Plasma?\\nIsIsIs "
-"șterge toate setările stabilite de $USER!"
-
-msgid ""
-"As configurações foram restauradas com sucesso!\\nÉ necessário fazer logoff/"
-"login para concluir a restauração!"
-msgstr ""
-"Setările au fost restaurate cu succes! Trebuie să vă deconectați/încadrați "
-"pentru a finaliza restaurarea!"

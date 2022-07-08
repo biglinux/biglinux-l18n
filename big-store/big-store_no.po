@@ -25,7 +25,7 @@ msgstr ""
 "Generated-By: pygettext.py 1.5"
 
 msgid "Big-Store está aberta."
-msgstr ""
+msgstr "Big-Store er åpen."
 
 msgid "Big-Store"
 msgstr "Big-Store"
@@ -103,6 +103,13 @@ msgid ""
 "se o programa que você procura está disponível apenas neste<br>\n"
 "formato, utilize-o."
 msgstr ""
+"\n"
+"Snap programmer, samt Flatpak <br>\n"
+"tilbyr programmer for alle Linux-distribusjoner. <br>\n"
+"Det har en tendens til å være tyngre og mindre integrert i systemet, men "
+"<br>\n"
+"hvis programmet du leter etter bare er tilgjengelig på dette <br>\n"
+"format, bruk det."
 
 msgid ""
 "\n"
@@ -110,6 +117,10 @@ msgid ""
 "e oculta resultados que são úteis <br>\n"
 "apenas a usuários avançados."
 msgstr ""
+"\n"
+"Viser bare valgte programmer <br> \n"
+"og skjule resultater som er nyttige <br>\n"
+"Bare avanserte brukere."
 
 msgid "Aplicando - Aguarde"
 msgstr "Påføring - Vennligst vent"
@@ -118,7 +129,7 @@ msgid "Procurar programa"
 msgstr "Søk etter program"
 
 msgid "Modo Simplificado"
-msgstr ""
+msgstr "Forenklet modus"
 
 msgid "Navegadores"
 msgstr "navigatører"
@@ -145,7 +156,7 @@ msgid "Ferramentas de rede"
 msgstr "Nettverksverktøy"
 
 msgid "Notícias, Feeds e RSS"
-msgstr ""
+msgstr "Nyheter, Feeds og RSS"
 
 msgid "Suíte Office"
 msgstr "Kontor-suite"
@@ -269,15 +280,6 @@ msgstr "Flatpak-programmer"
 
 msgid "Programas Snap"
 msgstr "Snap-programmer"
-
-msgid "Internet"
-msgstr "Internett"
-
-msgid "Escritório"
-msgstr "Kontor"
-
-msgid "Gráficos"
-msgstr "grafikk"
 
 msgid "Jogos"
 msgstr "Spill"

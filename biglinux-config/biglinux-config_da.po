@@ -17,6 +17,34 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit"
 
+msgid "Restaurar Configurações"
+msgstr "Gendan indstillinger"
+
+msgid ""
+"Atenção! O programa está aberto!\\nEle será fechado para que a restauração "
+"tenha efeito."
+msgstr ""
+"Forsigtig! Programmet er åbent! Det vil være lukket, indtil restaureringen "
+"er gennemført."
+
+msgid "As configurações foram restauradas com sucesso!"
+msgstr "Indstillingerne er blevet gendannet med succes!"
+
+msgid ""
+"Você tem certeza que deseja restaurar todas as configurações do KDE/"
+"Plasma?\\nIsso apagará todas as configurações definidas por $USER!"
+msgstr ""
+"Er du sikker på, at du vil gendanne alle KDE/Plasma-"
+"indstillingerne?\\nIsIsIsIs sletter alle de indstillinger, der er angivet af "
+"$USER!"
+
+msgid ""
+"As configurações foram restauradas com sucesso!\\nÉ necessário fazer logoff/"
+"login para concluir a restauração!"
+msgstr ""
+"Indstillingerne er blevet gendannet med succes! Du skal logge af/på for at "
+"fuldføre gendannelsen!"
+
 msgid ""
 "Restaurar&nbsp;o&nbsp;programa&nbsp;como&nbsp;modo&nbsp;padrão&nbsp;ou&nbsp;distribuição&nbsp;BigLinux."
 ""
@@ -46,6 +74,9 @@ msgstr ""
 "Videoer-(Smplayer) smplayer.sh Multimedia smplayer.png smplayer skel "
 "$COMMENT_skel"
 
+msgid "Fechar"
+msgstr "Luk"
+
 msgid "Restaurar no modo padrão da distribuição"
 msgstr "Gendan til standarddistributionstilstand"
 
@@ -67,33 +98,20 @@ msgstr "Gendan programindstillingerne:"
 msgid "Principal"
 msgstr "Vigtigste"
 
+msgid "Internet"
+msgstr "Internet"
+
+msgid "Multimídia"
+msgstr "Multimedier"
+
+msgid "Gráficos"
+msgstr "Grafik"
+
+msgid "Escritório"
+msgstr "Kontor"
+
+msgid "Sistema"
+msgstr "System"
+
 msgid "Pesquisar Restaurar"
 msgstr "Søg Genoprette"
-
-msgid "Restaurar Configurações"
-msgstr "Gendan indstillinger"
-
-msgid ""
-"Atenção! O programa está aberto!\\nEle será fechado para que a restauração "
-"tenha efeito."
-msgstr ""
-"Forsigtig! Programmet er åbent! Det vil være lukket, indtil restaureringen "
-"er gennemført."
-
-msgid "As configurações foram restauradas com sucesso!"
-msgstr "Indstillingerne er blevet gendannet med succes!"
-
-msgid ""
-"Você tem certeza que deseja restaurar todas as configurações do KDE/"
-"Plasma?\\nIsso apagará todas as configurações definidas por $USER!"
-msgstr ""
-"Er du sikker på, at du vil gendanne alle KDE/Plasma-"
-"indstillingerne?\\nIsIsIsIs sletter alle de indstillinger, der er angivet af "
-"$USER!"
-
-msgid ""
-"As configurações foram restauradas com sucesso!\\nÉ necessário fazer logoff/"
-"login para concluir a restauração!"
-msgstr ""
-"Indstillingerne er blevet gendannet med succes! Du skal logge af/på for at "
-"fuldføre gendannelsen!"

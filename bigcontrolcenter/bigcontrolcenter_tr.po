@@ -100,11 +100,14 @@ msgstr ""
 "Aralarından seçim yapabileceğiniz eksiksiz konfigürasyonları çok basit bir "
 "şekilde sunuyoruz."
 
+msgid "Temas, Desktop e Ajustes"
+msgstr "Temalar, Masaüstü ve Ayarlar"
+
 msgid "Escolha seu Avatar"
 msgstr "Avatarınızı Seçin"
 
 msgid "Pacotes de Idioma"
-msgstr ""
+msgstr "Dil Paketleri"
 
 msgid "Escolha seu navegador padrão"
 msgstr "Varsayılan tarayıcınızı seçin"
@@ -157,6 +160,9 @@ msgstr "Gürültü Azaltıcı"
 
 msgid "Configurar a voz do sistema (TTS)"
 msgstr "Sistem Sesini Ayarlama (TTS)"
+
+msgid "OCR para PDF"
+msgstr "PDF için OCR"
 
 msgid "Doação e Redes sociais"
 msgstr "Bağış ve sosyal ağlar"
@@ -404,25 +410,25 @@ msgid "Informações de armazenamento (SMART)"
 msgstr "Depolama bilgileri (SMART)"
 
 msgid "Gerenciar serviços (Systemd)"
-msgstr ""
+msgstr "Hizmetleri yönetme (Systemd)"
 
 msgid "Configurar o AppimageLauncher"
-msgstr ""
+msgstr "AppimageLauncher'ı Yapılandırma"
 
 msgid "Escolher o comportamento dos programas disponibilizados em .appimage"
-msgstr ""
+msgstr ".appimage içinde bulunan programların davranışını seçin"
 
 msgid "Controle o brilho e as cores"
-msgstr ""
+msgstr "Parlaklığı ve renkleri kontrol edin"
 
 msgid "Brilho e cor"
-msgstr ""
+msgstr "Parlaklık ve renk"
 
 msgid "Equalizador (DSP)"
-msgstr ""
+msgstr "Ekolayzer (DSP)"
 
 msgid "Gerenciador de senhas"
-msgstr ""
+msgstr "Parola Yöneticisi"
 
 msgid "As configurações da tela foram resetadas."
 msgstr "Ekran ayarları sıfırlandı."
@@ -436,9 +442,6 @@ msgstr "Kategoriler"
 msgid "Principais"
 msgstr "Ana"
 
-msgid "Sistema"
-msgstr "Sistem"
-
 msgid "Aparência"
 msgstr "Görünüş"
 
@@ -450,9 +453,6 @@ msgstr "Özelleştir"
 
 msgid "Telefone"
 msgstr "Telefon"
-
-msgid "Multimídia"
-msgstr "Multimedya"
 
 msgid "Rede e Internet"
 msgstr "Ağ ve İnternet"

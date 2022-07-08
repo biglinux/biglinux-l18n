@@ -25,7 +25,7 @@ msgstr ""
 "Generated-By: pygettext.py 1.5"
 
 msgid "Big-Store está aberta."
-msgstr ""
+msgstr "Big-Store este deschis."
 
 msgid "Big-Store"
 msgstr "Big-Store"
@@ -103,6 +103,12 @@ msgid ""
 "se o programa que você procura está disponível apenas neste<br>\n"
 "formato, utilize-o."
 msgstr ""
+"\n"
+"Programele Snap, cum ar fi Flatpak<br>\n"
+"oferă software pentru toate distribuțiile Linux.<br>\n"
+"Acesta tinde să fie mai greu și mai puțin integrat în sistem, dar<br>\n"
+"dacă programul pe care îl căutați este disponibil doar în acest<br>\n"
+"utilizați-l."
 
 msgid ""
 "\n"
@@ -110,6 +116,10 @@ msgid ""
 "e oculta resultados que são úteis <br>\n"
 "apenas a usuários avançados."
 msgstr ""
+"\n"
+"Afișează numai programele selectate <br>\n"
+"și ascunde rezultatele care sunt utile <br>\n"
+"numai pentru utilizatorii avansați."
 
 msgid "Aplicando - Aguarde"
 msgstr "Aplicare - Vă rugăm să așteptați"
@@ -118,7 +128,7 @@ msgid "Procurar programa"
 msgstr "Program de căutare"
 
 msgid "Modo Simplificado"
-msgstr ""
+msgstr "Modul simplificat"
 
 msgid "Navegadores"
 msgstr "Browsere"
@@ -145,7 +155,7 @@ msgid "Ferramentas de rede"
 msgstr "Instrumente de rețea"
 
 msgid "Notícias, Feeds e RSS"
-msgstr ""
+msgstr "Știri, fluxuri și RSS"
 
 msgid "Suíte Office"
 msgstr "Suita Office"
@@ -269,15 +279,6 @@ msgstr "Programe Flatpak"
 
 msgid "Programas Snap"
 msgstr "Programe rapide"
-
-msgid "Internet"
-msgstr "Internet"
-
-msgid "Escritório"
-msgstr "Birou"
-
-msgid "Gráficos"
-msgstr "Grafică"
 
 msgid "Jogos"
 msgstr "Jocuri"
