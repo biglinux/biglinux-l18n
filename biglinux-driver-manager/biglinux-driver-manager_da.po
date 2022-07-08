@@ -32,21 +32,12 @@ msgstr "Denne driver er proprietær."
 msgid "Este driver parece compatível com este computador."
 msgstr "Denne driver ser ud til at være kompatibel med denne computer."
 
-msgid "Remover"
-msgstr "Fjern"
-
-msgid "Instalar"
-msgstr "Installer"
-
 msgid ""
 "Já existe outro driver nVidia instalado, para instalar este driver, remova "
 "primeiro o driver instalado."
 msgstr ""
 "Der er allerede installeret en anden nVidia-driver, for at installere denne "
 "driver skal du først fjerne den installerede driver."
-
-msgid "Desativado"
-msgstr "Handicappede"
 
 msgid "Informações de Hardware"
 msgstr "Oplysninger om hardware"
@@ -66,9 +57,6 @@ msgid ""
 msgstr ""
 "Vil du se filen eller sende den til transfer.sh for at få en URL-adresse med "
 "dataene fra din computer på en nem måde at dele?"
-
-msgid "Categorias"
-msgstr "Kategorier"
 
 msgid "Principais"
 msgstr "Vigtigste"
@@ -111,9 +99,6 @@ msgstr "Touchscreen"
 
 msgid "Som"
 msgstr "Lyd"
-
-msgid "Outros"
-msgstr "Andre"
 
 msgid "Pesquisar Driver ou Firmware"
 msgstr "Søg driver eller firmware"
@@ -202,9 +187,6 @@ msgstr "Logiske enheder"
 msgid "Raid"
 msgstr "Raid"
 
-msgid "Sistema"
-msgstr "System"
-
 msgid "Informações de Sistema"
 msgstr "Systemoplysninger"
 
@@ -226,9 +208,6 @@ msgstr "Pci"
 msgid "Armazenamento"
 msgstr "Opbevaring"
 
-msgid "Mais informações"
-msgstr "Flere oplysninger"
-
 msgid "Pesquisar"
 msgstr "Søg på"
 
@@ -240,21 +219,6 @@ msgstr "RAM-hukommelse:"
 
 msgid "Vídeo:"
 msgstr "Video:"
-
-msgid "Instalado na partição:"
-msgstr "Installeret på partitionen:"
-
-msgid "Tamanho da partição:"
-msgstr "Partitionsstørrelse:"
-
-msgid "Espaço utilizado:"
-msgstr "Anvendt plads:"
-
-msgid "Espaço livre:"
-msgstr "Rydde plads:"
-
-msgid "Data que o sistema foi instalado:"
-msgstr "Dato, hvor systemet blev installeret:"
 
 msgid "Kernel em uso:"
 msgstr "Kernel i brug:"

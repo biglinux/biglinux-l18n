@@ -32,21 +32,12 @@ msgstr "Този драйвер е патентован."
 msgid "Este driver parece compatível com este computador."
 msgstr "Този драйвер изглежда е съвместим с този компютър."
 
-msgid "Remover"
-msgstr "Премахване на"
-
-msgid "Instalar"
-msgstr "Инсталиране на"
-
 msgid ""
 "Já existe outro driver nVidia instalado, para instalar este driver, remova "
 "primeiro o driver instalado."
 msgstr ""
 "Вече е инсталиран друг драйвер на nVidia, за да инсталирате този драйвер, "
 "първо премахнете инсталирания драйвер."
-
-msgid "Desativado"
-msgstr "Инвалиди"
 
 msgid "Informações de Hardware"
 msgstr "Информация за хардуера"
@@ -66,9 +57,6 @@ msgid ""
 msgstr ""
 "Искате ли да прегледате файла или да го изпратите на transfer.sh, за да "
 "получите URL адрес с данните от вашия компютър по лесен начин за споделяне?"
-
-msgid "Categorias"
-msgstr "Категории"
 
 msgid "Principais"
 msgstr "Основен"
@@ -111,9 +99,6 @@ msgstr "Сензорен екран"
 
 msgid "Som"
 msgstr "Звук"
-
-msgid "Outros"
-msgstr "Други"
 
 msgid "Pesquisar Driver ou Firmware"
 msgstr "Търсене на драйвер или фърмуер"
@@ -202,9 +187,6 @@ msgstr "Логически устройства"
 msgid "Raid"
 msgstr "Raid"
 
-msgid "Sistema"
-msgstr "Система"
-
 msgid "Informações de Sistema"
 msgstr "Информация за системата"
 
@@ -226,9 +208,6 @@ msgstr "Pci"
 msgid "Armazenamento"
 msgstr "Съхранение"
 
-msgid "Mais informações"
-msgstr "Повече информация"
-
 msgid "Pesquisar"
 msgstr "Търсене"
 
@@ -240,21 +219,6 @@ msgstr "RAM памет:"
 
 msgid "Vídeo:"
 msgstr "Видео:"
-
-msgid "Instalado na partição:"
-msgstr "Инсталиран в дяла:"
-
-msgid "Tamanho da partição:"
-msgstr "Размер на дяла:"
-
-msgid "Espaço utilizado:"
-msgstr "Използвано пространство:"
-
-msgid "Espaço livre:"
-msgstr "Свободно пространство:"
-
-msgid "Data que o sistema foi instalado:"
-msgstr "Дата на инсталиране на системата:"
 
 msgid "Kernel em uso:"
 msgstr "Използвано ядро:"

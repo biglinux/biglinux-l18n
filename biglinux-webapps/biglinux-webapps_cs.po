@@ -80,6 +80,9 @@ msgstr "Přidat"
 msgid "Para adicionar um WebApp, você precisa informar a Url e o Nome."
 msgstr "Chcete-li přidat webovou aplikaci, musíte sdělit adresu Url a název."
 
+msgid "Fechar"
+msgstr "Zavřít"
+
 msgid "Para detectar o Nome e o Ícone você precisa informar a Url."
 msgstr "Chcete-li zjistit název a ikonu, musíte informovat o URL."
 

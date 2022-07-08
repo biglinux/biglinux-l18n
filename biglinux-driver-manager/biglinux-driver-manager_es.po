@@ -32,21 +32,12 @@ msgstr "Este controlador es propietario."
 msgid "Este driver parece compatível com este computador."
 msgstr "Este controlador parece ser compatible con este ordenador."
 
-msgid "Remover"
-msgstr "Eliminar"
-
-msgid "Instalar"
-msgstr "Instalar"
-
 msgid ""
 "Já existe outro driver nVidia instalado, para instalar este driver, remova "
 "primeiro o driver instalado."
 msgstr ""
 "Ya hay otro controlador de nVidia instalado, para instalar este controlador, "
 "elimine primero el controlador instalado."
-
-msgid "Desativado"
-msgstr "Discapacitados"
 
 msgid "Informações de Hardware"
 msgstr "Información sobre el hardware"
@@ -66,9 +57,6 @@ msgid ""
 msgstr ""
 "¿Quieres ver el archivo o enviarlo a transfer.sh, para tener una URL con los "
 "datos de tu ordenador de forma fácil de compartir?"
-
-msgid "Categorias"
-msgstr "Categorías"
 
 msgid "Principais"
 msgstr "Principal"
@@ -111,9 +99,6 @@ msgstr "Pantalla táctil"
 
 msgid "Som"
 msgstr "Sonido"
-
-msgid "Outros"
-msgstr "Otros"
 
 msgid "Pesquisar Driver ou Firmware"
 msgstr "Buscar controlador o firmware"
@@ -202,9 +187,6 @@ msgstr "Dispositivos lógicos"
 msgid "Raid"
 msgstr "Raid"
 
-msgid "Sistema"
-msgstr "Sistema"
-
 msgid "Informações de Sistema"
 msgstr "Información del sistema"
 
@@ -226,9 +208,6 @@ msgstr "Pci"
 msgid "Armazenamento"
 msgstr "Almacenamiento"
 
-msgid "Mais informações"
-msgstr "Más información"
-
 msgid "Pesquisar"
 msgstr "Busque en"
 
@@ -240,21 +219,6 @@ msgstr "Memoria RAM:"
 
 msgid "Vídeo:"
 msgstr "Video:"
-
-msgid "Instalado na partição:"
-msgstr "Instalado en la partición:"
-
-msgid "Tamanho da partição:"
-msgstr "Tamaño de la partición:"
-
-msgid "Espaço utilizado:"
-msgstr "Espacio utilizado:"
-
-msgid "Espaço livre:"
-msgstr "Espacio libre:"
-
-msgid "Data que o sistema foi instalado:"
-msgstr "Fecha de instalación del sistema:"
 
 msgid "Kernel em uso:"
 msgstr "Kernel en uso:"

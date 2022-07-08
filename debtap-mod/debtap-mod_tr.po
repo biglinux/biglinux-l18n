@@ -78,6 +78,3 @@ msgstr ".deb paketini yükleme"
 
 msgid "Convertendo o arquivo, aguarde, pode demorar alguns minutos..."
 msgstr "Dosya dönüştürülüyor, bekleyin, birkaç dakika sürebilir..."
-
-msgid "Concluído!"
-msgstr "Tamamdır!"

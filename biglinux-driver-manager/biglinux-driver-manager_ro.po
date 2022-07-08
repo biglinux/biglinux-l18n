@@ -32,21 +32,12 @@ msgstr "Acest driver este proprietar."
 msgid "Este driver parece compatível com este computador."
 msgstr "Acest driver pare să fie compatibil cu acest computer."
 
-msgid "Remover"
-msgstr "Eliminați"
-
-msgid "Instalar"
-msgstr "Instalați"
-
 msgid ""
 "Já existe outro driver nVidia instalado, para instalar este driver, remova "
 "primeiro o driver instalado."
 msgstr ""
 "Există deja un alt driver nVidia instalat, pentru a instala acest driver, "
 "eliminați mai întâi driverul instalat."
-
-msgid "Desativado"
-msgstr "Persoane cu handicap"
 
 msgid "Informações de Hardware"
 msgstr "Informații hardware"
@@ -66,9 +57,6 @@ msgid ""
 msgstr ""
 "Doriți să vizualizați fișierul sau să îl trimiteți la transfer.sh, pentru a "
 "avea un URL cu datele de pe computerul dvs. într-un mod ușor de partajat?"
-
-msgid "Categorias"
-msgstr "Categorii"
 
 msgid "Principais"
 msgstr "Principal"
@@ -111,9 +99,6 @@ msgstr "Ecran tactil"
 
 msgid "Som"
 msgstr "Sunet"
-
-msgid "Outros"
-msgstr "Altele"
 
 msgid "Pesquisar Driver ou Firmware"
 msgstr "Căutare driver sau firmware"
@@ -202,9 +187,6 @@ msgstr "Dispozitive logice"
 msgid "Raid"
 msgstr "Raid"
 
-msgid "Sistema"
-msgstr "Sistem"
-
 msgid "Informações de Sistema"
 msgstr "Informații de sistem"
 
@@ -226,9 +208,6 @@ msgstr "Pci"
 msgid "Armazenamento"
 msgstr "Depozitare"
 
-msgid "Mais informações"
-msgstr "Mai multe informații"
-
 msgid "Pesquisar"
 msgstr "Căutare"
 
@@ -240,21 +219,6 @@ msgstr "Memorie RAM:"
 
 msgid "Vídeo:"
 msgstr "Video:"
-
-msgid "Instalado na partição:"
-msgstr "Instalat pe partiție:"
-
-msgid "Tamanho da partição:"
-msgstr "Dimensiunea partiției:"
-
-msgid "Espaço utilizado:"
-msgstr "Spațiu utilizat:"
-
-msgid "Espaço livre:"
-msgstr "Spațiu liber:"
-
-msgid "Data que o sistema foi instalado:"
-msgstr "Data la care a fost instalat sistemul:"
 
 msgid "Kernel em uso:"
 msgstr "Kernel în uz:"

@@ -68,9 +68,6 @@ msgstr ""
 "dostępnych udziałów, należy zostawić puste pole, aby przeprowadzić anonimowe "
 "wyszukiwanie."
 
-msgid "Cancelar"
-msgstr "Anuluj"
-
 msgid "Próximo"
 msgstr "Następny"
 
@@ -82,9 +79,3 @@ msgstr "Wyszukiwanie przeprowadzone z udziałem użytkownika:"
 
 msgid "na rede:"
 msgstr "w sieci:"
-
-msgid "Voltar"
-msgstr "Powrót"
-
-msgid "Fechar"
-msgstr "Zamknij"

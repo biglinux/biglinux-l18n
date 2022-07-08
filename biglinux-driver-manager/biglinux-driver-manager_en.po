@@ -32,21 +32,12 @@ msgstr "This driver is proprietary."
 msgid "Este driver parece compatível com este computador."
 msgstr "This driver seems to be compatible with this computer."
 
-msgid "Remover"
-msgstr "Remove"
-
-msgid "Instalar"
-msgstr "Install"
-
 msgid ""
 "Já existe outro driver nVidia instalado, para instalar este driver, remova "
 "primeiro o driver instalado."
 msgstr ""
 "There is already another nVidia driver installed, to install this driver, "
 "remove the installed driver first."
-
-msgid "Desativado"
-msgstr "Disabled"
 
 msgid "Informações de Hardware"
 msgstr "Hardware Information"
@@ -66,9 +57,6 @@ msgid ""
 msgstr ""
 "Do you want to view the file or send it to transfer.sh, to have a URL with "
 "the data from your computer in an easy to share way?"
-
-msgid "Categorias"
-msgstr "Categories"
 
 msgid "Principais"
 msgstr "Main"
@@ -111,9 +99,6 @@ msgstr "Touchscreen"
 
 msgid "Som"
 msgstr "Sound"
-
-msgid "Outros"
-msgstr "Other"
 
 msgid "Pesquisar Driver ou Firmware"
 msgstr "Search Driver or Firmware"
@@ -201,9 +186,6 @@ msgstr "Logic devices"
 msgid "Raid"
 msgstr "Raid"
 
-msgid "Sistema"
-msgstr "System"
-
 msgid "Informações de Sistema"
 msgstr "System Information"
 
@@ -225,9 +207,6 @@ msgstr "Pci"
 msgid "Armazenamento"
 msgstr "Storage"
 
-msgid "Mais informações"
-msgstr "More information"
-
 msgid "Pesquisar"
 msgstr "Search"
 
@@ -239,21 +218,6 @@ msgstr "RAM memory:"
 
 msgid "Vídeo:"
 msgstr "Video:"
-
-msgid "Instalado na partição:"
-msgstr "Installed on the partition:"
-
-msgid "Tamanho da partição:"
-msgstr "Partition size:"
-
-msgid "Espaço utilizado:"
-msgstr "Space used:"
-
-msgid "Espaço livre:"
-msgstr "Clear space:"
-
-msgid "Data que o sistema foi instalado:"
-msgstr "Date the system was installed:"
 
 msgid "Kernel em uso:"
 msgstr "Kernel in use:"

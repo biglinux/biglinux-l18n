@@ -32,21 +32,12 @@ msgstr "See draiver on patenteeritud."
 msgid "Este driver parece compatível com este computador."
 msgstr "See draiver näib olevat selle arvutiga ühilduv."
 
-msgid "Remover"
-msgstr "Eemaldage"
-
-msgid "Instalar"
-msgstr "Paigaldage"
-
 msgid ""
 "Já existe outro driver nVidia instalado, para instalar este driver, remova "
 "primeiro o driver instalado."
 msgstr ""
 "On juba paigaldatud teine nVidia draiver, selle draiveri paigaldamiseks "
 "eemaldage esmalt paigaldatud draiver."
-
-msgid "Desativado"
-msgstr "Puudega inimesed"
 
 msgid "Informações de Hardware"
 msgstr "Riistvara teave"
@@ -66,9 +57,6 @@ msgid ""
 msgstr ""
 "Kas soovite faili vaadata või saata selle transfer.sh, et saada URL-i oma "
 "arvutist andmete lihtsaks jagamiseks?"
-
-msgid "Categorias"
-msgstr "Kategooriad"
 
 msgid "Principais"
 msgstr "Main"
@@ -111,9 +99,6 @@ msgstr "Puuteekraan"
 
 msgid "Som"
 msgstr "Heli"
-
-msgid "Outros"
-msgstr "Muud"
 
 msgid "Pesquisar Driver ou Firmware"
 msgstr "Juhi või püsivara otsimine"
@@ -202,9 +187,6 @@ msgstr "Loogikaseadmed"
 msgid "Raid"
 msgstr "Raid"
 
-msgid "Sistema"
-msgstr "Süsteem"
-
 msgid "Informações de Sistema"
 msgstr "Süsteemi teave"
 
@@ -226,9 +208,6 @@ msgstr "Pci"
 msgid "Armazenamento"
 msgstr "Ladustamine"
 
-msgid "Mais informações"
-msgstr "Lisateave"
-
 msgid "Pesquisar"
 msgstr "Otsi"
 
@@ -240,21 +219,6 @@ msgstr "RAM-mälu:"
 
 msgid "Vídeo:"
 msgstr "Video:"
-
-msgid "Instalado na partição:"
-msgstr "Paigaldatud partitsioonile:"
-
-msgid "Tamanho da partição:"
-msgstr "Jaotise suurus:"
-
-msgid "Espaço utilizado:"
-msgstr "Kasutatud ruum:"
-
-msgid "Espaço livre:"
-msgstr "Vaba ruum:"
-
-msgid "Data que o sistema foi instalado:"
-msgstr "Süsteemi paigaldamise kuupäev:"
 
 msgid "Kernel em uso:"
 msgstr "Kasutatav tuum:"

@@ -101,5 +101,8 @@ msgstr "文件夾："
 msgid "OCR para PDF"
 msgstr "用于PDF的OCR"
 
+msgid "Concluído!"
+msgstr "完成了!"
+
 msgid "Salvo em: "
 msgstr "保存在。 "

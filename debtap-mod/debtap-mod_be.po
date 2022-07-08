@@ -79,6 +79,3 @@ msgstr "Усталюйце пакет .deb"
 msgid "Convertendo o arquivo, aguarde, pode demorar alguns minutos..."
 msgstr ""
 "Ідзе пераўтварэнне файла, пачакайце, гэта можа заняць некалькі хвілін..."
-
-msgid "Concluído!"
-msgstr "Выснову!"

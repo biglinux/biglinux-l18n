@@ -69,9 +69,6 @@ msgstr ""
 "λίστα των διαθέσιμων μετοχών, αφήστε το κενό για να εκτελέσετε ανώνυμη "
 "αναζήτηση."
 
-msgid "Cancelar"
-msgstr "Ακύρωση"
-
 msgid "Próximo"
 msgstr "Επόμενο"
 
@@ -83,9 +80,3 @@ msgstr "Αναζήτηση που πραγματοποιείται με τον �
 
 msgid "na rede:"
 msgstr "στο δίκτυο:"
-
-msgid "Voltar"
-msgstr "Πίσω"
-
-msgid "Fechar"
-msgstr "Κλείστε το"

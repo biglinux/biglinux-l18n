@@ -32,21 +32,12 @@ msgstr "Bu sürücü tescillidir."
 msgid "Este driver parece compatível com este computador."
 msgstr "Bu sürücü bu bilgisayarla uyumlu görünüyor."
 
-msgid "Remover"
-msgstr "Kaldırmak"
-
-msgid "Instalar"
-msgstr "Kurulum"
-
 msgid ""
 "Já existe outro driver nVidia instalado, para instalar este driver, remova "
 "primeiro o driver instalado."
 msgstr ""
 "Zaten yüklü başka bir nVidia sürücüsü var, bu sürücüyü yüklemek için önce "
 "yüklü sürücüyü kaldırın."
-
-msgid "Desativado"
-msgstr "Engelli"
 
 msgid "Informações de Hardware"
 msgstr "Donanım Bilgileri"
@@ -67,9 +58,6 @@ msgstr ""
 "Dosyayı görüntülemek mi yoksa bilgisayarınızdaki verileri kolay bir şekilde "
 "paylaşmak için bir URL'ye sahip olmak için transfer.sh'ye göndermek mi "
 "istiyorsunuz?"
-
-msgid "Categorias"
-msgstr "Kategoriler"
 
 msgid "Principais"
 msgstr "Ana"
@@ -112,9 +100,6 @@ msgstr "Dokunmatik ekran"
 
 msgid "Som"
 msgstr "Ses"
-
-msgid "Outros"
-msgstr "Diğer"
 
 msgid "Pesquisar Driver ou Firmware"
 msgstr "Sürücü veya Ürün Yazılımını Arama"
@@ -203,9 +188,6 @@ msgstr "Mantıksal cihazlar"
 msgid "Raid"
 msgstr "Baskın"
 
-msgid "Sistema"
-msgstr "Sistem"
-
 msgid "Informações de Sistema"
 msgstr "Sistem Bilgileri"
 
@@ -227,9 +209,6 @@ msgstr "Pci"
 msgid "Armazenamento"
 msgstr "Depolama"
 
-msgid "Mais informações"
-msgstr "Daha fazla bilgi"
-
 msgid "Pesquisar"
 msgstr "Arama"
 
@@ -241,21 +220,6 @@ msgstr "RAM bellek:"
 
 msgid "Vídeo:"
 msgstr "Video:"
-
-msgid "Instalado na partição:"
-msgstr "Bölüme yüklendi:"
-
-msgid "Tamanho da partição:"
-msgstr "Bölüm boyutu:"
-
-msgid "Espaço utilizado:"
-msgstr "Kullanılan alan:"
-
-msgid "Espaço livre:"
-msgstr "Boş alan:"
-
-msgid "Data que o sistema foi instalado:"
-msgstr "Sistemin kurulduğu tarih:"
 
 msgid "Kernel em uso:"
 msgstr "Çekirdek kullanımda:"

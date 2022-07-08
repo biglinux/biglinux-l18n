@@ -79,6 +79,3 @@ msgstr "Installation af .deb-pakke"
 
 msgid "Convertendo o arquivo, aguarde, pode demorar alguns minutos..."
 msgstr "Konvertering af filen, vent, det kan tage et par minutter..."
-
-msgid "Concluído!"
-msgstr "Færdig!"

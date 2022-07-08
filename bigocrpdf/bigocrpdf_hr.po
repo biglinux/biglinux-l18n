@@ -104,5 +104,8 @@ msgstr "Mapa:"
 msgid "OCR para PDF"
 msgstr "OCR do PDF"
 
+msgid "Concluído!"
+msgstr "Dovršeno!"
+
 msgid "Salvo em: "
 msgstr "Spremljeno u: "

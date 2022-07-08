@@ -104,5 +104,8 @@ msgstr "Map:"
 msgid "OCR para PDF"
 msgstr "OCR voor PDF"
 
+msgid "Concluído!"
+msgstr "Klaar!"
+
 msgid "Salvo em: "
 msgstr "Opgeslagen in "

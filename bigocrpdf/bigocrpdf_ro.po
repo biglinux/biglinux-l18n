@@ -105,5 +105,8 @@ msgstr "Dosar:"
 msgid "OCR para PDF"
 msgstr "OCR pentru PDF"
 
+msgid "Concluído!"
+msgstr "Gata!"
+
 msgid "Salvo em: "
 msgstr "Salvat în "

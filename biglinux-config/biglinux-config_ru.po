@@ -90,8 +90,5 @@ msgstr "Восстановите настройки программы:"
 msgid "Principal"
 msgstr "Главная"
 
-msgid "Internet"
-msgstr "Интернет"
-
 msgid "Pesquisar Restaurar"
 msgstr "Восстановление поиска"

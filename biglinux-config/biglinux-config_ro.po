@@ -94,8 +94,5 @@ msgstr "Restabiliți setările programului:"
 msgid "Principal"
 msgstr "Principal"
 
-msgid "Internet"
-msgstr "Internet"
-
 msgid "Pesquisar Restaurar"
 msgstr "Căutare Restaurare"

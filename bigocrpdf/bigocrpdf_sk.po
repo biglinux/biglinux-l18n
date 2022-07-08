@@ -105,5 +105,8 @@ msgstr "Priečinok:"
 msgid "OCR para PDF"
 msgstr "OCR pre PDF"
 
+msgid "Concluído!"
+msgstr "Hotovo!"
+
 msgid "Salvo em: "
 msgstr "Uložené v "

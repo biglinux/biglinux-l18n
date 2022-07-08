@@ -92,8 +92,5 @@ msgstr "Επαναφορά των ρυθμίσεων του προγράμματ
 msgid "Principal"
 msgstr "Κύρια"
 
-msgid "Internet"
-msgstr "Διαδίκτυο"
-
 msgid "Pesquisar Restaurar"
 msgstr "Αναζήτηση Επαναφορά"

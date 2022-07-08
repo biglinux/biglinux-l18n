@@ -65,9 +65,6 @@ msgstr ""
 "*Enamik servereid nõuab sisselogimist ja parooli, et loetleda saadaval "
 "olevaid jagamisi, anonüümse otsingu tegemiseks jätke see tühjaks."
 
-msgid "Cancelar"
-msgstr "Tühista"
-
 msgid "Próximo"
 msgstr "Järgmine"
 
@@ -79,9 +76,3 @@ msgstr "Otsing, mis viiakse läbi koos kasutajaga:"
 
 msgid "na rede:"
 msgstr "võrgus:"
-
-msgid "Voltar"
-msgstr "Tagasi"
-
-msgid "Fechar"
-msgstr "Sulge"

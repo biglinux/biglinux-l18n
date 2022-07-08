@@ -64,9 +64,6 @@ msgstr ""
 "*De fleste servere trenger innlogging og passord for å liste opp "
 "tilgjengelige aksjer, la stå tomt for å utføre et anonymt søk."
 
-msgid "Cancelar"
-msgstr "Avbryt"
-
 msgid "Próximo"
 msgstr "neste"
 
@@ -78,9 +75,3 @@ msgstr "Søk utført med brukeren:"
 
 msgid "na rede:"
 msgstr "på nettverket:"
-
-msgid "Voltar"
-msgstr "Gå tilbake"
-
-msgid "Fechar"
-msgstr "Lukk"

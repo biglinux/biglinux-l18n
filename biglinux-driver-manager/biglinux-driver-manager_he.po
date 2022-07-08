@@ -32,21 +32,12 @@ msgstr "הנהג הזה הוא קנייני."
 msgid "Este driver parece compatível com este computador."
 msgstr "מנהל התקן זה נראה תואם למחשב זה."
 
-msgid "Remover"
-msgstr "הסר"
-
-msgid "Instalar"
-msgstr "התקן"
-
 msgid ""
 "Já existe outro driver nVidia instalado, para instalar este driver, remova "
 "primeiro o driver instalado."
 msgstr ""
 "יש כבר מנהל התקן נוסף של nVidia מותקן, כדי להתקין את מנהל ההתקן, הסר תחילה "
 "את מנהל ההתקן המותקן."
-
-msgid "Desativado"
-msgstr "מושבת"
 
 msgid "Informações de Hardware"
 msgstr "מידע על חומרה"
@@ -66,9 +57,6 @@ msgid ""
 msgstr ""
 "האם ברצונך להציג את הקובץ או לשלוח אותו לאתר transfer.sh, לקבל כתובת אתר עם "
 "הנתונים במחשב שלך בצורה קלה לשיתוף?"
-
-msgid "Categorias"
-msgstr "קטגוריות"
 
 msgid "Principais"
 msgstr "ראשי"
@@ -111,9 +99,6 @@ msgstr "מסך מגע"
 
 msgid "Som"
 msgstr "קול"
-
-msgid "Outros"
-msgstr "אחרים"
 
 msgid "Pesquisar Driver ou Firmware"
 msgstr "חפש מנהל התקן או קושחה"
@@ -199,9 +184,6 @@ msgstr "התקנים לוגיים"
 msgid "Raid"
 msgstr "פשיטה"
 
-msgid "Sistema"
-msgstr "מערכת"
-
 msgid "Informações de Sistema"
 msgstr "מידע על המערכת"
 
@@ -223,9 +205,6 @@ msgstr "PCI"
 msgid "Armazenamento"
 msgstr "אחסון"
 
-msgid "Mais informações"
-msgstr "מידע נוסף"
-
 msgid "Pesquisar"
 msgstr "חיפוש"
 
@@ -237,21 +216,6 @@ msgstr "זיכרון RAM:"
 
 msgid "Vídeo:"
 msgstr "וידאו:"
-
-msgid "Instalado na partição:"
-msgstr "מותקן על המחיצה:"
-
-msgid "Tamanho da partição:"
-msgstr "גודל מחיצה:"
-
-msgid "Espaço utilizado:"
-msgstr "שטח בשימוש:"
-
-msgid "Espaço livre:"
-msgstr "מקום פנוי:"
-
-msgid "Data que o sistema foi instalado:"
-msgstr "תאריך התקנת המערכת:"
 
 msgid "Kernel em uso:"
 msgstr "ליבה בשימוש:"

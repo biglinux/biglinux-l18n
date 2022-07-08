@@ -65,9 +65,6 @@ msgstr ""
 "*Çoğu sunucu mevcut paylaşımları listelemek için kullanıcı adı ve şifre "
 "gerektirir, anonim arama yapmak için boş bırakın."
 
-msgid "Cancelar"
-msgstr "İptal"
-
 msgid "Próximo"
 msgstr "Sonraki"
 
@@ -79,9 +76,3 @@ msgstr "Kullanıcı ile birlikte gerçekleştirilen arama:"
 
 msgid "na rede:"
 msgstr "ağ üzerinde:"
-
-msgid "Voltar"
-msgstr "Geri"
-
-msgid "Fechar"
-msgstr "Kapat"

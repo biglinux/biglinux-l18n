@@ -80,6 +80,9 @@ msgstr "Додати"
 msgid "Para adicionar um WebApp, você precisa informar a Url e o Nome."
 msgstr "Щоб додати веб-програму, вам потрібно вказати URL-адресу та назву."
 
+msgid "Fechar"
+msgstr " Закрити"
+
 msgid "Para detectar o Nome e o Ícone você precisa informar a Url."
 msgstr "Щоб визначити ім’я та піктограму, потрібно повідомити URL-адресу."
 

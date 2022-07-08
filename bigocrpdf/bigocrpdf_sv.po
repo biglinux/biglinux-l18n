@@ -104,5 +104,8 @@ msgstr "Mapp:"
 msgid "OCR para PDF"
 msgstr "OCR för PDF"
 
+msgid "Concluído!"
+msgstr "Klart!"
+
 msgid "Salvo em: "
 msgstr "Sparad i "

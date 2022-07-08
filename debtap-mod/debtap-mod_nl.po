@@ -81,6 +81,3 @@ msgid "Convertendo o arquivo, aguarde, pode demorar alguns minutos..."
 msgstr ""
 "Het bestand wordt geconverteerd, wacht even, het kan een paar minuten duren.."
 "."
-
-msgid "Concluído!"
-msgstr "Klaar!"

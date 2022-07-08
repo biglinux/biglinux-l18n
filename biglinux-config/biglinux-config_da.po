@@ -95,8 +95,5 @@ msgstr "Gendan programindstillingerne:"
 msgid "Principal"
 msgstr "Vigtigste"
 
-msgid "Internet"
-msgstr "Internet"
-
 msgid "Pesquisar Restaurar"
 msgstr "Søg Genoprette"

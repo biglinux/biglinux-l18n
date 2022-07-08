@@ -95,8 +95,5 @@ msgstr "Återställer programinställningarna:"
 msgid "Principal"
 msgstr "Huvudsidan"
 
-msgid "Internet"
-msgstr "Internet"
-
 msgid "Pesquisar Restaurar"
 msgstr "Sök Återställning"

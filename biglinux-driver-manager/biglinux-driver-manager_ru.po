@@ -32,21 +32,12 @@ msgstr "Этот драйвер является проприетарным."
 msgid "Este driver parece compatível com este computador."
 msgstr "Этот драйвер, похоже, совместим с данным компьютером."
 
-msgid "Remover"
-msgstr "Удалить"
-
-msgid "Instalar"
-msgstr "Установите"
-
 msgid ""
 "Já existe outro driver nVidia instalado, para instalar este driver, remova "
 "primeiro o driver instalado."
 msgstr ""
 "Уже установлен другой драйвер nVidia, чтобы установить этот драйвер, сначала "
 "удалите установленный драйвер."
-
-msgid "Desativado"
-msgstr "Инвалид"
 
 msgid "Informações de Hardware"
 msgstr "Информация об оборудовании"
@@ -66,9 +57,6 @@ msgid ""
 msgstr ""
 "Вы хотите просмотреть файл или отправить его в transfer.sh, чтобы иметь URL "
 "с данными с вашего компьютера в удобном для обмена виде?"
-
-msgid "Categorias"
-msgstr "Категории"
 
 msgid "Principais"
 msgstr "Главная"
@@ -111,9 +99,6 @@ msgstr "Сенсорный экран"
 
 msgid "Som"
 msgstr "Звук"
-
-msgid "Outros"
-msgstr "Другое"
 
 msgid "Pesquisar Driver ou Firmware"
 msgstr "Поиск драйвера или микропрограммы"
@@ -202,9 +187,6 @@ msgstr "Логические устройства"
 msgid "Raid"
 msgstr "Рейд"
 
-msgid "Sistema"
-msgstr "Система"
-
 msgid "Informações de Sistema"
 msgstr "Системная информация"
 
@@ -226,9 +208,6 @@ msgstr "Pci"
 msgid "Armazenamento"
 msgstr "Хранение"
 
-msgid "Mais informações"
-msgstr "Дополнительная информация"
-
 msgid "Pesquisar"
 msgstr "Поиск"
 
@@ -240,21 +219,6 @@ msgstr "Оперативная память:"
 
 msgid "Vídeo:"
 msgstr "Видео:"
-
-msgid "Instalado na partição:"
-msgstr "Установлен на раздел:"
-
-msgid "Tamanho da partição:"
-msgstr "Размер раздела:"
-
-msgid "Espaço utilizado:"
-msgstr "Используемое пространство:"
-
-msgid "Espaço livre:"
-msgstr "Чистое пространство:"
-
-msgid "Data que o sistema foi instalado:"
-msgstr "Дата установки системы:"
 
 msgid "Kernel em uso:"
 msgstr "Используемое ядро:"

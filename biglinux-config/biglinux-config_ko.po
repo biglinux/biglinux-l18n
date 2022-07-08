@@ -79,8 +79,5 @@ msgstr "프로그램 설정 복원:"
 msgid "Principal"
 msgstr "메인"
 
-msgid "Internet"
-msgstr "인터넷"
-
 msgid "Pesquisar Restaurar"
 msgstr "검색 복원"

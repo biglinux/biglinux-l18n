@@ -87,8 +87,5 @@ msgstr "שחזר את הגדרות התוכנית:"
 msgid "Principal"
 msgstr "ראשי"
 
-msgid "Internet"
-msgstr "מרשתת"
-
 msgid "Pesquisar Restaurar"
 msgstr "חיפוש שחזור"

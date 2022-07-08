@@ -65,9 +65,6 @@ msgstr ""
 "* Većina poslužitelja trebaju prijavu i lozinku za popis dostupnih dionica, "
 "ostaviti prazno za obavljanje anonimne pretrage."
 
-msgid "Cancelar"
-msgstr "Odustani"
-
 msgid "Próximo"
 msgstr "dalje"
 
@@ -79,9 +76,3 @@ msgstr "Pretraživanje izvršeno s korisnikom:"
 
 msgid "na rede:"
 msgstr "na mreži:"
-
-msgid "Voltar"
-msgstr "Vrati se"
-
-msgid "Fechar"
-msgstr "Zatvoriti"

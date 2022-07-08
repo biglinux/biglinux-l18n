@@ -80,6 +80,9 @@ msgstr "Adăugați"
 msgid "Para adicionar um WebApp, você precisa informar a Url e o Nome."
 msgstr "Pentru a adăuga o aplicație web, trebuie să informați Url și Name."
 
+msgid "Fechar"
+msgstr "Închideți"
+
 msgid "Para detectar o Nome e o Ícone você precisa informar a Url."
 msgstr "Pentru a detecta numele și pictograma, trebuie să informați Url."
 

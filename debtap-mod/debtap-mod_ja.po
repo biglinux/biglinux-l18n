@@ -74,6 +74,3 @@ msgstr ".debパッケージのインストール"
 
 msgid "Convertendo o arquivo, aguarde, pode demorar alguns minutos..."
 msgstr "ファイルを変換しています、お待ちください、数分かかるかもしれません...。"
-
-msgid "Concluído!"
-msgstr "完了！"

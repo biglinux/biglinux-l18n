@@ -65,9 +65,6 @@ msgstr ""
 "*De flesta servrar kräver inloggning och lösenord för att lista tillgängliga "
 "andelar, lämna tomt för att utföra en anonym sökning."
 
-msgid "Cancelar"
-msgstr "Avbryt"
-
 msgid "Próximo"
 msgstr "Nästa"
 
@@ -79,9 +76,3 @@ msgstr "Sökning utförs tillsammans med användaren:"
 
 msgid "na rede:"
 msgstr "i nätverket:"
-
-msgid "Voltar"
-msgstr "Tillbaka"
-
-msgid "Fechar"
-msgstr "Stäng"

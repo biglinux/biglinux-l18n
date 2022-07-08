@@ -102,5 +102,8 @@ msgstr "폴더:"
 msgid "OCR para PDF"
 msgstr "OCR을 PDF로 변환"
 
+msgid "Concluído!"
+msgstr "완료되었습니다!"
+
 msgid "Salvo em: "
 msgstr "저장 위치: "

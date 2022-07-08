@@ -32,12 +32,6 @@ msgstr "Dit stuurprogramma is gepatenteerd."
 msgid "Este driver parece compatível com este computador."
 msgstr "Dit stuurprogramma lijkt compatibel te zijn met deze computer."
 
-msgid "Remover"
-msgstr "Verwijder"
-
-msgid "Instalar"
-msgstr "Installeer"
-
 msgid ""
 "Já existe outro driver nVidia instalado, para instalar este driver, remova "
 "primeiro o driver instalado."
@@ -45,9 +39,6 @@ msgstr ""
 "Er is al een ander nVidia stuurprogramma geïnstalleerd, om dit "
 "stuurprogramma te installeren moet u eerst het geïnstalleerde stuurprogramma "
 "verwijderen."
-
-msgid "Desativado"
-msgstr "Uitgeschakeld"
 
 msgid "Informações de Hardware"
 msgstr "Hardware-informatie"
@@ -67,9 +58,6 @@ msgid ""
 msgstr ""
 "Wilt u het bestand bekijken of naar transfer.sh sturen, om een URL te hebben "
 "met de gegevens van uw computer op een gemakkelijke manier te delen?"
-
-msgid "Categorias"
-msgstr "Categorieën"
 
 msgid "Principais"
 msgstr "Hoofd"
@@ -112,9 +100,6 @@ msgstr "Touchscreen"
 
 msgid "Som"
 msgstr "Geluid"
-
-msgid "Outros"
-msgstr "Andere"
 
 msgid "Pesquisar Driver ou Firmware"
 msgstr "Stuurprogramma of firmware zoeken"
@@ -204,9 +189,6 @@ msgstr "Logische apparaten"
 msgid "Raid"
 msgstr "Overval"
 
-msgid "Sistema"
-msgstr "Systeem"
-
 msgid "Informações de Sistema"
 msgstr "Systeeminformatie"
 
@@ -228,9 +210,6 @@ msgstr "Pci"
 msgid "Armazenamento"
 msgstr "Opslag"
 
-msgid "Mais informações"
-msgstr "Meer informatie"
-
 msgid "Pesquisar"
 msgstr "Zoeken"
 
@@ -242,21 +221,6 @@ msgstr "RAM geheugen:"
 
 msgid "Vídeo:"
 msgstr "Video:"
-
-msgid "Instalado na partição:"
-msgstr "Geïnstalleerd op de partitie:"
-
-msgid "Tamanho da partição:"
-msgstr "Partitiegrootte:"
-
-msgid "Espaço utilizado:"
-msgstr "Gebruikte ruimte:"
-
-msgid "Espaço livre:"
-msgstr "Vrije ruimte:"
-
-msgid "Data que o sistema foi instalado:"
-msgstr "Datum waarop het systeem werd geïnstalleerd:"
 
 msgid "Kernel em uso:"
 msgstr "Kernel in gebruik:"

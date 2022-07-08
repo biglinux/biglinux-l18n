@@ -32,20 +32,11 @@ msgstr "このドライバはプロプライエタリです。"
 msgid "Este driver parece compatível com este computador."
 msgstr "このドライバはこのコンピュータと互換性があるようです。"
 
-msgid "Remover"
-msgstr "削除"
-
-msgid "Instalar"
-msgstr "インストール"
-
 msgid ""
 "Já existe outro driver nVidia instalado, para instalar este driver, remova "
 "primeiro o driver instalado."
 msgstr ""
 "すでに別のnVidiaドライバがインストールされていますので、このドライバをインストールするには、まずインストールされているドライバを削除してください。"
-
-msgid "Desativado"
-msgstr "使用不可"
 
 msgid "Informações de Hardware"
 msgstr "ハードウェア情報"
@@ -63,9 +54,6 @@ msgid ""
 "Deseja visualizar o arquivo ou envia-lo ao site transfer.sh, para ter uma "
 "URL com os dados do seu computador de forma fácil de compartilhar?"
 msgstr "ファイルを表示したり、transfer.shに送信して、共有する簡単な方法でコンピュータからのデータでURLを持つようにしたいですか？"
-
-msgid "Categorias"
-msgstr "カテゴリー"
 
 msgid "Principais"
 msgstr "メイン"
@@ -108,9 +96,6 @@ msgstr "タッチスクリーン"
 
 msgid "Som"
 msgstr "サウンド"
-
-msgid "Outros"
-msgstr "その他"
 
 msgid "Pesquisar Driver ou Firmware"
 msgstr "ドライバーまたはファームウェアの検索"
@@ -195,9 +180,6 @@ msgstr "ロジックデバイス"
 msgid "Raid"
 msgstr "レイド"
 
-msgid "Sistema"
-msgstr "システム"
-
 msgid "Informações de Sistema"
 msgstr "システム情報"
 
@@ -219,9 +201,6 @@ msgstr "Pci"
 msgid "Armazenamento"
 msgstr "ストレージ"
 
-msgid "Mais informações"
-msgstr "詳細はこちら"
-
 msgid "Pesquisar"
 msgstr "検索"
 
@@ -233,21 +212,6 @@ msgstr "RAMメモリ："
 
 msgid "Vídeo:"
 msgstr "ビデオ："
-
-msgid "Instalado na partição:"
-msgstr "パーティションにインストールされています。"
-
-msgid "Tamanho da partição:"
-msgstr "パーティションサイズ。"
-
-msgid "Espaço utilizado:"
-msgstr "使用するスペース"
-
-msgid "Espaço livre:"
-msgstr "空間をクリアにする。"
-
-msgid "Data que o sistema foi instalado:"
-msgstr "システムがインストールされた日付。"
 
 msgid "Kernel em uso:"
 msgstr "使用中のカーネル："

@@ -78,6 +78,3 @@ msgstr "Instalace balíčku .deb"
 
 msgid "Convertendo o arquivo, aguarde, pode demorar alguns minutos..."
 msgstr "Konverze souboru, počkejte, může to trvat několik minut..."
-
-msgid "Concluído!"
-msgstr "Hotovo!"

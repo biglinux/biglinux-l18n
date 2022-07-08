@@ -91,8 +91,5 @@ msgstr "Restore the program settings:"
 msgid "Principal"
 msgstr "Main"
 
-msgid "Internet"
-msgstr "Internet"
-
 msgid "Pesquisar Restaurar"
 msgstr "Search Restore"

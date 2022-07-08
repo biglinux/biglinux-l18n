@@ -80,6 +80,9 @@ msgstr "Lägg till"
 msgid "Para adicionar um WebApp, você precisa informar a Url e o Nome."
 msgstr "För att lägga till en WebApp måste du ange Url och Name."
 
+msgid "Fechar"
+msgstr "Stäng"
+
 msgid "Para detectar o Nome e o Ícone você precisa informar a Url."
 msgstr "För att upptäcka namnet och ikonen måste du informera om url:en."
 

@@ -80,6 +80,9 @@ msgstr "Ekle"
 msgid "Para adicionar um WebApp, você precisa informar a Url e o Nome."
 msgstr "Bir WebApp eklemek için URL'yi ve Adı bildirmeniz gerekir."
 
+msgid "Fechar"
+msgstr "Kapat"
+
 msgid "Para detectar o Nome e o Ícone você precisa informar a Url."
 msgstr "Adı ve Simgeyi tespit etmek için Url'yi bilgilendirmeniz gerekir."
 

@@ -65,9 +65,6 @@ msgstr ""
 "*De fleste servere kræver login og adgangskode for at få vist de "
 "tilgængelige shares, lad det være tomt for at udføre en anonym søgning."
 
-msgid "Cancelar"
-msgstr "Annuller"
-
 msgid "Próximo"
 msgstr "Næste"
 
@@ -79,9 +76,3 @@ msgstr "Søgning udført sammen med brugeren:"
 
 msgid "na rede:"
 msgstr "på netværket:"
-
-msgid "Voltar"
-msgstr "Tilbage"
-
-msgid "Fechar"
-msgstr "Luk"

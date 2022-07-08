@@ -65,9 +65,6 @@ msgstr ""
 "*A legtöbb szerver bejelentkezést és jelszót igényel az elérhető megosztások "
 "listájához, az anonim kereséshez hagyja üresen."
 
-msgid "Cancelar"
-msgstr "Törölje"
-
 msgid "Próximo"
 msgstr "Következő"
 
@@ -79,9 +76,3 @@ msgstr "A felhasználóval együtt végzett keresés:"
 
 msgid "na rede:"
 msgstr "a hálózaton:"
-
-msgid "Voltar"
-msgstr "Vissza"
-
-msgid "Fechar"
-msgstr "Zárja be a"

@@ -67,9 +67,6 @@ msgstr ""
 "*La plupart des serveurs requièrent un login et un mot de passe pour lister "
 "les partages disponibles, laissez vide pour effectuer une recherche anonyme."
 
-msgid "Cancelar"
-msgstr "Annuler"
-
 msgid "Próximo"
 msgstr "Suivant"
 
@@ -81,9 +78,3 @@ msgstr "Recherche effectuée avec l'utilisateur :"
 
 msgid "na rede:"
 msgstr "sur le réseau :"
-
-msgid "Voltar"
-msgstr "Dos"
-
-msgid "Fechar"
-msgstr "Fermer"

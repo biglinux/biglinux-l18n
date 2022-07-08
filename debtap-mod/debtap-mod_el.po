@@ -80,6 +80,3 @@ msgstr "Εγκατάσταση πακέτου .deb"
 
 msgid "Convertendo o arquivo, aguarde, pode demorar alguns minutos..."
 msgstr "Μετατροπή του αρχείου, περιμένετε, μπορεί να πάρει μερικά λεπτά..."
-
-msgid "Concluído!"
-msgstr "Έγινε!"

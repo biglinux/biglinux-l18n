@@ -90,8 +90,5 @@ msgstr "Program ayarlarını geri yükleyin:"
 msgid "Principal"
 msgstr "Ana"
 
-msgid "Internet"
-msgstr "İnternet"
-
 msgid "Pesquisar Restaurar"
 msgstr "Arama Geri Yükleme"

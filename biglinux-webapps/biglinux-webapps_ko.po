@@ -80,6 +80,9 @@ msgstr "추가"
 msgid "Para adicionar um WebApp, você precisa informar a Url e o Nome."
 msgstr "웹앱을 추가하려면 URL과 이름을 입력해야 합니다."
 
+msgid "Fechar"
+msgstr "닫기"
+
 msgid "Para detectar o Nome e o Ícone você precisa informar a Url."
 msgstr "이름과 아이콘을 검색하려면 URL을 입력해야 합니다."
 

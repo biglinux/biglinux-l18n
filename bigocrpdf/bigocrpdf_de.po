@@ -105,5 +105,8 @@ msgstr "Mappe:"
 msgid "OCR para PDF"
 msgstr "OCR für PDF"
 
+msgid "Concluído!"
+msgstr "Erledigt!"
+
 msgid "Salvo em: "
 msgstr "Gespeichert in "

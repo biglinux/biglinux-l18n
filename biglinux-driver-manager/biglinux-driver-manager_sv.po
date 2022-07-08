@@ -32,21 +32,12 @@ msgstr "Den här drivrutinen är skyddad."
 msgid "Este driver parece compatível com este computador."
 msgstr "Den här drivrutinen verkar vara kompatibel med den här datorn."
 
-msgid "Remover"
-msgstr "Ta bort"
-
-msgid "Instalar"
-msgstr "Installera"
-
 msgid ""
 "Já existe outro driver nVidia instalado, para instalar este driver, remova "
 "primeiro o driver instalado."
 msgstr ""
 "Det finns redan en annan nVidia-drivrutin installerad, ta bort den "
 "installerade drivrutinen först för att installera den här drivrutinen."
-
-msgid "Desativado"
-msgstr "Inaktiverad"
 
 msgid "Informações de Hardware"
 msgstr "Information om maskinvara"
@@ -66,9 +57,6 @@ msgid ""
 msgstr ""
 "Vill du visa filen eller skicka den till transfer.sh, för att få en URL med "
 "data från din dator på ett enkelt sätt att dela den?"
-
-msgid "Categorias"
-msgstr "Kategorier"
 
 msgid "Principais"
 msgstr "Huvudsidan"
@@ -111,9 +99,6 @@ msgstr "Pekskärm"
 
 msgid "Som"
 msgstr "Ljud"
-
-msgid "Outros"
-msgstr "Övriga"
 
 msgid "Pesquisar Driver ou Firmware"
 msgstr "Sök drivrutin eller fast programvara"
@@ -203,9 +188,6 @@ msgstr "Logiska anordningar"
 msgid "Raid"
 msgstr "Raid"
 
-msgid "Sistema"
-msgstr "System"
-
 msgid "Informações de Sistema"
 msgstr "Systeminformation"
 
@@ -227,9 +209,6 @@ msgstr "Pci"
 msgid "Armazenamento"
 msgstr "Lagring"
 
-msgid "Mais informações"
-msgstr "Mer information"
-
 msgid "Pesquisar"
 msgstr "Sök på"
 
@@ -241,21 +220,6 @@ msgstr "RAM-minne:"
 
 msgid "Vídeo:"
 msgstr "Video:"
-
-msgid "Instalado na partição:"
-msgstr "Installerad på partitionen:"
-
-msgid "Tamanho da partição:"
-msgstr "Partitionsstorlek:"
-
-msgid "Espaço utilizado:"
-msgstr "Utrymme som används:"
-
-msgid "Espaço livre:"
-msgstr "Klart utrymme:"
-
-msgid "Data que o sistema foi instalado:"
-msgstr "Datum då systemet installerades:"
 
 msgid "Kernel em uso:"
 msgstr "Kärna som används:"
