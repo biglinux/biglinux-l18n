@@ -36,8 +36,8 @@ msgstr ""
 msgid "Normal"
 msgstr "Normaali"
 
-msgid "Economico"
-msgstr "Taloudellinen"
+msgid "Econômico"
+msgstr "Talous"
 
 msgid "Mais econômico"
 msgstr "Taloudellisempi"
@@ -63,6 +63,12 @@ msgstr "Englanti"
 msgid "Português"
 msgstr "Portugalin"
 
+msgid "Destino:"
+msgstr "Määränpää:"
+
+msgid "Aplicar"
+msgstr "Hae"
+
 msgid ""
 "Adicionar OCR no PDF digitalizado permitindo seleção de textos e busca:"
 msgstr ""
@@ -84,8 +90,20 @@ msgstr "PDF-laatu:"
 msgid "Alinhamento:"
 msgstr "Kohdistuminen:"
 
-msgid "Concluído!"
-msgstr "Valmis!"
+msgid "Aplicando - Aguarde"
+msgstr "Hakemuksen tekeminen - Odota"
+
+msgid "Abrir"
+msgstr "Avaa"
+
+msgid "Arquivo:"
+msgstr "Arkisto:"
+
+msgid "Pasta:"
+msgstr "Kansio:"
+
+msgid "OCR para PDF"
+msgstr "OCR PDF:lle"
 
 msgid "Salvo em: "
 msgstr "Tallennettu sisään "

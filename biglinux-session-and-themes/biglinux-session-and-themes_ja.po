@@ -17,6 +17,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit"
 
+msgid "Temas, Desktop e Ajustes"
+msgstr "テーマ、デスクトップ、設定"
+
 msgid ""
 "Configuração alterada, se estiver utilizando o navegador, reinicie-o para "
 "que a nova configuração seja aplicada."
@@ -140,6 +143,12 @@ msgstr "アーカイブを検索する"
 
 msgid "Bloquear a área de trabalho"
 msgstr "デスクトップをロックする"
+
+msgid "Ocultar Gerenciador de Boot (GRUB)"
+msgstr "ブートマネージャ（GRUB）の非表示"
+
+msgid "Ativar o NumLock ao ligar o sistema"
+msgstr "システム起動時にNumLockを有効にする"
 
 msgid "Tema aplicado"
 msgstr "適用テーマ"

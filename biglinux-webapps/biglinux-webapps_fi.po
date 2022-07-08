@@ -99,6 +99,21 @@ msgstr "Löydetyt kuvakkeet"
 msgid "Selecione o ícone preferido:"
 msgstr "Valitse haluamasi kuvake:"
 
+msgid "Desenvolvimento"
+msgstr "Kehitys"
+
+msgid "Escritório"
+msgstr "Toimisto"
+
+msgid "Gráficos"
+msgstr "Grafiikka"
+
+msgid "Jogos"
+msgstr "Pelit"
+
+msgid "Multimídia"
+msgstr "Multimedia"
+
 msgid "Tem certeza que deseja remover este WebApp?"
 msgstr "Haluatko varmasti poistaa tämän verkkosovelluksen?"
 
@@ -116,6 +131,15 @@ msgstr "Valitse haluamasi selain:"
 
 msgid "WebApps Nativos"
 msgstr "Natiivit verkkosovellukset"
+
+msgid "Bom dia"
+msgstr "Hyvää huomenta"
+
+msgid "Boa tarde"
+msgstr "Hyvää iltapäivää"
+
+msgid "Boa noite"
+msgstr "Hyvää iltaa"
 
 msgid "Aguarde, estamos preparando para começar..."
 msgstr "Valmistautukaa, olemme valmiina aloittamaan..."

@@ -79,3 +79,6 @@ msgstr "Instalarea pachetului .deb"
 
 msgid "Convertendo o arquivo, aguarde, pode demorar alguns minutos..."
 msgstr "Conversia fișierului, așteptați, poate dura câteva minute..."
+
+msgid "Concluído!"
+msgstr "Gata!"

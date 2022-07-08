@@ -17,6 +17,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit"
 
+msgid "Temas, Desktop e Ajustes"
+msgstr "Temalar, Masaüstü ve Ayarlar"
+
 msgid ""
 "Configuração alterada, se estiver utilizando o navegador, reinicie-o para "
 "que a nova configuração seja aplicada."
@@ -145,6 +148,12 @@ msgstr "Arama arşivleri"
 
 msgid "Bloquear a área de trabalho"
 msgstr "Masaüstünü kilitleme"
+
+msgid "Ocultar Gerenciador de Boot (GRUB)"
+msgstr "Önyükleme Yöneticisini Gizle (GRUB)"
+
+msgid "Ativar o NumLock ao ligar o sistema"
+msgstr "Sistem başlangıcında NumLock'u etkinleştirme"
 
 msgid "Tema aplicado"
 msgstr "Uygulanan tema"

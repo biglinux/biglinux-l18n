@@ -99,6 +99,21 @@ msgstr "Nájdené ikony"
 msgid "Selecione o ícone preferido:"
 msgstr "Vyberte uprednostňovanú ikonu:"
 
+msgid "Desenvolvimento"
+msgstr "Vývoj"
+
+msgid "Escritório"
+msgstr "Kancelária"
+
+msgid "Gráficos"
+msgstr "Grafika"
+
+msgid "Jogos"
+msgstr "Hry"
+
+msgid "Multimídia"
+msgstr "Multimédiá"
+
 msgid "Tem certeza que deseja remover este WebApp?"
 msgstr "Ste si istí, že chcete odstrániť túto webovú aplikáciu?"
 
@@ -116,6 +131,15 @@ msgstr "Vyberte preferovaný prehliadač:"
 
 msgid "WebApps Nativos"
 msgstr "Natívne webové aplikácie"
+
+msgid "Bom dia"
+msgstr "Dobré ráno"
+
+msgid "Boa tarde"
+msgstr "Dobré popoludnie"
+
+msgid "Boa noite"
+msgstr "Dobrý večer"
 
 msgid "Aguarde, estamos preparando para começar..."
 msgstr "Pripravte sa, začíname..."

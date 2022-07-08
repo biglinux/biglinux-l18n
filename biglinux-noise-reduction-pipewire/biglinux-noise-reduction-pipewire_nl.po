@@ -32,12 +32,6 @@ msgstr "Microfoonfilter"
 msgid "Ativando"
 msgstr "Activeren"
 
-msgid "Filtro de ruído"
-msgstr "Ruisfilter"
-
-msgid "Iniciar automaticamente"
-msgstr "Automatisch starten"
-
 msgid "Configuração aplicada"
 msgstr "Toegepaste configuratie"
 
@@ -68,3 +62,22 @@ msgstr ""
 
 msgid "Cancelado, nenhuma configuração foi removida!"
 msgstr "Geannuleerd, er is geen configuratie verwijderd!"
+
+msgid ""
+"Este filtro utiliza técnicas de redes neurais para remover ruídos e sons do "
+"ambiente que atrapalham gravações e chamadas online."
+msgstr ""
+"Dit filter gebruikt neurale netwerktechnieken om omgevingsgeluiden en "
+"geluiden te verwijderen die online opnamen en gesprekken verstoren."
+
+msgid "Gerenciador de Áudio"
+msgstr "Audiobeheerder"
+
+msgid "Frequências sonoras:"
+msgstr "Geluidsfrequenties:"
+
+msgid "Filtro de ruído"
+msgstr "Ruisfilter"
+
+msgid "Iniciar automaticamente"
+msgstr "Automatisch starten"

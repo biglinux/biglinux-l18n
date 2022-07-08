@@ -17,6 +17,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit"
 
+msgid "Temas, Desktop e Ajustes"
+msgstr "Темы, рабочий стол и настройки"
+
 msgid ""
 "Configuração alterada, se estiver utilizando o navegador, reinicie-o para "
 "que a nova configuração seja aplicada."
@@ -146,6 +149,12 @@ msgstr "Поисковые архивы"
 
 msgid "Bloquear a área de trabalho"
 msgstr "Блокировка рабочего стола"
+
+msgid "Ocultar Gerenciador de Boot (GRUB)"
+msgstr "Скрыть Менеджер загрузки (GRUB)"
+
+msgid "Ativar o NumLock ao ligar o sistema"
+msgstr "Включение NumLock при запуске системы"
 
 msgid "Tema aplicado"
 msgstr "Применяемая тематика"

@@ -99,6 +99,21 @@ msgstr "Pronađene ikone"
 msgid "Selecione o ícone preferido:"
 msgstr "Odaberite željenu ikonu:"
 
+msgid "Desenvolvimento"
+msgstr "Razvoj"
+
+msgid "Escritório"
+msgstr "Ured"
+
+msgid "Gráficos"
+msgstr "Grafika"
+
+msgid "Jogos"
+msgstr "Igre"
+
+msgid "Multimídia"
+msgstr "Multimedija"
+
 msgid "Tem certeza que deseja remover este WebApp?"
 msgstr "Jeste li sigurni da želite ukloniti ovaj WebApp?"
 
@@ -116,6 +131,15 @@ msgstr "Odaberite željeni preglednik:"
 
 msgid "WebApps Nativos"
 msgstr "Izvorni WebApps"
+
+msgid "Bom dia"
+msgstr "Salaam"
+
+msgid "Boa tarde"
+msgstr "Dobar dan"
+
+msgid "Boa noite"
+msgstr "Laku noć"
 
 msgid "Aguarde, estamos preparando para começar..."
 msgstr "Čekaj, spremamo se za početak..."

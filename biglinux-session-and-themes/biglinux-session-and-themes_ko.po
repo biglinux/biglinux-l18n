@@ -17,6 +17,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit"
 
+msgid "Temas, Desktop e Ajustes"
+msgstr "테마, 데스크톱 및 조정"
+
 msgid ""
 "Configuração alterada, se estiver utilizando o navegador, reinicie-o para "
 "que a nova configuração seja aplicada."
@@ -140,6 +143,12 @@ msgstr "파일 검색"
 
 msgid "Bloquear a área de trabalho"
 msgstr "데스크톱 잠금"
+
+msgid "Ocultar Gerenciador de Boot (GRUB)"
+msgstr "부트 관리자 숨기기 (GRUB)"
+
+msgid "Ativar o NumLock ao ligar o sistema"
+msgstr "시스템을 켤 때 NumLock 활성화"
 
 msgid "Tema aplicado"
 msgstr "적용된 테마"

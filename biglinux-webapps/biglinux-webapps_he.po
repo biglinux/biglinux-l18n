@@ -99,6 +99,21 @@ msgstr "סמלים שנמצאו"
 msgid "Selecione o ícone preferido:"
 msgstr "בחר בסמל המועדף:"
 
+msgid "Desenvolvimento"
+msgstr "פיתוח"
+
+msgid "Escritório"
+msgstr "משרד"
+
+msgid "Gráficos"
+msgstr "גרפיקה"
+
+msgid "Jogos"
+msgstr "משחקים"
+
+msgid "Multimídia"
+msgstr "מולטימדיה"
+
 msgid "Tem certeza que deseja remover este WebApp?"
 msgstr "האם אתה בטוח שברצונך להסיר WebApp זה?"
 
@@ -116,6 +131,15 @@ msgstr "בחר את הדפדפן המועדף עליך:"
 
 msgid "WebApps Nativos"
 msgstr "אפליקציות אינטרנט מקוריות"
+
+msgid "Bom dia"
+msgstr "סלאם"
+
+msgid "Boa tarde"
+msgstr "אחר צהריים טובים"
+
+msgid "Boa noite"
+msgstr "לילה טוב"
 
 msgid "Aguarde, estamos preparando para começar..."
 msgstr "חכה, אנחנו מתכוננים להתחיל..."

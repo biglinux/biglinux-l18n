@@ -32,6 +32,12 @@ msgstr "Tento ovladač je proprietární."
 msgid "Este driver parece compatível com este computador."
 msgstr "Zdá se, že tento ovladač je s tímto počítačem kompatibilní."
 
+msgid "Remover"
+msgstr "Odstranění stránky"
+
+msgid "Instalar"
+msgstr "Instalace"
+
 msgid ""
 "Já existe outro driver nVidia instalado, para instalar este driver, remova "
 "primeiro o driver instalado."
@@ -60,6 +66,12 @@ msgid ""
 msgstr ""
 "Chcete soubor zobrazit nebo odeslat do transfer.sh, abyste mohli snadno "
 "sdílet adresu URL s daty z vašeho počítače?"
+
+msgid "Categorias"
+msgstr "Kategorie"
+
+msgid "Principais"
+msgstr "Hlavní stránka"
 
 msgid "Driver detectado:"
 msgstr "Zjištěn řidič:"
@@ -91,14 +103,23 @@ msgstr "Skener"
 msgid "TV Digital"
 msgstr "Digitální televize"
 
+msgid "Webcam"
+msgstr "Webová kamera"
+
 msgid "Touchscreen"
 msgstr "Dotykový displej"
 
 msgid "Som"
 msgstr "Zvuk"
 
+msgid "Outros"
+msgstr "Další"
+
 msgid "Pesquisar Driver ou Firmware"
 msgstr "Hledání ovladače nebo firmwaru"
+
+msgid "Resultado da pesquisa"
+msgstr "Výsledek hledání"
 
 msgid "Big-Driver-Manager"
 msgstr "Big-Driver-Manager"
@@ -128,22 +149,11 @@ msgstr "Řidič"
 msgid "Ocorreu um erro e o driver não pode ser aplicado."
 msgstr "Došlo k chybě a ovladač nelze použít."
 
-msgid ""
-"Digite sua senha para gerar um relatório removendo dados sensíveis, por "
-"exemplo, endereço de IP, ou cancele para utilizar as informações da tela "
-"anterior."
-msgstr ""
-"Zadejte heslo pro vygenerování zprávy s odstraněním citlivých údajů, např. "
-"IP adresy, nebo zrušte použití informací z předchozí obrazovky."
-
-msgid "Digite sua senha para gerar um relatório mais completo."
-msgstr "Pro vygenerování úplnější zprávy zadejte své heslo."
-
 msgid "Enviando, aguarde..."
 msgstr "Odesílám, počkejte prosím..."
 
-msgid "Resumo"
-msgstr "Souhrn"
+msgid "Ver informações do dispositivo no Linux Hardware"
+msgstr "Zobrazení informací o zařízení v systému Linux Hardware"
 
 msgid "Processador"
 msgstr "Procesor"
@@ -154,8 +164,56 @@ msgstr "Základní deska"
 msgid "Memória"
 msgstr "Paměť"
 
+msgid "Swap (Memória Virtual)"
+msgstr "Swap (virtuální paměť)"
+
+msgid "Áudio"
+msgstr "Audio"
+
 msgid "Rede"
 msgstr "Síť"
+
+msgid "Conexões de Rede"
+msgstr "Síťová připojení"
+
+msgid "Dispositivos e conexões USB"
+msgstr "Zařízení a připojení USB"
+
+msgid "Portas PCI"
+msgstr "Porty PCI"
+
+msgid "Bateria"
+msgstr "Baterie"
+
+msgid "Dispositivos de Armazenamento"
+msgstr "Úložná zařízení"
+
+msgid "Partições montadas"
+msgstr "Namontované příčky"
+
+msgid "Partições desmontadas"
+msgstr "Demontované příčky"
+
+msgid "Dispositivos lógicos"
+msgstr "Logická zařízení"
+
+msgid "Raid"
+msgstr "Nájezd"
+
+msgid "Sistema"
+msgstr "Systém"
+
+msgid "Informações de Sistema"
+msgstr "Systémové informace"
+
+msgid "Repositórios"
+msgstr "Úložiště"
+
+msgid "Temperatura"
+msgstr "Teplota"
+
+msgid "Resumo"
+msgstr "Souhrn"
 
 msgid "Usb"
 msgstr "Usb"
@@ -163,17 +221,11 @@ msgstr "Usb"
 msgid "Pci"
 msgstr "Pci"
 
-msgid "Bateria"
-msgstr "Baterie"
-
 msgid "Armazenamento"
 msgstr "Úložiště"
 
-msgid "Temperatura"
-msgstr "Teplota"
-
-msgid "Áudio"
-msgstr "Audio"
+msgid "Mais informações"
+msgstr "Více informací"
 
 msgid "Pesquisar"
 msgstr "Vyhledávání"
@@ -186,6 +238,21 @@ msgstr "Paměť RAM:"
 
 msgid "Vídeo:"
 msgstr "Video:"
+
+msgid "Instalado na partição:"
+msgstr "Nainstalováno na oddílu:"
+
+msgid "Tamanho da partição:"
+msgstr "Velikost oddílu:"
+
+msgid "Espaço utilizado:"
+msgstr "Využitý prostor:"
+
+msgid "Espaço livre:"
+msgstr "Volný prostor:"
+
+msgid "Data que o sistema foi instalado:"
+msgstr "Datum instalace systému:"
 
 msgid "Kernel em uso:"
 msgstr "Používané jádro:"
@@ -206,41 +273,22 @@ msgstr "Vytvořit zprávu"
 msgid "Cria um arquivo com informações que pode ser publicado na internet."
 msgstr "Vytvoří soubor s informacemi, které lze zveřejnit na internetu."
 
-msgid "Ver informações do dispositivo no Linux Hardware"
-msgstr "Zobrazení informací o zařízení v systému Linux Hardware"
-
 msgid "Categoria"
 msgstr "Kategorie"
 
-msgid "Swap (Memória Virtual)"
-msgstr "Swap (virtuální paměť)"
+msgid "ID"
+msgstr "ID"
 
-msgid "Conexões de Rede"
-msgstr "Síťová připojení"
+msgid "Info"
+msgstr "Informace"
 
-msgid "Dispositivos e conexões USB"
-msgstr "Zařízení a připojení USB"
+msgid ""
+"Digite sua senha para gerar um relatório removendo dados sensíveis, por "
+"exemplo, endereço de IP, ou cancele para utilizar as informações da tela "
+"anterior."
+msgstr ""
+"Zadejte heslo pro vygenerování zprávy s odstraněním citlivých údajů, např. "
+"IP adresy, nebo zrušte použití informací z předchozí obrazovky."
 
-msgid "Portas PCI"
-msgstr "Porty PCI"
-
-msgid "Dispositivos de Armazenamento"
-msgstr "Úložná zařízení"
-
-msgid "Partições montadas"
-msgstr "Namontované příčky"
-
-msgid "Partições desmontadas"
-msgstr "Demontované příčky"
-
-msgid "Dispositivos lógicos"
-msgstr "Logická zařízení"
-
-msgid "Raid"
-msgstr "Nájezd"
-
-msgid "Informações de Sistema"
-msgstr "Systémové informace"
-
-msgid "Repositórios"
-msgstr "Úložiště"
+msgid "Digite sua senha para gerar um relatório mais completo."
+msgstr "Pro vygenerování úplnější zprávy zadejte své heslo."

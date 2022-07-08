@@ -30,12 +30,6 @@ msgstr "Big-Store is open."
 msgid "Big-Store"
 msgstr "Big-Store"
 
-msgid "Instalar"
-msgstr "Installeer"
-
-msgid "Remover"
-msgstr "Verwijder"
-
 msgid ""
 "Para os programas Snap aparecerem no menu do sistema finalize a sessão e "
 "faça login novamente."
@@ -120,9 +114,6 @@ msgstr ""
 "Geeft alleen geselecteerde programma's weer<br>\n"
 "en verbergt resultaten die nuttig zijn <br>\n"
 "alleen voor gevorderde gebruikers."
-
-msgid "Aplicando - Aguarde"
-msgstr "Aanvragen - Even geduld a.u.b"
 
 msgid "Procurar programa"
 msgstr "Zoekprogramma"
@@ -280,24 +271,6 @@ msgstr "Flatpak programma's"
 msgid "Programas Snap"
 msgstr "Snap programma's"
 
-msgid "Jogos"
-msgstr "Spelletjes"
-
-msgid "Instalado na partição:"
-msgstr "Geïnstalleerd op de partitie:"
-
-msgid "Tamanho da partição:"
-msgstr "Partitiegrootte:"
-
-msgid "Espaço utilizado:"
-msgstr "Gebruikte ruimte:"
-
-msgid "Espaço livre:"
-msgstr "Vrije ruimte:"
-
-msgid "Data que o sistema foi instalado:"
-msgstr "Datum waarop het systeem werd geïnstalleerd:"
-
 msgid "Pacotes nativos e AUR"
 msgstr "Native pakketten en AUR"
 
@@ -351,12 +324,6 @@ msgstr ""
 "Dit programma is in .deb formaat, dat de beste integratie met het systeem "
 "heeft."
 
-msgid "Mais informações"
-msgstr "Meer informatie"
-
-msgid "Voltar"
-msgstr "Terug"
-
 msgid "Dependências a instalar"
 msgstr "Te installeren afhankelijkheden"
 
@@ -386,9 +353,6 @@ msgstr "Beschikbare versie:"
 
 msgid "Repositório:"
 msgstr "Repository:"
-
-msgid "Cancelar"
-msgstr "Annuleren"
 
 msgid "Instalando"
 msgstr "Installeren van"

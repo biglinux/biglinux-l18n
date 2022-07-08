@@ -17,6 +17,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit"
 
+msgid "Temas, Desktop e Ajustes"
+msgstr "Thema's, Bureaublad en Instellingen"
+
 msgid ""
 "Configuração alterada, se estiver utilizando o navegador, reinicie-o para "
 "que a nova configuração seja aplicada."
@@ -145,6 +148,12 @@ msgstr "Zoek archieven"
 
 msgid "Bloquear a área de trabalho"
 msgstr "Het bureaublad vergrendelen"
+
+msgid "Ocultar Gerenciador de Boot (GRUB)"
+msgstr "Verberg Boot Manager (GRUB)"
+
+msgid "Ativar o NumLock ao ligar o sistema"
+msgstr "NumLock inschakelen bij het opstarten van het systeem"
 
 msgid "Tema aplicado"
 msgstr "Thema toegepast"

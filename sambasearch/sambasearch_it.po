@@ -65,6 +65,9 @@ msgstr ""
 "*La maggior parte dei server richiede login e password per elencare le "
 "azioni disponibili; lasci vuoto per eseguire una ricerca anonima."
 
+msgid "Cancelar"
+msgstr "Annullamento"
+
 msgid "Próximo"
 msgstr "Avanti"
 
@@ -76,3 +79,9 @@ msgstr "Ricerca effettuata con l'utente:"
 
 msgid "na rede:"
 msgstr "sulla rete:"
+
+msgid "Voltar"
+msgstr "Indietro"
+
+msgid "Fechar"
+msgstr "Chiudere"

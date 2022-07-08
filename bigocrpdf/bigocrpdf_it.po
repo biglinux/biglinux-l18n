@@ -36,7 +36,7 @@ msgstr ""
 msgid "Normal"
 msgstr "Normale"
 
-msgid "Economico"
+msgid "Econômico"
 msgstr "Economico"
 
 msgid "Mais econômico"
@@ -63,6 +63,12 @@ msgstr "Inglese"
 msgid "Português"
 msgstr "Portoghese"
 
+msgid "Destino:"
+msgstr "Destinazione:"
+
+msgid "Aplicar"
+msgstr "Applicare"
+
 msgid ""
 "Adicionar OCR no PDF digitalizado permitindo seleção de textos e busca:"
 msgstr ""
@@ -84,8 +90,20 @@ msgstr "Qualità PDF:"
 msgid "Alinhamento:"
 msgstr "Allineamento:"
 
-msgid "Concluído!"
-msgstr "Fatto!"
+msgid "Aplicando - Aguarde"
+msgstr "Candidatura - Attendere prego"
+
+msgid "Abrir"
+msgstr "Aperto"
+
+msgid "Arquivo:"
+msgstr "Archivio:"
+
+msgid "Pasta:"
+msgstr "Cartella:"
+
+msgid "OCR para PDF"
+msgstr "OCR per PDF"
 
 msgid "Salvo em: "
 msgstr "Salvato in "

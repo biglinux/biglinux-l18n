@@ -97,6 +97,21 @@ msgstr "找到圖標"
 msgid "Selecione o ícone preferido:"
 msgstr "選擇您喜歡的圖標："
 
+msgid "Desenvolvimento"
+msgstr "发展"
+
+msgid "Escritório"
+msgstr "办公室"
+
+msgid "Gráficos"
+msgstr "图形"
+
+msgid "Jogos"
+msgstr "游戏"
+
+msgid "Multimídia"
+msgstr "多媒体"
+
 msgid "Tem certeza que deseja remover este WebApp?"
 msgstr "您確定要刪除此 WebApp 嗎？"
 
@@ -114,6 +129,15 @@ msgstr "選擇您喜歡的瀏覽器："
 
 msgid "WebApps Nativos"
 msgstr "WebApps 當地人"
+
+msgid "Bom dia"
+msgstr "早上好"
+
+msgid "Boa tarde"
+msgstr "下午好"
+
+msgid "Boa noite"
+msgstr "晚安"
 
 msgid "Aguarde, estamos preparando para começar..."
 msgstr "等等，我們準備開始..."

@@ -30,20 +30,11 @@ msgstr ""
 "Vykonané zmeny si môžete pozrieť\n"
 "v obraze vašej webovej kamery v iných programoch."
 
-msgid "Webcam"
-msgstr "Webová kamera"
-
 msgid "Category"
 msgstr "Kategória"
 
 msgid "Name"
 msgstr "Názov"
-
-msgid "ID"
-msgstr "ID"
-
-msgid "Info"
-msgstr "Informácie"
 
 msgid ""
 "O relatório foi salvo no arquivo $FILE_TO_SAVE\n"
@@ -65,15 +56,6 @@ msgstr "Úvod do systému BigLinux"
 
 msgid "Central de Controle"
 msgstr "Riadiace centrum"
-
-msgid "Bom dia"
-msgstr "Dobré ráno"
-
-msgid "Boa tarde"
-msgstr "Dobré popoludnie"
-
-msgid "Boa noite"
-msgstr "Dobrý večer"
 
 msgid "Aguarde, carregando..."
 msgstr "Pripravte sa, nakladanie..."
@@ -99,9 +81,6 @@ msgid ""
 msgstr ""
 "Ponúkame kompletné konfigurácie, z ktorých si môžete veľmi jednoducho vybrať."
 ""
-
-msgid "Temas, Desktop e Ajustes"
-msgstr "Témy, pracovná plocha a nastavenia"
 
 msgid "Escolha seu Avatar"
 msgstr "Vyberte si svojho avatara"
@@ -160,9 +139,6 @@ msgstr "Redukcia hluku"
 
 msgid "Configurar a voz do sistema (TTS)"
 msgstr "Nastavenie systémového hlasu (TTS)"
-
-msgid "OCR para PDF"
-msgstr "OCR pre PDF"
 
 msgid "Doação e Redes sociais"
 msgstr "Darcovstvo a sociálne siete"
@@ -436,12 +412,6 @@ msgstr "Nastavenia obrazovky boli resetované."
 msgid "Configurações da tela"
 msgstr "Nastavenia obrazovky"
 
-msgid "Categorias"
-msgstr "Kategórie"
-
-msgid "Principais"
-msgstr "Hlavná stránka"
-
 msgid "Aparência"
 msgstr "Vzhľad"
 
@@ -469,23 +439,11 @@ msgstr "Ochrana osobných údajov"
 msgid "Servidor"
 msgstr "Server"
 
-msgid "Desenvolvimento"
-msgstr "Vývoj"
-
 msgid "Sobre"
 msgstr "O stránke"
 
-msgid "Outros"
-msgstr "Iné"
-
 msgid "Pesquisar..."
 msgstr "Vyhľadávanie..."
-
-msgid "Resultado da pesquisa"
-msgstr "Výsledok vyhľadávania"
-
-msgid "Abrir"
-msgstr "Otvorte stránku"
 
 msgid "Temas, desktop e ajustes"
 msgstr "Témy, plocha a nastavenia"

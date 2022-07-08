@@ -30,12 +30,6 @@ msgstr "Big-Store er åpen."
 msgid "Big-Store"
 msgstr "Big-Store"
 
-msgid "Instalar"
-msgstr "Installer"
-
-msgid "Remover"
-msgstr "Fjern"
-
 msgid ""
 "Para os programas Snap aparecerem no menu do sistema finalize a sessão e "
 "faça login novamente."
@@ -121,9 +115,6 @@ msgstr ""
 "Viser bare valgte programmer <br> \n"
 "og skjule resultater som er nyttige <br>\n"
 "Bare avanserte brukere."
-
-msgid "Aplicando - Aguarde"
-msgstr "Påføring - Vennligst vent"
 
 msgid "Procurar programa"
 msgstr "Søk etter program"
@@ -281,24 +272,6 @@ msgstr "Flatpak-programmer"
 msgid "Programas Snap"
 msgstr "Snap-programmer"
 
-msgid "Jogos"
-msgstr "Spill"
-
-msgid "Instalado na partição:"
-msgstr "Installert på partisjonen:"
-
-msgid "Tamanho da partição:"
-msgstr "Partisjon størrelse:"
-
-msgid "Espaço utilizado:"
-msgstr "Plass brukt:"
-
-msgid "Espaço livre:"
-msgstr "Ledig plass:"
-
-msgid "Data que o sistema foi instalado:"
-msgstr "Dato systemet ble installert:"
-
 msgid "Pacotes nativos e AUR"
 msgstr "Innfødte og AUR-pakker"
 
@@ -351,12 +324,6 @@ msgstr ""
 "Dette programmet er i .deb-format, som har den beste integrasjonen med "
 "systemet."
 
-msgid "Mais informações"
-msgstr "Mer informasjon"
-
-msgid "Voltar"
-msgstr "Gå tilbake"
-
 msgid "Dependências a instalar"
 msgstr "Avhengigheter å installere"
 
@@ -386,9 +353,6 @@ msgstr "Tilgjengelig versjon:"
 
 msgid "Repositório:"
 msgstr "Oppbevaringssted:"
-
-msgid "Cancelar"
-msgstr "Avbryt"
 
 msgid "Instalando"
 msgstr "Installere"

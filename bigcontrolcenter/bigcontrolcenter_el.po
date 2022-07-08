@@ -30,20 +30,11 @@ msgstr ""
 "Μπορείτε να δείτε τις αλλαγές που έγιναν\n"
 "στην εικόνα της κάμεράς σας σε άλλα προγράμματα."
 
-msgid "Webcam"
-msgstr "Webcam"
-
 msgid "Category"
 msgstr "Κατηγορία"
 
 msgid "Name"
 msgstr "Όνομα"
-
-msgid "ID"
-msgstr "ID"
-
-msgid "Info"
-msgstr "Πληροφορίες"
 
 msgid ""
 "O relatório foi salvo no arquivo $FILE_TO_SAVE\n"
@@ -65,15 +56,6 @@ msgstr "Εισαγωγή στο BigLinux"
 
 msgid "Central de Controle"
 msgstr "Κέντρο ελέγχου"
-
-msgid "Bom dia"
-msgstr "Καλημέρα"
-
-msgid "Boa tarde"
-msgstr "Καλησπέρα"
-
-msgid "Boa noite"
-msgstr "Καλησπέρα"
 
 msgid "Aguarde, carregando..."
 msgstr "Αναμείνατε, φόρτωση..."
@@ -99,9 +81,6 @@ msgid ""
 msgstr ""
 "Παρέχουμε πλήρεις διαμορφώσεις για να επιλέξετε από αυτές με πολύ απλό τρόπο."
 ""
-
-msgid "Temas, Desktop e Ajustes"
-msgstr "Θέματα, επιφάνεια εργασίας και ρυθμίσεις"
 
 msgid "Escolha seu Avatar"
 msgstr "Επιλέξτε το Avatar σας"
@@ -161,9 +140,6 @@ msgstr "Μειωτής θορύβου"
 
 msgid "Configurar a voz do sistema (TTS)"
 msgstr "Ρύθμιση της φωνής του συστήματος (TTS)"
-
-msgid "OCR para PDF"
-msgstr "OCR για PDF"
 
 msgid "Doação e Redes sociais"
 msgstr "Δωρεές και κοινωνικά δίκτυα"
@@ -446,12 +422,6 @@ msgstr "Οι ρυθμίσεις της οθόνης έχουν μηδενιστ�
 msgid "Configurações da tela"
 msgstr "Ρυθμίσεις οθόνης"
 
-msgid "Categorias"
-msgstr "Κατηγορίες"
-
-msgid "Principais"
-msgstr "Κύρια"
-
 msgid "Aparência"
 msgstr "Εμφάνιση"
 
@@ -479,23 +449,11 @@ msgstr "Απόρρητο"
 msgid "Servidor"
 msgstr "Διακομιστής"
 
-msgid "Desenvolvimento"
-msgstr "Ανάπτυξη"
-
 msgid "Sobre"
 msgstr "Σχετικά με το"
 
-msgid "Outros"
-msgstr "Άλλα"
-
 msgid "Pesquisar..."
 msgstr "Αναζήτηση..."
-
-msgid "Resultado da pesquisa"
-msgstr "Αποτελέσματα αναζήτησης"
-
-msgid "Abrir"
-msgstr "Ανοίξτε το"
 
 msgid "Temas, desktop e ajustes"
 msgstr "Θέματα, επιφάνεια εργασίας και ρυθμίσεις"

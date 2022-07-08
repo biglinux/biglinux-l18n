@@ -80,3 +80,6 @@ msgstr "Встановити пакунок .deb"
 msgid "Convertendo o arquivo, aguarde, pode demorar alguns minutos..."
 msgstr ""
 "Перетворення файлу, будь ласка, зачекайте, це може зайняти кілька хвилин..."
+
+msgid "Concluído!"
+msgstr "Завершено!"

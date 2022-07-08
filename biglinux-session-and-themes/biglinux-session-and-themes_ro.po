@@ -17,6 +17,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit"
 
+msgid "Temas, Desktop e Ajustes"
+msgstr "Teme, desktop și setări"
+
 msgid ""
 "Configuração alterada, se estiver utilizando o navegador, reinicie-o para "
 "que a nova configuração seja aplicada."
@@ -145,6 +148,12 @@ msgstr "Căutați în arhive"
 
 msgid "Bloquear a área de trabalho"
 msgstr "Blocați desktop-ul"
+
+msgid "Ocultar Gerenciador de Boot (GRUB)"
+msgstr "Ascundeți Managerul de pornire (GRUB)"
+
+msgid "Ativar o NumLock ao ligar o sistema"
+msgstr "Activați NumLock la pornirea sistemului"
 
 msgid "Tema aplicado"
 msgstr "Tema aplicată"

@@ -73,9 +73,6 @@ msgstr ""
 "Videók-(Smplayer) smplayer.sh Multimédia smplayer.png smplayer skel "
 "$COMMENT_skel"
 
-msgid "Fechar"
-msgstr "Zárja be a"
-
 msgid "Restaurar no modo padrão da distribuição"
 msgstr "Alapértelmezett elosztási mód visszaállítása"
 
@@ -98,18 +95,6 @@ msgstr "Főoldal"
 
 msgid "Internet"
 msgstr "Internet"
-
-msgid "Multimídia"
-msgstr "Multimédia"
-
-msgid "Gráficos"
-msgstr "Grafika"
-
-msgid "Escritório"
-msgstr "Iroda"
-
-msgid "Sistema"
-msgstr "Rendszer"
 
 msgid "Pesquisar Restaurar"
 msgstr "Keresés helyreállítása"

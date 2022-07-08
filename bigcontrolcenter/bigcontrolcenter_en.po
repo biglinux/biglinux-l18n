@@ -30,20 +30,11 @@ msgstr ""
 "The changes you have made can be seen\n"
 "in the image of your webcam in other programs."
 
-msgid "Webcam"
-msgstr "Webcam"
-
 msgid "Category"
 msgstr "Category"
 
 msgid "Name"
 msgstr "Name"
-
-msgid "ID"
-msgstr "ID"
-
-msgid "Info"
-msgstr "Info"
 
 msgid ""
 "O relatório foi salvo no arquivo $FILE_TO_SAVE\n"
@@ -65,15 +56,6 @@ msgstr "Introduction to BigLinux"
 
 msgid "Central de Controle"
 msgstr "Control Center"
-
-msgid "Bom dia"
-msgstr "Good Morning"
-
-msgid "Boa tarde"
-msgstr "Good afternoon"
-
-msgid "Boa noite"
-msgstr "Goodnight"
 
 msgid "Aguarde, carregando..."
 msgstr "Stand by, loading..."
@@ -99,9 +81,6 @@ msgid ""
 msgstr ""
 "We provide complete configurations for you to select from in an extremely "
 "simple way."
-
-msgid "Temas, Desktop e Ajustes"
-msgstr "Themes, Desktop and Settings"
 
 msgid "Escolha seu Avatar"
 msgstr "Choose your Avatar"
@@ -160,9 +139,6 @@ msgstr "Noise Reducer"
 
 msgid "Configurar a voz do sistema (TTS)"
 msgstr "Configure System Voice (TTS)"
-
-msgid "OCR para PDF"
-msgstr "OCR for PDF"
 
 msgid "Doação e Redes sociais"
 msgstr "Donation and Social Networks"
@@ -436,12 +412,6 @@ msgstr "The screen settings have been reset."
 msgid "Configurações da tela"
 msgstr "Screen Settings"
 
-msgid "Categorias"
-msgstr "Categories"
-
-msgid "Principais"
-msgstr "Main"
-
 msgid "Aparência"
 msgstr "Appearance"
 
@@ -469,23 +439,11 @@ msgstr "Privacy"
 msgid "Servidor"
 msgstr "Server"
 
-msgid "Desenvolvimento"
-msgstr "Development"
-
 msgid "Sobre"
 msgstr "About"
 
-msgid "Outros"
-msgstr "Other"
-
 msgid "Pesquisar..."
 msgstr "Search..."
-
-msgid "Resultado da pesquisa"
-msgstr "Search result"
-
-msgid "Abrir"
-msgstr "Open"
 
 msgid "Temas, desktop e ajustes"
 msgstr "Themes, Desktop, and Settings"

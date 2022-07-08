@@ -99,6 +99,21 @@ msgstr "Funnet ikoner"
 msgid "Selecione o ícone preferido:"
 msgstr "Velg ønsket ikon:"
 
+msgid "Desenvolvimento"
+msgstr "Utvikling"
+
+msgid "Escritório"
+msgstr "Kontor"
+
+msgid "Gráficos"
+msgstr "grafikk"
+
+msgid "Jogos"
+msgstr "Spill"
+
+msgid "Multimídia"
+msgstr "Multimedia"
+
 msgid "Tem certeza que deseja remover este WebApp?"
 msgstr "Er du sikker på at du vil fjerne denne WebApp?"
 
@@ -116,6 +131,15 @@ msgstr "Velg din foretrukne nettleser:"
 
 msgid "WebApps Nativos"
 msgstr "Innfødte WebApps"
+
+msgid "Bom dia"
+msgstr "Salaam"
+
+msgid "Boa tarde"
+msgstr "God ettermiddag"
+
+msgid "Boa noite"
+msgstr "God natt"
 
 msgid "Aguarde, estamos preparando para começar..."
 msgstr "Vent, vi gjør oss klare til å begynne..."

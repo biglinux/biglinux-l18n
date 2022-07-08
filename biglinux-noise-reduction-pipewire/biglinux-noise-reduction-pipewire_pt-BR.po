@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: biglinux-noise-reduction-pipewire\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-06-21 03:19-0300\n"
+"POT-Creation-Date: 2022-07-08 17:40-0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -31,12 +31,6 @@ msgstr "Filtro do Microfone"
 
 msgid "Ativando"
 msgstr "Ativando"
-
-msgid "Filtro de ruído"
-msgstr "Filtro de ruído"
-
-msgid "Iniciar automaticamente"
-msgstr "Iniciar automaticamente"
 
 msgid "Configuração aplicada"
 msgstr "Configuração aplicada"
@@ -66,3 +60,22 @@ msgstr ""
 
 msgid "Cancelado, nenhuma configuração foi removida!"
 msgstr "Cancelado, nenhuma configuração foi removida!"
+
+msgid ""
+"Este filtro utiliza técnicas de redes neurais para remover ruídos e sons do "
+"ambiente que atrapalham gravações e chamadas online."
+msgstr ""
+"Este filtro utiliza técnicas de redes neurais para remover ruídos e sons do "
+"ambiente que atrapalham gravações e chamadas online."
+
+msgid "Gerenciador de Áudio"
+msgstr "Gerenciador de Áudio"
+
+msgid "Frequências sonoras:"
+msgstr "Frequências sonoras:"
+
+msgid "Filtro de ruído"
+msgstr "Filtro de ruído"
+
+msgid "Iniciar automaticamente"
+msgstr "Iniciar automaticamente"

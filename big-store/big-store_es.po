@@ -30,12 +30,6 @@ msgstr "La gran tienda está abierta."
 msgid "Big-Store"
 msgstr "Big-Store"
 
-msgid "Instalar"
-msgstr "Instalar"
-
-msgid "Remover"
-msgstr "Eliminar"
-
 msgid ""
 "Para os programas Snap aparecerem no menu do sistema finalize a sessão e "
 "faça login novamente."
@@ -121,9 +115,6 @@ msgstr ""
 "Muestra sólo los programas<br>seleccionados \n"
 "y oculta los resultados que son útiles <br>\n"
 "sólo a los usuarios avanzados.</br></br> "
-
-msgid "Aplicando - Aguarde"
-msgstr "Solicitud - Por favor, espere"
 
 msgid "Procurar programa"
 msgstr "Programa de búsqueda"
@@ -281,24 +272,6 @@ msgstr "Programas Flatpak"
 msgid "Programas Snap"
 msgstr "Programas Snap"
 
-msgid "Jogos"
-msgstr "Juegos"
-
-msgid "Instalado na partição:"
-msgstr "Instalado en la partición:"
-
-msgid "Tamanho da partição:"
-msgstr "Tamaño de la partición:"
-
-msgid "Espaço utilizado:"
-msgstr "Espacio utilizado:"
-
-msgid "Espaço livre:"
-msgstr "Espacio libre:"
-
-msgid "Data que o sistema foi instalado:"
-msgstr "Fecha de instalación del sistema:"
-
 msgid "Pacotes nativos e AUR"
 msgstr "Paquetes nativos y AUR"
 
@@ -351,12 +324,6 @@ msgstr ""
 "Este programa está en formato .deb, que tiene la mejor integración con el "
 "sistema."
 
-msgid "Mais informações"
-msgstr "Más información"
-
-msgid "Voltar"
-msgstr "Volver"
-
 msgid "Dependências a instalar"
 msgstr "Dependencias a instalar"
 
@@ -386,9 +353,6 @@ msgstr "Versión disponible:"
 
 msgid "Repositório:"
 msgstr "Repositorio:"
-
-msgid "Cancelar"
-msgstr "Cancelar"
 
 msgid "Instalando"
 msgstr "Instalación de"

@@ -17,6 +17,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit"
 
+msgid "Temas, Desktop e Ajustes"
+msgstr "Témy, pracovná plocha a nastavenia"
+
 msgid ""
 "Configuração alterada, se estiver utilizando o navegador, reinicie-o para "
 "que a nova configuração seja aplicada."
@@ -145,6 +148,12 @@ msgstr "Vyhľadávanie v archívoch"
 
 msgid "Bloquear a área de trabalho"
 msgstr "Uzamknutie pracovnej plochy"
+
+msgid "Ocultar Gerenciador de Boot (GRUB)"
+msgstr "Skrytie správcu zavádzania systému (GRUB)"
+
+msgid "Ativar o NumLock ao ligar o sistema"
+msgstr "Povolenie funkcie NumLock pri spustení systému"
 
 msgid "Tema aplicado"
 msgstr "Použitá téma"

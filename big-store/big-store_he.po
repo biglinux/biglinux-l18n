@@ -30,12 +30,6 @@ msgstr "חנות גדולה פתוחה."
 msgid "Big-Store"
 msgstr "חנות גדולה"
 
-msgid "Instalar"
-msgstr "התקן"
-
-msgid "Remover"
-msgstr "הסר"
-
 msgid ""
 "Para os programas Snap aparecerem no menu do sistema finalize a sessão e "
 "faça login novamente."
@@ -118,9 +112,6 @@ msgstr ""
 "מציג רק תוכניות שנבחרו <br> \n"
 "ולהסתיר תוצאות שימושיות <br>\n"
 "משתמשים מתקדמים בלבד."
-
-msgid "Aplicando - Aguarde"
-msgstr "הגשת בקשה - אנא המתן"
 
 msgid "Procurar programa"
 msgstr "חפש תוכנית"
@@ -278,24 +269,6 @@ msgstr "תוכניות פלאטפאק"
 msgid "Programas Snap"
 msgstr "הצמד תוכניות"
 
-msgid "Jogos"
-msgstr "משחקים"
-
-msgid "Instalado na partição:"
-msgstr "מותקן על המחיצה:"
-
-msgid "Tamanho da partição:"
-msgstr "גודל מחיצה:"
-
-msgid "Espaço utilizado:"
-msgstr "שטח בשימוש:"
-
-msgid "Espaço livre:"
-msgstr "מקום פנוי:"
-
-msgid "Data que o sistema foi instalado:"
-msgstr "תאריך התקנת המערכת:"
-
 msgid "Pacotes nativos e AUR"
 msgstr "חבילות מקוריות ו- AUR"
 
@@ -346,12 +319,6 @@ msgid ""
 "sistema."
 msgstr "תוכנית זו היא בפורמט.deb, אשר יש את האינטגרציה הטובה ביותר עם המערכת."
 
-msgid "Mais informações"
-msgstr "מידע נוסף"
-
-msgid "Voltar"
-msgstr "חזור אחורה"
-
 msgid "Dependências a instalar"
 msgstr "תלות להתקנה"
 
@@ -381,9 +348,6 @@ msgstr "גרסה זמינה:"
 
 msgid "Repositório:"
 msgstr "מאגר:"
-
-msgid "Cancelar"
-msgstr "ביטול"
 
 msgid "Instalando"
 msgstr "התקנת"

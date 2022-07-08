@@ -32,6 +32,12 @@ msgstr "הנהג הזה הוא קנייני."
 msgid "Este driver parece compatível com este computador."
 msgstr "מנהל התקן זה נראה תואם למחשב זה."
 
+msgid "Remover"
+msgstr "הסר"
+
+msgid "Instalar"
+msgstr "התקן"
+
 msgid ""
 "Já existe outro driver nVidia instalado, para instalar este driver, remova "
 "primeiro o driver instalado."
@@ -60,6 +66,12 @@ msgid ""
 msgstr ""
 "האם ברצונך להציג את הקובץ או לשלוח אותו לאתר transfer.sh, לקבל כתובת אתר עם "
 "הנתונים במחשב שלך בצורה קלה לשיתוף?"
+
+msgid "Categorias"
+msgstr "קטגוריות"
+
+msgid "Principais"
+msgstr "ראשי"
 
 msgid "Driver detectado:"
 msgstr "זוהה מנהל התקן:"
@@ -91,14 +103,23 @@ msgstr "סורק"
 msgid "TV Digital"
 msgstr "טלוויזיה דיגיטלית"
 
+msgid "Webcam"
+msgstr "מצלמת אינטרנט"
+
 msgid "Touchscreen"
 msgstr "מסך מגע"
 
 msgid "Som"
 msgstr "קול"
 
+msgid "Outros"
+msgstr "אחרים"
+
 msgid "Pesquisar Driver ou Firmware"
 msgstr "חפש מנהל התקן או קושחה"
+
+msgid "Resultado da pesquisa"
+msgstr "תוצאת חיפוש"
 
 msgid "Big-Driver-Manager"
 msgstr "מנהל התקן גדול"
@@ -127,22 +148,11 @@ msgstr "מנהל התקן"
 msgid "Ocorreu um erro e o driver não pode ser aplicado."
 msgstr "אירעה שגיאה ולא ניתן להחיל את מנהל ההתקן."
 
-msgid ""
-"Digite sua senha para gerar um relatório removendo dados sensíveis, por "
-"exemplo, endereço de IP, ou cancele para utilizar as informações da tela "
-"anterior."
-msgstr ""
-"הזן את הסיסמה שלך כדי להפיק דוח שמסיר נתונים רגישים, לדוגמה, כתובת IP, או "
-"בטל כדי להשתמש במידע מהמסך הקודם."
-
-msgid "Digite sua senha para gerar um relatório mais completo."
-msgstr "הזן את הסיסמה שלך כדי להפיק דוח מלא יותר."
-
 msgid "Enviando, aguarde..."
 msgstr "שולח, אנא המתן..."
 
-msgid "Resumo"
-msgstr "סיכום"
+msgid "Ver informações do dispositivo no Linux Hardware"
+msgstr "הצגת פרטי מכשיר על חומרת Linux"
 
 msgid "Processador"
 msgstr "מעבד"
@@ -153,8 +163,56 @@ msgstr "לוח אם"
 msgid "Memória"
 msgstr "סיפור חיים"
 
+msgid "Swap (Memória Virtual)"
+msgstr "החלפה (זיכרון וירטואלי)"
+
+msgid "Áudio"
+msgstr "אודיו"
+
 msgid "Rede"
 msgstr "נטו"
+
+msgid "Conexões de Rede"
+msgstr "חיבורי רשת"
+
+msgid "Dispositivos e conexões USB"
+msgstr "התקני USB וחיבורים"
+
+msgid "Portas PCI"
+msgstr "יציאות PCI"
+
+msgid "Bateria"
+msgstr "תופים"
+
+msgid "Dispositivos de Armazenamento"
+msgstr "התקני אחסון"
+
+msgid "Partições montadas"
+msgstr "מחיצות רכובות"
+
+msgid "Partições desmontadas"
+msgstr "מחיצות מפורקות"
+
+msgid "Dispositivos lógicos"
+msgstr "התקנים לוגיים"
+
+msgid "Raid"
+msgstr "פשיטה"
+
+msgid "Sistema"
+msgstr "מערכת"
+
+msgid "Informações de Sistema"
+msgstr "מידע על המערכת"
+
+msgid "Repositórios"
+msgstr "מאגרים"
+
+msgid "Temperatura"
+msgstr "טמפ"
+
+msgid "Resumo"
+msgstr "סיכום"
 
 msgid "Usb"
 msgstr "USB"
@@ -162,17 +220,11 @@ msgstr "USB"
 msgid "Pci"
 msgstr "PCI"
 
-msgid "Bateria"
-msgstr "תופים"
-
 msgid "Armazenamento"
 msgstr "אחסון"
 
-msgid "Temperatura"
-msgstr "טמפ"
-
-msgid "Áudio"
-msgstr "אודיו"
+msgid "Mais informações"
+msgstr "מידע נוסף"
 
 msgid "Pesquisar"
 msgstr "חיפוש"
@@ -185,6 +237,21 @@ msgstr "זיכרון RAM:"
 
 msgid "Vídeo:"
 msgstr "וידאו:"
+
+msgid "Instalado na partição:"
+msgstr "מותקן על המחיצה:"
+
+msgid "Tamanho da partição:"
+msgstr "גודל מחיצה:"
+
+msgid "Espaço utilizado:"
+msgstr "שטח בשימוש:"
+
+msgid "Espaço livre:"
+msgstr "מקום פנוי:"
+
+msgid "Data que o sistema foi instalado:"
+msgstr "תאריך התקנת המערכת:"
 
 msgid "Kernel em uso:"
 msgstr "ליבה בשימוש:"
@@ -205,41 +272,22 @@ msgstr "להפיק דוח"
 msgid "Cria um arquivo com informações que pode ser publicado na internet."
 msgstr "יוצר קובץ עם מידע שניתן לפרסם באינטרנט."
 
-msgid "Ver informações do dispositivo no Linux Hardware"
-msgstr "הצגת פרטי מכשיר על חומרת Linux"
-
 msgid "Categoria"
 msgstr "קטגוריה"
 
-msgid "Swap (Memória Virtual)"
-msgstr "החלפה (זיכרון וירטואלי)"
+msgid "ID"
+msgstr "תעודת זהות"
 
-msgid "Conexões de Rede"
-msgstr "חיבורי רשת"
+msgid "Info"
+msgstr "מידע"
 
-msgid "Dispositivos e conexões USB"
-msgstr "התקני USB וחיבורים"
+msgid ""
+"Digite sua senha para gerar um relatório removendo dados sensíveis, por "
+"exemplo, endereço de IP, ou cancele para utilizar as informações da tela "
+"anterior."
+msgstr ""
+"הזן את הסיסמה שלך כדי להפיק דוח שמסיר נתונים רגישים, לדוגמה, כתובת IP, או "
+"בטל כדי להשתמש במידע מהמסך הקודם."
 
-msgid "Portas PCI"
-msgstr "יציאות PCI"
-
-msgid "Dispositivos de Armazenamento"
-msgstr "התקני אחסון"
-
-msgid "Partições montadas"
-msgstr "מחיצות רכובות"
-
-msgid "Partições desmontadas"
-msgstr "מחיצות מפורקות"
-
-msgid "Dispositivos lógicos"
-msgstr "התקנים לוגיים"
-
-msgid "Raid"
-msgstr "פשיטה"
-
-msgid "Informações de Sistema"
-msgstr "מידע על המערכת"
-
-msgid "Repositórios"
-msgstr "מאגרים"
+msgid "Digite sua senha para gerar um relatório mais completo."
+msgstr "הזן את הסיסמה שלך כדי להפיק דוח מלא יותר."

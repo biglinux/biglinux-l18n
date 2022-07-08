@@ -30,20 +30,11 @@ msgstr ""
 "De foretagne ændringer kan ses\n"
 "i billedet af dit webcam i andre programmer."
 
-msgid "Webcam"
-msgstr "Webcam"
-
 msgid "Category"
 msgstr "Kategori"
 
 msgid "Name"
 msgstr "Navn"
-
-msgid "ID"
-msgstr "ID"
-
-msgid "Info"
-msgstr "Info"
 
 msgid ""
 "O relatório foi salvo no arquivo $FILE_TO_SAVE\n"
@@ -65,15 +56,6 @@ msgstr "Introduktion til BigLinux"
 
 msgid "Central de Controle"
 msgstr "Kontrolcenter"
-
-msgid "Bom dia"
-msgstr "Godmorgen"
-
-msgid "Boa tarde"
-msgstr "God eftermiddag"
-
-msgid "Boa noite"
-msgstr "Godaften"
 
 msgid "Aguarde, carregando..."
 msgstr "Vær klar til at indlæse..."
@@ -99,9 +81,6 @@ msgid ""
 msgstr ""
 "Vi tilbyder komplette konfigurationer, som du kan vælge mellem på en meget "
 "enkel måde."
-
-msgid "Temas, Desktop e Ajustes"
-msgstr "Temaer, skrivebord og indstillinger"
 
 msgid "Escolha seu Avatar"
 msgstr "Vælg din avatar"
@@ -160,9 +139,6 @@ msgstr "Reducerer støj"
 
 msgid "Configurar a voz do sistema (TTS)"
 msgstr "Indstilling af systemstemmen (TTS)"
-
-msgid "OCR para PDF"
-msgstr "OCR til PDF"
 
 msgid "Doação e Redes sociais"
 msgstr "Donation og sociale netværk"
@@ -438,12 +414,6 @@ msgstr "Skærmindstillingerne er blevet nulstillet."
 msgid "Configurações da tela"
 msgstr "Skærmindstillinger"
 
-msgid "Categorias"
-msgstr "Kategorier"
-
-msgid "Principais"
-msgstr "Vigtigste"
-
 msgid "Aparência"
 msgstr "Udseende"
 
@@ -471,23 +441,11 @@ msgstr "Privatliv"
 msgid "Servidor"
 msgstr "Server"
 
-msgid "Desenvolvimento"
-msgstr "Udvikling"
-
 msgid "Sobre"
 msgstr "Om"
 
-msgid "Outros"
-msgstr "Andre"
-
 msgid "Pesquisar..."
 msgstr "Søg..."
-
-msgid "Resultado da pesquisa"
-msgstr "Søgeresultat"
-
-msgid "Abrir"
-msgstr "Åbn"
 
 msgid "Temas, desktop e ajustes"
 msgstr "Temaer, skrivebord og indstillinger"

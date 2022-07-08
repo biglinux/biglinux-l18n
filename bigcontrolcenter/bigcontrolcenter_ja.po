@@ -30,20 +30,11 @@ msgstr ""
 "変更点を確認することができます。\n"
 "を、他のプログラムでウェブカメラの画像に変換することができます。"
 
-msgid "Webcam"
-msgstr "ウェブカメラ"
-
 msgid "Category"
 msgstr "カテゴリー"
 
 msgid "Name"
 msgstr "名称"
-
-msgid "ID"
-msgstr "ID"
-
-msgid "Info"
-msgstr "情報"
 
 msgid ""
 "O relatório foi salvo no arquivo $FILE_TO_SAVE\n"
@@ -65,15 +56,6 @@ msgstr "BigLinuxの紹介"
 
 msgid "Central de Controle"
 msgstr "コントロールセンター"
-
-msgid "Bom dia"
-msgstr "おはよう"
-
-msgid "Boa tarde"
-msgstr "こんにちは"
-
-msgid "Boa noite"
-msgstr "おやすみ"
 
 msgid "Aguarde, carregando..."
 msgstr "スタンバイ、ローディング..."
@@ -97,9 +79,6 @@ msgid ""
 "Disponiblizamos configurações completas para você selecionar de forma "
 "extremamente simples."
 msgstr "お客様にシンプルにお選びいただけるよう、完全なコンフィギュレーションを提供します。"
-
-msgid "Temas, Desktop e Ajustes"
-msgstr "テーマ、デスクトップ、設定"
 
 msgid "Escolha seu Avatar"
 msgstr "アバターを選ぶ"
@@ -155,9 +134,6 @@ msgstr "ノイズリデューサ"
 
 msgid "Configurar a voz do sistema (TTS)"
 msgstr "システムボイス（TTS）を設定する"
-
-msgid "OCR para PDF"
-msgstr "PDF用OCR"
 
 msgid "Doação e Redes sociais"
 msgstr "寄付とソーシャルネットワーク"
@@ -418,12 +394,6 @@ msgstr "画面の設定がリセットされました。"
 msgid "Configurações da tela"
 msgstr "画面設定"
 
-msgid "Categorias"
-msgstr "カテゴリー"
-
-msgid "Principais"
-msgstr "メイン"
-
 msgid "Aparência"
 msgstr "外観"
 
@@ -451,23 +421,11 @@ msgstr "プライバシー"
 msgid "Servidor"
 msgstr "サーバー"
 
-msgid "Desenvolvimento"
-msgstr "開発"
-
 msgid "Sobre"
 msgstr "について"
 
-msgid "Outros"
-msgstr "その他"
-
 msgid "Pesquisar..."
 msgstr "検索..."
-
-msgid "Resultado da pesquisa"
-msgstr "検索結果"
-
-msgid "Abrir"
-msgstr "開ける"
 
 msgid "Temas, desktop e ajustes"
 msgstr "テーマ、デスクトップ、設定"

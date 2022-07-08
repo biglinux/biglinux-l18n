@@ -30,20 +30,11 @@ msgstr ""
 "De aangebrachte wijzigingen zijn te zien\n"
 "in het beeld van uw webcam in andere programma's."
 
-msgid "Webcam"
-msgstr "Webcam"
-
 msgid "Category"
 msgstr "Categorie"
 
 msgid "Name"
 msgstr "Naam"
-
-msgid "ID"
-msgstr "ID"
-
-msgid "Info"
-msgstr "Info"
 
 msgid ""
 "O relatório foi salvo no arquivo $FILE_TO_SAVE\n"
@@ -65,15 +56,6 @@ msgstr "Inleiding tot BigLinux"
 
 msgid "Central de Controle"
 msgstr "Controlecentrum"
-
-msgid "Bom dia"
-msgstr "Goede morgen"
-
-msgid "Boa tarde"
-msgstr "Goedemiddag"
-
-msgid "Boa noite"
-msgstr "Goedenavond"
 
 msgid "Aguarde, carregando..."
 msgstr "Stand by, laden..."
@@ -99,9 +81,6 @@ msgid ""
 msgstr ""
 "Wij bieden complete configuraties waaruit u op een heel eenvoudige manier "
 "kunt kiezen."
-
-msgid "Temas, Desktop e Ajustes"
-msgstr "Thema's, Bureaublad en Instellingen"
 
 msgid "Escolha seu Avatar"
 msgstr "Kies uw Avatar"
@@ -161,9 +140,6 @@ msgstr "Ruisonderdrukker"
 
 msgid "Configurar a voz do sistema (TTS)"
 msgstr "Instellen van de systeemstem (TTS)"
-
-msgid "OCR para PDF"
-msgstr "OCR voor PDF"
 
 msgid "Doação e Redes sociais"
 msgstr "Donatie en sociale netwerken"
@@ -443,12 +419,6 @@ msgstr "De scherminstellingen zijn opnieuw ingesteld."
 msgid "Configurações da tela"
 msgstr "Scherminstellingen"
 
-msgid "Categorias"
-msgstr "Categorieën"
-
-msgid "Principais"
-msgstr "Hoofd"
-
 msgid "Aparência"
 msgstr "Verschijning"
 
@@ -476,23 +446,11 @@ msgstr "Privacy"
 msgid "Servidor"
 msgstr "Server"
 
-msgid "Desenvolvimento"
-msgstr "Ontwikkeling"
-
 msgid "Sobre"
 msgstr "Over"
 
-msgid "Outros"
-msgstr "Andere"
-
 msgid "Pesquisar..."
 msgstr "Zoeken..."
-
-msgid "Resultado da pesquisa"
-msgstr "Zoekresultaat"
-
-msgid "Abrir"
-msgstr "Open"
 
 msgid "Temas, desktop e ajustes"
 msgstr "Thema's, bureaublad en instellingen"

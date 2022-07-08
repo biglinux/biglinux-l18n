@@ -36,8 +36,8 @@ msgstr ""
 msgid "Normal"
 msgstr "Tavaline"
 
-msgid "Economico"
-msgstr "Ökonoomne"
+msgid "Econômico"
+msgstr "Majandus"
 
 msgid "Mais econômico"
 msgstr "Ökonoomsemad"
@@ -63,6 +63,12 @@ msgstr "Inglise keeles"
 msgid "Português"
 msgstr "Portugali"
 
+msgid "Destino:"
+msgstr "Sihtkoht:"
+
+msgid "Aplicar"
+msgstr "Rakenda"
+
 msgid ""
 "Adicionar OCR no PDF digitalizado permitindo seleção de textos e busca:"
 msgstr ""
@@ -83,8 +89,20 @@ msgstr "PDF-kvaliteet:"
 msgid "Alinhamento:"
 msgstr "Kohanemine:"
 
-msgid "Concluído!"
-msgstr "Valmis!"
+msgid "Aplicando - Aguarde"
+msgstr "Taotlemine - Palun oodake"
+
+msgid "Abrir"
+msgstr "Avatud"
+
+msgid "Arquivo:"
+msgstr "Arhiiv:"
+
+msgid "Pasta:"
+msgstr "Kaustik:"
+
+msgid "OCR para PDF"
+msgstr "OCR PDF-i jaoks"
 
 msgid "Salvo em: "
 msgstr "Salvestatud sisse "

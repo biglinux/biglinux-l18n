@@ -30,12 +30,6 @@ msgstr "Velika trgovina je otvorena."
 msgid "Big-Store"
 msgstr "Big-Store"
 
-msgid "Instalar"
-msgstr "Instalirajte"
-
-msgid "Remover"
-msgstr "Ukloni"
-
 msgid ""
 "Para os programas Snap aparecerem no menu do sistema finalize a sessão e "
 "faça login novamente."
@@ -121,9 +115,6 @@ msgstr ""
 "Prikazuje samo odabrane programe <br> \n"
 "i sakriti rezultate koji su korisni <br>\n"
 "samo napredni korisnici."
-
-msgid "Aplicando - Aguarde"
-msgstr "Primjena - Molimo pričekajte"
 
 msgid "Procurar programa"
 msgstr "Traži program"
@@ -281,24 +272,6 @@ msgstr "Flatpak programi"
 msgid "Programas Snap"
 msgstr "Snap programi"
 
-msgid "Jogos"
-msgstr "Igre"
-
-msgid "Instalado na partição:"
-msgstr "Instalirano na particiji:"
-
-msgid "Tamanho da partição:"
-msgstr "Veličina particije:"
-
-msgid "Espaço utilizado:"
-msgstr "Prostor koji se koristi:"
-
-msgid "Espaço livre:"
-msgstr "Slobodni prostor:"
-
-msgid "Data que o sistema foi instalado:"
-msgstr "Datum instaliranja sustava:"
-
 msgid "Pacotes nativos e AUR"
 msgstr "Izvorni i AUR paketi"
 
@@ -350,12 +323,6 @@ msgid ""
 msgstr ""
 "Ovaj program je u .deb formatu, koji ima najbolju integraciju sa sustavom."
 
-msgid "Mais informações"
-msgstr "Više informacija"
-
-msgid "Voltar"
-msgstr "Vrati se"
-
 msgid "Dependências a instalar"
 msgstr "Ovisnosti za instalaciju"
 
@@ -385,9 +352,6 @@ msgstr "Dostupna verzija:"
 
 msgid "Repositório:"
 msgstr "Repozitorij:"
-
-msgid "Cancelar"
-msgstr "Odustani"
 
 msgid "Instalando"
 msgstr "Instaliranje"

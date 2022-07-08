@@ -30,12 +30,6 @@ msgstr "Big-Store er opið."
 msgid "Big-Store"
 msgstr "Big-Store"
 
-msgid "Instalar"
-msgstr "Setja upp"
-
-msgid "Remover"
-msgstr "fjarlægja"
-
 msgid ""
 "Para os programas Snap aparecerem no menu do sistema finalize a sessão e "
 "faça login novamente."
@@ -121,9 +115,6 @@ msgstr ""
 "Sýnir aðeins valin forrit <br> \n"
 "og fela niðurstöður sem eru gagnlegar <br>\n"
 "aðeins háþróaður notandi."
-
-msgid "Aplicando - Aguarde"
-msgstr "Sækja um - Vinsamlegast bíddu"
 
 msgid "Procurar programa"
 msgstr "Leita að forriti"
@@ -281,24 +272,6 @@ msgstr "Flatpak Programs"
 msgid "Programas Snap"
 msgstr "Snap Programs"
 
-msgid "Jogos"
-msgstr "Leikir"
-
-msgid "Instalado na partição:"
-msgstr "Uppsett á skiptingunni:"
-
-msgid "Tamanho da partição:"
-msgstr "Skipting stærð:"
-
-msgid "Espaço utilizado:"
-msgstr "Rými notað:"
-
-msgid "Espaço livre:"
-msgstr "Laust pláss:"
-
-msgid "Data que o sistema foi instalado:"
-msgstr "Dagsetning kerfið var sett upp:"
-
 msgid "Pacotes nativos e AUR"
 msgstr "Innfæddur og AUR pakkar"
 
@@ -349,12 +322,6 @@ msgid ""
 "sistema."
 msgstr "Þetta forrit er í.deb sniði, sem hefur bestu samþættingu við kerfið."
 
-msgid "Mais informações"
-msgstr "Nánari upplýsingar"
-
-msgid "Voltar"
-msgstr "Fara aftur"
-
 msgid "Dependências a instalar"
 msgstr "Ósjálfstæði til að setja upp"
 
@@ -384,9 +351,6 @@ msgstr "Laus útgáfa:"
 
 msgid "Repositório:"
 msgstr "Geymsla:"
-
-msgid "Cancelar"
-msgstr "Hætta"
 
 msgid "Instalando"
 msgstr "Uppsetning"

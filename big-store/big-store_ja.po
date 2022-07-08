@@ -30,12 +30,6 @@ msgstr "ビッグストアがオープンしました。"
 msgid "Big-Store"
 msgstr "ビッグストア"
 
-msgid "Instalar"
-msgstr "インストール"
-
-msgid "Remover"
-msgstr "削除"
-
 msgid ""
 "Para os programas Snap aparecerem no menu do sistema finalize a sessão e "
 "faça login novamente."
@@ -118,9 +112,6 @@ msgstr ""
 "選択した 番組のみ表示<br>\n"
 "で、有用な結果は非表示になります<br>\n"
 "は上級者向けです。"
-
-msgid "Aplicando - Aguarde"
-msgstr "応募中 - しばらくお待ちください"
 
 msgid "Procurar programa"
 msgstr "検索プログラム"
@@ -278,24 +269,6 @@ msgstr "Flatpakプログラム"
 msgid "Programas Snap"
 msgstr "スナップ・プログラム"
 
-msgid "Jogos"
-msgstr "ゲーム"
-
-msgid "Instalado na partição:"
-msgstr "パーティションにインストールされています。"
-
-msgid "Tamanho da partição:"
-msgstr "パーティションサイズ。"
-
-msgid "Espaço utilizado:"
-msgstr "使用するスペース"
-
-msgid "Espaço livre:"
-msgstr "空間をクリアにする。"
-
-msgid "Data que o sistema foi instalado:"
-msgstr "システムがインストールされた日付。"
-
 msgid "Pacotes nativos e AUR"
 msgstr "ネイティブパッケージとAUR"
 
@@ -346,12 +319,6 @@ msgid ""
 "sistema."
 msgstr "本プログラムは、システムとの連携が最も優れている.deb形式を採用しています。"
 
-msgid "Mais informações"
-msgstr "詳細はこちら"
-
-msgid "Voltar"
-msgstr "背面"
-
 msgid "Dependências a instalar"
 msgstr "インストールする依存関係"
 
@@ -381,9 +348,6 @@ msgstr "バージョンあり。"
 
 msgid "Repositório:"
 msgstr "リポジトリです。"
-
-msgid "Cancelar"
-msgstr "キャンセル"
 
 msgid "Instalando"
 msgstr "インストール"

@@ -32,12 +32,6 @@ msgstr "Filter za mikrofon"
 msgid "Ativando"
 msgstr "aktiviranje"
 
-msgid "Filtro de ruído"
-msgstr "Filter buke"
-
-msgid "Iniciar automaticamente"
-msgstr "Pokrenite automatski"
-
 msgid "Configuração aplicada"
 msgstr "Primijenjena konfiguracija"
 
@@ -66,3 +60,22 @@ msgstr ""
 
 msgid "Cancelado, nenhuma configuração foi removida!"
 msgstr "Otkazano, postavke nisu uklonjene!"
+
+msgid ""
+"Este filtro utiliza técnicas de redes neurais para remover ruídos e sons do "
+"ambiente que atrapalham gravações e chamadas online."
+msgstr ""
+"Ovaj filtar koristi tehnike neuronske mreže za uklanjanje ambijentalnih "
+"zvukova i zvukova koji ometaju mrežne snimke i pozive."
+
+msgid "Gerenciador de Áudio"
+msgstr "Audio Manager"
+
+msgid "Frequências sonoras:"
+msgstr "Frekvencije zvuka:"
+
+msgid "Filtro de ruído"
+msgstr "Filter buke"
+
+msgid "Iniciar automaticamente"
+msgstr "Pokrenite automatski"

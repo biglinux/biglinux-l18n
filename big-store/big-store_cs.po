@@ -30,12 +30,6 @@ msgstr "Big-Store je otevřen."
 msgid "Big-Store"
 msgstr "Big-Store"
 
-msgid "Instalar"
-msgstr "Instalace"
-
-msgid "Remover"
-msgstr "Odstranění stránky"
-
 msgid ""
 "Para os programas Snap aparecerem no menu do sistema finalize a sessão e "
 "faça login novamente."
@@ -120,9 +114,6 @@ msgstr ""
 "Zobrazí pouze vybrané  programy<br>\n"
 "a skrývá užitečné výsledky <br>\n"
 "pouze pro pokročilé uživatele."
-
-msgid "Aplicando - Aguarde"
-msgstr "Podání žádosti - Počkejte prosím"
 
 msgid "Procurar programa"
 msgstr "Vyhledávací program"
@@ -280,24 +271,6 @@ msgstr "Programy Flatpak"
 msgid "Programas Snap"
 msgstr "Snap programy"
 
-msgid "Jogos"
-msgstr "Hry"
-
-msgid "Instalado na partição:"
-msgstr "Nainstalováno na oddílu:"
-
-msgid "Tamanho da partição:"
-msgstr "Velikost oddílu:"
-
-msgid "Espaço utilizado:"
-msgstr "Využitý prostor:"
-
-msgid "Espaço livre:"
-msgstr "Volný prostor:"
-
-msgid "Data que o sistema foi instalado:"
-msgstr "Datum instalace systému:"
-
 msgid "Pacotes nativos e AUR"
 msgstr "Nativní balíčky a AUR"
 
@@ -349,12 +322,6 @@ msgid ""
 msgstr ""
 "Tento program je ve formátu .deb, který má nejlepší integraci se systémem."
 
-msgid "Mais informações"
-msgstr "Více informací"
-
-msgid "Voltar"
-msgstr "Zpět"
-
 msgid "Dependências a instalar"
 msgstr "Závislosti k instalaci"
 
@@ -384,9 +351,6 @@ msgstr "Dostupná verze:"
 
 msgid "Repositório:"
 msgstr "Úložiště:"
-
-msgid "Cancelar"
-msgstr "Zrušit"
 
 msgid "Instalando"
 msgstr "Instalace stránek"

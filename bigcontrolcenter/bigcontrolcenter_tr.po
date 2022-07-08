@@ -30,20 +30,11 @@ msgstr ""
 "Yapılan değişiklikler görülebilir\n"
 "diğer programlarda web kameranızın görüntüsünde."
 
-msgid "Webcam"
-msgstr "Web kamerası"
-
 msgid "Category"
 msgstr "Kategori"
 
 msgid "Name"
 msgstr "İsim"
-
-msgid "ID"
-msgstr "KIMLIK"
-
-msgid "Info"
-msgstr "Bilgi"
 
 msgid ""
 "O relatório foi salvo no arquivo $FILE_TO_SAVE\n"
@@ -65,15 +56,6 @@ msgstr "BigLinux'a Giriş"
 
 msgid "Central de Controle"
 msgstr "Kontrol Merkezi"
-
-msgid "Bom dia"
-msgstr "Günaydın"
-
-msgid "Boa tarde"
-msgstr "İyi günler"
-
-msgid "Boa noite"
-msgstr "İyi akşamlar"
 
 msgid "Aguarde, carregando..."
 msgstr "Beklemede kalın, yükleniyor..."
@@ -99,9 +81,6 @@ msgid ""
 msgstr ""
 "Aralarından seçim yapabileceğiniz eksiksiz konfigürasyonları çok basit bir "
 "şekilde sunuyoruz."
-
-msgid "Temas, Desktop e Ajustes"
-msgstr "Temalar, Masaüstü ve Ayarlar"
 
 msgid "Escolha seu Avatar"
 msgstr "Avatarınızı Seçin"
@@ -160,9 +139,6 @@ msgstr "Gürültü Azaltıcı"
 
 msgid "Configurar a voz do sistema (TTS)"
 msgstr "Sistem Sesini Ayarlama (TTS)"
-
-msgid "OCR para PDF"
-msgstr "PDF için OCR"
 
 msgid "Doação e Redes sociais"
 msgstr "Bağış ve sosyal ağlar"
@@ -436,12 +412,6 @@ msgstr "Ekran ayarları sıfırlandı."
 msgid "Configurações da tela"
 msgstr "Ekran ayarları"
 
-msgid "Categorias"
-msgstr "Kategoriler"
-
-msgid "Principais"
-msgstr "Ana"
-
 msgid "Aparência"
 msgstr "Görünüş"
 
@@ -469,23 +439,11 @@ msgstr "Gizlilik"
 msgid "Servidor"
 msgstr "Sunucu"
 
-msgid "Desenvolvimento"
-msgstr "Geliştirme"
-
 msgid "Sobre"
 msgstr "Hakkında"
 
-msgid "Outros"
-msgstr "Diğer"
-
 msgid "Pesquisar..."
 msgstr "Arama..."
-
-msgid "Resultado da pesquisa"
-msgstr "Arama sonucu"
-
-msgid "Abrir"
-msgstr "Açık"
 
 msgid "Temas, desktop e ajustes"
 msgstr "Temalar, masaüstü ve ayarlar"

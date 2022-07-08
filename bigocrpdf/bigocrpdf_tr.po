@@ -36,7 +36,7 @@ msgstr ""
 msgid "Normal"
 msgstr "Normal"
 
-msgid "Economico"
+msgid "Econômico"
 msgstr "Ekonomik"
 
 msgid "Mais econômico"
@@ -63,6 +63,12 @@ msgstr "İngilizce"
 msgid "Português"
 msgstr "Portekizce"
 
+msgid "Destino:"
+msgstr "Varış yeri:"
+
+msgid "Aplicar"
+msgstr "Başvurmak"
+
 msgid ""
 "Adicionar OCR no PDF digitalizado permitindo seleção de textos e busca:"
 msgstr "Taranan PDF'ye OCR ekleyerek metin seçimine ve aramaya olanak tanır:"
@@ -82,8 +88,20 @@ msgstr "PDF kalitesinde:"
 msgid "Alinhamento:"
 msgstr "Hizalanma:"
 
-msgid "Concluído!"
-msgstr "Tamamdır!"
+msgid "Aplicando - Aguarde"
+msgstr "Başvuru - Lütfen bekleyin"
+
+msgid "Abrir"
+msgstr "Açık"
+
+msgid "Arquivo:"
+msgstr "Arşiv:"
+
+msgid "Pasta:"
+msgstr "Klasör:"
+
+msgid "OCR para PDF"
+msgstr "PDF için OCR"
 
 msgid "Salvo em: "
 msgstr "Kaydedildi "

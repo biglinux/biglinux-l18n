@@ -73,9 +73,6 @@ msgstr ""
 "Βίντεο-(Smplayer) smplayer.sh Πολυμέσα smplayer.png smplayer skel "
 "$COMMENT_skel"
 
-msgid "Fechar"
-msgstr "Κλείστε το"
-
 msgid "Restaurar no modo padrão da distribuição"
 msgstr "Επαναφορά στην προεπιλεγμένη λειτουργία διανομής"
 
@@ -97,18 +94,6 @@ msgstr "Κύρια"
 
 msgid "Internet"
 msgstr "Διαδίκτυο"
-
-msgid "Multimídia"
-msgstr "Πολυμέσα"
-
-msgid "Gráficos"
-msgstr "Γραφικά"
-
-msgid "Escritório"
-msgstr "Γραφείο"
-
-msgid "Sistema"
-msgstr "Σύστημα"
 
 msgid "Pesquisar Restaurar"
 msgstr "Αναζήτηση Επαναφορά"

@@ -32,6 +32,12 @@ msgstr "这个驱动程序是专有的。"
 msgid "Este driver parece compatível com este computador."
 msgstr "这个驱动程序似乎与这台计算机兼容。"
 
+msgid "Remover"
+msgstr "移除"
+
+msgid "Instalar"
+msgstr "安装"
+
 msgid ""
 "Já existe outro driver nVidia instalado, para instalar este driver, remova "
 "primeiro o driver instalado."
@@ -56,6 +62,12 @@ msgid ""
 "Deseja visualizar o arquivo ou envia-lo ao site transfer.sh, para ter uma "
 "URL com os dados do seu computador de forma fácil de compartilhar?"
 msgstr "你想查看文件或将其发送到transfer.sh，以一种简单的方式分享来自你电脑的数据的URL吗？"
+
+msgid "Categorias"
+msgstr "类别"
+
+msgid "Principais"
+msgstr "主要内容"
 
 msgid "Driver detectado:"
 msgstr "检测到的驱动程序。"
@@ -87,14 +99,23 @@ msgstr "扫描器"
 msgid "TV Digital"
 msgstr "数字电视"
 
+msgid "Webcam"
+msgstr "网络摄像头"
+
 msgid "Touchscreen"
 msgstr "触摸屏"
 
 msgid "Som"
 msgstr "声音"
 
+msgid "Outros"
+msgstr "其他"
+
 msgid "Pesquisar Driver ou Firmware"
 msgstr "搜索驱动程序或固件"
+
+msgid "Resultado da pesquisa"
+msgstr "搜索结果"
 
 msgid "Big-Driver-Manager"
 msgstr "大司机-经理人"
@@ -122,20 +143,11 @@ msgstr "驱动程序"
 msgid "Ocorreu um erro e o driver não pode ser aplicado."
 msgstr "发生了一个错误，无法应用该驱动程序。"
 
-msgid ""
-"Digite sua senha para gerar um relatório removendo dados sensíveis, por "
-"exemplo, endereço de IP, ou cancele para utilizar as informações da tela "
-"anterior."
-msgstr "输入你的密码，生成一份删除敏感数据（如IP地址）的报告，或者取消，使用前一屏幕的信息。"
-
-msgid "Digite sua senha para gerar um relatório mais completo."
-msgstr "输入你的密码，以生成更完整的报告。"
-
 msgid "Enviando, aguarde..."
 msgstr "正在发送，请等待..."
 
-msgid "Resumo"
-msgstr "摘要"
+msgid "Ver informações do dispositivo no Linux Hardware"
+msgstr "查看Linux硬件上的设备信息"
 
 msgid "Processador"
 msgstr "处理器"
@@ -146,8 +158,56 @@ msgstr "母板"
 msgid "Memória"
 msgstr "记忆"
 
+msgid "Swap (Memória Virtual)"
+msgstr "交换（虚拟内存）"
+
+msgid "Áudio"
+msgstr "音频"
+
 msgid "Rede"
 msgstr "网络"
+
+msgid "Conexões de Rede"
+msgstr "网络连接"
+
+msgid "Dispositivos e conexões USB"
+msgstr "USB设备和连接"
+
+msgid "Portas PCI"
+msgstr "PCI端口"
+
+msgid "Bateria"
+msgstr "电池"
+
+msgid "Dispositivos de Armazenamento"
+msgstr "存储设备"
+
+msgid "Partições montadas"
+msgstr "安装的隔断"
+
+msgid "Partições desmontadas"
+msgstr "拆除的隔断"
+
+msgid "Dispositivos lógicos"
+msgstr "逻辑装置"
+
+msgid "Raid"
+msgstr "袭击"
+
+msgid "Sistema"
+msgstr "系统"
+
+msgid "Informações de Sistema"
+msgstr "系统信息"
+
+msgid "Repositórios"
+msgstr "储存库"
+
+msgid "Temperatura"
+msgstr "温度"
+
+msgid "Resumo"
+msgstr "摘要"
 
 msgid "Usb"
 msgstr "笔记本电脑"
@@ -155,17 +215,11 @@ msgstr "笔记本电脑"
 msgid "Pci"
 msgstr "芯片"
 
-msgid "Bateria"
-msgstr "电池"
-
 msgid "Armazenamento"
 msgstr "储存"
 
-msgid "Temperatura"
-msgstr "温度"
-
-msgid "Áudio"
-msgstr "音频"
+msgid "Mais informações"
+msgstr "更多信息"
 
 msgid "Pesquisar"
 msgstr "搜索"
@@ -178,6 +232,21 @@ msgstr "RAM內存："
 
 msgid "Vídeo:"
 msgstr "視頻："
+
+msgid "Instalado na partição:"
+msgstr "安装在分区上。"
+
+msgid "Tamanho da partição:"
+msgstr "分区大小。"
+
+msgid "Espaço utilizado:"
+msgstr "使用的空间。"
+
+msgid "Espaço livre:"
+msgstr "清理空间。"
+
+msgid "Data que o sistema foi instalado:"
+msgstr "系统安装的日期。"
 
 msgid "Kernel em uso:"
 msgstr "正在使用的內核："
@@ -196,41 +265,20 @@ msgstr "生成报告"
 msgid "Cria um arquivo com informações que pode ser publicado na internet."
 msgstr "創建包含可在 Internet 上發布的信息的文件。"
 
-msgid "Ver informações do dispositivo no Linux Hardware"
-msgstr "查看Linux硬件上的设备信息"
-
 msgid "Categoria"
 msgstr "类别"
 
-msgid "Swap (Memória Virtual)"
-msgstr "交换（虚拟内存）"
+msgid "ID"
+msgstr "身份证"
 
-msgid "Conexões de Rede"
-msgstr "网络连接"
+msgid "Info"
+msgstr "信息"
 
-msgid "Dispositivos e conexões USB"
-msgstr "USB设备和连接"
+msgid ""
+"Digite sua senha para gerar um relatório removendo dados sensíveis, por "
+"exemplo, endereço de IP, ou cancele para utilizar as informações da tela "
+"anterior."
+msgstr "输入你的密码，生成一份删除敏感数据（如IP地址）的报告，或者取消，使用前一屏幕的信息。"
 
-msgid "Portas PCI"
-msgstr "PCI端口"
-
-msgid "Dispositivos de Armazenamento"
-msgstr "存储设备"
-
-msgid "Partições montadas"
-msgstr "安装的隔断"
-
-msgid "Partições desmontadas"
-msgstr "拆除的隔断"
-
-msgid "Dispositivos lógicos"
-msgstr "逻辑装置"
-
-msgid "Raid"
-msgstr "袭击"
-
-msgid "Informações de Sistema"
-msgstr "系统信息"
-
-msgid "Repositórios"
-msgstr "储存库"
+msgid "Digite sua senha para gerar um relatório mais completo."
+msgstr "输入你的密码，以生成更完整的报告。"

@@ -30,12 +30,6 @@ msgstr "Το Big-Store είναι ανοιχτό."
 msgid "Big-Store"
 msgstr "Big-Store"
 
-msgid "Instalar"
-msgstr "Εγκαταστήστε το"
-
-msgid "Remover"
-msgstr "Αφαιρέστε το"
-
 msgid ""
 "Para os programas Snap aparecerem no menu do sistema finalize a sessão e "
 "faça login novamente."
@@ -120,9 +114,6 @@ msgstr ""
 "Εμφανίζει μόνο επιλεγμένα προγράμματα<br>\n"
 "και αποκρύπτει τα αποτελέσματα που είναι χρήσιμα <br>\n"
 "μόνο για προχωρημένους χρήστες."
-
-msgid "Aplicando - Aguarde"
-msgstr "Εφαρμογή - Παρακαλώ περιμένετε"
 
 msgid "Procurar programa"
 msgstr "Πρόγραμμα αναζήτησης"
@@ -280,24 +271,6 @@ msgstr "Προγράμματα Flatpak"
 msgid "Programas Snap"
 msgstr "Προγράμματα Snap"
 
-msgid "Jogos"
-msgstr "Παιχνίδια"
-
-msgid "Instalado na partição:"
-msgstr "Εγκατεστημένο στο διαμέρισμα:"
-
-msgid "Tamanho da partição:"
-msgstr "Μέγεθος διαμερίσματος:"
-
-msgid "Espaço utilizado:"
-msgstr "Χώρος που χρησιμοποιείται:"
-
-msgid "Espaço livre:"
-msgstr "Ελεύθερος χώρος:"
-
-msgid "Data que o sistema foi instalado:"
-msgstr "Ημερομηνία εγκατάστασης του συστήματος:"
-
 msgid "Pacotes nativos e AUR"
 msgstr "Εγχώρια πακέτα και AUR"
 
@@ -351,12 +324,6 @@ msgstr ""
 "Αυτό το πρόγραμμα είναι σε μορφή .deb, η οποία έχει την καλύτερη ενσωμάτωση "
 "με το σύστημα."
 
-msgid "Mais informações"
-msgstr "Περισσότερες πληροφορίες"
-
-msgid "Voltar"
-msgstr "Πίσω"
-
 msgid "Dependências a instalar"
 msgstr "Εξαρτήσεις προς εγκατάσταση"
 
@@ -386,9 +353,6 @@ msgstr "Διαθέσιμη έκδοση:"
 
 msgid "Repositório:"
 msgstr "Αποθετήριο:"
-
-msgid "Cancelar"
-msgstr "Ακύρωση"
 
 msgid "Instalando"
 msgstr "Εγκατάσταση του"

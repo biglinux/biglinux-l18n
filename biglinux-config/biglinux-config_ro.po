@@ -73,9 +73,6 @@ msgstr ""
 "Videoclipuri-(Smplayer) smplayer.sh Multimedia smplayer.png smplayer skel "
 "$COMMENT_skel"
 
-msgid "Fechar"
-msgstr "Închideți"
-
 msgid "Restaurar no modo padrão da distribuição"
 msgstr "Restabilirea modului de distribuție implicit"
 
@@ -99,18 +96,6 @@ msgstr "Principal"
 
 msgid "Internet"
 msgstr "Internet"
-
-msgid "Multimídia"
-msgstr "Multimedia"
-
-msgid "Gráficos"
-msgstr "Grafică"
-
-msgid "Escritório"
-msgstr "Birou"
-
-msgid "Sistema"
-msgstr "Sistem"
 
 msgid "Pesquisar Restaurar"
 msgstr "Căutare Restaurare"

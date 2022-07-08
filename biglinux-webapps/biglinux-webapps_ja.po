@@ -97,6 +97,21 @@ msgstr "見つかったアイコン"
 msgid "Selecione o ícone preferido:"
 msgstr "お好みのアイコンを選択してください："
 
+msgid "Desenvolvimento"
+msgstr "開発"
+
+msgid "Escritório"
+msgstr "オフィス"
+
+msgid "Gráficos"
+msgstr "グラフィック"
+
+msgid "Jogos"
+msgstr "ゲーム"
+
+msgid "Multimídia"
+msgstr "マルチメディア"
+
 msgid "Tem certeza que deseja remover este WebApp?"
 msgstr "このWebAppを削除してもよろしいですか？"
 
@@ -114,6 +129,15 @@ msgstr "ご希望のブラウザを選択してください。"
 
 msgid "WebApps Nativos"
 msgstr "ネイティブWebApp"
+
+msgid "Bom dia"
+msgstr "おはよう"
+
+msgid "Boa tarde"
+msgstr "こんにちは"
+
+msgid "Boa noite"
+msgstr "おやすみ"
 
 msgid "Aguarde, estamos preparando para começar..."
 msgstr "待って、私たちは始める準備をしています..."

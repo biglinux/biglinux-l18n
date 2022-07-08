@@ -65,6 +65,9 @@ msgstr ""
 "*Most servers require a login and password to list available shares, leave "
 "blank to perform an anonymous search."
 
+msgid "Cancelar"
+msgstr "Cancel"
+
 msgid "Próximo"
 msgstr "Next"
 
@@ -76,3 +79,9 @@ msgstr "Search performed with the user:"
 
 msgid "na rede:"
 msgstr "in the network:"
+
+msgid "Voltar"
+msgstr "Back"
+
+msgid "Fechar"
+msgstr "Close"

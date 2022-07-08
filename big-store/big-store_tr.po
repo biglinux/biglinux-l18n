@@ -30,12 +30,6 @@ msgstr "Big-Store açık."
 msgid "Big-Store"
 msgstr "Big-Store"
 
-msgid "Instalar"
-msgstr "Kurulum"
-
-msgid "Remover"
-msgstr "Kaldırmak"
-
 msgid ""
 "Para os programas Snap aparecerem no menu do sistema finalize a sessão e "
 "faça login novamente."
@@ -120,9 +114,6 @@ msgstr ""
 "Yalnızca seçili programları görüntüler<br>\n"
 "ve yararlı olan sonuçları gizler <br>\n"
 "sadece ileri düzey kullanıcılar içindir."
-
-msgid "Aplicando - Aguarde"
-msgstr "Başvuru - Lütfen bekleyin"
 
 msgid "Procurar programa"
 msgstr "Arama programı"
@@ -280,24 +271,6 @@ msgstr "Flatpak programları"
 msgid "Programas Snap"
 msgstr "Snap programları"
 
-msgid "Jogos"
-msgstr "Oyunlar"
-
-msgid "Instalado na partição:"
-msgstr "Bölüme yüklendi:"
-
-msgid "Tamanho da partição:"
-msgstr "Bölüm boyutu:"
-
-msgid "Espaço utilizado:"
-msgstr "Kullanılan alan:"
-
-msgid "Espaço livre:"
-msgstr "Boş alan:"
-
-msgid "Data que o sistema foi instalado:"
-msgstr "Sistemin kurulduğu tarih:"
-
 msgid "Pacotes nativos e AUR"
 msgstr "Yerel paketler ve AUR"
 
@@ -349,12 +322,6 @@ msgid ""
 msgstr ""
 "Bu program, sistemle en iyi entegrasyona sahip olan .deb formatındadır."
 
-msgid "Mais informações"
-msgstr "Daha fazla bilgi"
-
-msgid "Voltar"
-msgstr "Geri"
-
 msgid "Dependências a instalar"
 msgstr "Yüklenecek bağımlılıklar"
 
@@ -384,9 +351,6 @@ msgstr "Versiyon mevcut:"
 
 msgid "Repositório:"
 msgstr "Depo:"
-
-msgid "Cancelar"
-msgstr "İptal"
 
 msgid "Instalando"
 msgstr "Yükleme"

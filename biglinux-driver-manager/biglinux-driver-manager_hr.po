@@ -32,6 +32,12 @@ msgstr "Ovaj vozač je vlasnički."
 msgid "Este driver parece compatível com este computador."
 msgstr "Ovaj upravljački program čini kompatibilan s ovim računalom."
 
+msgid "Remover"
+msgstr "Ukloni"
+
+msgid "Instalar"
+msgstr "Instalirajte"
+
 msgid ""
 "Já existe outro driver nVidia instalado, para instalar este driver, remova "
 "primeiro o driver instalado."
@@ -61,6 +67,12 @@ msgid ""
 msgstr ""
 "Želite li vidjeti datoteku ili je poslati na web mjesto transfer.sh, da "
 "biste na jednostavan način imali URL s podacima na računalu?"
+
+msgid "Categorias"
+msgstr "Kategorije"
+
+msgid "Principais"
+msgstr "Glavni"
 
 msgid "Driver detectado:"
 msgstr "Otkriven vozač:"
@@ -92,14 +104,23 @@ msgstr "Skener"
 msgid "TV Digital"
 msgstr "Digitalna TV"
 
+msgid "Webcam"
+msgstr "web kamera"
+
 msgid "Touchscreen"
 msgstr "zaslon osjetljiv na dodir"
 
 msgid "Som"
 msgstr "zvuk"
 
+msgid "Outros"
+msgstr "Ostalo"
+
 msgid "Pesquisar Driver ou Firmware"
 msgstr "Potražite upravljački program ili firmver"
+
+msgid "Resultado da pesquisa"
+msgstr "Rezultati pretrage"
 
 msgid "Big-Driver-Manager"
 msgstr "Voditelj velikog vozača"
@@ -131,23 +152,11 @@ msgstr "Vozač"
 msgid "Ocorreu um erro e o driver não pode ser aplicado."
 msgstr "Došlo je do pogreške i upravljački program se ne može primijeniti."
 
-msgid ""
-"Digite sua senha para gerar um relatório removendo dados sensíveis, por "
-"exemplo, endereço de IP, ou cancele para utilizar as informações da tela "
-"anterior."
-msgstr ""
-"Unesite lozinku da biste generirali izvješće o uklanjanju osjetljivih "
-"podataka, na primjer IP adrese ili otkazali da biste koristili podatke s "
-"prethodnog zaslona."
-
-msgid "Digite sua senha para gerar um relatório mais completo."
-msgstr "Unesite lozinku za generiranje potpunijeg izvješća."
-
 msgid "Enviando, aguarde..."
 msgstr "Slanje, molim vas pričekajte..."
 
-msgid "Resumo"
-msgstr "Sažetak"
+msgid "Ver informações do dispositivo no Linux Hardware"
+msgstr "Prikaz informacija o uređaju na Linux hardveru"
 
 msgid "Processador"
 msgstr "Procesor"
@@ -158,8 +167,56 @@ msgstr "Matična ploča"
 msgid "Memória"
 msgstr "Memoari"
 
+msgid "Swap (Memória Virtual)"
+msgstr "Zamjena (virtualna memorija)"
+
+msgid "Áudio"
+msgstr "Audio"
+
 msgid "Rede"
 msgstr "Neto"
+
+msgid "Conexões de Rede"
+msgstr "Mrežne veze"
+
+msgid "Dispositivos e conexões USB"
+msgstr "USB uređaji i veze"
+
+msgid "Portas PCI"
+msgstr "PCI priključci"
+
+msgid "Bateria"
+msgstr "Bubnjevi"
+
+msgid "Dispositivos de Armazenamento"
+msgstr "Uređaji za pohranu"
+
+msgid "Partições montadas"
+msgstr "Montirane particije"
+
+msgid "Partições desmontadas"
+msgstr "Demontirane particije"
+
+msgid "Dispositivos lógicos"
+msgstr "Logički uređaji"
+
+msgid "Raid"
+msgstr "Raid"
+
+msgid "Sistema"
+msgstr "Sustav"
+
+msgid "Informações de Sistema"
+msgstr "Informacijski sustav"
+
+msgid "Repositórios"
+msgstr "Repozitoriji"
+
+msgid "Temperatura"
+msgstr "Vrijeme"
+
+msgid "Resumo"
+msgstr "Sažetak"
 
 msgid "Usb"
 msgstr "Usb"
@@ -167,17 +224,11 @@ msgstr "Usb"
 msgid "Pci"
 msgstr "PCI"
 
-msgid "Bateria"
-msgstr "Bubnjevi"
-
 msgid "Armazenamento"
 msgstr "Skladištenje"
 
-msgid "Temperatura"
-msgstr "Vrijeme"
-
-msgid "Áudio"
-msgstr "Audio"
+msgid "Mais informações"
+msgstr "Više informacija"
 
 msgid "Pesquisar"
 msgstr "Pretraživanje"
@@ -190,6 +241,21 @@ msgstr "RAM memorija:"
 
 msgid "Vídeo:"
 msgstr "Video:"
+
+msgid "Instalado na partição:"
+msgstr "Instalirano na particiji:"
+
+msgid "Tamanho da partição:"
+msgstr "Veličina particije:"
+
+msgid "Espaço utilizado:"
+msgstr "Prostor koji se koristi:"
+
+msgid "Espaço livre:"
+msgstr "Slobodni prostor:"
+
+msgid "Data que o sistema foi instalado:"
+msgstr "Datum instaliranja sustava:"
 
 msgid "Kernel em uso:"
 msgstr "Kernel u upotrebi:"
@@ -210,41 +276,23 @@ msgstr "Generiraj izvješće"
 msgid "Cria um arquivo com informações que pode ser publicado na internet."
 msgstr "Stvara datoteku s informacijama koje se mogu objaviti na internetu."
 
-msgid "Ver informações do dispositivo no Linux Hardware"
-msgstr "Prikaz informacija o uređaju na Linux hardveru"
-
 msgid "Categoria"
 msgstr "Kategorija"
 
-msgid "Swap (Memória Virtual)"
-msgstr "Zamjena (virtualna memorija)"
+msgid "ID"
+msgstr "OSOBNA ISKAZNICA"
 
-msgid "Conexões de Rede"
-msgstr "Mrežne veze"
+msgid "Info"
+msgstr "Informacije"
 
-msgid "Dispositivos e conexões USB"
-msgstr "USB uređaji i veze"
+msgid ""
+"Digite sua senha para gerar um relatório removendo dados sensíveis, por "
+"exemplo, endereço de IP, ou cancele para utilizar as informações da tela "
+"anterior."
+msgstr ""
+"Unesite lozinku da biste generirali izvješće o uklanjanju osjetljivih "
+"podataka, na primjer IP adrese ili otkazali da biste koristili podatke s "
+"prethodnog zaslona."
 
-msgid "Portas PCI"
-msgstr "PCI priključci"
-
-msgid "Dispositivos de Armazenamento"
-msgstr "Uređaji za pohranu"
-
-msgid "Partições montadas"
-msgstr "Montirane particije"
-
-msgid "Partições desmontadas"
-msgstr "Demontirane particije"
-
-msgid "Dispositivos lógicos"
-msgstr "Logički uređaji"
-
-msgid "Raid"
-msgstr "Raid"
-
-msgid "Informações de Sistema"
-msgstr "Informacijski sustav"
-
-msgid "Repositórios"
-msgstr "Repozitoriji"
+msgid "Digite sua senha para gerar um relatório mais completo."
+msgstr "Unesite lozinku za generiranje potpunijeg izvješća."

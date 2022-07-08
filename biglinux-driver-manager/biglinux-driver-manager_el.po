@@ -34,6 +34,12 @@ msgstr ""
 "Αυτό το πρόγραμμα οδήγησης φαίνεται να είναι συμβατό με αυτόν τον υπολογιστή."
 ""
 
+msgid "Remover"
+msgstr "Αφαιρέστε το"
+
+msgid "Instalar"
+msgstr "Εγκαταστήστε το"
+
 msgid ""
 "Já existe outro driver nVidia instalado, para instalar este driver, remova "
 "primeiro o driver instalado."
@@ -65,6 +71,12 @@ msgstr ""
 "διεύθυνση URL με τα δεδομένα από τον υπολογιστή σας με εύκολο τρόπο για να "
 "τα μοιραστείτε"
 
+msgid "Categorias"
+msgstr "Κατηγορίες"
+
+msgid "Principais"
+msgstr "Κύρια"
+
 msgid "Driver detectado:"
 msgstr "Εντοπίστηκε οδηγός:"
 
@@ -95,14 +107,23 @@ msgstr "Σαρωτής"
 msgid "TV Digital"
 msgstr "Ψηφιακή τηλεόραση"
 
+msgid "Webcam"
+msgstr "Webcam"
+
 msgid "Touchscreen"
 msgstr "Οθόνη αφής"
 
 msgid "Som"
 msgstr "Ήχος"
 
+msgid "Outros"
+msgstr "Άλλα"
+
 msgid "Pesquisar Driver ou Firmware"
 msgstr "Αναζήτηση προγράμματος οδήγησης ή υλικολογισμικού"
+
+msgid "Resultado da pesquisa"
+msgstr "Αποτελέσματα αναζήτησης"
 
 msgid "Big-Driver-Manager"
 msgstr "Big-Driver-Manager"
@@ -135,25 +156,11 @@ msgid "Ocorreu um erro e o driver não pode ser aplicado."
 msgstr ""
 "Παρουσιάστηκε σφάλμα και το πρόγραμμα οδήγησης δεν μπορεί να εφαρμοστεί."
 
-msgid ""
-"Digite sua senha para gerar um relatório removendo dados sensíveis, por "
-"exemplo, endereço de IP, ou cancele para utilizar as informações da tela "
-"anterior."
-msgstr ""
-"Εισάγετε τον κωδικό πρόσβασής σας για να δημιουργήσετε μια αναφορά που "
-"αφαιρεί ευαίσθητα δεδομένα, π.χ. διεύθυνση IP, ή ακυρώστε για να "
-"χρησιμοποιήσετε τις πληροφορίες από την προηγούμενη οθόνη."
-
-msgid "Digite sua senha para gerar um relatório mais completo."
-msgstr ""
-"Εισάγετε τον κωδικό πρόσβασής σας για να δημιουργήσετε μια πιο ολοκληρωμένη "
-"αναφορά."
-
 msgid "Enviando, aguarde..."
 msgstr "Αποστολή, παρακαλώ περιμένετε..."
 
-msgid "Resumo"
-msgstr "Περίληψη"
+msgid "Ver informações do dispositivo no Linux Hardware"
+msgstr "Προβολή πληροφοριών συσκευής στο υλικό Linux"
 
 msgid "Processador"
 msgstr "Επεξεργαστής"
@@ -164,8 +171,56 @@ msgstr "Μητρική πλακέτα"
 msgid "Memória"
 msgstr "Μνήμη"
 
+msgid "Swap (Memória Virtual)"
+msgstr "Swap (Εικονική μνήμη)"
+
+msgid "Áudio"
+msgstr "Ήχος"
+
 msgid "Rede"
 msgstr "Δίκτυο"
+
+msgid "Conexões de Rede"
+msgstr "Συνδέσεις δικτύου"
+
+msgid "Dispositivos e conexões USB"
+msgstr "Συσκευές και συνδέσεις USB"
+
+msgid "Portas PCI"
+msgstr "Θύρες PCI"
+
+msgid "Bateria"
+msgstr "Μπαταρία"
+
+msgid "Dispositivos de Armazenamento"
+msgstr "Συσκευές αποθήκευσης"
+
+msgid "Partições montadas"
+msgstr "Τοποθετημένα χωρίσματα"
+
+msgid "Partições desmontadas"
+msgstr "Αποσυναρμολογημένα χωρίσματα"
+
+msgid "Dispositivos lógicos"
+msgstr "Λογικές συσκευές"
+
+msgid "Raid"
+msgstr "Επιδρομή"
+
+msgid "Sistema"
+msgstr "Σύστημα"
+
+msgid "Informações de Sistema"
+msgstr "Πληροφορίες συστήματος"
+
+msgid "Repositórios"
+msgstr "Αποθετήρια"
+
+msgid "Temperatura"
+msgstr "Θερμοκρασία"
+
+msgid "Resumo"
+msgstr "Περίληψη"
 
 msgid "Usb"
 msgstr "Usb"
@@ -173,17 +228,11 @@ msgstr "Usb"
 msgid "Pci"
 msgstr "Pci"
 
-msgid "Bateria"
-msgstr "Μπαταρία"
-
 msgid "Armazenamento"
 msgstr "Αποθήκευση"
 
-msgid "Temperatura"
-msgstr "Θερμοκρασία"
-
-msgid "Áudio"
-msgstr "Ήχος"
+msgid "Mais informações"
+msgstr "Περισσότερες πληροφορίες"
 
 msgid "Pesquisar"
 msgstr "Αναζήτηση"
@@ -196,6 +245,21 @@ msgstr "Μνήμη RAM:"
 
 msgid "Vídeo:"
 msgstr "Βίντεο:"
+
+msgid "Instalado na partição:"
+msgstr "Εγκατεστημένο στο διαμέρισμα:"
+
+msgid "Tamanho da partição:"
+msgstr "Μέγεθος διαμερίσματος:"
+
+msgid "Espaço utilizado:"
+msgstr "Χώρος που χρησιμοποιείται:"
+
+msgid "Espaço livre:"
+msgstr "Ελεύθερος χώρος:"
+
+msgid "Data que o sistema foi instalado:"
+msgstr "Ημερομηνία εγκατάστασης του συστήματος:"
 
 msgid "Kernel em uso:"
 msgstr "Χρησιμοποιούμενος πυρήνας:"
@@ -218,41 +282,25 @@ msgstr ""
 "Δημιουργεί ένα αρχείο με πληροφορίες που μπορούν να δημοσιευτούν στο "
 "διαδίκτυο."
 
-msgid "Ver informações do dispositivo no Linux Hardware"
-msgstr "Προβολή πληροφοριών συσκευής στο υλικό Linux"
-
 msgid "Categoria"
 msgstr "Κατηγορία"
 
-msgid "Swap (Memória Virtual)"
-msgstr "Swap (Εικονική μνήμη)"
+msgid "ID"
+msgstr "ID"
 
-msgid "Conexões de Rede"
-msgstr "Συνδέσεις δικτύου"
+msgid "Info"
+msgstr "Πληροφορίες"
 
-msgid "Dispositivos e conexões USB"
-msgstr "Συσκευές και συνδέσεις USB"
+msgid ""
+"Digite sua senha para gerar um relatório removendo dados sensíveis, por "
+"exemplo, endereço de IP, ou cancele para utilizar as informações da tela "
+"anterior."
+msgstr ""
+"Εισάγετε τον κωδικό πρόσβασής σας για να δημιουργήσετε μια αναφορά που "
+"αφαιρεί ευαίσθητα δεδομένα, π.χ. διεύθυνση IP, ή ακυρώστε για να "
+"χρησιμοποιήσετε τις πληροφορίες από την προηγούμενη οθόνη."
 
-msgid "Portas PCI"
-msgstr "Θύρες PCI"
-
-msgid "Dispositivos de Armazenamento"
-msgstr "Συσκευές αποθήκευσης"
-
-msgid "Partições montadas"
-msgstr "Τοποθετημένα χωρίσματα"
-
-msgid "Partições desmontadas"
-msgstr "Αποσυναρμολογημένα χωρίσματα"
-
-msgid "Dispositivos lógicos"
-msgstr "Λογικές συσκευές"
-
-msgid "Raid"
-msgstr "Επιδρομή"
-
-msgid "Informações de Sistema"
-msgstr "Πληροφορίες συστήματος"
-
-msgid "Repositórios"
-msgstr "Αποθετήρια"
+msgid "Digite sua senha para gerar um relatório mais completo."
+msgstr ""
+"Εισάγετε τον κωδικό πρόσβασής σας για να δημιουργήσετε μια πιο ολοκληρωμένη "
+"αναφορά."

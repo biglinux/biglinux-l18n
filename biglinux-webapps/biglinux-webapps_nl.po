@@ -100,6 +100,21 @@ msgstr "Gevonden pictogrammen"
 msgid "Selecione o ícone preferido:"
 msgstr "Kies het gewenste pictogram:"
 
+msgid "Desenvolvimento"
+msgstr "Ontwikkeling"
+
+msgid "Escritório"
+msgstr "Kantoor"
+
+msgid "Gráficos"
+msgstr "Graphics"
+
+msgid "Jogos"
+msgstr "Spelletjes"
+
+msgid "Multimídia"
+msgstr "Multimedia"
+
 msgid "Tem certeza que deseja remover este WebApp?"
 msgstr "Weet u zeker dat u deze WebApp wilt verwijderen?"
 
@@ -117,6 +132,15 @@ msgstr "Kies de browser van uw voorkeur:"
 
 msgid "WebApps Nativos"
 msgstr "Native WebApps"
+
+msgid "Bom dia"
+msgstr "Goede morgen"
+
+msgid "Boa tarde"
+msgstr "Goedemiddag"
+
+msgid "Boa noite"
+msgstr "Goedenavond"
 
 msgid "Aguarde, estamos preparando para começar..."
 msgstr "Stand by, we maken ons klaar om te beginnen..."

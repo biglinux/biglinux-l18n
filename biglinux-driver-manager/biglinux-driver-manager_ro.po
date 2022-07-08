@@ -32,6 +32,12 @@ msgstr "Acest driver este proprietar."
 msgid "Este driver parece compatível com este computador."
 msgstr "Acest driver pare să fie compatibil cu acest computer."
 
+msgid "Remover"
+msgstr "Eliminați"
+
+msgid "Instalar"
+msgstr "Instalați"
+
 msgid ""
 "Já existe outro driver nVidia instalado, para instalar este driver, remova "
 "primeiro o driver instalado."
@@ -60,6 +66,12 @@ msgid ""
 msgstr ""
 "Doriți să vizualizați fișierul sau să îl trimiteți la transfer.sh, pentru a "
 "avea un URL cu datele de pe computerul dvs. într-un mod ușor de partajat?"
+
+msgid "Categorias"
+msgstr "Categorii"
+
+msgid "Principais"
+msgstr "Principal"
 
 msgid "Driver detectado:"
 msgstr "Driver detectat:"
@@ -91,14 +103,23 @@ msgstr "Scanner"
 msgid "TV Digital"
 msgstr "Televiziune digitală"
 
+msgid "Webcam"
+msgstr "Webcam"
+
 msgid "Touchscreen"
 msgstr "Ecran tactil"
 
 msgid "Som"
 msgstr "Sunet"
 
+msgid "Outros"
+msgstr "Altele"
+
 msgid "Pesquisar Driver ou Firmware"
 msgstr "Căutare driver sau firmware"
+
+msgid "Resultado da pesquisa"
+msgstr "Rezultatul căutării"
 
 msgid "Big-Driver-Manager"
 msgstr "Big-Driver-Manager"
@@ -130,23 +151,11 @@ msgstr "Șofer"
 msgid "Ocorreu um erro e o driver não pode ser aplicado."
 msgstr "A apărut o eroare și nu se poate aplica driverul."
 
-msgid ""
-"Digite sua senha para gerar um relatório removendo dados sensíveis, por "
-"exemplo, endereço de IP, ou cancele para utilizar as informações da tela "
-"anterior."
-msgstr ""
-"Introduceți parola pentru a genera un raport care elimină datele sensibile, "
-"de exemplu, adresa IP, sau anulați pentru a utiliza informațiile din ecranul "
-"anterior."
-
-msgid "Digite sua senha para gerar um relatório mais completo."
-msgstr "Introduceți parola dvs. pentru a genera un raport mai complet."
-
 msgid "Enviando, aguarde..."
 msgstr "Trimitere, vă rugăm să așteptați..."
 
-msgid "Resumo"
-msgstr "Rezumat"
+msgid "Ver informações do dispositivo no Linux Hardware"
+msgstr "Vizualizați informații despre dispozitiv pe Linux Hardware"
 
 msgid "Processador"
 msgstr "Procesor"
@@ -157,8 +166,56 @@ msgstr "Placa de bază"
 msgid "Memória"
 msgstr "Memorie"
 
+msgid "Swap (Memória Virtual)"
+msgstr "Swap (memorie virtuală)"
+
+msgid "Áudio"
+msgstr "Audio"
+
 msgid "Rede"
 msgstr "Rețea"
+
+msgid "Conexões de Rede"
+msgstr "Conexiuni de rețea"
+
+msgid "Dispositivos e conexões USB"
+msgstr "Dispozitive și conexiuni USB"
+
+msgid "Portas PCI"
+msgstr "Porturi PCI"
+
+msgid "Bateria"
+msgstr "Baterie"
+
+msgid "Dispositivos de Armazenamento"
+msgstr "Dispozitive de stocare"
+
+msgid "Partições montadas"
+msgstr "Partiții montate"
+
+msgid "Partições desmontadas"
+msgstr "Partiții demontate"
+
+msgid "Dispositivos lógicos"
+msgstr "Dispozitive logice"
+
+msgid "Raid"
+msgstr "Raid"
+
+msgid "Sistema"
+msgstr "Sistem"
+
+msgid "Informações de Sistema"
+msgstr "Informații de sistem"
+
+msgid "Repositórios"
+msgstr "Depozite"
+
+msgid "Temperatura"
+msgstr "Temperatura"
+
+msgid "Resumo"
+msgstr "Rezumat"
 
 msgid "Usb"
 msgstr "Usb"
@@ -166,17 +223,11 @@ msgstr "Usb"
 msgid "Pci"
 msgstr "Pci"
 
-msgid "Bateria"
-msgstr "Baterie"
-
 msgid "Armazenamento"
 msgstr "Depozitare"
 
-msgid "Temperatura"
-msgstr "Temperatura"
-
-msgid "Áudio"
-msgstr "Audio"
+msgid "Mais informações"
+msgstr "Mai multe informații"
 
 msgid "Pesquisar"
 msgstr "Căutare"
@@ -189,6 +240,21 @@ msgstr "Memorie RAM:"
 
 msgid "Vídeo:"
 msgstr "Video:"
+
+msgid "Instalado na partição:"
+msgstr "Instalat pe partiție:"
+
+msgid "Tamanho da partição:"
+msgstr "Dimensiunea partiției:"
+
+msgid "Espaço utilizado:"
+msgstr "Spațiu utilizat:"
+
+msgid "Espaço livre:"
+msgstr "Spațiu liber:"
+
+msgid "Data que o sistema foi instalado:"
+msgstr "Data la care a fost instalat sistemul:"
 
 msgid "Kernel em uso:"
 msgstr "Kernel în uz:"
@@ -210,41 +276,23 @@ msgid "Cria um arquivo com informações que pode ser publicado na internet."
 msgstr ""
 "Acesta creează un fișier cu informații care pot fi publicate pe internet."
 
-msgid "Ver informações do dispositivo no Linux Hardware"
-msgstr "Vizualizați informații despre dispozitiv pe Linux Hardware"
-
 msgid "Categoria"
 msgstr "Categoria"
 
-msgid "Swap (Memória Virtual)"
-msgstr "Swap (memorie virtuală)"
+msgid "ID"
+msgstr "ID"
 
-msgid "Conexões de Rede"
-msgstr "Conexiuni de rețea"
+msgid "Info"
+msgstr "Informații"
 
-msgid "Dispositivos e conexões USB"
-msgstr "Dispozitive și conexiuni USB"
+msgid ""
+"Digite sua senha para gerar um relatório removendo dados sensíveis, por "
+"exemplo, endereço de IP, ou cancele para utilizar as informações da tela "
+"anterior."
+msgstr ""
+"Introduceți parola pentru a genera un raport care elimină datele sensibile, "
+"de exemplu, adresa IP, sau anulați pentru a utiliza informațiile din ecranul "
+"anterior."
 
-msgid "Portas PCI"
-msgstr "Porturi PCI"
-
-msgid "Dispositivos de Armazenamento"
-msgstr "Dispozitive de stocare"
-
-msgid "Partições montadas"
-msgstr "Partiții montate"
-
-msgid "Partições desmontadas"
-msgstr "Partiții demontate"
-
-msgid "Dispositivos lógicos"
-msgstr "Dispozitive logice"
-
-msgid "Raid"
-msgstr "Raid"
-
-msgid "Informações de Sistema"
-msgstr "Informații de sistem"
-
-msgid "Repositórios"
-msgstr "Depozite"
+msgid "Digite sua senha para gerar um relatório mais completo."
+msgstr "Introduceți parola dvs. pentru a genera un raport mai complet."

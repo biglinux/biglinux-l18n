@@ -32,6 +32,12 @@ msgstr "このドライバはプロプライエタリです。"
 msgid "Este driver parece compatível com este computador."
 msgstr "このドライバはこのコンピュータと互換性があるようです。"
 
+msgid "Remover"
+msgstr "削除"
+
+msgid "Instalar"
+msgstr "インストール"
+
 msgid ""
 "Já existe outro driver nVidia instalado, para instalar este driver, remova "
 "primeiro o driver instalado."
@@ -57,6 +63,12 @@ msgid ""
 "Deseja visualizar o arquivo ou envia-lo ao site transfer.sh, para ter uma "
 "URL com os dados do seu computador de forma fácil de compartilhar?"
 msgstr "ファイルを表示したり、transfer.shに送信して、共有する簡単な方法でコンピュータからのデータでURLを持つようにしたいですか？"
+
+msgid "Categorias"
+msgstr "カテゴリー"
+
+msgid "Principais"
+msgstr "メイン"
 
 msgid "Driver detectado:"
 msgstr "ドライバーを検出しました。"
@@ -88,14 +100,23 @@ msgstr "スキャナ"
 msgid "TV Digital"
 msgstr "デジタルテレビ"
 
+msgid "Webcam"
+msgstr "ウェブカメラ"
+
 msgid "Touchscreen"
 msgstr "タッチスクリーン"
 
 msgid "Som"
 msgstr "サウンド"
 
+msgid "Outros"
+msgstr "その他"
+
 msgid "Pesquisar Driver ou Firmware"
 msgstr "ドライバーまたはファームウェアの検索"
+
+msgid "Resultado da pesquisa"
+msgstr "検索結果"
 
 msgid "Big-Driver-Manager"
 msgstr "ビッグドライバーマネージャ"
@@ -123,20 +144,11 @@ msgstr "ドライバー"
 msgid "Ocorreu um erro e o driver não pode ser aplicado."
 msgstr "エラーが発生したため、ドライバを適用できません。"
 
-msgid ""
-"Digite sua senha para gerar um relatório removendo dados sensíveis, por "
-"exemplo, endereço de IP, ou cancele para utilizar as informações da tela "
-"anterior."
-msgstr "IPアドレスなどの機密データを削除してレポートを作成する場合はパスワードを入力し、前の画面の情報を使用する場合はキャンセルしてください。"
-
-msgid "Digite sua senha para gerar um relatório mais completo."
-msgstr "パスワードを入力すると、より詳細なレポートが作成されます。"
-
 msgid "Enviando, aguarde..."
 msgstr "送信中です、お待ちください..."
 
-msgid "Resumo"
-msgstr "概要"
+msgid "Ver informações do dispositivo no Linux Hardware"
+msgstr "Linux Hardwareのデバイス情報を表示する"
 
 msgid "Processador"
 msgstr "プロセッサー"
@@ -147,8 +159,56 @@ msgstr "マザーボード"
 msgid "Memória"
 msgstr "メモリ"
 
+msgid "Swap (Memória Virtual)"
+msgstr "スワップ(仮想メモリ)"
+
+msgid "Áudio"
+msgstr "オーディオ"
+
 msgid "Rede"
 msgstr "ネットワーク"
+
+msgid "Conexões de Rede"
+msgstr "ネットワーク接続"
+
+msgid "Dispositivos e conexões USB"
+msgstr "USBデバイスと接続"
+
+msgid "Portas PCI"
+msgstr "PCIポート"
+
+msgid "Bateria"
+msgstr "バッテリー"
+
+msgid "Dispositivos de Armazenamento"
+msgstr "ストレージデバイス"
+
+msgid "Partições montadas"
+msgstr "マウントパーティション"
+
+msgid "Partições desmontadas"
+msgstr "解体されたパーティション"
+
+msgid "Dispositivos lógicos"
+msgstr "ロジックデバイス"
+
+msgid "Raid"
+msgstr "レイド"
+
+msgid "Sistema"
+msgstr "システム"
+
+msgid "Informações de Sistema"
+msgstr "システム情報"
+
+msgid "Repositórios"
+msgstr "レポジトリー"
+
+msgid "Temperatura"
+msgstr "温度"
+
+msgid "Resumo"
+msgstr "概要"
 
 msgid "Usb"
 msgstr "ユーエスビー"
@@ -156,17 +216,11 @@ msgstr "ユーエスビー"
 msgid "Pci"
 msgstr "Pci"
 
-msgid "Bateria"
-msgstr "バッテリー"
-
 msgid "Armazenamento"
 msgstr "ストレージ"
 
-msgid "Temperatura"
-msgstr "温度"
-
-msgid "Áudio"
-msgstr "オーディオ"
+msgid "Mais informações"
+msgstr "詳細はこちら"
 
 msgid "Pesquisar"
 msgstr "検索"
@@ -179,6 +233,21 @@ msgstr "RAMメモリ："
 
 msgid "Vídeo:"
 msgstr "ビデオ："
+
+msgid "Instalado na partição:"
+msgstr "パーティションにインストールされています。"
+
+msgid "Tamanho da partição:"
+msgstr "パーティションサイズ。"
+
+msgid "Espaço utilizado:"
+msgstr "使用するスペース"
+
+msgid "Espaço livre:"
+msgstr "空間をクリアにする。"
+
+msgid "Data que o sistema foi instalado:"
+msgstr "システムがインストールされた日付。"
 
 msgid "Kernel em uso:"
 msgstr "使用中のカーネル："
@@ -197,41 +266,20 @@ msgstr "レポート作成"
 msgid "Cria um arquivo com informações que pode ser publicado na internet."
 msgstr "インターネット上で公開できる情報を含むファイルを作成します。"
 
-msgid "Ver informações do dispositivo no Linux Hardware"
-msgstr "Linux Hardwareのデバイス情報を表示する"
-
 msgid "Categoria"
 msgstr "カテゴリー"
 
-msgid "Swap (Memória Virtual)"
-msgstr "スワップ(仮想メモリ)"
+msgid "ID"
+msgstr "ID"
 
-msgid "Conexões de Rede"
-msgstr "ネットワーク接続"
+msgid "Info"
+msgstr "情報"
 
-msgid "Dispositivos e conexões USB"
-msgstr "USBデバイスと接続"
+msgid ""
+"Digite sua senha para gerar um relatório removendo dados sensíveis, por "
+"exemplo, endereço de IP, ou cancele para utilizar as informações da tela "
+"anterior."
+msgstr "IPアドレスなどの機密データを削除してレポートを作成する場合はパスワードを入力し、前の画面の情報を使用する場合はキャンセルしてください。"
 
-msgid "Portas PCI"
-msgstr "PCIポート"
-
-msgid "Dispositivos de Armazenamento"
-msgstr "ストレージデバイス"
-
-msgid "Partições montadas"
-msgstr "マウントパーティション"
-
-msgid "Partições desmontadas"
-msgstr "解体されたパーティション"
-
-msgid "Dispositivos lógicos"
-msgstr "ロジックデバイス"
-
-msgid "Raid"
-msgstr "レイド"
-
-msgid "Informações de Sistema"
-msgstr "システム情報"
-
-msgid "Repositórios"
-msgstr "レポジトリー"
+msgid "Digite sua senha para gerar um relatório mais completo."
+msgstr "パスワードを入力すると、より詳細なレポートが作成されます。"

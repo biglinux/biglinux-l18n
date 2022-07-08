@@ -32,12 +32,6 @@ msgstr "Микрофонен филтър"
 msgid "Ativando"
 msgstr "Активиране на"
 
-msgid "Filtro de ruído"
-msgstr "Шумов филтър"
-
-msgid "Iniciar automaticamente"
-msgstr "Стартирайте автоматично"
-
 msgid "Configuração aplicada"
 msgstr "Приложена конфигурация"
 
@@ -68,3 +62,22 @@ msgstr ""
 
 msgid "Cancelado, nenhuma configuração foi removida!"
 msgstr "Отменено, не е премахната конфигурация!"
+
+msgid ""
+"Este filtro utiliza técnicas de redes neurais para remover ruídos e sons do "
+"ambiente que atrapalham gravações e chamadas online."
+msgstr ""
+"Този филтър използва техники на невронни мрежи, за да премахва околния шум и "
+"звуците, които пречат на онлайн записите и обажданията."
+
+msgid "Gerenciador de Áudio"
+msgstr "Аудио мениджър"
+
+msgid "Frequências sonoras:"
+msgstr "Звукови честоти:"
+
+msgid "Filtro de ruído"
+msgstr "Шумов филтър"
+
+msgid "Iniciar automaticamente"
+msgstr "Стартирайте автоматично"

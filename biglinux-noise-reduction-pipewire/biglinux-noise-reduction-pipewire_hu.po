@@ -32,12 +32,6 @@ msgstr "Mikrofon szűrő"
 msgid "Ativando"
 msgstr "A  aktiválása"
 
-msgid "Filtro de ruído"
-msgstr "Zajszűrő"
-
-msgid "Iniciar automaticamente"
-msgstr "Automatikus indítás"
-
 msgid "Configuração aplicada"
 msgstr "Alkalmazott konfiguráció"
 
@@ -67,3 +61,22 @@ msgstr ""
 
 msgid "Cancelado, nenhuma configuração foi removida!"
 msgstr "Törölték, nem került eltávolításra semmilyen konfiguráció!"
+
+msgid ""
+"Este filtro utiliza técnicas de redes neurais para remover ruídos e sons do "
+"ambiente que atrapalham gravações e chamadas online."
+msgstr ""
+"Ez a szűrő neurális hálózati technikákat használ a környezeti zajok és az "
+"online felvételeket és hívásokat zavaró hangok eltávolítására."
+
+msgid "Gerenciador de Áudio"
+msgstr "Audio Manager"
+
+msgid "Frequências sonoras:"
+msgstr "Hangfrekvenciák:"
+
+msgid "Filtro de ruído"
+msgstr "Zajszűrő"
+
+msgid "Iniciar automaticamente"
+msgstr "Automatikus indítás"

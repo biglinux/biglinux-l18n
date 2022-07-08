@@ -30,20 +30,11 @@ msgstr ""
 "可以看到所做的改变\n"
 "在其他程序中你的网络摄像头的图像。"
 
-msgid "Webcam"
-msgstr "网络摄像头"
-
 msgid "Category"
 msgstr "类别"
 
 msgid "Name"
 msgstr "命名"
-
-msgid "ID"
-msgstr "身份证"
-
-msgid "Info"
-msgstr "信息"
 
 msgid ""
 "O relatório foi salvo no arquivo $FILE_TO_SAVE\n"
@@ -65,15 +56,6 @@ msgstr "BigLinux 簡介"
 
 msgid "Central de Controle"
 msgstr "控制中心"
-
-msgid "Bom dia"
-msgstr "早上好"
-
-msgid "Boa tarde"
-msgstr "下午好"
-
-msgid "Boa noite"
-msgstr "晚安"
 
 msgid "Aguarde, carregando..."
 msgstr "准备好了，正在加载..."
@@ -97,9 +79,6 @@ msgid ""
 "Disponiblizamos configurações completas para você selecionar de forma "
 "extremamente simples."
 msgstr "我们以非常简单的方式提供完整的配置供你选择。"
-
-msgid "Temas, Desktop e Ajustes"
-msgstr "主题、桌面和设置"
 
 msgid "Escolha seu Avatar"
 msgstr "选择你的头像"
@@ -153,9 +132,6 @@ msgstr "降噪器"
 
 msgid "Configurar a voz do sistema (TTS)"
 msgstr "设置系统语音（TTS）"
-
-msgid "OCR para PDF"
-msgstr "用于PDF的OCR"
 
 msgid "Doação e Redes sociais"
 msgstr "捐赠和社会网络"
@@ -414,12 +390,6 @@ msgstr "屏幕设置已被重置。"
 msgid "Configurações da tela"
 msgstr "屏幕设置"
 
-msgid "Categorias"
-msgstr "类别"
-
-msgid "Principais"
-msgstr "主要内容"
-
 msgid "Aparência"
 msgstr "外观"
 
@@ -447,23 +417,11 @@ msgstr "隐私"
 msgid "Servidor"
 msgstr "服务器"
 
-msgid "Desenvolvimento"
-msgstr "发展"
-
 msgid "Sobre"
 msgstr "关于"
 
-msgid "Outros"
-msgstr "其他"
-
 msgid "Pesquisar..."
 msgstr "搜索..."
-
-msgid "Resultado da pesquisa"
-msgstr "搜索结果"
-
-msgid "Abrir"
-msgstr "打開"
 
 msgid "Temas, desktop e ajustes"
 msgstr "主题、桌面和设置"

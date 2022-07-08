@@ -78,3 +78,6 @@ msgstr ".deb paketi paigaldamine"
 
 msgid "Convertendo o arquivo, aguarde, pode demorar alguns minutos..."
 msgstr "Faili konverteerimine, oodake, see võib võtta paar minutit..."
+
+msgid "Concluído!"
+msgstr "Valmis!"

@@ -61,6 +61,9 @@ msgid ""
 "anônima."
 msgstr "*大多数服务器需要登录和密码以列出可用的共享，留空以执行匿名搜索。"
 
+msgid "Cancelar"
+msgstr "取消"
+
 msgid "Próximo"
 msgstr "下一页"
 
@@ -72,3 +75,9 @@ msgstr "与用户一起进行的搜索。"
 
 msgid "na rede:"
 msgstr "在网络上。"
+
+msgid "Voltar"
+msgstr "溯源"
+
+msgid "Fechar"
+msgstr "关闭"

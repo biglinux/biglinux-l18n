@@ -30,20 +30,11 @@ msgstr ""
 "De ändringar som gjorts kan ses\n"
 "i bilden av webbkameran i andra program."
 
-msgid "Webcam"
-msgstr "Webbkamera"
-
 msgid "Category"
 msgstr "Kategori"
 
 msgid "Name"
 msgstr "Namn"
-
-msgid "ID"
-msgstr "ID"
-
-msgid "Info"
-msgstr "Info"
 
 msgid ""
 "O relatório foi salvo no arquivo $FILE_TO_SAVE\n"
@@ -65,15 +56,6 @@ msgstr "Introduktion till BigLinux"
 
 msgid "Central de Controle"
 msgstr "Kontrollcenter"
-
-msgid "Bom dia"
-msgstr "God morgon"
-
-msgid "Boa tarde"
-msgstr "God eftermiddag"
-
-msgid "Boa noite"
-msgstr "God kväll"
 
 msgid "Aguarde, carregando..."
 msgstr "Var beredd på att ladda..."
@@ -99,9 +81,6 @@ msgid ""
 msgstr ""
 "Vi tillhandahåller kompletta konfigurationer som du kan välja mellan på ett "
 "mycket enkelt sätt."
-
-msgid "Temas, Desktop e Ajustes"
-msgstr "Teman, skrivbord och inställningar"
 
 msgid "Escolha seu Avatar"
 msgstr "Välj din avatar"
@@ -160,9 +139,6 @@ msgstr "Ljudreducerare"
 
 msgid "Configurar a voz do sistema (TTS)"
 msgstr "Ställa in systemröst (TTS)"
-
-msgid "OCR para PDF"
-msgstr "OCR för PDF"
 
 msgid "Doação e Redes sociais"
 msgstr "Donationer och sociala nätverk"
@@ -436,12 +412,6 @@ msgstr "Skärminställningarna har återställts."
 msgid "Configurações da tela"
 msgstr "Skärminställningar"
 
-msgid "Categorias"
-msgstr "Kategorier"
-
-msgid "Principais"
-msgstr "Huvudsidan"
-
 msgid "Aparência"
 msgstr "Utseende"
 
@@ -469,23 +439,11 @@ msgstr "Integritet"
 msgid "Servidor"
 msgstr "Server"
 
-msgid "Desenvolvimento"
-msgstr "Utveckling"
-
 msgid "Sobre"
 msgstr "Om"
 
-msgid "Outros"
-msgstr "Övriga"
-
 msgid "Pesquisar..."
 msgstr "Sök..."
-
-msgid "Resultado da pesquisa"
-msgstr "Sökresultat"
-
-msgid "Abrir"
-msgstr "Öppna"
 
 msgid "Temas, desktop e ajustes"
 msgstr "Teman, skrivbord och inställningar"

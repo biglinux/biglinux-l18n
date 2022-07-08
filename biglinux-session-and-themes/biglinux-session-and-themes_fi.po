@@ -17,6 +17,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit"
 
+msgid "Temas, Desktop e Ajustes"
+msgstr "Teemat, työpöytä ja asetukset"
+
 msgid ""
 "Configuração alterada, se estiver utilizando o navegador, reinicie-o para "
 "que a nova configuração seja aplicada."
@@ -145,6 +148,12 @@ msgstr "Etsi arkistoista"
 
 msgid "Bloquear a área de trabalho"
 msgstr "Lukitse työpöytä"
+
+msgid "Ocultar Gerenciador de Boot (GRUB)"
+msgstr "Piilota käynnistyksenhallinta (GRUB)"
+
+msgid "Ativar o NumLock ao ligar o sistema"
+msgstr "Ota NumLock käyttöön järjestelmän käynnistyessä"
 
 msgid "Tema aplicado"
 msgstr "Sovellettu teema"

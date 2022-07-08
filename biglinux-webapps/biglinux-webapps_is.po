@@ -99,6 +99,21 @@ msgstr "Fann tákn"
 msgid "Selecione o ícone preferido:"
 msgstr "Veldu valinn táknið:"
 
+msgid "Desenvolvimento"
+msgstr "Þróun"
+
+msgid "Escritório"
+msgstr "Skrifstofa"
+
+msgid "Gráficos"
+msgstr "Grafík"
+
+msgid "Jogos"
+msgstr "Leikir"
+
+msgid "Multimídia"
+msgstr "Margmiðlun"
+
 msgid "Tem certeza que deseja remover este WebApp?"
 msgstr "Ertu viss um að þú viljir fjarlægja þetta WebApp?"
 
@@ -116,6 +131,15 @@ msgstr "Veldu valinn vafra:"
 
 msgid "WebApps Nativos"
 msgstr "Innfædd vefforrit"
+
+msgid "Bom dia"
+msgstr "Salaam"
+
+msgid "Boa tarde"
+msgstr "Góðan daginn"
+
+msgid "Boa noite"
+msgstr "Góða nótt"
 
 msgid "Aguarde, estamos preparando para começar..."
 msgstr "Bíddu, við erum að verða tilbúin til að byrja..."

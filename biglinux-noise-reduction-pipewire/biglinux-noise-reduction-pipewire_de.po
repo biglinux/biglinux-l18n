@@ -32,12 +32,6 @@ msgstr "Mikrofonfilter"
 msgid "Ativando"
 msgstr "Aktivieren"
 
-msgid "Filtro de ruído"
-msgstr "Rauschfilter"
-
-msgid "Iniciar automaticamente"
-msgstr "Auto-Start"
-
 msgid "Configuração aplicada"
 msgstr "Angewandte Konfiguration"
 
@@ -66,3 +60,22 @@ msgstr ""
 
 msgid "Cancelado, nenhuma configuração foi removida!"
 msgstr "Abgebrochen, es wurden keine Einstellungen entfernt!"
+
+msgid ""
+"Este filtro utiliza técnicas de redes neurais para remover ruídos e sons do "
+"ambiente que atrapalham gravações e chamadas online."
+msgstr ""
+"Dieser Filter verwendet neuronale Netzwerktechniken, um Umgebungsgeräusche "
+"und Klänge zu entfernen, die Online-Aufnahmen und Anrufe stören."
+
+msgid "Gerenciador de Áudio"
+msgstr "Audio Manager"
+
+msgid "Frequências sonoras:"
+msgstr "Tonfrequenzen:"
+
+msgid "Filtro de ruído"
+msgstr "Rauschfilter"
+
+msgid "Iniciar automaticamente"
+msgstr "Auto-Start"

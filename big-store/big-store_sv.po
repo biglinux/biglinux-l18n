@@ -30,12 +30,6 @@ msgstr "Big-Store är öppen."
 msgid "Big-Store"
 msgstr "Big-Store"
 
-msgid "Instalar"
-msgstr "Installera"
-
-msgid "Remover"
-msgstr "Ta bort"
-
 msgid ""
 "Para os programas Snap aparecerem no menu do sistema finalize a sessão e "
 "faça login novamente."
@@ -120,9 +114,6 @@ msgstr ""
 "Visar endast valda program<br>\n"
 "och döljer resultat som är användbara <br>\n"
 "endast för avancerade användare."
-
-msgid "Aplicando - Aguarde"
-msgstr "Ansökan - Vänta"
 
 msgid "Procurar programa"
 msgstr "Sök program"
@@ -280,24 +271,6 @@ msgstr "Flatpak-program"
 msgid "Programas Snap"
 msgstr "Snabbprogram"
 
-msgid "Jogos"
-msgstr "Spel"
-
-msgid "Instalado na partição:"
-msgstr "Installerad på partitionen:"
-
-msgid "Tamanho da partição:"
-msgstr "Partitionsstorlek:"
-
-msgid "Espaço utilizado:"
-msgstr "Utrymme som används:"
-
-msgid "Espaço livre:"
-msgstr "Klart utrymme:"
-
-msgid "Data que o sistema foi instalado:"
-msgstr "Datum då systemet installerades:"
-
 msgid "Pacotes nativos e AUR"
 msgstr "Inhemska paket och AUR"
 
@@ -350,12 +323,6 @@ msgstr ""
 "Programmet är i .deb-format, vilket ger den bästa integrationen med systemet."
 ""
 
-msgid "Mais informações"
-msgstr "Mer information"
-
-msgid "Voltar"
-msgstr "Tillbaka"
-
 msgid "Dependências a instalar"
 msgstr "Beroenden som ska installeras"
 
@@ -385,9 +352,6 @@ msgstr "Tillgänglig version:"
 
 msgid "Repositório:"
 msgstr "Förvaringsplats:"
-
-msgid "Cancelar"
-msgstr "Avbryt"
 
 msgid "Instalando"
 msgstr "Installation av"

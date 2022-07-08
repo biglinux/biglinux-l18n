@@ -32,6 +32,12 @@ msgstr "Bu sürücü tescillidir."
 msgid "Este driver parece compatível com este computador."
 msgstr "Bu sürücü bu bilgisayarla uyumlu görünüyor."
 
+msgid "Remover"
+msgstr "Kaldırmak"
+
+msgid "Instalar"
+msgstr "Kurulum"
+
 msgid ""
 "Já existe outro driver nVidia instalado, para instalar este driver, remova "
 "primeiro o driver instalado."
@@ -61,6 +67,12 @@ msgstr ""
 "Dosyayı görüntülemek mi yoksa bilgisayarınızdaki verileri kolay bir şekilde "
 "paylaşmak için bir URL'ye sahip olmak için transfer.sh'ye göndermek mi "
 "istiyorsunuz?"
+
+msgid "Categorias"
+msgstr "Kategoriler"
+
+msgid "Principais"
+msgstr "Ana"
 
 msgid "Driver detectado:"
 msgstr "Sürücü tespit edildi:"
@@ -92,14 +104,23 @@ msgstr "Tarayıcı"
 msgid "TV Digital"
 msgstr "Dijital TV"
 
+msgid "Webcam"
+msgstr "Web kamerası"
+
 msgid "Touchscreen"
 msgstr "Dokunmatik ekran"
 
 msgid "Som"
 msgstr "Ses"
 
+msgid "Outros"
+msgstr "Diğer"
+
 msgid "Pesquisar Driver ou Firmware"
 msgstr "Sürücü veya Ürün Yazılımını Arama"
+
+msgid "Resultado da pesquisa"
+msgstr "Arama sonucu"
 
 msgid "Big-Driver-Manager"
 msgstr "Big-Driver-Manager"
@@ -131,22 +152,11 @@ msgstr "Sürücü"
 msgid "Ocorreu um erro e o driver não pode ser aplicado."
 msgstr "Bir hata oluştu ve sürücü uygulanamıyor."
 
-msgid ""
-"Digite sua senha para gerar um relatório removendo dados sensíveis, por "
-"exemplo, endereço de IP, ou cancele para utilizar as informações da tela "
-"anterior."
-msgstr ""
-"IP adresi gibi hassas verileri kaldıran bir rapor oluşturmak için şifrenizi "
-"girin veya önceki ekrandaki bilgileri kullanmak için iptal edin."
-
-msgid "Digite sua senha para gerar um relatório mais completo."
-msgstr "Daha eksiksiz bir rapor oluşturmak için şifrenizi girin."
-
 msgid "Enviando, aguarde..."
 msgstr "Gönderiliyor, lütfen bekleyin..."
 
-msgid "Resumo"
-msgstr "Özet"
+msgid "Ver informações do dispositivo no Linux Hardware"
+msgstr "Linux Donanımında cihaz bilgilerini görüntüleme"
 
 msgid "Processador"
 msgstr "İşlemci"
@@ -157,8 +167,56 @@ msgstr "Anakart"
 msgid "Memória"
 msgstr "Hafıza"
 
+msgid "Swap (Memória Virtual)"
+msgstr "Swap (Sanal Bellek)"
+
+msgid "Áudio"
+msgstr "Ses"
+
 msgid "Rede"
 msgstr "Şebeke"
+
+msgid "Conexões de Rede"
+msgstr "Ağ Bağlantıları"
+
+msgid "Dispositivos e conexões USB"
+msgstr "USB aygıtları ve bağlantıları"
+
+msgid "Portas PCI"
+msgstr "PCI bağlantı noktaları"
+
+msgid "Bateria"
+msgstr "Akü"
+
+msgid "Dispositivos de Armazenamento"
+msgstr "Depolama Cihazları"
+
+msgid "Partições montadas"
+msgstr "Monte edilmiş bölmeler"
+
+msgid "Partições desmontadas"
+msgstr "Sökülmüş bölmeler"
+
+msgid "Dispositivos lógicos"
+msgstr "Mantıksal cihazlar"
+
+msgid "Raid"
+msgstr "Baskın"
+
+msgid "Sistema"
+msgstr "Sistem"
+
+msgid "Informações de Sistema"
+msgstr "Sistem Bilgileri"
+
+msgid "Repositórios"
+msgstr "Depolar"
+
+msgid "Temperatura"
+msgstr "Sıcaklık"
+
+msgid "Resumo"
+msgstr "Özet"
 
 msgid "Usb"
 msgstr "Usb"
@@ -166,17 +224,11 @@ msgstr "Usb"
 msgid "Pci"
 msgstr "Pci"
 
-msgid "Bateria"
-msgstr "Akü"
-
 msgid "Armazenamento"
 msgstr "Depolama"
 
-msgid "Temperatura"
-msgstr "Sıcaklık"
-
-msgid "Áudio"
-msgstr "Ses"
+msgid "Mais informações"
+msgstr "Daha fazla bilgi"
 
 msgid "Pesquisar"
 msgstr "Arama"
@@ -189,6 +241,21 @@ msgstr "RAM bellek:"
 
 msgid "Vídeo:"
 msgstr "Video:"
+
+msgid "Instalado na partição:"
+msgstr "Bölüme yüklendi:"
+
+msgid "Tamanho da partição:"
+msgstr "Bölüm boyutu:"
+
+msgid "Espaço utilizado:"
+msgstr "Kullanılan alan:"
+
+msgid "Espaço livre:"
+msgstr "Boş alan:"
+
+msgid "Data que o sistema foi instalado:"
+msgstr "Sistemin kurulduğu tarih:"
 
 msgid "Kernel em uso:"
 msgstr "Çekirdek kullanımda:"
@@ -209,41 +276,22 @@ msgstr "Rapor Oluştur"
 msgid "Cria um arquivo com informações que pode ser publicado na internet."
 msgstr "İnternette yayınlanabilecek bilgileri içeren bir dosya oluşturur."
 
-msgid "Ver informações do dispositivo no Linux Hardware"
-msgstr "Linux Donanımında cihaz bilgilerini görüntüleme"
-
 msgid "Categoria"
 msgstr "Kategori"
 
-msgid "Swap (Memória Virtual)"
-msgstr "Swap (Sanal Bellek)"
+msgid "ID"
+msgstr "KIMLIK"
 
-msgid "Conexões de Rede"
-msgstr "Ağ Bağlantıları"
+msgid "Info"
+msgstr "Bilgi"
 
-msgid "Dispositivos e conexões USB"
-msgstr "USB aygıtları ve bağlantıları"
+msgid ""
+"Digite sua senha para gerar um relatório removendo dados sensíveis, por "
+"exemplo, endereço de IP, ou cancele para utilizar as informações da tela "
+"anterior."
+msgstr ""
+"IP adresi gibi hassas verileri kaldıran bir rapor oluşturmak için şifrenizi "
+"girin veya önceki ekrandaki bilgileri kullanmak için iptal edin."
 
-msgid "Portas PCI"
-msgstr "PCI bağlantı noktaları"
-
-msgid "Dispositivos de Armazenamento"
-msgstr "Depolama Cihazları"
-
-msgid "Partições montadas"
-msgstr "Monte edilmiş bölmeler"
-
-msgid "Partições desmontadas"
-msgstr "Sökülmüş bölmeler"
-
-msgid "Dispositivos lógicos"
-msgstr "Mantıksal cihazlar"
-
-msgid "Raid"
-msgstr "Baskın"
-
-msgid "Informações de Sistema"
-msgstr "Sistem Bilgileri"
-
-msgid "Repositórios"
-msgstr "Depolar"
+msgid "Digite sua senha para gerar um relatório mais completo."
+msgstr "Daha eksiksiz bir rapor oluşturmak için şifrenizi girin."

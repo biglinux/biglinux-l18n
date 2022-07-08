@@ -32,12 +32,6 @@ msgstr "Filtro de micrófono"
 msgid "Ativando"
 msgstr "Activando"
 
-msgid "Filtro de ruído"
-msgstr "Filtro de ruido"
-
-msgid "Iniciar automaticamente"
-msgstr "Autoencendido"
-
 msgid "Configuração aplicada"
 msgstr "Configuración aplicada"
 
@@ -67,3 +61,23 @@ msgstr ""
 
 msgid "Cancelado, nenhuma configuração foi removida!"
 msgstr "¡Cancelado, no se eliminó ninguna configuración!"
+
+msgid ""
+"Este filtro utiliza técnicas de redes neurais para remover ruídos e sons do "
+"ambiente que atrapalham gravações e chamadas online."
+msgstr ""
+"Este filtro utiliza técnicas de redes neuronales para eliminar el ruido "
+"ambiental y los sonidos que perturban las grabaciones y las llamadas en "
+"línea."
+
+msgid "Gerenciador de Áudio"
+msgstr "Gestor de audio"
+
+msgid "Frequências sonoras:"
+msgstr "Frecuencias de sonido:"
+
+msgid "Filtro de ruído"
+msgstr "Filtro de ruido"
+
+msgid "Iniciar automaticamente"
+msgstr "Autoencendido"

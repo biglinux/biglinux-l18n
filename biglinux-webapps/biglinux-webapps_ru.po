@@ -100,6 +100,21 @@ msgstr "Найденные иконки"
 msgid "Selecione o ícone preferido:"
 msgstr "Выберите нужный значок:"
 
+msgid "Desenvolvimento"
+msgstr "Разработка"
+
+msgid "Escritório"
+msgstr "Офис"
+
+msgid "Gráficos"
+msgstr "Графика"
+
+msgid "Jogos"
+msgstr "Игры"
+
+msgid "Multimídia"
+msgstr "Мультимедиа"
+
 msgid "Tem certeza que deseja remover este WebApp?"
 msgstr "Вы уверены, что хотите удалить это веб-приложение?"
 
@@ -117,6 +132,15 @@ msgstr "Выберите предпочтительный браузер:"
 
 msgid "WebApps Nativos"
 msgstr "Нативные веб-приложения"
+
+msgid "Bom dia"
+msgstr "Доброе утро"
+
+msgid "Boa tarde"
+msgstr "Добрый день"
+
+msgid "Boa noite"
+msgstr "Доброй ночи"
 
 msgid "Aguarde, estamos preparando para começar..."
 msgstr "Подождите, мы готовимся к старту..."

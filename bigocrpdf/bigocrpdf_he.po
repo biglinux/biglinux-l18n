@@ -35,7 +35,7 @@ msgstr ""
 msgid "Normal"
 msgstr "רגיל"
 
-msgid "Economico"
+msgid "Econômico"
 msgstr "חסכוני"
 
 msgid "Mais econômico"
@@ -62,6 +62,12 @@ msgstr "אנגלי"
 msgid "Português"
 msgstr "פורטוגזית"
 
+msgid "Destino:"
+msgstr "יעד:"
+
+msgid "Aplicar"
+msgstr "החל"
+
 msgid ""
 "Adicionar OCR no PDF digitalizado permitindo seleção de textos e busca:"
 msgstr "הוסף זיהוי תווים אופטי (OCR) למסמך PDF הסרוק המאפשר בחירת טקסט וחיפוש"
@@ -81,8 +87,20 @@ msgstr "איכות PDF:"
 msgid "Alinhamento:"
 msgstr "יישור:"
 
-msgid "Concluído!"
-msgstr "הושלם!"
+msgid "Aplicando - Aguarde"
+msgstr "הגשת בקשה - אנא המתן"
+
+msgid "Abrir"
+msgstr "פתוח"
+
+msgid "Arquivo:"
+msgstr "קובץ:"
+
+msgid "Pasta:"
+msgstr "תיקייה:"
+
+msgid "OCR para PDF"
+msgstr "זיהוי תווים אופטי ל- PDF"
 
 msgid "Salvo em: "
 msgstr "נשמר ב: "

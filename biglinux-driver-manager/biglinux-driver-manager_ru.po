@@ -32,6 +32,12 @@ msgstr "Этот драйвер является проприетарным."
 msgid "Este driver parece compatível com este computador."
 msgstr "Этот драйвер, похоже, совместим с данным компьютером."
 
+msgid "Remover"
+msgstr "Удалить"
+
+msgid "Instalar"
+msgstr "Установите"
+
 msgid ""
 "Já existe outro driver nVidia instalado, para instalar este driver, remova "
 "primeiro o driver instalado."
@@ -60,6 +66,12 @@ msgid ""
 msgstr ""
 "Вы хотите просмотреть файл или отправить его в transfer.sh, чтобы иметь URL "
 "с данными с вашего компьютера в удобном для обмена виде?"
+
+msgid "Categorias"
+msgstr "Категории"
+
+msgid "Principais"
+msgstr "Главная"
 
 msgid "Driver detectado:"
 msgstr "Обнаружен драйвер:"
@@ -91,14 +103,23 @@ msgstr "Сканер"
 msgid "TV Digital"
 msgstr "Цифровое телевидение"
 
+msgid "Webcam"
+msgstr "Веб-камера"
+
 msgid "Touchscreen"
 msgstr "Сенсорный экран"
 
 msgid "Som"
 msgstr "Звук"
 
+msgid "Outros"
+msgstr "Другое"
+
 msgid "Pesquisar Driver ou Firmware"
 msgstr "Поиск драйвера или микропрограммы"
+
+msgid "Resultado da pesquisa"
+msgstr "Результат поиска"
 
 msgid "Big-Driver-Manager"
 msgstr "Big-Driver-Manager"
@@ -130,23 +151,11 @@ msgstr "Водитель"
 msgid "Ocorreu um erro e o driver não pode ser aplicado."
 msgstr "Произошла ошибка, и драйвер не может быть применен."
 
-msgid ""
-"Digite sua senha para gerar um relatório removendo dados sensíveis, por "
-"exemplo, endereço de IP, ou cancele para utilizar as informações da tela "
-"anterior."
-msgstr ""
-"Введите свой пароль для создания отчета, удаляющего конфиденциальные данные, "
-"например, IP-адрес, или отмените, чтобы использовать информацию с "
-"предыдущего экрана."
-
-msgid "Digite sua senha para gerar um relatório mais completo."
-msgstr "Введите свой пароль для создания более полного отчета."
-
 msgid "Enviando, aguarde..."
 msgstr "Отправка, пожалуйста, подождите..."
 
-msgid "Resumo"
-msgstr "Резюме"
+msgid "Ver informações do dispositivo no Linux Hardware"
+msgstr "Просмотр информации об устройстве на Linux Hardware"
 
 msgid "Processador"
 msgstr "Процессор"
@@ -157,8 +166,56 @@ msgstr "Материнская плата"
 msgid "Memória"
 msgstr "Память"
 
+msgid "Swap (Memória Virtual)"
+msgstr "Swap (виртуальная память)"
+
+msgid "Áudio"
+msgstr "Аудио"
+
 msgid "Rede"
 msgstr "Сеть"
+
+msgid "Conexões de Rede"
+msgstr "Сетевые подключения"
+
+msgid "Dispositivos e conexões USB"
+msgstr "USB-устройства и соединения"
+
+msgid "Portas PCI"
+msgstr "Порты PCI"
+
+msgid "Bateria"
+msgstr "Аккумулятор"
+
+msgid "Dispositivos de Armazenamento"
+msgstr "Устройства хранения"
+
+msgid "Partições montadas"
+msgstr "Смонтированные перегородки"
+
+msgid "Partições desmontadas"
+msgstr "Демонтированные перегородки"
+
+msgid "Dispositivos lógicos"
+msgstr "Логические устройства"
+
+msgid "Raid"
+msgstr "Рейд"
+
+msgid "Sistema"
+msgstr "Система"
+
+msgid "Informações de Sistema"
+msgstr "Системная информация"
+
+msgid "Repositórios"
+msgstr "Репозитории"
+
+msgid "Temperatura"
+msgstr "Температура"
+
+msgid "Resumo"
+msgstr "Резюме"
 
 msgid "Usb"
 msgstr "Usb"
@@ -166,17 +223,11 @@ msgstr "Usb"
 msgid "Pci"
 msgstr "Pci"
 
-msgid "Bateria"
-msgstr "Аккумулятор"
-
 msgid "Armazenamento"
 msgstr "Хранение"
 
-msgid "Temperatura"
-msgstr "Температура"
-
-msgid "Áudio"
-msgstr "Аудио"
+msgid "Mais informações"
+msgstr "Дополнительная информация"
 
 msgid "Pesquisar"
 msgstr "Поиск"
@@ -189,6 +240,21 @@ msgstr "Оперативная память:"
 
 msgid "Vídeo:"
 msgstr "Видео:"
+
+msgid "Instalado na partição:"
+msgstr "Установлен на раздел:"
+
+msgid "Tamanho da partição:"
+msgstr "Размер раздела:"
+
+msgid "Espaço utilizado:"
+msgstr "Используемое пространство:"
+
+msgid "Espaço livre:"
+msgstr "Чистое пространство:"
+
+msgid "Data que o sistema foi instalado:"
+msgstr "Дата установки системы:"
 
 msgid "Kernel em uso:"
 msgstr "Используемое ядро:"
@@ -209,41 +275,23 @@ msgstr "Создать отчет"
 msgid "Cria um arquivo com informações que pode ser publicado na internet."
 msgstr "Создает файл с информацией, которую можно опубликовать в Интернете."
 
-msgid "Ver informações do dispositivo no Linux Hardware"
-msgstr "Просмотр информации об устройстве на Linux Hardware"
-
 msgid "Categoria"
 msgstr "Категория"
 
-msgid "Swap (Memória Virtual)"
-msgstr "Swap (виртуальная память)"
+msgid "ID"
+msgstr "ID"
 
-msgid "Conexões de Rede"
-msgstr "Сетевые подключения"
+msgid "Info"
+msgstr "Информация"
 
-msgid "Dispositivos e conexões USB"
-msgstr "USB-устройства и соединения"
+msgid ""
+"Digite sua senha para gerar um relatório removendo dados sensíveis, por "
+"exemplo, endereço de IP, ou cancele para utilizar as informações da tela "
+"anterior."
+msgstr ""
+"Введите свой пароль для создания отчета, удаляющего конфиденциальные данные, "
+"например, IP-адрес, или отмените, чтобы использовать информацию с "
+"предыдущего экрана."
 
-msgid "Portas PCI"
-msgstr "Порты PCI"
-
-msgid "Dispositivos de Armazenamento"
-msgstr "Устройства хранения"
-
-msgid "Partições montadas"
-msgstr "Смонтированные перегородки"
-
-msgid "Partições desmontadas"
-msgstr "Демонтированные перегородки"
-
-msgid "Dispositivos lógicos"
-msgstr "Логические устройства"
-
-msgid "Raid"
-msgstr "Рейд"
-
-msgid "Informações de Sistema"
-msgstr "Системная информация"
-
-msgid "Repositórios"
-msgstr "Репозитории"
+msgid "Digite sua senha para gerar um relatório mais completo."
+msgstr "Введите свой пароль для создания более полного отчета."

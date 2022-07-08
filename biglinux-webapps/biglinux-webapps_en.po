@@ -99,6 +99,21 @@ msgstr "Found icons"
 msgid "Selecione o ícone preferido:"
 msgstr "Select your preferred icon:"
 
+msgid "Desenvolvimento"
+msgstr "Development"
+
+msgid "Escritório"
+msgstr "Office"
+
+msgid "Gráficos"
+msgstr "Graphics"
+
+msgid "Jogos"
+msgstr "Games"
+
+msgid "Multimídia"
+msgstr "Multimedia"
+
 msgid "Tem certeza que deseja remover este WebApp?"
 msgstr "Are you sure you want to remove this WebApp?"
 
@@ -116,6 +131,15 @@ msgstr "Select your preferred browser:"
 
 msgid "WebApps Nativos"
 msgstr "Selecione o navegador preferido:"
+
+msgid "Bom dia"
+msgstr "Good Morning"
+
+msgid "Boa tarde"
+msgstr "Good afternoon"
+
+msgid "Boa noite"
+msgstr "Goodnight"
 
 msgid "Aguarde, estamos preparando para começar..."
 msgstr "Wait, we are getting ready to start..."

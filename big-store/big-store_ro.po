@@ -30,12 +30,6 @@ msgstr "Big-Store este deschis."
 msgid "Big-Store"
 msgstr "Big-Store"
 
-msgid "Instalar"
-msgstr "Instalați"
-
-msgid "Remover"
-msgstr "Eliminați"
-
 msgid ""
 "Para os programas Snap aparecerem no menu do sistema finalize a sessão e "
 "faça login novamente."
@@ -120,9 +114,6 @@ msgstr ""
 "Afișează numai programele selectate <br>\n"
 "și ascunde rezultatele care sunt utile <br>\n"
 "numai pentru utilizatorii avansați."
-
-msgid "Aplicando - Aguarde"
-msgstr "Aplicare - Vă rugăm să așteptați"
 
 msgid "Procurar programa"
 msgstr "Program de căutare"
@@ -280,24 +271,6 @@ msgstr "Programe Flatpak"
 msgid "Programas Snap"
 msgstr "Programe rapide"
 
-msgid "Jogos"
-msgstr "Jocuri"
-
-msgid "Instalado na partição:"
-msgstr "Instalat pe partiție:"
-
-msgid "Tamanho da partição:"
-msgstr "Dimensiunea partiției:"
-
-msgid "Espaço utilizado:"
-msgstr "Spațiu utilizat:"
-
-msgid "Espaço livre:"
-msgstr "Spațiu liber:"
-
-msgid "Data que o sistema foi instalado:"
-msgstr "Data la care a fost instalat sistemul:"
-
 msgid "Pacotes nativos e AUR"
 msgstr "Pachete native și AUR"
 
@@ -352,12 +325,6 @@ msgstr ""
 "Acest program este în format .deb, care are cea mai bună integrare cu "
 "sistemul."
 
-msgid "Mais informações"
-msgstr "Mai multe informații"
-
-msgid "Voltar"
-msgstr "Înapoi"
-
 msgid "Dependências a instalar"
 msgstr "Dependențe de instalat"
 
@@ -387,9 +354,6 @@ msgstr "Versiune disponibilă:"
 
 msgid "Repositório:"
 msgstr "Depozitar:"
-
-msgid "Cancelar"
-msgstr "Anulează"
 
 msgid "Instalando"
 msgstr "Instalarea"

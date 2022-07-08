@@ -17,6 +17,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit"
 
+msgid "Temas, Desktop e Ajustes"
+msgstr "Þemu, skrifborð og leiðréttingar"
+
 msgid ""
 "Configuração alterada, se estiver utilizando o navegador, reinicie-o para "
 "que a nova configuração seja aplicada."
@@ -144,6 +147,12 @@ msgstr "Leita að skrám"
 
 msgid "Bloquear a área de trabalho"
 msgstr "Læsa skjáborðinu"
+
+msgid "Ocultar Gerenciador de Boot (GRUB)"
+msgstr "Fela Boot Manager (GRUB)"
+
+msgid "Ativar o NumLock ao ligar o sistema"
+msgstr "Virkja NumLock þegar kveikt er á kerfinu"
 
 msgid "Tema aplicado"
 msgstr "Notað þema"

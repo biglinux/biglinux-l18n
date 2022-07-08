@@ -30,12 +30,6 @@ msgstr "Big-Store on avoinna."
 msgid "Big-Store"
 msgstr "Big-Store"
 
-msgid "Instalar"
-msgstr "Asenna"
-
-msgid "Remover"
-msgstr "Poista"
-
 msgid ""
 "Para os programas Snap aparecerem no menu do sistema finalize a sessão e "
 "faça login novamente."
@@ -121,9 +115,6 @@ msgstr ""
 "Näyttää vain valitut ohjelmat<br>\n"
 "ja piilottaa hyödylliset tulokset <br>\n"
 "vain edistyneille käyttäjille."
-
-msgid "Aplicando - Aguarde"
-msgstr "Hakemuksen tekeminen - Odota"
 
 msgid "Procurar programa"
 msgstr "Hakuohjelma"
@@ -281,24 +272,6 @@ msgstr "Flatpak-ohjelmat"
 msgid "Programas Snap"
 msgstr "Snap-ohjelmat"
 
-msgid "Jogos"
-msgstr "Pelit"
-
-msgid "Instalado na partição:"
-msgstr "Asennettu osioon:"
-
-msgid "Tamanho da partição:"
-msgstr "Osion koko:"
-
-msgid "Espaço utilizado:"
-msgstr "Käytetty tila:"
-
-msgid "Espaço livre:"
-msgstr "Tyhjää tilaa:"
-
-msgid "Data que o sistema foi instalado:"
-msgstr "Järjestelmän asennuspäivämäärä:"
-
 msgid "Pacotes nativos e AUR"
 msgstr "Kotimaiset paketit ja AUR"
 
@@ -350,12 +323,6 @@ msgid ""
 msgstr ""
 "Tämä ohjelma on .deb-muodossa, joka integroituu parhaiten järjestelmään."
 
-msgid "Mais informações"
-msgstr "Lisätietoja"
-
-msgid "Voltar"
-msgstr "Takaisin"
-
 msgid "Dependências a instalar"
 msgstr "Asennettavat riippuvuudet"
 
@@ -385,9 +352,6 @@ msgstr "Saatavilla oleva versio:"
 
 msgid "Repositório:"
 msgstr "Säilytyspaikka:"
-
-msgid "Cancelar"
-msgstr "Peruuta"
 
 msgid "Instalando"
 msgstr "Asennus"

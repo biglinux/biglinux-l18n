@@ -32,6 +32,12 @@ msgstr "Цей драйвер є пропрієтарним."
 msgid "Este driver parece compatível com este computador."
 msgstr "Цей драйвер здається сумісним з цим комп'ютером."
 
+msgid "Remover"
+msgstr "Вилучити:"
+
+msgid "Instalar"
+msgstr "Встановити"
+
 msgid ""
 "Já existe outro driver nVidia instalado, para instalar este driver, remova "
 "primeiro o driver instalado."
@@ -60,6 +66,12 @@ msgid ""
 msgstr ""
 "Ви хочете переглянути файл або відправити його на веб-сайт transfer.sh, щоб "
 "мати URL-адресу з даними на вашому комп'ютері в простий для обміну способом?"
+
+msgid "Categorias"
+msgstr "Категорії"
+
+msgid "Principais"
+msgstr "Головна"
 
 msgid "Driver detectado:"
 msgstr "Виявлено драйвер:"
@@ -91,14 +103,23 @@ msgstr "Сканер"
 msgid "TV Digital"
 msgstr "Цифрове ТБ"
 
+msgid "Webcam"
+msgstr "веб-камера"
+
 msgid "Touchscreen"
 msgstr "Сенсорний"
 
 msgid "Som"
 msgstr "звук"
 
+msgid "Outros"
+msgstr "Інші"
+
 msgid "Pesquisar Driver ou Firmware"
 msgstr "Пошук драйвера або прошивки"
+
+msgid "Resultado da pesquisa"
+msgstr "Результат пошуку"
 
 msgid "Big-Driver-Manager"
 msgstr "Менеджер великих водіїв"
@@ -129,23 +150,11 @@ msgstr "Водій"
 msgid "Ocorreu um erro e o driver não pode ser aplicado."
 msgstr "Сталася помилка, і драйвер не може бути застосований."
 
-msgid ""
-"Digite sua senha para gerar um relatório removendo dados sensíveis, por "
-"exemplo, endereço de IP, ou cancele para utilizar as informações da tela "
-"anterior."
-msgstr ""
-"Введіть пароль, щоб створити звіт про видалення конфіденційних даних, "
-"наприклад, IP-адреси, або скасувати використання інформації з попереднього "
-"екрана."
-
-msgid "Digite sua senha para gerar um relatório mais completo."
-msgstr "Введіть свій пароль, щоб згенерувати більш повний звіт."
-
 msgid "Enviando, aguarde..."
 msgstr "Відправка, будь ласка, зачекайте"
 
-msgid "Resumo"
-msgstr "Резюме"
+msgid "Ver informações do dispositivo no Linux Hardware"
+msgstr "Перегляд інформації про пристрій на обладнанні Linux"
 
 msgid "Processador"
 msgstr "Процесор"
@@ -156,8 +165,56 @@ msgstr "материнська плата"
 msgid "Memória"
 msgstr "Пам'ять"
 
+msgid "Swap (Memória Virtual)"
+msgstr "Swap (віртуальна пам'ять)"
+
+msgid "Áudio"
+msgstr "Аудіо"
+
 msgid "Rede"
 msgstr "мережа"
+
+msgid "Conexões de Rede"
+msgstr "Мережеві підключення"
+
+msgid "Dispositivos e conexões USB"
+msgstr "Пристрої та підключення USB"
+
+msgid "Portas PCI"
+msgstr "Порти PCI"
+
+msgid "Bateria"
+msgstr "Барабани"
+
+msgid "Dispositivos de Armazenamento"
+msgstr "Пристрої зберігання даних"
+
+msgid "Partições montadas"
+msgstr "навісні перегородки"
+
+msgid "Partições desmontadas"
+msgstr "Демонтовані перегородки"
+
+msgid "Dispositivos lógicos"
+msgstr "Логічні пристрої"
+
+msgid "Raid"
+msgstr "Рейд"
+
+msgid "Sistema"
+msgstr "система"
+
+msgid "Informações de Sistema"
+msgstr "Інформація про систему"
+
+msgid "Repositórios"
+msgstr "сховища"
+
+msgid "Temperatura"
+msgstr "Температура"
+
+msgid "Resumo"
+msgstr "Резюме"
 
 msgid "Usb"
 msgstr "Usb"
@@ -165,17 +222,11 @@ msgstr "Usb"
 msgid "Pci"
 msgstr "Pci"
 
-msgid "Bateria"
-msgstr "Барабани"
-
 msgid "Armazenamento"
 msgstr "Зберігання"
 
-msgid "Temperatura"
-msgstr "Температура"
-
-msgid "Áudio"
-msgstr "Аудіо"
+msgid "Mais informações"
+msgstr "Більше інформації"
 
 msgid "Pesquisar"
 msgstr "Шукати..."
@@ -188,6 +239,21 @@ msgstr "Оперативна пам'ять:"
 
 msgid "Vídeo:"
 msgstr "Відео:"
+
+msgid "Instalado na partição:"
+msgstr "Встановлено на розділ:"
+
+msgid "Tamanho da partição:"
+msgstr "Розмір розділу:"
+
+msgid "Espaço utilizado:"
+msgstr "Використовуваний простір:"
+
+msgid "Espaço livre:"
+msgstr "Вільний простір:"
+
+msgid "Data que o sistema foi instalado:"
+msgstr "Дата установки системи:"
 
 msgid "Kernel em uso:"
 msgstr "Ядро, що використовується:"
@@ -208,41 +274,23 @@ msgstr "Згенерувати звіт"
 msgid "Cria um arquivo com informações que pode ser publicado na internet."
 msgstr "Створює файл з інформацією, яку можна опублікувати в Інтернеті."
 
-msgid "Ver informações do dispositivo no Linux Hardware"
-msgstr "Перегляд інформації про пристрій на обладнанні Linux"
-
 msgid "Categoria"
 msgstr "Категорія"
 
-msgid "Swap (Memória Virtual)"
-msgstr "Swap (віртуальна пам'ять)"
+msgid "ID"
+msgstr "ІД"
 
-msgid "Conexões de Rede"
-msgstr "Мережеві підключення"
+msgid "Info"
+msgstr "Інфо"
 
-msgid "Dispositivos e conexões USB"
-msgstr "Пристрої та підключення USB"
+msgid ""
+"Digite sua senha para gerar um relatório removendo dados sensíveis, por "
+"exemplo, endereço de IP, ou cancele para utilizar as informações da tela "
+"anterior."
+msgstr ""
+"Введіть пароль, щоб створити звіт про видалення конфіденційних даних, "
+"наприклад, IP-адреси, або скасувати використання інформації з попереднього "
+"екрана."
 
-msgid "Portas PCI"
-msgstr "Порти PCI"
-
-msgid "Dispositivos de Armazenamento"
-msgstr "Пристрої зберігання даних"
-
-msgid "Partições montadas"
-msgstr "навісні перегородки"
-
-msgid "Partições desmontadas"
-msgstr "Демонтовані перегородки"
-
-msgid "Dispositivos lógicos"
-msgstr "Логічні пристрої"
-
-msgid "Raid"
-msgstr "Рейд"
-
-msgid "Informações de Sistema"
-msgstr "Інформація про систему"
-
-msgid "Repositórios"
-msgstr "сховища"
+msgid "Digite sua senha para gerar um relatório mais completo."
+msgstr "Введіть свій пароль, щоб згенерувати більш повний звіт."

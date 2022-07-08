@@ -30,12 +30,6 @@ msgstr "Большой магазин открыт."
 msgid "Big-Store"
 msgstr "Big-Store"
 
-msgid "Instalar"
-msgstr "Установите"
-
-msgid "Remover"
-msgstr "Удалить"
-
 msgid ""
 "Para os programas Snap aparecerem no menu do sistema finalize a sessão e "
 "faça login novamente."
@@ -120,9 +114,6 @@ msgstr ""
 "Отображает только<br>выбранные</br> программы<br>\n"
 "и скрывает результаты, которые являются полезными <br>\n"
 "только для опытных пользователей.</br></br> "
-
-msgid "Aplicando - Aguarde"
-msgstr "Подача заявки - Пожалуйста, подождите"
 
 msgid "Procurar programa"
 msgstr "Программа поиска"
@@ -280,24 +271,6 @@ msgstr "Программы Flatpak"
 msgid "Programas Snap"
 msgstr "Программы Snap"
 
-msgid "Jogos"
-msgstr "Игры"
-
-msgid "Instalado na partição:"
-msgstr "Установлен на раздел:"
-
-msgid "Tamanho da partição:"
-msgstr "Размер раздела:"
-
-msgid "Espaço utilizado:"
-msgstr "Используемое пространство:"
-
-msgid "Espaço livre:"
-msgstr "Чистое пространство:"
-
-msgid "Data que o sistema foi instalado:"
-msgstr "Дата установки системы:"
-
 msgid "Pacotes nativos e AUR"
 msgstr "Нативные пакеты и AUR"
 
@@ -349,12 +322,6 @@ msgid ""
 msgstr ""
 "Эта программа в формате .deb, который имеет наилучшую интеграцию с системой."
 
-msgid "Mais informações"
-msgstr "Дополнительная информация"
-
-msgid "Voltar"
-msgstr "Назад"
-
 msgid "Dependências a instalar"
 msgstr "Зависимости для установки"
 
@@ -384,9 +351,6 @@ msgstr "Доступна версия:"
 
 msgid "Repositório:"
 msgstr "Репозиторий:"
-
-msgid "Cancelar"
-msgstr "Отмена"
 
 msgid "Instalando"
 msgstr "Установка"

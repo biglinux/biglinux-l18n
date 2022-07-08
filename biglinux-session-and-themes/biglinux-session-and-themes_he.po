@@ -17,6 +17,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit"
 
+msgid "Temas, Desktop e Ajustes"
+msgstr "ערכות נושא, שולחן עבודה והתאמות"
+
 msgid ""
 "Configuração alterada, se estiver utilizando o navegador, reinicie-o para "
 "que a nova configuração seja aplicada."
@@ -144,6 +147,12 @@ msgstr "חפש קבצים"
 
 msgid "Bloquear a área de trabalho"
 msgstr "נעל את שולחן העבודה"
+
+msgid "Ocultar Gerenciador de Boot (GRUB)"
+msgstr "הסתר את מנהל האתחול (GRUB)"
+
+msgid "Ativar o NumLock ao ligar o sistema"
+msgstr "הפעל את NumLock בעת הפעלת המערכת"
 
 msgid "Tema aplicado"
 msgstr "נושא יישומי"

@@ -99,6 +99,21 @@ msgstr "Hittade ikoner"
 msgid "Selecione o ícone preferido:"
 msgstr "Välj den önskade ikonen:"
 
+msgid "Desenvolvimento"
+msgstr "Utveckling"
+
+msgid "Escritório"
+msgstr "Kontor"
+
+msgid "Gráficos"
+msgstr "Grafik"
+
+msgid "Jogos"
+msgstr "Spel"
+
+msgid "Multimídia"
+msgstr "Multimedia"
+
 msgid "Tem certeza que deseja remover este WebApp?"
 msgstr "Är du säker på att du vill ta bort den här webbappen?"
 
@@ -116,6 +131,15 @@ msgstr "Välj den webbläsare som du föredrar:"
 
 msgid "WebApps Nativos"
 msgstr "Inhemska webbapplikationer"
+
+msgid "Bom dia"
+msgstr "God morgon"
+
+msgid "Boa tarde"
+msgstr "God eftermiddag"
+
+msgid "Boa noite"
+msgstr "God kväll"
 
 msgid "Aguarde, estamos preparando para começar..."
 msgstr "Vänta, vi är redo att börja..."

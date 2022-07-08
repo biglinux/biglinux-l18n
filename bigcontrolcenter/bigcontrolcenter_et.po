@@ -30,20 +30,11 @@ msgstr ""
 "Tehtud muudatused on näha\n"
 "oma veebikaamera pildi teistes programmides."
 
-msgid "Webcam"
-msgstr "Veebikaamera"
-
 msgid "Category"
 msgstr "Kategooria"
 
 msgid "Name"
 msgstr "Nimi"
-
-msgid "ID"
-msgstr "ID"
-
-msgid "Info"
-msgstr "Info"
 
 msgid ""
 "O relatório foi salvo no arquivo $FILE_TO_SAVE\n"
@@ -65,15 +56,6 @@ msgstr "BigLinuxi tutvustus"
 
 msgid "Central de Controle"
 msgstr "Juhtimiskeskus"
-
-msgid "Bom dia"
-msgstr "Tere hommikust"
-
-msgid "Boa tarde"
-msgstr "Tere päevast"
-
-msgid "Boa noite"
-msgstr "Tere õhtust"
 
 msgid "Aguarde, carregando..."
 msgstr "Oodata, laadimine..."
@@ -99,9 +81,6 @@ msgid ""
 msgstr ""
 "Pakume teile täielikke konfiguratsioone, mille hulgast saate väga lihtsalt "
 "valida."
-
-msgid "Temas, Desktop e Ajustes"
-msgstr "Teemad, töölaud ja seaded"
 
 msgid "Escolha seu Avatar"
 msgstr "Valige oma Avatar"
@@ -160,9 +139,6 @@ msgstr "Müravähendaja"
 
 msgid "Configurar a voz do sistema (TTS)"
 msgstr "Süsteemi hääle (TTS) seadistamine"
-
-msgid "OCR para PDF"
-msgstr "OCR PDF-i jaoks"
 
 msgid "Doação e Redes sociais"
 msgstr "Annetused ja sotsiaalsed võrgustikud"
@@ -436,12 +412,6 @@ msgstr "Ekraani seaded on lähtestatud."
 msgid "Configurações da tela"
 msgstr "Ekraani seaded"
 
-msgid "Categorias"
-msgstr "Kategooriad"
-
-msgid "Principais"
-msgstr "Main"
-
 msgid "Aparência"
 msgstr "Välimus"
 
@@ -469,23 +439,11 @@ msgstr "Privaatsus"
 msgid "Servidor"
 msgstr "Server"
 
-msgid "Desenvolvimento"
-msgstr "Arendus"
-
 msgid "Sobre"
 msgstr "Kohta"
 
-msgid "Outros"
-msgstr "Muud"
-
 msgid "Pesquisar..."
 msgstr "Otsi..."
-
-msgid "Resultado da pesquisa"
-msgstr "Otsingu tulemus"
-
-msgid "Abrir"
-msgstr "Avatud"
 
 msgid "Temas, desktop e ajustes"
 msgstr "Teemad, töölaud ja seaded"

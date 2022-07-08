@@ -32,6 +32,12 @@ msgstr "Dit stuurprogramma is gepatenteerd."
 msgid "Este driver parece compatível com este computador."
 msgstr "Dit stuurprogramma lijkt compatibel te zijn met deze computer."
 
+msgid "Remover"
+msgstr "Verwijder"
+
+msgid "Instalar"
+msgstr "Installeer"
+
 msgid ""
 "Já existe outro driver nVidia instalado, para instalar este driver, remova "
 "primeiro o driver instalado."
@@ -61,6 +67,12 @@ msgid ""
 msgstr ""
 "Wilt u het bestand bekijken of naar transfer.sh sturen, om een URL te hebben "
 "met de gegevens van uw computer op een gemakkelijke manier te delen?"
+
+msgid "Categorias"
+msgstr "Categorieën"
+
+msgid "Principais"
+msgstr "Hoofd"
 
 msgid "Driver detectado:"
 msgstr "Gedetecteerd stuurprogramma:"
@@ -92,14 +104,23 @@ msgstr "Scanner"
 msgid "TV Digital"
 msgstr "Digitale TV"
 
+msgid "Webcam"
+msgstr "Webcam"
+
 msgid "Touchscreen"
 msgstr "Touchscreen"
 
 msgid "Som"
 msgstr "Geluid"
 
+msgid "Outros"
+msgstr "Andere"
+
 msgid "Pesquisar Driver ou Firmware"
 msgstr "Stuurprogramma of firmware zoeken"
+
+msgid "Resultado da pesquisa"
+msgstr "Zoekresultaat"
 
 msgid "Big-Driver-Manager"
 msgstr "Grote-Driver-Manager"
@@ -132,23 +153,11 @@ msgid "Ocorreu um erro e o driver não pode ser aplicado."
 msgstr ""
 "Er is een fout opgetreden en het stuurprogramma kan niet worden toegepast."
 
-msgid ""
-"Digite sua senha para gerar um relatório removendo dados sensíveis, por "
-"exemplo, endereço de IP, ou cancele para utilizar as informações da tela "
-"anterior."
-msgstr ""
-"Voer uw wachtwoord in om een rapport te genereren waarin gevoelige gegevens, "
-"b.v. IP-adres, worden verwijderd, of annuleer om de informatie van het "
-"vorige scherm te gebruiken."
-
-msgid "Digite sua senha para gerar um relatório mais completo."
-msgstr "Voer uw wachtwoord in om een vollediger rapport te genereren."
-
 msgid "Enviando, aguarde..."
 msgstr "Zenden, even geduld..."
 
-msgid "Resumo"
-msgstr "Samenvatting"
+msgid "Ver informações do dispositivo no Linux Hardware"
+msgstr "Apparaatinformatie bekijken op Linux Hardware"
 
 msgid "Processador"
 msgstr "Processor"
@@ -159,8 +168,56 @@ msgstr "Moederbord"
 msgid "Memória"
 msgstr "Geheugen"
 
+msgid "Swap (Memória Virtual)"
+msgstr "Swap (virtueel geheugen)"
+
+msgid "Áudio"
+msgstr "Audio"
+
 msgid "Rede"
 msgstr "Netwerk"
+
+msgid "Conexões de Rede"
+msgstr "Netwerkverbindingen"
+
+msgid "Dispositivos e conexões USB"
+msgstr "USB-apparaten en aansluitingen"
+
+msgid "Portas PCI"
+msgstr "PCI-poorten"
+
+msgid "Bateria"
+msgstr "Batterij"
+
+msgid "Dispositivos de Armazenamento"
+msgstr "Opslagapparaten"
+
+msgid "Partições montadas"
+msgstr "Gemonteerde scheidingswanden"
+
+msgid "Partições desmontadas"
+msgstr "Ontmantelde scheidingswanden"
+
+msgid "Dispositivos lógicos"
+msgstr "Logische apparaten"
+
+msgid "Raid"
+msgstr "Overval"
+
+msgid "Sistema"
+msgstr "Systeem"
+
+msgid "Informações de Sistema"
+msgstr "Systeeminformatie"
+
+msgid "Repositórios"
+msgstr "Repositories"
+
+msgid "Temperatura"
+msgstr "Temperatuur"
+
+msgid "Resumo"
+msgstr "Samenvatting"
 
 msgid "Usb"
 msgstr "Usb"
@@ -168,17 +225,11 @@ msgstr "Usb"
 msgid "Pci"
 msgstr "Pci"
 
-msgid "Bateria"
-msgstr "Batterij"
-
 msgid "Armazenamento"
 msgstr "Opslag"
 
-msgid "Temperatura"
-msgstr "Temperatuur"
-
-msgid "Áudio"
-msgstr "Audio"
+msgid "Mais informações"
+msgstr "Meer informatie"
 
 msgid "Pesquisar"
 msgstr "Zoeken"
@@ -191,6 +242,21 @@ msgstr "RAM geheugen:"
 
 msgid "Vídeo:"
 msgstr "Video:"
+
+msgid "Instalado na partição:"
+msgstr "Geïnstalleerd op de partitie:"
+
+msgid "Tamanho da partição:"
+msgstr "Partitiegrootte:"
+
+msgid "Espaço utilizado:"
+msgstr "Gebruikte ruimte:"
+
+msgid "Espaço livre:"
+msgstr "Vrije ruimte:"
+
+msgid "Data que o sistema foi instalado:"
+msgstr "Datum waarop het systeem werd geïnstalleerd:"
 
 msgid "Kernel em uso:"
 msgstr "Kernel in gebruik:"
@@ -213,41 +279,23 @@ msgstr ""
 "Maakt een bestand met informatie die op het internet gepubliceerd kan worden."
 ""
 
-msgid "Ver informações do dispositivo no Linux Hardware"
-msgstr "Apparaatinformatie bekijken op Linux Hardware"
-
 msgid "Categoria"
 msgstr "Categorie"
 
-msgid "Swap (Memória Virtual)"
-msgstr "Swap (virtueel geheugen)"
+msgid "ID"
+msgstr "ID"
 
-msgid "Conexões de Rede"
-msgstr "Netwerkverbindingen"
+msgid "Info"
+msgstr "Info"
 
-msgid "Dispositivos e conexões USB"
-msgstr "USB-apparaten en aansluitingen"
+msgid ""
+"Digite sua senha para gerar um relatório removendo dados sensíveis, por "
+"exemplo, endereço de IP, ou cancele para utilizar as informações da tela "
+"anterior."
+msgstr ""
+"Voer uw wachtwoord in om een rapport te genereren waarin gevoelige gegevens, "
+"b.v. IP-adres, worden verwijderd, of annuleer om de informatie van het "
+"vorige scherm te gebruiken."
 
-msgid "Portas PCI"
-msgstr "PCI-poorten"
-
-msgid "Dispositivos de Armazenamento"
-msgstr "Opslagapparaten"
-
-msgid "Partições montadas"
-msgstr "Gemonteerde scheidingswanden"
-
-msgid "Partições desmontadas"
-msgstr "Ontmantelde scheidingswanden"
-
-msgid "Dispositivos lógicos"
-msgstr "Logische apparaten"
-
-msgid "Raid"
-msgstr "Overval"
-
-msgid "Informações de Sistema"
-msgstr "Systeeminformatie"
-
-msgid "Repositórios"
-msgstr "Repositories"
+msgid "Digite sua senha para gerar um relatório mais completo."
+msgstr "Voer uw wachtwoord in om een vollediger rapport te genereren."

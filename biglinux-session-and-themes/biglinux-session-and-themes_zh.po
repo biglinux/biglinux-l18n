@@ -17,6 +17,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit"
 
+msgid "Temas, Desktop e Ajustes"
+msgstr "主题、桌面和设置"
+
 msgid ""
 "Configuração alterada, se estiver utilizando o navegador, reinicie-o para "
 "que a nova configuração seja aplicada."
@@ -138,6 +141,12 @@ msgstr "搜索档案"
 
 msgid "Bloquear a área de trabalho"
 msgstr "锁定桌面"
+
+msgid "Ocultar Gerenciador de Boot (GRUB)"
+msgstr "隐藏启动管理器（GRUB）"
+
+msgid "Ativar o NumLock ao ligar o sistema"
+msgstr "在系统启动时启用NumLock"
 
 msgid "Tema aplicado"
 msgstr "应用的主题"

@@ -33,6 +33,12 @@ msgid "Este driver parece compatível com este computador."
 msgstr ""
 "Úgy tűnik, hogy ez az illesztőprogram kompatibilis ezzel a számítógéppel."
 
+msgid "Remover"
+msgstr "Távolítsa el a"
+
+msgid "Instalar"
+msgstr "Telepítse a"
+
 msgid ""
 "Já existe outro driver nVidia instalado, para instalar este driver, remova "
 "primeiro o driver instalado."
@@ -63,6 +69,12 @@ msgstr ""
 "Szeretné megtekinteni a fájlt, vagy elküldeni a transfer.sh-nak, hogy egy "
 "URL-címet kapjon az adatokkal a számítógépéről, és könnyen megoszthassa "
 "azokat?"
+
+msgid "Categorias"
+msgstr "Kategóriák"
+
+msgid "Principais"
+msgstr "Főoldal"
 
 msgid "Driver detectado:"
 msgstr "A sofőr észlelte:"
@@ -95,14 +107,23 @@ msgstr "Szkenner"
 msgid "TV Digital"
 msgstr "Digitális TV"
 
+msgid "Webcam"
+msgstr "Webkamera"
+
 msgid "Touchscreen"
 msgstr "Érintőképernyő"
 
 msgid "Som"
 msgstr "Hang"
 
+msgid "Outros"
+msgstr "Egyéb"
+
 msgid "Pesquisar Driver ou Firmware"
 msgstr "Illesztőprogram vagy firmware keresése"
+
+msgid "Resultado da pesquisa"
+msgstr "Keresés eredménye"
 
 msgid "Big-Driver-Manager"
 msgstr "Big-Driver-Manager"
@@ -134,23 +155,11 @@ msgstr "Vezető"
 msgid "Ocorreu um erro e o driver não pode ser aplicado."
 msgstr "Hiba történt, és az illesztőprogram nem alkalmazható."
 
-msgid ""
-"Digite sua senha para gerar um relatório removendo dados sensíveis, por "
-"exemplo, endereço de IP, ou cancele para utilizar as informações da tela "
-"anterior."
-msgstr ""
-"Adja meg a jelszavát, ha az érzékeny adatokat, például az IP-címet "
-"eltávolító jelentést szeretne létrehozni, vagy törölje a műveletet, ha az "
-"előző képernyő információit szeretné használni."
-
-msgid "Digite sua senha para gerar um relatório mais completo."
-msgstr "A teljesebb jelentés létrehozásához adja meg jelszavát."
-
 msgid "Enviando, aguarde..."
 msgstr "Küldés, kérem várjon..."
 
-msgid "Resumo"
-msgstr "Összefoglaló"
+msgid "Ver informações do dispositivo no Linux Hardware"
+msgstr "Eszközinformációk megtekintése a Linux Hardveren"
 
 msgid "Processador"
 msgstr "Processzor"
@@ -161,8 +170,56 @@ msgstr "Alaplap"
 msgid "Memória"
 msgstr "Memória"
 
+msgid "Swap (Memória Virtual)"
+msgstr "Swap (virtuális memória)"
+
+msgid "Áudio"
+msgstr "Audio"
+
 msgid "Rede"
 msgstr "Hálózat"
+
+msgid "Conexões de Rede"
+msgstr "Hálózati kapcsolatok"
+
+msgid "Dispositivos e conexões USB"
+msgstr "USB eszközök és csatlakozások"
+
+msgid "Portas PCI"
+msgstr "PCI portok"
+
+msgid "Bateria"
+msgstr "Akkumulátor"
+
+msgid "Dispositivos de Armazenamento"
+msgstr "Tárolóeszközök"
+
+msgid "Partições montadas"
+msgstr "Szerelt partíciók"
+
+msgid "Partições desmontadas"
+msgstr "Szétszerelt válaszfalak"
+
+msgid "Dispositivos lógicos"
+msgstr "Logikai eszközök"
+
+msgid "Raid"
+msgstr "Raid"
+
+msgid "Sistema"
+msgstr "Rendszer"
+
+msgid "Informações de Sistema"
+msgstr "Rendszerinformáció"
+
+msgid "Repositórios"
+msgstr "Tárházak"
+
+msgid "Temperatura"
+msgstr "Hőmérséklet"
+
+msgid "Resumo"
+msgstr "Összefoglaló"
 
 msgid "Usb"
 msgstr "Usb"
@@ -170,17 +227,11 @@ msgstr "Usb"
 msgid "Pci"
 msgstr "Pci"
 
-msgid "Bateria"
-msgstr "Akkumulátor"
-
 msgid "Armazenamento"
 msgstr "Tárolás"
 
-msgid "Temperatura"
-msgstr "Hőmérséklet"
-
-msgid "Áudio"
-msgstr "Audio"
+msgid "Mais informações"
+msgstr "További információ"
 
 msgid "Pesquisar"
 msgstr "Keresés"
@@ -193,6 +244,21 @@ msgstr "RAM memória:"
 
 msgid "Vídeo:"
 msgstr "Videó:"
+
+msgid "Instalado na partição:"
+msgstr "Telepítve a partícióra:"
+
+msgid "Tamanho da partição:"
+msgstr "Partíció mérete:"
+
+msgid "Espaço utilizado:"
+msgstr "Használt tér:"
+
+msgid "Espaço livre:"
+msgstr "Tiszta tér:"
+
+msgid "Data que o sistema foi instalado:"
+msgstr "A rendszer telepítésének dátuma:"
 
 msgid "Kernel em uso:"
 msgstr "Használatban lévő mag:"
@@ -215,41 +281,23 @@ msgstr ""
 "Olyan fájlt hoz létre, amely az interneten közzétehető információkat "
 "tartalmaz."
 
-msgid "Ver informações do dispositivo no Linux Hardware"
-msgstr "Eszközinformációk megtekintése a Linux Hardveren"
-
 msgid "Categoria"
 msgstr "Kategória"
 
-msgid "Swap (Memória Virtual)"
-msgstr "Swap (virtuális memória)"
+msgid "ID"
+msgstr "ID"
 
-msgid "Conexões de Rede"
-msgstr "Hálózati kapcsolatok"
+msgid "Info"
+msgstr "Info"
 
-msgid "Dispositivos e conexões USB"
-msgstr "USB eszközök és csatlakozások"
+msgid ""
+"Digite sua senha para gerar um relatório removendo dados sensíveis, por "
+"exemplo, endereço de IP, ou cancele para utilizar as informações da tela "
+"anterior."
+msgstr ""
+"Adja meg a jelszavát, ha az érzékeny adatokat, például az IP-címet "
+"eltávolító jelentést szeretne létrehozni, vagy törölje a műveletet, ha az "
+"előző képernyő információit szeretné használni."
 
-msgid "Portas PCI"
-msgstr "PCI portok"
-
-msgid "Dispositivos de Armazenamento"
-msgstr "Tárolóeszközök"
-
-msgid "Partições montadas"
-msgstr "Szerelt partíciók"
-
-msgid "Partições desmontadas"
-msgstr "Szétszerelt válaszfalak"
-
-msgid "Dispositivos lógicos"
-msgstr "Logikai eszközök"
-
-msgid "Raid"
-msgstr "Raid"
-
-msgid "Informações de Sistema"
-msgstr "Rendszerinformáció"
-
-msgid "Repositórios"
-msgstr "Tárházak"
+msgid "Digite sua senha para gerar um relatório mais completo."
+msgstr "A teljesebb jelentés létrehozásához adja meg jelszavát."

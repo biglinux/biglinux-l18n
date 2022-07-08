@@ -99,6 +99,21 @@ msgstr "Znalezione ikony"
 msgid "Selecione o ícone preferido:"
 msgstr "Wybrać preferowaną ikonę:"
 
+msgid "Desenvolvimento"
+msgstr "Rozwój"
+
+msgid "Escritório"
+msgstr "Biuro"
+
+msgid "Gráficos"
+msgstr "Grafika"
+
+msgid "Jogos"
+msgstr "Gry"
+
+msgid "Multimídia"
+msgstr "Multimedia"
+
 msgid "Tem certeza que deseja remover este WebApp?"
 msgstr "Czy jest Pan pewien, że chce Pan usunąć tę aplikację WebApp?"
 
@@ -116,6 +131,15 @@ msgstr "Proszę wybrać preferowaną przeglądarkę:"
 
 msgid "WebApps Nativos"
 msgstr "Natywne aplikacje internetowe"
+
+msgid "Bom dia"
+msgstr "Dzień dobry"
+
+msgid "Boa tarde"
+msgstr "Dzień dobry"
+
+msgid "Boa noite"
+msgstr "Dobry wieczór"
 
 msgid "Aguarde, estamos preparando para começar..."
 msgstr "Proszę czekać, przygotowujemy się do rozpoczęcia..."

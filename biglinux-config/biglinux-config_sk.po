@@ -73,9 +73,6 @@ msgstr ""
 "Videá-(Smplayer) smplayer.sh Multimédiá smplayer.png smplayer skel "
 "$COMMENT_skel"
 
-msgid "Fechar"
-msgstr "Zatvoriť"
-
 msgid "Restaurar no modo padrão da distribuição"
 msgstr "Obnovenie predvoleného režimu distribúcie"
 
@@ -96,18 +93,6 @@ msgstr "Hlavná stránka"
 
 msgid "Internet"
 msgstr "Internet"
-
-msgid "Multimídia"
-msgstr "Multimédiá"
-
-msgid "Gráficos"
-msgstr "Grafika"
-
-msgid "Escritório"
-msgstr "Kancelária"
-
-msgid "Sistema"
-msgstr "Systém"
 
 msgid "Pesquisar Restaurar"
 msgstr "Obnovenie vyhľadávania"

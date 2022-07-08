@@ -32,6 +32,12 @@ msgstr "Þessi bílstjóri er sér."
 msgid "Este driver parece compatível com este computador."
 msgstr "Þessi bílstjóri virðist samhæft við þessa tölvu."
 
+msgid "Remover"
+msgstr "fjarlægja"
+
+msgid "Instalar"
+msgstr "Setja upp"
+
 msgid ""
 "Já existe outro driver nVidia instalado, para instalar este driver, remova "
 "primeiro o driver instalado."
@@ -60,6 +66,12 @@ msgid ""
 msgstr ""
 "Viltu skoða skrána eða senda hana á transfer.sh vefsíðuna, til að hafa slóð "
 "með gögnum á tölvunni þinni á auðveldan hátt til að deila?"
+
+msgid "Categorias"
+msgstr "Flokkar"
+
+msgid "Principais"
+msgstr "Aðal"
 
 msgid "Driver detectado:"
 msgstr "Ökumaður uppgötvað:"
@@ -91,14 +103,23 @@ msgstr "Skanni"
 msgid "TV Digital"
 msgstr "Stafrænt sjónvarp"
 
+msgid "Webcam"
+msgstr "vefmyndavél"
+
 msgid "Touchscreen"
 msgstr "Snertiskjár"
 
 msgid "Som"
 msgstr "heilbrigður"
 
+msgid "Outros"
+msgstr "Annað"
+
 msgid "Pesquisar Driver ou Firmware"
 msgstr "Leita að bílstjóri eða Firmware"
+
+msgid "Resultado da pesquisa"
+msgstr "Leitarniðurstöður"
 
 msgid "Big-Driver-Manager"
 msgstr "Stór bílstjóri-framkvæmdastjóri"
@@ -128,22 +149,11 @@ msgstr "bílstjóri"
 msgid "Ocorreu um erro e o driver não pode ser aplicado."
 msgstr "Villa kom upp og ekki er hægt að beita ökumanninum."
 
-msgid ""
-"Digite sua senha para gerar um relatório removendo dados sensíveis, por "
-"exemplo, endereço de IP, ou cancele para utilizar as informações da tela "
-"anterior."
-msgstr ""
-"Sláðu inn lykilorðið þitt til að búa til skýrslu sem fjarlægir viðkvæm gögn, "
-"til dæmis IP-tölu, eða hætta við að nota upplýsingarnar frá fyrri skjá."
-
-msgid "Digite sua senha para gerar um relatório mais completo."
-msgstr "Sláðu inn lykilorðið þitt til að búa til fullkomnari skýrslu."
-
 msgid "Enviando, aguarde..."
 msgstr "Senda, vinsamlegast bíðið..."
 
-msgid "Resumo"
-msgstr "Samantekt"
+msgid "Ver informações do dispositivo no Linux Hardware"
+msgstr "Skoða upplýsingar um tækið á Linux Vélbúnaður"
 
 msgid "Processador"
 msgstr "örgjörvi"
@@ -154,8 +164,56 @@ msgstr "Móðurborð"
 msgid "Memória"
 msgstr "Ævisaga"
 
+msgid "Swap (Memória Virtual)"
+msgstr "Víxla (Virtual Memory)"
+
+msgid "Áudio"
+msgstr "Audio"
+
 msgid "Rede"
 msgstr "Net"
+
+msgid "Conexões de Rede"
+msgstr "Nettengingar"
+
+msgid "Dispositivos e conexões USB"
+msgstr "USB tæki og tengingar"
+
+msgid "Portas PCI"
+msgstr "PCI hafnir"
+
+msgid "Bateria"
+msgstr "Trommur"
+
+msgid "Dispositivos de Armazenamento"
+msgstr "Geymsla tæki"
+
+msgid "Partições montadas"
+msgstr "Ríðandi skipting"
+
+msgid "Partições desmontadas"
+msgstr "Sundurhlutað skipting"
+
+msgid "Dispositivos lógicos"
+msgstr "Rökrétt tæki"
+
+msgid "Raid"
+msgstr "Raid"
+
+msgid "Sistema"
+msgstr "Kerfi"
+
+msgid "Informações de Sistema"
+msgstr "Upplýsingar um kerfi"
+
+msgid "Repositórios"
+msgstr "Geymslur"
+
+msgid "Temperatura"
+msgstr "Temps"
+
+msgid "Resumo"
+msgstr "Samantekt"
 
 msgid "Usb"
 msgstr "USB"
@@ -163,17 +221,11 @@ msgstr "USB"
 msgid "Pci"
 msgstr "PCI"
 
-msgid "Bateria"
-msgstr "Trommur"
-
 msgid "Armazenamento"
 msgstr "geymsla"
 
-msgid "Temperatura"
-msgstr "Temps"
-
-msgid "Áudio"
-msgstr "Audio"
+msgid "Mais informações"
+msgstr "Nánari upplýsingar"
 
 msgid "Pesquisar"
 msgstr "Leita"
@@ -186,6 +238,21 @@ msgstr "RAM minni:"
 
 msgid "Vídeo:"
 msgstr "Myndband:"
+
+msgid "Instalado na partição:"
+msgstr "Uppsett á skiptingunni:"
+
+msgid "Tamanho da partição:"
+msgstr "Skipting stærð:"
+
+msgid "Espaço utilizado:"
+msgstr "Rými notað:"
+
+msgid "Espaço livre:"
+msgstr "Laust pláss:"
+
+msgid "Data que o sistema foi instalado:"
+msgstr "Dagsetning kerfið var sett upp:"
 
 msgid "Kernel em uso:"
 msgstr "Kjarni í notkun:"
@@ -206,41 +273,22 @@ msgstr "Búa til skýrslu"
 msgid "Cria um arquivo com informações que pode ser publicado na internet."
 msgstr "Býr til skrá með upplýsingum sem hægt er að birta á internetinu."
 
-msgid "Ver informações do dispositivo no Linux Hardware"
-msgstr "Skoða upplýsingar um tækið á Linux Vélbúnaður"
-
 msgid "Categoria"
 msgstr "Flokkur"
 
-msgid "Swap (Memória Virtual)"
-msgstr "Víxla (Virtual Memory)"
+msgid "ID"
+msgstr "AUÐKENNI"
 
-msgid "Conexões de Rede"
-msgstr "Nettengingar"
+msgid "Info"
+msgstr "Upplýsingar"
 
-msgid "Dispositivos e conexões USB"
-msgstr "USB tæki og tengingar"
+msgid ""
+"Digite sua senha para gerar um relatório removendo dados sensíveis, por "
+"exemplo, endereço de IP, ou cancele para utilizar as informações da tela "
+"anterior."
+msgstr ""
+"Sláðu inn lykilorðið þitt til að búa til skýrslu sem fjarlægir viðkvæm gögn, "
+"til dæmis IP-tölu, eða hætta við að nota upplýsingarnar frá fyrri skjá."
 
-msgid "Portas PCI"
-msgstr "PCI hafnir"
-
-msgid "Dispositivos de Armazenamento"
-msgstr "Geymsla tæki"
-
-msgid "Partições montadas"
-msgstr "Ríðandi skipting"
-
-msgid "Partições desmontadas"
-msgstr "Sundurhlutað skipting"
-
-msgid "Dispositivos lógicos"
-msgstr "Rökrétt tæki"
-
-msgid "Raid"
-msgstr "Raid"
-
-msgid "Informações de Sistema"
-msgstr "Upplýsingar um kerfi"
-
-msgid "Repositórios"
-msgstr "Geymslur"
+msgid "Digite sua senha para gerar um relatório mais completo."
+msgstr "Sláðu inn lykilorðið þitt til að búa til fullkomnari skýrslu."

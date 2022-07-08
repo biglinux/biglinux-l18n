@@ -32,6 +32,12 @@ msgstr "Tämä ohjain on patentoitu."
 msgid "Este driver parece compatível com este computador."
 msgstr "Tämä ohjain näyttää olevan yhteensopiva tämän tietokoneen kanssa."
 
+msgid "Remover"
+msgstr "Poista"
+
+msgid "Instalar"
+msgstr "Asenna"
+
 msgid ""
 "Já existe outro driver nVidia instalado, para instalar este driver, remova "
 "primeiro o driver instalado."
@@ -60,6 +66,12 @@ msgid ""
 msgstr ""
 "Haluatko tarkastella tiedostoa tai lähettää sen transfer.sh:lle, jotta saat "
 "URL-osoitteen, jossa on tiedot tietokoneeltasi helposti jaettavaksi?"
+
+msgid "Categorias"
+msgstr "Kategoriat"
+
+msgid "Principais"
+msgstr "Main"
 
 msgid "Driver detectado:"
 msgstr "Kuljettaja havaittu:"
@@ -91,14 +103,23 @@ msgstr "Skanneri"
 msgid "TV Digital"
 msgstr "Digitaalinen televisio"
 
+msgid "Webcam"
+msgstr "Webkamera"
+
 msgid "Touchscreen"
 msgstr "Kosketusnäyttö"
 
 msgid "Som"
 msgstr "Ääni"
 
+msgid "Outros"
+msgstr "Muut"
+
 msgid "Pesquisar Driver ou Firmware"
 msgstr "Etsi ajuria tai laiteohjelmaa"
+
+msgid "Resultado da pesquisa"
+msgstr "Hakutulos"
 
 msgid "Big-Driver-Manager"
 msgstr "Big-Driver-Manager"
@@ -131,23 +152,11 @@ msgstr "Kuljettaja"
 msgid "Ocorreu um erro e o driver não pode ser aplicado."
 msgstr "Tapahtui virhe, eikä ohjainta voida käyttää."
 
-msgid ""
-"Digite sua senha para gerar um relatório removendo dados sensíveis, por "
-"exemplo, endereço de IP, ou cancele para utilizar as informações da tela "
-"anterior."
-msgstr ""
-"Syötä salasanasi, jos haluat luoda raportin, josta poistetaan arkaluonteiset "
-"tiedot, kuten IP-osoite, tai peruuta, jos haluat käyttää edellisen näytön "
-"tietoja."
-
-msgid "Digite sua senha para gerar um relatório mais completo."
-msgstr "Syötä salasanasi luodaksesi täydellisemmän raportin."
-
 msgid "Enviando, aguarde..."
 msgstr "Lähetys, odota..."
 
-msgid "Resumo"
-msgstr "Yhteenveto"
+msgid "Ver informações do dispositivo no Linux Hardware"
+msgstr "Linux-laitteiston laitetietojen tarkasteleminen"
 
 msgid "Processador"
 msgstr "Prosessori"
@@ -158,8 +167,56 @@ msgstr "Emolevy"
 msgid "Memória"
 msgstr "Muisti"
 
+msgid "Swap (Memória Virtual)"
+msgstr "Swap (virtuaalimuisti)"
+
+msgid "Áudio"
+msgstr "Audio"
+
 msgid "Rede"
 msgstr "Verkko"
+
+msgid "Conexões de Rede"
+msgstr "Verkkoyhteydet"
+
+msgid "Dispositivos e conexões USB"
+msgstr "USB-laitteet ja -liitännät"
+
+msgid "Portas PCI"
+msgstr "PCI-portit"
+
+msgid "Bateria"
+msgstr "Akku"
+
+msgid "Dispositivos de Armazenamento"
+msgstr "Tallennuslaitteet"
+
+msgid "Partições montadas"
+msgstr "Asennetut väliseinät"
+
+msgid "Partições desmontadas"
+msgstr "Puretut väliseinät"
+
+msgid "Dispositivos lógicos"
+msgstr "Logiikkalaitteet"
+
+msgid "Raid"
+msgstr "Raid"
+
+msgid "Sistema"
+msgstr "Järjestelmä"
+
+msgid "Informações de Sistema"
+msgstr "Järjestelmätiedot"
+
+msgid "Repositórios"
+msgstr "Tietovarastot"
+
+msgid "Temperatura"
+msgstr "Lämpötila"
+
+msgid "Resumo"
+msgstr "Yhteenveto"
 
 msgid "Usb"
 msgstr "Usb"
@@ -167,17 +224,11 @@ msgstr "Usb"
 msgid "Pci"
 msgstr "Pci"
 
-msgid "Bateria"
-msgstr "Akku"
-
 msgid "Armazenamento"
 msgstr "Varastointi"
 
-msgid "Temperatura"
-msgstr "Lämpötila"
-
-msgid "Áudio"
-msgstr "Audio"
+msgid "Mais informações"
+msgstr "Lisätietoja"
 
 msgid "Pesquisar"
 msgstr "Etsi"
@@ -190,6 +241,21 @@ msgstr "RAM-muisti:"
 
 msgid "Vídeo:"
 msgstr "Video:"
+
+msgid "Instalado na partição:"
+msgstr "Asennettu osioon:"
+
+msgid "Tamanho da partição:"
+msgstr "Osion koko:"
+
+msgid "Espaço utilizado:"
+msgstr "Käytetty tila:"
+
+msgid "Espaço livre:"
+msgstr "Tyhjää tilaa:"
+
+msgid "Data que o sistema foi instalado:"
+msgstr "Järjestelmän asennuspäivämäärä:"
 
 msgid "Kernel em uso:"
 msgstr "Käytössä oleva ydin:"
@@ -211,41 +277,23 @@ msgid "Cria um arquivo com informações que pode ser publicado na internet."
 msgstr ""
 "Se luo tiedoston, jossa on tietoja, jotka voidaan julkaista Internetissä."
 
-msgid "Ver informações do dispositivo no Linux Hardware"
-msgstr "Linux-laitteiston laitetietojen tarkasteleminen"
-
 msgid "Categoria"
 msgstr "Luokka"
 
-msgid "Swap (Memória Virtual)"
-msgstr "Swap (virtuaalimuisti)"
+msgid "ID"
+msgstr "ID"
 
-msgid "Conexões de Rede"
-msgstr "Verkkoyhteydet"
+msgid "Info"
+msgstr "Info"
 
-msgid "Dispositivos e conexões USB"
-msgstr "USB-laitteet ja -liitännät"
+msgid ""
+"Digite sua senha para gerar um relatório removendo dados sensíveis, por "
+"exemplo, endereço de IP, ou cancele para utilizar as informações da tela "
+"anterior."
+msgstr ""
+"Syötä salasanasi, jos haluat luoda raportin, josta poistetaan arkaluonteiset "
+"tiedot, kuten IP-osoite, tai peruuta, jos haluat käyttää edellisen näytön "
+"tietoja."
 
-msgid "Portas PCI"
-msgstr "PCI-portit"
-
-msgid "Dispositivos de Armazenamento"
-msgstr "Tallennuslaitteet"
-
-msgid "Partições montadas"
-msgstr "Asennetut väliseinät"
-
-msgid "Partições desmontadas"
-msgstr "Puretut väliseinät"
-
-msgid "Dispositivos lógicos"
-msgstr "Logiikkalaitteet"
-
-msgid "Raid"
-msgstr "Raid"
-
-msgid "Informações de Sistema"
-msgstr "Järjestelmätiedot"
-
-msgid "Repositórios"
-msgstr "Tietovarastot"
+msgid "Digite sua senha para gerar um relatório mais completo."
+msgstr "Syötä salasanasi luodaksesi täydellisemmän raportin."

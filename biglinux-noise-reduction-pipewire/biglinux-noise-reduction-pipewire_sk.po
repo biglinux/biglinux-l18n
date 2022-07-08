@@ -32,12 +32,6 @@ msgstr "Mikrofónový filter"
 msgid "Ativando"
 msgstr "Aktivácia stránky"
 
-msgid "Filtro de ruído"
-msgstr "Šumový filter"
-
-msgid "Iniciar automaticamente"
-msgstr "Automatické spustenie"
-
 msgid "Configuração aplicada"
 msgstr "Použitá konfigurácia"
 
@@ -66,3 +60,22 @@ msgstr ""
 
 msgid "Cancelado, nenhuma configuração foi removida!"
 msgstr "Zrušené, žiadna konfigurácia nebola odstránená!"
+
+msgid ""
+"Este filtro utiliza técnicas de redes neurais para remover ruídos e sons do "
+"ambiente que atrapalham gravações e chamadas online."
+msgstr ""
+"Tento filter využíva techniky neurónových sietí na odstránenie okolitého "
+"hluku a zvukov, ktoré rušia online nahrávky a hovory."
+
+msgid "Gerenciador de Áudio"
+msgstr "Správca zvuku"
+
+msgid "Frequências sonoras:"
+msgstr "Zvukové frekvencie:"
+
+msgid "Filtro de ruído"
+msgstr "Šumový filter"
+
+msgid "Iniciar automaticamente"
+msgstr "Automatické spustenie"

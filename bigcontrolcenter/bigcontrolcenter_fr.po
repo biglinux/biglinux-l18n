@@ -30,20 +30,11 @@ msgstr ""
 "Les modifications apportées sont visibles\n"
 "dans l'image de votre webcam dans d'autres programmes."
 
-msgid "Webcam"
-msgstr "Webcam"
-
 msgid "Category"
 msgstr "Catégorie"
 
 msgid "Name"
 msgstr "Nom"
-
-msgid "ID"
-msgstr "ID"
-
-msgid "Info"
-msgstr "Info"
 
 msgid ""
 "O relatório foi salvo no arquivo $FILE_TO_SAVE\n"
@@ -65,15 +56,6 @@ msgstr "Présentation de BigLinux"
 
 msgid "Central de Controle"
 msgstr "Centre de contrôle"
-
-msgid "Bom dia"
-msgstr "Bonjour"
-
-msgid "Boa tarde"
-msgstr "Bon après-midi"
-
-msgid "Boa noite"
-msgstr "Bonsoir"
 
 msgid "Aguarde, carregando..."
 msgstr "Stand by, chargement..."
@@ -99,9 +81,6 @@ msgid ""
 msgstr ""
 "Nous vous proposons des configurations complètes parmi lesquelles vous "
 "pouvez choisir de manière très simple."
-
-msgid "Temas, Desktop e Ajustes"
-msgstr "Thèmes, bureau et paramètres"
 
 msgid "Escolha seu Avatar"
 msgstr "Choisissez votre avatar"
@@ -161,9 +140,6 @@ msgstr "Réducteur de bruit"
 
 msgid "Configurar a voz do sistema (TTS)"
 msgstr "Réglage de la voix du système (TTS)"
-
-msgid "OCR para PDF"
-msgstr "OCR pour PDF"
 
 msgid "Doação e Redes sociais"
 msgstr "Donation et réseaux sociaux"
@@ -445,12 +421,6 @@ msgstr "Les paramètres de l'écran ont été réinitialisés."
 msgid "Configurações da tela"
 msgstr "Paramètres de l'écran"
 
-msgid "Categorias"
-msgstr "Catégories"
-
-msgid "Principais"
-msgstr "Principal"
-
 msgid "Aparência"
 msgstr "Apparition"
 
@@ -478,23 +448,11 @@ msgstr "Vie privée"
 msgid "Servidor"
 msgstr "Serveur"
 
-msgid "Desenvolvimento"
-msgstr "Développement"
-
 msgid "Sobre"
 msgstr "À propos de"
 
-msgid "Outros"
-msgstr "Autre"
-
 msgid "Pesquisar..."
 msgstr "Recherche..."
-
-msgid "Resultado da pesquisa"
-msgstr "Résultat de la recherche"
-
-msgid "Abrir"
-msgstr "Ouvert"
 
 msgid "Temas, desktop e ajustes"
 msgstr "Thèmes, bureau et paramètres"

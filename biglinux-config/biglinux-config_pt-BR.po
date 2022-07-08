@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: biglinux-config\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-07-08 15:57-0300\n"
+"POT-Creation-Date: 2022-07-08 17:40-0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -75,9 +75,6 @@ msgstr ""
 "Vídeos-(Smplayer) smplayer.sh Multimedia smplayer.png smplayer skel "
 "$COMMENT_skel"
 
-msgid "Fechar"
-msgstr "Fechar"
-
 msgid "Restaurar no modo padrão da distribuição"
 msgstr "Restaurar no modo padrão da distribuição"
 
@@ -98,18 +95,6 @@ msgstr "Principal"
 
 msgid "Internet"
 msgstr "Internet"
-
-msgid "Multimídia"
-msgstr "Multimídia"
-
-msgid "Gráficos"
-msgstr "Gráficos"
-
-msgid "Escritório"
-msgstr "Escritório"
-
-msgid "Sistema"
-msgstr "Sistema"
 
 msgid "Pesquisar Restaurar"
 msgstr "Pesquisar Restaurar"

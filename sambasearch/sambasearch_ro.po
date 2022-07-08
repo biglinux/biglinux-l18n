@@ -66,6 +66,9 @@ msgstr ""
 "*Cele mai multe servere necesită o autentificare și o parolă pentru a lista "
 "acțiunile disponibile; lăsați gol pentru a efectua o căutare anonimă."
 
+msgid "Cancelar"
+msgstr "Anulează"
+
 msgid "Próximo"
 msgstr "Următorul"
 
@@ -77,3 +80,9 @@ msgstr "Căutare efectuată împreună cu utilizatorul:"
 
 msgid "na rede:"
 msgstr "în rețea:"
+
+msgid "Voltar"
+msgstr "Înapoi"
+
+msgid "Fechar"
+msgstr "Închideți"

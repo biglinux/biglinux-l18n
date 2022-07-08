@@ -32,12 +32,6 @@ msgstr "Filtru de microfon"
 msgid "Ativando"
 msgstr "Activarea"
 
-msgid "Filtro de ruído"
-msgstr "Filtru de zgomot"
-
-msgid "Iniciar automaticamente"
-msgstr "Porniți automat"
-
 msgid "Configuração aplicada"
 msgstr "Configurație aplicată"
 
@@ -67,3 +61,23 @@ msgstr ""
 
 msgid "Cancelado, nenhuma configuração foi removida!"
 msgstr "Anulat, nu a fost eliminată nicio configurație!"
+
+msgid ""
+"Este filtro utiliza técnicas de redes neurais para remover ruídos e sons do "
+"ambiente que atrapalham gravações e chamadas online."
+msgstr ""
+"Acest filtru utilizează tehnici de rețele neuronale pentru a elimina "
+"zgomotul ambiental și sunetele care perturbă înregistrările și apelurile "
+"online."
+
+msgid "Gerenciador de Áudio"
+msgstr "Manager audio"
+
+msgid "Frequências sonoras:"
+msgstr "Frecvențe sonore:"
+
+msgid "Filtro de ruído"
+msgstr "Filtru de zgomot"
+
+msgid "Iniciar automaticamente"
+msgstr "Porniți automat"

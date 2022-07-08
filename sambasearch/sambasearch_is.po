@@ -65,6 +65,9 @@ msgstr ""
 "* Flestir netþjónar þurfa innskráningu og lykilorð til að skrá tiltæka "
 "hluti, skilja eftir autt til að framkvæma nafnlausa leit."
 
+msgid "Cancelar"
+msgstr "Hætta"
+
 msgid "Próximo"
 msgstr "næst"
 
@@ -76,3 +79,9 @@ msgstr "Leit framkvæmt með notandanum:"
 
 msgid "na rede:"
 msgstr "á netinu:"
+
+msgid "Voltar"
+msgstr "Fara aftur"
+
+msgid "Fechar"
+msgstr "Loka"

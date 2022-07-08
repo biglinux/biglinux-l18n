@@ -99,6 +99,21 @@ msgstr "Знайшлі абразкі"
 msgid "Selecione o ícone preferido:"
 msgstr "Выберыце ўпадабаны значок:"
 
+msgid "Desenvolvimento"
+msgstr "Развіццё"
+
+msgid "Escritório"
+msgstr "Офіс"
+
+msgid "Gráficos"
+msgstr "Графіка"
+
+msgid "Jogos"
+msgstr "Гульні"
+
+msgid "Multimídia"
+msgstr "Мультымедыя"
+
 msgid "Tem certeza que deseja remover este WebApp?"
 msgstr "Вы ўпэўнены, што жадаеце выдаліць гэтую вэб-праграму?"
 
@@ -116,6 +131,15 @@ msgstr "Выберыце ўпадабаны браўзер:"
 
 msgid "WebApps Nativos"
 msgstr "Уласныя вэб-прыкладанні"
+
+msgid "Bom dia"
+msgstr "Добрай раніцы"
+
+msgid "Boa tarde"
+msgstr "Добры дзень"
+
+msgid "Boa noite"
+msgstr "Дабранач"
 
 msgid "Aguarde, estamos preparando para começar..."
 msgstr "Пачакайце, мы рыхтуемся пачаць..."

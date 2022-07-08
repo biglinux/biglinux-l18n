@@ -32,6 +32,12 @@ msgstr "Ce pilote est propriétaire."
 msgid "Este driver parece compatível com este computador."
 msgstr "Ce pilote semble être compatible avec cet ordinateur."
 
+msgid "Remover"
+msgstr "Retirer"
+
+msgid "Instalar"
+msgstr "Installer"
+
 msgid ""
 "Já existe outro driver nVidia instalado, para instalar este driver, remova "
 "primeiro o driver instalado."
@@ -60,6 +66,12 @@ msgid ""
 msgstr ""
 "Voulez-vous voir le fichier ou l'envoyer à transfer.sh, pour avoir une URL "
 "avec les données de votre ordinateur d'une manière facile à partager ?"
+
+msgid "Categorias"
+msgstr "Catégories"
+
+msgid "Principais"
+msgstr "Principal"
 
 msgid "Driver detectado:"
 msgstr "Conducteur détecté :"
@@ -92,14 +104,23 @@ msgstr "Scanner"
 msgid "TV Digital"
 msgstr "Télévision numérique"
 
+msgid "Webcam"
+msgstr "Webcam"
+
 msgid "Touchscreen"
 msgstr "Écran tactile"
 
 msgid "Som"
 msgstr "Son"
 
+msgid "Outros"
+msgstr "Autre"
+
 msgid "Pesquisar Driver ou Firmware"
 msgstr "Rechercher un pilote ou un micrologiciel"
+
+msgid "Resultado da pesquisa"
+msgstr "Résultat de la recherche"
 
 msgid "Big-Driver-Manager"
 msgstr "Big-Driver-Manager"
@@ -131,23 +152,11 @@ msgstr "Conducteur"
 msgid "Ocorreu um erro e o driver não pode ser aplicado."
 msgstr "Une erreur s'est produite et le pilote ne peut pas être appliqué."
 
-msgid ""
-"Digite sua senha para gerar um relatório removendo dados sensíveis, por "
-"exemplo, endereço de IP, ou cancele para utilizar as informações da tela "
-"anterior."
-msgstr ""
-"Saisissez votre mot de passe pour générer un rapport supprimant les données "
-"sensibles, par exemple l'adresse IP, ou annulez pour utiliser les "
-"informations de l'écran précédent."
-
-msgid "Digite sua senha para gerar um relatório mais completo."
-msgstr "Saisissez votre mot de passe pour générer un rapport plus complet."
-
 msgid "Enviando, aguarde..."
 msgstr "Envoi, veuillez patienter..."
 
-msgid "Resumo"
-msgstr "Résumé"
+msgid "Ver informações do dispositivo no Linux Hardware"
+msgstr "Afficher les informations sur le matériel Linux"
 
 msgid "Processador"
 msgstr "Processeur"
@@ -158,8 +167,56 @@ msgstr "Carte mère"
 msgid "Memória"
 msgstr "Mémoire"
 
+msgid "Swap (Memória Virtual)"
+msgstr "Swap (mémoire virtuelle)"
+
+msgid "Áudio"
+msgstr "Audio"
+
 msgid "Rede"
 msgstr "Réseau"
+
+msgid "Conexões de Rede"
+msgstr "Connexions réseau"
+
+msgid "Dispositivos e conexões USB"
+msgstr "Dispositifs et connexions USB"
+
+msgid "Portas PCI"
+msgstr "Ports PCI"
+
+msgid "Bateria"
+msgstr "Batterie"
+
+msgid "Dispositivos de Armazenamento"
+msgstr "Périphériques de stockage"
+
+msgid "Partições montadas"
+msgstr "Cloisons montées"
+
+msgid "Partições desmontadas"
+msgstr "Cloisons démantelées"
+
+msgid "Dispositivos lógicos"
+msgstr "Dispositifs logiques"
+
+msgid "Raid"
+msgstr "Raid"
+
+msgid "Sistema"
+msgstr "Système"
+
+msgid "Informações de Sistema"
+msgstr "Informations sur le système"
+
+msgid "Repositórios"
+msgstr "Dépôts"
+
+msgid "Temperatura"
+msgstr "Température"
+
+msgid "Resumo"
+msgstr "Résumé"
 
 msgid "Usb"
 msgstr "Usb"
@@ -167,17 +224,11 @@ msgstr "Usb"
 msgid "Pci"
 msgstr "Pci"
 
-msgid "Bateria"
-msgstr "Batterie"
-
 msgid "Armazenamento"
 msgstr "Stockage"
 
-msgid "Temperatura"
-msgstr "Température"
-
-msgid "Áudio"
-msgstr "Audio"
+msgid "Mais informações"
+msgstr "Plus d'informations"
 
 msgid "Pesquisar"
 msgstr "Recherche"
@@ -190,6 +241,21 @@ msgstr "Mémoire vive :"
 
 msgid "Vídeo:"
 msgstr "Vidéo:"
+
+msgid "Instalado na partição:"
+msgstr "Installé sur la partition :"
+
+msgid "Tamanho da partição:"
+msgstr "Taille de la partition :"
+
+msgid "Espaço utilizado:"
+msgstr "Espace utilisé :"
+
+msgid "Espaço livre:"
+msgstr "Espace libre :"
+
+msgid "Data que o sistema foi instalado:"
+msgstr "Date à laquelle le système a été installé :"
 
 msgid "Kernel em uso:"
 msgstr "Noyau utilisé :"
@@ -212,41 +278,23 @@ msgstr ""
 "Crée un fichier contenant des informations pouvant être publiées sur "
 "Internet."
 
-msgid "Ver informações do dispositivo no Linux Hardware"
-msgstr "Afficher les informations sur le matériel Linux"
-
 msgid "Categoria"
 msgstr "Catégorie"
 
-msgid "Swap (Memória Virtual)"
-msgstr "Swap (mémoire virtuelle)"
+msgid "ID"
+msgstr "ID"
 
-msgid "Conexões de Rede"
-msgstr "Connexions réseau"
+msgid "Info"
+msgstr "Info"
 
-msgid "Dispositivos e conexões USB"
-msgstr "Dispositifs et connexions USB"
+msgid ""
+"Digite sua senha para gerar um relatório removendo dados sensíveis, por "
+"exemplo, endereço de IP, ou cancele para utilizar as informações da tela "
+"anterior."
+msgstr ""
+"Saisissez votre mot de passe pour générer un rapport supprimant les données "
+"sensibles, par exemple l'adresse IP, ou annulez pour utiliser les "
+"informations de l'écran précédent."
 
-msgid "Portas PCI"
-msgstr "Ports PCI"
-
-msgid "Dispositivos de Armazenamento"
-msgstr "Périphériques de stockage"
-
-msgid "Partições montadas"
-msgstr "Cloisons montées"
-
-msgid "Partições desmontadas"
-msgstr "Cloisons démantelées"
-
-msgid "Dispositivos lógicos"
-msgstr "Dispositifs logiques"
-
-msgid "Raid"
-msgstr "Raid"
-
-msgid "Informações de Sistema"
-msgstr "Informations sur le système"
-
-msgid "Repositórios"
-msgstr "Dépôts"
+msgid "Digite sua senha para gerar um relatório mais completo."
+msgstr "Saisissez votre mot de passe pour générer un rapport plus complet."

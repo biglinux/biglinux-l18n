@@ -14,7 +14,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-07-08 15:58-0300\n"
+"POT-Creation-Date: 2022-07-08 17:41-0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -29,27 +29,6 @@ msgstr "Big-Store está aberta."
 
 msgid "Big-Store"
 msgstr "Big-Store"
-
-# 
-# File: big-store/big-store/usr/share/bigbashview/bcc/apps/big-store/category_appstream_pamac.py, line: 64
-# File: big-store/big-store/usr/share/bigbashview/bcc/apps/big-store/search_appstream_pamac.py, line: 61
-# File: big-store/big-store/usr/share/bigbashview/bcc/apps/big-store/search_appstream_pamac_simple.py, line: 61
-# File: big-store/big-store/usr/share/bigbashview/bcc/apps/big-store/view_appstream_pamac.py, line: 103
-# File: big-store/big-store/usr/share/bigbashview/bcc/apps/big-store/view_appstream_pamac.py, line: 225
-# File: big-store/big-store/usr/share/bigbashview/bcc/apps/big-store/view_aur.py, line: 48
-# File: big-store/big-store/usr/share/bigbashview/bcc/apps/big-store/view_flatpak_pamac.py, line: 83
-msgid "Instalar"
-msgstr "Instalar"
-
-# 
-# File: big-store/big-store/usr/share/bigbashview/bcc/apps/big-store/category_appstream_pamac.py, line: 70
-# File: big-store/big-store/usr/share/bigbashview/bcc/apps/big-store/search_appstream_pamac.py, line: 67
-# File: big-store/big-store/usr/share/bigbashview/bcc/apps/big-store/search_appstream_pamac_simple.py, line: 67
-# File: big-store/big-store/usr/share/bigbashview/bcc/apps/big-store/view_appstream_pamac.py, line: 91
-# File: big-store/big-store/usr/share/bigbashview/bcc/apps/big-store/view_appstream_pamac.py, line: 228
-# File: big-store/big-store/usr/share/bigbashview/bcc/apps/big-store/view_flatpak_pamac.py, line: 75
-msgid "Remover"
-msgstr "Remover"
 
 msgid ""
 "Para os programas Snap aparecerem no menu do sistema finalize a sessão e "
@@ -135,9 +114,6 @@ msgstr ""
 "Exibe apenas programas selecionados<br> \n"
 "e oculta resultados que são úteis <br>\n"
 "apenas a usuários avançados."
-
-msgid "Aplicando - Aguarde"
-msgstr "Aplicando - Aguarde"
 
 msgid "Procurar programa"
 msgstr "Procurar programa"
@@ -295,24 +271,6 @@ msgstr "Programas Flatpak"
 msgid "Programas Snap"
 msgstr "Programas Snap"
 
-msgid "Jogos"
-msgstr "Jogos"
-
-msgid "Instalado na partição:"
-msgstr "Instalado na partição:"
-
-msgid "Tamanho da partição:"
-msgstr "Tamanho da partição:"
-
-msgid "Espaço utilizado:"
-msgstr "Espaço utilizado:"
-
-msgid "Espaço livre:"
-msgstr "Espaço livre:"
-
-msgid "Data que o sistema foi instalado:"
-msgstr "Data que o sistema foi instalado:"
-
 msgid "Pacotes nativos e AUR"
 msgstr "Pacotes nativos e AUR"
 
@@ -372,12 +330,6 @@ msgstr ""
 "Esse programa está em formato .deb, que possui a melhor integração com o "
 "sistema."
 
-msgid "Mais informações"
-msgstr "Mais informações"
-
-msgid "Voltar"
-msgstr "Voltar"
-
 msgid "Dependências a instalar"
 msgstr "Dependências a instalar"
 
@@ -418,9 +370,6 @@ msgstr "Versão disponível:"
 # File: big-store/big-store/usr/share/bigbashview/bcc/apps/big-store/view_flatpak_pamac.py, line: 133
 msgid "Repositório:"
 msgstr "Repositório:"
-
-msgid "Cancelar"
-msgstr "Cancelar"
 
 msgid "Instalando"
 msgstr "Instalando"

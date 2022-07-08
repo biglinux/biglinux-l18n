@@ -32,12 +32,6 @@ msgstr "מסנן מיקרופון"
 msgid "Ativando"
 msgstr "מפעיל"
 
-msgid "Filtro de ruído"
-msgstr "מסנן רעש"
-
-msgid "Iniciar automaticamente"
-msgstr "התחל באופן אוטומטי"
-
 msgid "Configuração aplicada"
 msgstr "תצורה הוחלה"
 
@@ -66,3 +60,22 @@ msgstr ""
 
 msgid "Cancelado, nenhuma configuração foi removida!"
 msgstr "בוטל, לא הוסרו הגדרות!"
+
+msgid ""
+"Este filtro utiliza técnicas de redes neurais para remover ruídos e sons do "
+"ambiente que atrapalham gravações e chamadas online."
+msgstr ""
+"מסנן זה משתמש בטכניקות רשת עצביות כדי להסיר רעשי סביבה וצלילים המשבשים "
+"הקלטות ושיחות מקוונות."
+
+msgid "Gerenciador de Áudio"
+msgstr "מנהל אודיו"
+
+msgid "Frequências sonoras:"
+msgstr "תדרי קול:"
+
+msgid "Filtro de ruído"
+msgstr "מסנן רעש"
+
+msgid "Iniciar automaticamente"
+msgstr "התחל באופן אוטומטי"

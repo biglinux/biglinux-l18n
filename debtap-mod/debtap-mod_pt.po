@@ -78,3 +78,6 @@ msgstr "Instalar pacote .deb"
 
 msgid "Convertendo o arquivo, aguarde, pode demorar alguns minutos..."
 msgstr "Convertendo o arquivo, aguarde, pode demorar alguns minutos..."
+
+msgid "Concluído!"
+msgstr "Concluído!"

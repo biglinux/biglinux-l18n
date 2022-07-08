@@ -34,8 +34,8 @@ msgstr ""
 msgid "Normal"
 msgstr "通常"
 
-msgid "Economico"
-msgstr "経済的"
+msgid "Econômico"
+msgstr "経済"
 
 msgid "Mais econômico"
 msgstr "より経済的に"
@@ -61,6 +61,12 @@ msgstr "イングリッシュ"
 msgid "Português"
 msgstr "ポルトガル語"
 
+msgid "Destino:"
+msgstr "目的地"
+
+msgid "Aplicar"
+msgstr "適用する"
+
 msgid ""
 "Adicionar OCR no PDF digitalizado permitindo seleção de textos e busca:"
 msgstr "スキャンしたPDFにOCRを付加し、テキストの選択と検索を可能にします。"
@@ -80,8 +86,20 @@ msgstr "PDF品質です。"
 msgid "Alinhamento:"
 msgstr "アライメント"
 
-msgid "Concluído!"
-msgstr "完了！"
+msgid "Aplicando - Aguarde"
+msgstr "応募中 - しばらくお待ちください"
+
+msgid "Abrir"
+msgstr "開ける"
+
+msgid "Arquivo:"
+msgstr "アーカイブ"
+
+msgid "Pasta:"
+msgstr "フォルダ："
+
+msgid "OCR para PDF"
+msgstr "PDF用OCR"
 
 msgid "Salvo em: "
 msgstr "で保存されます。 "

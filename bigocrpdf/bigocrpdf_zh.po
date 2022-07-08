@@ -34,8 +34,8 @@ msgstr ""
 msgid "Normal"
 msgstr "正常"
 
-msgid "Economico"
-msgstr "经济型"
+msgid "Econômico"
+msgstr "经济"
 
 msgid "Mais econômico"
 msgstr "更经济"
@@ -61,6 +61,12 @@ msgstr "英语"
 msgid "Português"
 msgstr "葡萄牙语"
 
+msgid "Destino:"
+msgstr "目的地。"
+
+msgid "Aplicar"
+msgstr "申請"
+
 msgid ""
 "Adicionar OCR no PDF digitalizado permitindo seleção de textos e busca:"
 msgstr "在扫描的PDF中添加OCR，允许文本选择和搜索。"
@@ -80,8 +86,20 @@ msgstr "PDF质量。"
 msgid "Alinhamento:"
 msgstr "隶属关系。"
 
-msgid "Concluído!"
-msgstr "完成了!"
+msgid "Aplicando - Aguarde"
+msgstr "申请 - 请等待"
+
+msgid "Abrir"
+msgstr "打開"
+
+msgid "Arquivo:"
+msgstr "档案。"
+
+msgid "Pasta:"
+msgstr "文件夾："
+
+msgid "OCR para PDF"
+msgstr "用于PDF的OCR"
 
 msgid "Salvo em: "
 msgstr "保存在。 "

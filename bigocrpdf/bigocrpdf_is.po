@@ -36,7 +36,7 @@ msgstr ""
 msgid "Normal"
 msgstr "vanabundinn"
 
-msgid "Economico"
+msgid "Econômico"
 msgstr "Hagkvæmt"
 
 msgid "Mais econômico"
@@ -63,6 +63,12 @@ msgstr "Enska"
 msgid "Português"
 msgstr "Portúgalska"
 
+msgid "Destino:"
+msgstr "Áfangastaður:"
+
+msgid "Aplicar"
+msgstr "Sækja um"
+
 msgid ""
 "Adicionar OCR no PDF digitalizado permitindo seleção de textos e busca:"
 msgstr "Bæta OCR við skönnuð PDF leyfa texta val og leita:"
@@ -82,8 +88,20 @@ msgstr "PDF gæði:"
 msgid "Alinhamento:"
 msgstr "Jöfnun:"
 
-msgid "Concluído!"
-msgstr "Lokið!"
+msgid "Aplicando - Aguarde"
+msgstr "Sækja um - Vinsamlegast bíddu"
+
+msgid "Abrir"
+msgstr "Opna"
+
+msgid "Arquivo:"
+msgstr "Skrá:"
+
+msgid "Pasta:"
+msgstr "Mappa:"
+
+msgid "OCR para PDF"
+msgstr "OCR til PDF"
 
 msgid "Salvo em: "
 msgstr "Vistað í: "

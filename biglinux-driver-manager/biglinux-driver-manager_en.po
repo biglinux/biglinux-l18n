@@ -32,6 +32,12 @@ msgstr "This driver is proprietary."
 msgid "Este driver parece compatível com este computador."
 msgstr "This driver seems to be compatible with this computer."
 
+msgid "Remover"
+msgstr "Remove"
+
+msgid "Instalar"
+msgstr "Install"
+
 msgid ""
 "Já existe outro driver nVidia instalado, para instalar este driver, remova "
 "primeiro o driver instalado."
@@ -60,6 +66,12 @@ msgid ""
 msgstr ""
 "Do you want to view the file or send it to transfer.sh, to have a URL with "
 "the data from your computer in an easy to share way?"
+
+msgid "Categorias"
+msgstr "Categories"
+
+msgid "Principais"
+msgstr "Main"
 
 msgid "Driver detectado:"
 msgstr "Driver detected:"
@@ -91,14 +103,23 @@ msgstr "Scanner"
 msgid "TV Digital"
 msgstr "Digital TV"
 
+msgid "Webcam"
+msgstr "Webcam"
+
 msgid "Touchscreen"
 msgstr "Touchscreen"
 
 msgid "Som"
 msgstr "Sound"
 
+msgid "Outros"
+msgstr "Other"
+
 msgid "Pesquisar Driver ou Firmware"
 msgstr "Search Driver or Firmware"
+
+msgid "Resultado da pesquisa"
+msgstr "Search result"
 
 msgid "Big-Driver-Manager"
 msgstr "Big-Driver-Manager"
@@ -129,23 +150,11 @@ msgstr "Driver"
 msgid "Ocorreu um erro e o driver não pode ser aplicado."
 msgstr "An error has occurred and the driver cannot be applied."
 
-msgid ""
-"Digite sua senha para gerar um relatório removendo dados sensíveis, por "
-"exemplo, endereço de IP, ou cancele para utilizar as informações da tela "
-"anterior."
-msgstr ""
-"Enter your password to generate a report removing sensitive data, for "
-"example IP address, or cancel to use the information from the previous "
-"screen."
-
-msgid "Digite sua senha para gerar um relatório mais completo."
-msgstr "Enter your password to generate a more complete report."
-
 msgid "Enviando, aguarde..."
 msgstr "Sending, please wait..."
 
-msgid "Resumo"
-msgstr "Summary"
+msgid "Ver informações do dispositivo no Linux Hardware"
+msgstr "View device information in Linux Hardware"
 
 msgid "Processador"
 msgstr "Processor"
@@ -156,8 +165,56 @@ msgstr "Motherboard"
 msgid "Memória"
 msgstr "Memory"
 
+msgid "Swap (Memória Virtual)"
+msgstr "Swap (Virtual Memory)"
+
+msgid "Áudio"
+msgstr "Audio"
+
 msgid "Rede"
 msgstr "Network"
+
+msgid "Conexões de Rede"
+msgstr "Network Connections"
+
+msgid "Dispositivos e conexões USB"
+msgstr "USB devices and connections"
+
+msgid "Portas PCI"
+msgstr "PCI ports"
+
+msgid "Bateria"
+msgstr "Battery"
+
+msgid "Dispositivos de Armazenamento"
+msgstr "Storage Devices"
+
+msgid "Partições montadas"
+msgstr "Mounted partitions"
+
+msgid "Partições desmontadas"
+msgstr "Disassembled partitions"
+
+msgid "Dispositivos lógicos"
+msgstr "Logic devices"
+
+msgid "Raid"
+msgstr "Raid"
+
+msgid "Sistema"
+msgstr "System"
+
+msgid "Informações de Sistema"
+msgstr "System Information"
+
+msgid "Repositórios"
+msgstr "Repositories"
+
+msgid "Temperatura"
+msgstr "Temperature"
+
+msgid "Resumo"
+msgstr "Summary"
 
 msgid "Usb"
 msgstr "Usb"
@@ -165,17 +222,11 @@ msgstr "Usb"
 msgid "Pci"
 msgstr "Pci"
 
-msgid "Bateria"
-msgstr "Battery"
-
 msgid "Armazenamento"
 msgstr "Storage"
 
-msgid "Temperatura"
-msgstr "Temperature"
-
-msgid "Áudio"
-msgstr "Audio"
+msgid "Mais informações"
+msgstr "More information"
 
 msgid "Pesquisar"
 msgstr "Search"
@@ -188,6 +239,21 @@ msgstr "RAM memory:"
 
 msgid "Vídeo:"
 msgstr "Video:"
+
+msgid "Instalado na partição:"
+msgstr "Installed on the partition:"
+
+msgid "Tamanho da partição:"
+msgstr "Partition size:"
+
+msgid "Espaço utilizado:"
+msgstr "Space used:"
+
+msgid "Espaço livre:"
+msgstr "Clear space:"
+
+msgid "Data que o sistema foi instalado:"
+msgstr "Date the system was installed:"
 
 msgid "Kernel em uso:"
 msgstr "Kernel in use:"
@@ -209,41 +275,23 @@ msgid "Cria um arquivo com informações que pode ser publicado na internet."
 msgstr ""
 "Creates a file with information that can be published on the internet."
 
-msgid "Ver informações do dispositivo no Linux Hardware"
-msgstr "View device information in Linux Hardware"
-
 msgid "Categoria"
 msgstr "Category"
 
-msgid "Swap (Memória Virtual)"
-msgstr "Swap (Virtual Memory)"
+msgid "ID"
+msgstr "ID"
 
-msgid "Conexões de Rede"
-msgstr "Network Connections"
+msgid "Info"
+msgstr "Info"
 
-msgid "Dispositivos e conexões USB"
-msgstr "USB devices and connections"
+msgid ""
+"Digite sua senha para gerar um relatório removendo dados sensíveis, por "
+"exemplo, endereço de IP, ou cancele para utilizar as informações da tela "
+"anterior."
+msgstr ""
+"Enter your password to generate a report removing sensitive data, for "
+"example IP address, or cancel to use the information from the previous "
+"screen."
 
-msgid "Portas PCI"
-msgstr "PCI ports"
-
-msgid "Dispositivos de Armazenamento"
-msgstr "Storage Devices"
-
-msgid "Partições montadas"
-msgstr "Mounted partitions"
-
-msgid "Partições desmontadas"
-msgstr "Disassembled partitions"
-
-msgid "Dispositivos lógicos"
-msgstr "Logic devices"
-
-msgid "Raid"
-msgstr "Raid"
-
-msgid "Informações de Sistema"
-msgstr "System Information"
-
-msgid "Repositórios"
-msgstr "Repositories"
+msgid "Digite sua senha para gerar um relatório mais completo."
+msgstr "Enter your password to generate a more complete report."

@@ -30,12 +30,6 @@ msgstr "A Big-Store nyitva van."
 msgid "Big-Store"
 msgstr "Big-Store"
 
-msgid "Instalar"
-msgstr "Telepítse a"
-
-msgid "Remover"
-msgstr "Távolítsa el a"
-
 msgid ""
 "Para os programas Snap aparecerem no menu do sistema finalize a sessão e "
 "faça login novamente."
@@ -121,9 +115,6 @@ msgstr ""
 "Csak a kiválasztott programokat jeleníti meg<br>\n"
 "és elrejti a hasznos eredményeket <br>\n"
 "csak haladó felhasználóknak."
-
-msgid "Aplicando - Aguarde"
-msgstr "Jelentkezés - Kérjük, várjon"
 
 msgid "Procurar programa"
 msgstr "Keresés program"
@@ -281,24 +272,6 @@ msgstr "Flatpak programok"
 msgid "Programas Snap"
 msgstr "Snap programok"
 
-msgid "Jogos"
-msgstr "Játékok"
-
-msgid "Instalado na partição:"
-msgstr "Telepítve a partícióra:"
-
-msgid "Tamanho da partição:"
-msgstr "Partíció mérete:"
-
-msgid "Espaço utilizado:"
-msgstr "Használt tér:"
-
-msgid "Espaço livre:"
-msgstr "Tiszta tér:"
-
-msgid "Data que o sistema foi instalado:"
-msgstr "A rendszer telepítésének dátuma:"
-
 msgid "Pacotes nativos e AUR"
 msgstr "Natív csomagok és AUR"
 
@@ -350,12 +323,6 @@ msgid ""
 msgstr ""
 "Ez a program .deb formátumú, amely a legjobban integrálódik a rendszerbe."
 
-msgid "Mais informações"
-msgstr "További információ"
-
-msgid "Voltar"
-msgstr "Vissza"
-
 msgid "Dependências a instalar"
 msgstr "Telepítendő függőségek"
 
@@ -385,9 +352,6 @@ msgstr "Elérhető verzió:"
 
 msgid "Repositório:"
 msgstr "Tárhely:"
-
-msgid "Cancelar"
-msgstr "Törölje"
 
 msgid "Instalando"
 msgstr "A  telepítése"

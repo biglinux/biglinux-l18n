@@ -64,6 +64,9 @@ msgstr ""
 "käytettävissä olevat osakkeet voidaan luetella; jätä tyhjäksi, jos haluat "
 "tehdä nimettömän haun."
 
+msgid "Cancelar"
+msgstr "Peruuta"
+
 msgid "Próximo"
 msgstr "Seuraava"
 
@@ -75,3 +78,9 @@ msgstr "Käyttäjän kanssa suoritettu haku:"
 
 msgid "na rede:"
 msgstr "verkossa:"
+
+msgid "Voltar"
+msgstr "Takaisin"
+
+msgid "Fechar"
+msgstr "Sulje"

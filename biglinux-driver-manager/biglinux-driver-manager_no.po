@@ -32,6 +32,12 @@ msgstr "Denne driveren er proprietær."
 msgid "Este driver parece compatível com este computador."
 msgstr "Denne driveren virker kompatibel med denne datamaskinen."
 
+msgid "Remover"
+msgstr "Fjern"
+
+msgid "Instalar"
+msgstr "Installer"
+
 msgid ""
 "Já existe outro driver nVidia instalado, para instalar este driver, remova "
 "primeiro o driver instalado."
@@ -60,6 +66,12 @@ msgid ""
 msgstr ""
 "Vil du se filen eller sende den til nettstedet transfer.sh, for å ha en URL "
 "med dataene på datamaskinen din på en enkel å dele måte?"
+
+msgid "Categorias"
+msgstr "Kategorier"
+
+msgid "Principais"
+msgstr "Hoved"
 
 msgid "Driver detectado:"
 msgstr "Driver oppdaget:"
@@ -91,14 +103,23 @@ msgstr "Skanner"
 msgid "TV Digital"
 msgstr "Digital-TV"
 
+msgid "Webcam"
+msgstr "webkamera"
+
 msgid "Touchscreen"
 msgstr "Berøringsskjerm"
 
 msgid "Som"
 msgstr "lyd"
 
+msgid "Outros"
+msgstr "Annet"
+
 msgid "Pesquisar Driver ou Firmware"
 msgstr "Søk etter Driver eller Firmware"
+
+msgid "Resultado da pesquisa"
+msgstr "Søk resultat"
 
 msgid "Big-Driver-Manager"
 msgstr "Stor sjåfør-leder"
@@ -130,23 +151,11 @@ msgstr "Driver"
 msgid "Ocorreu um erro e o driver não pode ser aplicado."
 msgstr "Det oppstod en feil, og driveren kan ikke brukes."
 
-msgid ""
-"Digite sua senha para gerar um relatório removendo dados sensíveis, por "
-"exemplo, endereço de IP, ou cancele para utilizar as informações da tela "
-"anterior."
-msgstr ""
-"Skriv inn passordet ditt for å generere en rapport som fjerner sensitive "
-"data, for eksempel IP-adresse, eller avbryt for å bruke informasjonen fra "
-"forrige skjermbilde."
-
-msgid "Digite sua senha para gerar um relatório mais completo."
-msgstr "Skriv inn passordet ditt for å generere en mer fullstendig rapport."
-
 msgid "Enviando, aguarde..."
 msgstr "Sender, vennligst vent..."
 
-msgid "Resumo"
-msgstr "Sammendrag"
+msgid "Ver informações do dispositivo no Linux Hardware"
+msgstr "Vis enhetsinformasjon på Linux-maskinvare"
 
 msgid "Processador"
 msgstr "prosessor"
@@ -157,8 +166,56 @@ msgstr "Hovedkort"
 msgid "Memória"
 msgstr "minner"
 
+msgid "Swap (Memória Virtual)"
+msgstr "Bytte (virtuelt minne)"
+
+msgid "Áudio"
+msgstr "Lyd"
+
 msgid "Rede"
 msgstr "Netto"
+
+msgid "Conexões de Rede"
+msgstr "Nettverkstilkoblinger"
+
+msgid "Dispositivos e conexões USB"
+msgstr "USB-enheter og tilkoblinger"
+
+msgid "Portas PCI"
+msgstr "PCI-porter"
+
+msgid "Bateria"
+msgstr "Trommer"
+
+msgid "Dispositivos de Armazenamento"
+msgstr "lagringsenheter"
+
+msgid "Partições montadas"
+msgstr "Monterte partisjoner"
+
+msgid "Partições desmontadas"
+msgstr "Demonterte partisjoner"
+
+msgid "Dispositivos lógicos"
+msgstr "Logiske enheter"
+
+msgid "Raid"
+msgstr "Raid"
+
+msgid "Sistema"
+msgstr "Systemet"
+
+msgid "Informações de Sistema"
+msgstr "Informasjon om systemet"
+
+msgid "Repositórios"
+msgstr "Repositorier"
+
+msgid "Temperatura"
+msgstr "praktikanter"
+
+msgid "Resumo"
+msgstr "Sammendrag"
 
 msgid "Usb"
 msgstr "USB"
@@ -166,17 +223,11 @@ msgstr "USB"
 msgid "Pci"
 msgstr "PCI"
 
-msgid "Bateria"
-msgstr "Trommer"
-
 msgid "Armazenamento"
 msgstr "Lagring"
 
-msgid "Temperatura"
-msgstr "praktikanter"
-
-msgid "Áudio"
-msgstr "Lyd"
+msgid "Mais informações"
+msgstr "Mer informasjon"
 
 msgid "Pesquisar"
 msgstr "Søke"
@@ -189,6 +240,21 @@ msgstr "RAM-minne:"
 
 msgid "Vídeo:"
 msgstr "Video:"
+
+msgid "Instalado na partição:"
+msgstr "Installert på partisjonen:"
+
+msgid "Tamanho da partição:"
+msgstr "Partisjon størrelse:"
+
+msgid "Espaço utilizado:"
+msgstr "Plass brukt:"
+
+msgid "Espaço livre:"
+msgstr "Ledig plass:"
+
+msgid "Data que o sistema foi instalado:"
+msgstr "Dato systemet ble installert:"
 
 msgid "Kernel em uso:"
 msgstr "Kjernen i bruk:"
@@ -209,41 +275,23 @@ msgstr "Generer rapport"
 msgid "Cria um arquivo com informações que pode ser publicado na internet."
 msgstr "Oppretter en fil med informasjon som kan publiseres på internett."
 
-msgid "Ver informações do dispositivo no Linux Hardware"
-msgstr "Vis enhetsinformasjon på Linux-maskinvare"
-
 msgid "Categoria"
 msgstr "Kategori"
 
-msgid "Swap (Memória Virtual)"
-msgstr "Bytte (virtuelt minne)"
+msgid "ID"
+msgstr "ID"
 
-msgid "Conexões de Rede"
-msgstr "Nettverkstilkoblinger"
+msgid "Info"
+msgstr "Info"
 
-msgid "Dispositivos e conexões USB"
-msgstr "USB-enheter og tilkoblinger"
+msgid ""
+"Digite sua senha para gerar um relatório removendo dados sensíveis, por "
+"exemplo, endereço de IP, ou cancele para utilizar as informações da tela "
+"anterior."
+msgstr ""
+"Skriv inn passordet ditt for å generere en rapport som fjerner sensitive "
+"data, for eksempel IP-adresse, eller avbryt for å bruke informasjonen fra "
+"forrige skjermbilde."
 
-msgid "Portas PCI"
-msgstr "PCI-porter"
-
-msgid "Dispositivos de Armazenamento"
-msgstr "lagringsenheter"
-
-msgid "Partições montadas"
-msgstr "Monterte partisjoner"
-
-msgid "Partições desmontadas"
-msgstr "Demonterte partisjoner"
-
-msgid "Dispositivos lógicos"
-msgstr "Logiske enheter"
-
-msgid "Raid"
-msgstr "Raid"
-
-msgid "Informações de Sistema"
-msgstr "Informasjon om systemet"
-
-msgid "Repositórios"
-msgstr "Repositorier"
+msgid "Digite sua senha para gerar um relatório mais completo."
+msgstr "Skriv inn passordet ditt for å generere en mer fullstendig rapport."

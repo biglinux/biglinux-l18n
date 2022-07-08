@@ -32,12 +32,6 @@ msgstr "mikrofon Filter"
 msgid "Ativando"
 msgstr "aktiverer"
 
-msgid "Filtro de ruído"
-msgstr "Støy filter"
-
-msgid "Iniciar automaticamente"
-msgstr "Start automatisk"
-
 msgid "Configuração aplicada"
 msgstr "Konfigurasjon brukt"
 
@@ -66,3 +60,22 @@ msgstr ""
 
 msgid "Cancelado, nenhuma configuração foi removida!"
 msgstr "Avbrutt, ingen innstillinger ble fjernet!"
+
+msgid ""
+"Este filtro utiliza técnicas de redes neurais para remover ruídos e sons do "
+"ambiente que atrapalham gravações e chamadas online."
+msgstr ""
+"Dette filteret bruker nevrale nettverksteknikker for å fjerne "
+"omgivelseslyder og lyder som forstyrrer online opptak og samtaler."
+
+msgid "Gerenciador de Áudio"
+msgstr "Audio Manager"
+
+msgid "Frequências sonoras:"
+msgstr "Lydfrekvenser:"
+
+msgid "Filtro de ruído"
+msgstr "Støy filter"
+
+msgid "Iniciar automaticamente"
+msgstr "Start automatisk"

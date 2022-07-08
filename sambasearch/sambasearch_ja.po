@@ -61,6 +61,9 @@ msgid ""
 "anônima."
 msgstr "*ほとんどのサーバーでは、利用可能な共有の一覧を表示するためにログインとパスワードが必要です。匿名で検索する場合は空白にしてください。"
 
+msgid "Cancelar"
+msgstr "キャンセル"
+
 msgid "Próximo"
 msgstr "次のページ"
 
@@ -72,3 +75,9 @@ msgstr "ユーザーと一緒に実施した検索。"
 
 msgid "na rede:"
 msgstr "をネットワークに接続します。"
+
+msgid "Voltar"
+msgstr "背面"
+
+msgid "Fechar"
+msgstr "閉じる"

@@ -66,6 +66,9 @@ msgstr ""
 "*De meeste servers vereisen een login en wachtwoord om de beschikbare "
 "aandelen op te sommen, laat leeg om anoniem te zoeken."
 
+msgid "Cancelar"
+msgstr "Annuleren"
+
 msgid "Próximo"
 msgstr "Volgende"
 
@@ -77,3 +80,9 @@ msgstr "Zoekopdracht uitgevoerd bij de gebruiker:"
 
 msgid "na rede:"
 msgstr "op het netwerk:"
+
+msgid "Voltar"
+msgstr "Terug"
+
+msgid "Fechar"
+msgstr "Sluiten"

@@ -30,12 +30,6 @@ msgstr "Big-Store on avatud."
 msgid "Big-Store"
 msgstr "Big-Store"
 
-msgid "Instalar"
-msgstr "Paigaldage"
-
-msgid "Remover"
-msgstr "Eemaldage"
-
 msgid ""
 "Para os programas Snap aparecerem no menu do sistema finalize a sessão e "
 "faça login novamente."
@@ -120,9 +114,6 @@ msgstr ""
 "Kuvab ainult valitud programme<br>\n"
 "ja peidab kasulikud tulemused <br>\n"
 "ainult edasijõudnud kasutajatele."
-
-msgid "Aplicando - Aguarde"
-msgstr "Taotlemine - Palun oodake"
 
 msgid "Procurar programa"
 msgstr "Otsi programmi"
@@ -280,24 +271,6 @@ msgstr "Flatpak programmid"
 msgid "Programas Snap"
 msgstr "Snap programmid"
 
-msgid "Jogos"
-msgstr "Mängud"
-
-msgid "Instalado na partição:"
-msgstr "Paigaldatud partitsioonile:"
-
-msgid "Tamanho da partição:"
-msgstr "Jaotise suurus:"
-
-msgid "Espaço utilizado:"
-msgstr "Kasutatud ruum:"
-
-msgid "Espaço livre:"
-msgstr "Vaba ruum:"
-
-msgid "Data que o sistema foi instalado:"
-msgstr "Süsteemi paigaldamise kuupäev:"
-
 msgid "Pacotes nativos e AUR"
 msgstr "Emakeelsed paketid ja AUR"
 
@@ -350,12 +323,6 @@ msgstr ""
 "See programm on .deb formaadis, mis on kõige paremini süsteemiga "
 "integreeritav."
 
-msgid "Mais informações"
-msgstr "Lisateave"
-
-msgid "Voltar"
-msgstr "Tagasi"
-
 msgid "Dependências a instalar"
 msgstr "Paigaldatavad sõltuvused"
 
@@ -385,9 +352,6 @@ msgstr "Saadaval versioon:"
 
 msgid "Repositório:"
 msgstr "Hoiukoht:"
-
-msgid "Cancelar"
-msgstr "Tühista"
 
 msgid "Instalando"
 msgstr "Paigaldamine"

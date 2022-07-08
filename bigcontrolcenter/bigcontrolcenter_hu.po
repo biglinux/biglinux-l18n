@@ -30,20 +30,11 @@ msgstr ""
 "Az elvégzett változtatások láthatóak\n"
 "a webkamera képében más programokban."
 
-msgid "Webcam"
-msgstr "Webkamera"
-
 msgid "Category"
 msgstr "Kategória"
 
 msgid "Name"
 msgstr "Név"
-
-msgid "ID"
-msgstr "ID"
-
-msgid "Info"
-msgstr "Info"
 
 msgid ""
 "O relatório foi salvo no arquivo $FILE_TO_SAVE\n"
@@ -65,15 +56,6 @@ msgstr "Bevezetés a BigLinuxba"
 
 msgid "Central de Controle"
 msgstr "Vezérlőközpont"
-
-msgid "Bom dia"
-msgstr "Jó reggelt!"
-
-msgid "Boa tarde"
-msgstr "Jó napot!"
-
-msgid "Boa noite"
-msgstr "Jó estét!"
 
 msgid "Aguarde, carregando..."
 msgstr "Készülj, töltés..."
@@ -98,9 +80,6 @@ msgid ""
 "extremamente simples."
 msgstr ""
 "Teljes konfigurációkat kínálunk, amelyek közül nagyon egyszerűen választhat."
-
-msgid "Temas, Desktop e Ajustes"
-msgstr "Témák, Asztal és beállítások"
 
 msgid "Escolha seu Avatar"
 msgstr "Válassza ki az avatárját"
@@ -161,9 +140,6 @@ msgstr "Zajcsökkentő"
 
 msgid "Configurar a voz do sistema (TTS)"
 msgstr "Rendszerhang (TTS) beállítása"
-
-msgid "OCR para PDF"
-msgstr "OCR a PDF-hez"
 
 msgid "Doação e Redes sociais"
 msgstr "Adományozás és szociális hálózatok"
@@ -442,12 +418,6 @@ msgstr "A képernyőbeállítások visszaállítása megtörtént."
 msgid "Configurações da tela"
 msgstr "Képernyőbeállítások"
 
-msgid "Categorias"
-msgstr "Kategóriák"
-
-msgid "Principais"
-msgstr "Főoldal"
-
 msgid "Aparência"
 msgstr "Megjelenés"
 
@@ -475,23 +445,11 @@ msgstr "Adatvédelem"
 msgid "Servidor"
 msgstr "Szerver"
 
-msgid "Desenvolvimento"
-msgstr "Fejlesztés"
-
 msgid "Sobre"
 msgstr "A  oldalról"
 
-msgid "Outros"
-msgstr "Egyéb"
-
 msgid "Pesquisar..."
 msgstr "Keresés..."
-
-msgid "Resultado da pesquisa"
-msgstr "Keresés eredménye"
-
-msgid "Abrir"
-msgstr "Nyissa meg a  címet"
 
 msgid "Temas, desktop e ajustes"
 msgstr "Témák, asztal és beállítások"
