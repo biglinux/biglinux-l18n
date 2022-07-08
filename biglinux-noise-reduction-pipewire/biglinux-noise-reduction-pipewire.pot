@@ -7,7 +7,7 @@
 msgid   ""
 msgstr  "Project-Id-Version: biglinux-noise-reduction-pipewire\n"
         "Report-Msgid-Bugs-To: \n"
-        "POT-Creation-Date: 2022-07-08 14:40-0300\n"
+        "POT-Creation-Date: 2022-07-08 15:16-0300\n"
         "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
         "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
         "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -29,12 +29,6 @@ msgid   "Filtro do Microfone"
 msgstr  ""
 
 msgid   "Ativando"
-msgstr  ""
-
-msgid   "Filtro de ruído"
-msgstr  ""
-
-msgid   "Iniciar automaticamente"
 msgstr  ""
 
 msgid   "Configuração aplicada"
