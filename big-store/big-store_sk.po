@@ -1,0 +1,95 @@
+# #-#-#-#-#  big-store.pot (big-store)  #-#-#-#-#
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the big-store package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+# #-#-#-#-#  python.pot (PACKAGE VERSION)  #-#-#-#-#
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR ORGANIZATION
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-06-21 03:19-0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: sk\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: pygettext.py 1.5"
+
+msgid "A Big-Store já está em uso."
+msgstr "Big-Store sa už používa."
+
+msgid "Suporte a Flatpak ativo."
+msgstr "Aktívna podpora Flatpaku."
+
+msgid "Suporte a Flatpak NÃO está ativo."
+msgstr "Podpora Flatpaku NIE JE aktívna."
+
+msgid "Suporte a Snap ativo."
+msgstr "Podpora funkcie Active Snap."
+
+msgid "Suporte a Snap NÃO está ativo."
+msgstr "Podpora funkcie Snap NIE JE aktívna."
+
+msgid "Atualizar cache dos repositórios nativos."
+msgstr "Aktualizácia vyrovnávacej pamäte natívnych úložísk."
+
+msgid "Procurar o servidor de repositórios nativos mais rápido no momento."
+msgstr "Vyhľadajte momentálne najrýchlejší natívny server úložiska."
+
+msgid "Utilize as opções a seguir com cautela:"
+msgstr "Nasledujúce možnosti používajte opatrne:"
+
+msgid ""
+"Atualizar as chaves dos repositórios BigLinux, Manjaro e Archlinux. Lembre "
+"que se você ativou repositórios complementares será necessário adicionar as "
+"chaves desses repositórios novamente."
+msgstr ""
+"Aktualizujte kľúče repozitárov BigLinux, Manjaro a Archlinux. Nezabudnite, "
+"že ak ste aktivovali doplnkové úložiská, budete musieť kľúče týchto úložísk "
+"pridať znova."
+
+msgid ""
+"Forçar atualizações, utilize essa opção se não estiver conseguindo atualizar "
+"o sistema, porém, na atualização forçada alguns programas podem ser "
+"removidos."
+msgstr ""
+"Vynútiť aktualizácie, túto možnosť použite, ak sa vám nedarí aktualizovať "
+"systém, avšak pri vynútenej aktualizácii môžu byť niektoré programy "
+"odstránené."
+
+msgid ""
+"Programas Snap, assim como o Flatpak<br>\n"
+"disponibiliza programas para todas as distribuições Linux.<br>\n"
+"Tende a ser mais pesado e menos integrado ao sistema, mas<br>\n"
+"se o programa que você procura está disponível apenas neste<br>\n"
+"formato, utilize-o."
+msgstr ""
+"Programy Snap, ako napríklad Flatpak<br>\n"
+"poskytuje softvér pre všetky distribúcie Linuxu.<br>\n"
+"Je zvyčajne ťažší a menej integrovaný do systému, ale<br>\n"
+"ak je hľadaný program dostupný len v tejto<br>\n"
+"použite ho."
+
+msgid "Informações sobre programas nativos"
+msgstr "Informácie o pôvodných programoch"
+
+msgid "Informações sobre programas SNAP"
+msgstr "Informácie o programoch SNAP"
+
+msgid "Programas SNAP"
+msgstr "Programy SNAP"
+
+msgid "Assinado:"
+msgstr "Podpísané:"
+
+msgid "Informações sobre programas AUR"
+msgstr "Informácie o programoch AUR"

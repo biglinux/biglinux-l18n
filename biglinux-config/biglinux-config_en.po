@@ -1,0 +1,95 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the biglinux-config package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: biglinux-config\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-06-21 03:18-0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit"
+
+msgid ""
+"Restaurar&nbsp;o&nbsp;programa&nbsp;como&nbsp;modo&nbsp;padrão&nbsp;ou&nbsp;distribuição&nbsp;BigLinux."
+""
+msgstr "Restore the program as the default mode or BigLinux distribution."
+
+msgid "Restaurar&nbsp;o&nbsp;programa&nbsp;como&nbsp;modo&nbsp;padrão."
+msgstr "Restore the program as default mode."
+
+msgid ""
+"Músicas-(Clementine) clementine.sh Multimedia clementine.png clementine skel "
+"$COMMENT_skel"
+msgstr ""
+"Music-(Clementine) clementine.sh Multimedia clementine.png clementine skel "
+"$COMMENT_skel"
+
+msgid ""
+"Gravador-de-Tela-(vokoscreenNG) vokoscreen.sh Multimedia vokoscreen.png "
+"vokoscreenNG  $COMMENT_normal"
+msgstr ""
+"Screen Recorder-(vokoscreenNG) vokoscreen.sh Multimedia vokoscreen.png "
+"vokoscreenNG $COMMENT_normal"
+
+msgid ""
+"Vídeos-(Smplayer) smplayer.sh Multimedia smplayer.png smplayer skel "
+"$COMMENT_skel"
+msgstr ""
+"Videos-(Smplayer) smplayer.sh Multimedia smplayer.png smplayer skel "
+"$COMMENT_skel"
+
+msgid "Restaurar no modo padrão da distribuição"
+msgstr "Restore to default distribution mode"
+
+msgid "Essa opção restaura o programa com o padrão do BigLinux."
+msgstr "This option restores the program to the BigLinux default."
+
+msgid "Restaurar no modo padrão do programa"
+msgstr "Restore in default program mode"
+
+msgid "Essa opção restaura o programa com o padrão do desenvolvedor."
+msgstr "This option restores the program to the developer default."
+
+msgid "Restaurar as configurações do programa:"
+msgstr "Restore the program settings:"
+
+msgid "Principal"
+msgstr "Main"
+
+msgid "Pesquisar Restaurar"
+msgstr "Search Restore"
+
+msgid "Restaurar Configurações"
+msgstr "Restore Settings"
+
+msgid ""
+"Atenção! O programa está aberto!\\nEle será fechado para que a restauração "
+"tenha efeito."
+msgstr ""
+"Attention! The program is open! It will be closed for the restoration to "
+"take effect."
+
+msgid "As configurações foram restauradas com sucesso!"
+msgstr "The settings have been successfully restored!"
+
+msgid ""
+"Você tem certeza que deseja restaurar todas as configurações do KDE/"
+"Plasma?\\nIsso apagará todas as configurações definidas por $USER!"
+msgstr ""
+"Are you sure you want to restore all KDE/Plasma settings?\\nIsIsIs erase all "
+"settings defined by $USER!"
+
+msgid ""
+"As configurações foram restauradas com sucesso!\\nÉ necessário fazer logoff/"
+"login para concluir a restauração!"
+msgstr ""
+"The settings have been successfully restored! You must be logged off/on to "
+"complete the restoration!"

@@ -1,0 +1,95 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the biglinux-config package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: biglinux-config\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-06-21 03:18-0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: be\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit"
+
+msgid ""
+"Restaurar&nbsp;o&nbsp;programa&nbsp;como&nbsp;modo&nbsp;padrão&nbsp;ou&nbsp;distribuição&nbsp;BigLinux."
+""
+msgstr "Аднавіце праграму ў стандартным рэжыме або ў дыстрыбутыве BigLinux."
+
+msgid "Restaurar&nbsp;o&nbsp;programa&nbsp;como&nbsp;modo&nbsp;padrão."
+msgstr "Аднавіць праграму ў рэжыме па змаўчанні."
+
+msgid ""
+"Músicas-(Clementine) clementine.sh Multimedia clementine.png clementine skel "
+"$COMMENT_skel"
+msgstr ""
+"Песні-(Clementine) clementine.sh Мультымедыя clementine.png clementine skel "
+"$COMMENT_skel"
+
+msgid ""
+"Gravador-de-Tela-(vokoscreenNG) vokoscreen.sh Multimedia vokoscreen.png "
+"vokoscreenNG  $COMMENT_normal"
+msgstr ""
+"Запіс экрана-(vokoscreenNG) vokoscreen.sh Мультымедыя vokoscreen.png "
+"vokoscreenNG $COMMENT_normal"
+
+msgid ""
+"Vídeos-(Smplayer) smplayer.sh Multimedia smplayer.png smplayer skel "
+"$COMMENT_skel"
+msgstr ""
+"Відэа-(Smplayer) smplayer.sh Мультымедыя smplayer.png smplayer skel "
+"$COMMENT_skel"
+
+msgid "Restaurar no modo padrão da distribuição"
+msgstr "Аднавіць у рэжыме распаўсюджвання па змаўчанні"
+
+msgid "Essa opção restaura o programa com o padrão do BigLinux."
+msgstr "Гэтая опцыя аднаўляе праграму да стандартнага стану BigLinux."
+
+msgid "Restaurar no modo padrão do programa"
+msgstr "Аднаўленне праграмнага рэжыму па змаўчанні"
+
+msgid "Essa opção restaura o programa com o padrão do desenvolvedor."
+msgstr "Гэтая опцыя аднаўляе праграму да стандартнага для распрацоўшчыка."
+
+msgid "Restaurar as configurações do programa:"
+msgstr "Аднавіць налады праграмы:"
+
+msgid "Principal"
+msgstr "Галоўны"
+
+msgid "Pesquisar Restaurar"
+msgstr "Пошук Аднаўленне"
+
+msgid "Restaurar Configurações"
+msgstr "Аднавіць налады"
+
+msgid ""
+"Atenção! O programa está aberto!\\nEle será fechado para que a restauração "
+"tenha efeito."
+msgstr ""
+"Галава ўверх! Праграма адкрыта!\\nЯна будзе зачынена, каб аднаўленне "
+"ўступіла ў сілу."
+
+msgid "As configurações foram restauradas com sucesso!"
+msgstr "Налады былі паспяхова адноўлены!"
+
+msgid ""
+"Você tem certeza que deseja restaurar todas as configurações do KDE/"
+"Plasma?\\nIsso apagará todas as configurações definidas por $USER!"
+msgstr ""
+"Вы ўпэўнены, што хочаце аднавіць усе налады KDE/Plasma?\\nГэта прывядзе да "
+"выдалення ўсіх налад, вызначаных $USER!"
+
+msgid ""
+"As configurações foram restauradas com sucesso!\\nÉ necessário fazer logoff/"
+"login para concluir a restauração!"
+msgstr ""
+"Налады паспяхова адноўлены!\\nДля завяршэння аднаўлення неабходны выхад з "
+"сістэмы!"

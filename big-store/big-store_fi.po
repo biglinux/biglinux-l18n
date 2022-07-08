@@ -1,0 +1,95 @@
+# #-#-#-#-#  big-store.pot (big-store)  #-#-#-#-#
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the big-store package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+# #-#-#-#-#  python.pot (PACKAGE VERSION)  #-#-#-#-#
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR ORGANIZATION
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-06-21 03:19-0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: fi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: pygettext.py 1.5"
+
+msgid "A Big-Store já está em uso."
+msgstr "Big-Store on jo käytössä."
+
+msgid "Suporte a Flatpak ativo."
+msgstr "Aktiivinen Flatpak-tuki."
+
+msgid "Suporte a Flatpak NÃO está ativo."
+msgstr "Flatpak-tuki EI ole aktiivinen."
+
+msgid "Suporte a Snap ativo."
+msgstr "Aktiivinen Snap-tuki."
+
+msgid "Suporte a Snap NÃO está ativo."
+msgstr "Snap-tuki EI ole aktiivinen."
+
+msgid "Atualizar cache dos repositórios nativos."
+msgstr "Päivitä natiivien arkistojen välimuisti."
+
+msgid "Procurar o servidor de repositórios nativos mais rápido no momento."
+msgstr "Etsi nopein natiivi arkistopalvelin tällä hetkellä."
+
+msgid "Utilize as opções a seguir com cautela:"
+msgstr "Käytä seuraavia vaihtoehtoja varoen:"
+
+msgid ""
+"Atualizar as chaves dos repositórios BigLinux, Manjaro e Archlinux. Lembre "
+"que se você ativou repositórios complementares será necessário adicionar as "
+"chaves desses repositórios novamente."
+msgstr ""
+"Päivitä BigLinux-, Manjaro- ja Archlinux-tietovarastojen avaimet. Muista, "
+"että jos olet aktivoinut täydentäviä arkistoja, sinun on lisättävä näiden "
+"arkistojen avaimet uudelleen."
+
+msgid ""
+"Forçar atualizações, utilize essa opção se não estiver conseguindo atualizar "
+"o sistema, porém, na atualização forçada alguns programas podem ser "
+"removidos."
+msgstr ""
+"Pakota päivitykset, käytä tätä vaihtoehtoa, jos et pysty päivittämään "
+"järjestelmää, mutta pakotetussa päivityksessä joitakin ohjelmia saatetaan "
+"poistaa."
+
+msgid ""
+"Programas Snap, assim como o Flatpak<br>\n"
+"disponibiliza programas para todas as distribuições Linux.<br>\n"
+"Tende a ser mais pesado e menos integrado ao sistema, mas<br>\n"
+"se o programa que você procura está disponível apenas neste<br>\n"
+"formato, utilize-o."
+msgstr ""
+"Snap-ohjelmat, kuten Flatpak<br>\n"
+"tarjoaa ohjelmistoja kaikille Linux-jakeluille.<br>\n"
+"Se on yleensä painavampi ja vähemmän integroitu järjestelmään, mutta<br>\n"
+"jos etsimäsi ohjelma on saatavilla vain tässä osoitteessa<br>\n"
+"muodossa, käytä sitä."
+
+msgid "Informações sobre programas nativos"
+msgstr "Tietoa natiiviohjelmista"
+
+msgid "Informações sobre programas SNAP"
+msgstr "Tietoa SNAP-ohjelmista"
+
+msgid "Programas SNAP"
+msgstr "SNAP-ohjelmat"
+
+msgid "Assinado:"
+msgstr "Allekirjoitettu:"
+
+msgid "Informações sobre programas AUR"
+msgstr "Tietoa AUR-ohjelmista"

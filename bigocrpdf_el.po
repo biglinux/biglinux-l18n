@@ -1,0 +1,95 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the bigocrpdf package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: bigocrpdf\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-07-08 14:40-0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: el\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit"
+
+msgid "Torne seu PDF pesquisável"
+msgstr "Κάντε το PDF σας αναζητήσιμο"
+
+msgid ""
+"Escolha o arquivo PDF para aplicar o OCR, com isso será possível efetuar "
+"buscas ou copiar textos.\n"
+"\n"
+"Você também pode utilizar o gerenciador de arquivos, clicar com o botão "
+"direito no arquivo PDF, 'Abrir com' e selecionar a opção de OCR."
+msgstr ""
+"Επιλέξτε το αρχείο PDF για να εφαρμόσετε OCR, ώστε να μπορείτε να "
+"αναζητήσετε ή να αντιγράψετε κείμενα.\n"
+"\n"
+"Μπορείτε επίσης να χρησιμοποιήσετε τη διαχείριση αρχείων, να κάνετε δεξί "
+"κλικ στο αρχείο PDF, να επιλέξετε 'Άνοιγμα με' και να επιλέξετε την επιλογή "
+"OCR."
+
+msgid "Normal"
+msgstr ""
+
+msgid "Economico"
+msgstr ""
+
+msgid "Mais econômico"
+msgstr ""
+
+msgid "Alinhar"
+msgstr ""
+
+msgid "Auto rotacionar"
+msgstr ""
+
+msgid "Alinhar e auto rotacionar"
+msgstr ""
+
+msgid "Não alterar"
+msgstr ""
+
+msgid "Espanhol"
+msgstr ""
+
+msgid "Inglês"
+msgstr ""
+
+msgid "Português"
+msgstr ""
+
+msgid ""
+"Adicionar OCR no PDF digitalizado permitindo seleção de textos e busca:"
+msgstr ""
+"Προσθέστε OCR στο σαρωμένο PDF, επιτρέποντας την επιλογή και αναζήτηση "
+"κειμένου:"
+
+msgid "Quantidade de arquivos:"
+msgstr ""
+
+msgid "Páginas:"
+msgstr ""
+
+msgid "Idioma do PDF:"
+msgstr ""
+
+msgid "Qualidade do PDF:"
+msgstr ""
+
+msgid "Alinhamento:"
+msgstr ""
+
+msgid "OCR para PDF"
+msgstr "OCR για PDF"
+
+msgid "Concluído!"
+msgstr "Έγινε!"
+
+msgid "Salvo em: "
+msgstr ""

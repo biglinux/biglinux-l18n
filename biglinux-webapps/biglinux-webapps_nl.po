@@ -1,0 +1,122 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the biglinux-webapps package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: biglinux-webapps\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-06-21 03:19-0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: nl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit"
+
+msgid "Selecionar imagem"
+msgstr "Beeld kiezen"
+
+msgid "Adicionar WebApps"
+msgstr "WebApps toevoegen"
+
+msgid "WebApps Adicionados"
+msgstr "WebApps toegevoegd"
+
+msgid "WebApps BigLinux"
+msgstr "WebApps BigLinux"
+
+msgid "Url:"
+msgstr "Url:"
+
+msgid "Detectar Nome e Ícone"
+msgstr "Detecteer naam en pictogram"
+
+msgid "Nome:"
+msgstr "Naam:"
+
+msgid "Ícone:"
+msgstr "Icoon:"
+
+msgid "Alterar"
+msgstr "Veranderen"
+
+msgid "Navegador:"
+msgstr "Navigator:"
+
+msgid "Categoria:"
+msgstr "Categorie:"
+
+msgid "DESENVOLVIMENTO"
+msgstr "ONTWIKKELING"
+
+msgid "ESCRITÓRIO"
+msgstr "KANTOOR"
+
+msgid "GRÁFICOS"
+msgstr "GRAFIEK"
+
+msgid "JOGOS"
+msgstr "SPELLEN"
+
+msgid "MULTIMÍDIA"
+msgstr "MULTIMEDIA"
+
+msgid "Criar atalho na Área de Trabalho"
+msgstr "Snelkoppeling op het bureaublad maken"
+
+msgid "Perfil adicional"
+msgstr "Extra profiel"
+
+msgid "YouTube Modo TV"
+msgstr "YouTube TV-modus"
+
+msgid "Adicionar"
+msgstr "Toevoegen"
+
+msgid "Para adicionar um WebApp, você precisa informar a Url e o Nome."
+msgstr "Om een WebApp toe te voegen, moet u de Url en de Name doorgeven."
+
+msgid "Para detectar o Nome e o Ícone você precisa informar a Url."
+msgstr ""
+"Om de Naam en de Icoon op te sporen moet u de Url op de hoogte brengen."
+
+msgid ""
+"A Url é inválida ou a conexão falhou.<br>Tente inserir o ícone pelo botão "
+"Alterar."
+msgstr ""
+"De Url is ongeldig of de verbinding is mislukt.<br>Probeer het pictogram in "
+"te voegen met de knop Wijzigen."
+
+msgid "O WebApp foi adicionado com sucesso!"
+msgstr "De WebApp is met succes toegevoegd!"
+
+msgid "Ícones encontrados"
+msgstr "Gevonden pictogrammen"
+
+msgid "Selecione o ícone preferido:"
+msgstr "Kies het gewenste pictogram:"
+
+msgid "Tem certeza que deseja remover este WebApp?"
+msgstr "Weet u zeker dat u deze WebApp wilt verwijderen?"
+
+msgid "Nenhum WebApp adicionado!"
+msgstr "Geen WebApp toegevoegd!"
+
+msgid "Navegador padrão<br>dos webapps:"
+msgstr "Standaard<br>webapps browser:"
+
+msgid "Alterar navegador"
+msgstr "Verander browser"
+
+msgid "Selecione o navegador preferido:"
+msgstr "Kies de browser van uw voorkeur:"
+
+msgid "WebApps Nativos"
+msgstr "Native WebApps"
+
+msgid "Aguarde, estamos preparando para começar..."
+msgstr "Stand by, we maken ons klaar om te beginnen..."

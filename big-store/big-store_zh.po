@@ -1,0 +1,89 @@
+# #-#-#-#-#  big-store.pot (big-store)  #-#-#-#-#
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the big-store package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+# #-#-#-#-#  python.pot (PACKAGE VERSION)  #-#-#-#-#
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR ORGANIZATION
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-06-21 03:19-0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: zh\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: pygettext.py 1.5"
+
+msgid "A Big-Store já está em uso."
+msgstr "BigStore 已在使用中。"
+
+msgid "Suporte a Flatpak ativo."
+msgstr "积极支持Flatpak。"
+
+msgid "Suporte a Flatpak NÃO está ativo."
+msgstr "Flatpak支持不活跃。"
+
+msgid "Suporte a Snap ativo."
+msgstr "积极支持Snap。"
+
+msgid "Suporte a Snap NÃO está ativo."
+msgstr "Snap支持并不活跃。"
+
+msgid "Atualizar cache dos repositórios nativos."
+msgstr "更新本地存储库的缓存。"
+
+msgid "Procurar o servidor de repositórios nativos mais rápido no momento."
+msgstr "搜索目前最快的本地资源库服务器。"
+
+msgid "Utilize as opções a seguir com cautela:"
+msgstr "谨慎使用以下选项。"
+
+msgid ""
+"Atualizar as chaves dos repositórios BigLinux, Manjaro e Archlinux. Lembre "
+"que se você ativou repositórios complementares será necessário adicionar as "
+"chaves desses repositórios novamente."
+msgstr "更新BigLinux、Manjaro和Archlinux存储库的密钥。记住，如果你已经激活了补充库，将需要再次添加这些库的密钥。"
+
+msgid ""
+"Forçar atualizações, utilize essa opção se não estiver conseguindo atualizar "
+"o sistema, porém, na atualização forçada alguns programas podem ser "
+"removidos."
+msgstr "强制更新，如果你无法更新系统，就使用这个选项，然而，在强制更新中，一些程序可能被删除。"
+
+msgid ""
+"Programas Snap, assim como o Flatpak<br>\n"
+"disponibiliza programas para todas as distribuições Linux.<br>\n"
+"Tende a ser mais pesado e menos integrado ao sistema, mas<br>\n"
+"se o programa que você procura está disponível apenas neste<br>\n"
+"formato, utilize-o."
+msgstr ""
+"Snap程序，如Flatpak<br>\n"
+"为所有Linux发行版提供软件。<br>\n"
+"它往往更重，而且与系统的整合度更低，但<br>\n"
+"如果你要找的程序只在这个地方有<br>\n"
+"格式，使用它。"
+
+msgid "Informações sobre programas nativos"
+msgstr "关于本地方案的信息"
+
+msgid "Informações sobre programas SNAP"
+msgstr "关于SNAP方案的信息"
+
+msgid "Programas SNAP"
+msgstr "SNAP方案"
+
+msgid "Assinado:"
+msgstr "簽："
+
+msgid "Informações sobre programas AUR"
+msgstr "關於 AUR 程序的信息"

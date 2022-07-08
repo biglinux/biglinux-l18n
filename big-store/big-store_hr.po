@@ -1,0 +1,94 @@
+# #-#-#-#-#  big-store.pot (big-store)  #-#-#-#-#
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the big-store package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+# #-#-#-#-#  python.pot (PACKAGE VERSION)  #-#-#-#-#
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR ORGANIZATION
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-06-21 03:19-0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: hr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: pygettext.py 1.5"
+
+msgid "A Big-Store já está em uso."
+msgstr "Big-Store je već u upotrebi."
+
+msgid "Suporte a Flatpak ativo."
+msgstr "Flatpak podrška je aktivna."
+
+msgid "Suporte a Flatpak NÃO está ativo."
+msgstr "Podrška za Flatpak NIJE aktivna."
+
+msgid "Suporte a Snap ativo."
+msgstr "Snap podrška aktivna."
+
+msgid "Suporte a Snap NÃO está ativo."
+msgstr "Snap podrška NIJE aktivna."
+
+msgid "Atualizar cache dos repositórios nativos."
+msgstr "Osvježite predmemoriju izvornih spremišta."
+
+msgid "Procurar o servidor de repositórios nativos mais rápido no momento."
+msgstr "Potražite najbrži izvorni poslužitelj spremišta u ovom trenutku."
+
+msgid "Utilize as opções a seguir com cautela:"
+msgstr "Koristite sljedeće opcije s oprezom:"
+
+msgid ""
+"Atualizar as chaves dos repositórios BigLinux, Manjaro e Archlinux. Lembre "
+"que se você ativou repositórios complementares será necessário adicionar as "
+"chaves desses repositórios novamente."
+msgstr ""
+"Ažurirajte ključeve spremišta BigLinux, Manjaro i Archlinux. Imajte na umu "
+"da ako ste aktivirali dodatne spremišta, morat ćete ponovno dodati ključeve "
+"tim spremištima."
+
+msgid ""
+"Forçar atualizações, utilize essa opção se não estiver conseguindo atualizar "
+"o sistema, porém, na atualização forçada alguns programas podem ser "
+"removidos."
+msgstr ""
+"Prisilno ažuriranja, upotrijebite ovu opciju ako ne možete ažurirati sustav, "
+"međutim, u prisilnom ažuriranju neki programi mogu biti uklonjeni."
+
+msgid ""
+"Programas Snap, assim como o Flatpak<br>\n"
+"disponibiliza programas para todas as distribuições Linux.<br>\n"
+"Tende a ser mais pesado e menos integrado ao sistema, mas<br>\n"
+"se o programa que você procura está disponível apenas neste<br>\n"
+"formato, utilize-o."
+msgstr ""
+"Snap programi, baš kao i Flatpak <br>\n"
+"pruža programe za sve Linux distribucije. <br>\n"
+"Ima tendenciju da bude teži i manje integriran u sustav, ali <br>\n"
+"ako je program koji tražite dostupan samo na ovom <br>\n"
+"format, koristite ga."
+
+msgid "Informações sobre programas nativos"
+msgstr "Informacije o izvornim programima"
+
+msgid "Informações sobre programas SNAP"
+msgstr "Informacije o SNAP programima"
+
+msgid "Programas SNAP"
+msgstr "SNAP programi"
+
+msgid "Assinado:"
+msgstr "Potpisano:"
+
+msgid "Informações sobre programas AUR"
+msgstr "Informacije o AUR programima"

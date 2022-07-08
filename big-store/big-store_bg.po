@@ -1,0 +1,95 @@
+# #-#-#-#-#  big-store.pot (big-store)  #-#-#-#-#
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the big-store package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+# #-#-#-#-#  python.pot (PACKAGE VERSION)  #-#-#-#-#
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR ORGANIZATION
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-06-21 03:19-0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: bg\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: pygettext.py 1.5"
+
+msgid "A Big-Store já está em uso."
+msgstr "Big-Store вече се използва."
+
+msgid "Suporte a Flatpak ativo."
+msgstr "Активна поддръжка на Flatpak."
+
+msgid "Suporte a Flatpak NÃO está ativo."
+msgstr "Поддръжката на Flatpak НЕ е активна."
+
+msgid "Suporte a Snap ativo."
+msgstr "Поддръжка на Active Snap."
+
+msgid "Suporte a Snap NÃO está ativo."
+msgstr "Поддръжката на Snap НЕ е активна."
+
+msgid "Atualizar cache dos repositórios nativos."
+msgstr "Актуализиране на кеша на родните хранилища."
+
+msgid "Procurar o servidor de repositórios nativos mais rápido no momento."
+msgstr "Търсене на най-бързия собствен сървър за хранилище в момента."
+
+msgid "Utilize as opções a seguir com cautela:"
+msgstr "Използвайте следните опции с повишено внимание:"
+
+msgid ""
+"Atualizar as chaves dos repositórios BigLinux, Manjaro e Archlinux. Lembre "
+"que se você ativou repositórios complementares será necessário adicionar as "
+"chaves desses repositórios novamente."
+msgstr ""
+"Актуализирайте ключовете на хранилищата на BigLinux, Manjaro и Archlinux. Не "
+"забравяйте, че ако сте активирали допълнителни хранилища, ще трябва отново "
+"да добавите ключовете на тези хранилища."
+
+msgid ""
+"Forçar atualizações, utilize essa opção se não estiver conseguindo atualizar "
+"o sistema, porém, na atualização forçada alguns programas podem ser "
+"removidos."
+msgstr ""
+"Принудителни актуализации, използвайте тази опция, ако не можете да "
+"актуализирате системата, но при принудителната актуализация някои програми "
+"може да бъдат премахнати."
+
+msgid ""
+"Programas Snap, assim como o Flatpak<br>\n"
+"disponibiliza programas para todas as distribuições Linux.<br>\n"
+"Tende a ser mais pesado e menos integrado ao sistema, mas<br>\n"
+"se o programa que você procura está disponível apenas neste<br>\n"
+"formato, utilize-o."
+msgstr ""
+"Програми Snap, като Flatpak<br>\n"
+"предоставя софтуер за всички дистрибуции на Linux.<br>\n"
+"Той обикновено е по-тежък и по-слабо интегриран в системата, но<br>\n"
+"ако програмата, която търсите, се предлага само в този<br>\n"
+"използвайте този формат."
+
+msgid "Informações sobre programas nativos"
+msgstr "Информация за местни програми"
+
+msgid "Informações sobre programas SNAP"
+msgstr "Информация за програмите SNAP"
+
+msgid "Programas SNAP"
+msgstr "Програми SNAP"
+
+msgid "Assinado:"
+msgstr "Подписани:"
+
+msgid "Informações sobre programas AUR"
+msgstr "Информация за програмите на AUR"

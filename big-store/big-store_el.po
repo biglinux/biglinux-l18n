@@ -1,0 +1,95 @@
+# #-#-#-#-#  big-store.pot (big-store)  #-#-#-#-#
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the big-store package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+# #-#-#-#-#  python.pot (PACKAGE VERSION)  #-#-#-#-#
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR ORGANIZATION
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-06-21 03:19-0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: el\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: pygettext.py 1.5"
+
+msgid "A Big-Store já está em uso."
+msgstr "Το Big-Store χρησιμοποιείται ήδη."
+
+msgid "Suporte a Flatpak ativo."
+msgstr "Ενεργή υποστήριξη Flatpak."
+
+msgid "Suporte a Flatpak NÃO está ativo."
+msgstr "Η υποστήριξη Flatpak ΔΕΝ είναι ενεργή."
+
+msgid "Suporte a Snap ativo."
+msgstr "Υποστήριξη Active Snap."
+
+msgid "Suporte a Snap NÃO está ativo."
+msgstr "Η υποστήριξη Snap ΔΕΝ είναι ενεργή."
+
+msgid "Atualizar cache dos repositórios nativos."
+msgstr "Ενημέρωση της κρυφής μνήμης των εγγενών αποθετηρίων."
+
+msgid "Procurar o servidor de repositórios nativos mais rápido no momento."
+msgstr "Αναζητήστε τον ταχύτερο εγγενή διακομιστή αποθετηρίου αυτή τη στιγμή."
+
+msgid "Utilize as opções a seguir com cautela:"
+msgstr "Χρησιμοποιήστε τις ακόλουθες επιλογές με προσοχή:"
+
+msgid ""
+"Atualizar as chaves dos repositórios BigLinux, Manjaro e Archlinux. Lembre "
+"que se você ativou repositórios complementares será necessário adicionar as "
+"chaves desses repositórios novamente."
+msgstr ""
+"Ενημερώστε τα κλειδιά των αποθετηρίων BigLinux, Manjaro και Archlinux. "
+"Θυμηθείτε ότι αν έχετε ενεργοποιήσει συμπληρωματικά αποθετήρια θα πρέπει να "
+"προσθέσετε ξανά τα κλειδιά αυτών των αποθετηρίων."
+
+msgid ""
+"Forçar atualizações, utilize essa opção se não estiver conseguindo atualizar "
+"o sistema, porém, na atualização forçada alguns programas podem ser "
+"removidos."
+msgstr ""
+"Αναγκαστική ενημέρωση, χρησιμοποιήστε αυτή την επιλογή εάν δεν μπορείτε να "
+"ενημερώσετε το σύστημα, ωστόσο, κατά την αναγκαστική ενημέρωση ενδέχεται να "
+"αφαιρεθούν ορισμένα προγράμματα."
+
+msgid ""
+"Programas Snap, assim como o Flatpak<br>\n"
+"disponibiliza programas para todas as distribuições Linux.<br>\n"
+"Tende a ser mais pesado e menos integrado ao sistema, mas<br>\n"
+"se o programa que você procura está disponível apenas neste<br>\n"
+"formato, utilize-o."
+msgstr ""
+"Προγράμματα Snap, όπως το Flatpak<br>\n"
+"παρέχει λογισμικό για όλες τις διανομές Linux.<br>\n"
+"Τείνει να είναι βαρύτερο και λιγότερο ενσωματωμένο στο σύστημα, αλλά<br>\n"
+"αν το πρόγραμμα που αναζητάτε είναι διαθέσιμο μόνο σε αυτό το<br>\n"
+"μορφή, χρησιμοποιήστε την."
+
+msgid "Informações sobre programas nativos"
+msgstr "Πληροφορίες σχετικά με τα προγράμματα για ιθαγενείς"
+
+msgid "Informações sobre programas SNAP"
+msgstr "Πληροφορίες για τα προγράμματα SNAP"
+
+msgid "Programas SNAP"
+msgstr "Προγράμματα SNAP"
+
+msgid "Assinado:"
+msgstr "Υπογραφή:"
+
+msgid "Informações sobre programas AUR"
+msgstr "Πληροφορίες για τα προγράμματα AUR"

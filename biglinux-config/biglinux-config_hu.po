@@ -1,0 +1,97 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the biglinux-config package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: biglinux-config\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-06-21 03:18-0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: hu\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit"
+
+msgid ""
+"Restaurar&nbsp;o&nbsp;programa&nbsp;como&nbsp;modo&nbsp;padrão&nbsp;ou&nbsp;distribuição&nbsp;BigLinux."
+""
+msgstr ""
+"A program visszaállítása standard módban vagy BigLinux disztribúcióban."
+
+msgid "Restaurar&nbsp;o&nbsp;programa&nbsp;como&nbsp;modo&nbsp;padrão."
+msgstr "A program visszaállítása alapértelmezett üzemmódba."
+
+msgid ""
+"Músicas-(Clementine) clementine.sh Multimedia clementine.png clementine skel "
+"$COMMENT_skel"
+msgstr ""
+"Zene-(Clementine) clementine.sh Multimédia clementine.png clementine skel "
+"$COMMENT_skel"
+
+msgid ""
+"Gravador-de-Tela-(vokoscreenNG) vokoscreen.sh Multimedia vokoscreen.png "
+"vokoscreenNG  $COMMENT_normal"
+msgstr ""
+"Képernyőfelvevő-(vokoscreenNG) vokoscreen.sh Multimédia vokoscreen.png "
+"vokoscreenNG $COMMENT_normal"
+
+msgid ""
+"Vídeos-(Smplayer) smplayer.sh Multimedia smplayer.png smplayer skel "
+"$COMMENT_skel"
+msgstr ""
+"Videók-(Smplayer) smplayer.sh Multimédia smplayer.png smplayer skel "
+"$COMMENT_skel"
+
+msgid "Restaurar no modo padrão da distribuição"
+msgstr "Alapértelmezett elosztási mód visszaállítása"
+
+msgid "Essa opção restaura o programa com o padrão do BigLinux."
+msgstr ""
+"Ez az opció visszaállítja a programot a BigLinux alapértelmezett állapotára."
+
+msgid "Restaurar no modo padrão do programa"
+msgstr "Visszaállítás normál programmódban"
+
+msgid "Essa opção restaura o programa com o padrão do desenvolvedor."
+msgstr ""
+"Ez az opció visszaállítja a program fejlesztői alapértelmezett állapotát."
+
+msgid "Restaurar as configurações do programa:"
+msgstr "A programbeállítások visszaállítása:"
+
+msgid "Principal"
+msgstr "Főoldal"
+
+msgid "Pesquisar Restaurar"
+msgstr "Keresés helyreállítása"
+
+msgid "Restaurar Configurações"
+msgstr "Beállítások visszaállítása"
+
+msgid ""
+"Atenção! O programa está aberto!\\nEle será fechado para que a restauração "
+"tenha efeito."
+msgstr ""
+"Vigyázat! A program nyitva van! A helyreállítás ideje alatt zárva lesz."
+
+msgid "As configurações foram restauradas com sucesso!"
+msgstr "A beállítások sikeresen helyreálltak!"
+
+msgid ""
+"Você tem certeza que deseja restaurar todas as configurações do KDE/"
+"Plasma?\\nIsso apagará todas as configurações definidas por $USER!"
+msgstr ""
+"Biztos, hogy vissza akarja állítani az összes KDE/Plasma "
+"beállítást?\\nIsIsIsIs törli az összes $USER által beállított beállítást!"
+
+msgid ""
+"As configurações foram restauradas com sucesso!\\nÉ necessário fazer logoff/"
+"login para concluir a restauração!"
+msgstr ""
+"A beállítások sikeresen helyreálltak! A helyreállítás befejezéséhez ki/be "
+"kell jelentkeznie!"

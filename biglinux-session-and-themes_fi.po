@@ -1,0 +1,194 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the biglinux-session-and-themes package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: biglinux-session-and-themes\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-07-08 12:29-0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: fi\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit"
+
+msgid "Temas, Desktop e Ajustes"
+msgstr "Teemat, työpöytä ja asetukset"
+
+msgid ""
+"Configuração alterada, se estiver utilizando o navegador, reinicie-o para "
+"que a nova configuração seja aplicada."
+msgstr ""
+"Jos käytät selainta, käynnistä se uudelleen, jotta uudet asetukset tulevat "
+"käyttöön."
+
+msgid "Se estiver utilizando algum navegador, feche-o e abra novamente!"
+msgstr "Jos käytät selainta, sulje se ja avaa se uudelleen!"
+
+msgid ""
+"\n"
+"A configuração de desktop selecionada já foi utilizada nesse sistema,\n"
+"deseja restaurar a configuração que já foi utilizada?\n"
+"\n"
+"Selecione não para utilizar a configuração padrão do sistema.\n"
+msgstr ""
+"\n"
+"Valittua työpöydän kokoonpanoa on jo käytetty tässä järjestelmässä,\n"
+"haluatko palauttaa jo käytetyn kokoonpanon?\n"
+"\n"
+"Valitse no, jos haluat käyttää järjestelmän oletuskokoonpanoa.\n"
+
+msgid ""
+"Configuração aplicada!\n"
+"\n"
+"Finalize a sessão e faça login novamente\n"
+"para que a configuração termine de\n"
+"ser aplicada."
+msgstr ""
+"Konfiguraatio käytössä!\n"
+"\n"
+"Kirjaudu ulos ja kirjaudu uudelleen sisään\n"
+"jotta konfigurointi saadaan valmiiksi\n"
+"sovellettu."
+
+msgid "Desempenho em modo normal!"
+msgstr "Suorituskyky normaalitilassa!"
+
+msgid "Desempenho em modo otimizado!"
+msgstr "Suorituskyky tehostetussa tilassa!"
+
+msgid "Desempenho em modo performance!"
+msgstr "Suorituskyky suoritustilassa!"
+
+msgid "Temas"
+msgstr "Teemat"
+
+msgid "Desktop"
+msgstr "Työpöytä"
+
+msgid "Ajustes"
+msgstr "Asetukset"
+
+msgid "Desempenho do desktop"
+msgstr "Työpöydän suorituskyky"
+
+msgid "Aceleração do navegador"
+msgstr "Selaimen kiihdytys"
+
+msgid "Usabilidade"
+msgstr "Käytettävyys"
+
+msgid "Tema dos aplicativos"
+msgstr "Sovelluksen teema"
+
+msgid "Fechar"
+msgstr "Sulje"
+
+msgid "Bordas arredondadas."
+msgstr "Pyöristetyt reunat."
+
+msgid ""
+"Esse tema possui transparências com efeitos que<br>podem tornar o sistema "
+"lento em computadores<br>antigos ou ambientes virtualizados."
+msgstr ""
+"Tässä teemassa on läpinäkyviä tehosteita, jotka voivat "
+"hidastaa<br>järjestelmän toimintaa vanhoissa tietokoneissa<br>tai "
+"virtualisoiduissa ympäristöissä."
+
+msgid "<b>Classic</b> e <b>New</b> têm melhor desempenho."
+msgstr "<b>Classic</b> ja <b>New</b> ovat suorituskyvyltään parempia."
+
+msgid "Renderizar o desktop via software"
+msgstr "Työpöydän renderöinti ohjelmiston avulla"
+
+msgid "(Pode ser útil em máquina virtual ou computadores antigos)"
+msgstr "(Voi olla hyödyllinen virtuaalikoneessa tai vanhoissa tietokoneissa)"
+
+msgid "Escolher programas a serem carregados na memória durante boot"
+msgstr "Valitse ohjelmat, jotka ladataan muistiin käynnistyksen yhteydessä"
+
+msgid ""
+"O Preload carrega arquivos dos programas na memória, para que iniciem "
+"rapidamente. O uso excessivo causa lentidão. Escolha a opção desejada:"
+msgstr ""
+"Preload lataa ohjelmatiedostot muistiin, jotta ne käynnistyvät nopeasti. "
+"Liiallinen käyttö aiheuttaa hidastuksia. Valitse haluamasi vaihtoehto:"
+
+msgid "Automático"
+msgstr "Automaattinen"
+
+msgid "Ativar"
+msgstr "Aktivoi"
+
+msgid "Desativar"
+msgstr "Deaktivoi"
+
+msgid "Configurações do Brave"
+msgstr "Rohkeat kokoonpanot"
+
+msgid "Escolha a opção desejada:"
+msgstr "Valitse haluamasi vaihtoehto:"
+
+msgid "Remover propagandas"
+msgstr "Poista mainokset"
+
+msgid "Suportar criptomoedas"
+msgstr "Kryptovaluuttojen tukeminen"
+
+msgid "Botões da janela no lado esquerdo"
+msgstr "Ikkunan painikkeet vasemmalla puolella"
+
+msgid "Rolagem do mouse invertida"
+msgstr "Käänteinen hiiren vieritys"
+
+msgid "Pesquisar arquivos"
+msgstr "Etsi arkistoista"
+
+msgid "Bloquear a área de trabalho"
+msgstr "Lukitse työpöytä"
+
+msgid "Tema aplicado"
+msgstr "Sovellettu teema"
+
+msgid ""
+"É preciso reiniciar a sessão para concluir a configuração. Deseja fazer "
+"agora?"
+msgstr ""
+"Sinun on kirjauduttava uudelleen sisään, jotta voit suorittaa määrityksen "
+"loppuun. Haluatko tehdä sen nyt?"
+
+msgid "Configuração do Desktop"
+msgstr "Työpöydän kokoonpano"
+
+msgid ""
+"Você já utilizou esse desktop antes, deseja  restaurar sua personalização ou "
+"utilizar a configuração original?"
+msgstr ""
+"Oletko käyttänyt tätä työpöytää aiemmin, haluatko palauttaa sen mukautukset "
+"vai käyttää alkuperäistä kokoonpanoa?"
+
+msgid "Sim"
+msgstr "Kyllä"
+
+msgid "Não"
+msgstr "Ei"
+
+msgid "Original"
+msgstr "Alkuperäinen"
+
+msgid "Restaurar"
+msgstr "Palauta"
+
+msgid "Desktop aplicado"
+msgstr "Työpöytä sovellettu"
+
+msgid ""
+"Utilizando renderização por software, a qualidade das transparências está "
+"reduzida."
+msgstr ""
+"Ohjelmiston renderöintiä käytettäessä läpinäkyvien kuvien laatu heikkenee."

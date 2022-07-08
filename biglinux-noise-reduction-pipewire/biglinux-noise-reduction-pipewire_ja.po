@@ -1,0 +1,67 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the biglinux-noise-reduction-pipewire package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: biglinux-noise-reduction-pipewire\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-06-21 03:19-0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit"
+
+msgid "Reduzir ruídos do microfone"
+msgstr "マイクノイズの低減"
+
+msgid "Microfone sem ruídos"
+msgstr "ノイズのないマイク"
+
+msgid "Desativando"
+msgstr "非アクティブ化"
+
+msgid "Filtro do Microfone"
+msgstr "マイクフィルター"
+
+msgid "Ativando"
+msgstr "アクティベート"
+
+msgid "Filtro de ruído"
+msgstr "ノイズフィルター"
+
+msgid "Iniciar automaticamente"
+msgstr "自動スタート"
+
+msgid "Configuração aplicada"
+msgstr "適用された構成"
+
+msgid "Microfone"
+msgstr "MIC"
+
+msgid "Configuração de áudio."
+msgstr "オーディオ設定。"
+
+msgid "Confirma a remoção das personalizações na configuração de áudio?"
+msgstr "オーディオ構成のカスタマイズの削除を確認しますか？"
+
+msgid "Configuração de áudio"
+msgstr "オーディオ設定"
+
+msgid ""
+"Configuração de áudio restaurada.\n"
+"\n"
+"Os programas em execução no momento podem precisar ser fechados\n"
+"e abertos novamente para o áudio funcionar corretamente."
+msgstr ""
+"オーディオ構成が復元されました。\n"
+"\n"
+"オーディオが正しく機能するには、現在実行中のプログラムを閉じてから再度開く必要がある場合があります。"
+
+msgid "Cancelado, nenhuma configuração foi removida!"
+msgstr "キャンセルされました。設定は削除されませんでした。"

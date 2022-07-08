@@ -1,0 +1,121 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the biglinux-webapps package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: biglinux-webapps\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-06-21 03:19-0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: hr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit"
+
+msgid "Selecionar imagem"
+msgstr "Odaberi sliku"
+
+msgid "Adicionar WebApps"
+msgstr "Dodaj WebApps"
+
+msgid "WebApps Adicionados"
+msgstr "Dodano WebApps"
+
+msgid "WebApps BigLinux"
+msgstr "BigLinux WebApps"
+
+msgid "Url:"
+msgstr "URL:"
+
+msgid "Detectar Nome e Ícone"
+msgstr "Otkrivanje imena i ikone"
+
+msgid "Nome:"
+msgstr "Ime:"
+
+msgid "Ícone:"
+msgstr "Ikona:"
+
+msgid "Alterar"
+msgstr "Izmijeniti"
+
+msgid "Navegador:"
+msgstr "Preglednik:"
+
+msgid "Categoria:"
+msgstr "Kategorija:"
+
+msgid "DESENVOLVIMENTO"
+msgstr "RAZVOJ"
+
+msgid "ESCRITÓRIO"
+msgstr "URED"
+
+msgid "GRÁFICOS"
+msgstr "GRAFIKA"
+
+msgid "JOGOS"
+msgstr "IGRE"
+
+msgid "MULTIMÍDIA"
+msgstr "MULTIMEDIJALNI"
+
+msgid "Criar atalho na Área de Trabalho"
+msgstr "Stvorite prečac na radnoj površini"
+
+msgid "Perfil adicional"
+msgstr "Dodatni profil"
+
+msgid "YouTube Modo TV"
+msgstr "Način YouTube TV"
+
+msgid "Adicionar"
+msgstr "Dodaj"
+
+msgid "Para adicionar um WebApp, você precisa informar a Url e o Nome."
+msgstr "Da biste dodali WebApp, morate unijeti URL i ime."
+
+msgid "Para detectar o Nome e o Ícone você precisa informar a Url."
+msgstr "Da biste otkrili ime i ikonu, morate unijeti URL."
+
+msgid ""
+"A Url é inválida ou a conexão falhou.<br>Tente inserir o ícone pelo botão "
+"Alterar."
+msgstr ""
+"URL je nevažeći ili veza nije uspjela. <br>Pokušajteumetnuti ikonu pomoću "
+"gumba Promijeni."
+
+msgid "O WebApp foi adicionado com sucesso!"
+msgstr "WebApp je uspješno dodan!"
+
+msgid "Ícones encontrados"
+msgstr "Pronađene ikone"
+
+msgid "Selecione o ícone preferido:"
+msgstr "Odaberite željenu ikonu:"
+
+msgid "Tem certeza que deseja remover este WebApp?"
+msgstr "Jeste li sigurni da želite ukloniti ovaj WebApp?"
+
+msgid "Nenhum WebApp adicionado!"
+msgstr "Ne WebApp dodao!"
+
+msgid "Navegador padrão<br>dos webapps:"
+msgstr "<br>Webappszadani preglednik:"
+
+msgid "Alterar navegador"
+msgstr "Promjena preglednika"
+
+msgid "Selecione o navegador preferido:"
+msgstr "Odaberite željeni preglednik:"
+
+msgid "WebApps Nativos"
+msgstr "Izvorni WebApps"
+
+msgid "Aguarde, estamos preparando para começar..."
+msgstr "Čekaj, spremamo se za početak..."

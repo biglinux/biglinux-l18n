@@ -1,0 +1,95 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the calamares-biglinux package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: calamares-biglinux\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-06-21 03:19-0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: hr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit"
+
+msgid ""
+"O boot atual está utilizando o modo EFI, porém não encontrei nenhuma "
+"partição EFI neste computador, se este computador já possui outro sistema "
+"instalado e você pretende que ele permaneça instalado, provavelmente será "
+"necessário alterar a configuração na BIOS para fazer boot em modo Legacy, "
+"também chamado de modo BIOS.\n"
+"\n"
+"Deseja prosseguir com com a instalação em modo EFI?"
+msgstr ""
+"Trenutno podizanje sustava koristi EFI način rada, ali nisam pronašao "
+"nikakvu EFI particiju na ovom računalu, ako ovo računalo već ima instaliran "
+"drugi sustav i namjeravate ostati instaliran, vjerojatno ćete morati "
+"promijeniti konfiguraciju u BIOS-u za pokretanje u Legacy modu, koji se "
+"naziva i BIOS način rada.\n"
+"\n"
+"Želite li nastaviti s instalacijom u EFI načinu rada?"
+
+msgid "Instalar o sistema"
+msgstr "Instalirajte sustav"
+
+msgid ""
+"O boot atual está utilizando o modo Legacy/BIOS, porém encontrei pelo menos "
+"uma partição EFI neste computador. Para que a instalação seja bem sucedida, "
+"provavelmente será necessário alterar a configuração na BIOS para fazer boot "
+"em modo EFI ou UEFI.\n"
+"\n"
+"Deseja prosseguir com com a instalação em modo Legacy/BIOS?"
+msgstr ""
+"Trenutno podizanje sustava koristi način naslijeđenog/BIOS-a, ali pronašao "
+"sam barem jednu EFI particiju na ovom računalu. Da bi instalacija bila "
+"uspješna, vjerojatno ćete morati promijeniti konfiguraciju u BIOS-u za "
+"pokretanje u EFI ili UEFI načinu rada.\n"
+"\n"
+"Želite li nastaviti s instalacijom u načinu naslijeđenog/BIOS?"
+
+msgid "Instalar o BigLinux"
+msgstr "Instalirajte BigLinux"
+
+msgid "PADRÃO"
+msgstr "STANDARDNI"
+
+msgid "DESEMPENHO"
+msgstr "PERFORMANSE"
+
+msgid "COMPATIBILIDADE"
+msgstr "KOMPATIBILNOST"
+
+msgid "Compacta os dados"
+msgstr "Sažimanje podataka"
+
+msgid "Pontos de restauração"
+msgstr "Točke restauracije"
+
+msgid "Adia a gravação dos dados"
+msgstr "Odgoditi snimanje podataka"
+
+msgid "Funciona com tabelas de particionamento antigas"
+msgstr "Radi sa starim tablicama particioniranja"
+
+msgid "BTRFS com fsync"
+msgstr "BTRFS s fsync"
+
+msgid "BTRFS sem fsync"
+msgstr "BTRFS bez fsync"
+
+msgid "SELECIONAR"
+msgstr "ODABERITE"
+
+msgid "Instalar no HD"
+msgstr "Instalirajte na HD"
+
+msgid "O sistema está em modo"
+msgstr "Sustav je u načinu rada"
+
+msgid "e com o kernel"
+msgstr "i s kernelom"

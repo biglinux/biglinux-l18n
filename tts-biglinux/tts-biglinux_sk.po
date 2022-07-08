@@ -1,0 +1,70 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the tts-biglinux package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: tts-biglinux\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-06-21 03:19-0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: sk\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit"
+
+msgid "Configurações de texto para voz"
+msgstr "Nastavenia prevodu textu na reč"
+
+msgid "Vozes - Abrir BigStore"
+msgstr "Hlasy - Otvoriť BigStore"
+
+msgid "Voice Configuration"
+msgstr "Konfigurácia hlasu"
+
+msgid "Configurar voz"
+msgstr "Konfigurácia hlasu"
+
+msgid "Para falar um texto selecionado use o atalho "
+msgstr "Ak chcete vysloviť vybraný text, použite skratku "
+
+msgid "[Alt] + [V]"
+msgstr "[Alt] + [V]"
+
+msgid ""
+"ou o ícone na sessão Utilitários no menu do sistema. Para interromper a "
+"leitura use novamene o atalho ou ícone."
+msgstr ""
+"alebo ikonu v časti Nástroje v systémovej ponuke. Ak chcete ukončiť čítanie, "
+"opäť použite skratku alebo ikonu ."
+
+msgid "Selecione as configurações de sua preferência"
+msgstr "Vyberte preferované nastavenia"
+
+msgid "Números maiores deixam a voz mais rápida, o padrão é: -25"
+msgstr "Väčšie čísla zrýchľujú hlas, predvolená hodnota je: -25"
+
+msgid "Velocidade"
+msgstr "Rýchlosť"
+
+msgid "Números maiores deixam a voz mais aguda, o padrão é: -25"
+msgstr "Vyššie čísla zvyšujú hlas, štandard je: -25"
+
+msgid "Tom"
+msgstr "Tom"
+
+msgid "O padrão é: 0."
+msgstr "Predvolená hodnota je: 0."
+
+msgid "Volume"
+msgstr "Zväzok"
+
+msgid "As vozes são otimizadas para idiomas expecíficos."
+msgstr "Hlasy sú optimalizované pre konkrétne jazyky."
+
+msgid "Voz"
+msgstr "Hlas"

@@ -1,0 +1,121 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the biglinux-webapps package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: biglinux-webapps\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-06-21 03:19-0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: be\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit"
+
+msgid "Selecionar imagem"
+msgstr "выбраць малюнак"
+
+msgid "Adicionar WebApps"
+msgstr "Дадаць WebApps"
+
+msgid "WebApps Adicionados"
+msgstr "Дададзеныя WebApps"
+
+msgid "WebApps BigLinux"
+msgstr "Вэб-прыкладанні BigLinux"
+
+msgid "Url:"
+msgstr "URL:"
+
+msgid "Detectar Nome e Ícone"
+msgstr "Вызначыць імя і значок"
+
+msgid "Nome:"
+msgstr "Імя:"
+
+msgid "Ícone:"
+msgstr "Значок:"
+
+msgid "Alterar"
+msgstr "Змяніць"
+
+msgid "Navegador:"
+msgstr "Браўзэр:"
+
+msgid "Categoria:"
+msgstr "Катэгорыя:"
+
+msgid "DESENVOLVIMENTO"
+msgstr "РАЗВІЦЦЁ"
+
+msgid "ESCRITÓRIO"
+msgstr "ОФІС"
+
+msgid "GRÁFICOS"
+msgstr "ГРАФІКА"
+
+msgid "JOGOS"
+msgstr "ГУЛЬНІ"
+
+msgid "MULTIMÍDIA"
+msgstr "МУЛЬТЫМЕДЫЯ"
+
+msgid "Criar atalho na Área de Trabalho"
+msgstr "Стварыць ярлык на працоўным стале"
+
+msgid "Perfil adicional"
+msgstr "дадатковы профіль"
+
+msgid "YouTube Modo TV"
+msgstr "Рэжым YouTube TV"
+
+msgid "Adicionar"
+msgstr "Дадаць"
+
+msgid "Para adicionar um WebApp, você precisa informar a Url e o Nome."
+msgstr "Каб дадаць WebApp, вам трэба падаць URL і імя."
+
+msgid "Para detectar o Nome e o Ícone você precisa informar a Url."
+msgstr "Каб выявіць імя і значок, вам трэба паведаміць URL."
+
+msgid ""
+"A Url é inválida ou a conexão falhou.<br>Tente inserir o ícone pelo botão "
+"Alterar."
+msgstr ""
+"URL-адрас няправільны або злучэнне не атрымалася.<br> Паспрабуйце ўставіць "
+"значок праз кнопку Змяніць."
+
+msgid "O WebApp foi adicionado com sucesso!"
+msgstr "WebApp было паспяхова дададзена!"
+
+msgid "Ícones encontrados"
+msgstr "Знайшлі абразкі"
+
+msgid "Selecione o ícone preferido:"
+msgstr "Выберыце ўпадабаны значок:"
+
+msgid "Tem certeza que deseja remover este WebApp?"
+msgstr "Вы ўпэўнены, што жадаеце выдаліць гэтую вэб-праграму?"
+
+msgid "Nenhum WebApp adicionado!"
+msgstr "WebApp не дададзена!"
+
+msgid "Navegador padrão<br>dos webapps:"
+msgstr "браўзер па змаўчанні<br> з вэб-праграм:"
+
+msgid "Alterar navegador"
+msgstr "змяніць браўзэр"
+
+msgid "Selecione o navegador preferido:"
+msgstr "Выберыце ўпадабаны браўзер:"
+
+msgid "WebApps Nativos"
+msgstr "Уласныя вэб-прыкладанні"
+
+msgid "Aguarde, estamos preparando para começar..."
+msgstr "Пачакайце, мы рыхтуемся пачаць..."

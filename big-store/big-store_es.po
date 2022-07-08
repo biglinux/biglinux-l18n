@@ -1,0 +1,95 @@
+# #-#-#-#-#  big-store.pot (big-store)  #-#-#-#-#
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the big-store package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+# #-#-#-#-#  python.pot (PACKAGE VERSION)  #-#-#-#-#
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR ORGANIZATION
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-06-21 03:19-0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: pygettext.py 1.5"
+
+msgid "A Big-Store já está em uso."
+msgstr "El Big-Store ya está en uso."
+
+msgid "Suporte a Flatpak ativo."
+msgstr "Soporte activo de Flatpak."
+
+msgid "Suporte a Flatpak NÃO está ativo."
+msgstr "El soporte de Flatpak NO está activo."
+
+msgid "Suporte a Snap ativo."
+msgstr "Soporte de Snap activo."
+
+msgid "Suporte a Snap NÃO está ativo."
+msgstr "El soporte de Snap NO está activo."
+
+msgid "Atualizar cache dos repositórios nativos."
+msgstr "Actualizar la caché de los repositorios nativos."
+
+msgid "Procurar o servidor de repositórios nativos mais rápido no momento."
+msgstr "Busca el servidor de repositorio nativo más rápido del momento."
+
+msgid "Utilize as opções a seguir com cautela:"
+msgstr "Utilice las siguientes opciones con precaución:"
+
+msgid ""
+"Atualizar as chaves dos repositórios BigLinux, Manjaro e Archlinux. Lembre "
+"que se você ativou repositórios complementares será necessário adicionar as "
+"chaves desses repositórios novamente."
+msgstr ""
+"Actualizar las claves de los repositorios de BigLinux, Manjaro y Archlinux. "
+"Recuerde que si tiene activados repositorios complementarios tendrá que "
+"volver a añadir las claves de estos repositorios."
+
+msgid ""
+"Forçar atualizações, utilize essa opção se não estiver conseguindo atualizar "
+"o sistema, porém, na atualização forçada alguns programas podem ser "
+"removidos."
+msgstr ""
+"Forzar actualizaciones, utilice esta opción si no puede actualizar el "
+"sistema, sin embargo, en la actualización forzada algunos programas pueden "
+"ser eliminados."
+
+msgid ""
+"Programas Snap, assim como o Flatpak<br>\n"
+"disponibiliza programas para todas as distribuições Linux.<br>\n"
+"Tende a ser mais pesado e menos integrado ao sistema, mas<br>\n"
+"se o programa que você procura está disponível apenas neste<br>\n"
+"formato, utilize-o."
+msgstr ""
+"Programas Snap, como Flatpak<br>\n"
+"proporciona software para todas las distribuciones de Linux.<br>\n"
+"Suele ser más pesado y menos integrado en el sistema, pero<br>\n"
+"si el programa que busca sólo está disponible en este<br>\n"
+"formato, utilícelo."
+
+msgid "Informações sobre programas nativos"
+msgstr "Información sobre los programas para nativos"
+
+msgid "Informações sobre programas SNAP"
+msgstr "Información sobre los programas SNAP"
+
+msgid "Programas SNAP"
+msgstr "Programas SNAP"
+
+msgid "Assinado:"
+msgstr "Firmado:"
+
+msgid "Informações sobre programas AUR"
+msgstr "Información sobre los programas AUR"

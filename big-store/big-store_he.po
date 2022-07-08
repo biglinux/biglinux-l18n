@@ -1,0 +1,93 @@
+# #-#-#-#-#  big-store.pot (big-store)  #-#-#-#-#
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the big-store package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+# #-#-#-#-#  python.pot (PACKAGE VERSION)  #-#-#-#-#
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR ORGANIZATION
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-06-21 03:19-0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: he\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Generated-By: pygettext.py 1.5"
+
+msgid "A Big-Store já está em uso."
+msgstr "הביג-סטור כבר בשימוש."
+
+msgid "Suporte a Flatpak ativo."
+msgstr "תמיכת Flatpak פעילה."
+
+msgid "Suporte a Flatpak NÃO está ativo."
+msgstr "תמיכת Flatpak אינה פעילה."
+
+msgid "Suporte a Snap ativo."
+msgstr "הצמד תמיכה פעיל."
+
+msgid "Suporte a Snap NÃO está ativo."
+msgstr "תמיכת הצמד אינה פעילה."
+
+msgid "Atualizar cache dos repositórios nativos."
+msgstr "רענן מטמון של מאגרים מקומיים."
+
+msgid "Procurar o servidor de repositórios nativos mais rápido no momento."
+msgstr "חפש את שרת המאגר המקורי המהיר ביותר כרגע."
+
+msgid "Utilize as opções a seguir com cautela:"
+msgstr "השתמש באפשרויות הבאות בזהירות:"
+
+msgid ""
+"Atualizar as chaves dos repositórios BigLinux, Manjaro e Archlinux. Lembre "
+"que se você ativou repositórios complementares será necessário adicionar as "
+"chaves desses repositórios novamente."
+msgstr ""
+"עדכן את המפתחות של מאגרי BigLinux, Manjaro ו- Archlinux. זכור שאם הפעלת "
+"מאגרים משלימים, יהיה עליך להוסיף שוב את המפתחות למאגרים אלה."
+
+msgid ""
+"Forçar atualizações, utilize essa opção se não estiver conseguindo atualizar "
+"o sistema, porém, na atualização forçada alguns programas podem ser "
+"removidos."
+msgstr ""
+"כפה עדכונים, השתמש באפשרות זו אם אינך מצליח לעדכן את המערכת, עם זאת, בעדכון "
+"הכפוי ניתן להסיר תוכניות מסוימות."
+
+msgid ""
+"Programas Snap, assim como o Flatpak<br>\n"
+"disponibiliza programas para todas as distribuições Linux.<br>\n"
+"Tende a ser mais pesado e menos integrado ao sistema, mas<br>\n"
+"se o programa que você procura está disponível apenas neste<br>\n"
+"formato, utilize-o."
+msgstr ""
+"הצמד תוכניות, בדיוק כמו Flatpak <br>\n"
+"מספק תוכניות עבור כל הפצות לינוקס. <br>\n"
+"זה נוטה להיות כבד יותר ופחות משולב במערכת, אבל <br>\n"
+"אם התוכנית שאתה מחפש זמינה רק על זה <br>\n"
+"פורמט, להשתמש בו."
+
+msgid "Informações sobre programas nativos"
+msgstr "מידע על תוכניות מקוריות"
+
+msgid "Informações sobre programas SNAP"
+msgstr "מידע על תוכניות SNAP"
+
+msgid "Programas SNAP"
+msgstr "תוכניות SNAP"
+
+msgid "Assinado:"
+msgstr "חתום:"
+
+msgid "Informações sobre programas AUR"
+msgstr "מידע על תוכניות AUR"
