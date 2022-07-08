@@ -67,9 +67,6 @@ msgstr ""
 "Freigaben aufzulisten; lassen Sie das Feld leer, um eine anonyme Suche "
 "durchzuführen."
 
-msgid "Cancelar"
-msgstr "Abbrechen"
-
 msgid "Próximo"
 msgstr "Weiter"
 
@@ -81,6 +78,3 @@ msgstr "Mit dem Benutzer durchgeführte Suche:"
 
 msgid "na rede:"
 msgstr "im Netz:"
-
-msgid "Voltar"
-msgstr "Zurück"

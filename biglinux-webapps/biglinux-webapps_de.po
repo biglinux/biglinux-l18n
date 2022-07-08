@@ -100,15 +100,6 @@ msgstr "Ikonen gefunden"
 msgid "Selecione o ícone preferido:"
 msgstr "Wählen Sie Ihr bevorzugtes Symbol:"
 
-msgid "Escritório"
-msgstr "Büro"
-
-msgid "Gráficos"
-msgstr "Grafiken"
-
-msgid "Jogos"
-msgstr "Spiele"
-
 msgid "Tem certeza que deseja remover este WebApp?"
 msgstr "Möchten Sie diese WebApp wirklich entfernen?"
 

@@ -32,12 +32,6 @@ msgstr "Dieser Treiber ist proprietär."
 msgid "Este driver parece compatível com este computador."
 msgstr "Dieser Treiber scheint mit diesem Computer kompatibel zu sein."
 
-msgid "Remover"
-msgstr "Entfernen"
-
-msgid "Instalar"
-msgstr "Installieren Sie"
-
 msgid ""
 "Já existe outro driver nVidia instalado, para instalar este driver, remova "
 "primeiro o driver instalado."
@@ -187,9 +181,6 @@ msgstr "Temperatur"
 msgid "Áudio"
 msgstr "Audio"
 
-msgid "Mais informações"
-msgstr "Weitere Informationen"
-
 msgid "Pesquisar"
 msgstr "Suche"
 
@@ -201,21 +192,6 @@ msgstr "RAM-Speicher:"
 
 msgid "Vídeo:"
 msgstr "Video:"
-
-msgid "Instalado na partição:"
-msgstr "Installiert auf der Partition:"
-
-msgid "Tamanho da partição:"
-msgstr "Größe der Partition:"
-
-msgid "Espaço utilizado:"
-msgstr "Genutzter Raum:"
-
-msgid "Espaço livre:"
-msgstr "Freiraum:"
-
-msgid "Data que o sistema foi instalado:"
-msgstr "Datum, an dem das System installiert wurde:"
 
 msgid "Kernel em uso:"
 msgstr "Kernel em uso:"
