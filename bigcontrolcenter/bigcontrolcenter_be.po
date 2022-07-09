@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: bigcontrolcenter\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-07-09 14:19-0300\n"
+"POT-Creation-Date: 2022-07-09 15:29-0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -60,11 +60,11 @@ msgstr "Закрыць"
 msgid "Hardinfo Relatory"
 msgstr "Справаздача Hardinfo"
 
-msgid "Introdução ao BigLinux"
-msgstr "Уводзіны ў BigLinux"
-
 msgid "Central de Controle"
 msgstr "Цэнтр кіравання"
+
+msgid "Introdução ao BigLinux"
+msgstr "Уводзіны ў BigLinux"
 
 msgid "Bom dia"
 msgstr "Добрай раніцы"

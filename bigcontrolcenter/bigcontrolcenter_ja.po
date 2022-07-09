@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: bigcontrolcenter\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-07-09 14:19-0300\n"
+"POT-Creation-Date: 2022-07-09 15:29-0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -63,11 +63,11 @@ msgstr "閉じる"
 msgid "Hardinfo Relatory"
 msgstr "Hardinfo関連"
 
-msgid "Introdução ao BigLinux"
-msgstr "BigLinuxの紹介"
-
 msgid "Central de Controle"
 msgstr "コントロールセンター"
+
+msgid "Introdução ao BigLinux"
+msgstr "BigLinuxの紹介"
 
 msgid "Bom dia"
 msgstr "おはよう"

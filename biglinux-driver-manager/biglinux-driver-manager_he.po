@@ -2,20 +2,20 @@
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the biglinux-driver-manager package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-# 
+#
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: biglinux-driver-manager\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-07-09 04:17-0300\n"
+"POT-Creation-Date: 2022-07-09 15:29-0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: he\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit"
+"Content-Transfer-Encoding: 8bit\n"
 
 msgid "O Big-Hardware-Relatory já está em uso."
 msgstr "החומרה הגדולה של החומרה כבר בשימוש."
@@ -295,8 +295,7 @@ msgstr "התקנה או הסרה של מנהלי התקנים וקושחות"
 msgid ""
 "Geralmente é preciso reiniciar o computador para o driver ou firmware ser "
 "aplicado."
-msgstr ""
-"בדרך כלל יש צורך להפעיל מחדש את המחשב כדי שמנהל ההתקן או הקושחה יחולו."
+msgstr "בדרך כלל יש צורך להפעיל מחדש את המחשב כדי שמנהל ההתקן או הקושחה יחולו."
 
 msgid "Driver ou firmware"
 msgstr "מנהל התקן או קושחה"
