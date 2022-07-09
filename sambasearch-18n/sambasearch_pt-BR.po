@@ -1,0 +1,88 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the sambasearch package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: sambasearch\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-07-09 00:31-0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit"
+
+msgid "Procurar compartilhamentos"
+msgstr "Procurar compartilhamentos"
+
+msgid "Localiza compartilhamentos na rede (Windows ou Samba)."
+msgstr "Localiza compartilhamentos na rede (Windows ou Samba)."
+
+msgid "GPL v2 or greater"
+msgstr "GPL v2 or greater"
+
+msgid "Bruno Gonçalves"
+msgstr "Bruno Gonçalves"
+
+msgid "01/08/2019"
+msgstr "01/08/2019"
+
+msgid "https://github.com/biglinux/sambasearch"
+msgstr "https://github.com/biglinux/sambasearch"
+
+msgid "https://www.biglinux.com.br"
+msgstr "https://www.biglinux.com.br"
+
+msgid ""
+"Alteração aplicada, verifique se os compartilhamentos de rede estão "
+"aparecendo no gerenciador de arquivos."
+msgstr ""
+"Alteração aplicada, verifique se os compartilhamentos de rede estão "
+"aparecendo no gerenciador de arquivos."
+
+msgid "Usuário"
+msgstr "Usuário"
+
+msgid "Insira o usuário do servidor que deseja acessar"
+msgstr "Insira o usuário do servidor que deseja acessar"
+
+msgid "Senha"
+msgstr "Senha"
+
+msgid "Insira a senha do usuário do servidor que deseja acessar"
+msgstr "Insira a senha do usuário do servidor que deseja acessar"
+
+msgid ""
+"*A maioria dos servidores precisa de login e senha para listar os "
+"compartilhamentos disponíveis, deixe em branco para efetuar uma busca "
+"anônima."
+msgstr ""
+"*A maioria dos servidores precisa de login e senha para listar os "
+"compartilhamentos disponíveis, deixe em branco para efetuar uma busca "
+"anônima."
+
+msgid "Cancelar"
+msgstr "Cancelar"
+
+msgid "Próximo"
+msgstr "Próximo"
+
+msgid "Anônimo"
+msgstr "Anônimo"
+
+msgid "Procura efetuada com o usuário:"
+msgstr "Procura efetuada com o usuário:"
+
+msgid "na rede:"
+msgstr "na rede:"
+
+msgid "Voltar"
+msgstr "Voltar"
+
+msgid "Fechar"
+msgstr "Fechar"

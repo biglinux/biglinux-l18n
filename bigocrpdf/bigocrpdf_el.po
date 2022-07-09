@@ -2,111 +2,17 @@
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the bigocrpdf package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
+# 
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: bigocrpdf\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-07-09 00:55-0300\n"
+"POT-Creation-Date: 2022-07-08 14:40-0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: el\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-
-msgid "Torne seu PDF pesquisável"
-msgstr "Κάντε το PDF σας αναζητήσιμο"
-
-msgid ""
-"Escolha o arquivo PDF para aplicar o OCR, com isso será possível efetuar "
-"buscas ou copiar textos.\n"
-"\n"
-"Você também pode utilizar o gerenciador de arquivos, clicar com o botão "
-"direito no arquivo PDF, 'Abrir com' e selecionar a opção de OCR."
-msgstr ""
-"Επιλέξτε το αρχείο PDF για να εφαρμόσετε OCR, ώστε να μπορείτε να "
-"αναζητήσετε ή να αντιγράψετε κείμενα.\n"
-"\n"
-"Μπορείτε επίσης να χρησιμοποιήσετε τη διαχείριση αρχείων, να κάνετε δεξί "
-"κλικ στο αρχείο PDF, να επιλέξετε 'Άνοιγμα με' και να επιλέξετε την επιλογή "
-"OCR."
-
-msgid "Normal"
-msgstr "Κανονικό"
-
-msgid "Econômico"
-msgstr "Οικονομική"
-
-msgid "Mais econômico"
-msgstr "Πιο οικονομικό"
-
-msgid "Alinhar"
-msgstr "Ευθυγράμμιση"
-
-msgid "Auto rotacionar"
-msgstr "Αυτόματη περιστροφή"
-
-msgid "Alinhar e auto rotacionar"
-msgstr "Ευθυγράμμιση και αυτόματη περιστροφή"
-
-msgid "Não alterar"
-msgstr "Μην αλλάζετε"
-
-msgid "Espanhol"
-msgstr "Ισπανικά"
-
-msgid "Inglês"
-msgstr "Αγγλικά"
-
-msgid "Português"
-msgstr "Πορτογαλικά"
-
-msgid "Destino:"
-msgstr "Προορισμός:"
-
-msgid "Aplicar"
-msgstr "Εφαρμογή"
-
-msgid "Adicionar OCR no PDF digitalizado permitindo seleção de textos e busca:"
-msgstr ""
-"Προσθέστε OCR στο σαρωμένο PDF, επιτρέποντας την επιλογή και αναζήτηση "
-"κειμένου:"
-
-msgid "Quantidade de arquivos:"
-msgstr "Αριθμός αρχείων:"
-
-msgid "Páginas:"
-msgstr "Σελίδες:"
-
-msgid "Idioma do PDF:"
-msgstr "Γλώσσα PDF:"
-
-msgid "Qualidade do PDF:"
-msgstr "Ποιότητα PDF:"
-
-msgid "Alinhamento:"
-msgstr "Ευθυγράμμιση:"
-
-msgid "Aplicando - Aguarde"
-msgstr "Εφαρμογή - Παρακαλώ περιμένετε"
-
-msgid "Abrir"
-msgstr "Ανοίξτε το"
-
-msgid "Arquivo:"
-msgstr "Αρχείο:"
-
-msgid "Pasta:"
-msgstr "Φάκελος:"
-
-msgid "OCR para PDF"
-msgstr "OCR για PDF"
-
-msgid "Concluído!"
-msgstr ""
-
-msgid "Salvo em: "
-msgstr "Αποθηκεύτηκε σε "
+"Content-Transfer-Encoding: 8bit"

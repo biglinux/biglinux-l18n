@@ -2,92 +2,17 @@
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the calamares-biglinux package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
+# 
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: calamares-biglinux\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-07-09 00:55-0300\n"
+"POT-Creation-Date: 2022-06-21 03:19-0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: en\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-
-msgid ""
-"O boot atual está utilizando o modo EFI, porém não encontrei nenhuma "
-"partição EFI neste computador, se este computador já possui outro sistema "
-"instalado e você pretende que ele permaneça instalado, provavelmente será "
-"necessário alterar a configuração na BIOS para fazer boot em modo Legacy, "
-"também chamado de modo BIOS.\n"
-"\n"
-"Deseja prosseguir com com a instalação em modo EFI?"
-msgstr ""
-"The current boot is using EFI mode, however I did not find any EFI "
-"partitions on this computer, if this computer already has another system "
-"installed and you want it to remain installed, you will probably need to "
-"change the BIOS setting to boot in Legacy mode, also called BIOS mode.\n"
-"\n"
-"Do you wish to proceed with the EFI mode installation?"
-
-msgid "Instalar o sistema"
-msgstr "Installing the system"
-
-msgid ""
-"O boot atual está utilizando o modo Legacy/BIOS, porém encontrei pelo menos "
-"uma partição EFI neste computador. Para que a instalação seja bem sucedida, "
-"provavelmente será necessário alterar a configuração na BIOS para fazer boot "
-"em modo EFI ou UEFI.\n"
-"\n"
-"Deseja prosseguir com com a instalação em modo Legacy/BIOS?"
-msgstr ""
-"The current boot is using Legacy/BIOS mode, but I found at least one EFI "
-"partition on this computer. For a successful installation, you will probably "
-"need to change the setting in the BIOS to boot in EFI or UEFI mode.\n"
-"\n"
-"Do you want to proceed with the Legacy/BIOS installation?"
-
-msgid "Instalar o BigLinux"
-msgstr "Installing BigLinux"
-
-msgid "PADRÃO"
-msgstr "STANDARD"
-
-msgid "DESEMPENHO"
-msgstr "PERFORMANCE"
-
-msgid "COMPATIBILIDADE"
-msgstr "COMPATIBILITY"
-
-msgid "Compacta os dados"
-msgstr "Compact the data"
-
-msgid "Pontos de restauração"
-msgstr "Restore Points"
-
-msgid "Adia a gravação dos dados"
-msgstr "Postpones data recording"
-
-msgid "Funciona com tabelas de particionamento antigas"
-msgstr "Works with old partition tables"
-
-msgid "BTRFS com fsync"
-msgstr "BTRFS with fsync"
-
-msgid "BTRFS sem fsync"
-msgstr "BTRFS without fsync"
-
-msgid "SELECIONAR"
-msgstr "SELECT"
-
-msgid "Instalar no HD"
-msgstr "Install to HD"
-
-msgid "O sistema está em modo"
-msgstr "The system is in"
-
-msgid "e com o kernel"
-msgstr "and with the kernel"
+"Content-Transfer-Encoding: 8bit"

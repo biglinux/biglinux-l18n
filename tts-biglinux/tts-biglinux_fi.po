@@ -2,69 +2,17 @@
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the tts-biglinux package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
+# 
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: tts-biglinux\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-07-09 00:55-0300\n"
+"POT-Creation-Date: 2022-06-21 03:19-0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: fi\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-
-msgid "Configurações de texto para voz"
-msgstr "Tekstistä puheeksi -asetukset"
-
-msgid "Vozes - Abrir BigStore"
-msgstr "Äänet - Open BigStore"
-
-msgid "Voice Configuration"
-msgstr "Äänen konfigurointi"
-
-msgid "Configurar voz"
-msgstr "Määritä ääni"
-
-msgid "Para falar um texto selecionado use o atalho "
-msgstr "Voit puhua valitun tekstin käyttämällä pikanäppäintä "
-
-msgid "[Alt] + [V]"
-msgstr "[Alt] + [V]"
-
-msgid ""
-"ou o ícone na sessão Utilitários no menu do sistema. Para interromper a "
-"leitura use novamene o atalho ou ícone."
-msgstr ""
-"tai kuvaketta järjestelmävalikon Apuohjelmat-osiossa. Lopeta lukeminen "
-"käyttämällä pikakuvaketta tai kuvaketta uudelleen."
-
-msgid "Selecione as configurações de sua preferência"
-msgstr "Valitse haluamasi asetukset"
-
-msgid "Números maiores deixam a voz mais rápida, o padrão é: -25"
-msgstr "Suuremmat numerot tekevät äänestä nopeamman, oletusarvo on -25"
-
-msgid "Velocidade"
-msgstr "Nopeus"
-
-msgid "Números maiores deixam a voz mais aguda, o padrão é: -25"
-msgstr "Suuremmat numerot tekevät äänestä korkeamman, standardi on -25"
-
-msgid "Tom"
-msgstr "Tom"
-
-msgid "O padrão é: 0."
-msgstr "Oletusarvo on: 0."
-
-msgid "Volume"
-msgstr "Volume"
-
-msgid "As vozes são otimizadas para idiomas expecíficos."
-msgstr "Äänet on optimoitu tietyille kielille."
-
-msgid "Voz"
-msgstr "Ääni"
+"Content-Transfer-Encoding: 8bit"

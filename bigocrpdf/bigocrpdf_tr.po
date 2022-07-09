@@ -2,108 +2,17 @@
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the bigocrpdf package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
+# 
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: bigocrpdf\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-07-09 00:55-0300\n"
+"POT-Creation-Date: 2022-07-08 14:40-0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: tr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-
-msgid "Torne seu PDF pesquisável"
-msgstr "PDF'nizi aranabilir hale getirin"
-
-msgid ""
-"Escolha o arquivo PDF para aplicar o OCR, com isso será possível efetuar "
-"buscas ou copiar textos.\n"
-"\n"
-"Você também pode utilizar o gerenciador de arquivos, clicar com o botão "
-"direito no arquivo PDF, 'Abrir com' e selecionar a opção de OCR."
-msgstr ""
-"OCR uygulamak için PDF dosyasını seçin, böylece metinleri arayabilir veya "
-"kopyalayabilirsiniz.\n"
-"\n"
-"Ayrıca dosya yöneticisini kullanabilir, PDF dosyasına sağ tıklayabilir, "
-"'Birlikte aç' ve OCR seçeneğini seçebilirsiniz."
-
-msgid "Normal"
-msgstr "Normal"
-
-msgid "Econômico"
-msgstr "Ekonomik"
-
-msgid "Mais econômico"
-msgstr "Daha ekonomik"
-
-msgid "Alinhar"
-msgstr "Hizala"
-
-msgid "Auto rotacionar"
-msgstr "Otomatik döndürme"
-
-msgid "Alinhar e auto rotacionar"
-msgstr "Hizalama ve otomatik döndürme"
-
-msgid "Não alterar"
-msgstr "Değiştirmeyin"
-
-msgid "Espanhol"
-msgstr "İspanyolca"
-
-msgid "Inglês"
-msgstr "İngilizce"
-
-msgid "Português"
-msgstr "Portekizce"
-
-msgid "Destino:"
-msgstr "Varış yeri:"
-
-msgid "Aplicar"
-msgstr "Başvurmak"
-
-msgid "Adicionar OCR no PDF digitalizado permitindo seleção de textos e busca:"
-msgstr "Taranan PDF'ye OCR ekleyerek metin seçimine ve aramaya olanak tanır:"
-
-msgid "Quantidade de arquivos:"
-msgstr "Dosya sayısı:"
-
-msgid "Páginas:"
-msgstr "Sayfalar:"
-
-msgid "Idioma do PDF:"
-msgstr "PDF dili:"
-
-msgid "Qualidade do PDF:"
-msgstr "PDF kalitesinde:"
-
-msgid "Alinhamento:"
-msgstr "Hizalanma:"
-
-msgid "Aplicando - Aguarde"
-msgstr "Başvuru - Lütfen bekleyin"
-
-msgid "Abrir"
-msgstr "Açık"
-
-msgid "Arquivo:"
-msgstr "Arşiv:"
-
-msgid "Pasta:"
-msgstr "Klasör:"
-
-msgid "OCR para PDF"
-msgstr "PDF için OCR"
-
-msgid "Concluído!"
-msgstr ""
-
-msgid "Salvo em: "
-msgstr "Kaydedildi "
+"Content-Transfer-Encoding: 8bit"

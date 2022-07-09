@@ -2,26 +2,17 @@
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the biglinux-hardware-detection package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
+# 
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: biglinux-hardware-detection\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-07-09 00:55-0300\n"
+"POT-Creation-Date: 2022-06-21 03:19-0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: da\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-
-msgid "MÓDULO: Nenhum módulo precisa ser instalado."
-msgstr "MODUL: Der skal ikke installeres noget modul."
-
-msgid "FIRMWARE: Nenhum firmware precisa ser instalado."
-msgstr "FIRMWARE: Der skal ikke installeres firmware."
-
-msgid "Hardware"
-msgstr "Hardware"
+"Content-Transfer-Encoding: 8bit"

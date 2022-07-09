@@ -2,85 +2,17 @@
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the sambasearch package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
+# 
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: sambasearch\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-07-09 00:55-0300\n"
+"POT-Creation-Date: 2022-06-21 03:19-0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: zh\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-
-msgid "Procurar compartilhamentos"
-msgstr "搜索股票"
-
-msgid "Localiza compartilhamentos na rede (Windows ou Samba)."
-msgstr "找到网络共享（Windows或Samba）。"
-
-msgid "GPL v2 or greater"
-msgstr "GPL v2或更高版本"
-
-msgid "Bruno Gonçalves"
-msgstr "布魯諾·貢薩爾維斯"
-
-msgid "01/08/2019"
-msgstr "01/08/2019"
-
-msgid "https://github.com/biglinux/sambasearch"
-msgstr "https://github.com/biglinux/sambasearch"
-
-msgid "https://www.biglinux.com.br"
-msgstr "https://www.biglinux.com.br"
-
-msgid ""
-"Alteração aplicada, verifique se os compartilhamentos de rede estão "
-"aparecendo no gerenciador de arquivos."
-msgstr "修改后，检查网络共享是否出现在文件管理器中。"
-
-msgid "Usuário"
-msgstr "用户"
-
-msgid "Insira o usuário do servidor que deseja acessar"
-msgstr "输入你要访问的服务器用户"
-
-msgid "Senha"
-msgstr "密码"
-
-msgid "Insira a senha do usuário do servidor que deseja acessar"
-msgstr "输入你要访问的服务器用户的密码"
-
-msgid ""
-"*A maioria dos servidores precisa de login e senha para listar os "
-"compartilhamentos disponíveis, deixe em branco para efetuar uma busca "
-"anônima."
-msgstr "*大多数服务器需要登录和密码以列出可用的共享，留空以执行匿名搜索。"
-
-msgid "Cancelar"
-msgstr "取消"
-
-msgid "Próximo"
-msgstr "下一页"
-
-msgid "Aguarde..."
-msgstr ""
-
-msgid "Anônimo"
-msgstr "佚名"
-
-msgid "Procura efetuada com o usuário:"
-msgstr "与用户一起进行的搜索。"
-
-msgid "na rede:"
-msgstr "在网络上。"
-
-msgid "Voltar"
-msgstr "溯源"
-
-msgid "Fechar"
-msgstr "关闭"
+"Content-Transfer-Encoding: 8bit"

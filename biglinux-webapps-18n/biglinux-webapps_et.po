@@ -1,0 +1,145 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the biglinux-webapps package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: biglinux-webapps\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-06-21 03:19-0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: et\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit"
+
+msgid "Selecionar imagem"
+msgstr "Valige pilt"
+
+msgid "Adicionar WebApps"
+msgstr "Veebirakenduste lisamine"
+
+msgid "WebApps Adicionados"
+msgstr "Lisatud veebirakendused"
+
+msgid "WebApps BigLinux"
+msgstr "Veebirakendused BigLinux"
+
+msgid "Url:"
+msgstr "Url:"
+
+msgid "Detectar Nome e Ícone"
+msgstr "Nimetuse ja ikooni tuvastamine"
+
+msgid "Nome:"
+msgstr "Nimi:"
+
+msgid "Ícone:"
+msgstr "Ikoon:"
+
+msgid "Alterar"
+msgstr "Muuda"
+
+msgid "Navegador:"
+msgstr "Navigator:"
+
+msgid "Categoria:"
+msgstr "Kategooria:"
+
+msgid "DESENVOLVIMENTO"
+msgstr "ARENDUS"
+
+msgid "ESCRITÓRIO"
+msgstr "OFFICE"
+
+msgid "GRÁFICOS"
+msgstr "GRAAFIKA"
+
+msgid "JOGOS"
+msgstr "MÄNGUD"
+
+msgid "MULTIMÍDIA"
+msgstr "MULTIMEDIA"
+
+msgid "Criar atalho na Área de Trabalho"
+msgstr "Loo otsetee töölauale"
+
+msgid "Perfil adicional"
+msgstr "Täiendav profiil"
+
+msgid "YouTube Modo TV"
+msgstr "YouTube TV režiim"
+
+msgid "Adicionar"
+msgstr "Lisa"
+
+msgid "Para adicionar um WebApp, você precisa informar a Url e o Nome."
+msgstr "Veebirakenduse lisamiseks peate teatama Url ja Name."
+
+msgid "Para detectar o Nome e o Ícone você precisa informar a Url."
+msgstr "Nime ja ikooni tuvastamiseks peate teavitama Url."
+
+msgid ""
+"A Url é inválida ou a conexão falhou.<br>Tente inserir o ícone pelo botão "
+"Alterar."
+msgstr ""
+"Url on kehtetu või ühendus ebaõnnestus.<br>Proovige sisestada ikoon nupu "
+"Change abil."
+
+msgid "O WebApp foi adicionado com sucesso!"
+msgstr "Veebirakendus lisati edukalt!"
+
+msgid "Ícones encontrados"
+msgstr "Leitud ikoonid"
+
+msgid "Selecione o ícone preferido:"
+msgstr "Valige eelistatud ikoon:"
+
+msgid "Desenvolvimento"
+msgstr "Arendus"
+
+msgid "Escritório"
+msgstr "Kontor"
+
+msgid "Gráficos"
+msgstr "Graafika"
+
+msgid "Jogos"
+msgstr "Mängud"
+
+msgid "Multimídia"
+msgstr "Multimeedia"
+
+msgid "Tem certeza que deseja remover este WebApp?"
+msgstr "Kas olete kindel, et soovite selle veebirakenduse eemaldada?"
+
+msgid "Nenhum WebApp adicionado!"
+msgstr "Veebirakendust ei ole lisatud!"
+
+msgid "Navegador padrão<br>dos webapps:"
+msgstr "Vaikimisi veebirakenduste<br> brauser:"
+
+msgid "Alterar navegador"
+msgstr "Muutke brauserit"
+
+msgid "Selecione o navegador preferido:"
+msgstr "Valige oma eelistatud brauser:"
+
+msgid "WebApps Nativos"
+msgstr "Natiivsed veebirakendused"
+
+msgid "Bom dia"
+msgstr "Tere hommikust"
+
+msgid "Boa tarde"
+msgstr "Tere päevast"
+
+msgid "Boa noite"
+msgstr "Tere õhtust"
+
+msgid "Aguarde, estamos preparando para começar..."
+msgstr "Ole valmis, me oleme valmis alustama..."

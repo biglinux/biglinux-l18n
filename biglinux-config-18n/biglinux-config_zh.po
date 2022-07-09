@@ -1,0 +1,90 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the biglinux-config package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: biglinux-config\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-06-21 03:18-0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: zh\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit"
+
+msgid "Restaurar Configurações"
+msgstr "恢复设置"
+
+msgid ""
+"Atenção! O programa está aberto!\\nEle será fechado para que a restauração "
+"tenha efeito."
+msgstr "注意事项!该方案是开放的！它将被关闭以使修复生效。"
+
+msgid "As configurações foram restauradas com sucesso!"
+msgstr "设置已经成功恢复了!"
+
+msgid ""
+"Você tem certeza que deseja restaurar todas as configurações do KDE/"
+"Plasma?\\nIsso apagará todas as configurações definidas por $USER!"
+msgstr "你确定你要恢复所有的KDE/Plasma设置吗？（nIsIs）擦除所有由$USER设置的设置"
+
+msgid ""
+"As configurações foram restauradas com sucesso!\\nÉ necessário fazer logoff/"
+"login para concluir a restauração!"
+msgstr "设置已成功恢复！你必须注销/开启以完成恢复！\"。"
+
+msgid ""
+"Restaurar&nbsp;o&nbsp;programa&nbsp;como&nbsp;modo&nbsp;padrão&nbsp;ou&nbsp;distribuição&nbsp;BigLinux."
+""
+msgstr "将程序恢复为标准模式或BigLinux分布。"
+
+msgid "Restaurar&nbsp;o&nbsp;programa&nbsp;como&nbsp;modo&nbsp;padrão."
+msgstr "将程序恢复为默认模式。"
+
+msgid ""
+"Músicas-(Clementine) clementine.sh Multimedia clementine.png clementine skel "
+"$COMMENT_skel"
+msgstr ""
+"Music-(Clementine) clementine.sh Multimedia clementine.png clementine skel "
+"$COMMENT_skel"
+
+msgid ""
+"Gravador-de-Tela-(vokoscreenNG) vokoscreen.sh Multimedia vokoscreen.png "
+"vokoscreenNG  $COMMENT_normal"
+msgstr ""
+"Screen Recorder-(vokoscreenNG) vokoscreen.sh 多媒体 vokoscreen.png vokoscreenNG "
+"$COMMENT_normal"
+
+msgid ""
+"Vídeos-(Smplayer) smplayer.sh Multimedia smplayer.png smplayer skel "
+"$COMMENT_skel"
+msgstr "视频-(Smplayer) smplayer.sh 多媒体smplayer.png smplayer skel $COMMENT_skel"
+
+msgid "Restaurar no modo padrão da distribuição"
+msgstr "恢复到默认的分发模式"
+
+msgid "Essa opção restaura o programa com o padrão do BigLinux."
+msgstr "该选项将程序恢复到BigLinux的默认状态。"
+
+msgid "Restaurar no modo padrão do programa"
+msgstr "在标准程序模式下恢复"
+
+msgid "Essa opção restaura o programa com o padrão do desenvolvedor."
+msgstr "该选项将程序恢复到开发者默认状态。"
+
+msgid "Restaurar as configurações do programa:"
+msgstr "恢复节目设置。"
+
+msgid "Principal"
+msgstr "主要内容"
+
+msgid "Internet"
+msgstr "互联网"
+
+msgid "Pesquisar Restaurar"
+msgstr "搜索恢复"

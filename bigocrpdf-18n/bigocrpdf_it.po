@@ -1,0 +1,109 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the bigocrpdf package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: bigocrpdf\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-07-08 14:40-0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: it\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit"
+
+msgid "Torne seu PDF pesquisável"
+msgstr "Renda il suo PDF ricercabile"
+
+msgid ""
+"Escolha o arquivo PDF para aplicar o OCR, com isso será possível efetuar "
+"buscas ou copiar textos.\n"
+"\n"
+"Você também pode utilizar o gerenciador de arquivos, clicar com o botão "
+"direito no arquivo PDF, 'Abrir com' e selecionar a opção de OCR."
+msgstr ""
+"Scelga il file PDF a cui applicare l'OCR, in modo da poter cercare o copiare "
+"i testi.\n"
+"\n"
+"Può anche utilizzare il file manager, cliccare con il tasto destro del mouse "
+"sul file PDF, 'Apri con' e selezionare l'opzione OCR."
+
+msgid "Normal"
+msgstr "Normale"
+
+msgid "Econômico"
+msgstr "Economico"
+
+msgid "Mais econômico"
+msgstr "Più economico"
+
+msgid "Alinhar"
+msgstr "Allineare"
+
+msgid "Auto rotacionar"
+msgstr "Rotazione automatica"
+
+msgid "Alinhar e auto rotacionar"
+msgstr "Allineamento e rotazione automatica"
+
+msgid "Não alterar"
+msgstr "Non cambiare"
+
+msgid "Espanhol"
+msgstr "Spagnolo"
+
+msgid "Inglês"
+msgstr "Inglese"
+
+msgid "Português"
+msgstr "Portoghese"
+
+msgid "Destino:"
+msgstr "Destinazione:"
+
+msgid "Aplicar"
+msgstr "Applicare"
+
+msgid ""
+"Adicionar OCR no PDF digitalizado permitindo seleção de textos e busca:"
+msgstr ""
+"Aggiunge l'OCR al PDF scansionato, consentendo la selezione e la ricerca del "
+"testo:"
+
+msgid "Quantidade de arquivos:"
+msgstr "Numero di file:"
+
+msgid "Páginas:"
+msgstr "Pagine:"
+
+msgid "Idioma do PDF:"
+msgstr "Lingua PDF:"
+
+msgid "Qualidade do PDF:"
+msgstr "Qualità PDF:"
+
+msgid "Alinhamento:"
+msgstr "Allineamento:"
+
+msgid "Aplicando - Aguarde"
+msgstr "Candidatura - Attendere prego"
+
+msgid "Abrir"
+msgstr "Aperto"
+
+msgid "Arquivo:"
+msgstr "Archivio:"
+
+msgid "Pasta:"
+msgstr "Cartella:"
+
+msgid "OCR para PDF"
+msgstr "OCR per PDF"
+
+msgid "Salvo em: "
+msgstr "Salvato in "

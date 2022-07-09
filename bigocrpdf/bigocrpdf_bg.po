@@ -2,110 +2,17 @@
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the bigocrpdf package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
+# 
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: bigocrpdf\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-07-09 00:55-0300\n"
+"POT-Creation-Date: 2022-07-08 14:40-0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: bg\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-
-msgid "Torne seu PDF pesquisável"
-msgstr "Направете своя PDF файл с възможност за търсене"
-
-msgid ""
-"Escolha o arquivo PDF para aplicar o OCR, com isso será possível efetuar "
-"buscas ou copiar textos.\n"
-"\n"
-"Você também pode utilizar o gerenciador de arquivos, clicar com o botão "
-"direito no arquivo PDF, 'Abrir com' e selecionar a opção de OCR."
-msgstr ""
-"Изберете PDF файла, към който да приложите OCR, за да можете да търсите или "
-"копирате текстове.\n"
-"\n"
-"Можете също така да използвате файловия мениджър, да щракнете с десния бутон "
-"върху PDF файла, да изберете \"Open with\" и да изберете опцията OCR."
-
-msgid "Normal"
-msgstr "Нормален"
-
-msgid "Econômico"
-msgstr "Икономически"
-
-msgid "Mais econômico"
-msgstr "По-икономичен"
-
-msgid "Alinhar"
-msgstr "Изравняване на"
-
-msgid "Auto rotacionar"
-msgstr "Автоматично завъртане"
-
-msgid "Alinhar e auto rotacionar"
-msgstr "Подравняване и автоматично завъртане"
-
-msgid "Não alterar"
-msgstr "Не променяйте"
-
-msgid "Espanhol"
-msgstr "Испански"
-
-msgid "Inglês"
-msgstr "Английски език"
-
-msgid "Português"
-msgstr "Португалски"
-
-msgid "Destino:"
-msgstr "Дестинация:"
-
-msgid "Aplicar"
-msgstr "Направете заявка на"
-
-msgid "Adicionar OCR no PDF digitalizado permitindo seleção de textos e busca:"
-msgstr ""
-"Добавяне на OCR към сканирания PDF файл, което позволява избор на текст и "
-"търсене:"
-
-msgid "Quantidade de arquivos:"
-msgstr "Брой на файловете:"
-
-msgid "Páginas:"
-msgstr "Страници:"
-
-msgid "Idioma do PDF:"
-msgstr "PDF език:"
-
-msgid "Qualidade do PDF:"
-msgstr "Качество на PDF:"
-
-msgid "Alinhamento:"
-msgstr "Подравняване:"
-
-msgid "Aplicando - Aguarde"
-msgstr "Кандидатстване - Моля, изчакайте"
-
-msgid "Abrir"
-msgstr "Отворете"
-
-msgid "Arquivo:"
-msgstr "Архив:"
-
-msgid "Pasta:"
-msgstr "Папка:"
-
-msgid "OCR para PDF"
-msgstr "OCR за PDF"
-
-msgid "Concluído!"
-msgstr ""
-
-msgid "Salvo em: "
-msgstr "Запазено в "
+"Content-Transfer-Encoding: 8bit"

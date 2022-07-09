@@ -2,35 +2,17 @@
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the bigbashview package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
+# 
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: bigbashview\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-07-09 00:55-0300\n"
+"POT-Creation-Date: 2022-06-21 03:18-0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: bg\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-
-msgid "Information"
-msgstr "Информация"
-
-msgid "License: "
-msgstr "Лиценз "
-
-msgid "Created by:"
-msgstr "Създаден от:"
-
-msgid "Date:"
-msgstr "Дата:"
-
-msgid "Code URL:"
-msgstr "URL адрес на кода:"
-
-msgid "Project URL:"
-msgstr "URL адрес на проекта:"
+"Content-Transfer-Encoding: 8bit"

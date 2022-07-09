@@ -2,70 +2,17 @@
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the tts-biglinux package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
+# 
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: tts-biglinux\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-07-09 00:55-0300\n"
+"POT-Creation-Date: 2022-06-21 03:19-0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-
-msgid "Configurações de texto para voz"
-msgstr "音声合成の設定"
-
-msgid "Vozes - Abrir BigStore"
-msgstr "声 - BigStoreを開く"
-
-msgid "Voice Configuration"
-msgstr "ボイスコンフィグレーション"
-
-msgid "Configurar voz"
-msgstr "音声を設定する"
-
-msgid "Para falar um texto selecionado use o atalho "
-msgstr "選択したテキストを話すには、ショートカット "
-
-msgid "[Alt] + [V]"
-msgstr "[Alt] + [V］"
-
-msgid ""
-"ou o ícone na sessão Utilitários no menu do sistema. Para interromper a "
-"leitura use novamene o atalho ou ícone."
-msgstr ""
-"またはシステムメニューの「ユーティリティ」セクションのアイコンをクリックしま"
-"す。読み上げを中止する場合は、もう一度ショートカットやアイコンを使ってくださ"
-"い。"
-
-msgid "Selecione as configurações de sua preferência"
-msgstr "お好みの設定を選択"
-
-msgid "Números maiores deixam a voz mais rápida, o padrão é: -25"
-msgstr "数字を大きくすると音声が速くなり、デフォルトは-25"
-
-msgid "Velocidade"
-msgstr "スピード"
-
-msgid "Números maiores deixam a voz mais aguda, o padrão é: -25"
-msgstr "数字が大きいほど声が高くなる、標準は：-25"
-
-msgid "Tom"
-msgstr "トム"
-
-msgid "O padrão é: 0."
-msgstr "デフォルトは：0。"
-
-msgid "Volume"
-msgstr "ボリューム"
-
-msgid "As vozes são otimizadas para idiomas expecíficos."
-msgstr "音声は特定の言語に最適化されています。"
-
-msgid "Voz"
-msgstr "音声"
+"Content-Transfer-Encoding: 8bit"

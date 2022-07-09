@@ -1,0 +1,94 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the calamares-biglinux package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: calamares-biglinux\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-06-21 03:19-0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit"
+
+msgid ""
+"O boot atual está utilizando o modo EFI, porém não encontrei nenhuma "
+"partição EFI neste computador, se este computador já possui outro sistema "
+"instalado e você pretende que ele permaneça instalado, provavelmente será "
+"necessário alterar a configuração na BIOS para fazer boot em modo Legacy, "
+"também chamado de modo BIOS.\n"
+"\n"
+"Deseja prosseguir com com a instalação em modo EFI?"
+msgstr ""
+"Текущая загрузка использует режим EFI, однако я не нашел на этом компьютере "
+"разделов EFI. Если на этом компьютере уже установлена другая система, и вы "
+"хотите, чтобы она осталась установленной, вам, вероятно, придется изменить "
+"настройки в BIOS для загрузки в режиме Legacy, который также называется "
+"режимом BIOS.\n"
+"\n"
+"Хотите ли вы продолжить установку EFI?"
+
+msgid "Instalar o sistema"
+msgstr "Установка системы"
+
+msgid ""
+"O boot atual está utilizando o modo Legacy/BIOS, porém encontrei pelo menos "
+"uma partição EFI neste computador. Para que a instalação seja bem sucedida, "
+"provavelmente será necessário alterar a configuração na BIOS para fazer boot "
+"em modo EFI ou UEFI.\n"
+"\n"
+"Deseja prosseguir com com a instalação em modo Legacy/BIOS?"
+msgstr ""
+"Текущая загрузка происходит в режиме Legacy/BIOS, однако я обнаружил на этом "
+"компьютере как минимум один раздел EFI. Для успешной установки, вероятно, "
+"потребуется изменить настройки в BIOS для загрузки в режиме EFI или UEFI.\n"
+"\n"
+"Хотите ли вы продолжить установку Legacy/BIOS?"
+
+msgid "Instalar o BigLinux"
+msgstr "Установка BigLinux"
+
+msgid "PADRÃO"
+msgstr "СТАНДАРТ"
+
+msgid "DESEMPENHO"
+msgstr "ПРОИЗВОДИТЕЛЬНОСТЬ"
+
+msgid "COMPATIBILIDADE"
+msgstr "КОМПАТИБИЛЬНОСТЬ"
+
+msgid "Compacta os dados"
+msgstr "Уплотнение данных"
+
+msgid "Pontos de restauração"
+msgstr "Точки восстановления"
+
+msgid "Adia a gravação dos dados"
+msgstr "Откладывает запись данных"
+
+msgid "Funciona com tabelas de particionamento antigas"
+msgstr "Работает со старыми таблицами разделов"
+
+msgid "BTRFS com fsync"
+msgstr "BTRFS с fsync"
+
+msgid "BTRFS sem fsync"
+msgstr "BTRFS без fsync"
+
+msgid "SELECIONAR"
+msgstr "ВЫБРАТЬ"
+
+msgid "Instalar no HD"
+msgstr "Установить на HD"
+
+msgid "O sistema está em modo"
+msgstr "Система находится в"
+
+msgid "e com o kernel"
+msgstr "и с ядром"

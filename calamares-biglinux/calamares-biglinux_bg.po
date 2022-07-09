@@ -2,92 +2,17 @@
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the calamares-biglinux package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
+# 
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: calamares-biglinux\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-07-09 00:55-0300\n"
+"POT-Creation-Date: 2022-06-21 03:19-0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: bg\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
-
-msgid ""
-"O boot atual está utilizando o modo EFI, porém não encontrei nenhuma "
-"partição EFI neste computador, se este computador já possui outro sistema "
-"instalado e você pretende que ele permaneça instalado, provavelmente será "
-"necessário alterar a configuração na BIOS para fazer boot em modo Legacy, "
-"também chamado de modo BIOS.\n"
-"\n"
-"Deseja prosseguir com com a instalação em modo EFI?"
-msgstr ""
-"Текущото зареждане е в режим EFI, но не открих никакви EFI дялове на този "
-"компютър, ако на този компютър вече е инсталирана друга система и искате тя "
-"да остане инсталирана, вероятно ще трябва да промените настройката в BIOS, "
-"за да заредите в режим Legacy, наричан още режим BIOS.\n"
-"\n"
-"Искате ли да продължите с инсталацията на EFI?"
-
-msgid "Instalar o sistema"
-msgstr "Инсталиране на системата"
-
-msgid ""
-"O boot atual está utilizando o modo Legacy/BIOS, porém encontrei pelo menos "
-"uma partição EFI neste computador. Para que a instalação seja bem sucedida, "
-"provavelmente será necessário alterar a configuração na BIOS para fazer boot "
-"em modo EFI ou UEFI.\n"
-"\n"
-"Deseja prosseguir com com a instalação em modo Legacy/BIOS?"
-msgstr ""
-"Текущото зареждане е в режим Legacy/BIOS, но на този компютър открих поне "
-"един EFI дял. За да бъде инсталацията успешна, вероятно ще трябва да "
-"промените настройката в BIOS, за да стартирате в режим EFI или UEFI.\n"
-"\n"
-"Искате ли да продължите с инсталирането на Legacy/BIOS?"
-
-msgid "Instalar o BigLinux"
-msgstr "Инсталиране на BigLinux"
-
-msgid "PADRÃO"
-msgstr "СТАНДАРТ"
-
-msgid "DESEMPENHO"
-msgstr "ПРЕДСТАВЯНЕ"
-
-msgid "COMPATIBILIDADE"
-msgstr "СЪВМЕСТИМОСТ"
-
-msgid "Compacta os dados"
-msgstr "Уплътняване на данните"
-
-msgid "Pontos de restauração"
-msgstr "Точки за възстановяване"
-
-msgid "Adia a gravação dos dados"
-msgstr "Отлагане на записването на данни"
-
-msgid "Funciona com tabelas de particionamento antigas"
-msgstr "Работи със стари таблици с дялове"
-
-msgid "BTRFS com fsync"
-msgstr "BTRFS с fsync"
-
-msgid "BTRFS sem fsync"
-msgstr "BTRFS без fsync"
-
-msgid "SELECIONAR"
-msgstr "ИЗБЕРЕТЕ"
-
-msgid "Instalar no HD"
-msgstr "Инсталиране на HD"
-
-msgid "O sistema está em modo"
-msgstr "Системата е в"
-
-msgid "e com o kernel"
-msgstr "и с ядрото"
+"Content-Transfer-Encoding: 8bit"

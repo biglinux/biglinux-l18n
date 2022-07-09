@@ -1,0 +1,145 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the biglinux-webapps package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: biglinux-webapps\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-06-21 03:19-0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: ro\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit"
+
+msgid "Selecionar imagem"
+msgstr "Selectați imaginea"
+
+msgid "Adicionar WebApps"
+msgstr "Adăugați WebApps"
+
+msgid "WebApps Adicionados"
+msgstr "Aplicații web adăugate"
+
+msgid "WebApps BigLinux"
+msgstr "WebApps BigLinux"
+
+msgid "Url:"
+msgstr "Url:"
+
+msgid "Detectar Nome e Ícone"
+msgstr "Detectarea numelui și a pictogramei"
+
+msgid "Nome:"
+msgstr "Numele:"
+
+msgid "Ícone:"
+msgstr "Icoană:"
+
+msgid "Alterar"
+msgstr "Schimbare"
+
+msgid "Navegador:"
+msgstr "Navigator:"
+
+msgid "Categoria:"
+msgstr "Categorie:"
+
+msgid "DESENVOLVIMENTO"
+msgstr "DEZVOLTARE"
+
+msgid "ESCRITÓRIO"
+msgstr "BIROU"
+
+msgid "GRÁFICOS"
+msgstr "GRAFICE"
+
+msgid "JOGOS"
+msgstr "JOCURI"
+
+msgid "MULTIMÍDIA"
+msgstr "MULTIMEDIA"
+
+msgid "Criar atalho na Área de Trabalho"
+msgstr "Creați o comandă rapidă pe desktop"
+
+msgid "Perfil adicional"
+msgstr "Profil suplimentar"
+
+msgid "YouTube Modo TV"
+msgstr "Modul YouTube TV"
+
+msgid "Adicionar"
+msgstr "Adăugați"
+
+msgid "Para adicionar um WebApp, você precisa informar a Url e o Nome."
+msgstr "Pentru a adăuga o aplicație web, trebuie să informați Url și Name."
+
+msgid "Para detectar o Nome e o Ícone você precisa informar a Url."
+msgstr "Pentru a detecta numele și pictograma, trebuie să informați Url."
+
+msgid ""
+"A Url é inválida ou a conexão falhou.<br>Tente inserir o ícone pelo botão "
+"Alterar."
+msgstr ""
+"Url-ul nu este valid sau conexiunea a eșuat.<br>Încercați să inserați "
+"pictograma cu ajutorul butonului Change."
+
+msgid "O WebApp foi adicionado com sucesso!"
+msgstr "Aplicația Web a fost adăugată cu succes!"
+
+msgid "Ícones encontrados"
+msgstr "Icoane găsite"
+
+msgid "Selecione o ícone preferido:"
+msgstr "Selectați pictograma preferată:"
+
+msgid "Desenvolvimento"
+msgstr "Dezvoltare"
+
+msgid "Escritório"
+msgstr "Birou"
+
+msgid "Gráficos"
+msgstr "Grafică"
+
+msgid "Jogos"
+msgstr "Jocuri"
+
+msgid "Multimídia"
+msgstr "Multimedia"
+
+msgid "Tem certeza que deseja remover este WebApp?"
+msgstr "Sunteți sigur că doriți să eliminați această aplicație web?"
+
+msgid "Nenhum WebApp adicionado!"
+msgstr "Nu a fost adăugată nicio aplicație web!"
+
+msgid "Navegador padrão<br>dos webapps:"
+msgstr "Browserul implicit al<br>aplicațiilor web:"
+
+msgid "Alterar navegador"
+msgstr "Schimbați browserul"
+
+msgid "Selecione o navegador preferido:"
+msgstr "Selectați browserul preferat:"
+
+msgid "WebApps Nativos"
+msgstr "Aplicații web native"
+
+msgid "Bom dia"
+msgstr "Bună dimineața"
+
+msgid "Boa tarde"
+msgstr "Bună ziua"
+
+msgid "Boa noite"
+msgstr "Bună seara"
+
+msgid "Aguarde, estamos preparando para começar..."
+msgstr "Așteptați, ne pregătim să începem..."

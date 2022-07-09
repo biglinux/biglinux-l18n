@@ -1,0 +1,81 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the biglinux-noise-reduction-pipewire package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: biglinux-noise-reduction-pipewire\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-06-21 03:19-0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: be\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit"
+
+msgid "Reduzir ruídos do microfone"
+msgstr "Паменшыць шум мікрафона"
+
+msgid "Microfone sem ruídos"
+msgstr "Бясшумны мікрафон"
+
+msgid "Desativando"
+msgstr "дэактывацыі"
+
+msgid "Filtro do Microfone"
+msgstr "Мікрафонны фільтр"
+
+msgid "Ativando"
+msgstr "актывізацыя"
+
+msgid "Configuração aplicada"
+msgstr "Прыкладная канфігурацыя"
+
+msgid "Microfone"
+msgstr "MIC"
+
+msgid "Configuração de áudio."
+msgstr "Налада аўдыё."
+
+msgid "Confirma a remoção das personalizações na configuração de áudio?"
+msgstr "Пацвердзіць выдаленне налад у канфігурацыі гуку?"
+
+msgid "Configuração de áudio"
+msgstr "налада аўдыё"
+
+msgid ""
+"Configuração de áudio restaurada.\n"
+"\n"
+"Os programas em execução no momento podem precisar ser fechados\n"
+"e abertos novamente para o áudio funcionar corretamente."
+msgstr ""
+"Канфігурацыя гуку адноўлена. \n"
+"\n"
+"Для правільнай працы аўдыёзабяспечаных праграм, магчыма, спатрэбіцца закрыць "
+"і зноў адкрыць."
+
+msgid "Cancelado, nenhuma configuração foi removida!"
+msgstr "Скасавана, налады не выдалены!"
+
+msgid ""
+"Este filtro utiliza técnicas de redes neurais para remover ruídos e sons do "
+"ambiente que atrapalham gravações e chamadas online."
+msgstr ""
+"Гэты фільтр выкарыстоўвае метады нейроннай сеткі для выдалення навакольнага "
+"шуму і гукаў, якія перашкаджаюць запісу і онлайн-званкам."
+
+msgid "Gerenciador de Áudio"
+msgstr "Менеджэр гуку"
+
+msgid "Frequências sonoras:"
+msgstr "Гукавыя частоты:"
+
+msgid "Filtro de ruído"
+msgstr "шумавы фільтр"
+
+msgid "Iniciar automaticamente"
+msgstr "аўтаматычны запуск"

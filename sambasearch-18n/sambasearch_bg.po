@@ -1,0 +1,89 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the sambasearch package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: sambasearch\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-06-21 03:19-0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: bg\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit"
+
+msgid "Procurar compartilhamentos"
+msgstr "Търсене на акции"
+
+msgid "Localiza compartilhamentos na rede (Windows ou Samba)."
+msgstr "Намерете мрежовите споделяния (Windows или Samba)."
+
+msgid "GPL v2 or greater"
+msgstr "GPL v2 или по-нова версия"
+
+msgid "Bruno Gonçalves"
+msgstr "Бруно Гонсалвеш"
+
+msgid "01/08/2019"
+msgstr "01/08/2019"
+
+msgid "https://github.com/biglinux/sambasearch"
+msgstr "https://github.com/biglinux/sambasearch"
+
+msgid "https://www.biglinux.com.br"
+msgstr "https://www.biglinux.com.br"
+
+msgid ""
+"Alteração aplicada, verifique se os compartilhamentos de rede estão "
+"aparecendo no gerenciador de arquivos."
+msgstr ""
+"Приложете промените и проверете дали мрежовите споделяния се появяват в "
+"мениджъра на файлове."
+
+msgid "Usuário"
+msgstr "Потребител"
+
+msgid "Insira o usuário do servidor que deseja acessar"
+msgstr "Въведете потребителя на сървъра, до който искате да получите достъп"
+
+msgid "Senha"
+msgstr "Парола"
+
+msgid "Insira a senha do usuário do servidor que deseja acessar"
+msgstr ""
+"Въведете паролата на потребителя на сървъра, до който искате да получите "
+"достъп"
+
+msgid ""
+"*A maioria dos servidores precisa de login e senha para listar os "
+"compartilhamentos disponíveis, deixe em branco para efetuar uma busca "
+"anônima."
+msgstr ""
+"*Повечето сървъри изискват потребителско име и парола, за да изброят "
+"наличните акции, оставете празно, за да извършите анонимно търсене."
+
+msgid "Cancelar"
+msgstr "Отмяна на"
+
+msgid "Próximo"
+msgstr "Следваща"
+
+msgid "Anônimo"
+msgstr "Анонимен"
+
+msgid "Procura efetuada com o usuário:"
+msgstr "Търсене, извършено с потребителя:"
+
+msgid "na rede:"
+msgstr "в мрежата:"
+
+msgid "Voltar"
+msgstr "Обратно"
+
+msgid "Fechar"
+msgstr "Затвори"
