@@ -14,7 +14,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-07-09 15:29-0300\n"
+"POT-Creation-Date: 2022-07-09 16:02-0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -502,6 +502,16 @@ msgstr "다운로드 크기:"
 msgid "Site:"
 msgstr "웹 사이트:"
 
+#
+# File: big-store/big-store/usr/share/bigbashview/bcc/apps/big-store/view_appstream_pamac.py, line: 180
+# File: big-store/big-store/usr/share/bigbashview/bcc/apps/big-store/view_aur.py, line: 124
+msgid "Data do empacotamento:"
+msgstr ""
+
+#, fuzzy
+msgid "Data de instalação:"
+msgstr "설치 이유:"
+
 msgid "Motivo da instalação:"
 msgstr "설치 이유:"
 
@@ -525,3 +535,17 @@ msgstr "패키지 파일:"
 
 msgid "Clique aqui para ver os arquivos"
 msgstr "파일을 보려면 여기를 클릭하십시오."
+
+#
+# File: big-store/big-store/usr/share/bigbashview/bcc/apps/big-store/view_aur.py, line: 92
+msgid "Número de votos:"
+msgstr ""
+
+#
+# File: big-store/big-store/usr/share/bigbashview/bcc/apps/big-store/view_aur.py, line: 95
+msgid "Página no AUR:"
+msgstr ""
+
+#, fuzzy
+msgid "Dependências de instalação:"
+msgstr "설치할 종속성"

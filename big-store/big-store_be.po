@@ -14,7 +14,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-07-09 15:29-0300\n"
+"POT-Creation-Date: 2022-07-09 16:02-0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -494,6 +494,16 @@ msgstr "Памер загрузкі:"
 msgid "Site:"
 msgstr "Сайт:"
 
+#
+# File: big-store/big-store/usr/share/bigbashview/bcc/apps/big-store/view_appstream_pamac.py, line: 180
+# File: big-store/big-store/usr/share/bigbashview/bcc/apps/big-store/view_aur.py, line: 124
+msgid "Data do empacotamento:"
+msgstr ""
+
+#, fuzzy
+msgid "Data de instalação:"
+msgstr "Прычына ўстаноўкі:"
+
 msgid "Motivo da instalação:"
 msgstr "Прычына ўстаноўкі:"
 
@@ -517,3 +527,17 @@ msgstr "Файлы пакета:"
 
 msgid "Clique aqui para ver os arquivos"
 msgstr "Націсніце тут, каб убачыць файлы"
+
+#
+# File: big-store/big-store/usr/share/bigbashview/bcc/apps/big-store/view_aur.py, line: 92
+msgid "Número de votos:"
+msgstr ""
+
+#
+# File: big-store/big-store/usr/share/bigbashview/bcc/apps/big-store/view_aur.py, line: 95
+msgid "Página no AUR:"
+msgstr ""
+
+#, fuzzy
+msgid "Dependências de instalação:"
+msgstr "Залежнасці для ўстаноўкі"
