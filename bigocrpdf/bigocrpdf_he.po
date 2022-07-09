@@ -90,17 +90,11 @@ msgstr "יישור:"
 msgid "Aplicando - Aguarde"
 msgstr "הגשת בקשה - אנא המתן"
 
-msgid "Abrir"
-msgstr "פתוח"
-
 msgid "Arquivo:"
 msgstr "קובץ:"
 
 msgid "Pasta:"
 msgstr "תיקייה:"
-
-msgid "OCR para PDF"
-msgstr "זיהוי תווים אופטי ל- PDF"
 
 msgid "Salvo em: "
 msgstr "נשמר ב: "

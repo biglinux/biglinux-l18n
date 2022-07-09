@@ -82,6 +82,3 @@ msgstr "sulla rete:"
 
 msgid "Voltar"
 msgstr "Indietro"
-
-msgid "Fechar"
-msgstr "Chiudere"

@@ -67,12 +67,6 @@ msgstr ""
 "Искате ли да прегледате файла или да го изпратите на transfer.sh, за да "
 "получите URL адрес с данните от вашия компютър по лесен начин за споделяне?"
 
-msgid "Categorias"
-msgstr "Категории"
-
-msgid "Principais"
-msgstr "Основен"
-
 msgid "Driver detectado:"
 msgstr "Открит драйвер:"
 
@@ -103,23 +97,14 @@ msgstr "Скенер"
 msgid "TV Digital"
 msgstr "Цифрова телевизия"
 
-msgid "Webcam"
-msgstr "Уеб камера"
-
 msgid "Touchscreen"
 msgstr "Сензорен екран"
 
 msgid "Som"
 msgstr "Звук"
 
-msgid "Outros"
-msgstr "Други"
-
 msgid "Pesquisar Driver ou Firmware"
 msgstr "Търсене на драйвер или фърмуер"
-
-msgid "Resultado da pesquisa"
-msgstr "Резултат от търсенето"
 
 msgid "Big-Driver-Manager"
 msgstr "Big-Driver-Manager"
@@ -202,9 +187,6 @@ msgstr "Логически устройства"
 msgid "Raid"
 msgstr "Raid"
 
-msgid "Sistema"
-msgstr "Система"
-
 msgid "Informações de Sistema"
 msgstr "Информация за системата"
 
@@ -278,12 +260,6 @@ msgstr ""
 
 msgid "Categoria"
 msgstr "Категория"
-
-msgid "ID"
-msgstr "ID"
-
-msgid "Info"
-msgstr "Информация"
 
 msgid ""
 "Digite sua senha para gerar um relatório removendo dados sensíveis, por "

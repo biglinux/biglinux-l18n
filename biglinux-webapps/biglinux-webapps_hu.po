@@ -99,9 +99,6 @@ msgstr "Megtalált ikonok"
 msgid "Selecione o ícone preferido:"
 msgstr "Válassza ki a kívánt ikont:"
 
-msgid "Desenvolvimento"
-msgstr "Fejlesztés"
-
 msgid "Escritório"
 msgstr "Iroda"
 
@@ -110,9 +107,6 @@ msgstr "Grafika"
 
 msgid "Jogos"
 msgstr "Játékok"
-
-msgid "Multimídia"
-msgstr "Multimédia"
 
 msgid "Tem certeza que deseja remover este WebApp?"
 msgstr "Biztos, hogy el akarja távolítani ezt a webalkalmazást?"
@@ -131,15 +125,6 @@ msgstr "Válassza ki a kívánt böngészőt:"
 
 msgid "WebApps Nativos"
 msgstr "Natív webes alkalmazások"
-
-msgid "Bom dia"
-msgstr "Jó reggelt!"
-
-msgid "Boa tarde"
-msgstr "Jó napot!"
-
-msgid "Boa noite"
-msgstr "Jó estét!"
 
 msgid "Aguarde, estamos preparando para começar..."
 msgstr "Készüljetek, mindjárt kezdünk..."

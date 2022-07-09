@@ -99,9 +99,6 @@ msgstr "Fundet ikoner"
 msgid "Selecione o ícone preferido:"
 msgstr "Vælg det foretrukne ikon:"
 
-msgid "Desenvolvimento"
-msgstr "Udvikling"
-
 msgid "Escritório"
 msgstr "Kontor"
 
@@ -110,9 +107,6 @@ msgstr "Grafik"
 
 msgid "Jogos"
 msgstr "Spil"
-
-msgid "Multimídia"
-msgstr "Multimedier"
 
 msgid "Tem certeza que deseja remover este WebApp?"
 msgstr "Er du sikker på, at du vil fjerne denne WebApp?"
@@ -131,15 +125,6 @@ msgstr "Vælg din foretrukne browser:"
 
 msgid "WebApps Nativos"
 msgstr "Native webapps"
-
-msgid "Bom dia"
-msgstr "Godmorgen"
-
-msgid "Boa tarde"
-msgstr "God eftermiddag"
-
-msgid "Boa noite"
-msgstr "Godaften"
 
 msgid "Aguarde, estamos preparando para começar..."
 msgstr "Vær klar, vi er ved at være klar til at starte..."

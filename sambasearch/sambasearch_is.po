@@ -82,6 +82,3 @@ msgstr "á netinu:"
 
 msgid "Voltar"
 msgstr "Fara aftur"
-
-msgid "Fechar"
-msgstr "Loka"

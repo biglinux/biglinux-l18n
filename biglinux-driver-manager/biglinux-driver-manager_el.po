@@ -71,12 +71,6 @@ msgstr ""
 "διεύθυνση URL με τα δεδομένα από τον υπολογιστή σας με εύκολο τρόπο για να "
 "τα μοιραστείτε"
 
-msgid "Categorias"
-msgstr "Κατηγορίες"
-
-msgid "Principais"
-msgstr "Κύρια"
-
 msgid "Driver detectado:"
 msgstr "Εντοπίστηκε οδηγός:"
 
@@ -107,23 +101,14 @@ msgstr "Σαρωτής"
 msgid "TV Digital"
 msgstr "Ψηφιακή τηλεόραση"
 
-msgid "Webcam"
-msgstr "Webcam"
-
 msgid "Touchscreen"
 msgstr "Οθόνη αφής"
 
 msgid "Som"
 msgstr "Ήχος"
 
-msgid "Outros"
-msgstr "Άλλα"
-
 msgid "Pesquisar Driver ou Firmware"
 msgstr "Αναζήτηση προγράμματος οδήγησης ή υλικολογισμικού"
-
-msgid "Resultado da pesquisa"
-msgstr "Αποτελέσματα αναζήτησης"
 
 msgid "Big-Driver-Manager"
 msgstr "Big-Driver-Manager"
@@ -207,9 +192,6 @@ msgstr "Λογικές συσκευές"
 msgid "Raid"
 msgstr "Επιδρομή"
 
-msgid "Sistema"
-msgstr "Σύστημα"
-
 msgid "Informações de Sistema"
 msgstr "Πληροφορίες συστήματος"
 
@@ -284,12 +266,6 @@ msgstr ""
 
 msgid "Categoria"
 msgstr "Κατηγορία"
-
-msgid "ID"
-msgstr "ID"
-
-msgid "Info"
-msgstr "Πληροφορίες"
 
 msgid ""
 "Digite sua senha para gerar um relatório removendo dados sensíveis, por "

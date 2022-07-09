@@ -94,17 +94,11 @@ msgstr "Kijelölés:"
 msgid "Aplicando - Aguarde"
 msgstr "Jelentkezés - Kérjük, várjon"
 
-msgid "Abrir"
-msgstr "Nyissa meg a  címet"
-
 msgid "Arquivo:"
 msgstr "Archívum:"
 
 msgid "Pasta:"
 msgstr "Mappa:"
-
-msgid "OCR para PDF"
-msgstr "OCR a PDF-hez"
 
 msgid "Salvo em: "
 msgstr "Mentve "

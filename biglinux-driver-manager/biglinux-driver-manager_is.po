@@ -67,12 +67,6 @@ msgstr ""
 "Viltu skoða skrána eða senda hana á transfer.sh vefsíðuna, til að hafa slóð "
 "með gögnum á tölvunni þinni á auðveldan hátt til að deila?"
 
-msgid "Categorias"
-msgstr "Flokkar"
-
-msgid "Principais"
-msgstr "Aðal"
-
 msgid "Driver detectado:"
 msgstr "Ökumaður uppgötvað:"
 
@@ -103,23 +97,14 @@ msgstr "Skanni"
 msgid "TV Digital"
 msgstr "Stafrænt sjónvarp"
 
-msgid "Webcam"
-msgstr "vefmyndavél"
-
 msgid "Touchscreen"
 msgstr "Snertiskjár"
 
 msgid "Som"
 msgstr "heilbrigður"
 
-msgid "Outros"
-msgstr "Annað"
-
 msgid "Pesquisar Driver ou Firmware"
 msgstr "Leita að bílstjóri eða Firmware"
-
-msgid "Resultado da pesquisa"
-msgstr "Leitarniðurstöður"
 
 msgid "Big-Driver-Manager"
 msgstr "Stór bílstjóri-framkvæmdastjóri"
@@ -200,9 +185,6 @@ msgstr "Rökrétt tæki"
 msgid "Raid"
 msgstr "Raid"
 
-msgid "Sistema"
-msgstr "Kerfi"
-
 msgid "Informações de Sistema"
 msgstr "Upplýsingar um kerfi"
 
@@ -275,12 +257,6 @@ msgstr "Býr til skrá með upplýsingum sem hægt er að birta á internetinu."
 
 msgid "Categoria"
 msgstr "Flokkur"
-
-msgid "ID"
-msgstr "AUÐKENNI"
-
-msgid "Info"
-msgstr "Upplýsingar"
 
 msgid ""
 "Digite sua senha para gerar um relatório removendo dados sensíveis, por "

@@ -67,12 +67,6 @@ msgstr ""
 "Vil du se filen eller sende den til nettstedet transfer.sh, for å ha en URL "
 "med dataene på datamaskinen din på en enkel å dele måte?"
 
-msgid "Categorias"
-msgstr "Kategorier"
-
-msgid "Principais"
-msgstr "Hoved"
-
 msgid "Driver detectado:"
 msgstr "Driver oppdaget:"
 
@@ -103,23 +97,14 @@ msgstr "Skanner"
 msgid "TV Digital"
 msgstr "Digital-TV"
 
-msgid "Webcam"
-msgstr "webkamera"
-
 msgid "Touchscreen"
 msgstr "Berøringsskjerm"
 
 msgid "Som"
 msgstr "lyd"
 
-msgid "Outros"
-msgstr "Annet"
-
 msgid "Pesquisar Driver ou Firmware"
 msgstr "Søk etter Driver eller Firmware"
-
-msgid "Resultado da pesquisa"
-msgstr "Søk resultat"
 
 msgid "Big-Driver-Manager"
 msgstr "Stor sjåfør-leder"
@@ -202,9 +187,6 @@ msgstr "Logiske enheter"
 msgid "Raid"
 msgstr "Raid"
 
-msgid "Sistema"
-msgstr "Systemet"
-
 msgid "Informações de Sistema"
 msgstr "Informasjon om systemet"
 
@@ -277,12 +259,6 @@ msgstr "Oppretter en fil med informasjon som kan publiseres på internett."
 
 msgid "Categoria"
 msgstr "Kategori"
-
-msgid "ID"
-msgstr "ID"
-
-msgid "Info"
-msgstr "Info"
 
 msgid ""
 "Digite sua senha para gerar um relatório removendo dados sensíveis, por "

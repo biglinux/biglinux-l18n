@@ -67,12 +67,6 @@ msgstr ""
 "Вы хочаце праглядзець файл або загрузіць яго на вэб-сайт transfer.sh, каб "
 "мець URL з дадзенымі з вашага камп'ютара, якімі можна лёгка абагуліць?"
 
-msgid "Categorias"
-msgstr "Катэгорыі"
-
-msgid "Principais"
-msgstr "Галоўны"
-
 msgid "Driver detectado:"
 msgstr "Выяўлены драйвер:"
 
@@ -103,23 +97,14 @@ msgstr "сканер"
 msgid "TV Digital"
 msgstr "Лічбавае тэлебачанне"
 
-msgid "Webcam"
-msgstr "вэбкамера"
-
 msgid "Touchscreen"
 msgstr "Сэнсарны экран"
 
 msgid "Som"
 msgstr "Гук"
 
-msgid "Outros"
-msgstr "Іншыя"
-
 msgid "Pesquisar Driver ou Firmware"
 msgstr "Пошук драйвераў або прашыўкі"
-
-msgid "Resultado da pesquisa"
-msgstr "вынік пошуку"
 
 msgid "Big-Driver-Manager"
 msgstr "Вялікі кіроўца-менеджар"
@@ -200,9 +185,6 @@ msgstr "лагічныя прылады"
 msgid "Raid"
 msgstr "налёт"
 
-msgid "Sistema"
-msgstr "Сістэма"
-
 msgid "Informações de Sistema"
 msgstr "Інфармацыя аб сістэме"
 
@@ -275,12 +257,6 @@ msgstr "Стварае файл з інфармацыяй, якую можна �
 
 msgid "Categoria"
 msgstr "Катэгорыя"
-
-msgid "ID"
-msgstr "ID"
-
-msgid "Info"
-msgstr "інфармацыя"
 
 msgid ""
 "Digite sua senha para gerar um relatório removendo dados sensíveis, por "

@@ -91,17 +91,11 @@ msgstr "Выраўноўванне:"
 msgid "Aplicando - Aguarde"
 msgstr "Заяўка - пачакайце"
 
-msgid "Abrir"
-msgstr "Адкрыць"
-
 msgid "Arquivo:"
 msgstr "Файл:"
 
 msgid "Pasta:"
 msgstr "Папка:"
-
-msgid "OCR para PDF"
-msgstr "OCR ў pdf"
 
 msgid "Salvo em: "
 msgstr "Захавана:"

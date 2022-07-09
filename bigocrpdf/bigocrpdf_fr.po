@@ -93,17 +93,11 @@ msgstr "Alignement :"
 msgid "Aplicando - Aguarde"
 msgstr "Candidature - Veuillez patienter"
 
-msgid "Abrir"
-msgstr "Ouvert"
-
 msgid "Arquivo:"
 msgstr "Archives :"
 
 msgid "Pasta:"
 msgstr "Dossier:"
-
-msgid "OCR para PDF"
-msgstr "OCR pour PDF"
 
 msgid "Salvo em: "
 msgstr "Enregistré dans "

@@ -99,9 +99,6 @@ msgstr "Icoane găsite"
 msgid "Selecione o ícone preferido:"
 msgstr "Selectați pictograma preferată:"
 
-msgid "Desenvolvimento"
-msgstr "Dezvoltare"
-
 msgid "Escritório"
 msgstr "Birou"
 
@@ -110,9 +107,6 @@ msgstr "Grafică"
 
 msgid "Jogos"
 msgstr "Jocuri"
-
-msgid "Multimídia"
-msgstr "Multimedia"
 
 msgid "Tem certeza que deseja remover este WebApp?"
 msgstr "Sunteți sigur că doriți să eliminați această aplicație web?"
@@ -131,15 +125,6 @@ msgstr "Selectați browserul preferat:"
 
 msgid "WebApps Nativos"
 msgstr "Aplicații web native"
-
-msgid "Bom dia"
-msgstr "Bună dimineața"
-
-msgid "Boa tarde"
-msgstr "Bună ziua"
-
-msgid "Boa noite"
-msgstr "Bună seara"
 
 msgid "Aguarde, estamos preparando para começar..."
 msgstr "Așteptați, ne pregătim să începem..."

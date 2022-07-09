@@ -93,17 +93,11 @@ msgstr "Wyrównanie:"
 msgid "Aplicando - Aguarde"
 msgstr "Składanie wniosku - Proszę czekać"
 
-msgid "Abrir"
-msgstr "Otwórz"
-
 msgid "Arquivo:"
 msgstr "Archiwum:"
 
 msgid "Pasta:"
 msgstr "Folder:"
-
-msgid "OCR para PDF"
-msgstr "OCR dla PDF"
 
 msgid "Salvo em: "
 msgstr "Zapisane w "

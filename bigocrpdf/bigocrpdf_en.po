@@ -90,17 +90,11 @@ msgstr "Alignment:"
 msgid "Aplicando - Aguarde"
 msgstr "Applying - Please wait"
 
-msgid "Abrir"
-msgstr "Open"
-
 msgid "Arquivo:"
 msgstr "Archive:"
 
 msgid "Pasta:"
 msgstr "Folder:"
-
-msgid "OCR para PDF"
-msgstr "OCR for PDF"
 
 msgid "Salvo em: "
 msgstr "Saved in "

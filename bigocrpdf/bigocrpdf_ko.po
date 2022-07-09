@@ -90,17 +90,11 @@ msgstr "정렬:"
 msgid "Aplicando - Aguarde"
 msgstr "신청 - 기다려주세요"
 
-msgid "Abrir"
-msgstr "오픈"
-
 msgid "Arquivo:"
 msgstr "파일:"
 
 msgid "Pasta:"
 msgstr "폴더:"
-
-msgid "OCR para PDF"
-msgstr "OCR을 PDF로 변환"
 
 msgid "Salvo em: "
 msgstr "저장 위치: "

@@ -91,17 +91,11 @@ msgstr "Jöfnun:"
 msgid "Aplicando - Aguarde"
 msgstr "Sækja um - Vinsamlegast bíddu"
 
-msgid "Abrir"
-msgstr "Opna"
-
 msgid "Arquivo:"
 msgstr "Skrá:"
 
 msgid "Pasta:"
 msgstr "Mappa:"
-
-msgid "OCR para PDF"
-msgstr "OCR til PDF"
 
 msgid "Salvo em: "
 msgstr "Vistað í: "

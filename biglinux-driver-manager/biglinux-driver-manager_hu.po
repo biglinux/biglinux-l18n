@@ -70,12 +70,6 @@ msgstr ""
 "URL-címet kapjon az adatokkal a számítógépéről, és könnyen megoszthassa "
 "azokat?"
 
-msgid "Categorias"
-msgstr "Kategóriák"
-
-msgid "Principais"
-msgstr "Főoldal"
-
 msgid "Driver detectado:"
 msgstr "A sofőr észlelte:"
 
@@ -107,23 +101,14 @@ msgstr "Szkenner"
 msgid "TV Digital"
 msgstr "Digitális TV"
 
-msgid "Webcam"
-msgstr "Webkamera"
-
 msgid "Touchscreen"
 msgstr "Érintőképernyő"
 
 msgid "Som"
 msgstr "Hang"
 
-msgid "Outros"
-msgstr "Egyéb"
-
 msgid "Pesquisar Driver ou Firmware"
 msgstr "Illesztőprogram vagy firmware keresése"
-
-msgid "Resultado da pesquisa"
-msgstr "Keresés eredménye"
 
 msgid "Big-Driver-Manager"
 msgstr "Big-Driver-Manager"
@@ -206,9 +191,6 @@ msgstr "Logikai eszközök"
 msgid "Raid"
 msgstr "Raid"
 
-msgid "Sistema"
-msgstr "Rendszer"
-
 msgid "Informações de Sistema"
 msgstr "Rendszerinformáció"
 
@@ -283,12 +265,6 @@ msgstr ""
 
 msgid "Categoria"
 msgstr "Kategória"
-
-msgid "ID"
-msgstr "ID"
-
-msgid "Info"
-msgstr "Info"
 
 msgid ""
 "Digite sua senha para gerar um relatório removendo dados sensíveis, por "

@@ -64,12 +64,6 @@ msgid ""
 "URL com os dados do seu computador de forma fácil de compartilhar?"
 msgstr "ファイルを表示したり、transfer.shに送信して、共有する簡単な方法でコンピュータからのデータでURLを持つようにしたいですか？"
 
-msgid "Categorias"
-msgstr "カテゴリー"
-
-msgid "Principais"
-msgstr "メイン"
-
 msgid "Driver detectado:"
 msgstr "ドライバーを検出しました。"
 
@@ -100,23 +94,14 @@ msgstr "スキャナ"
 msgid "TV Digital"
 msgstr "デジタルテレビ"
 
-msgid "Webcam"
-msgstr "ウェブカメラ"
-
 msgid "Touchscreen"
 msgstr "タッチスクリーン"
 
 msgid "Som"
 msgstr "サウンド"
 
-msgid "Outros"
-msgstr "その他"
-
 msgid "Pesquisar Driver ou Firmware"
 msgstr "ドライバーまたはファームウェアの検索"
-
-msgid "Resultado da pesquisa"
-msgstr "検索結果"
 
 msgid "Big-Driver-Manager"
 msgstr "ビッグドライバーマネージャ"
@@ -195,9 +180,6 @@ msgstr "ロジックデバイス"
 msgid "Raid"
 msgstr "レイド"
 
-msgid "Sistema"
-msgstr "システム"
-
 msgid "Informações de Sistema"
 msgstr "システム情報"
 
@@ -268,12 +250,6 @@ msgstr "インターネット上で公開できる情報を含むファイルを
 
 msgid "Categoria"
 msgstr "カテゴリー"
-
-msgid "ID"
-msgstr "ID"
-
-msgid "Info"
-msgstr "情報"
 
 msgid ""
 "Digite sua senha para gerar um relatório removendo dados sensíveis, por "

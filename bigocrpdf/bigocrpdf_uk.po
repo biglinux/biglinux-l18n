@@ -93,17 +93,11 @@ msgstr "Вирівнювання:"
 msgid "Aplicando - Aguarde"
 msgstr "Застосування - будь ласка, зачекайте"
 
-msgid "Abrir"
-msgstr "ВІДЧИНЕНО"
-
 msgid "Arquivo:"
 msgstr "Файл:"
 
 msgid "Pasta:"
 msgstr "Папка:"
-
-msgid "OCR para PDF"
-msgstr "OCR в PDF"
 
 msgid "Salvo em: "
 msgstr "Збережено в: "

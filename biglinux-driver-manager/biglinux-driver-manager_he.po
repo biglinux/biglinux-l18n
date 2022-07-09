@@ -67,12 +67,6 @@ msgstr ""
 "האם ברצונך להציג את הקובץ או לשלוח אותו לאתר transfer.sh, לקבל כתובת אתר עם "
 "הנתונים במחשב שלך בצורה קלה לשיתוף?"
 
-msgid "Categorias"
-msgstr "קטגוריות"
-
-msgid "Principais"
-msgstr "ראשי"
-
 msgid "Driver detectado:"
 msgstr "זוהה מנהל התקן:"
 
@@ -103,23 +97,14 @@ msgstr "סורק"
 msgid "TV Digital"
 msgstr "טלוויזיה דיגיטלית"
 
-msgid "Webcam"
-msgstr "מצלמת אינטרנט"
-
 msgid "Touchscreen"
 msgstr "מסך מגע"
 
 msgid "Som"
 msgstr "קול"
 
-msgid "Outros"
-msgstr "אחרים"
-
 msgid "Pesquisar Driver ou Firmware"
 msgstr "חפש מנהל התקן או קושחה"
-
-msgid "Resultado da pesquisa"
-msgstr "תוצאת חיפוש"
 
 msgid "Big-Driver-Manager"
 msgstr "מנהל התקן גדול"
@@ -199,9 +184,6 @@ msgstr "התקנים לוגיים"
 msgid "Raid"
 msgstr "פשיטה"
 
-msgid "Sistema"
-msgstr "מערכת"
-
 msgid "Informações de Sistema"
 msgstr "מידע על המערכת"
 
@@ -274,12 +256,6 @@ msgstr "יוצר קובץ עם מידע שניתן לפרסם באינטרנט."
 
 msgid "Categoria"
 msgstr "קטגוריה"
-
-msgid "ID"
-msgstr "תעודת זהות"
-
-msgid "Info"
-msgstr "מידע"
 
 msgid ""
 "Digite sua senha para gerar um relatório removendo dados sensíveis, por "

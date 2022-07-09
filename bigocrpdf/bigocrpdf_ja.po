@@ -89,17 +89,11 @@ msgstr "アライメント"
 msgid "Aplicando - Aguarde"
 msgstr "応募中 - しばらくお待ちください"
 
-msgid "Abrir"
-msgstr "開ける"
-
 msgid "Arquivo:"
 msgstr "アーカイブ"
 
 msgid "Pasta:"
 msgstr "フォルダ："
-
-msgid "OCR para PDF"
-msgstr "PDF用OCR"
 
 msgid "Salvo em: "
 msgstr "で保存されます。 "

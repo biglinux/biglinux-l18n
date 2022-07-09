@@ -81,6 +81,3 @@ msgstr "verkossa:"
 
 msgid "Voltar"
 msgstr "Takaisin"
-
-msgid "Fechar"
-msgstr "Sulje"

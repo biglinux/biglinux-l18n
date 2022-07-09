@@ -92,17 +92,11 @@ msgstr "Zarovnání:"
 msgid "Aplicando - Aguarde"
 msgstr "Podání žádosti - Počkejte prosím"
 
-msgid "Abrir"
-msgstr "Otevřít"
-
 msgid "Arquivo:"
 msgstr "Archiv:"
 
 msgid "Pasta:"
 msgstr "Složka:"
-
-msgid "OCR para PDF"
-msgstr "OCR pro PDF"
 
 msgid "Salvo em: "
 msgstr "Uloženo v "

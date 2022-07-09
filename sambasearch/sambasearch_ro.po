@@ -83,6 +83,3 @@ msgstr "în rețea:"
 
 msgid "Voltar"
 msgstr "Înapoi"
-
-msgid "Fechar"
-msgstr "Închideți"

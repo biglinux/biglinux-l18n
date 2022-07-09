@@ -91,17 +91,11 @@ msgstr "Justering:"
 msgid "Aplicando - Aguarde"
 msgstr "Påføring - Vennligst vent"
 
-msgid "Abrir"
-msgstr "Åpen"
-
 msgid "Arquivo:"
 msgstr "Fil:"
 
 msgid "Pasta:"
 msgstr "Mappe:"
-
-msgid "OCR para PDF"
-msgstr "OCR til PDF"
 
 msgid "Salvo em: "
 msgstr "Lagret i: "

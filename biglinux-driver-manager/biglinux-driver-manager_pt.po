@@ -67,12 +67,6 @@ msgstr ""
 "Deseja visualizar o arquivo ou envia-lo ao site transfer.sh, para ter uma "
 "URL com os dados do seu computador de forma fácil de compartilhar?"
 
-msgid "Categorias"
-msgstr "Categorias"
-
-msgid "Principais"
-msgstr "Principais"
-
 msgid "Driver detectado:"
 msgstr "Driver detectado:"
 
@@ -103,23 +97,14 @@ msgstr "Scanner"
 msgid "TV Digital"
 msgstr "TV Digital"
 
-msgid "Webcam"
-msgstr "Webcam"
-
 msgid "Touchscreen"
 msgstr "Touchscreen"
 
 msgid "Som"
 msgstr "Som"
 
-msgid "Outros"
-msgstr "Outros"
-
 msgid "Pesquisar Driver ou Firmware"
 msgstr "Pesquisar Driver ou Firmware"
-
-msgid "Resultado da pesquisa"
-msgstr "Resultado da pesquisa"
 
 msgid "Big-Driver-Manager"
 msgstr "Big-Driver-Manager"
@@ -201,9 +186,6 @@ msgstr "Dispositivos lógicos"
 msgid "Raid"
 msgstr "Raid"
 
-msgid "Sistema"
-msgstr "Sistema"
-
 msgid "Informações de Sistema"
 msgstr "Informações de Sistema"
 
@@ -276,12 +258,6 @@ msgstr "Cria um arquivo com informações que pode ser publicado na internet."
 
 msgid "Categoria"
 msgstr "Categoria"
-
-msgid "ID"
-msgstr "ID"
-
-msgid "Info"
-msgstr "Info"
 
 msgid ""
 "Digite sua senha para gerar um relatório removendo dados sensíveis, por "

@@ -67,12 +67,6 @@ msgstr ""
 "Haluatko tarkastella tiedostoa tai lähettää sen transfer.sh:lle, jotta saat "
 "URL-osoitteen, jossa on tiedot tietokoneeltasi helposti jaettavaksi?"
 
-msgid "Categorias"
-msgstr "Kategoriat"
-
-msgid "Principais"
-msgstr "Main"
-
 msgid "Driver detectado:"
 msgstr "Kuljettaja havaittu:"
 
@@ -103,23 +97,14 @@ msgstr "Skanneri"
 msgid "TV Digital"
 msgstr "Digitaalinen televisio"
 
-msgid "Webcam"
-msgstr "Webkamera"
-
 msgid "Touchscreen"
 msgstr "Kosketusnäyttö"
 
 msgid "Som"
 msgstr "Ääni"
 
-msgid "Outros"
-msgstr "Muut"
-
 msgid "Pesquisar Driver ou Firmware"
 msgstr "Etsi ajuria tai laiteohjelmaa"
-
-msgid "Resultado da pesquisa"
-msgstr "Hakutulos"
 
 msgid "Big-Driver-Manager"
 msgstr "Big-Driver-Manager"
@@ -203,9 +188,6 @@ msgstr "Logiikkalaitteet"
 msgid "Raid"
 msgstr "Raid"
 
-msgid "Sistema"
-msgstr "Järjestelmä"
-
 msgid "Informações de Sistema"
 msgstr "Järjestelmätiedot"
 
@@ -279,12 +261,6 @@ msgstr ""
 
 msgid "Categoria"
 msgstr "Luokka"
-
-msgid "ID"
-msgstr "ID"
-
-msgid "Info"
-msgstr "Info"
 
 msgid ""
 "Digite sua senha para gerar um relatório removendo dados sensíveis, por "

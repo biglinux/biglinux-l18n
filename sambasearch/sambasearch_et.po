@@ -82,6 +82,3 @@ msgstr "võrgus:"
 
 msgid "Voltar"
 msgstr "Tagasi"
-
-msgid "Fechar"
-msgstr "Sulge"

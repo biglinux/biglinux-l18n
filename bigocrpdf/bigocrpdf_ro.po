@@ -93,17 +93,11 @@ msgstr "Aliniere:"
 msgid "Aplicando - Aguarde"
 msgstr "Aplicare - Vă rugăm să așteptați"
 
-msgid "Abrir"
-msgstr "Deschideți"
-
 msgid "Arquivo:"
 msgstr "Arhivă:"
 
 msgid "Pasta:"
 msgstr "Dosar:"
-
-msgid "OCR para PDF"
-msgstr "OCR pentru PDF"
 
 msgid "Salvo em: "
 msgstr "Salvat în "

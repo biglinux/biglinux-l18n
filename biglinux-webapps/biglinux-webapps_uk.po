@@ -99,9 +99,6 @@ msgstr "Знайдено значки"
 msgid "Selecione o ícone preferido:"
 msgstr "Виберіть потрібний значок:"
 
-msgid "Desenvolvimento"
-msgstr "Розвиток"
-
 msgid "Escritório"
 msgstr "Офіс"
 
@@ -110,9 +107,6 @@ msgstr "графіка"
 
 msgid "Jogos"
 msgstr "Ігри"
-
-msgid "Multimídia"
-msgstr "Мультимедіа"
 
 msgid "Tem certeza que deseja remover este WebApp?"
 msgstr "Ви впевнені, що хочете видалити цю веб-програму?"
@@ -131,15 +125,6 @@ msgstr "Виберіть потрібний браузер:"
 
 msgid "WebApps Nativos"
 msgstr "Нативні веб-програми"
-
-msgid "Bom dia"
-msgstr "Доброго ранку"
-
-msgid "Boa tarde"
-msgstr "Доброго дня"
-
-msgid "Boa noite"
-msgstr "Надобраніч"
 
 msgid "Aguarde, estamos preparando para começar..."
 msgstr "Зачекайте, ми готуємося почати..."

@@ -91,17 +91,11 @@ msgstr "Hizalanma:"
 msgid "Aplicando - Aguarde"
 msgstr "Başvuru - Lütfen bekleyin"
 
-msgid "Abrir"
-msgstr "Açık"
-
 msgid "Arquivo:"
 msgstr "Arşiv:"
 
 msgid "Pasta:"
 msgstr "Klasör:"
-
-msgid "OCR para PDF"
-msgstr "PDF için OCR"
 
 msgid "Salvo em: "
 msgstr "Kaydedildi "

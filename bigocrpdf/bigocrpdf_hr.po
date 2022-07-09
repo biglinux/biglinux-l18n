@@ -92,17 +92,11 @@ msgstr "Poravnanje:"
 msgid "Aplicando - Aguarde"
 msgstr "Primjena - Molimo pričekajte"
 
-msgid "Abrir"
-msgstr "Otvori"
-
 msgid "Arquivo:"
 msgstr "Datoteka:"
 
 msgid "Pasta:"
 msgstr "Mapa:"
-
-msgid "OCR para PDF"
-msgstr "OCR do PDF"
 
 msgid "Salvo em: "
 msgstr "Spremljeno u: "

@@ -67,12 +67,6 @@ msgstr ""
 "Vil du se filen eller sende den til transfer.sh for at få en URL-adresse med "
 "dataene fra din computer på en nem måde at dele?"
 
-msgid "Categorias"
-msgstr "Kategorier"
-
-msgid "Principais"
-msgstr "Vigtigste"
-
 msgid "Driver detectado:"
 msgstr "Driver opdaget:"
 
@@ -103,23 +97,14 @@ msgstr "Scanner"
 msgid "TV Digital"
 msgstr "Digitalt tv"
 
-msgid "Webcam"
-msgstr "Webcam"
-
 msgid "Touchscreen"
 msgstr "Touchscreen"
 
 msgid "Som"
 msgstr "Lyd"
 
-msgid "Outros"
-msgstr "Andre"
-
 msgid "Pesquisar Driver ou Firmware"
 msgstr "Søg driver eller firmware"
-
-msgid "Resultado da pesquisa"
-msgstr "Søgeresultat"
 
 msgid "Big-Driver-Manager"
 msgstr "Big-Driver-Manager"
@@ -202,9 +187,6 @@ msgstr "Logiske enheder"
 msgid "Raid"
 msgstr "Raid"
 
-msgid "Sistema"
-msgstr "System"
-
 msgid "Informações de Sistema"
 msgstr "Systemoplysninger"
 
@@ -278,12 +260,6 @@ msgstr ""
 
 msgid "Categoria"
 msgstr "Kategori"
-
-msgid "ID"
-msgstr "ID"
-
-msgid "Info"
-msgstr "Info"
 
 msgid ""
 "Digite sua senha para gerar um relatório removendo dados sensíveis, por "

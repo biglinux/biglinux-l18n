@@ -92,17 +92,11 @@ msgstr "Uitlijning:"
 msgid "Aplicando - Aguarde"
 msgstr "Aanvragen - Even geduld a.u.b"
 
-msgid "Abrir"
-msgstr "Open"
-
 msgid "Arquivo:"
 msgstr "Archief:"
 
 msgid "Pasta:"
 msgstr "Map:"
-
-msgid "OCR para PDF"
-msgstr "OCR voor PDF"
 
 msgid "Salvo em: "
 msgstr "Opgeslagen in "

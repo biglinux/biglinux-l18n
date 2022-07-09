@@ -92,17 +92,11 @@ msgstr "Anpassning:"
 msgid "Aplicando - Aguarde"
 msgstr "Ansökan - Vänta"
 
-msgid "Abrir"
-msgstr "Öppna"
-
 msgid "Arquivo:"
 msgstr "Arkiv:"
 
 msgid "Pasta:"
 msgstr "Mapp:"
-
-msgid "OCR para PDF"
-msgstr "OCR för PDF"
 
 msgid "Salvo em: "
 msgstr "Sparad i "

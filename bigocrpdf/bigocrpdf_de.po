@@ -93,17 +93,11 @@ msgstr "Ausrichtung:"
 msgid "Aplicando - Aguarde"
 msgstr "Antragstellung - Bitte warten"
 
-msgid "Abrir"
-msgstr "Offen"
-
 msgid "Arquivo:"
 msgstr "Archiv:"
 
 msgid "Pasta:"
 msgstr "Mappe:"
-
-msgid "OCR para PDF"
-msgstr "OCR für PDF"
 
 msgid "Salvo em: "
 msgstr "Gespeichert in "

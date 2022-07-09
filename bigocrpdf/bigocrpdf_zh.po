@@ -89,17 +89,11 @@ msgstr "隶属关系。"
 msgid "Aplicando - Aguarde"
 msgstr "申请 - 请等待"
 
-msgid "Abrir"
-msgstr "打開"
-
 msgid "Arquivo:"
 msgstr "档案。"
 
 msgid "Pasta:"
 msgstr "文件夾："
-
-msgid "OCR para PDF"
-msgstr "用于PDF的OCR"
 
 msgid "Salvo em: "
 msgstr "保存在。 "

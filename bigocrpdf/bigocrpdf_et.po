@@ -92,17 +92,11 @@ msgstr "Kohanemine:"
 msgid "Aplicando - Aguarde"
 msgstr "Taotlemine - Palun oodake"
 
-msgid "Abrir"
-msgstr "Avatud"
-
 msgid "Arquivo:"
 msgstr "Arhiiv:"
 
 msgid "Pasta:"
 msgstr "Kaustik:"
-
-msgid "OCR para PDF"
-msgstr "OCR PDF-i jaoks"
 
 msgid "Salvo em: "
 msgstr "Salvestatud sisse "
