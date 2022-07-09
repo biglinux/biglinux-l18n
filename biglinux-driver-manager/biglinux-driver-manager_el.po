@@ -2,7 +2,7 @@
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the biglinux-driver-manager package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
+# 
 #, fuzzy
 msgid ""
 msgstr ""
@@ -15,7 +15,7 @@ msgstr ""
 "Language: el\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
+"Content-Transfer-Encoding: 8bit"
 
 msgid "O Big-Hardware-Relatory já está em uso."
 msgstr "Το Big-Hardware-Relatory χρησιμοποιείται ήδη."
@@ -32,6 +32,7 @@ msgstr "Αυτό το πρόγραμμα οδήγησης είναι ιδιόκ�
 msgid "Este driver parece compatível com este computador."
 msgstr ""
 "Αυτό το πρόγραμμα οδήγησης φαίνεται να είναι συμβατό με αυτόν τον υπολογιστή."
+""
 
 msgid "Remover"
 msgstr "Αφαιρέστε το"
@@ -52,9 +53,6 @@ msgstr "Άτομα με ειδικές ανάγκες"
 
 msgid "Informações de Hardware"
 msgstr "Πληροφορίες υλικού"
-
-msgid "Fechar"
-msgstr ""
 
 msgid "Enviar para transfer.sh"
 msgstr "Αποστολή στο transfer.sh"
@@ -129,9 +127,6 @@ msgstr "Αποτελέσματα αναζήτησης"
 
 msgid "Big-Driver-Manager"
 msgstr "Big-Driver-Manager"
-
-msgid "Abrir"
-msgstr ""
 
 msgid "Instalar ou Remover Drivers e Firmwares"
 msgstr "Εγκατάσταση ή αφαίρεση οδηγών και υλικολογισμικού"
@@ -239,9 +234,6 @@ msgstr "Αποθήκευση"
 msgid "Mais informações"
 msgstr "Περισσότερες πληροφορίες"
 
-msgid "Hardware"
-msgstr ""
-
 msgid "Pesquisar"
 msgstr "Αναζήτηση"
 
@@ -292,9 +284,6 @@ msgstr ""
 
 msgid "Categoria"
 msgstr "Κατηγορία"
-
-msgid "Nome"
-msgstr ""
 
 msgid "ID"
 msgstr "ID"

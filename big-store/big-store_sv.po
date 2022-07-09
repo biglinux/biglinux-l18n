@@ -3,12 +3,12 @@
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the big-store package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
+# 
 # #-#-#-#-#  python.pot (PACKAGE VERSION)  #-#-#-#-#
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) YEAR ORGANIZATION
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
+# 
 #, fuzzy
 msgid ""
 msgstr ""
@@ -22,25 +22,13 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: pygettext.py 1.5\n"
+"Generated-By: pygettext.py 1.5"
 
 msgid "Big-Store está aberta."
 msgstr "Big-Store är öppen."
 
 msgid "Big-Store"
 msgstr "Big-Store"
-
-#, fuzzy
-msgid "Instalar"
-msgstr "Installation av"
-
-#, fuzzy
-msgid "Remover"
-msgstr "Ta bort:"
-
-#
-msgid "Internet"
-msgstr ""
 
 msgid "Navegadores"
 msgstr "Webbläsare"
@@ -69,10 +57,6 @@ msgstr "Nätverksverktyg"
 msgid "Notícias, Feeds e RSS"
 msgstr "Nyheter, flöden och RSS"
 
-#, fuzzy
-msgid "Escritório"
-msgstr "Förvaringsplats:"
-
 msgid "Suíte Office"
 msgstr "Office Suite"
 
@@ -84,10 +68,6 @@ msgstr "PDF-redigerare"
 
 msgid "Agenda de tarefas e contatos"
 msgstr "Kalender med uppgifter och kontakter"
-
-#
-msgid "Gráficos"
-msgstr ""
 
 msgid "Visualizadores de imagem"
 msgstr "Bildvisare"
@@ -103,10 +83,6 @@ msgstr "Konvertera, ändra storlek eller komprimera bilder"
 
 msgid "Edição 3D e CAD"
 msgstr "3D- och CAD-redigering"
-
-#
-msgid "Multimídia"
-msgstr ""
 
 msgid "Reprodutores de áudio"
 msgstr "Ljudspelare"
@@ -134,10 +110,6 @@ msgstr "CD- och DVD-inspelare och kopiatorer"
 
 msgid "Webcam, gravação de tela e transmissão de vídeo"
 msgstr "Webbkamera, skärminspelning och videoströmning"
-
-#
-msgid "Jogos"
-msgstr ""
 
 msgid "Gerenciadores de jogos"
 msgstr "Spelansvariga"
@@ -175,14 +147,6 @@ msgstr "Styrelse"
 msgid "RPG"
 msgstr "RPG"
 
-#
-msgid "Outros"
-msgstr ""
-
-#
-msgid "Sistema"
-msgstr ""
-
 msgid "Armazenamento e partições"
 msgstr "Förvaring och skiljeväggar"
 
@@ -194,10 +158,6 @@ msgstr "Java JRE"
 
 msgid "Virtualização"
 msgstr "Virtualisering"
-
-#
-msgid "Desenvolvimento"
-msgstr ""
 
 msgid "Editores de código e IDE"
 msgstr "Kodredigerare och IDE:er"
@@ -213,26 +173,6 @@ msgstr "Inhemska program"
 
 msgid "Programas AUR"
 msgstr "AUR-programmen"
-
-#
-msgid "Instalado na partição:"
-msgstr ""
-
-#
-msgid "Tamanho da partição:"
-msgstr ""
-
-#
-msgid "Espaço utilizado:"
-msgstr ""
-
-#
-msgid "Espaço livre:"
-msgstr ""
-
-#
-msgid "Data que o sistema foi instalado:"
-msgstr ""
 
 msgid "Pacotes nativos e AUR"
 msgstr "Inhemska paket och AUR"
@@ -267,10 +207,6 @@ msgstr "Inte informerad"
 msgid "Atualizar"
 msgstr "Uppdatera"
 
-#
-msgid "Categorias"
-msgstr ""
-
 msgid "Versão instalada"
 msgstr "Installerad version"
 
@@ -280,10 +216,6 @@ msgstr "Tillgänglig version"
 msgid "Versão"
 msgstr "Version"
 
-#
-msgid "Fechar"
-msgstr ""
-
 msgid "Pacote .deb"
 msgstr ".deb-paketet"
 
@@ -292,14 +224,7 @@ msgid ""
 "sistema."
 msgstr ""
 "Programmet är i .deb-format, vilket ger den bästa integrationen med systemet."
-
-#, fuzzy
-msgid "Mais informações"
-msgstr "Inställningar"
-
-#
-msgid "Voltar"
-msgstr ""
+""
 
 msgid "Dependências a instalar"
 msgstr "Beroenden som ska installeras"
@@ -333,10 +258,6 @@ msgstr "Tillgänglig version:"
 
 msgid "Repositório:"
 msgstr "Förvaringsplats:"
-
-#
-msgid "Cancelar"
-msgstr ""
 
 msgid "Instalando"
 msgstr "Installation av"
@@ -373,10 +294,6 @@ msgid "Pacotes"
 msgstr "Paket"
 
 msgid "Ativado"
-msgstr "Aktiverad"
-
-#, fuzzy
-msgid "Desativado"
 msgstr "Aktiverad"
 
 msgid "Atualizações"
@@ -494,10 +411,6 @@ msgstr ""
 "Visar endast valda program<br>\n"
 "och döljer resultat som är användbara <br>\n"
 "endast för avancerade användare."
-
-#
-msgid "Aplicando - Aguarde"
-msgstr ""
 
 msgid "Procurar programa"
 msgstr "Sök program"

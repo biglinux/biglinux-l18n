@@ -2,7 +2,7 @@
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the bigcontrolcenter package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
+# 
 #, fuzzy
 msgid ""
 msgstr ""
@@ -15,7 +15,7 @@ msgstr ""
 "Language: nl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
+"Content-Transfer-Encoding: 8bit"
 
 msgid ""
 "A webcam já está sendo utilizada pelo programa: $WEBCAM_BUSY\n"
@@ -30,20 +30,11 @@ msgstr ""
 "De aangebrachte wijzigingen zijn te zien\n"
 "in het beeld van uw webcam in andere programma's."
 
-msgid "Webcam"
-msgstr ""
-
 msgid "Category"
 msgstr "Categorie"
 
 msgid "Name"
 msgstr "Naam"
-
-msgid "ID"
-msgstr ""
-
-msgid "Info"
-msgstr ""
 
 msgid ""
 "O relatório foi salvo no arquivo $FILE_TO_SAVE\n"
@@ -57,9 +48,6 @@ msgstr ""
 msgid "Visualizar o relatório"
 msgstr "Bekijk het verslag"
 
-msgid "Fechar"
-msgstr ""
-
 msgid "Hardinfo Relatory"
 msgstr "Hardinfo Relatory"
 
@@ -68,15 +56,6 @@ msgstr "Inleiding tot BigLinux"
 
 msgid "Central de Controle"
 msgstr "Controlecentrum"
-
-msgid "Bom dia"
-msgstr ""
-
-msgid "Boa tarde"
-msgstr ""
-
-msgid "Boa noite"
-msgstr ""
 
 msgid "Aguarde, carregando..."
 msgstr "Stand by, laden..."
@@ -102,10 +81,6 @@ msgid ""
 msgstr ""
 "Wij bieden complete configuraties waaruit u op een heel eenvoudige manier "
 "kunt kiezen."
-
-#, fuzzy
-msgid "Temas, Desktop e Ajustes"
-msgstr "Thema's, bureaublad en instellingen"
 
 msgid "Escolha seu Avatar"
 msgstr "Kies uw Avatar"
@@ -165,9 +140,6 @@ msgstr "Ruisonderdrukker"
 
 msgid "Configurar a voz do sistema (TTS)"
 msgstr "Instellen van de systeemstem (TTS)"
-
-msgid "OCR para PDF"
-msgstr ""
 
 msgid "Doação e Redes sociais"
 msgstr "Donatie en sociale netwerken"
@@ -447,16 +419,6 @@ msgstr "De scherminstellingen zijn opnieuw ingesteld."
 msgid "Configurações da tela"
 msgstr "Scherminstellingen"
 
-#, fuzzy
-msgid "Categorias"
-msgstr "Categorie"
-
-msgid "Principais"
-msgstr ""
-
-msgid "Sistema"
-msgstr ""
-
 msgid "Aparência"
 msgstr "Verschijning"
 
@@ -468,9 +430,6 @@ msgstr "Aanpassen"
 
 msgid "Telefone"
 msgstr "Telefoon"
-
-msgid "Multimídia"
-msgstr ""
 
 msgid "Rede e Internet"
 msgstr "Netwerk en Internet"
@@ -487,23 +446,11 @@ msgstr "Privacy"
 msgid "Servidor"
 msgstr "Server"
 
-msgid "Desenvolvimento"
-msgstr ""
-
 msgid "Sobre"
 msgstr "Over"
 
-msgid "Outros"
-msgstr ""
-
 msgid "Pesquisar..."
 msgstr "Zoeken..."
-
-msgid "Resultado da pesquisa"
-msgstr ""
-
-msgid "Abrir"
-msgstr ""
 
 msgid "Temas, desktop e ajustes"
 msgstr "Thema's, bureaublad en instellingen"
@@ -558,6 +505,7 @@ msgid ""
 "conexão do seu dispositivo Android.\n"
 "<br>\n"
 "*Caso esteja utilizando o dados móveis, será consumido do seu plano de dados."
+""
 msgstr ""
 "Hoe kunt u het internet gebruiken vanaf uw Android tablet of smartphone:\n"
 "<br><br>\n"

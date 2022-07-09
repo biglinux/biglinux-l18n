@@ -2,7 +2,7 @@
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the biglinux-grub-restore package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
+# 
 #, fuzzy
 msgid ""
 msgstr ""
@@ -15,7 +15,7 @@ msgstr ""
 "Language: fi\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
+"Content-Transfer-Encoding: 8bit"
 
 msgid "Este utilitário deve ser utilizado somente no modo live!"
 msgstr "Tätä apuohjelmaa saa käyttää vain live-tilassa!"
@@ -38,13 +38,11 @@ msgstr ""
 msgid "Restaurar o Boot, Grub e initrd"
 msgstr "Bootin, Grubin ja initrdin palautus"
 
-msgid "Aguarde..."
-msgstr ""
-
 msgid ""
 "Não encontrei nenhum Linux instalado neste computador, processo cancelado.\n"
 msgstr ""
-"En löytänyt tälle tietokoneelle asennettua Linuxia, prosessi keskeytettiin.\n"
+"En löytänyt tälle tietokoneelle asennettua Linuxia, prosessi keskeytettiin."
+"\n"
 
 msgid ""
 "O boot no modo live está utilizando o modo EFI, porém não encontrei nenhuma "
@@ -72,8 +70,10 @@ msgstr ""
 "tietokoneen bios-käytönohjainta EFI-tilaan käynnistämiseen.\n"
 "Haluatko kokeilla sitä, vaikka se ei todennäköisesti toimi?"
 
-msgid "Encontrei mais de uma partição EFI, selecione qual devo utilizar:\n"
-msgstr "Löysin useamman kuin yhden EFI-osion, valitse käytettävä osio:\n"
+msgid ""
+"Encontrei mais de uma partição EFI, selecione qual devo utilizar:\n"
+msgstr ""
+"Löysin useamman kuin yhden EFI-osion, valitse käytettävä osio:\n"
 
 msgid "Nenhuma partição EFI selecionada, processo cancelado."
 msgstr "EFI-osio ei ole valittu, prosessi peruutettu."
@@ -190,9 +190,6 @@ msgid ""
 msgstr ""
 "Interaktiivinen, avaa pamac-manager-paketinhallinnan valitussa "
 "järjestelmässä."
-
-msgid "Concluído!"
-msgstr ""
 
 msgid ""
 "Confirme os dados\n"

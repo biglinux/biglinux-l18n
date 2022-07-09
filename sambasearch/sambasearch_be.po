@@ -2,7 +2,7 @@
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the sambasearch package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
+# 
 #, fuzzy
 msgid ""
 msgstr ""
@@ -15,7 +15,7 @@ msgstr ""
 "Language: be\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
+"Content-Transfer-Encoding: 8bit"
 
 msgid "Procurar compartilhamentos"
 msgstr "пошук акцый"
@@ -43,6 +43,7 @@ msgid ""
 "aparecendo no gerenciador de arquivos."
 msgstr ""
 "Змена прыменена, праверце, ці паказваюцца агульныя сеткі ў файлавым менеджэр."
+""
 
 msgid "Usuário"
 msgstr "Карыстальнік"
@@ -54,7 +55,8 @@ msgid "Senha"
 msgstr "Пароль"
 
 msgid "Insira a senha do usuário do servidor que deseja acessar"
-msgstr "Увядзіце пароль карыстальніка сервера, да якога хочаце атрымаць доступ"
+msgstr ""
+"Увядзіце пароль карыстальніка сервера, да якога хочаце атрымаць доступ"
 
 msgid ""
 "*A maioria dos servidores precisa de login e senha para listar os "
@@ -69,9 +71,6 @@ msgstr "Адмяніць"
 
 msgid "Próximo"
 msgstr "Далей"
-
-msgid "Aguarde..."
-msgstr ""
 
 msgid "Anônimo"
 msgstr "Ананімны"

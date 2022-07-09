@@ -3,12 +3,12 @@
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the big-store package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
+# 
 # #-#-#-#-#  python.pot (PACKAGE VERSION)  #-#-#-#-#
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) YEAR ORGANIZATION
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
+# 
 #, fuzzy
 msgid ""
 msgstr ""
@@ -22,25 +22,13 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: pygettext.py 1.5\n"
+"Generated-By: pygettext.py 1.5"
 
 msgid "Big-Store está aberta."
 msgstr "Біг-магазин відкритий."
 
 msgid "Big-Store"
 msgstr "Біг-магазин"
-
-#, fuzzy
-msgid "Instalar"
-msgstr "Встановлення"
-
-#, fuzzy
-msgid "Remover"
-msgstr "Вилучити:"
-
-#
-msgid "Internet"
-msgstr ""
 
 msgid "Navegadores"
 msgstr "навігаторів"
@@ -69,10 +57,6 @@ msgstr "Мережеві інструменти"
 msgid "Notícias, Feeds e RSS"
 msgstr "Новини, канали та RSS"
 
-#, fuzzy
-msgid "Escritório"
-msgstr "Сховище:"
-
 msgid "Suíte Office"
 msgstr "Офісний пакет"
 
@@ -84,10 +68,6 @@ msgstr "PDF-редактори"
 
 msgid "Agenda de tarefas e contatos"
 msgstr "Розклад завдань і контактів"
-
-#
-msgid "Gráficos"
-msgstr ""
 
 msgid "Visualizadores de imagem"
 msgstr "Переглядачі зображень"
@@ -103,10 +83,6 @@ msgstr "Перетворення, зміна розміру або стисне�
 
 msgid "Edição 3D e CAD"
 msgstr "3D і CAD редагування"
-
-#
-msgid "Multimídia"
-msgstr ""
 
 msgid "Reprodutores de áudio"
 msgstr "Аудіо плеєри"
@@ -134,10 +110,6 @@ msgstr "CD- і DVD пальники і копіювальні пристрої"
 
 msgid "Webcam, gravação de tela e transmissão de vídeo"
 msgstr "Веб-камера, запис на екрані та потокове відео"
-
-#
-msgid "Jogos"
-msgstr ""
 
 msgid "Gerenciadores de jogos"
 msgstr "Ігрові менеджери"
@@ -175,14 +147,6 @@ msgstr "Лоток"
 msgid "RPG"
 msgstr "RPG"
 
-#
-msgid "Outros"
-msgstr ""
-
-#
-msgid "Sistema"
-msgstr ""
-
 msgid "Armazenamento e partições"
 msgstr "Зберігання та перегородки"
 
@@ -194,10 +158,6 @@ msgstr "Ява JRE"
 
 msgid "Virtualização"
 msgstr "Віртуалізація"
-
-#
-msgid "Desenvolvimento"
-msgstr ""
 
 msgid "Editores de código e IDE"
 msgstr "Редактори коду та IDE"
@@ -213,26 +173,6 @@ msgstr "Нативні програми"
 
 msgid "Programas AUR"
 msgstr "Програми AUR"
-
-#
-msgid "Instalado na partição:"
-msgstr ""
-
-#
-msgid "Tamanho da partição:"
-msgstr ""
-
-#
-msgid "Espaço utilizado:"
-msgstr ""
-
-#
-msgid "Espaço livre:"
-msgstr ""
-
-#
-msgid "Data que o sistema foi instalado:"
-msgstr ""
 
 msgid "Pacotes nativos e AUR"
 msgstr "Рідні та AUR пакети"
@@ -267,10 +207,6 @@ msgstr "Не інформований"
 msgid "Atualizar"
 msgstr "оновити"
 
-#
-msgid "Categorias"
-msgstr ""
-
 msgid "Versão instalada"
 msgstr "Встановлена версія"
 
@@ -279,10 +215,6 @@ msgstr "Доступна версія"
 
 msgid "Versão"
 msgstr "Версія"
-
-#
-msgid "Fechar"
-msgstr ""
 
 msgid "Pacote .deb"
 msgstr ".deb пакунок"
@@ -293,14 +225,6 @@ msgid ""
 msgstr ""
 "Дана програма знаходиться в формате.deb, який має найкращу інтеграцію з "
 "системою."
-
-#, fuzzy
-msgid "Mais informações"
-msgstr "Налаштування"
-
-#
-msgid "Voltar"
-msgstr ""
 
 msgid "Dependências a instalar"
 msgstr "Залежності для встановлення"
@@ -334,10 +258,6 @@ msgstr "Доступна версія:"
 
 msgid "Repositório:"
 msgstr "Сховище:"
-
-#
-msgid "Cancelar"
-msgstr ""
 
 msgid "Instalando"
 msgstr "Встановлення"
@@ -374,10 +294,6 @@ msgid "Pacotes"
 msgstr "Пучки"
 
 msgid "Ativado"
-msgstr "Включено"
-
-#, fuzzy
-msgid "Desativado"
 msgstr "Включено"
 
 msgid "Atualizações"
@@ -417,6 +333,7 @@ msgid ""
 msgstr ""
 "Примусово оновлюйте, використовуйте цей параметр, якщо не вдається оновити "
 "систему, однак при примусовому оновленні деякі програми можуть бути видалені."
+""
 
 msgid "Repositórios nativos"
 msgstr ""
@@ -430,8 +347,7 @@ msgid ""
 msgstr ""
 "\n"
 "Нативні програми краще інтегруються в систему <br>\n"
-"і вони проходять подальше тестування, перш ніж вони стануть доступними, "
-"<br>\n"
+"і вони проходять подальше тестування, перш ніж вони стануть доступними, <br>\n"
 "так що це найкращий варіант, коли програма ви <br>\n"
 "хочу доступний у більш ніж одному типі установки. <br>"
 
@@ -496,10 +412,6 @@ msgstr ""
 "Відображення лише вибраних програм <br> \n"
 "і приховати корисні результати <br>\n"
 "тільки для досвідчених користувачів."
-
-#
-msgid "Aplicando - Aguarde"
-msgstr ""
 
 msgid "Procurar programa"
 msgstr "Пошук програми"

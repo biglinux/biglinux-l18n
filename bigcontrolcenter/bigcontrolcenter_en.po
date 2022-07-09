@@ -2,7 +2,7 @@
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the bigcontrolcenter package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
+# 
 #, fuzzy
 msgid ""
 msgstr ""
@@ -15,7 +15,7 @@ msgstr ""
 "Language: en\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
+"Content-Transfer-Encoding: 8bit"
 
 msgid ""
 "A webcam já está sendo utilizada pelo programa: $WEBCAM_BUSY\n"
@@ -30,20 +30,11 @@ msgstr ""
 "The changes you have made can be seen\n"
 "in the image of your webcam in other programs."
 
-msgid "Webcam"
-msgstr ""
-
 msgid "Category"
 msgstr "Category"
 
 msgid "Name"
 msgstr "Name"
-
-msgid "ID"
-msgstr ""
-
-msgid "Info"
-msgstr ""
 
 msgid ""
 "O relatório foi salvo no arquivo $FILE_TO_SAVE\n"
@@ -57,9 +48,6 @@ msgstr ""
 msgid "Visualizar o relatório"
 msgstr "View the report"
 
-msgid "Fechar"
-msgstr ""
-
 msgid "Hardinfo Relatory"
 msgstr "Hardinfo Relatory"
 
@@ -68,15 +56,6 @@ msgstr "Introduction to BigLinux"
 
 msgid "Central de Controle"
 msgstr "Control Center"
-
-msgid "Bom dia"
-msgstr ""
-
-msgid "Boa tarde"
-msgstr ""
-
-msgid "Boa noite"
-msgstr ""
 
 msgid "Aguarde, carregando..."
 msgstr "Stand by, loading..."
@@ -102,10 +81,6 @@ msgid ""
 msgstr ""
 "We provide complete configurations for you to select from in an extremely "
 "simple way."
-
-#, fuzzy
-msgid "Temas, Desktop e Ajustes"
-msgstr "Themes, Desktop, and Settings"
 
 msgid "Escolha seu Avatar"
 msgstr "Choose your Avatar"
@@ -164,9 +139,6 @@ msgstr "Noise Reducer"
 
 msgid "Configurar a voz do sistema (TTS)"
 msgstr "Configure System Voice (TTS)"
-
-msgid "OCR para PDF"
-msgstr ""
 
 msgid "Doação e Redes sociais"
 msgstr "Donation and Social Networks"
@@ -440,16 +412,6 @@ msgstr "The screen settings have been reset."
 msgid "Configurações da tela"
 msgstr "Screen Settings"
 
-#, fuzzy
-msgid "Categorias"
-msgstr "Category"
-
-msgid "Principais"
-msgstr ""
-
-msgid "Sistema"
-msgstr ""
-
 msgid "Aparência"
 msgstr "Appearance"
 
@@ -461,9 +423,6 @@ msgstr "Customize"
 
 msgid "Telefone"
 msgstr "Phone"
-
-msgid "Multimídia"
-msgstr ""
 
 msgid "Rede e Internet"
 msgstr "Network and Internet"
@@ -480,23 +439,11 @@ msgstr "Privacy"
 msgid "Servidor"
 msgstr "Server"
 
-msgid "Desenvolvimento"
-msgstr ""
-
 msgid "Sobre"
 msgstr "About"
 
-msgid "Outros"
-msgstr ""
-
 msgid "Pesquisar..."
 msgstr "Search..."
-
-msgid "Resultado da pesquisa"
-msgstr ""
-
-msgid "Abrir"
-msgstr ""
 
 msgid "Temas, desktop e ajustes"
 msgstr "Themes, Desktop, and Settings"
@@ -551,6 +498,7 @@ msgid ""
 "conexão do seu dispositivo Android.\n"
 "<br>\n"
 "*Caso esteja utilizando o dados móveis, será consumido do seu plano de dados."
+""
 msgstr ""
 "How to use the internet from your Android tablet or smartphone:\n"
 "<br><br>\n"

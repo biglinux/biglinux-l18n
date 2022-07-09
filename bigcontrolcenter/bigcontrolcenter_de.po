@@ -2,7 +2,7 @@
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the bigcontrolcenter package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
+# 
 #, fuzzy
 msgid ""
 msgstr ""
@@ -15,7 +15,7 @@ msgstr ""
 "Language: de\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
+"Content-Transfer-Encoding: 8bit"
 
 msgid ""
 "A webcam já está sendo utilizada pelo programa: $WEBCAM_BUSY\n"
@@ -30,20 +30,11 @@ msgstr ""
 "Die vorgenommenen Änderungen sind wie folgt zu sehen\n"
 "in das Bild Ihrer Webcam in anderen Programmen."
 
-msgid "Webcam"
-msgstr ""
-
 msgid "Category"
 msgstr "Kategorie"
 
 msgid "Name"
 msgstr "Name"
-
-msgid "ID"
-msgstr ""
-
-msgid "Info"
-msgstr ""
 
 msgid ""
 "O relatório foi salvo no arquivo $FILE_TO_SAVE\n"
@@ -57,9 +48,6 @@ msgstr ""
 msgid "Visualizar o relatório"
 msgstr "Den Bericht ansehen"
 
-msgid "Fechar"
-msgstr ""
-
 msgid "Hardinfo Relatory"
 msgstr "Hardinfo Relator"
 
@@ -68,15 +56,6 @@ msgstr "Einführung in BigLinux"
 
 msgid "Central de Controle"
 msgstr "Kontrollzentrum"
-
-msgid "Bom dia"
-msgstr ""
-
-msgid "Boa tarde"
-msgstr ""
-
-msgid "Boa noite"
-msgstr ""
 
 msgid "Aguarde, carregando..."
 msgstr "Bereithalten, Laden..."
@@ -102,10 +81,6 @@ msgid ""
 msgstr ""
 "Wir stellen Ihnen komplette Konfigurationen zur Verfügung, aus denen Sie "
 "ganz einfach auswählen können."
-
-#, fuzzy
-msgid "Temas, Desktop e Ajustes"
-msgstr "Themes, Desktop und Einstellungen"
 
 msgid "Escolha seu Avatar"
 msgstr "Wählen Sie Ihren Avatar"
@@ -164,9 +139,6 @@ msgstr "Rauschunterdrückung"
 
 msgid "Configurar a voz do sistema (TTS)"
 msgstr "Einrichten der Systemsprache (TTS)"
-
-msgid "OCR para PDF"
-msgstr ""
 
 msgid "Doação e Redes sociais"
 msgstr "Spende und soziale Netzwerke"
@@ -372,7 +344,8 @@ msgid "Gerenciador de usuários"
 msgstr "Benutzer-Manager"
 
 msgid "Adiciona, remove ou edita usuários e grupos do sistema."
-msgstr "Hinzufügen, Entfernen oder Bearbeiten von Systembenutzern und Gruppen."
+msgstr ""
+"Hinzufügen, Entfernen oder Bearbeiten von Systembenutzern und Gruppen."
 
 msgid "Gerenciar arquivos"
 msgstr "Verwalten von Dateien"
@@ -450,16 +423,6 @@ msgstr "Die Bildschirmeinstellungen wurden zurückgesetzt."
 msgid "Configurações da tela"
 msgstr "Bildschirmeinstellungen"
 
-#, fuzzy
-msgid "Categorias"
-msgstr "Kategorie"
-
-msgid "Principais"
-msgstr ""
-
-msgid "Sistema"
-msgstr ""
-
 msgid "Aparência"
 msgstr "Erscheinungsbild"
 
@@ -471,9 +434,6 @@ msgstr "Anpassen"
 
 msgid "Telefone"
 msgstr "Telefon"
-
-msgid "Multimídia"
-msgstr ""
 
 msgid "Rede e Internet"
 msgstr "Netzwerk und Internet"
@@ -490,23 +450,11 @@ msgstr "Datenschutz"
 msgid "Servidor"
 msgstr "Server"
 
-msgid "Desenvolvimento"
-msgstr ""
-
 msgid "Sobre"
 msgstr "Über"
 
-msgid "Outros"
-msgstr ""
-
 msgid "Pesquisar..."
 msgstr "Suche..."
-
-msgid "Resultado da pesquisa"
-msgstr ""
-
-msgid "Abrir"
-msgstr ""
 
 msgid "Temas, desktop e ajustes"
 msgstr "Themes, Desktop und Einstellungen"
@@ -561,6 +509,7 @@ msgid ""
 "conexão do seu dispositivo Android.\n"
 "<br>\n"
 "*Caso esteja utilizando o dados móveis, será consumido do seu plano de dados."
+""
 msgstr ""
 "So nutzen Sie das Internet von Ihrem Android-Tablet oder -Smartphone aus:\n"
 "<br><br>\n"

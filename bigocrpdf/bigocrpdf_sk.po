@@ -2,7 +2,7 @@
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the bigocrpdf package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
+# 
 #, fuzzy
 msgid ""
 msgstr ""
@@ -15,7 +15,7 @@ msgstr ""
 "Language: sk\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
+"Content-Transfer-Encoding: 8bit"
 
 msgid "Torne seu PDF pesquisável"
 msgstr "Zabezpečte, aby sa vo vašom PDF dalo vyhľadávať"
@@ -69,9 +69,11 @@ msgstr "Cieľová destinácia:"
 msgid "Aplicar"
 msgstr "Aplikovať"
 
-msgid "Adicionar OCR no PDF digitalizado permitindo seleção de textos e busca:"
+msgid ""
+"Adicionar OCR no PDF digitalizado permitindo seleção de textos e busca:"
 msgstr ""
 "Pridanie OCR do naskenovaného PDF, ktoré umožňuje výber textu a vyhľadávanie:"
+""
 
 msgid "Quantidade de arquivos:"
 msgstr "Počet súborov:"
@@ -102,9 +104,6 @@ msgstr "Priečinok:"
 
 msgid "OCR para PDF"
 msgstr "OCR pre PDF"
-
-msgid "Concluído!"
-msgstr ""
 
 msgid "Salvo em: "
 msgstr "Uložené v "

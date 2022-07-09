@@ -2,7 +2,7 @@
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the sambasearch package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
+# 
 #, fuzzy
 msgid ""
 msgstr ""
@@ -15,7 +15,7 @@ msgstr ""
 "Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
+"Content-Transfer-Encoding: 8bit"
 
 msgid "Procurar compartilhamentos"
 msgstr "株式検索"
@@ -41,9 +41,7 @@ msgstr "https://www.biglinux.com.br"
 msgid ""
 "Alteração aplicada, verifique se os compartilhamentos de rede estão "
 "aparecendo no gerenciador de arquivos."
-msgstr ""
-"変更適用後、ファイルマネージャにネットワーク共有が表示されることを確認しま"
-"す。"
+msgstr "変更適用後、ファイルマネージャにネットワーク共有が表示されることを確認します。"
 
 msgid "Usuário"
 msgstr "ユーザー"
@@ -61,18 +59,13 @@ msgid ""
 "*A maioria dos servidores precisa de login e senha para listar os "
 "compartilhamentos disponíveis, deixe em branco para efetuar uma busca "
 "anônima."
-msgstr ""
-"*ほとんどのサーバーでは、利用可能な共有の一覧を表示するためにログインとパス"
-"ワードが必要です。匿名で検索する場合は空白にしてください。"
+msgstr "*ほとんどのサーバーでは、利用可能な共有の一覧を表示するためにログインとパスワードが必要です。匿名で検索する場合は空白にしてください。"
 
 msgid "Cancelar"
 msgstr "キャンセル"
 
 msgid "Próximo"
 msgstr "次のページ"
-
-msgid "Aguarde..."
-msgstr ""
 
 msgid "Anônimo"
 msgstr "匿名希望"

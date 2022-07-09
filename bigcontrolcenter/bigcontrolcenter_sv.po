@@ -2,7 +2,7 @@
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the bigcontrolcenter package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
+# 
 #, fuzzy
 msgid ""
 msgstr ""
@@ -15,7 +15,7 @@ msgstr ""
 "Language: sv\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
+"Content-Transfer-Encoding: 8bit"
 
 msgid ""
 "A webcam já está sendo utilizada pelo programa: $WEBCAM_BUSY\n"
@@ -30,20 +30,11 @@ msgstr ""
 "De ändringar som gjorts kan ses\n"
 "i bilden av webbkameran i andra program."
 
-msgid "Webcam"
-msgstr ""
-
 msgid "Category"
 msgstr "Kategori"
 
 msgid "Name"
 msgstr "Namn"
-
-msgid "ID"
-msgstr ""
-
-msgid "Info"
-msgstr ""
 
 msgid ""
 "O relatório foi salvo no arquivo $FILE_TO_SAVE\n"
@@ -57,9 +48,6 @@ msgstr ""
 msgid "Visualizar o relatório"
 msgstr "Visa rapporten"
 
-msgid "Fechar"
-msgstr ""
-
 msgid "Hardinfo Relatory"
 msgstr "Hardinfo Relatory"
 
@@ -68,15 +56,6 @@ msgstr "Introduktion till BigLinux"
 
 msgid "Central de Controle"
 msgstr "Kontrollcenter"
-
-msgid "Bom dia"
-msgstr ""
-
-msgid "Boa tarde"
-msgstr ""
-
-msgid "Boa noite"
-msgstr ""
 
 msgid "Aguarde, carregando..."
 msgstr "Var beredd på att ladda..."
@@ -102,10 +81,6 @@ msgid ""
 msgstr ""
 "Vi tillhandahåller kompletta konfigurationer som du kan välja mellan på ett "
 "mycket enkelt sätt."
-
-#, fuzzy
-msgid "Temas, Desktop e Ajustes"
-msgstr "Teman, skrivbord och inställningar"
 
 msgid "Escolha seu Avatar"
 msgstr "Välj din avatar"
@@ -164,9 +139,6 @@ msgstr "Ljudreducerare"
 
 msgid "Configurar a voz do sistema (TTS)"
 msgstr "Ställa in systemröst (TTS)"
-
-msgid "OCR para PDF"
-msgstr ""
 
 msgid "Doação e Redes sociais"
 msgstr "Donationer och sociala nätverk"
@@ -440,16 +412,6 @@ msgstr "Skärminställningarna har återställts."
 msgid "Configurações da tela"
 msgstr "Skärminställningar"
 
-#, fuzzy
-msgid "Categorias"
-msgstr "Kategori"
-
-msgid "Principais"
-msgstr ""
-
-msgid "Sistema"
-msgstr ""
-
 msgid "Aparência"
 msgstr "Utseende"
 
@@ -461,9 +423,6 @@ msgstr "Anpassa"
 
 msgid "Telefone"
 msgstr "Telefon"
-
-msgid "Multimídia"
-msgstr ""
 
 msgid "Rede e Internet"
 msgstr "Nätverk och Internet"
@@ -480,23 +439,11 @@ msgstr "Integritet"
 msgid "Servidor"
 msgstr "Server"
 
-msgid "Desenvolvimento"
-msgstr ""
-
 msgid "Sobre"
 msgstr "Om"
 
-msgid "Outros"
-msgstr ""
-
 msgid "Pesquisar..."
 msgstr "Sök..."
-
-msgid "Resultado da pesquisa"
-msgstr ""
-
-msgid "Abrir"
-msgstr ""
 
 msgid "Temas, desktop e ajustes"
 msgstr "Teman, skrivbord och inställningar"
@@ -551,6 +498,7 @@ msgid ""
 "conexão do seu dispositivo Android.\n"
 "<br>\n"
 "*Caso esteja utilizando o dados móveis, será consumido do seu plano de dados."
+""
 msgstr ""
 "Så här använder du internet från din Android-surfplatta eller smartphone:\n"
 "<br><br>\n"
@@ -700,6 +648,7 @@ msgstr ""
 "datorn.  Snapdrop kan användas på alla smarttelefoner och datorer, inklusive "
 "överföring av filer direkt från en smarttelefon till en annan.  Du kan också "
 "använda vår webbapphanterare för att göra det enkelt att använda webbplatsen."
+""
 
 msgid "Aguarde, criando arquivos de cache..."
 msgstr "Var beredd på att skapa cachefiler..."

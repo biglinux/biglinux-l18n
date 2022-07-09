@@ -2,7 +2,7 @@
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the biglinux-grub-restore package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
+# 
 #, fuzzy
 msgid ""
 msgstr ""
@@ -15,7 +15,7 @@ msgstr ""
 "Language: pl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
+"Content-Transfer-Encoding: 8bit"
 
 msgid "Este utilitário deve ser utilizado somente no modo live!"
 msgstr "To narzędzie może być używane tylko w trybie na żywo!"
@@ -37,9 +37,6 @@ msgstr ""
 
 msgid "Restaurar o Boot, Grub e initrd"
 msgstr "Przywrócić Boot, Grub i initrd"
-
-msgid "Aguarde..."
-msgstr ""
 
 msgid ""
 "Não encontrei nenhum Linux instalado neste computador, processo cancelado.\n"
@@ -73,9 +70,11 @@ msgstr ""
 "komputera, aby uruchomić komputer w trybie EFI.\n"
 "Chce Pan spróbować, mimo że jest mało prawdopodobne, że to zadziała?"
 
-msgid "Encontrei mais de uma partição EFI, selecione qual devo utilizar:\n"
+msgid ""
+"Encontrei mais de uma partição EFI, selecione qual devo utilizar:\n"
 msgstr ""
-"Znalazłem więcej niż jedną partycję EFI, proszę wybrać, która ma być użyta:\n"
+"Znalazłem więcej niż jedną partycję EFI, proszę wybrać, która ma być użyta:"
+"\n"
 
 msgid "Nenhuma partição EFI selecionada, processo cancelado."
 msgstr "Nie wybrano partycji EFI, proces anulowany."
@@ -191,9 +190,6 @@ msgid ""
 "selecionado."
 msgstr ""
 "Interactive, otwiera menedżera pakietów pamac-manager w wybranym systemie."
-
-msgid "Concluído!"
-msgstr ""
 
 msgid ""
 "Confirme os dados\n"

@@ -3,12 +3,12 @@
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the big-store package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
+# 
 # #-#-#-#-#  python.pot (PACKAGE VERSION)  #-#-#-#-#
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) YEAR ORGANIZATION
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
+# 
 #, fuzzy
 msgid ""
 msgstr ""
@@ -22,25 +22,13 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: pygettext.py 1.5\n"
+"Generated-By: pygettext.py 1.5"
 
 msgid "Big-Store está aberta."
 msgstr "Big-Store е отворен."
 
 msgid "Big-Store"
 msgstr "Big-Store"
-
-#, fuzzy
-msgid "Instalar"
-msgstr "Инсталиране на"
-
-#, fuzzy
-msgid "Remover"
-msgstr "Премахване:"
-
-#
-msgid "Internet"
-msgstr ""
 
 msgid "Navegadores"
 msgstr "Браузъри"
@@ -69,10 +57,6 @@ msgstr "Мрежови инструменти"
 msgid "Notícias, Feeds e RSS"
 msgstr "Новини, емисии и RSS"
 
-#, fuzzy
-msgid "Escritório"
-msgstr "Хранилище:"
-
 msgid "Suíte Office"
 msgstr "Офис пакет"
 
@@ -84,10 +68,6 @@ msgstr "PDF редактори"
 
 msgid "Agenda de tarefas e contatos"
 msgstr "Календар на задачите и контактите"
-
-#
-msgid "Gráficos"
-msgstr ""
 
 msgid "Visualizadores de imagem"
 msgstr "Наблюдатели на изображения"
@@ -103,10 +83,6 @@ msgstr "Конвертиране, промяна на размера или ко
 
 msgid "Edição 3D e CAD"
 msgstr "3D и CAD редактиране"
-
-#
-msgid "Multimídia"
-msgstr ""
 
 msgid "Reprodutores de áudio"
 msgstr "Аудио плейъри"
@@ -134,10 +110,6 @@ msgstr "CD и DVD записващи устройства и копирни ма
 
 msgid "Webcam, gravação de tela e transmissão de vídeo"
 msgstr "Уеб камера, запис на екрана и видео стрийминг"
-
-#
-msgid "Jogos"
-msgstr ""
 
 msgid "Gerenciadores de jogos"
 msgstr "Мениджъри на игри"
@@ -175,14 +147,6 @@ msgstr "Съвет"
 msgid "RPG"
 msgstr "RPG"
 
-#
-msgid "Outros"
-msgstr ""
-
-#
-msgid "Sistema"
-msgstr ""
-
 msgid "Armazenamento e partições"
 msgstr "Съхранение и прегради"
 
@@ -194,10 +158,6 @@ msgstr "Java JRE"
 
 msgid "Virtualização"
 msgstr "Виртуализация"
-
-#
-msgid "Desenvolvimento"
-msgstr ""
 
 msgid "Editores de código e IDE"
 msgstr "Редактори на код и IDE"
@@ -213,26 +173,6 @@ msgstr "Родни програми"
 
 msgid "Programas AUR"
 msgstr "Програми на AUR"
-
-#
-msgid "Instalado na partição:"
-msgstr ""
-
-#
-msgid "Tamanho da partição:"
-msgstr ""
-
-#
-msgid "Espaço utilizado:"
-msgstr ""
-
-#
-msgid "Espaço livre:"
-msgstr ""
-
-#
-msgid "Data que o sistema foi instalado:"
-msgstr ""
 
 msgid "Pacotes nativos e AUR"
 msgstr "Родни пакети и AUR"
@@ -267,10 +207,6 @@ msgstr "Не е информиран"
 msgid "Atualizar"
 msgstr "Актуализация"
 
-#
-msgid "Categorias"
-msgstr ""
-
 msgid "Versão instalada"
 msgstr "Инсталирана версия"
 
@@ -279,10 +215,6 @@ msgstr "Налична версия"
 
 msgid "Versão"
 msgstr "Версия"
-
-#
-msgid "Fechar"
-msgstr ""
 
 msgid "Pacote .deb"
 msgstr ".deb пакет"
@@ -293,14 +225,6 @@ msgid ""
 msgstr ""
 "Тази програма е във формат .deb, който има най-добра интеграция със "
 "системата."
-
-#, fuzzy
-msgid "Mais informações"
-msgstr "Настройки"
-
-#
-msgid "Voltar"
-msgstr ""
 
 msgid "Dependências a instalar"
 msgstr "Зависимости за инсталиране"
@@ -334,10 +258,6 @@ msgstr "Налична версия:"
 
 msgid "Repositório:"
 msgstr "Хранилище:"
-
-#
-msgid "Cancelar"
-msgstr ""
 
 msgid "Instalando"
 msgstr "Инсталиране на"
@@ -373,10 +293,6 @@ msgid "Pacotes"
 msgstr "Пакети"
 
 msgid "Ativado"
-msgstr "Активиран"
-
-#, fuzzy
-msgid "Desativado"
 msgstr "Активиран"
 
 msgid "Atualizações"
@@ -430,8 +346,8 @@ msgid ""
 msgstr ""
 "\n"
 "Родните програми са по-добре интегрирани в системата<br>\n"
-"и да преминат през допълнителни тестове, преди да бъдат пуснати в продажба,"
-"<br>\n"
+"и да преминат през допълнителни тестове, преди да бъдат пуснати в "
+"продажба,<br>\n"
 "така че това е най-добрият вариант, когато програмата, която<br>\n"
 "се предлага в повече от един тип инсталация.<br>"
 
@@ -496,10 +412,6 @@ msgstr ""
 "Показва само избрани програми<br>\n"
 "и скрива полезните резултати <br>\n"
 "само за напреднали потребители."
-
-#
-msgid "Aplicando - Aguarde"
-msgstr ""
 
 msgid "Procurar programa"
 msgstr "Програма за търсене"

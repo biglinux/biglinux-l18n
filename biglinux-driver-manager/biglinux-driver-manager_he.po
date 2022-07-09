@@ -2,7 +2,7 @@
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the biglinux-driver-manager package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
+# 
 #, fuzzy
 msgid ""
 msgstr ""
@@ -15,7 +15,7 @@ msgstr ""
 "Language: he\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
+"Content-Transfer-Encoding: 8bit"
 
 msgid "O Big-Hardware-Relatory já está em uso."
 msgstr "החומרה הגדולה של החומרה כבר בשימוש."
@@ -50,9 +50,6 @@ msgstr "מושבת"
 
 msgid "Informações de Hardware"
 msgstr "מידע על חומרה"
-
-msgid "Fechar"
-msgstr ""
 
 msgid "Enviar para transfer.sh"
 msgstr "שלח אל transfer.sh"
@@ -127,16 +124,14 @@ msgstr "תוצאת חיפוש"
 msgid "Big-Driver-Manager"
 msgstr "מנהל התקן גדול"
 
-msgid "Abrir"
-msgstr ""
-
 msgid "Instalar ou Remover Drivers e Firmwares"
 msgstr "התקנה או הסרה של מנהלי התקנים וקושחות"
 
 msgid ""
 "Geralmente é preciso reiniciar o computador para o driver ou firmware ser "
 "aplicado."
-msgstr "בדרך כלל יש צורך להפעיל מחדש את המחשב כדי שמנהל ההתקן או הקושחה יחולו."
+msgstr ""
+"בדרך כלל יש צורך להפעיל מחדש את המחשב כדי שמנהל ההתקן או הקושחה יחולו."
 
 msgid "Driver ou firmware"
 msgstr "מנהל התקן או קושחה"
@@ -231,9 +226,6 @@ msgstr "אחסון"
 msgid "Mais informações"
 msgstr "מידע נוסף"
 
-msgid "Hardware"
-msgstr ""
-
 msgid "Pesquisar"
 msgstr "חיפוש"
 
@@ -282,9 +274,6 @@ msgstr "יוצר קובץ עם מידע שניתן לפרסם באינטרנט."
 
 msgid "Categoria"
 msgstr "קטגוריה"
-
-msgid "Nome"
-msgstr ""
 
 msgid "ID"
 msgstr "תעודת זהות"

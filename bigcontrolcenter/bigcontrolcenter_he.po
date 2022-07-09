@@ -2,7 +2,7 @@
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the bigcontrolcenter package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
+# 
 #, fuzzy
 msgid ""
 msgstr ""
@@ -15,7 +15,7 @@ msgstr ""
 "Language: he\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
+"Content-Transfer-Encoding: 8bit"
 
 msgid ""
 "A webcam já está sendo utilizada pelo programa: $WEBCAM_BUSY\n"
@@ -30,20 +30,11 @@ msgstr ""
 "ניתן לראות את השינויים שבוצעו\n"
 "על תמונת מצלמת האינטרנט שלך בתוכניות אחרות."
 
-msgid "Webcam"
-msgstr ""
-
 msgid "Category"
 msgstr "קטגוריה"
 
 msgid "Name"
 msgstr "שם"
-
-msgid "ID"
-msgstr ""
-
-msgid "Info"
-msgstr ""
 
 msgid ""
 "O relatório foi salvo no arquivo $FILE_TO_SAVE\n"
@@ -57,9 +48,6 @@ msgstr ""
 msgid "Visualizar o relatório"
 msgstr "הצג את הדוח"
 
-msgid "Fechar"
-msgstr ""
-
 msgid "Hardinfo Relatory"
 msgstr "דוח מידע"
 
@@ -68,15 +56,6 @@ msgstr "מבוא ל- ביגלינוקס"
 
 msgid "Central de Controle"
 msgstr "מרכז הבקרה"
-
-msgid "Bom dia"
-msgstr ""
-
-msgid "Boa tarde"
-msgstr ""
-
-msgid "Boa noite"
-msgstr ""
 
 msgid "Aguarde, carregando..."
 msgstr "חכה, טוען..."
@@ -100,10 +79,6 @@ msgid ""
 "Disponiblizamos configurações completas para você selecionar de forma "
 "extremamente simples."
 msgstr "תצורות שלמות זמינות לבחירתך בצורה פשוטה ביותר."
-
-#, fuzzy
-msgid "Temas, Desktop e Ajustes"
-msgstr "ערכות נושא, שולחן עבודה, וtweaks"
 
 msgid "Escolha seu Avatar"
 msgstr "בחר את הדמות שלך"
@@ -160,9 +135,6 @@ msgstr "כמפחית רעש"
 
 msgid "Configurar a voz do sistema (TTS)"
 msgstr "הגדרת קול מערכת (TTS)"
-
-msgid "OCR para PDF"
-msgstr ""
 
 msgid "Doação e Redes sociais"
 msgstr "תרומה ורשתות חברתיות"
@@ -342,7 +314,8 @@ msgstr "הגדר את ערכת הנושא של Kvantum"
 msgid ""
 "Para a configuração do Kvantum funcionar, aplique o tema Kvantum em 'Estilo "
 "do aplicativo'."
-msgstr "כדי שתצורת Kvantum תעבוד, החל את ערכת הנושא Kvantum תחת 'סגנון יישום'."
+msgstr ""
+"כדי שתצורת Kvantum תעבוד, החל את ערכת הנושא Kvantum תחת 'סגנון יישום'."
 
 msgid "Carteira de senhas do KDE"
 msgstr "ארנק סיסמא KDE"
@@ -428,16 +401,6 @@ msgstr "הגדרות המסך אופסו."
 msgid "Configurações da tela"
 msgstr "הגדרות מסך"
 
-#, fuzzy
-msgid "Categorias"
-msgstr "קטגוריה"
-
-msgid "Principais"
-msgstr ""
-
-msgid "Sistema"
-msgstr ""
-
 msgid "Aparência"
 msgstr "מראה"
 
@@ -449,9 +412,6 @@ msgstr "להתאים אישית"
 
 msgid "Telefone"
 msgstr "טלפון"
-
-msgid "Multimídia"
-msgstr ""
 
 msgid "Rede e Internet"
 msgstr "רשת ואינטרנט"
@@ -468,23 +428,11 @@ msgstr "פרטיות"
 msgid "Servidor"
 msgstr "מיינפריים"
 
-msgid "Desenvolvimento"
-msgstr ""
-
 msgid "Sobre"
 msgstr "אודות"
 
-msgid "Outros"
-msgstr ""
-
 msgid "Pesquisar..."
 msgstr "חפש..."
-
-msgid "Resultado da pesquisa"
-msgstr ""
-
-msgid "Abrir"
-msgstr ""
 
 msgid "Temas, desktop e ajustes"
 msgstr "ערכות נושא, שולחן עבודה, וtweaks"
@@ -535,6 +483,7 @@ msgid ""
 "conexão do seu dispositivo Android.\n"
 "<br>\n"
 "*Caso esteja utilizando o dados móveis, será consumido do seu plano de dados."
+""
 msgstr ""
 "כיצד להשתמש באינטרנט מהטאבלט או מהסמארטפון של Android:\n"
 "<br><br>\n"
@@ -547,8 +496,7 @@ msgstr ""
 "<br><br>\n"
 "* אפשרויות אלה נמצאות בקטע 'רשת ואינטרנט' או 'חיבורים ושיתוף'.\n"
 "<br><br>\n"
-"כאשר תפעיל אותו, תחובר אוטומטית ותשתמש באותו חיבור כמו מכשיר ה- Android "
-"שלך.\n"
+"כאשר תפעיל אותו, תחובר אוטומטית ותשתמש באותו חיבור כמו מכשיר ה- Android שלך.\n"
 "<br>\n"
 "* אם אתה משתמש בנתונים ניידים, זה יהיה נצרך מתוכנית הנתונים שלך."
 

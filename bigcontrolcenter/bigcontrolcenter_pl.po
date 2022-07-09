@@ -2,7 +2,7 @@
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the bigcontrolcenter package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
+# 
 #, fuzzy
 msgid ""
 msgstr ""
@@ -15,7 +15,7 @@ msgstr ""
 "Language: pl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
+"Content-Transfer-Encoding: 8bit"
 
 msgid ""
 "A webcam já está sendo utilizada pelo programa: $WEBCAM_BUSY\n"
@@ -30,20 +30,11 @@ msgstr ""
 "Wprowadzone zmiany można zobaczyć\n"
 "w obrazie Państwa kamery internetowej w innych programach."
 
-msgid "Webcam"
-msgstr ""
-
 msgid "Category"
 msgstr "Kategoria"
 
 msgid "Name"
 msgstr "Nazwa"
-
-msgid "ID"
-msgstr ""
-
-msgid "Info"
-msgstr ""
 
 msgid ""
 "O relatório foi salvo no arquivo $FILE_TO_SAVE\n"
@@ -57,9 +48,6 @@ msgstr ""
 msgid "Visualizar o relatório"
 msgstr "Zobacz raport"
 
-msgid "Fechar"
-msgstr ""
-
 msgid "Hardinfo Relatory"
 msgstr "Hardinfo Relatory"
 
@@ -68,15 +56,6 @@ msgstr "Wprowadzenie do BigLinux"
 
 msgid "Central de Controle"
 msgstr "Control Center"
-
-msgid "Bom dia"
-msgstr ""
-
-msgid "Boa tarde"
-msgstr ""
-
-msgid "Boa noite"
-msgstr ""
 
 msgid "Aguarde, carregando..."
 msgstr "Proszę czekać, załadunek..."
@@ -102,10 +81,6 @@ msgid ""
 msgstr ""
 "Zapewniamy kompletne konfiguracje, z których mogą Państwo wybierać w bardzo "
 "prosty sposób."
-
-#, fuzzy
-msgid "Temas, Desktop e Ajustes"
-msgstr "Motywy, pulpit i ustawienia"
 
 msgid "Escolha seu Avatar"
 msgstr "Proszę wybrać swój awatar"
@@ -165,9 +140,6 @@ msgstr "Reduktor hałasu"
 
 msgid "Configurar a voz do sistema (TTS)"
 msgstr "Ustawianie głosu systemowego (TTS)"
-
-msgid "OCR para PDF"
-msgstr ""
 
 msgid "Doação e Redes sociais"
 msgstr "Darowizny i sieci społeczne"
@@ -448,16 +420,6 @@ msgstr "Ustawienia ekranu zostały zresetowane."
 msgid "Configurações da tela"
 msgstr "Ustawienia ekranu"
 
-#, fuzzy
-msgid "Categorias"
-msgstr "Kategoria"
-
-msgid "Principais"
-msgstr ""
-
-msgid "Sistema"
-msgstr ""
-
 msgid "Aparência"
 msgstr "Wygląd"
 
@@ -469,9 +431,6 @@ msgstr "Dostosuj"
 
 msgid "Telefone"
 msgstr "Telefon"
-
-msgid "Multimídia"
-msgstr ""
 
 msgid "Rede e Internet"
 msgstr "Sieć i Internet"
@@ -488,23 +447,11 @@ msgstr "Prywatność"
 msgid "Servidor"
 msgstr "Serwer"
 
-msgid "Desenvolvimento"
-msgstr ""
-
 msgid "Sobre"
 msgstr "O"
 
-msgid "Outros"
-msgstr ""
-
 msgid "Pesquisar..."
 msgstr "Szukaj..."
-
-msgid "Resultado da pesquisa"
-msgstr ""
-
-msgid "Abrir"
-msgstr ""
 
 msgid "Temas, desktop e ajustes"
 msgstr "Motywy, pulpit i ustawienia"
@@ -559,6 +506,7 @@ msgid ""
 "conexão do seu dispositivo Android.\n"
 "<br>\n"
 "*Caso esteja utilizando o dados móveis, será consumido do seu plano de dados."
+""
 msgstr ""
 "Jak korzystać z Internetu z tabletu lub smartfona z systemem Android:\n"
 "<br><br>\n"
@@ -622,13 +570,12 @@ msgid ""
 "também pode utilizar nosso gerenciador de Web apps para facilitar o uso "
 "desse site."
 msgstr ""
-"Zainstalować aplikację Airmore w sklepie z aplikacjami w Państwa "
-"smartfonie.  Proszę użyć tego przycisku, aby otworzyć stronę internetową "
-"Airmore na tym komputerze.  Proszę odczytać kod QR, który wyświetli się na "
-"ekranie Państwa komputera za pomocą aplikacji na smartfonie i uzyskać dostęp "
-"do transferu plików i nie tylko.  Mogą Państwo również skorzystać z naszego "
-"menedżera aplikacji internetowych, aby ułatwić sobie korzystanie z tej "
-"strony."
+"Zainstalować aplikację Airmore w sklepie z aplikacjami w Państwa smartfonie. "
+" Proszę użyć tego przycisku, aby otworzyć stronę internetową Airmore na tym "
+"komputerze.  Proszę odczytać kod QR, który wyświetli się na ekranie Państwa "
+"komputera za pomocą aplikacji na smartfonie i uzyskać dostęp do transferu "
+"plików i nie tylko.  Mogą Państwo również skorzystać z naszego menedżera "
+"aplikacji internetowych, aby ułatwić sobie korzystanie z tej strony."
 
 msgid "Airdroid"
 msgstr "Airdroid"
@@ -641,13 +588,12 @@ msgid ""
 "também pode utilizar nosso gerenciador de Web apps para facilitar o uso "
 "desse site."
 msgstr ""
-"Zainstalować aplikację Airdroid w sklepie z aplikacjami w Państwa "
-"smartfonie.  Proszę użyć tego przycisku, aby otworzyć stronę Airdroid na tym "
-"komputerze.  Proszę odczytać kod QR, który wyświetli się na ekranie Państwa "
-"komputera za pomocą aplikacji na Państwa smartfonie i uzyskać dostęp do "
-"transferu plików i nie tylko.  Mogą Państwo również skorzystać z naszego "
-"menedżera aplikacji internetowych, aby ułatwić sobie korzystanie z tej "
-"strony."
+"Zainstalować aplikację Airdroid w sklepie z aplikacjami w Państwa smartfonie."
+"  Proszę użyć tego przycisku, aby otworzyć stronę Airdroid na tym komputerze."
+"  Proszę odczytać kod QR, który wyświetli się na ekranie Państwa komputera "
+"za pomocą aplikacji na Państwa smartfonie i uzyskać dostęp do transferu "
+"plików i nie tylko.  Mogą Państwo również skorzystać z naszego menedżera "
+"aplikacji internetowych, aby ułatwić sobie korzystanie z tej strony."
 
 msgid "Suporte a aplicativos Android"
 msgstr "Wsparcie dla aplikacji Android"

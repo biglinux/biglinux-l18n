@@ -2,7 +2,7 @@
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the biglinux-noise-reduction-pipewire package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
+# 
 #, fuzzy
 msgid ""
 msgstr ""
@@ -15,7 +15,7 @@ msgstr ""
 "Language: ko\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
+"Content-Transfer-Encoding: 8bit"
 
 msgid "Reduzir ruídos do microfone"
 msgstr "마이크 소음 감소"
@@ -64,9 +64,7 @@ msgstr "취소되었습니다. 설정이 제거되지 않았습니다!"
 msgid ""
 "Este filtro utiliza técnicas de redes neurais para remover ruídos e sons do "
 "ambiente que atrapalham gravações e chamadas online."
-msgstr ""
-"이 필터는 신경망 기술을 사용하여 온라인 녹음 및 통화를 방해하는 주변 소음과 "
-"소리를 제거합니다."
+msgstr "이 필터는 신경망 기술을 사용하여 온라인 녹음 및 통화를 방해하는 주변 소음과 소리를 제거합니다."
 
 msgid "Gerenciador de Áudio"
 msgstr "오디오 매니저"
