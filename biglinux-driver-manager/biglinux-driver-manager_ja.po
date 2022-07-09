@@ -50,6 +50,9 @@ msgstr "使用不可"
 msgid "Informações de Hardware"
 msgstr "ハードウェア情報"
 
+msgid "Fechar"
+msgstr "閉じる"
+
 msgid "Enviar para transfer.sh"
 msgstr "transfer.shに送信する"
 
@@ -63,6 +66,12 @@ msgid ""
 "Deseja visualizar o arquivo ou envia-lo ao site transfer.sh, para ter uma "
 "URL com os dados do seu computador de forma fácil de compartilhar?"
 msgstr "ファイルを表示したり、transfer.shに送信して、共有する簡単な方法でコンピュータからのデータでURLを持つようにしたいですか？"
+
+msgid "Categorias"
+msgstr "カテゴリー"
+
+msgid "Principais"
+msgstr "メイン"
 
 msgid "Driver detectado:"
 msgstr "ドライバーを検出しました。"
@@ -94,17 +103,29 @@ msgstr "スキャナ"
 msgid "TV Digital"
 msgstr "デジタルテレビ"
 
+msgid "Webcam"
+msgstr "ウェブカメラ"
+
 msgid "Touchscreen"
 msgstr "タッチスクリーン"
 
 msgid "Som"
 msgstr "サウンド"
 
+msgid "Outros"
+msgstr "その他"
+
 msgid "Pesquisar Driver ou Firmware"
 msgstr "ドライバーまたはファームウェアの検索"
 
+msgid "Resultado da pesquisa"
+msgstr "検索結果"
+
 msgid "Big-Driver-Manager"
 msgstr "ビッグドライバーマネージャ"
+
+msgid "Abrir"
+msgstr "開ける"
 
 msgid "Instalar ou Remover Drivers e Firmwares"
 msgstr "ドライバとファームウェアのインストールと削除"
@@ -180,6 +201,9 @@ msgstr "ロジックデバイス"
 msgid "Raid"
 msgstr "レイド"
 
+msgid "Sistema"
+msgstr "システム"
+
 msgid "Informações de Sistema"
 msgstr "システム情報"
 
@@ -203,6 +227,9 @@ msgstr "ストレージ"
 
 msgid "Mais informações"
 msgstr "詳細はこちら"
+
+msgid "Hardware"
+msgstr "ハードウェア"
 
 msgid "Pesquisar"
 msgstr "検索"
@@ -250,6 +277,15 @@ msgstr "インターネット上で公開できる情報を含むファイルを
 
 msgid "Categoria"
 msgstr "カテゴリー"
+
+msgid "Nome"
+msgstr "名称"
+
+msgid "ID"
+msgstr "ID"
+
+msgid "Info"
+msgstr "情報"
 
 msgid ""
 "Digite sua senha para gerar um relatório removendo dados sensíveis, por "

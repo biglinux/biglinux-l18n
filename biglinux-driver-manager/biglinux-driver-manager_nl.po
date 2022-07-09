@@ -52,6 +52,9 @@ msgstr "Uitgeschakeld"
 msgid "Informações de Hardware"
 msgstr "Hardware-informatie"
 
+msgid "Fechar"
+msgstr "Sluiten"
+
 msgid "Enviar para transfer.sh"
 msgstr "Stuur naar transfer.sh"
 
@@ -67,6 +70,12 @@ msgid ""
 msgstr ""
 "Wilt u het bestand bekijken of naar transfer.sh sturen, om een URL te hebben "
 "met de gegevens van uw computer op een gemakkelijke manier te delen?"
+
+msgid "Categorias"
+msgstr "Categorieën"
+
+msgid "Principais"
+msgstr "Hoofd"
 
 msgid "Driver detectado:"
 msgstr "Gedetecteerd stuurprogramma:"
@@ -98,17 +107,29 @@ msgstr "Scanner"
 msgid "TV Digital"
 msgstr "Digitale TV"
 
+msgid "Webcam"
+msgstr "Webcam"
+
 msgid "Touchscreen"
 msgstr "Touchscreen"
 
 msgid "Som"
 msgstr "Geluid"
 
+msgid "Outros"
+msgstr "Andere"
+
 msgid "Pesquisar Driver ou Firmware"
 msgstr "Stuurprogramma of firmware zoeken"
 
+msgid "Resultado da pesquisa"
+msgstr "Zoekresultaat"
+
 msgid "Big-Driver-Manager"
 msgstr "Grote-Driver-Manager"
+
+msgid "Abrir"
+msgstr "Open"
 
 msgid "Instalar ou Remover Drivers e Firmwares"
 msgstr "Stuurprogramma's en firmware installeren of verwijderen"
@@ -189,6 +210,9 @@ msgstr "Logische apparaten"
 msgid "Raid"
 msgstr "Overval"
 
+msgid "Sistema"
+msgstr "Systeem"
+
 msgid "Informações de Sistema"
 msgstr "Systeeminformatie"
 
@@ -212,6 +236,9 @@ msgstr "Opslag"
 
 msgid "Mais informações"
 msgstr "Meer informatie"
+
+msgid "Hardware"
+msgstr "Hardware"
 
 msgid "Pesquisar"
 msgstr "Zoeken"
@@ -263,6 +290,15 @@ msgstr ""
 
 msgid "Categoria"
 msgstr "Categorie"
+
+msgid "Nome"
+msgstr "Naam"
+
+msgid "ID"
+msgstr "ID"
+
+msgid "Info"
+msgstr "Info"
 
 msgid ""
 "Digite sua senha para gerar um relatório removendo dados sensíveis, por "

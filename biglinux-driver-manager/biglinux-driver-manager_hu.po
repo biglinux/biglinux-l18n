@@ -53,6 +53,9 @@ msgstr "Mozgáskorlátozottak"
 msgid "Informações de Hardware"
 msgstr "Hardveres információk"
 
+msgid "Fechar"
+msgstr "Zárja be a"
+
 msgid "Enviar para transfer.sh"
 msgstr "Küldés a transfer.sh-nak"
 
@@ -69,6 +72,12 @@ msgstr ""
 "Szeretné megtekinteni a fájlt, vagy elküldeni a transfer.sh-nak, hogy egy "
 "URL-címet kapjon az adatokkal a számítógépéről, és könnyen megoszthassa "
 "azokat?"
+
+msgid "Categorias"
+msgstr "Kategóriák"
+
+msgid "Principais"
+msgstr "Főoldal"
 
 msgid "Driver detectado:"
 msgstr "A sofőr észlelte:"
@@ -101,17 +110,29 @@ msgstr "Szkenner"
 msgid "TV Digital"
 msgstr "Digitális TV"
 
+msgid "Webcam"
+msgstr "Webkamera"
+
 msgid "Touchscreen"
 msgstr "Érintőképernyő"
 
 msgid "Som"
 msgstr "Hang"
 
+msgid "Outros"
+msgstr "Egyéb"
+
 msgid "Pesquisar Driver ou Firmware"
 msgstr "Illesztőprogram vagy firmware keresése"
 
+msgid "Resultado da pesquisa"
+msgstr "Keresés eredménye"
+
 msgid "Big-Driver-Manager"
 msgstr "Big-Driver-Manager"
+
+msgid "Abrir"
+msgstr "Nyissa meg a  címet"
 
 msgid "Instalar ou Remover Drivers e Firmwares"
 msgstr "Illesztőprogramok és firmware telepítése vagy eltávolítása"
@@ -191,6 +212,9 @@ msgstr "Logikai eszközök"
 msgid "Raid"
 msgstr "Raid"
 
+msgid "Sistema"
+msgstr "Rendszer"
+
 msgid "Informações de Sistema"
 msgstr "Rendszerinformáció"
 
@@ -214,6 +238,9 @@ msgstr "Tárolás"
 
 msgid "Mais informações"
 msgstr "További információ"
+
+msgid "Hardware"
+msgstr "Hardver"
 
 msgid "Pesquisar"
 msgstr "Keresés"
@@ -265,6 +292,15 @@ msgstr ""
 
 msgid "Categoria"
 msgstr "Kategória"
+
+msgid "Nome"
+msgstr "Név"
+
+msgid "ID"
+msgstr "ID"
+
+msgid "Info"
+msgstr "Info"
 
 msgid ""
 "Digite sua senha para gerar um relatório removendo dados sensíveis, por "

@@ -54,6 +54,9 @@ msgstr "Άτομα με ειδικές ανάγκες"
 msgid "Informações de Hardware"
 msgstr "Πληροφορίες υλικού"
 
+msgid "Fechar"
+msgstr "Κλείστε το"
+
 msgid "Enviar para transfer.sh"
 msgstr "Αποστολή στο transfer.sh"
 
@@ -70,6 +73,12 @@ msgstr ""
 "Θέλετε να δείτε το αρχείο ή να το στείλετε στο transfer.sh, για να έχετε μια "
 "διεύθυνση URL με τα δεδομένα από τον υπολογιστή σας με εύκολο τρόπο για να "
 "τα μοιραστείτε"
+
+msgid "Categorias"
+msgstr "Κατηγορίες"
+
+msgid "Principais"
+msgstr "Κύρια"
 
 msgid "Driver detectado:"
 msgstr "Εντοπίστηκε οδηγός:"
@@ -101,17 +110,29 @@ msgstr "Σαρωτής"
 msgid "TV Digital"
 msgstr "Ψηφιακή τηλεόραση"
 
+msgid "Webcam"
+msgstr "Webcam"
+
 msgid "Touchscreen"
 msgstr "Οθόνη αφής"
 
 msgid "Som"
 msgstr "Ήχος"
 
+msgid "Outros"
+msgstr "Άλλα"
+
 msgid "Pesquisar Driver ou Firmware"
 msgstr "Αναζήτηση προγράμματος οδήγησης ή υλικολογισμικού"
 
+msgid "Resultado da pesquisa"
+msgstr "Αποτελέσματα αναζήτησης"
+
 msgid "Big-Driver-Manager"
 msgstr "Big-Driver-Manager"
+
+msgid "Abrir"
+msgstr "Ανοίξτε το"
 
 msgid "Instalar ou Remover Drivers e Firmwares"
 msgstr "Εγκατάσταση ή αφαίρεση οδηγών και υλικολογισμικού"
@@ -192,6 +213,9 @@ msgstr "Λογικές συσκευές"
 msgid "Raid"
 msgstr "Επιδρομή"
 
+msgid "Sistema"
+msgstr "Σύστημα"
+
 msgid "Informações de Sistema"
 msgstr "Πληροφορίες συστήματος"
 
@@ -215,6 +239,9 @@ msgstr "Αποθήκευση"
 
 msgid "Mais informações"
 msgstr "Περισσότερες πληροφορίες"
+
+msgid "Hardware"
+msgstr "Υλικό"
 
 msgid "Pesquisar"
 msgstr "Αναζήτηση"
@@ -266,6 +293,15 @@ msgstr ""
 
 msgid "Categoria"
 msgstr "Κατηγορία"
+
+msgid "Nome"
+msgstr "Όνομα"
+
+msgid "ID"
+msgstr "ID"
+
+msgid "Info"
+msgstr "Πληροφορίες"
 
 msgid ""
 "Digite sua senha para gerar um relatório removendo dados sensíveis, por "

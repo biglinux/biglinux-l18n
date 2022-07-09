@@ -51,6 +51,9 @@ msgstr "Persoane cu handicap"
 msgid "Informações de Hardware"
 msgstr "Informații hardware"
 
+msgid "Fechar"
+msgstr "Închideți"
+
 msgid "Enviar para transfer.sh"
 msgstr "Trimite la transfer.sh"
 
@@ -66,6 +69,12 @@ msgid ""
 msgstr ""
 "Doriți să vizualizați fișierul sau să îl trimiteți la transfer.sh, pentru a "
 "avea un URL cu datele de pe computerul dvs. într-un mod ușor de partajat?"
+
+msgid "Categorias"
+msgstr "Categorii"
+
+msgid "Principais"
+msgstr "Principal"
 
 msgid "Driver detectado:"
 msgstr "Driver detectat:"
@@ -97,17 +106,29 @@ msgstr "Scanner"
 msgid "TV Digital"
 msgstr "Televiziune digitală"
 
+msgid "Webcam"
+msgstr "Webcam"
+
 msgid "Touchscreen"
 msgstr "Ecran tactil"
 
 msgid "Som"
 msgstr "Sunet"
 
+msgid "Outros"
+msgstr "Altele"
+
 msgid "Pesquisar Driver ou Firmware"
 msgstr "Căutare driver sau firmware"
 
+msgid "Resultado da pesquisa"
+msgstr "Rezultatul căutării"
+
 msgid "Big-Driver-Manager"
 msgstr "Big-Driver-Manager"
+
+msgid "Abrir"
+msgstr "Deschideți"
 
 msgid "Instalar ou Remover Drivers e Firmwares"
 msgstr "Instalarea sau eliminarea driverelor și a firmware-ului"
@@ -187,6 +208,9 @@ msgstr "Dispozitive logice"
 msgid "Raid"
 msgstr "Raid"
 
+msgid "Sistema"
+msgstr "Sistem"
+
 msgid "Informações de Sistema"
 msgstr "Informații de sistem"
 
@@ -210,6 +234,9 @@ msgstr "Depozitare"
 
 msgid "Mais informações"
 msgstr "Mai multe informații"
+
+msgid "Hardware"
+msgstr "Hardware"
 
 msgid "Pesquisar"
 msgstr "Căutare"
@@ -260,6 +287,15 @@ msgstr ""
 
 msgid "Categoria"
 msgstr "Categoria"
+
+msgid "Nome"
+msgstr "Nume"
+
+msgid "ID"
+msgstr "ID"
+
+msgid "Info"
+msgstr "Informații"
 
 msgid ""
 "Digite sua senha para gerar um relatório removendo dados sensíveis, por "

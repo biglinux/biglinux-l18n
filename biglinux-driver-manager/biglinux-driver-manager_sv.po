@@ -51,6 +51,9 @@ msgstr "Inaktiverad"
 msgid "Informações de Hardware"
 msgstr "Information om maskinvara"
 
+msgid "Fechar"
+msgstr "Stäng"
+
 msgid "Enviar para transfer.sh"
 msgstr "Skicka till transfer.sh"
 
@@ -66,6 +69,12 @@ msgid ""
 msgstr ""
 "Vill du visa filen eller skicka den till transfer.sh, för att få en URL med "
 "data från din dator på ett enkelt sätt att dela den?"
+
+msgid "Categorias"
+msgstr "Kategorier"
+
+msgid "Principais"
+msgstr "Huvudsidan"
 
 msgid "Driver detectado:"
 msgstr "Förare upptäcktes:"
@@ -97,17 +106,29 @@ msgstr "Skanner"
 msgid "TV Digital"
 msgstr "Digital-TV"
 
+msgid "Webcam"
+msgstr "Webbkamera"
+
 msgid "Touchscreen"
 msgstr "Pekskärm"
 
 msgid "Som"
 msgstr "Ljud"
 
+msgid "Outros"
+msgstr "Övriga"
+
 msgid "Pesquisar Driver ou Firmware"
 msgstr "Sök drivrutin eller fast programvara"
 
+msgid "Resultado da pesquisa"
+msgstr "Sökresultat"
+
 msgid "Big-Driver-Manager"
 msgstr "Big-Driver-Manager"
+
+msgid "Abrir"
+msgstr "Öppna"
 
 msgid "Instalar ou Remover Drivers e Firmwares"
 msgstr "Installera eller ta bort drivrutiner och fast programvara"
@@ -188,6 +209,9 @@ msgstr "Logiska anordningar"
 msgid "Raid"
 msgstr "Raid"
 
+msgid "Sistema"
+msgstr "System"
+
 msgid "Informações de Sistema"
 msgstr "Systeminformation"
 
@@ -211,6 +235,9 @@ msgstr "Lagring"
 
 msgid "Mais informações"
 msgstr "Mer information"
+
+msgid "Hardware"
+msgstr "Hårdvara"
 
 msgid "Pesquisar"
 msgstr "Sök på"
@@ -260,6 +287,15 @@ msgstr "Skapar en fil med information som kan publiceras på internet."
 
 msgid "Categoria"
 msgstr "Kategori"
+
+msgid "Nome"
+msgstr "Namn"
+
+msgid "ID"
+msgstr "ID"
+
+msgid "Info"
+msgstr "Info"
 
 msgid ""
 "Digite sua senha para gerar um relatório removendo dados sensíveis, por "

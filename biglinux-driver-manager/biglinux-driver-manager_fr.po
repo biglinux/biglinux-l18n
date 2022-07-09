@@ -51,6 +51,9 @@ msgstr "Handicapés"
 msgid "Informações de Hardware"
 msgstr "Informations sur le matériel"
 
+msgid "Fechar"
+msgstr "Fermer"
+
 msgid "Enviar para transfer.sh"
 msgstr "Envoyer à transfer.sh"
 
@@ -66,6 +69,12 @@ msgid ""
 msgstr ""
 "Voulez-vous voir le fichier ou l'envoyer à transfer.sh, pour avoir une URL "
 "avec les données de votre ordinateur d'une manière facile à partager ?"
+
+msgid "Categorias"
+msgstr "Catégories"
+
+msgid "Principais"
+msgstr "Principal"
 
 msgid "Driver detectado:"
 msgstr "Conducteur détecté :"
@@ -98,17 +107,29 @@ msgstr "Scanner"
 msgid "TV Digital"
 msgstr "Télévision numérique"
 
+msgid "Webcam"
+msgstr "Webcam"
+
 msgid "Touchscreen"
 msgstr "Écran tactile"
 
 msgid "Som"
 msgstr "Son"
 
+msgid "Outros"
+msgstr "Autre"
+
 msgid "Pesquisar Driver ou Firmware"
 msgstr "Rechercher un pilote ou un micrologiciel"
 
+msgid "Resultado da pesquisa"
+msgstr "Résultat de la recherche"
+
 msgid "Big-Driver-Manager"
 msgstr "Big-Driver-Manager"
+
+msgid "Abrir"
+msgstr "Ouvert"
 
 msgid "Instalar ou Remover Drivers e Firmwares"
 msgstr "Installer ou supprimer des pilotes et des micrologiciels"
@@ -188,6 +209,9 @@ msgstr "Dispositifs logiques"
 msgid "Raid"
 msgstr "Raid"
 
+msgid "Sistema"
+msgstr "Système"
+
 msgid "Informações de Sistema"
 msgstr "Informations sur le système"
 
@@ -211,6 +235,9 @@ msgstr "Stockage"
 
 msgid "Mais informações"
 msgstr "Plus d'informations"
+
+msgid "Hardware"
+msgstr "Matériel informatique"
 
 msgid "Pesquisar"
 msgstr "Recherche"
@@ -262,6 +289,15 @@ msgstr ""
 
 msgid "Categoria"
 msgstr "Catégorie"
+
+msgid "Nome"
+msgstr "Nom"
+
+msgid "ID"
+msgstr "ID"
+
+msgid "Info"
+msgstr "Info"
 
 msgid ""
 "Digite sua senha para gerar um relatório removendo dados sensíveis, por "

@@ -52,6 +52,9 @@ msgstr "onemogućeno"
 msgid "Informações de Hardware"
 msgstr "Informacije o hardveru"
 
+msgid "Fechar"
+msgstr "Zatvoriti"
+
 msgid "Enviar para transfer.sh"
 msgstr "Pošalji na transfer.sh"
 
@@ -67,6 +70,12 @@ msgid ""
 msgstr ""
 "Želite li vidjeti datoteku ili je poslati na web mjesto transfer.sh, da "
 "biste na jednostavan način imali URL s podacima na računalu?"
+
+msgid "Categorias"
+msgstr "Kategorije"
+
+msgid "Principais"
+msgstr "Glavni"
 
 msgid "Driver detectado:"
 msgstr "Otkriven vozač:"
@@ -98,17 +107,29 @@ msgstr "Skener"
 msgid "TV Digital"
 msgstr "Digitalna TV"
 
+msgid "Webcam"
+msgstr "web kamera"
+
 msgid "Touchscreen"
 msgstr "zaslon osjetljiv na dodir"
 
 msgid "Som"
 msgstr "zvuk"
 
+msgid "Outros"
+msgstr "Ostalo"
+
 msgid "Pesquisar Driver ou Firmware"
 msgstr "Potražite upravljački program ili firmver"
 
+msgid "Resultado da pesquisa"
+msgstr "Rezultati pretrage"
+
 msgid "Big-Driver-Manager"
 msgstr "Voditelj velikog vozača"
+
+msgid "Abrir"
+msgstr "Otvori"
 
 msgid "Instalar ou Remover Drivers e Firmwares"
 msgstr "Instalirajte ili uklonite upravljačke programe i firmwares"
@@ -188,6 +209,9 @@ msgstr "Logički uređaji"
 msgid "Raid"
 msgstr "Raid"
 
+msgid "Sistema"
+msgstr "Sustav"
+
 msgid "Informações de Sistema"
 msgstr "Informacijski sustav"
 
@@ -211,6 +235,9 @@ msgstr "Skladištenje"
 
 msgid "Mais informações"
 msgstr "Više informacija"
+
+msgid "Hardware"
+msgstr "Hardver"
 
 msgid "Pesquisar"
 msgstr "Pretraživanje"
@@ -260,6 +287,15 @@ msgstr "Stvara datoteku s informacijama koje se mogu objaviti na internetu."
 
 msgid "Categoria"
 msgstr "Kategorija"
+
+msgid "Nome"
+msgstr "Ime"
+
+msgid "ID"
+msgstr "OSOBNA ISKAZNICA"
+
+msgid "Info"
+msgstr "Informacije"
 
 msgid ""
 "Digite sua senha para gerar um relatório removendo dados sensíveis, por "

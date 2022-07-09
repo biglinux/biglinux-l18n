@@ -49,6 +49,9 @@ msgstr "失能"
 msgid "Informações de Hardware"
 msgstr "硬件信息"
 
+msgid "Fechar"
+msgstr "关闭"
+
 msgid "Enviar para transfer.sh"
 msgstr "发送到transfer.sh"
 
@@ -62,6 +65,12 @@ msgid ""
 "Deseja visualizar o arquivo ou envia-lo ao site transfer.sh, para ter uma "
 "URL com os dados do seu computador de forma fácil de compartilhar?"
 msgstr "你想查看文件或将其发送到transfer.sh，以一种简单的方式分享来自你电脑的数据的URL吗？"
+
+msgid "Categorias"
+msgstr "类别"
+
+msgid "Principais"
+msgstr "主要内容"
 
 msgid "Driver detectado:"
 msgstr "检测到的驱动程序。"
@@ -93,17 +102,29 @@ msgstr "扫描器"
 msgid "TV Digital"
 msgstr "数字电视"
 
+msgid "Webcam"
+msgstr "网络摄像头"
+
 msgid "Touchscreen"
 msgstr "触摸屏"
 
 msgid "Som"
 msgstr "声音"
 
+msgid "Outros"
+msgstr "其他"
+
 msgid "Pesquisar Driver ou Firmware"
 msgstr "搜索驱动程序或固件"
 
+msgid "Resultado da pesquisa"
+msgstr "搜索结果"
+
 msgid "Big-Driver-Manager"
 msgstr "大司机-经理人"
+
+msgid "Abrir"
+msgstr "打開"
 
 msgid "Instalar ou Remover Drivers e Firmwares"
 msgstr "安装或删除驱动程序和固件"
@@ -179,6 +200,9 @@ msgstr "逻辑装置"
 msgid "Raid"
 msgstr "袭击"
 
+msgid "Sistema"
+msgstr "系统"
+
 msgid "Informações de Sistema"
 msgstr "系统信息"
 
@@ -202,6 +226,9 @@ msgstr "储存"
 
 msgid "Mais informações"
 msgstr "更多信息"
+
+msgid "Hardware"
+msgstr "硬件设施"
 
 msgid "Pesquisar"
 msgstr "搜索"
@@ -249,6 +276,15 @@ msgstr "創建包含可在 Internet 上發布的信息的文件。"
 
 msgid "Categoria"
 msgstr "类别"
+
+msgid "Nome"
+msgstr "命名"
+
+msgid "ID"
+msgstr "身份证"
+
+msgid "Info"
+msgstr "信息"
 
 msgid ""
 "Digite sua senha para gerar um relatório removendo dados sensíveis, por "

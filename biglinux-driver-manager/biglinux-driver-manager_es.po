@@ -51,6 +51,9 @@ msgstr "Discapacitados"
 msgid "Informações de Hardware"
 msgstr "Información sobre el hardware"
 
+msgid "Fechar"
+msgstr "Cerrar"
+
 msgid "Enviar para transfer.sh"
 msgstr "Enviar a transfer.sh"
 
@@ -66,6 +69,12 @@ msgid ""
 msgstr ""
 "¿Quieres ver el archivo o enviarlo a transfer.sh, para tener una URL con los "
 "datos de tu ordenador de forma fácil de compartir?"
+
+msgid "Categorias"
+msgstr "Categorías"
+
+msgid "Principais"
+msgstr "Principal"
 
 msgid "Driver detectado:"
 msgstr "Conductor detectado:"
@@ -97,17 +106,29 @@ msgstr "Escáner"
 msgid "TV Digital"
 msgstr "Televisión digital"
 
+msgid "Webcam"
+msgstr "Cámara web"
+
 msgid "Touchscreen"
 msgstr "Pantalla táctil"
 
 msgid "Som"
 msgstr "Sonido"
 
+msgid "Outros"
+msgstr "Otros"
+
 msgid "Pesquisar Driver ou Firmware"
 msgstr "Buscar controlador o firmware"
 
+msgid "Resultado da pesquisa"
+msgstr "Resultado de la búsqueda"
+
 msgid "Big-Driver-Manager"
 msgstr "Big-Driver-Manager"
+
+msgid "Abrir"
+msgstr "Abrir"
 
 msgid "Instalar ou Remover Drivers e Firmwares"
 msgstr "Instalar o eliminar controladores y firmware"
@@ -187,6 +208,9 @@ msgstr "Dispositivos lógicos"
 msgid "Raid"
 msgstr "Raid"
 
+msgid "Sistema"
+msgstr "Sistema"
+
 msgid "Informações de Sistema"
 msgstr "Información del sistema"
 
@@ -210,6 +234,9 @@ msgstr "Almacenamiento"
 
 msgid "Mais informações"
 msgstr "Más información"
+
+msgid "Hardware"
+msgstr "Hardware"
 
 msgid "Pesquisar"
 msgstr "Busque en"
@@ -259,6 +286,15 @@ msgstr "Crea un archivo con información que se puede publicar en Internet."
 
 msgid "Categoria"
 msgstr "Categoría"
+
+msgid "Nome"
+msgstr "Nombre"
+
+msgid "ID"
+msgstr "ID"
+
+msgid "Info"
+msgstr "Información"
 
 msgid ""
 "Digite sua senha para gerar um relatório removendo dados sensíveis, por "

@@ -51,6 +51,9 @@ msgstr "Bezbariérový"
 msgid "Informações de Hardware"
 msgstr "Informace o hardwaru"
 
+msgid "Fechar"
+msgstr "Zavřít"
+
 msgid "Enviar para transfer.sh"
 msgstr "Odeslat do transfer.sh"
 
@@ -66,6 +69,12 @@ msgid ""
 msgstr ""
 "Chcete soubor zobrazit nebo odeslat do transfer.sh, abyste mohli snadno "
 "sdílet adresu URL s daty z vašeho počítače?"
+
+msgid "Categorias"
+msgstr "Kategorie"
+
+msgid "Principais"
+msgstr "Hlavní stránka"
 
 msgid "Driver detectado:"
 msgstr "Zjištěn řidič:"
@@ -97,17 +106,29 @@ msgstr "Skener"
 msgid "TV Digital"
 msgstr "Digitální televize"
 
+msgid "Webcam"
+msgstr "Webová kamera"
+
 msgid "Touchscreen"
 msgstr "Dotykový displej"
 
 msgid "Som"
 msgstr "Zvuk"
 
+msgid "Outros"
+msgstr "Další"
+
 msgid "Pesquisar Driver ou Firmware"
 msgstr "Hledání ovladače nebo firmwaru"
 
+msgid "Resultado da pesquisa"
+msgstr "Výsledek hledání"
+
 msgid "Big-Driver-Manager"
 msgstr "Big-Driver-Manager"
+
+msgid "Abrir"
+msgstr "Otevřít"
 
 msgid "Instalar ou Remover Drivers e Firmwares"
 msgstr "Instalace nebo odebrání ovladačů a firmwaru"
@@ -185,6 +206,9 @@ msgstr "Logická zařízení"
 msgid "Raid"
 msgstr "Nájezd"
 
+msgid "Sistema"
+msgstr "Systém"
+
 msgid "Informações de Sistema"
 msgstr "Systémové informace"
 
@@ -208,6 +232,9 @@ msgstr "Úložiště"
 
 msgid "Mais informações"
 msgstr "Více informací"
+
+msgid "Hardware"
+msgstr "Hardware"
 
 msgid "Pesquisar"
 msgstr "Vyhledávání"
@@ -257,6 +284,15 @@ msgstr "Vytvoří soubor s informacemi, které lze zveřejnit na internetu."
 
 msgid "Categoria"
 msgstr "Kategorie"
+
+msgid "Nome"
+msgstr "Název"
+
+msgid "ID"
+msgstr "ID"
+
+msgid "Info"
+msgstr "Informace"
 
 msgid ""
 "Digite sua senha para gerar um relatório removendo dados sensíveis, por "

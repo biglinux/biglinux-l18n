@@ -49,6 +49,9 @@ msgstr "비활성화"
 msgid "Informações de Hardware"
 msgstr "하드웨어 정보"
 
+msgid "Fechar"
+msgstr "닫기"
+
 msgid "Enviar para transfer.sh"
 msgstr "transfer.sh 으로 보내기"
 
@@ -62,6 +65,12 @@ msgid ""
 "Deseja visualizar o arquivo ou envia-lo ao site transfer.sh, para ter uma "
 "URL com os dados do seu computador de forma fácil de compartilhar?"
 msgstr "파일을 보거나 transfer.sh 웹 사이트로 보내 컴퓨터의 데이터가 포함 된 URL을 쉽게 공유 할 수 있습니까?"
+
+msgid "Categorias"
+msgstr "카테고리"
+
+msgid "Principais"
+msgstr "메인"
 
 msgid "Driver detectado:"
 msgstr "드라이버 감지:"
@@ -93,17 +102,29 @@ msgstr "스캐너"
 msgid "TV Digital"
 msgstr "디지털 TV"
 
+msgid "Webcam"
+msgstr "웹캠"
+
 msgid "Touchscreen"
 msgstr "터치스크린"
 
 msgid "Som"
 msgstr "사운드"
 
+msgid "Outros"
+msgstr "기타"
+
 msgid "Pesquisar Driver ou Firmware"
 msgstr "드라이버 또는 펌웨어 검색"
 
+msgid "Resultado da pesquisa"
+msgstr "검색 결과"
+
 msgid "Big-Driver-Manager"
 msgstr "빅 드라이버 매니저"
+
+msgid "Abrir"
+msgstr "오픈"
 
 msgid "Instalar ou Remover Drivers e Firmwares"
 msgstr "드라이버 및 펌웨어 설치 또는 제거"
@@ -179,6 +200,9 @@ msgstr "논리 디바이스"
 msgid "Raid"
 msgstr "레이드"
 
+msgid "Sistema"
+msgstr "시스템"
+
 msgid "Informações de Sistema"
 msgstr "시스템 정보"
 
@@ -202,6 +226,9 @@ msgstr "스토리지"
 
 msgid "Mais informações"
 msgstr "추가 정보"
+
+msgid "Hardware"
+msgstr "하드웨어"
 
 msgid "Pesquisar"
 msgstr "검색"
@@ -249,6 +276,15 @@ msgstr "인터넷에 게시할 수 있는 정보가 포함된 파일을 만듭�
 
 msgid "Categoria"
 msgstr "카테고리"
+
+msgid "Nome"
+msgstr "이름"
+
+msgid "ID"
+msgstr "신분증"
+
+msgid "Info"
+msgstr "정보"
 
 msgid ""
 "Digite sua senha para gerar um relatório removendo dados sensíveis, por "

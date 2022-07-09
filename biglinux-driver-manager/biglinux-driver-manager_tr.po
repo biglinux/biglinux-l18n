@@ -51,6 +51,9 @@ msgstr "Engelli"
 msgid "Informações de Hardware"
 msgstr "Donanım Bilgileri"
 
+msgid "Fechar"
+msgstr "Kapat"
+
 msgid "Enviar para transfer.sh"
 msgstr "Transfer.sh dosyasına gönder"
 
@@ -67,6 +70,12 @@ msgstr ""
 "Dosyayı görüntülemek mi yoksa bilgisayarınızdaki verileri kolay bir şekilde "
 "paylaşmak için bir URL'ye sahip olmak için transfer.sh'ye göndermek mi "
 "istiyorsunuz?"
+
+msgid "Categorias"
+msgstr "Kategoriler"
+
+msgid "Principais"
+msgstr "Ana"
 
 msgid "Driver detectado:"
 msgstr "Sürücü tespit edildi:"
@@ -98,17 +107,29 @@ msgstr "Tarayıcı"
 msgid "TV Digital"
 msgstr "Dijital TV"
 
+msgid "Webcam"
+msgstr "Web kamerası"
+
 msgid "Touchscreen"
 msgstr "Dokunmatik ekran"
 
 msgid "Som"
 msgstr "Ses"
 
+msgid "Outros"
+msgstr "Diğer"
+
 msgid "Pesquisar Driver ou Firmware"
 msgstr "Sürücü veya Ürün Yazılımını Arama"
 
+msgid "Resultado da pesquisa"
+msgstr "Arama sonucu"
+
 msgid "Big-Driver-Manager"
 msgstr "Big-Driver-Manager"
+
+msgid "Abrir"
+msgstr "Açık"
 
 msgid "Instalar ou Remover Drivers e Firmwares"
 msgstr "Sürücüleri ve Ürün Yazılımını Yükleme veya Kaldırma"
@@ -188,6 +209,9 @@ msgstr "Mantıksal cihazlar"
 msgid "Raid"
 msgstr "Baskın"
 
+msgid "Sistema"
+msgstr "Sistem"
+
 msgid "Informações de Sistema"
 msgstr "Sistem Bilgileri"
 
@@ -211,6 +235,9 @@ msgstr "Depolama"
 
 msgid "Mais informações"
 msgstr "Daha fazla bilgi"
+
+msgid "Hardware"
+msgstr "Donanım"
 
 msgid "Pesquisar"
 msgstr "Arama"
@@ -260,6 +287,15 @@ msgstr "İnternette yayınlanabilecek bilgileri içeren bir dosya oluşturur."
 
 msgid "Categoria"
 msgstr "Kategori"
+
+msgid "Nome"
+msgstr "İsim"
+
+msgid "ID"
+msgstr "KIMLIK"
+
+msgid "Info"
+msgstr "Bilgi"
 
 msgid ""
 "Digite sua senha para gerar um relatório removendo dados sensíveis, por "

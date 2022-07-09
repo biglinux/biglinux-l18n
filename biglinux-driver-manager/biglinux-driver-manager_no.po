@@ -51,6 +51,9 @@ msgstr "deaktivert"
 msgid "Informações de Hardware"
 msgstr "Informasjon om maskinvare"
 
+msgid "Fechar"
+msgstr "Lukk"
+
 msgid "Enviar para transfer.sh"
 msgstr "Send til transfer.sh"
 
@@ -66,6 +69,12 @@ msgid ""
 msgstr ""
 "Vil du se filen eller sende den til nettstedet transfer.sh, for å ha en URL "
 "med dataene på datamaskinen din på en enkel å dele måte?"
+
+msgid "Categorias"
+msgstr "Kategorier"
+
+msgid "Principais"
+msgstr "Hoved"
 
 msgid "Driver detectado:"
 msgstr "Driver oppdaget:"
@@ -97,17 +106,29 @@ msgstr "Skanner"
 msgid "TV Digital"
 msgstr "Digital-TV"
 
+msgid "Webcam"
+msgstr "webkamera"
+
 msgid "Touchscreen"
 msgstr "Berøringsskjerm"
 
 msgid "Som"
 msgstr "lyd"
 
+msgid "Outros"
+msgstr "Annet"
+
 msgid "Pesquisar Driver ou Firmware"
 msgstr "Søk etter Driver eller Firmware"
 
+msgid "Resultado da pesquisa"
+msgstr "Søk resultat"
+
 msgid "Big-Driver-Manager"
 msgstr "Stor sjåfør-leder"
+
+msgid "Abrir"
+msgstr "Åpen"
 
 msgid "Instalar ou Remover Drivers e Firmwares"
 msgstr "Installer eller fjern drivere og firmwares"
@@ -187,6 +208,9 @@ msgstr "Logiske enheter"
 msgid "Raid"
 msgstr "Raid"
 
+msgid "Sistema"
+msgstr "Systemet"
+
 msgid "Informações de Sistema"
 msgstr "Informasjon om systemet"
 
@@ -210,6 +234,9 @@ msgstr "Lagring"
 
 msgid "Mais informações"
 msgstr "Mer informasjon"
+
+msgid "Hardware"
+msgstr "Hardware"
 
 msgid "Pesquisar"
 msgstr "Søke"
@@ -259,6 +286,15 @@ msgstr "Oppretter en fil med informasjon som kan publiseres på internett."
 
 msgid "Categoria"
 msgstr "Kategori"
+
+msgid "Nome"
+msgstr "Navn"
+
+msgid "ID"
+msgstr "ID"
+
+msgid "Info"
+msgstr "Info"
 
 msgid ""
 "Digite sua senha para gerar um relatório removendo dados sensíveis, por "

@@ -51,6 +51,9 @@ msgstr "Behinderte"
 msgid "Informações de Hardware"
 msgstr "Hardware-Informationen"
 
+msgid "Fechar"
+msgstr "Schließen Sie"
+
 msgid "Enviar para transfer.sh"
 msgstr "An transfer.sh senden"
 
@@ -66,6 +69,12 @@ msgid ""
 msgstr ""
 "Möchten Sie die Datei ansehen oder sie an transfer.sh senden, um eine URL "
 "mit den Daten von Ihrem Computer auf einfache Weise weiterzugeben?"
+
+msgid "Categorias"
+msgstr "Kategorien"
+
+msgid "Principais"
+msgstr "Hauptseite"
 
 msgid "Driver detectado:"
 msgstr "Treiber erkannt:"
@@ -97,17 +106,29 @@ msgstr "Scanner"
 msgid "TV Digital"
 msgstr "Digitales Fernsehen"
 
+msgid "Webcam"
+msgstr "Webcam"
+
 msgid "Touchscreen"
 msgstr "Berührungssensitiver Bildschirm"
 
 msgid "Som"
 msgstr "Klang"
 
+msgid "Outros"
+msgstr "Andere"
+
 msgid "Pesquisar Driver ou Firmware"
 msgstr "Treiber oder Firmware suchen"
 
+msgid "Resultado da pesquisa"
+msgstr "Suchergebnis"
+
 msgid "Big-Driver-Manager"
 msgstr "Big-Driver-Manager"
+
+msgid "Abrir"
+msgstr "Offen"
 
 msgid "Instalar ou Remover Drivers e Firmwares"
 msgstr "Installieren oder Entfernen von Treibern und Firmware"
@@ -189,6 +210,9 @@ msgstr "Logische Geräte"
 msgid "Raid"
 msgstr "Überfall"
 
+msgid "Sistema"
+msgstr "System"
+
 msgid "Informações de Sistema"
 msgstr "System-Informationen"
 
@@ -212,6 +236,9 @@ msgstr "Lagerung"
 
 msgid "Mais informações"
 msgstr "Weitere Informationen"
+
+msgid "Hardware"
+msgstr "Hardware"
 
 msgid "Pesquisar"
 msgstr "Suche"
@@ -263,6 +290,15 @@ msgstr ""
 
 msgid "Categoria"
 msgstr "Kategorie"
+
+msgid "Nome"
+msgstr "Name"
+
+msgid "ID"
+msgstr "ID"
+
+msgid "Info"
+msgstr "Infos"
 
 msgid ""
 "Digite sua senha para gerar um relatório removendo dados sensíveis, por "

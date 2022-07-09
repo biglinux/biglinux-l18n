@@ -51,6 +51,9 @@ msgstr "Vammaiset"
 msgid "Informações de Hardware"
 msgstr "Laitteistoa koskevat tiedot"
 
+msgid "Fechar"
+msgstr "Sulje"
+
 msgid "Enviar para transfer.sh"
 msgstr "Lähetä tiedostoon transfer.sh"
 
@@ -66,6 +69,12 @@ msgid ""
 msgstr ""
 "Haluatko tarkastella tiedostoa tai lähettää sen transfer.sh:lle, jotta saat "
 "URL-osoitteen, jossa on tiedot tietokoneeltasi helposti jaettavaksi?"
+
+msgid "Categorias"
+msgstr "Kategoriat"
+
+msgid "Principais"
+msgstr "Main"
 
 msgid "Driver detectado:"
 msgstr "Kuljettaja havaittu:"
@@ -97,17 +106,29 @@ msgstr "Skanneri"
 msgid "TV Digital"
 msgstr "Digitaalinen televisio"
 
+msgid "Webcam"
+msgstr "Webkamera"
+
 msgid "Touchscreen"
 msgstr "Kosketusnäyttö"
 
 msgid "Som"
 msgstr "Ääni"
 
+msgid "Outros"
+msgstr "Muut"
+
 msgid "Pesquisar Driver ou Firmware"
 msgstr "Etsi ajuria tai laiteohjelmaa"
 
+msgid "Resultado da pesquisa"
+msgstr "Hakutulos"
+
 msgid "Big-Driver-Manager"
 msgstr "Big-Driver-Manager"
+
+msgid "Abrir"
+msgstr "Avaa"
 
 msgid "Instalar ou Remover Drivers e Firmwares"
 msgstr "Asenna tai poista ajurit ja laiteohjelmat"
@@ -188,6 +209,9 @@ msgstr "Logiikkalaitteet"
 msgid "Raid"
 msgstr "Raid"
 
+msgid "Sistema"
+msgstr "Järjestelmä"
+
 msgid "Informações de Sistema"
 msgstr "Järjestelmätiedot"
 
@@ -211,6 +235,9 @@ msgstr "Varastointi"
 
 msgid "Mais informações"
 msgstr "Lisätietoja"
+
+msgid "Hardware"
+msgstr "Laitteisto"
 
 msgid "Pesquisar"
 msgstr "Etsi"
@@ -261,6 +288,15 @@ msgstr ""
 
 msgid "Categoria"
 msgstr "Luokka"
+
+msgid "Nome"
+msgstr "Nimi"
+
+msgid "ID"
+msgstr "ID"
+
+msgid "Info"
+msgstr "Info"
 
 msgid ""
 "Digite sua senha para gerar um relatório removendo dados sensíveis, por "

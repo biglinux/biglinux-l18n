@@ -51,6 +51,9 @@ msgstr "Disabled"
 msgid "Informações de Hardware"
 msgstr "Hardware Information"
 
+msgid "Fechar"
+msgstr "Close"
+
 msgid "Enviar para transfer.sh"
 msgstr "Send to transfer.sh"
 
@@ -66,6 +69,12 @@ msgid ""
 msgstr ""
 "Do you want to view the file or send it to transfer.sh, to have a URL with "
 "the data from your computer in an easy to share way?"
+
+msgid "Categorias"
+msgstr "Categories"
+
+msgid "Principais"
+msgstr "Main"
 
 msgid "Driver detectado:"
 msgstr "Driver detected:"
@@ -97,17 +106,29 @@ msgstr "Scanner"
 msgid "TV Digital"
 msgstr "Digital TV"
 
+msgid "Webcam"
+msgstr "Webcam"
+
 msgid "Touchscreen"
 msgstr "Touchscreen"
 
 msgid "Som"
 msgstr "Sound"
 
+msgid "Outros"
+msgstr "Other"
+
 msgid "Pesquisar Driver ou Firmware"
 msgstr "Search Driver or Firmware"
 
+msgid "Resultado da pesquisa"
+msgstr "Search result"
+
 msgid "Big-Driver-Manager"
 msgstr "Big-Driver-Manager"
+
+msgid "Abrir"
+msgstr "Open"
 
 msgid "Instalar ou Remover Drivers e Firmwares"
 msgstr "Install or Remove Drivers and Firmware"
@@ -186,6 +207,9 @@ msgstr "Logic devices"
 msgid "Raid"
 msgstr "Raid"
 
+msgid "Sistema"
+msgstr "System"
+
 msgid "Informações de Sistema"
 msgstr "System Information"
 
@@ -209,6 +233,9 @@ msgstr "Storage"
 
 msgid "Mais informações"
 msgstr "More information"
+
+msgid "Hardware"
+msgstr "Hardware"
 
 msgid "Pesquisar"
 msgstr "Search"
@@ -259,6 +286,15 @@ msgstr ""
 
 msgid "Categoria"
 msgstr "Category"
+
+msgid "Nome"
+msgstr "Name"
+
+msgid "ID"
+msgstr "ID"
+
+msgid "Info"
+msgstr "Info"
 
 msgid ""
 "Digite sua senha para gerar um relatório removendo dados sensíveis, por "
