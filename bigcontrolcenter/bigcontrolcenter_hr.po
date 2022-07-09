@@ -2,20 +2,20 @@
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the bigcontrolcenter package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
+# 
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: bigcontrolcenter\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-07-09 02:16-0300\n"
+"POT-Creation-Date: 2022-07-08 12:29-0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: hr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
+"Content-Transfer-Encoding: 8bit"
 
 msgid ""
 "A webcam já está sendo utilizada pelo programa: $WEBCAM_BUSY\n"
@@ -30,20 +30,11 @@ msgstr ""
 "Promjene koje su napravljene mogu se vidjeti\n"
 "na vašoj web kameri sliku u drugim programima."
 
-msgid "Webcam"
-msgstr ""
-
 msgid "Category"
 msgstr "Kategorija"
 
 msgid "Name"
 msgstr "Ime"
-
-msgid "ID"
-msgstr ""
-
-msgid "Info"
-msgstr ""
 
 msgid ""
 "O relatório foi salvo no arquivo $FILE_TO_SAVE\n"
@@ -57,9 +48,6 @@ msgstr ""
 msgid "Visualizar o relatório"
 msgstr "Pregled izvješća"
 
-msgid "Fechar"
-msgstr ""
-
 msgid "Hardinfo Relatory"
 msgstr "Hardinfo izvještaj"
 
@@ -68,15 +56,6 @@ msgstr "Uvod u BigLinux"
 
 msgid "Central de Controle"
 msgstr "Kontrolni centar"
-
-msgid "Bom dia"
-msgstr ""
-
-msgid "Boa tarde"
-msgstr ""
-
-msgid "Boa noite"
-msgstr ""
 
 msgid "Aguarde, carregando..."
 msgstr "Čekaj, utovar..."
@@ -101,10 +80,6 @@ msgid ""
 "extremamente simples."
 msgstr ""
 "Kompletne konfiguracije dostupne su za odabir na izuzetno jednostavan način."
-
-#, fuzzy
-msgid "Temas, Desktop e Ajustes"
-msgstr "Teme, radna površina i ugađanje"
 
 msgid "Escolha seu Avatar"
 msgstr "Odaberite svoj Avatar"
@@ -166,9 +141,6 @@ msgstr "Reduktor buke"
 msgid "Configurar a voz do sistema (TTS)"
 msgstr "Postavljanje glasovnog sustava (TTS)"
 
-msgid "OCR para PDF"
-msgstr ""
-
 msgid "Doação e Redes sociais"
 msgstr "Donacija i društvene mreže"
 
@@ -218,7 +190,8 @@ msgstr "Razvojni programi za QT."
 msgid ""
 "Configurações de uso dos antigos CDs de música, não são válidas para músicas "
 "em MP3."
-msgstr "Postavke za korištenje starih glazbenih CD-a ne vrijede za MP3 pjesme."
+msgstr ""
+"Postavke za korištenje starih glazbenih CD-a ne vrijede za MP3 pjesme."
 
 msgid "Procurar servidores (zeroconf)"
 msgstr "Traži poslužitelje (zeroconf)"
@@ -440,16 +413,6 @@ msgstr "Postavke zaslona su resetirane."
 msgid "Configurações da tela"
 msgstr "Postavke zaslona"
 
-#, fuzzy
-msgid "Categorias"
-msgstr "Kategorija"
-
-msgid "Principais"
-msgstr ""
-
-msgid "Sistema"
-msgstr ""
-
 msgid "Aparência"
 msgstr "Izgled"
 
@@ -461,9 +424,6 @@ msgstr "personalizirati"
 
 msgid "Telefone"
 msgstr "telefon"
-
-msgid "Multimídia"
-msgstr ""
 
 msgid "Rede e Internet"
 msgstr "Mreža i Internet"
@@ -480,23 +440,11 @@ msgstr "Privatnost"
 msgid "Servidor"
 msgstr "mainframe"
 
-msgid "Desenvolvimento"
-msgstr ""
-
 msgid "Sobre"
 msgstr "O"
 
-msgid "Outros"
-msgstr ""
-
 msgid "Pesquisar..."
 msgstr "Pretraga..."
-
-msgid "Resultado da pesquisa"
-msgstr ""
-
-msgid "Abrir"
-msgstr ""
 
 msgid "Temas, desktop e ajustes"
 msgstr "Teme, radna površina i ugađanje"
@@ -551,6 +499,7 @@ msgid ""
 "conexão do seu dispositivo Android.\n"
 "<br>\n"
 "*Caso esteja utilizando o dados móveis, será consumido do seu plano de dados."
+""
 msgstr ""
 "Kako koristiti internet sa svog Android tableta ili pametnog telefona:\n"
 "<br><br>\n"

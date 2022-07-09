@@ -2,20 +2,20 @@
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the calamares-biglinux package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
+# 
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: calamares-biglinux\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-07-09 02:17-0300\n"
+"POT-Creation-Date: 2022-06-21 03:19-0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
+"Content-Transfer-Encoding: 8bit"
 
 msgid ""
 "O boot atual está utilizando o modo EFI, porém não encontrei nenhuma "
@@ -26,10 +26,7 @@ msgid ""
 "\n"
 "Deseja prosseguir com com a instalação em modo EFI?"
 msgstr ""
-"現在のブートはEFIモードを使っていますが、このコンピュータにはEFIパーティショ"
-"ンが見つかりませんでした。このコンピュータにすでに他のシステムがインストール"
-"されていて、それをそのままインストールしたい場合は、おそらくBIOSで設定を変更"
-"してBIOSモードとも呼ばれるレガシーモードでブートする必要があるでしょう。\n"
+"現在のブートはEFIモードを使っていますが、このコンピュータにはEFIパーティションが見つかりませんでした。このコンピュータにすでに他のシステムがインストールされていて、それをそのままインストールしたい場合は、おそらくBIOSで設定を変更してBIOSモードとも呼ばれるレガシーモードでブートする必要があるでしょう。\n"
 "\n"
 "EFIインストールを進めますか？"
 
@@ -44,10 +41,8 @@ msgid ""
 "\n"
 "Deseja prosseguir com com a instalação em modo Legacy/BIOS?"
 msgstr ""
-"現在のブートはLegacy/BIOSモードですが、このコンピュータに少なくとも1つのEFI"
-"パーティションがあることがわかりました。インストールを成功させるためには、お"
-"そらくEFIまたはUEFIモードで起動するようにBIOSの設定を変更する必要があるでしょ"
-"う。\n"
+"現在のブートはLegacy/"
+"BIOSモードですが、このコンピュータに少なくとも1つのEFIパーティションがあることがわかりました。インストールを成功させるためには、おそらくEFIまたはUEFIモードで起動するようにBIOSの設定を変更する必要があるでしょう。\n"
 "\n"
 "レガシー/BIOSのインストールを進めますか？"
 

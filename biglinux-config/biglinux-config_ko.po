@@ -2,20 +2,20 @@
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the biglinux-config package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
+# 
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: biglinux-config\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-07-09 02:16-0300\n"
+"POT-Creation-Date: 2022-06-21 03:18-0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
+"Content-Transfer-Encoding: 8bit"
 
 msgid "Restaurar Configurações"
 msgstr "복원 설정"
@@ -29,22 +29,18 @@ msgid "As configurações foram restauradas com sucesso!"
 msgstr "설정이 성공적으로 복원되었습니다!"
 
 msgid ""
-"Você tem certeza que deseja restaurar todas as configurações do KDE/Plasma?"
-"\\nIsso apagará todas as configurações definidas por $USER!"
-msgstr ""
-"모든 KDE/플라즈마 설정을 복원하시겠습니까?\\ n이렇게 하면 $USER에서 정의한 모"
-"든 설정이 삭제됩니다."
+"Você tem certeza que deseja restaurar todas as configurações do KDE/"
+"Plasma?\\nIsso apagará todas as configurações definidas por $USER!"
+msgstr "모든 KDE/플라즈마 설정을 복원하시겠습니까?\\ n이렇게 하면 $USER에서 정의한 모든 설정이 삭제됩니다."
 
 msgid ""
 "As configurações foram restauradas com sucesso!\\nÉ necessário fazer logoff/"
 "login para concluir a restauração!"
-msgstr ""
-"설정이 성공적으로 복원되었습니다!\\ n복원을 완료하려면 로그오프하거나 로그인"
-"해야 합니다!"
+msgstr "설정이 성공적으로 복원되었습니다!\\ n복원을 완료하려면 로그오프하거나 로그인해야 합니다!"
 
 msgid ""
-"Restaurar&nbsp;o&nbsp;programa&nbsp;como&nbsp;modo&nbsp;padrão&nbsp;ou&nbsp;"
-"distribuição&nbsp;BigLinux."
+"Restaurar&nbsp;o&nbsp;programa&nbsp;como&nbsp;modo&nbsp;padrão&nbsp;ou&nbsp;distribuição&nbsp;BigLinux."
+""
 msgstr "프로그램을 표준 모드 또는 BigLinux 배포판으로 복원합니다."
 
 msgid "Restaurar&nbsp;o&nbsp;programa&nbsp;como&nbsp;modo&nbsp;padrão."
@@ -53,26 +49,17 @@ msgstr "프로그램을 기본 모드로 복원합니다."
 msgid ""
 "Músicas-(Clementine) clementine.sh Multimedia clementine.png clementine skel "
 "$COMMENT_skel"
-msgstr ""
-"노래- (클레멘타인) clementine.sh 멀티미디어 clementine.png 클레멘타인 해골 "
-"$코멘트_스켈"
+msgstr "노래- (클레멘타인) clementine.sh 멀티미디어 clementine.png 클레멘타인 해골 $코멘트_스켈"
 
 msgid ""
 "Gravador-de-Tela-(vokoscreenNG) vokoscreen.sh Multimedia vokoscreen.png "
 "vokoscreenNG  $COMMENT_normal"
-msgstr ""
-"스크린 레코더 - (보코스크린) vokoscreen.sh 멀티미디어 vokoscreen.png 보코스스"
-"크리닝 $코멘트_노멀"
+msgstr "스크린 레코더 - (보코스크린) vokoscreen.sh 멀티미디어 vokoscreen.png 보코스스크리닝 $코멘트_노멀"
 
 msgid ""
 "Vídeos-(Smplayer) smplayer.sh Multimedia smplayer.png smplayer skel "
 "$COMMENT_skel"
-msgstr ""
-"동영상- (스플레이어) smplayer.sh 멀티미디어 smplayer.png 스플레이어 스케일 "
-"$코멘트_스켈"
-
-msgid "Fechar"
-msgstr ""
+msgstr "동영상- (스플레이어) smplayer.sh 멀티미디어 smplayer.png 스플레이어 스케일 $코멘트_스켈"
 
 msgid "Restaurar no modo padrão da distribuição"
 msgstr "배포의 기본 모드로 복원"
@@ -94,18 +81,6 @@ msgstr "메인"
 
 msgid "Internet"
 msgstr "인터넷"
-
-msgid "Multimídia"
-msgstr ""
-
-msgid "Gráficos"
-msgstr ""
-
-msgid "Escritório"
-msgstr ""
-
-msgid "Sistema"
-msgstr ""
 
 msgid "Pesquisar Restaurar"
 msgstr "검색 복원"

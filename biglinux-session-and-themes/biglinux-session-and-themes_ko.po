@@ -2,20 +2,20 @@
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the biglinux-session-and-themes package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
+# 
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: biglinux-session-and-themes\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-07-09 02:16-0300\n"
+"POT-Creation-Date: 2022-07-08 12:29-0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
+"Content-Transfer-Encoding: 8bit"
 
 msgid "Temas, Desktop e Ajustes"
 msgstr "테마, 데스크톱 및 조정"
@@ -23,9 +23,7 @@ msgstr "테마, 데스크톱 및 조정"
 msgid ""
 "Configuração alterada, se estiver utilizando o navegador, reinicie-o para "
 "que a nova configuração seja aplicada."
-msgstr ""
-"구성이 변경되었습니다. 브라우저를 사용하는 경우 브라우저를 다시 시작하여 새 "
-"설정을 적용하십시오."
+msgstr "구성이 변경되었습니다. 브라우저를 사용하는 경우 브라우저를 다시 시작하여 새 설정을 적용하십시오."
 
 msgid "Se estiver utilizando algum navegador, feche-o e abra novamente!"
 msgstr "브라우저를 사용하는 경우 브라우저를 닫았다가 다시 여십시오!"
@@ -86,9 +84,6 @@ msgstr "사용성"
 msgid "Tema dos aplicativos"
 msgstr "앱 테마"
 
-msgid "Fechar"
-msgstr ""
-
 msgid "Bordas arredondadas."
 msgstr "모서리가 둥글다."
 
@@ -96,8 +91,7 @@ msgid ""
 "Esse tema possui transparências com efeitos que<br>podem tornar o sistema "
 "lento em computadores<br>antigos ou ambientes virtualizados."
 msgstr ""
-"이 테마에는 <br><br>이전 컴퓨터 또는 가상화된 환경에서 시스템 속도를 저하시"
-"킬 수 있는 효과가 있는 투명 필름이 있습니다."
+"이 테마에는 <br><br>이전 컴퓨터 또는 가상화된 환경에서 시스템 속도를 저하시킬 수 있는 효과가 있는 투명 필름이 있습니다."
 
 msgid "<b>Classic</b> e <b>New</b> têm melhor desempenho."
 msgstr "<b>클래식과</b> <b>뉴 퍼포먼스가</b> 더 좋습니다."
@@ -115,8 +109,7 @@ msgid ""
 "O Preload carrega arquivos dos programas na memória, para que iniciem "
 "rapidamente. O uso excessivo causa lentidão. Escolha a opção desejada:"
 msgstr ""
-"Preload는 프로그램 파일을 메모리에 로드하여 빠르게 시작합니다.과도하게 사용하"
-"면 속도가 느려집니다.원하는 옵션을 선택합니다."
+"Preload는 프로그램 파일을 메모리에 로드하여 빠르게 시작합니다.과도하게 사용하면 속도가 느려집니다.원하는 옵션을 선택합니다."
 
 msgid "Automático"
 msgstr "자동"
@@ -171,9 +164,7 @@ msgstr "데스크톱 설정"
 msgid ""
 "Você já utilizou esse desktop antes, deseja  restaurar sua personalização ou "
 "utilizar a configuração original?"
-msgstr ""
-"이전에 이 데스크톱을 사용해 본 적이 있습니까? 개인 설정을 복원하거나 원래 구"
-"성을 사용하시겠습니까?"
+msgstr "이전에 이 데스크톱을 사용해 본 적이 있습니까? 개인 설정을 복원하거나 원래 구성을 사용하시겠습니까?"
 
 msgid "Sim"
 msgstr "예"

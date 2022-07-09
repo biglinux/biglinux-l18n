@@ -2,20 +2,20 @@
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the biglinux-driver-manager package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
+# 
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: biglinux-driver-manager\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-07-09 02:16-0300\n"
+"POT-Creation-Date: 2022-06-21 03:19-0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: tr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
+"Content-Transfer-Encoding: 8bit"
 
 msgid "O Big-Hardware-Relatory já está em uso."
 msgstr "Big-Hardware-Relatory zaten kullanımda."
@@ -50,9 +50,6 @@ msgstr "Engelli"
 
 msgid "Informações de Hardware"
 msgstr "Donanım Bilgileri"
-
-msgid "Fechar"
-msgstr ""
 
 msgid "Enviar para transfer.sh"
 msgstr "Transfer.sh dosyasına gönder"
@@ -127,9 +124,6 @@ msgstr "Arama sonucu"
 
 msgid "Big-Driver-Manager"
 msgstr "Big-Driver-Manager"
-
-msgid "Abrir"
-msgstr ""
 
 msgid "Instalar ou Remover Drivers e Firmwares"
 msgstr "Sürücüleri ve Ürün Yazılımını Yükleme veya Kaldırma"
@@ -236,9 +230,6 @@ msgstr "Depolama"
 msgid "Mais informações"
 msgstr "Daha fazla bilgi"
 
-msgid "Hardware"
-msgstr ""
-
 msgid "Pesquisar"
 msgstr "Arama"
 
@@ -287,9 +278,6 @@ msgstr "İnternette yayınlanabilecek bilgileri içeren bir dosya oluşturur."
 
 msgid "Categoria"
 msgstr "Kategori"
-
-msgid "Nome"
-msgstr ""
 
 msgid "ID"
 msgstr "KIMLIK"

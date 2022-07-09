@@ -3,18 +3,18 @@
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the big-store package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
+# 
 # #-#-#-#-#  python.pot (PACKAGE VERSION)  #-#-#-#-#
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) YEAR ORGANIZATION
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
+# 
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-07-09 02:16-0300\n"
+"POT-Creation-Date: 2022-07-08 12:29-0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -22,25 +22,13 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: pygettext.py 1.5\n"
+"Generated-By: pygettext.py 1.5"
 
 msgid "Big-Store está aberta."
 msgstr "大卖场开张了。"
 
 msgid "Big-Store"
 msgstr "BigStore"
-
-#, fuzzy
-msgid "Instalar"
-msgstr "安装"
-
-#, fuzzy
-msgid "Remover"
-msgstr "消除："
-
-#
-msgid "Internet"
-msgstr ""
 
 msgid "Navegadores"
 msgstr "浏览器"
@@ -69,10 +57,6 @@ msgstr "网络工具"
 msgid "Notícias, Feeds e RSS"
 msgstr "新闻、提要和RSS"
 
-#, fuzzy
-msgid "Escritório"
-msgstr "存储库。"
-
 msgid "Suíte Office"
 msgstr "办公套件"
 
@@ -84,10 +68,6 @@ msgstr "PDF编辑"
 
 msgid "Agenda de tarefas e contatos"
 msgstr "任务和联系人的日历"
-
-#
-msgid "Gráficos"
-msgstr ""
 
 msgid "Visualizadores de imagem"
 msgstr "图片浏览者"
@@ -103,10 +83,6 @@ msgstr "转换、调整大小或压缩图像"
 
 msgid "Edição 3D e CAD"
 msgstr "3D和CAD编辑"
-
-#
-msgid "Multimídia"
-msgstr ""
 
 msgid "Reprodutores de áudio"
 msgstr "音频播放器"
@@ -134,10 +110,6 @@ msgstr "CD和DVD刻录机和复印机"
 
 msgid "Webcam, gravação de tela e transmissão de vídeo"
 msgstr "网络摄像头、屏幕录制和视频流"
-
-#
-msgid "Jogos"
-msgstr ""
 
 msgid "Gerenciadores de jogos"
 msgstr "游戏经理"
@@ -175,14 +147,6 @@ msgstr "董事会"
 msgid "RPG"
 msgstr "角色扮演"
 
-#
-msgid "Outros"
-msgstr ""
-
-#
-msgid "Sistema"
-msgstr ""
-
 msgid "Armazenamento e partições"
 msgstr "储存和隔断"
 
@@ -194,10 +158,6 @@ msgstr "Java JRE"
 
 msgid "Virtualização"
 msgstr "虚拟化"
-
-#
-msgid "Desenvolvimento"
-msgstr ""
 
 msgid "Editores de código e IDE"
 msgstr "代码编辑器和IDE"
@@ -213,26 +173,6 @@ msgstr "本地方案"
 
 msgid "Programas AUR"
 msgstr "AUR方案"
-
-#
-msgid "Instalado na partição:"
-msgstr ""
-
-#
-msgid "Tamanho da partição:"
-msgstr ""
-
-#
-msgid "Espaço utilizado:"
-msgstr ""
-
-#
-msgid "Espaço livre:"
-msgstr ""
-
-#
-msgid "Data que o sistema foi instalado:"
-msgstr ""
 
 msgid "Pacotes nativos e AUR"
 msgstr "原生包和AUR"
@@ -267,10 +207,6 @@ msgstr "未被告知"
 msgid "Atualizar"
 msgstr "更新"
 
-#
-msgid "Categorias"
-msgstr ""
-
 msgid "Versão instalada"
 msgstr "安装的版本"
 
@@ -280,10 +216,6 @@ msgstr "现有版本"
 msgid "Versão"
 msgstr "版本"
 
-#
-msgid "Fechar"
-msgstr ""
-
 msgid "Pacote .deb"
 msgstr ".deb包"
 
@@ -291,14 +223,6 @@ msgid ""
 "Esse programa está em formato .deb, que possui a melhor integração com o "
 "sistema."
 msgstr "这个程序是.deb格式，与系统有最好的整合。"
-
-#, fuzzy
-msgid "Mais informações"
-msgstr "设置"
-
-#
-msgid "Voltar"
-msgstr ""
 
 msgid "Dependências a instalar"
 msgstr "需要安装的依赖性"
@@ -332,10 +256,6 @@ msgstr "可用的版本。"
 
 msgid "Repositório:"
 msgstr "存储库。"
-
-#
-msgid "Cancelar"
-msgstr ""
 
 msgid "Instalando"
 msgstr "安装"
@@ -372,10 +292,6 @@ msgstr "节目包"
 msgid "Ativado"
 msgstr "已激活"
 
-#, fuzzy
-msgid "Desativado"
-msgstr "已激活"
-
 msgid "Atualizações"
 msgstr "更新"
 
@@ -401,17 +317,13 @@ msgid ""
 "Atualizar as chaves dos repositórios BigLinux, Manjaro e Archlinux. Lembre "
 "que se você ativou repositórios complementares será necessário adicionar as "
 "chaves desses repositórios novamente."
-msgstr ""
-"更新BigLinux、Manjaro和Archlinux存储库的密钥。记住，如果你已经激活了补充库，"
-"将需要再次添加这些库的密钥。"
+msgstr "更新BigLinux、Manjaro和Archlinux存储库的密钥。记住，如果你已经激活了补充库，将需要再次添加这些库的密钥。"
 
 msgid ""
 "Forçar atualizações, utilize essa opção se não estiver conseguindo atualizar "
 "o sistema, porém, na atualização forçada alguns programas podem ser "
 "removidos."
-msgstr ""
-"强制更新，如果你无法更新系统，就使用这个选项，然而，在强制更新中，一些程序可"
-"能被删除。"
+msgstr "强制更新，如果你无法更新系统，就使用这个选项，然而，在强制更新中，一些程序可能被删除。"
 
 msgid "Repositórios nativos"
 msgstr ""
@@ -490,10 +402,6 @@ msgstr ""
 "只显示 选定的 节目<br>\n"
 "并隐藏了一些有用的结果<br>\n"
 "只对高级用户开放。"
-
-#
-msgid "Aplicando - Aguarde"
-msgstr ""
 
 msgid "Procurar programa"
 msgstr "搜索程序"

@@ -2,20 +2,20 @@
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the biglinux-driver-manager package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
+# 
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: biglinux-driver-manager\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-07-09 02:16-0300\n"
+"POT-Creation-Date: 2022-06-21 03:19-0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: nl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
+"Content-Transfer-Encoding: 8bit"
 
 msgid "O Big-Hardware-Relatory já está em uso."
 msgstr "De Big-Hardware-Relatory is al in gebruik."
@@ -51,9 +51,6 @@ msgstr "Uitgeschakeld"
 
 msgid "Informações de Hardware"
 msgstr "Hardware-informatie"
-
-msgid "Fechar"
-msgstr ""
 
 msgid "Enviar para transfer.sh"
 msgstr "Stuur naar transfer.sh"
@@ -127,9 +124,6 @@ msgstr "Zoekresultaat"
 
 msgid "Big-Driver-Manager"
 msgstr "Grote-Driver-Manager"
-
-msgid "Abrir"
-msgstr ""
 
 msgid "Instalar ou Remover Drivers e Firmwares"
 msgstr "Stuurprogramma's en firmware installeren of verwijderen"
@@ -237,9 +231,6 @@ msgstr "Opslag"
 msgid "Mais informações"
 msgstr "Meer informatie"
 
-msgid "Hardware"
-msgstr ""
-
 msgid "Pesquisar"
 msgstr "Zoeken"
 
@@ -286,12 +277,10 @@ msgstr "Genereer verslag"
 msgid "Cria um arquivo com informações que pode ser publicado na internet."
 msgstr ""
 "Maakt een bestand met informatie die op het internet gepubliceerd kan worden."
+""
 
 msgid "Categoria"
 msgstr "Categorie"
-
-msgid "Nome"
-msgstr ""
 
 msgid "ID"
 msgstr "ID"

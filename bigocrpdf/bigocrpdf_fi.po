@@ -2,20 +2,20 @@
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the bigocrpdf package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
+# 
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: bigocrpdf\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-07-09 02:16-0300\n"
+"POT-Creation-Date: 2022-07-08 14:40-0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: fi\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
+"Content-Transfer-Encoding: 8bit"
 
 msgid "Torne seu PDF pesquisável"
 msgstr "Tee PDF-tiedostostasi hakukelpoinen"
@@ -69,7 +69,8 @@ msgstr "Määränpää:"
 msgid "Aplicar"
 msgstr "Hae"
 
-msgid "Adicionar OCR no PDF digitalizado permitindo seleção de textos e busca:"
+msgid ""
+"Adicionar OCR no PDF digitalizado permitindo seleção de textos e busca:"
 msgstr ""
 "Lisää skannattuun PDF-tiedostoon OCR, joka mahdollistaa tekstin valinnan ja "
 "haun:"
@@ -103,9 +104,6 @@ msgstr "Kansio:"
 
 msgid "OCR para PDF"
 msgstr "OCR PDF:lle"
-
-msgid "Concluído!"
-msgstr ""
 
 msgid "Salvo em: "
 msgstr "Tallennettu sisään "

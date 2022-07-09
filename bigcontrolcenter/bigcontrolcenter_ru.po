@@ -2,20 +2,20 @@
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the bigcontrolcenter package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
+# 
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: bigcontrolcenter\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-07-09 02:16-0300\n"
+"POT-Creation-Date: 2022-07-08 12:29-0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
+"Content-Transfer-Encoding: 8bit"
 
 msgid ""
 "A webcam já está sendo utilizada pelo programa: $WEBCAM_BUSY\n"
@@ -30,20 +30,11 @@ msgstr ""
 "Внесенные изменения можно увидеть\n"
 "в изображении вашей веб-камеры в других программах."
 
-msgid "Webcam"
-msgstr ""
-
 msgid "Category"
 msgstr "Категория"
 
 msgid "Name"
 msgstr "Имя"
-
-msgid "ID"
-msgstr ""
-
-msgid "Info"
-msgstr ""
 
 msgid ""
 "O relatório foi salvo no arquivo $FILE_TO_SAVE\n"
@@ -57,9 +48,6 @@ msgstr ""
 msgid "Visualizar o relatório"
 msgstr "Посмотреть отчет"
 
-msgid "Fechar"
-msgstr ""
-
 msgid "Hardinfo Relatory"
 msgstr "Hardinfo Relatory"
 
@@ -68,15 +56,6 @@ msgstr "Введение в BigLinux"
 
 msgid "Central de Controle"
 msgstr "Центр управления"
-
-msgid "Bom dia"
-msgstr ""
-
-msgid "Boa tarde"
-msgstr ""
-
-msgid "Boa noite"
-msgstr ""
 
 msgid "Aguarde, carregando..."
 msgstr "Приготовьтесь, загрузка..."
@@ -102,10 +81,6 @@ msgid ""
 msgstr ""
 "Мы предоставляем полные конфигурации, из которых вы можете выбрать очень "
 "простой способ."
-
-#, fuzzy
-msgid "Temas, Desktop e Ajustes"
-msgstr "Темы, рабочий стол и настройки"
 
 msgid "Escolha seu Avatar"
 msgstr "Выберите свой Аватар"
@@ -164,9 +139,6 @@ msgstr "Шумоподавитель"
 
 msgid "Configurar a voz do sistema (TTS)"
 msgstr "Настройка системного голоса (TTS)"
-
-msgid "OCR para PDF"
-msgstr ""
 
 msgid "Doação e Redes sociais"
 msgstr "Пожертвования и социальные сети"
@@ -368,7 +340,8 @@ msgid "Gerenciador de usuários"
 msgstr "Менеджер пользователей"
 
 msgid "Adiciona, remove ou edita usuários e grupos do sistema."
-msgstr "Добавление, удаление или редактирование пользователей и групп системы."
+msgstr ""
+"Добавление, удаление или редактирование пользователей и групп системы."
 
 msgid "Gerenciar arquivos"
 msgstr "Управление файлами"
@@ -444,16 +417,6 @@ msgstr "Настройки экрана были сброшены."
 msgid "Configurações da tela"
 msgstr "Настройки экрана"
 
-#, fuzzy
-msgid "Categorias"
-msgstr "Категория"
-
-msgid "Principais"
-msgstr ""
-
-msgid "Sistema"
-msgstr ""
-
 msgid "Aparência"
 msgstr "Внешний вид"
 
@@ -465,9 +428,6 @@ msgstr "Настроить"
 
 msgid "Telefone"
 msgstr "Телефон"
-
-msgid "Multimídia"
-msgstr ""
 
 msgid "Rede e Internet"
 msgstr "Сеть и Интернет"
@@ -484,23 +444,11 @@ msgstr "Конфиденциальность"
 msgid "Servidor"
 msgstr "Сервер"
 
-msgid "Desenvolvimento"
-msgstr ""
-
 msgid "Sobre"
 msgstr "О сайте"
 
-msgid "Outros"
-msgstr ""
-
 msgid "Pesquisar..."
 msgstr "Поиск..."
-
-msgid "Resultado da pesquisa"
-msgstr ""
-
-msgid "Abrir"
-msgstr ""
 
 msgid "Temas, desktop e ajustes"
 msgstr "Темы, рабочий стол и настройки"
@@ -555,6 +503,7 @@ msgid ""
 "conexão do seu dispositivo Android.\n"
 "<br>\n"
 "*Caso esteja utilizando o dados móveis, será consumido do seu plano de dados."
+""
 msgstr ""
 "Как пользоваться Интернетом с планшета или смартфона Android:\n"
 "<br><br>\n"

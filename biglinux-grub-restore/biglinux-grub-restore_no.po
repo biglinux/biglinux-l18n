@@ -2,20 +2,20 @@
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the biglinux-grub-restore package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
+# 
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: biglinux-grub-restore\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-07-09 02:16-0300\n"
+"POT-Creation-Date: 2022-06-21 03:19-0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: no\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
+"Content-Transfer-Encoding: 8bit"
 
 msgid "Este utilitário deve ser utilizado somente no modo live!"
 msgstr "Dette verktøyet skal bare brukes i live-modus!"
@@ -37,9 +37,6 @@ msgstr ""
 
 msgid "Restaurar o Boot, Grub e initrd"
 msgstr "Gjenopprett Boot, Grub og Initrd"
-
-msgid "Aguarde..."
-msgstr ""
 
 msgid ""
 "Não encontrei nenhum Linux instalado neste computador, processo cancelado.\n"
@@ -72,8 +69,10 @@ msgstr ""
 "datamaskinens BIOS.\n"
 "Vil du prøve det selv når det ikke er sannsynlig å jobbe?"
 
-msgid "Encontrei mais de uma partição EFI, selecione qual devo utilizar:\n"
-msgstr "Jeg fant mer enn en EFI-partisjon, velg hvilken jeg skal bruke:\n"
+msgid ""
+"Encontrei mais de uma partição EFI, selecione qual devo utilizar:\n"
+msgstr ""
+"Jeg fant mer enn en EFI-partisjon, velg hvilken jeg skal bruke:\n"
 
 msgid "Nenhuma partição EFI selecionada, processo cancelado."
 msgstr "Ingen EFI-partisjon valgt, prosessen kansellert."
@@ -186,10 +185,8 @@ msgstr "Interaktiv, åpner kontrollsenteret i det valgte systemet."
 msgid ""
 "Interativa, abre o gerenciador de pacotes pamac-manager dentro do sistema "
 "selecionado."
-msgstr "Interaktiv, åpner pamac-manager pakkebehandling i det valgte systemet."
-
-msgid "Concluído!"
 msgstr ""
+"Interaktiv, åpner pamac-manager pakkebehandling i det valgte systemet."
 
 msgid ""
 "Confirme os dados\n"

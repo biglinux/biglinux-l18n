@@ -2,20 +2,20 @@
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the biglinux-grub-restore package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
+# 
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: biglinux-grub-restore\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-07-09 02:16-0300\n"
+"POT-Creation-Date: 2022-06-21 03:19-0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: de\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
+"Content-Transfer-Encoding: 8bit"
 
 msgid "Este utilitário deve ser utilizado somente no modo live!"
 msgstr "Dieses Tool darf nur im Live-Modus verwendet werden!"
@@ -37,9 +37,6 @@ msgstr ""
 
 msgid "Restaurar o Boot, Grub e initrd"
 msgstr "Boot, Grub und initrd wiederherstellen"
-
-msgid "Aguarde..."
-msgstr ""
 
 msgid ""
 "Não encontrei nenhum Linux instalado neste computador, processo cancelado.\n"
@@ -74,7 +71,8 @@ msgstr ""
 "booten.\n"
 "Möchten Sie es versuchen, auch wenn es wahrscheinlich nicht funktioniert?"
 
-msgid "Encontrei mais de uma partição EFI, selecione qual devo utilizar:\n"
+msgid ""
+"Encontrei mais de uma partição EFI, selecione qual devo utilizar:\n"
 msgstr ""
 "Ich habe mehr als eine EFI-Partition gefunden, wählen Sie die zu verwendende "
 "aus:\n"
@@ -168,6 +166,7 @@ msgstr "Beschreibung"
 msgid "Simples, apenas grava o Grub novamente no início do disco."
 msgstr ""
 "Ganz einfach: Schreiben Sie Grub einfach an den Anfang der Festplatte zurück."
+""
 
 msgid ""
 "Intermediária, reinstala o pacote do grub na partição, gera novamente a "
@@ -196,9 +195,6 @@ msgid ""
 msgstr ""
 "Interaktiv, öffnet den Paketmanager pamac-manager auf dem ausgewählten "
 "System."
-
-msgid "Concluído!"
-msgstr ""
 
 msgid ""
 "Confirme os dados\n"

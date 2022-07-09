@@ -2,20 +2,20 @@
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the calamares-biglinux package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
+# 
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: calamares-biglinux\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-07-09 02:17-0300\n"
+"POT-Creation-Date: 2022-06-21 03:19-0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: zh\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
+"Content-Transfer-Encoding: 8bit"
 
 msgid ""
 "O boot atual está utilizando o modo EFI, porém não encontrei nenhuma "
@@ -26,9 +26,7 @@ msgid ""
 "\n"
 "Deseja prosseguir com com a instalação em modo EFI?"
 msgstr ""
-"目前的启动是使用EFI模式，然而我在这台电脑上没有发现任何EFI分区，如果这台电脑"
-"已经安装了另一个系统，并且你希望它继续安装，你可能需要改变BIOS中的设置，以"
-"Legacy模式启动，也叫BIOS模式。\n"
+"目前的启动是使用EFI模式，然而我在这台电脑上没有发现任何EFI分区，如果这台电脑已经安装了另一个系统，并且你希望它继续安装，你可能需要改变BIOS中的设置，以Legacy模式启动，也叫BIOS模式。\n"
 "\n"
 "你想继续进行EFI安装吗？"
 
@@ -43,8 +41,8 @@ msgid ""
 "\n"
 "Deseja prosseguir com com a instalação em modo Legacy/BIOS?"
 msgstr ""
-"目前的启动是使用传统/BIOS模式，然而我发现这台电脑上至少有一个EFI分区。为了成"
-"功安装，你可能需要改变BIOS中的设置，在EFI或UEFI模式下启动。\n"
+"目前的启动是使用传统/"
+"BIOS模式，然而我发现这台电脑上至少有一个EFI分区。为了成功安装，你可能需要改变BIOS中的设置，在EFI或UEFI模式下启动。\n"
 "\n"
 "你想继续进行遗留/BIOS安装吗？"
 

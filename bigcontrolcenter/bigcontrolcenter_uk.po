@@ -2,20 +2,20 @@
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the bigcontrolcenter package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
+# 
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: bigcontrolcenter\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-07-09 02:16-0300\n"
+"POT-Creation-Date: 2022-07-08 12:29-0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: uk\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
+"Content-Transfer-Encoding: 8bit"
 
 msgid ""
 "A webcam já está sendo utilizada pelo programa: $WEBCAM_BUSY\n"
@@ -25,20 +25,11 @@ msgid ""
 "na imagem da sua webcam em outros programas."
 msgstr "Веб-камера вже використовується програмою: $WEBCAM_BUSY"
 
-msgid "Webcam"
-msgstr ""
-
 msgid "Category"
 msgstr "Категорія"
 
 msgid "Name"
 msgstr "ім'я"
-
-msgid "ID"
-msgstr ""
-
-msgid "Info"
-msgstr ""
 
 msgid ""
 "O relatório foi salvo no arquivo $FILE_TO_SAVE\n"
@@ -52,9 +43,6 @@ msgstr ""
 msgid "Visualizar o relatório"
 msgstr "Переглянути звіт"
 
-msgid "Fechar"
-msgstr ""
-
 msgid "Hardinfo Relatory"
 msgstr "Звіт Hardinfo"
 
@@ -63,15 +51,6 @@ msgstr "Знайомство з BigLinux"
 
 msgid "Central de Controle"
 msgstr "Центр управління"
-
-msgid "Bom dia"
-msgstr ""
-
-msgid "Boa tarde"
-msgstr ""
-
-msgid "Boa noite"
-msgstr ""
 
 msgid "Aguarde, carregando..."
 msgstr "Зачекайте, завантаження..."
@@ -97,10 +76,6 @@ msgid ""
 msgstr ""
 "Ми надаємо повні налаштування, які можна вибрати надзвичайно простим "
 "способом."
-
-#, fuzzy
-msgid "Temas, Desktop e Ajustes"
-msgstr "Теми, робочий стіл і налаштування"
 
 msgid "Escolha seu Avatar"
 msgstr "Виберіть свій аватар"
@@ -162,9 +137,6 @@ msgstr "Зменшення шуму"
 
 msgid "Configurar a voz do sistema (TTS)"
 msgstr "Налаштувати системний голос (TTS)"
-
-msgid "OCR para PDF"
-msgstr ""
 
 msgid "Doação e Redes sociais"
 msgstr "Пожертвування та соціальні мережі"
@@ -270,7 +242,8 @@ msgid "Particionar ou formatar"
 msgstr "розділ або формат"
 
 msgid "Cuidado, este programa poderá apagar todos os dados do computador."
-msgstr "Будьте обережні, ця програма може стерти всі дані з вашого комп’ютера."
+msgstr ""
+"Будьте обережні, ця програма може стерти всі дані з вашого комп’ютера."
 
 msgid "Firewall"
 msgstr "брандмауер"
@@ -436,16 +409,6 @@ msgstr "Налаштування екрану скинуті."
 msgid "Configurações da tela"
 msgstr "налаштування екрана"
 
-#, fuzzy
-msgid "Categorias"
-msgstr "Категорія"
-
-msgid "Principais"
-msgstr ""
-
-msgid "Sistema"
-msgstr ""
-
 msgid "Aparência"
 msgstr "Зовнішній вигляд"
 
@@ -457,9 +420,6 @@ msgstr "Персоналізуйте"
 
 msgid "Telefone"
 msgstr "Телефон"
-
-msgid "Multimídia"
-msgstr ""
 
 msgid "Rede e Internet"
 msgstr "Мережа та Інтернет"
@@ -476,23 +436,11 @@ msgstr "Конфіденційність"
 msgid "Servidor"
 msgstr "сервер"
 
-msgid "Desenvolvimento"
-msgstr ""
-
 msgid "Sobre"
 msgstr "Про"
 
-msgid "Outros"
-msgstr ""
-
 msgid "Pesquisar..."
 msgstr "Шукати..."
-
-msgid "Resultado da pesquisa"
-msgstr ""
-
-msgid "Abrir"
-msgstr ""
 
 msgid "Temas, desktop e ajustes"
 msgstr "Теми, робочий стіл і налаштування"
@@ -547,16 +495,17 @@ msgid ""
 "conexão do seu dispositivo Android.\n"
 "<br>\n"
 "*Caso esteja utilizando o dados móveis, será consumido do seu plano de dados."
+""
 msgstr ""
-"Як користуватися Інтернетом зі свого планшета чи смартфона Android:"
-"<br><br>1. Підключіть пристрій до USB комп’ютера;<br>2. Перейдіть до "
-"налаштувань свого пристрою Android і знайдіть деякі з опцій: «USB-модем», "
-"«USB-модем» або «USB-модем».<br>Існують різні способи використання однієї "
-"функції кожним виробником.<br><br> * Ці параметри знаходяться в розділі "
-"\"Мережа та Інтернет\" або \"Підключення та спільний доступ\".<br><br>Після "
-"активації ви будете автоматично підключені, і ви використовуватимете те саме "
-"з’єднання, що й ваш пристрій Android.<br>* Якщо ви використовуєте мобільні "
-"дані, вони будуть споживані з вашого тарифного плану."
+"Як користуватися Інтернетом зі свого планшета чи смартфона Android:<br><br>1."
+" Підключіть пристрій до USB комп’ютера;<br>2. Перейдіть до налаштувань свого "
+"пристрою Android і знайдіть деякі з опцій: «USB-модем», «USB-модем» або «USB-"
+"модем».<br>Існують різні способи використання однієї функції кожним "
+"виробником.<br><br> * Ці параметри знаходяться в розділі \"Мережа та "
+"Інтернет\" або \"Підключення та спільний доступ\".<br><br>Після активації ви "
+"будете автоматично підключені, і ви використовуватимете те саме з’єднання, "
+"що й ваш пристрій Android.<br>* Якщо ви використовуєте мобільні дані, вони "
+"будуть споживані з вашого тарифного плану."
 
 msgid "Visualizar informações do sistema e hardware"
 msgstr "Перегляд інформації про систему та обладнання"
@@ -623,11 +572,11 @@ msgid ""
 "desse site."
 msgstr ""
 "Встановіть програму Airdroid із магазину додатків вашого смартфона. "
-"Використовуйте цю кнопку, щоб відкрити веб-сайт Airdroid на цьому "
-"комп’ютері. Прочитайте QR-код, який буде відображатися на екрані вашого "
-"комп’ютера, за допомогою програми на вашому смартфоні та отримайте доступ до "
-"передачі файлів тощо. Ви також можете використовувати наш менеджер веб-"
-"програм, щоб полегшити використання цього сайту."
+"Використовуйте цю кнопку, щоб відкрити веб-сайт Airdroid на цьому комп’ютері."
+" Прочитайте QR-код, який буде відображатися на екрані вашого комп’ютера, за "
+"допомогою програми на вашому смартфоні та отримайте доступ до передачі "
+"файлів тощо. Ви також можете використовувати наш менеджер веб-програм, щоб "
+"полегшити використання цього сайту."
 
 msgid "Suporte a aplicativos Android"
 msgstr "Підтримка додатків для Android"

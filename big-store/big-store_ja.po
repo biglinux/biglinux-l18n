@@ -3,18 +3,18 @@
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the big-store package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
+# 
 # #-#-#-#-#  python.pot (PACKAGE VERSION)  #-#-#-#-#
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) YEAR ORGANIZATION
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
+# 
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-07-09 02:16-0300\n"
+"POT-Creation-Date: 2022-07-08 12:29-0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -22,25 +22,13 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: pygettext.py 1.5\n"
+"Generated-By: pygettext.py 1.5"
 
 msgid "Big-Store está aberta."
 msgstr "ビッグストアがオープンしました。"
 
 msgid "Big-Store"
 msgstr "ビッグストア"
-
-#, fuzzy
-msgid "Instalar"
-msgstr "インストール"
-
-#, fuzzy
-msgid "Remover"
-msgstr "削除する："
-
-#
-msgid "Internet"
-msgstr ""
 
 msgid "Navegadores"
 msgstr "ブラウザー"
@@ -69,10 +57,6 @@ msgstr "ネットワークツール"
 msgid "Notícias, Feeds e RSS"
 msgstr "ニュース、フィード、RSS"
 
-#, fuzzy
-msgid "Escritório"
-msgstr "リポジトリです。"
-
 msgid "Suíte Office"
 msgstr "オフィススイート"
 
@@ -84,10 +68,6 @@ msgstr "PDFエディター"
 
 msgid "Agenda de tarefas e contatos"
 msgstr "タスクと連絡先のカレンダー"
-
-#
-msgid "Gráficos"
-msgstr ""
 
 msgid "Visualizadores de imagem"
 msgstr "画像ビューアー"
@@ -103,10 +83,6 @@ msgstr "画像の変換、リサイズ、圧縮"
 
 msgid "Edição 3D e CAD"
 msgstr "3D・CAD編集"
-
-#
-msgid "Multimídia"
-msgstr ""
 
 msgid "Reprodutores de áudio"
 msgstr "オーディオプレーヤー"
@@ -134,10 +110,6 @@ msgstr "CD・DVDレコーダー、コピー機"
 
 msgid "Webcam, gravação de tela e transmissão de vídeo"
 msgstr "ウェブカメラ、画面録画、ビデオストリーミング"
-
-#
-msgid "Jogos"
-msgstr ""
 
 msgid "Gerenciadores de jogos"
 msgstr "ゲーム担当者"
@@ -175,14 +147,6 @@ msgstr "ボード"
 msgid "RPG"
 msgstr "ロールプレイングゲーム"
 
-#
-msgid "Outros"
-msgstr ""
-
-#
-msgid "Sistema"
-msgstr ""
-
 msgid "Armazenamento e partições"
 msgstr "収納・仕切り"
 
@@ -194,10 +158,6 @@ msgstr "ジャバ JRE"
 
 msgid "Virtualização"
 msgstr "仮想化"
-
-#
-msgid "Desenvolvimento"
-msgstr ""
 
 msgid "Editores de código e IDE"
 msgstr "コードエディターとIDE"
@@ -213,26 +173,6 @@ msgstr "ネイティブプログラム"
 
 msgid "Programas AUR"
 msgstr "AURプログラム"
-
-#
-msgid "Instalado na partição:"
-msgstr ""
-
-#
-msgid "Tamanho da partição:"
-msgstr ""
-
-#
-msgid "Espaço utilizado:"
-msgstr ""
-
-#
-msgid "Espaço livre:"
-msgstr ""
-
-#
-msgid "Data que o sistema foi instalado:"
-msgstr ""
 
 msgid "Pacotes nativos e AUR"
 msgstr "ネイティブパッケージとAUR"
@@ -253,8 +193,7 @@ msgid "Pacotes Snap"
 msgstr "スナップパッケージ"
 
 msgid "Pacotes Snap Instalados clique no pacote para remover"
-msgstr ""
-"インストールされているスナップパッケージ 削除するパッケージをクリックする"
+msgstr "インストールされているスナップパッケージ 削除するパッケージをクリックする"
 
 msgid "Versão: "
 msgstr "バージョン "
@@ -268,10 +207,6 @@ msgstr "非通知"
 msgid "Atualizar"
 msgstr "更新情報"
 
-#
-msgid "Categorias"
-msgstr ""
-
 msgid "Versão instalada"
 msgstr "インストールされているバージョン"
 
@@ -281,26 +216,13 @@ msgstr "使用可能なバージョン"
 msgid "Versão"
 msgstr "バージョン"
 
-#
-msgid "Fechar"
-msgstr ""
-
 msgid "Pacote .deb"
 msgstr ".debパッケージ"
 
 msgid ""
 "Esse programa está em formato .deb, que possui a melhor integração com o "
 "sistema."
-msgstr ""
-"本プログラムは、システムとの連携が最も優れている.deb形式を採用しています。"
-
-#, fuzzy
-msgid "Mais informações"
-msgstr "設定"
-
-#
-msgid "Voltar"
-msgstr ""
+msgstr "本プログラムは、システムとの連携が最も優れている.deb形式を採用しています。"
 
 msgid "Dependências a instalar"
 msgstr "インストールする依存関係"
@@ -335,10 +257,6 @@ msgstr "バージョンあり。"
 msgid "Repositório:"
 msgstr "リポジトリです。"
 
-#
-msgid "Cancelar"
-msgstr ""
-
 msgid "Instalando"
 msgstr "インストール"
 
@@ -363,9 +281,7 @@ msgstr "パッカー"
 msgid ""
 "Para os programas Snap aparecerem no menu do sistema finalize a sessão e "
 "faça login novamente."
-msgstr ""
-"システムメニューにSnapプログラムを表示するには、一度ログアウトし、再度ログイ"
-"ンしてください。"
+msgstr "システムメニューにSnapプログラムを表示するには、一度ログアウトし、再度ログインしてください。"
 
 msgid "Configurações"
 msgstr "設定"
@@ -374,10 +290,6 @@ msgid "Pacotes"
 msgstr "パッケージ"
 
 msgid "Ativado"
-msgstr "起動中"
-
-#, fuzzy
-msgid "Desativado"
 msgstr "起動中"
 
 msgid "Atualizações"
@@ -406,17 +318,15 @@ msgid ""
 "que se você ativou repositórios complementares será necessário adicionar as "
 "chaves desses repositórios novamente."
 msgstr ""
-"BigLinux、Manjaro、Archlinux レポジトリーのキーを更新しました。補完的なリポジ"
-"トリを有効にしている場合は、これらのリポジトリのキーを再度追加する必要がある"
-"ことを忘れないでください。"
+"BigLinux、Manjaro、Archlinux "
+"レポジトリーのキーを更新しました。補完的なリポジトリを有効にしている場合は、これらのリポジトリのキーを再度追加する必要があることを忘れないでください。"
 
 msgid ""
 "Forçar atualizações, utilize essa opção se não estiver conseguindo atualizar "
 "o sistema, porém, na atualização forçada alguns programas podem ser "
 "removidos."
 msgstr ""
-"強制アップデートは、システムのアップデートができない場合に使用します。ただ"
-"し、強制アップデートでは一部のプログラムが削除されることがあります。"
+"強制アップデートは、システムのアップデートができない場合に使用します。ただし、強制アップデートでは一部のプログラムが削除されることがあります。"
 
 msgid "Repositórios nativos"
 msgstr ""
@@ -431,8 +341,7 @@ msgstr ""
 "\n"
 "ネイティブ・プログラムがよりシステムに統合される<br>\n"
 "を作成し、さらにテストを経て発売されます。<br>\n"
-"ということで、「SuperSpeed」「SuperSpeed」「SuperSpeed」「SuperSpeed」の3つが"
-"あります。<br>\n"
+"ということで、「SuperSpeed」「SuperSpeed」「SuperSpeed」「SuperSpeed」の3つがあります。<br>\n"
 "は、複数種類の設置が可能です。<br>"
 
 msgid ""
@@ -463,10 +372,8 @@ msgid ""
 "de processamento e armazenamento."
 msgstr ""
 "\n"
-"Flatpakプログラムは、すべてのLinuxディストリビューションで利用可能です。"
-"<br>\n"
-"Linuxディストリビューションは、通常、プログラムによってメンテナンスされていま"
-"す<br>\n"
+"Flatpakプログラムは、すべてのLinuxディストリビューションで利用可能です。<br>\n"
+"Linuxディストリビューションは、通常、プログラムによってメンテナンスされています<br>\n"
 "を作成することはできません。<br>\n"
 "で発生するような最適化、システムとの統合を行う。<br>\n"
 "ネイティブ・プログラムの良い代替品になります。<br>\n"
@@ -483,8 +390,7 @@ msgid ""
 msgstr ""
 "\n"
 "Flatpakのようなスナッププログラム<br>\n"
-"は、すべてのLinuxディストリビューションに対応したソフトウェアを提供していま"
-"す。<br>\n"
+"は、すべてのLinuxディストリビューションに対応したソフトウェアを提供しています。<br>\n"
 "重くなりがちで、システムとの一体感も薄れがちですが<br>\n"
 "探しているプログラムが、このサイトでしか入手できない場合は<br>\n"
 "形式を使用してください。"
@@ -499,10 +405,6 @@ msgstr ""
 "選択した 番組のみ表示<br>\n"
 "で、有用な結果は非表示になります<br>\n"
 "は上級者向けです。"
-
-#
-msgid "Aplicando - Aguarde"
-msgstr ""
 
 msgid "Procurar programa"
 msgstr "検索プログラム"

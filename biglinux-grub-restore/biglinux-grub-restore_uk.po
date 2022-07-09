@@ -2,20 +2,20 @@
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the biglinux-grub-restore package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
+# 
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: biglinux-grub-restore\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-07-09 02:16-0300\n"
+"POT-Creation-Date: 2022-06-21 03:19-0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: uk\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
+"Content-Transfer-Encoding: 8bit"
 
 msgid "Este utilitário deve ser utilizado somente no modo live!"
 msgstr "Цю утиліту слід використовувати тільки в режимі реального часу!"
@@ -37,9 +37,6 @@ msgstr ""
 
 msgid "Restaurar o Boot, Grub e initrd"
 msgstr "Відновлення завантаження, Grub та Initrd"
-
-msgid "Aguarde..."
-msgstr ""
 
 msgid ""
 "Não encontrei nenhum Linux instalado neste computador, processo cancelado.\n"
@@ -73,7 +70,8 @@ msgstr ""
 "завантажитися в режим EFI через BIOS комп'ютера.\n"
 "Хочете спробувати навіть тоді, коли це навряд чи вийде?"
 
-msgid "Encontrei mais de uma partição EFI, selecione qual devo utilizar:\n"
+msgid ""
+"Encontrei mais de uma partição EFI, selecione qual devo utilizar:\n"
 msgstr ""
 "Я знайшов більше одного розділу EFI, виберіть, який я повинен "
 "використовувати:\n"
@@ -191,9 +189,6 @@ msgid ""
 "selecionado."
 msgstr ""
 "Інтерактивний, відкриває менеджер пакетів pamac-manager у вибраній системі."
-
-msgid "Concluído!"
-msgstr ""
 
 msgid ""
 "Confirme os dados\n"

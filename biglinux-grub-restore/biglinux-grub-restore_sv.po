@@ -2,20 +2,20 @@
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the biglinux-grub-restore package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
+# 
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: biglinux-grub-restore\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-07-09 02:16-0300\n"
+"POT-Creation-Date: 2022-06-21 03:19-0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: sv\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
+"Content-Transfer-Encoding: 8bit"
 
 msgid "Este utilitário deve ser utilizado somente no modo live!"
 msgstr "Det här verktyget får endast användas i live-läge!"
@@ -37,9 +37,6 @@ msgstr ""
 
 msgid "Restaurar o Boot, Grub e initrd"
 msgstr "Återställa Boot, Grub och initrd"
-
-msgid "Aguarde..."
-msgstr ""
 
 msgid ""
 "Não encontrei nenhum Linux instalado neste computador, processo cancelado.\n"
@@ -73,8 +70,10 @@ msgstr ""
 "för att starta upp i EFI-läge.\n"
 "Vill du prova även om det är osannolikt att det kommer att fungera?"
 
-msgid "Encontrei mais de uma partição EFI, selecione qual devo utilizar:\n"
-msgstr "Jag hittade mer än en EFI-partition, välj vilken du vill använda:\n"
+msgid ""
+"Encontrei mais de uma partição EFI, selecione qual devo utilizar:\n"
+msgstr ""
+"Jag hittade mer än en EFI-partition, välj vilken du vill använda:\n"
 
 msgid "Nenhuma partição EFI selecionada, processo cancelado."
 msgstr "Ingen EFI-partition vald, processen avbryts."
@@ -187,10 +186,8 @@ msgstr "Interaktiv, öppnar kontrollcentralen i det valda systemet."
 msgid ""
 "Interativa, abre o gerenciador de pacotes pamac-manager dentro do sistema "
 "selecionado."
-msgstr "Interaktiv, öppnar pakethanteraren pamac-manager i det valda systemet."
-
-msgid "Concluído!"
 msgstr ""
+"Interaktiv, öppnar pakethanteraren pamac-manager i det valda systemet."
 
 msgid ""
 "Confirme os dados\n"

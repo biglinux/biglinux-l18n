@@ -2,20 +2,20 @@
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the calamares-biglinux package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
+# 
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: calamares-biglinux\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-07-09 02:17-0300\n"
+"POT-Creation-Date: 2022-06-21 03:19-0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: sv\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
+"Content-Transfer-Encoding: 8bit"
 
 msgid ""
 "O boot atual está utilizando o modo EFI, porém não encontrei nenhuma "
@@ -47,8 +47,8 @@ msgid ""
 msgstr ""
 "Den aktuella uppstarten sker i Legacy/BIOS-läge, men jag hittade minst en "
 "EFI-partition på datorn. För att installationen ska lyckas måste du "
-"förmodligen ändra inställningen i BIOS för att starta i EFI- eller UEFI-"
-"läge.\n"
+"förmodligen ändra inställningen i BIOS för att starta i EFI- eller UEFI-läge."
+"\n"
 "\n"
 "Vill du fortsätta med installationen av Legacy/BIOS?"
 

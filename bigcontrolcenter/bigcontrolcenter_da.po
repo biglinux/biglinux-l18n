@@ -2,20 +2,20 @@
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the bigcontrolcenter package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
+# 
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: bigcontrolcenter\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-07-09 02:16-0300\n"
+"POT-Creation-Date: 2022-07-08 12:29-0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: da\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
+"Content-Transfer-Encoding: 8bit"
 
 msgid ""
 "A webcam já está sendo utilizada pelo programa: $WEBCAM_BUSY\n"
@@ -30,20 +30,11 @@ msgstr ""
 "De foretagne ændringer kan ses\n"
 "i billedet af dit webcam i andre programmer."
 
-msgid "Webcam"
-msgstr ""
-
 msgid "Category"
 msgstr "Kategori"
 
 msgid "Name"
 msgstr "Navn"
-
-msgid "ID"
-msgstr ""
-
-msgid "Info"
-msgstr ""
 
 msgid ""
 "O relatório foi salvo no arquivo $FILE_TO_SAVE\n"
@@ -57,9 +48,6 @@ msgstr ""
 msgid "Visualizar o relatório"
 msgstr "Se rapporten"
 
-msgid "Fechar"
-msgstr ""
-
 msgid "Hardinfo Relatory"
 msgstr "Hardinfo Relativ"
 
@@ -68,15 +56,6 @@ msgstr "Introduktion til BigLinux"
 
 msgid "Central de Controle"
 msgstr "Kontrolcenter"
-
-msgid "Bom dia"
-msgstr ""
-
-msgid "Boa tarde"
-msgstr ""
-
-msgid "Boa noite"
-msgstr ""
 
 msgid "Aguarde, carregando..."
 msgstr "Vær klar til at indlæse..."
@@ -102,10 +81,6 @@ msgid ""
 msgstr ""
 "Vi tilbyder komplette konfigurationer, som du kan vælge mellem på en meget "
 "enkel måde."
-
-#, fuzzy
-msgid "Temas, Desktop e Ajustes"
-msgstr "Temaer, skrivebord og indstillinger"
 
 msgid "Escolha seu Avatar"
 msgstr "Vælg din avatar"
@@ -164,9 +139,6 @@ msgstr "Reducerer støj"
 
 msgid "Configurar a voz do sistema (TTS)"
 msgstr "Indstilling af systemstemmen (TTS)"
-
-msgid "OCR para PDF"
-msgstr ""
 
 msgid "Doação e Redes sociais"
 msgstr "Donation og sociale netværk"
@@ -442,16 +414,6 @@ msgstr "Skærmindstillingerne er blevet nulstillet."
 msgid "Configurações da tela"
 msgstr "Skærmindstillinger"
 
-#, fuzzy
-msgid "Categorias"
-msgstr "Kategori"
-
-msgid "Principais"
-msgstr ""
-
-msgid "Sistema"
-msgstr ""
-
 msgid "Aparência"
 msgstr "Udseende"
 
@@ -463,9 +425,6 @@ msgstr "Tilpas"
 
 msgid "Telefone"
 msgstr "Telefon"
-
-msgid "Multimídia"
-msgstr ""
 
 msgid "Rede e Internet"
 msgstr "Netværk og internet"
@@ -482,23 +441,11 @@ msgstr "Privatliv"
 msgid "Servidor"
 msgstr "Server"
 
-msgid "Desenvolvimento"
-msgstr ""
-
 msgid "Sobre"
 msgstr "Om"
 
-msgid "Outros"
-msgstr ""
-
 msgid "Pesquisar..."
 msgstr "Søg..."
-
-msgid "Resultado da pesquisa"
-msgstr ""
-
-msgid "Abrir"
-msgstr ""
 
 msgid "Temas, desktop e ajustes"
 msgstr "Temaer, skrivebord og indstillinger"
@@ -553,6 +500,7 @@ msgid ""
 "conexão do seu dispositivo Android.\n"
 "<br>\n"
 "*Caso esteja utilizando o dados móveis, será consumido do seu plano de dados."
+""
 msgstr ""
 "Sådan bruger du internettet fra din Android-tablet eller -smartphone:\n"
 "<br><br>\n"

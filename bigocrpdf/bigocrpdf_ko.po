@@ -2,20 +2,20 @@
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the bigocrpdf package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
+# 
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: bigocrpdf\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-07-09 02:16-0300\n"
+"POT-Creation-Date: 2022-07-08 14:40-0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
+"Content-Transfer-Encoding: 8bit"
 
 msgid "Torne seu PDF pesquisável"
 msgstr "PDF를 검색 가능하게 만들기"
@@ -29,8 +29,8 @@ msgid ""
 msgstr ""
 "OCR을 적용 할 PDF 파일을 선택하면 텍스트를 검색하거나 복사 할 수 있습니다.\n"
 "\n"
-"파일 관리자를 사용하여 PDF 파일을 마우스 오른쪽 버튼으로 클릭하고 '연결 프로"
-"그램'을 선택한 다음 OCR 옵션을 선택할 수도 있습니다."
+"파일 관리자를 사용하여 PDF 파일을 마우스 오른쪽 버튼으로 클릭하고 '연결 프로그램'을 선택한 다음 OCR 옵션을 선택할 수도 있습니다."
+""
 
 msgid "Normal"
 msgstr "일반"
@@ -68,7 +68,8 @@ msgstr "목적지:"
 msgid "Aplicar"
 msgstr "적용"
 
-msgid "Adicionar OCR no PDF digitalizado permitindo seleção de textos e busca:"
+msgid ""
+"Adicionar OCR no PDF digitalizado permitindo seleção de textos e busca:"
 msgstr "스캔한 PDF에 OCR을 추가하여 텍스트 선택 및 검색을 허용합니다."
 
 msgid "Quantidade de arquivos:"
@@ -100,9 +101,6 @@ msgstr "폴더:"
 
 msgid "OCR para PDF"
 msgstr "OCR을 PDF로 변환"
-
-msgid "Concluído!"
-msgstr ""
 
 msgid "Salvo em: "
 msgstr "저장 위치: "

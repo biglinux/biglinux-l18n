@@ -2,20 +2,20 @@
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the biglinux-session-and-themes package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
+# 
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: biglinux-session-and-themes\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-07-09 02:16-0300\n"
+"POT-Creation-Date: 2022-07-08 12:29-0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: he\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
+"Content-Transfer-Encoding: 8bit"
 
 msgid "Temas, Desktop e Ajustes"
 msgstr "ערכות נושא, שולחן עבודה והתאמות"
@@ -25,6 +25,7 @@ msgid ""
 "que a nova configuração seja aplicada."
 msgstr ""
 "התצורה השתנתה, אם אתה משתמש בדפדפן, הפעל אותו מחדש כדי להחיל את ההגדרה החדשה."
+""
 
 msgid "Se estiver utilizando algum navegador, feche-o e abra novamente!"
 msgstr "אם אתה משתמש בדפדפן, סגור אותו ופתח אותו שוב!"
@@ -84,9 +85,6 @@ msgstr "שמישות"
 
 msgid "Tema dos aplicativos"
 msgstr "נושא אפליקציות"
-
-msgid "Fechar"
-msgstr ""
 
 msgid "Bordas arredondadas."
 msgstr "קצוות מעוגלים."
