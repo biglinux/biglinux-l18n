@@ -17,6 +17,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit"
 
+msgid "Temas, Desktop e Ajustes"
+msgstr "Temi, Desktop e Impostazioni"
+
 msgid ""
 "Configuração alterada, se estiver utilizando o navegador, reinicie-o para "
 "que a nova configuração seja aplicada."
@@ -83,6 +86,9 @@ msgstr "Usabilità"
 
 msgid "Tema dos aplicativos"
 msgstr "Tema dell'applicazione"
+
+msgid "Fechar"
+msgstr "Chiudere"
 
 msgid "Bordas arredondadas."
 msgstr "Bordi arrotondati."

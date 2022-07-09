@@ -17,6 +17,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit"
 
+msgid "Temas, Desktop e Ajustes"
+msgstr "Θέματα, επιφάνεια εργασίας και ρυθμίσεις"
+
 msgid ""
 "Configuração alterada, se estiver utilizando o navegador, reinicie-o para "
 "que a nova configuração seja aplicada."
@@ -85,6 +88,9 @@ msgstr "Ευχρηστία"
 
 msgid "Tema dos aplicativos"
 msgstr "Θέμα εφαρμογής"
+
+msgid "Fechar"
+msgstr "Κλείστε το"
 
 msgid "Bordas arredondadas."
 msgstr "Στρογγυλεμένες άκρες."

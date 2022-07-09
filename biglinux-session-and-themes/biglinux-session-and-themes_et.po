@@ -17,6 +17,9 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit"
 
+msgid "Temas, Desktop e Ajustes"
+msgstr "Teemad, töölaud ja seaded"
+
 msgid ""
 "Configuração alterada, se estiver utilizando o navegador, reinicie-o para "
 "que a nova configuração seja aplicada."
@@ -82,6 +85,9 @@ msgstr "Kasutatavus"
 
 msgid "Tema dos aplicativos"
 msgstr "Rakenduse teema"
+
+msgid "Fechar"
+msgstr "Sulge"
 
 msgid "Bordas arredondadas."
 msgstr "Ümarad servad."
