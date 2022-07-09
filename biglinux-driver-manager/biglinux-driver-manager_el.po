@@ -2,20 +2,20 @@
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the biglinux-driver-manager package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
+# 
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: biglinux-driver-manager\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-07-09 14:19-0300\n"
+"POT-Creation-Date: 2022-07-09 04:17-0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: el\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
+"Content-Transfer-Encoding: 8bit"
 
 msgid "O Big-Hardware-Relatory já está em uso."
 msgstr "Το Big-Hardware-Relatory χρησιμοποιείται ήδη."
@@ -32,6 +32,7 @@ msgstr "Αυτό το πρόγραμμα οδήγησης είναι ιδιόκ�
 msgid "Este driver parece compatível com este computador."
 msgstr ""
 "Αυτό το πρόγραμμα οδήγησης φαίνεται να είναι συμβατό με αυτόν τον υπολογιστή."
+""
 
 msgid "Remover"
 msgstr "Αφαιρέστε το"
@@ -313,9 +314,8 @@ msgstr ""
 msgid "Driver ou firmware"
 msgstr "Πρόγραμμα οδήγησης ή υλικολογισμικό"
 
-#, fuzzy
 msgid "Aplicando - Aguarde"
-msgstr "Αποστολή, παρακαλώ περιμένετε..."
+msgstr "Εφαρμογή - Παρακαλώ περιμένετε"
 
 msgid "Este pacote fornece arquivos compatíveis com este computador."
 msgstr "Αυτό το πακέτο παρέχει αρχεία συμβατά με αυτόν τον υπολογιστή."
