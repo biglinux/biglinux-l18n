@@ -113,7 +113,7 @@ msgid "Selecione o navegador preferido:"
 msgstr "選擇您喜歡的瀏覽器："
 
 msgid "WebApps Nativos"
-msgstr "WebApps 當地人"
+msgstr "本地网络应用程序"
 
 msgid "Aguarde, estamos preparando para começar..."
 msgstr "等等，我們準備開始..."

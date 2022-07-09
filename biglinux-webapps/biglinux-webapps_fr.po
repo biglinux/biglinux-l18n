@@ -115,7 +115,7 @@ msgid "Selecione o navegador preferido:"
 msgstr "Sélectionnez votre navigateur préféré :"
 
 msgid "WebApps Nativos"
-msgstr "Applications Web natives"
+msgstr "WebApps natives"
 
 msgid "Aguarde, estamos preparando para começar..."
 msgstr "Attendez, nous nous préparons à commencer..."
