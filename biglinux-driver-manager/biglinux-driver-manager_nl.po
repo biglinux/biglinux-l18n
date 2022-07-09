@@ -2,20 +2,20 @@
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the biglinux-driver-manager package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-# 
+#
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: biglinux-driver-manager\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-07-09 04:17-0300\n"
+"POT-Creation-Date: 2022-07-09 14:17-0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: nl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit"
+"Content-Transfer-Encoding: 8bit\n"
 
 msgid "O Big-Hardware-Relatory já está em uso."
 msgstr "De Big-Hardware-Relatory is al in gebruik."
@@ -71,82 +71,6 @@ msgstr ""
 "Wilt u het bestand bekijken of naar transfer.sh sturen, om een URL te hebben "
 "met de gegevens van uw computer op een gemakkelijke manier te delen?"
 
-msgid "Categorias"
-msgstr "Categorieën"
-
-msgid "Principais"
-msgstr "Hoofd"
-
-msgid "Driver detectado:"
-msgstr "Gedetecteerd stuurprogramma:"
-
-msgid "<small>* A detecção não inclui impressoras e scanners</small>"
-msgstr "<small>* Detectie omvat geen printers en scanners</small>"
-
-msgid "Placa de vídeo"
-msgstr "Videokaart"
-
-msgid "Wifi"
-msgstr "Wifi"
-
-msgid "Rede Cabeada"
-msgstr "Bekabeld Netwerk"
-
-msgid "Bluetooth"
-msgstr "Bluetooth"
-
-msgid "Impressora"
-msgstr "Printer"
-
-msgid "Impressora 3D"
-msgstr "3D-printer"
-
-msgid "Scanner"
-msgstr "Scanner"
-
-msgid "TV Digital"
-msgstr "Digitale TV"
-
-msgid "Webcam"
-msgstr "Webcam"
-
-msgid "Touchscreen"
-msgstr "Touchscreen"
-
-msgid "Som"
-msgstr "Geluid"
-
-msgid "Outros"
-msgstr "Andere"
-
-msgid "Pesquisar Driver ou Firmware"
-msgstr "Stuurprogramma of firmware zoeken"
-
-msgid "Resultado da pesquisa"
-msgstr "Zoekresultaat"
-
-msgid "Big-Driver-Manager"
-msgstr "Grote-Driver-Manager"
-
-msgid "Abrir"
-msgstr "Open"
-
-msgid "Instalar ou Remover Drivers e Firmwares"
-msgstr "Stuurprogramma's en firmware installeren of verwijderen"
-
-msgid ""
-"Geralmente é preciso reiniciar o computador para o driver ou firmware ser "
-"aplicado."
-msgstr ""
-"Meestal moet de computer opnieuw opgestart worden om het stuurprogramma of "
-"de firmware te kunnen toepassen."
-
-msgid "Driver ou firmware"
-msgstr "Stuurprogramma of firmware"
-
-msgid "Este pacote fornece arquivos compatíveis com este computador."
-msgstr "Dit pakket bevat bestanden die compatibel zijn met deze computer."
-
 msgid "Concluído, reinicie o computador para ativar a configuração do driver."
 msgstr ""
 "Zodra u klaar bent, herstart u uw computer om de driverconfiguratie te "
@@ -176,6 +100,9 @@ msgstr "Geheugen"
 
 msgid "Swap (Memória Virtual)"
 msgstr "Swap (virtueel geheugen)"
+
+msgid "Placa de vídeo"
+msgstr "Videokaart"
 
 msgid "Áudio"
 msgstr "Audio"
@@ -219,8 +146,29 @@ msgstr "Systeeminformatie"
 msgid "Repositórios"
 msgstr "Repositories"
 
+msgid "Bluetooth"
+msgstr "Bluetooth"
+
 msgid "Temperatura"
 msgstr "Temperatuur"
+
+msgid ""
+"Digite sua senha para gerar um relatório removendo dados sensíveis, por "
+"exemplo, endereço de IP, ou cancele para utilizar as informações da tela "
+"anterior."
+msgstr ""
+"Voer uw wachtwoord in om een rapport te genereren waarin gevoelige gegevens, "
+"b.v. IP-adres, worden verwijderd, of annuleer om de informatie van het "
+"vorige scherm te gebruiken."
+
+msgid "Digite sua senha para gerar um relatório mais completo."
+msgstr "Voer uw wachtwoord in om een vollediger rapport te genereren."
+
+msgid "Categorias"
+msgstr "Categorieën"
+
+msgid "Principais"
+msgstr "Hoofd"
 
 msgid "Resumo"
 msgstr "Samenvatting"
@@ -234,6 +182,9 @@ msgstr "Pci"
 msgid "Armazenamento"
 msgstr "Opslag"
 
+msgid "Impressora"
+msgstr "Printer"
+
 msgid "Mais informações"
 msgstr "Meer informatie"
 
@@ -242,6 +193,12 @@ msgstr "Hardware"
 
 msgid "Pesquisar"
 msgstr "Zoeken"
+
+msgid "Resultado da pesquisa"
+msgstr "Zoekresultaat"
+
+msgid "Abrir"
+msgstr "Open"
 
 msgid "Informações Sobre o Sistema e o Hardware"
 msgstr "Systeem en Hardware Informatie"
@@ -286,7 +243,6 @@ msgstr "Genereer verslag"
 msgid "Cria um arquivo com informações que pode ser publicado na internet."
 msgstr ""
 "Maakt een bestand met informatie die op het internet gepubliceerd kan worden."
-""
 
 msgid "Categoria"
 msgstr "Categorie"
@@ -300,14 +256,61 @@ msgstr "ID"
 msgid "Info"
 msgstr "Info"
 
-msgid ""
-"Digite sua senha para gerar um relatório removendo dados sensíveis, por "
-"exemplo, endereço de IP, ou cancele para utilizar as informações da tela "
-"anterior."
-msgstr ""
-"Voer uw wachtwoord in om een rapport te genereren waarin gevoelige gegevens, "
-"b.v. IP-adres, worden verwijderd, of annuleer om de informatie van het "
-"vorige scherm te gebruiken."
+msgid "Driver detectado:"
+msgstr "Gedetecteerd stuurprogramma:"
 
-msgid "Digite sua senha para gerar um relatório mais completo."
-msgstr "Voer uw wachtwoord in om een vollediger rapport te genereren."
+msgid "<small>* A detecção não inclui impressoras e scanners</small>"
+msgstr "<small>* Detectie omvat geen printers en scanners</small>"
+
+msgid "Wifi"
+msgstr "Wifi"
+
+msgid "Rede Cabeada"
+msgstr "Bekabeld Netwerk"
+
+msgid "Impressora 3D"
+msgstr "3D-printer"
+
+msgid "Scanner"
+msgstr "Scanner"
+
+msgid "TV Digital"
+msgstr "Digitale TV"
+
+msgid "Webcam"
+msgstr "Webcam"
+
+msgid "Touchscreen"
+msgstr "Touchscreen"
+
+msgid "Som"
+msgstr "Geluid"
+
+msgid "Outros"
+msgstr "Andere"
+
+msgid "Pesquisar Driver ou Firmware"
+msgstr "Stuurprogramma of firmware zoeken"
+
+msgid "Big-Driver-Manager"
+msgstr "Grote-Driver-Manager"
+
+msgid "Instalar ou Remover Drivers e Firmwares"
+msgstr "Stuurprogramma's en firmware installeren of verwijderen"
+
+msgid ""
+"Geralmente é preciso reiniciar o computador para o driver ou firmware ser "
+"aplicado."
+msgstr ""
+"Meestal moet de computer opnieuw opgestart worden om het stuurprogramma of "
+"de firmware te kunnen toepassen."
+
+msgid "Driver ou firmware"
+msgstr "Stuurprogramma of firmware"
+
+#, fuzzy
+msgid "Aplicando - Aguarde"
+msgstr "Zenden, even geduld..."
+
+msgid "Este pacote fornece arquivos compatíveis com este computador."
+msgstr "Dit pakket bevat bestanden die compatibel zijn met deze computer."

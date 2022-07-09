@@ -2,20 +2,20 @@
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the biglinux-driver-manager package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-# 
+#
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: biglinux-driver-manager\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-07-09 04:17-0300\n"
+"POT-Creation-Date: 2022-07-09 14:17-0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: sk\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit"
+"Content-Transfer-Encoding: 8bit\n"
 
 msgid "O Big-Hardware-Relatory já está em uso."
 msgstr "Veľký hardvér - Relatory sa už používa."
@@ -70,82 +70,6 @@ msgstr ""
 "Chcete zobraziť súbor alebo ho odoslať do transfer.sh, aby ste mali adresu "
 "URL s údajmi z vášho počítača, ktoré môžete jednoducho zdieľať?"
 
-msgid "Categorias"
-msgstr "Kategórie"
-
-msgid "Principais"
-msgstr "Hlavná stránka"
-
-msgid "Driver detectado:"
-msgstr "Zistený vodič:"
-
-msgid "<small>* A detecção não inclui impressoras e scanners</small>"
-msgstr "<small>* Detekcia nezahŕňa tlačiarne a skenery</small>"
-
-msgid "Placa de vídeo"
-msgstr "Grafická karta"
-
-msgid "Wifi"
-msgstr "Wifi"
-
-msgid "Rede Cabeada"
-msgstr "Drôtová sieť"
-
-msgid "Bluetooth"
-msgstr "Bluetooth"
-
-msgid "Impressora"
-msgstr "Tlačiareň"
-
-msgid "Impressora 3D"
-msgstr "3D tlačiareň"
-
-msgid "Scanner"
-msgstr "Skener"
-
-msgid "TV Digital"
-msgstr "Digitálna televízia"
-
-msgid "Webcam"
-msgstr "Webová kamera"
-
-msgid "Touchscreen"
-msgstr "Dotykový displej"
-
-msgid "Som"
-msgstr "Zvuk"
-
-msgid "Outros"
-msgstr "Iné"
-
-msgid "Pesquisar Driver ou Firmware"
-msgstr "Vyhľadávanie ovládača alebo firmvéru"
-
-msgid "Resultado da pesquisa"
-msgstr "Výsledok vyhľadávania"
-
-msgid "Big-Driver-Manager"
-msgstr "Big-Driver-Manager"
-
-msgid "Abrir"
-msgstr "Otvorte stránku"
-
-msgid "Instalar ou Remover Drivers e Firmwares"
-msgstr "Inštalácia alebo odstránenie ovládačov a firmvéru"
-
-msgid ""
-"Geralmente é preciso reiniciar o computador para o driver ou firmware ser "
-"aplicado."
-msgstr ""
-"Aby sa ovládač alebo firmvér použil, je zvyčajne potrebné počítač "
-"reštartovať."
-
-msgid "Driver ou firmware"
-msgstr "Ovládač alebo firmvér"
-
-msgid "Este pacote fornece arquivos compatíveis com este computador."
-msgstr "Tento balík poskytuje súbory kompatibilné s týmto počítačom."
-
 msgid "Concluído, reinicie o computador para ativar a configuração do driver."
 msgstr ""
 "Po dokončení reštartujte počítač, aby sa aktivovala konfigurácia ovládača."
@@ -173,6 +97,9 @@ msgstr "Pamäť"
 
 msgid "Swap (Memória Virtual)"
 msgstr "Swap (virtuálna pamäť)"
+
+msgid "Placa de vídeo"
+msgstr "Grafická karta"
 
 msgid "Áudio"
 msgstr "Audio"
@@ -216,8 +143,29 @@ msgstr "Systémové informácie"
 msgid "Repositórios"
 msgstr "Úložiská"
 
+msgid "Bluetooth"
+msgstr "Bluetooth"
+
 msgid "Temperatura"
 msgstr "Teplota"
+
+msgid ""
+"Digite sua senha para gerar um relatório removendo dados sensíveis, por "
+"exemplo, endereço de IP, ou cancele para utilizar as informações da tela "
+"anterior."
+msgstr ""
+"Zadajte heslo, ak chcete vygenerovať správu s odstránením citlivých údajov, "
+"napr. IP adresy, alebo zrušte, ak chcete použiť informácie z predchádzajúcej "
+"obrazovky."
+
+msgid "Digite sua senha para gerar um relatório mais completo."
+msgstr "Ak chcete vygenerovať úplnejšiu správu, zadajte svoje heslo."
+
+msgid "Categorias"
+msgstr "Kategórie"
+
+msgid "Principais"
+msgstr "Hlavná stránka"
 
 msgid "Resumo"
 msgstr "Zhrnutie"
@@ -231,6 +179,9 @@ msgstr "Pci"
 msgid "Armazenamento"
 msgstr "Úložisko"
 
+msgid "Impressora"
+msgstr "Tlačiareň"
+
 msgid "Mais informações"
 msgstr "Viac informácií"
 
@@ -239,6 +190,12 @@ msgstr "Hardvér"
 
 msgid "Pesquisar"
 msgstr "Vyhľadávanie"
+
+msgid "Resultado da pesquisa"
+msgstr "Výsledok vyhľadávania"
+
+msgid "Abrir"
+msgstr "Otvorte stránku"
 
 msgid "Informações Sobre o Sistema e o Hardware"
 msgstr "Informácie o systéme a hardvéri"
@@ -295,14 +252,61 @@ msgstr "ID"
 msgid "Info"
 msgstr "Informácie"
 
-msgid ""
-"Digite sua senha para gerar um relatório removendo dados sensíveis, por "
-"exemplo, endereço de IP, ou cancele para utilizar as informações da tela "
-"anterior."
-msgstr ""
-"Zadajte heslo, ak chcete vygenerovať správu s odstránením citlivých údajov, "
-"napr. IP adresy, alebo zrušte, ak chcete použiť informácie z predchádzajúcej "
-"obrazovky."
+msgid "Driver detectado:"
+msgstr "Zistený vodič:"
 
-msgid "Digite sua senha para gerar um relatório mais completo."
-msgstr "Ak chcete vygenerovať úplnejšiu správu, zadajte svoje heslo."
+msgid "<small>* A detecção não inclui impressoras e scanners</small>"
+msgstr "<small>* Detekcia nezahŕňa tlačiarne a skenery</small>"
+
+msgid "Wifi"
+msgstr "Wifi"
+
+msgid "Rede Cabeada"
+msgstr "Drôtová sieť"
+
+msgid "Impressora 3D"
+msgstr "3D tlačiareň"
+
+msgid "Scanner"
+msgstr "Skener"
+
+msgid "TV Digital"
+msgstr "Digitálna televízia"
+
+msgid "Webcam"
+msgstr "Webová kamera"
+
+msgid "Touchscreen"
+msgstr "Dotykový displej"
+
+msgid "Som"
+msgstr "Zvuk"
+
+msgid "Outros"
+msgstr "Iné"
+
+msgid "Pesquisar Driver ou Firmware"
+msgstr "Vyhľadávanie ovládača alebo firmvéru"
+
+msgid "Big-Driver-Manager"
+msgstr "Big-Driver-Manager"
+
+msgid "Instalar ou Remover Drivers e Firmwares"
+msgstr "Inštalácia alebo odstránenie ovládačov a firmvéru"
+
+msgid ""
+"Geralmente é preciso reiniciar o computador para o driver ou firmware ser "
+"aplicado."
+msgstr ""
+"Aby sa ovládač alebo firmvér použil, je zvyčajne potrebné počítač "
+"reštartovať."
+
+msgid "Driver ou firmware"
+msgstr "Ovládač alebo firmvér"
+
+#, fuzzy
+msgid "Aplicando - Aguarde"
+msgstr "Odosielanie, počkajte, prosím..."
+
+msgid "Este pacote fornece arquivos compatíveis com este computador."
+msgstr "Tento balík poskytuje súbory kompatibilné s týmto počítačom."

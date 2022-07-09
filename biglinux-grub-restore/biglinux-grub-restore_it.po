@@ -2,20 +2,20 @@
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the biglinux-grub-restore package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-# 
+#
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: biglinux-grub-restore\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-07-09 04:17-0300\n"
+"POT-Creation-Date: 2022-07-09 14:17-0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: it\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit"
+"Content-Transfer-Encoding: 8bit\n"
 
 msgid "Este utilitário deve ser utilizado somente no modo live!"
 msgstr "Questa utility deve essere utilizzata solo in modalità live!"
@@ -37,6 +37,9 @@ msgstr ""
 
 msgid "Restaurar o Boot, Grub e initrd"
 msgstr "Ripristino di Boot, Grub e initrd"
+
+msgid "Aguarde..."
+msgstr ""
 
 msgid ""
 "Não encontrei nenhum Linux instalado neste computador, processo cancelado.\n"
@@ -70,15 +73,12 @@ msgstr ""
 "del computer per avviare la modalità EFI.\n"
 "Vuole provare anche se è improbabile che funzioni?"
 
-msgid ""
-"Encontrei mais de uma partição EFI, selecione qual devo utilizar:\n"
-msgstr ""
-"Ho trovato più di una partizione EFI, selezioni quale utilizzare:\n"
+msgid "Encontrei mais de uma partição EFI, selecione qual devo utilizar:\n"
+msgstr "Ho trovato più di una partizione EFI, selezioni quale utilizzare:\n"
 
 msgid "Nenhuma partição EFI selecionada, processo cancelado."
 msgstr ""
 "Non è stata selezionata alcuna partizione EFI, il processo è stato annullato."
-""
 
 msgid ""
 "Encontrei mais de um Linux instalado neste computador, selecione qual devo "
@@ -186,7 +186,6 @@ msgstr "Interattivo, apre un terminale all'interno del sistema selezionato."
 msgid "Interativa, abre a central de controle dentro do sistema selecionado."
 msgstr ""
 "Interattivo, apre il centro di controllo all'interno del sistema selezionato."
-""
 
 msgid ""
 "Interativa, abre o gerenciador de pacotes pamac-manager dentro do sistema "
@@ -194,6 +193,9 @@ msgid ""
 msgstr ""
 "Interattivo, apre il gestore di pacchetti pamac-manager nel sistema "
 "selezionato."
+
+msgid "Concluído!"
+msgstr ""
 
 msgid ""
 "Confirme os dados\n"

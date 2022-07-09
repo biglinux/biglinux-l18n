@@ -2,20 +2,20 @@
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the biglinux-grub-restore package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-# 
+#
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: biglinux-grub-restore\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-07-09 04:17-0300\n"
+"POT-Creation-Date: 2022-07-09 14:17-0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: et\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit"
+"Content-Transfer-Encoding: 8bit\n"
 
 msgid "Este utilitário deve ser utilizado somente no modo live!"
 msgstr "Seda utiliiti tuleb kasutada ainult reaalajas!"
@@ -37,6 +37,9 @@ msgstr ""
 
 msgid "Restaurar o Boot, Grub e initrd"
 msgstr "Taastage Boot, Grub ja initrd"
+
+msgid "Aguarde..."
+msgstr ""
 
 msgid ""
 "Não encontrei nenhum Linux instalado neste computador, processo cancelado.\n"
@@ -70,8 +73,7 @@ msgstr ""
 "arvuti bios'i, et käivitada EFI-režiimi.\n"
 "Tahad proovida, kuigi see tõenäoliselt ei toimi?"
 
-msgid ""
-"Encontrei mais de uma partição EFI, selecione qual devo utilizar:\n"
+msgid "Encontrei mais de uma partição EFI, selecione qual devo utilizar:\n"
 msgstr ""
 "Ma leidsin rohkem kui ühe EFI partitsiooni, valige, millist kasutada:\n"
 
@@ -187,6 +189,9 @@ msgid ""
 "Interativa, abre o gerenciador de pacotes pamac-manager dentro do sistema "
 "selecionado."
 msgstr "Interaktiivne, avab valitud süsteemis paketihalduri pamac-manager."
+
+msgid "Concluído!"
+msgstr ""
 
 msgid ""
 "Confirme os dados\n"

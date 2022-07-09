@@ -2,20 +2,20 @@
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the biglinux-driver-manager package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-# 
+#
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: biglinux-driver-manager\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-07-09 04:17-0300\n"
+"POT-Creation-Date: 2022-07-09 14:17-0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ro\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit"
+"Content-Transfer-Encoding: 8bit\n"
 
 msgid "O Big-Hardware-Relatory já está em uso."
 msgstr "Big-Hardware-Relatory este deja în uz."
@@ -70,82 +70,6 @@ msgstr ""
 "Doriți să vizualizați fișierul sau să îl trimiteți la transfer.sh, pentru a "
 "avea un URL cu datele de pe computerul dvs. într-un mod ușor de partajat?"
 
-msgid "Categorias"
-msgstr "Categorii"
-
-msgid "Principais"
-msgstr "Principal"
-
-msgid "Driver detectado:"
-msgstr "Driver detectat:"
-
-msgid "<small>* A detecção não inclui impressoras e scanners</small>"
-msgstr "<small>* Detectarea nu include imprimantele și scanerele</small>"
-
-msgid "Placa de vídeo"
-msgstr "Placa video"
-
-msgid "Wifi"
-msgstr "Wifi"
-
-msgid "Rede Cabeada"
-msgstr "Rețea cu fir"
-
-msgid "Bluetooth"
-msgstr "Bluetooth"
-
-msgid "Impressora"
-msgstr "Imprimantă"
-
-msgid "Impressora 3D"
-msgstr "Imprimanta 3D"
-
-msgid "Scanner"
-msgstr "Scanner"
-
-msgid "TV Digital"
-msgstr "Televiziune digitală"
-
-msgid "Webcam"
-msgstr "Webcam"
-
-msgid "Touchscreen"
-msgstr "Ecran tactil"
-
-msgid "Som"
-msgstr "Sunet"
-
-msgid "Outros"
-msgstr "Altele"
-
-msgid "Pesquisar Driver ou Firmware"
-msgstr "Căutare driver sau firmware"
-
-msgid "Resultado da pesquisa"
-msgstr "Rezultatul căutării"
-
-msgid "Big-Driver-Manager"
-msgstr "Big-Driver-Manager"
-
-msgid "Abrir"
-msgstr "Deschideți"
-
-msgid "Instalar ou Remover Drivers e Firmwares"
-msgstr "Instalarea sau eliminarea driverelor și a firmware-ului"
-
-msgid ""
-"Geralmente é preciso reiniciar o computador para o driver ou firmware ser "
-"aplicado."
-msgstr ""
-"De obicei, este necesar să reporniți computerul pentru ca driverul sau "
-"firmware-ul să fie aplicat."
-
-msgid "Driver ou firmware"
-msgstr "Driver sau firmware"
-
-msgid "Este pacote fornece arquivos compatíveis com este computador."
-msgstr "Acest pachet oferă fișiere compatibile cu acest computer."
-
 msgid "Concluído, reinicie o computador para ativar a configuração do driver."
 msgstr ""
 "După ce ați terminat, reporniți computerul pentru a activa configurația "
@@ -174,6 +98,9 @@ msgstr "Memorie"
 
 msgid "Swap (Memória Virtual)"
 msgstr "Swap (memorie virtuală)"
+
+msgid "Placa de vídeo"
+msgstr "Placa video"
 
 msgid "Áudio"
 msgstr "Audio"
@@ -217,8 +144,29 @@ msgstr "Informații de sistem"
 msgid "Repositórios"
 msgstr "Depozite"
 
+msgid "Bluetooth"
+msgstr "Bluetooth"
+
 msgid "Temperatura"
 msgstr "Temperatura"
+
+msgid ""
+"Digite sua senha para gerar um relatório removendo dados sensíveis, por "
+"exemplo, endereço de IP, ou cancele para utilizar as informações da tela "
+"anterior."
+msgstr ""
+"Introduceți parola pentru a genera un raport care elimină datele sensibile, "
+"de exemplu, adresa IP, sau anulați pentru a utiliza informațiile din ecranul "
+"anterior."
+
+msgid "Digite sua senha para gerar um relatório mais completo."
+msgstr "Introduceți parola dvs. pentru a genera un raport mai complet."
+
+msgid "Categorias"
+msgstr "Categorii"
+
+msgid "Principais"
+msgstr "Principal"
 
 msgid "Resumo"
 msgstr "Rezumat"
@@ -232,6 +180,9 @@ msgstr "Pci"
 msgid "Armazenamento"
 msgstr "Depozitare"
 
+msgid "Impressora"
+msgstr "Imprimantă"
+
 msgid "Mais informações"
 msgstr "Mai multe informații"
 
@@ -240,6 +191,12 @@ msgstr "Hardware"
 
 msgid "Pesquisar"
 msgstr "Căutare"
+
+msgid "Resultado da pesquisa"
+msgstr "Rezultatul căutării"
+
+msgid "Abrir"
+msgstr "Deschideți"
 
 msgid "Informações Sobre o Sistema e o Hardware"
 msgstr "Informații despre sistem și hardware"
@@ -297,14 +254,61 @@ msgstr "ID"
 msgid "Info"
 msgstr "Informații"
 
-msgid ""
-"Digite sua senha para gerar um relatório removendo dados sensíveis, por "
-"exemplo, endereço de IP, ou cancele para utilizar as informações da tela "
-"anterior."
-msgstr ""
-"Introduceți parola pentru a genera un raport care elimină datele sensibile, "
-"de exemplu, adresa IP, sau anulați pentru a utiliza informațiile din ecranul "
-"anterior."
+msgid "Driver detectado:"
+msgstr "Driver detectat:"
 
-msgid "Digite sua senha para gerar um relatório mais completo."
-msgstr "Introduceți parola dvs. pentru a genera un raport mai complet."
+msgid "<small>* A detecção não inclui impressoras e scanners</small>"
+msgstr "<small>* Detectarea nu include imprimantele și scanerele</small>"
+
+msgid "Wifi"
+msgstr "Wifi"
+
+msgid "Rede Cabeada"
+msgstr "Rețea cu fir"
+
+msgid "Impressora 3D"
+msgstr "Imprimanta 3D"
+
+msgid "Scanner"
+msgstr "Scanner"
+
+msgid "TV Digital"
+msgstr "Televiziune digitală"
+
+msgid "Webcam"
+msgstr "Webcam"
+
+msgid "Touchscreen"
+msgstr "Ecran tactil"
+
+msgid "Som"
+msgstr "Sunet"
+
+msgid "Outros"
+msgstr "Altele"
+
+msgid "Pesquisar Driver ou Firmware"
+msgstr "Căutare driver sau firmware"
+
+msgid "Big-Driver-Manager"
+msgstr "Big-Driver-Manager"
+
+msgid "Instalar ou Remover Drivers e Firmwares"
+msgstr "Instalarea sau eliminarea driverelor și a firmware-ului"
+
+msgid ""
+"Geralmente é preciso reiniciar o computador para o driver ou firmware ser "
+"aplicado."
+msgstr ""
+"De obicei, este necesar să reporniți computerul pentru ca driverul sau "
+"firmware-ul să fie aplicat."
+
+msgid "Driver ou firmware"
+msgstr "Driver sau firmware"
+
+#, fuzzy
+msgid "Aplicando - Aguarde"
+msgstr "Trimitere, vă rugăm să așteptați..."
+
+msgid "Este pacote fornece arquivos compatíveis com este computador."
+msgstr "Acest pachet oferă fișiere compatibile cu acest computer."

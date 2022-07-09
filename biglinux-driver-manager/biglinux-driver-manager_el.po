@@ -2,20 +2,20 @@
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the biglinux-driver-manager package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-# 
+#
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: biglinux-driver-manager\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-07-09 04:17-0300\n"
+"POT-Creation-Date: 2022-07-09 14:17-0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: el\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit"
+"Content-Transfer-Encoding: 8bit\n"
 
 msgid "O Big-Hardware-Relatory já está em uso."
 msgstr "Το Big-Hardware-Relatory χρησιμοποιείται ήδη."
@@ -32,7 +32,6 @@ msgstr "Αυτό το πρόγραμμα οδήγησης είναι ιδιόκ�
 msgid "Este driver parece compatível com este computador."
 msgstr ""
 "Αυτό το πρόγραμμα οδήγησης φαίνεται να είναι συμβατό με αυτόν τον υπολογιστή."
-""
 
 msgid "Remover"
 msgstr "Αφαιρέστε το"
@@ -74,82 +73,6 @@ msgstr ""
 "διεύθυνση URL με τα δεδομένα από τον υπολογιστή σας με εύκολο τρόπο για να "
 "τα μοιραστείτε"
 
-msgid "Categorias"
-msgstr "Κατηγορίες"
-
-msgid "Principais"
-msgstr "Κύρια"
-
-msgid "Driver detectado:"
-msgstr "Εντοπίστηκε οδηγός:"
-
-msgid "<small>* A detecção não inclui impressoras e scanners</small>"
-msgstr "<small>* Η ανίχνευση δεν περιλαμβάνει εκτυπωτές και σαρωτές</small>"
-
-msgid "Placa de vídeo"
-msgstr "Κάρτα βίντεο"
-
-msgid "Wifi"
-msgstr "Wifi"
-
-msgid "Rede Cabeada"
-msgstr "Ενσύρματο δίκτυο"
-
-msgid "Bluetooth"
-msgstr "Bluetooth"
-
-msgid "Impressora"
-msgstr "Εκτυπωτής"
-
-msgid "Impressora 3D"
-msgstr "Εκτυπωτής 3D"
-
-msgid "Scanner"
-msgstr "Σαρωτής"
-
-msgid "TV Digital"
-msgstr "Ψηφιακή τηλεόραση"
-
-msgid "Webcam"
-msgstr "Webcam"
-
-msgid "Touchscreen"
-msgstr "Οθόνη αφής"
-
-msgid "Som"
-msgstr "Ήχος"
-
-msgid "Outros"
-msgstr "Άλλα"
-
-msgid "Pesquisar Driver ou Firmware"
-msgstr "Αναζήτηση προγράμματος οδήγησης ή υλικολογισμικού"
-
-msgid "Resultado da pesquisa"
-msgstr "Αποτελέσματα αναζήτησης"
-
-msgid "Big-Driver-Manager"
-msgstr "Big-Driver-Manager"
-
-msgid "Abrir"
-msgstr "Ανοίξτε το"
-
-msgid "Instalar ou Remover Drivers e Firmwares"
-msgstr "Εγκατάσταση ή αφαίρεση οδηγών και υλικολογισμικού"
-
-msgid ""
-"Geralmente é preciso reiniciar o computador para o driver ou firmware ser "
-"aplicado."
-msgstr ""
-"Συνήθως είναι απαραίτητη η επανεκκίνηση του υπολογιστή για να εφαρμοστεί το "
-"πρόγραμμα οδήγησης ή το υλικολογισμικό."
-
-msgid "Driver ou firmware"
-msgstr "Πρόγραμμα οδήγησης ή υλικολογισμικό"
-
-msgid "Este pacote fornece arquivos compatíveis com este computador."
-msgstr "Αυτό το πακέτο παρέχει αρχεία συμβατά με αυτόν τον υπολογιστή."
-
 msgid "Concluído, reinicie o computador para ativar a configuração do driver."
 msgstr ""
 "Μόλις ολοκληρωθεί, επανεκκινήστε τον υπολογιστή σας για να ενεργοποιήσετε τη "
@@ -179,6 +102,9 @@ msgstr "Μνήμη"
 
 msgid "Swap (Memória Virtual)"
 msgstr "Swap (Εικονική μνήμη)"
+
+msgid "Placa de vídeo"
+msgstr "Κάρτα βίντεο"
 
 msgid "Áudio"
 msgstr "Ήχος"
@@ -222,8 +148,31 @@ msgstr "Πληροφορίες συστήματος"
 msgid "Repositórios"
 msgstr "Αποθετήρια"
 
+msgid "Bluetooth"
+msgstr "Bluetooth"
+
 msgid "Temperatura"
 msgstr "Θερμοκρασία"
+
+msgid ""
+"Digite sua senha para gerar um relatório removendo dados sensíveis, por "
+"exemplo, endereço de IP, ou cancele para utilizar as informações da tela "
+"anterior."
+msgstr ""
+"Εισάγετε τον κωδικό πρόσβασής σας για να δημιουργήσετε μια αναφορά που "
+"αφαιρεί ευαίσθητα δεδομένα, π.χ. διεύθυνση IP, ή ακυρώστε για να "
+"χρησιμοποιήσετε τις πληροφορίες από την προηγούμενη οθόνη."
+
+msgid "Digite sua senha para gerar um relatório mais completo."
+msgstr ""
+"Εισάγετε τον κωδικό πρόσβασής σας για να δημιουργήσετε μια πιο ολοκληρωμένη "
+"αναφορά."
+
+msgid "Categorias"
+msgstr "Κατηγορίες"
+
+msgid "Principais"
+msgstr "Κύρια"
 
 msgid "Resumo"
 msgstr "Περίληψη"
@@ -237,6 +186,9 @@ msgstr "Pci"
 msgid "Armazenamento"
 msgstr "Αποθήκευση"
 
+msgid "Impressora"
+msgstr "Εκτυπωτής"
+
 msgid "Mais informações"
 msgstr "Περισσότερες πληροφορίες"
 
@@ -245,6 +197,12 @@ msgstr "Υλικό"
 
 msgid "Pesquisar"
 msgstr "Αναζήτηση"
+
+msgid "Resultado da pesquisa"
+msgstr "Αποτελέσματα αναζήτησης"
+
+msgid "Abrir"
+msgstr "Ανοίξτε το"
 
 msgid "Informações Sobre o Sistema e o Hardware"
 msgstr "Πληροφορίες για το σύστημα και το υλικό"
@@ -303,16 +261,61 @@ msgstr "ID"
 msgid "Info"
 msgstr "Πληροφορίες"
 
-msgid ""
-"Digite sua senha para gerar um relatório removendo dados sensíveis, por "
-"exemplo, endereço de IP, ou cancele para utilizar as informações da tela "
-"anterior."
-msgstr ""
-"Εισάγετε τον κωδικό πρόσβασής σας για να δημιουργήσετε μια αναφορά που "
-"αφαιρεί ευαίσθητα δεδομένα, π.χ. διεύθυνση IP, ή ακυρώστε για να "
-"χρησιμοποιήσετε τις πληροφορίες από την προηγούμενη οθόνη."
+msgid "Driver detectado:"
+msgstr "Εντοπίστηκε οδηγός:"
 
-msgid "Digite sua senha para gerar um relatório mais completo."
+msgid "<small>* A detecção não inclui impressoras e scanners</small>"
+msgstr "<small>* Η ανίχνευση δεν περιλαμβάνει εκτυπωτές και σαρωτές</small>"
+
+msgid "Wifi"
+msgstr "Wifi"
+
+msgid "Rede Cabeada"
+msgstr "Ενσύρματο δίκτυο"
+
+msgid "Impressora 3D"
+msgstr "Εκτυπωτής 3D"
+
+msgid "Scanner"
+msgstr "Σαρωτής"
+
+msgid "TV Digital"
+msgstr "Ψηφιακή τηλεόραση"
+
+msgid "Webcam"
+msgstr "Webcam"
+
+msgid "Touchscreen"
+msgstr "Οθόνη αφής"
+
+msgid "Som"
+msgstr "Ήχος"
+
+msgid "Outros"
+msgstr "Άλλα"
+
+msgid "Pesquisar Driver ou Firmware"
+msgstr "Αναζήτηση προγράμματος οδήγησης ή υλικολογισμικού"
+
+msgid "Big-Driver-Manager"
+msgstr "Big-Driver-Manager"
+
+msgid "Instalar ou Remover Drivers e Firmwares"
+msgstr "Εγκατάσταση ή αφαίρεση οδηγών και υλικολογισμικού"
+
+msgid ""
+"Geralmente é preciso reiniciar o computador para o driver ou firmware ser "
+"aplicado."
 msgstr ""
-"Εισάγετε τον κωδικό πρόσβασής σας για να δημιουργήσετε μια πιο ολοκληρωμένη "
-"αναφορά."
+"Συνήθως είναι απαραίτητη η επανεκκίνηση του υπολογιστή για να εφαρμοστεί το "
+"πρόγραμμα οδήγησης ή το υλικολογισμικό."
+
+msgid "Driver ou firmware"
+msgstr "Πρόγραμμα οδήγησης ή υλικολογισμικό"
+
+#, fuzzy
+msgid "Aplicando - Aguarde"
+msgstr "Αποστολή, παρακαλώ περιμένετε..."
+
+msgid "Este pacote fornece arquivos compatíveis com este computador."
+msgstr "Αυτό το πακέτο παρέχει αρχεία συμβατά με αυτόν τον υπολογιστή."

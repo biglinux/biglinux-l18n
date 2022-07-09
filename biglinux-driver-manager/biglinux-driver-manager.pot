@@ -7,7 +7,7 @@
 msgid   ""
 msgstr  "Project-Id-Version: biglinux-driver-manager\n"
         "Report-Msgid-Bugs-To: \n"
-        "POT-Creation-Date: 2022-07-09 04:17-0300\n"
+        "POT-Creation-Date: 2022-07-09 14:17-0300\n"
         "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
         "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
         "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -64,79 +64,6 @@ msgid   "Deseja visualizar o arquivo ou envia-lo ao site transfer.sh, para "
         "compartilhar?"
 msgstr  ""
 
-msgid   "Categorias"
-msgstr  ""
-
-msgid   "Principais"
-msgstr  ""
-
-msgid   "Driver detectado:"
-msgstr  ""
-
-msgid   "<small>* A detecção não inclui impressoras e scanners</small>"
-msgstr  ""
-
-msgid   "Placa de vídeo"
-msgstr  ""
-
-msgid   "Wifi"
-msgstr  ""
-
-msgid   "Rede Cabeada"
-msgstr  ""
-
-msgid   "Bluetooth"
-msgstr  ""
-
-msgid   "Impressora"
-msgstr  ""
-
-msgid   "Impressora 3D"
-msgstr  ""
-
-msgid   "Scanner"
-msgstr  ""
-
-msgid   "TV Digital"
-msgstr  ""
-
-msgid   "Webcam"
-msgstr  ""
-
-msgid   "Touchscreen"
-msgstr  ""
-
-msgid   "Som"
-msgstr  ""
-
-msgid   "Outros"
-msgstr  ""
-
-msgid   "Pesquisar Driver ou Firmware"
-msgstr  ""
-
-msgid   "Resultado da pesquisa"
-msgstr  ""
-
-msgid   "Big-Driver-Manager"
-msgstr  ""
-
-msgid   "Abrir"
-msgstr  ""
-
-msgid   "Instalar ou Remover Drivers e Firmwares"
-msgstr  ""
-
-msgid   "Geralmente é preciso reiniciar o computador para o driver ou "
-        "firmware ser aplicado."
-msgstr  ""
-
-msgid   "Driver ou firmware"
-msgstr  ""
-
-msgid   "Este pacote fornece arquivos compatíveis com este computador."
-msgstr  ""
-
 msgid   "Concluído, reinicie o computador para ativar a configuração do "
         "driver."
 msgstr  ""
@@ -163,6 +90,9 @@ msgid   "Memória"
 msgstr  ""
 
 msgid   "Swap (Memória Virtual)"
+msgstr  ""
+
+msgid   "Placa de vídeo"
 msgstr  ""
 
 msgid   "Áudio"
@@ -207,7 +137,24 @@ msgstr  ""
 msgid   "Repositórios"
 msgstr  ""
 
+msgid   "Bluetooth"
+msgstr  ""
+
 msgid   "Temperatura"
+msgstr  ""
+
+msgid   "Digite sua senha para gerar um relatório removendo dados sensíveis, "
+        "por exemplo, endereço de IP, ou cancele para utilizar as informações "
+        "da tela anterior."
+msgstr  ""
+
+msgid   "Digite sua senha para gerar um relatório mais completo."
+msgstr  ""
+
+msgid   "Categorias"
+msgstr  ""
+
+msgid   "Principais"
 msgstr  ""
 
 msgid   "Resumo"
@@ -222,6 +169,9 @@ msgstr  ""
 msgid   "Armazenamento"
 msgstr  ""
 
+msgid   "Impressora"
+msgstr  ""
+
 msgid   "Mais informações"
 msgstr  ""
 
@@ -229,6 +179,12 @@ msgid   "Hardware"
 msgstr  ""
 
 msgid   "Pesquisar"
+msgstr  ""
+
+msgid   "Resultado da pesquisa"
+msgstr  ""
+
+msgid   "Abrir"
 msgstr  ""
 
 msgid   "Informações Sobre o Sistema e o Hardware"
@@ -283,10 +239,57 @@ msgstr  ""
 msgid   "Info"
 msgstr  ""
 
-msgid   "Digite sua senha para gerar um relatório removendo dados sensíveis, "
-        "por exemplo, endereço de IP, ou cancele para utilizar as informações "
-        "da tela anterior."
+msgid   "Driver detectado:"
 msgstr  ""
 
-msgid   "Digite sua senha para gerar um relatório mais completo."
+msgid   "<small>* A detecção não inclui impressoras e scanners</small>"
+msgstr  ""
+
+msgid   "Wifi"
+msgstr  ""
+
+msgid   "Rede Cabeada"
+msgstr  ""
+
+msgid   "Impressora 3D"
+msgstr  ""
+
+msgid   "Scanner"
+msgstr  ""
+
+msgid   "TV Digital"
+msgstr  ""
+
+msgid   "Webcam"
+msgstr  ""
+
+msgid   "Touchscreen"
+msgstr  ""
+
+msgid   "Som"
+msgstr  ""
+
+msgid   "Outros"
+msgstr  ""
+
+msgid   "Pesquisar Driver ou Firmware"
+msgstr  ""
+
+msgid   "Big-Driver-Manager"
+msgstr  ""
+
+msgid   "Instalar ou Remover Drivers e Firmwares"
+msgstr  ""
+
+msgid   "Geralmente é preciso reiniciar o computador para o driver ou "
+        "firmware ser aplicado."
+msgstr  ""
+
+msgid   "Driver ou firmware"
+msgstr  ""
+
+msgid   "Aplicando - Aguarde"
+msgstr  ""
+
+msgid   "Este pacote fornece arquivos compatíveis com este computador."
 msgstr  ""

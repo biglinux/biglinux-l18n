@@ -2,20 +2,20 @@
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the biglinux-driver-manager package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-# 
+#
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: biglinux-driver-manager\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-07-09 04:17-0300\n"
+"POT-Creation-Date: 2022-07-09 14:17-0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: sv\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit"
+"Content-Transfer-Encoding: 8bit\n"
 
 msgid "O Big-Hardware-Relatory já está em uso."
 msgstr "Big-Hardware-Relatory är redan i bruk."
@@ -70,83 +70,6 @@ msgstr ""
 "Vill du visa filen eller skicka den till transfer.sh, för att få en URL med "
 "data från din dator på ett enkelt sätt att dela den?"
 
-msgid "Categorias"
-msgstr "Kategorier"
-
-msgid "Principais"
-msgstr "Huvudsidan"
-
-msgid "Driver detectado:"
-msgstr "Förare upptäcktes:"
-
-msgid "<small>* A detecção não inclui impressoras e scanners</small>"
-msgstr "<small>* Detektering omfattar inte skrivare och skannrar</small>"
-
-msgid "Placa de vídeo"
-msgstr "Videokort"
-
-msgid "Wifi"
-msgstr "Wifi"
-
-msgid "Rede Cabeada"
-msgstr "Trådbundet nätverk"
-
-msgid "Bluetooth"
-msgstr "Bluetooth"
-
-msgid "Impressora"
-msgstr "Skrivare"
-
-msgid "Impressora 3D"
-msgstr "3D-skrivare"
-
-msgid "Scanner"
-msgstr "Skanner"
-
-msgid "TV Digital"
-msgstr "Digital-TV"
-
-msgid "Webcam"
-msgstr "Webbkamera"
-
-msgid "Touchscreen"
-msgstr "Pekskärm"
-
-msgid "Som"
-msgstr "Ljud"
-
-msgid "Outros"
-msgstr "Övriga"
-
-msgid "Pesquisar Driver ou Firmware"
-msgstr "Sök drivrutin eller fast programvara"
-
-msgid "Resultado da pesquisa"
-msgstr "Sökresultat"
-
-msgid "Big-Driver-Manager"
-msgstr "Big-Driver-Manager"
-
-msgid "Abrir"
-msgstr "Öppna"
-
-msgid "Instalar ou Remover Drivers e Firmwares"
-msgstr "Installera eller ta bort drivrutiner och fast programvara"
-
-msgid ""
-"Geralmente é preciso reiniciar o computador para o driver ou firmware ser "
-"aplicado."
-msgstr ""
-"Det är vanligtvis nödvändigt att starta om datorn för att drivrutinen eller "
-"den fasta programvaran ska kunna tillämpas."
-
-msgid "Driver ou firmware"
-msgstr "Drivrutin eller fast programvara"
-
-msgid "Este pacote fornece arquivos compatíveis com este computador."
-msgstr ""
-"Det här paketet innehåller filer som är kompatibla med den här datorn."
-
 msgid "Concluído, reinicie o computador para ativar a configuração do driver."
 msgstr ""
 "När det är klart startar du om datorn för att aktivera "
@@ -175,6 +98,9 @@ msgstr "Minne"
 
 msgid "Swap (Memória Virtual)"
 msgstr "Swap (virtuellt minne)"
+
+msgid "Placa de vídeo"
+msgstr "Videokort"
 
 msgid "Áudio"
 msgstr "Ljud"
@@ -218,8 +144,29 @@ msgstr "Systeminformation"
 msgid "Repositórios"
 msgstr "Förvaringsställen"
 
+msgid "Bluetooth"
+msgstr "Bluetooth"
+
 msgid "Temperatura"
 msgstr "Temperatur"
+
+msgid ""
+"Digite sua senha para gerar um relatório removendo dados sensíveis, por "
+"exemplo, endereço de IP, ou cancele para utilizar as informações da tela "
+"anterior."
+msgstr ""
+"Ange ditt lösenord för att skapa en rapport som tar bort känsliga uppgifter, "
+"t.ex. IP-adress, eller avbryt för att använda informationen från föregående "
+"skärm."
+
+msgid "Digite sua senha para gerar um relatório mais completo."
+msgstr "Ange ditt lösenord för att skapa en mer fullständig rapport."
+
+msgid "Categorias"
+msgstr "Kategorier"
+
+msgid "Principais"
+msgstr "Huvudsidan"
 
 msgid "Resumo"
 msgstr "Sammanfattning"
@@ -233,6 +180,9 @@ msgstr "Pci"
 msgid "Armazenamento"
 msgstr "Lagring"
 
+msgid "Impressora"
+msgstr "Skrivare"
+
 msgid "Mais informações"
 msgstr "Mer information"
 
@@ -241,6 +191,12 @@ msgstr "Hårdvara"
 
 msgid "Pesquisar"
 msgstr "Sök på"
+
+msgid "Resultado da pesquisa"
+msgstr "Sökresultat"
+
+msgid "Abrir"
+msgstr "Öppna"
 
 msgid "Informações Sobre o Sistema e o Hardware"
 msgstr "Information om system och maskinvara"
@@ -297,14 +253,61 @@ msgstr "ID"
 msgid "Info"
 msgstr "Info"
 
-msgid ""
-"Digite sua senha para gerar um relatório removendo dados sensíveis, por "
-"exemplo, endereço de IP, ou cancele para utilizar as informações da tela "
-"anterior."
-msgstr ""
-"Ange ditt lösenord för att skapa en rapport som tar bort känsliga uppgifter, "
-"t.ex. IP-adress, eller avbryt för att använda informationen från föregående "
-"skärm."
+msgid "Driver detectado:"
+msgstr "Förare upptäcktes:"
 
-msgid "Digite sua senha para gerar um relatório mais completo."
-msgstr "Ange ditt lösenord för att skapa en mer fullständig rapport."
+msgid "<small>* A detecção não inclui impressoras e scanners</small>"
+msgstr "<small>* Detektering omfattar inte skrivare och skannrar</small>"
+
+msgid "Wifi"
+msgstr "Wifi"
+
+msgid "Rede Cabeada"
+msgstr "Trådbundet nätverk"
+
+msgid "Impressora 3D"
+msgstr "3D-skrivare"
+
+msgid "Scanner"
+msgstr "Skanner"
+
+msgid "TV Digital"
+msgstr "Digital-TV"
+
+msgid "Webcam"
+msgstr "Webbkamera"
+
+msgid "Touchscreen"
+msgstr "Pekskärm"
+
+msgid "Som"
+msgstr "Ljud"
+
+msgid "Outros"
+msgstr "Övriga"
+
+msgid "Pesquisar Driver ou Firmware"
+msgstr "Sök drivrutin eller fast programvara"
+
+msgid "Big-Driver-Manager"
+msgstr "Big-Driver-Manager"
+
+msgid "Instalar ou Remover Drivers e Firmwares"
+msgstr "Installera eller ta bort drivrutiner och fast programvara"
+
+msgid ""
+"Geralmente é preciso reiniciar o computador para o driver ou firmware ser "
+"aplicado."
+msgstr ""
+"Det är vanligtvis nödvändigt att starta om datorn för att drivrutinen eller "
+"den fasta programvaran ska kunna tillämpas."
+
+msgid "Driver ou firmware"
+msgstr "Drivrutin eller fast programvara"
+
+#, fuzzy
+msgid "Aplicando - Aguarde"
+msgstr "Sändning, vänligen vänta..."
+
+msgid "Este pacote fornece arquivos compatíveis com este computador."
+msgstr "Det här paketet innehåller filer som är kompatibla med den här datorn."

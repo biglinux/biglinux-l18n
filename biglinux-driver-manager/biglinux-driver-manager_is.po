@@ -2,20 +2,20 @@
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the biglinux-driver-manager package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-# 
+#
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: biglinux-driver-manager\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-07-09 04:17-0300\n"
+"POT-Creation-Date: 2022-07-09 14:17-0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: is\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit"
+"Content-Transfer-Encoding: 8bit\n"
 
 msgid "O Big-Hardware-Relatory já está em uso."
 msgstr "The Big-Hardware-Relatory er þegar í notkun."
@@ -70,82 +70,6 @@ msgstr ""
 "Viltu skoða skrána eða senda hana á transfer.sh vefsíðuna, til að hafa slóð "
 "með gögnum á tölvunni þinni á auðveldan hátt til að deila?"
 
-msgid "Categorias"
-msgstr "Flokkar"
-
-msgid "Principais"
-msgstr "Aðal"
-
-msgid "Driver detectado:"
-msgstr "Ökumaður uppgötvað:"
-
-msgid "<small>* A detecção não inclui impressoras e scanners</small>"
-msgstr "<small>*Uppgötvun felur ekki í sér prentara og skanna</small>"
-
-msgid "Placa de vídeo"
-msgstr "Skjákort"
-
-msgid "Wifi"
-msgstr "Þráðlaust net"
-
-msgid "Rede Cabeada"
-msgstr "Kaðall Network"
-
-msgid "Bluetooth"
-msgstr "blátönn"
-
-msgid "Impressora"
-msgstr "prentara"
-
-msgid "Impressora 3D"
-msgstr "3D prentari"
-
-msgid "Scanner"
-msgstr "Skanni"
-
-msgid "TV Digital"
-msgstr "Stafrænt sjónvarp"
-
-msgid "Webcam"
-msgstr "vefmyndavél"
-
-msgid "Touchscreen"
-msgstr "Snertiskjár"
-
-msgid "Som"
-msgstr "heilbrigður"
-
-msgid "Outros"
-msgstr "Annað"
-
-msgid "Pesquisar Driver ou Firmware"
-msgstr "Leita að bílstjóri eða Firmware"
-
-msgid "Resultado da pesquisa"
-msgstr "Leitarniðurstöður"
-
-msgid "Big-Driver-Manager"
-msgstr "Stór bílstjóri-framkvæmdastjóri"
-
-msgid "Abrir"
-msgstr "Opna"
-
-msgid "Instalar ou Remover Drivers e Firmwares"
-msgstr "Setja upp eða fjarlægja ökumenn og Firmwares"
-
-msgid ""
-"Geralmente é preciso reiniciar o computador para o driver ou firmware ser "
-"aplicado."
-msgstr ""
-"Það er almennt nauðsynlegt að endurræsa tölvuna fyrir ökumanninn eða "
-"vélbúnaðinn til að sækja um."
-
-msgid "Driver ou firmware"
-msgstr "Ökumaður eða vélbúnaðar"
-
-msgid "Este pacote fornece arquivos compatíveis com este computador."
-msgstr "Þessi pakki býður upp á skrár sem eru samhæfar þessari tölvu."
-
 msgid "Concluído, reinicie o computador para ativar a configuração do driver."
 msgstr "Lokið, endurræstu tölvuna til að virkja bílstjóri stillingar."
 
@@ -172,6 +96,9 @@ msgstr "Ævisaga"
 
 msgid "Swap (Memória Virtual)"
 msgstr "Víxla (Virtual Memory)"
+
+msgid "Placa de vídeo"
+msgstr "Skjákort"
 
 msgid "Áudio"
 msgstr "Audio"
@@ -215,8 +142,28 @@ msgstr "Upplýsingar um kerfi"
 msgid "Repositórios"
 msgstr "Geymslur"
 
+msgid "Bluetooth"
+msgstr "blátönn"
+
 msgid "Temperatura"
 msgstr "Temps"
+
+msgid ""
+"Digite sua senha para gerar um relatório removendo dados sensíveis, por "
+"exemplo, endereço de IP, ou cancele para utilizar as informações da tela "
+"anterior."
+msgstr ""
+"Sláðu inn lykilorðið þitt til að búa til skýrslu sem fjarlægir viðkvæm gögn, "
+"til dæmis IP-tölu, eða hætta við að nota upplýsingarnar frá fyrri skjá."
+
+msgid "Digite sua senha para gerar um relatório mais completo."
+msgstr "Sláðu inn lykilorðið þitt til að búa til fullkomnari skýrslu."
+
+msgid "Categorias"
+msgstr "Flokkar"
+
+msgid "Principais"
+msgstr "Aðal"
 
 msgid "Resumo"
 msgstr "Samantekt"
@@ -230,6 +177,9 @@ msgstr "PCI"
 msgid "Armazenamento"
 msgstr "geymsla"
 
+msgid "Impressora"
+msgstr "prentara"
+
 msgid "Mais informações"
 msgstr "Nánari upplýsingar"
 
@@ -238,6 +188,12 @@ msgstr "Vélbúnaður"
 
 msgid "Pesquisar"
 msgstr "Leita"
+
+msgid "Resultado da pesquisa"
+msgstr "Leitarniðurstöður"
+
+msgid "Abrir"
+msgstr "Opna"
 
 msgid "Informações Sobre o Sistema e o Hardware"
 msgstr "Upplýsingar um kerfi og vélbúnað"
@@ -294,13 +250,61 @@ msgstr "AUÐKENNI"
 msgid "Info"
 msgstr "Upplýsingar"
 
-msgid ""
-"Digite sua senha para gerar um relatório removendo dados sensíveis, por "
-"exemplo, endereço de IP, ou cancele para utilizar as informações da tela "
-"anterior."
-msgstr ""
-"Sláðu inn lykilorðið þitt til að búa til skýrslu sem fjarlægir viðkvæm gögn, "
-"til dæmis IP-tölu, eða hætta við að nota upplýsingarnar frá fyrri skjá."
+msgid "Driver detectado:"
+msgstr "Ökumaður uppgötvað:"
 
-msgid "Digite sua senha para gerar um relatório mais completo."
-msgstr "Sláðu inn lykilorðið þitt til að búa til fullkomnari skýrslu."
+msgid "<small>* A detecção não inclui impressoras e scanners</small>"
+msgstr "<small>*Uppgötvun felur ekki í sér prentara og skanna</small>"
+
+msgid "Wifi"
+msgstr "Þráðlaust net"
+
+msgid "Rede Cabeada"
+msgstr "Kaðall Network"
+
+msgid "Impressora 3D"
+msgstr "3D prentari"
+
+msgid "Scanner"
+msgstr "Skanni"
+
+msgid "TV Digital"
+msgstr "Stafrænt sjónvarp"
+
+msgid "Webcam"
+msgstr "vefmyndavél"
+
+msgid "Touchscreen"
+msgstr "Snertiskjár"
+
+msgid "Som"
+msgstr "heilbrigður"
+
+msgid "Outros"
+msgstr "Annað"
+
+msgid "Pesquisar Driver ou Firmware"
+msgstr "Leita að bílstjóri eða Firmware"
+
+msgid "Big-Driver-Manager"
+msgstr "Stór bílstjóri-framkvæmdastjóri"
+
+msgid "Instalar ou Remover Drivers e Firmwares"
+msgstr "Setja upp eða fjarlægja ökumenn og Firmwares"
+
+msgid ""
+"Geralmente é preciso reiniciar o computador para o driver ou firmware ser "
+"aplicado."
+msgstr ""
+"Það er almennt nauðsynlegt að endurræsa tölvuna fyrir ökumanninn eða "
+"vélbúnaðinn til að sækja um."
+
+msgid "Driver ou firmware"
+msgstr "Ökumaður eða vélbúnaðar"
+
+#, fuzzy
+msgid "Aplicando - Aguarde"
+msgstr "Senda, vinsamlegast bíðið..."
+
+msgid "Este pacote fornece arquivos compatíveis com este computador."
+msgstr "Þessi pakki býður upp á skrár sem eru samhæfar þessari tölvu."

@@ -2,20 +2,20 @@
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the biglinux-driver-manager package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-# 
+#
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: biglinux-driver-manager\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-07-09 04:17-0300\n"
+"POT-Creation-Date: 2022-07-09 14:17-0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: tr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit"
+"Content-Transfer-Encoding: 8bit\n"
 
 msgid "O Big-Hardware-Relatory já está em uso."
 msgstr "Big-Hardware-Relatory zaten kullanımda."
@@ -71,82 +71,6 @@ msgstr ""
 "paylaşmak için bir URL'ye sahip olmak için transfer.sh'ye göndermek mi "
 "istiyorsunuz?"
 
-msgid "Categorias"
-msgstr "Kategoriler"
-
-msgid "Principais"
-msgstr "Ana"
-
-msgid "Driver detectado:"
-msgstr "Sürücü tespit edildi:"
-
-msgid "<small>* A detecção não inclui impressoras e scanners</small>"
-msgstr "<small>* Algılama yazıcıları ve tarayıcıları içermez</small>"
-
-msgid "Placa de vídeo"
-msgstr "Ekran kartı"
-
-msgid "Wifi"
-msgstr "Wifi"
-
-msgid "Rede Cabeada"
-msgstr "Kablolu Ağ"
-
-msgid "Bluetooth"
-msgstr "Bluetooth"
-
-msgid "Impressora"
-msgstr "Yazıcı"
-
-msgid "Impressora 3D"
-msgstr "3D yazıcı"
-
-msgid "Scanner"
-msgstr "Tarayıcı"
-
-msgid "TV Digital"
-msgstr "Dijital TV"
-
-msgid "Webcam"
-msgstr "Web kamerası"
-
-msgid "Touchscreen"
-msgstr "Dokunmatik ekran"
-
-msgid "Som"
-msgstr "Ses"
-
-msgid "Outros"
-msgstr "Diğer"
-
-msgid "Pesquisar Driver ou Firmware"
-msgstr "Sürücü veya Ürün Yazılımını Arama"
-
-msgid "Resultado da pesquisa"
-msgstr "Arama sonucu"
-
-msgid "Big-Driver-Manager"
-msgstr "Big-Driver-Manager"
-
-msgid "Abrir"
-msgstr "Açık"
-
-msgid "Instalar ou Remover Drivers e Firmwares"
-msgstr "Sürücüleri ve Ürün Yazılımını Yükleme veya Kaldırma"
-
-msgid ""
-"Geralmente é preciso reiniciar o computador para o driver ou firmware ser "
-"aplicado."
-msgstr ""
-"Sürücü veya ürün yazılımının uygulanması için genellikle bilgisayarın "
-"yeniden başlatılması gerekir."
-
-msgid "Driver ou firmware"
-msgstr "Sürücü veya ürün yazılımı"
-
-msgid "Este pacote fornece arquivos compatíveis com este computador."
-msgstr "Bu paket, bu bilgisayarla uyumlu dosyalar sağlar."
-
 msgid "Concluído, reinicie o computador para ativar a configuração do driver."
 msgstr ""
 "Tamamlandığında, sürücü yapılandırmasını etkinleştirmek için bilgisayarınızı "
@@ -175,6 +99,9 @@ msgstr "Hafıza"
 
 msgid "Swap (Memória Virtual)"
 msgstr "Swap (Sanal Bellek)"
+
+msgid "Placa de vídeo"
+msgstr "Ekran kartı"
 
 msgid "Áudio"
 msgstr "Ses"
@@ -218,8 +145,28 @@ msgstr "Sistem Bilgileri"
 msgid "Repositórios"
 msgstr "Depolar"
 
+msgid "Bluetooth"
+msgstr "Bluetooth"
+
 msgid "Temperatura"
 msgstr "Sıcaklık"
+
+msgid ""
+"Digite sua senha para gerar um relatório removendo dados sensíveis, por "
+"exemplo, endereço de IP, ou cancele para utilizar as informações da tela "
+"anterior."
+msgstr ""
+"IP adresi gibi hassas verileri kaldıran bir rapor oluşturmak için şifrenizi "
+"girin veya önceki ekrandaki bilgileri kullanmak için iptal edin."
+
+msgid "Digite sua senha para gerar um relatório mais completo."
+msgstr "Daha eksiksiz bir rapor oluşturmak için şifrenizi girin."
+
+msgid "Categorias"
+msgstr "Kategoriler"
+
+msgid "Principais"
+msgstr "Ana"
 
 msgid "Resumo"
 msgstr "Özet"
@@ -233,6 +180,9 @@ msgstr "Pci"
 msgid "Armazenamento"
 msgstr "Depolama"
 
+msgid "Impressora"
+msgstr "Yazıcı"
+
 msgid "Mais informações"
 msgstr "Daha fazla bilgi"
 
@@ -241,6 +191,12 @@ msgstr "Donanım"
 
 msgid "Pesquisar"
 msgstr "Arama"
+
+msgid "Resultado da pesquisa"
+msgstr "Arama sonucu"
+
+msgid "Abrir"
+msgstr "Açık"
 
 msgid "Informações Sobre o Sistema e o Hardware"
 msgstr "Sistem ve Donanım Bilgileri"
@@ -297,13 +253,61 @@ msgstr "KIMLIK"
 msgid "Info"
 msgstr "Bilgi"
 
-msgid ""
-"Digite sua senha para gerar um relatório removendo dados sensíveis, por "
-"exemplo, endereço de IP, ou cancele para utilizar as informações da tela "
-"anterior."
-msgstr ""
-"IP adresi gibi hassas verileri kaldıran bir rapor oluşturmak için şifrenizi "
-"girin veya önceki ekrandaki bilgileri kullanmak için iptal edin."
+msgid "Driver detectado:"
+msgstr "Sürücü tespit edildi:"
 
-msgid "Digite sua senha para gerar um relatório mais completo."
-msgstr "Daha eksiksiz bir rapor oluşturmak için şifrenizi girin."
+msgid "<small>* A detecção não inclui impressoras e scanners</small>"
+msgstr "<small>* Algılama yazıcıları ve tarayıcıları içermez</small>"
+
+msgid "Wifi"
+msgstr "Wifi"
+
+msgid "Rede Cabeada"
+msgstr "Kablolu Ağ"
+
+msgid "Impressora 3D"
+msgstr "3D yazıcı"
+
+msgid "Scanner"
+msgstr "Tarayıcı"
+
+msgid "TV Digital"
+msgstr "Dijital TV"
+
+msgid "Webcam"
+msgstr "Web kamerası"
+
+msgid "Touchscreen"
+msgstr "Dokunmatik ekran"
+
+msgid "Som"
+msgstr "Ses"
+
+msgid "Outros"
+msgstr "Diğer"
+
+msgid "Pesquisar Driver ou Firmware"
+msgstr "Sürücü veya Ürün Yazılımını Arama"
+
+msgid "Big-Driver-Manager"
+msgstr "Big-Driver-Manager"
+
+msgid "Instalar ou Remover Drivers e Firmwares"
+msgstr "Sürücüleri ve Ürün Yazılımını Yükleme veya Kaldırma"
+
+msgid ""
+"Geralmente é preciso reiniciar o computador para o driver ou firmware ser "
+"aplicado."
+msgstr ""
+"Sürücü veya ürün yazılımının uygulanması için genellikle bilgisayarın "
+"yeniden başlatılması gerekir."
+
+msgid "Driver ou firmware"
+msgstr "Sürücü veya ürün yazılımı"
+
+#, fuzzy
+msgid "Aplicando - Aguarde"
+msgstr "Gönderiliyor, lütfen bekleyin..."
+
+msgid "Este pacote fornece arquivos compatíveis com este computador."
+msgstr "Bu paket, bu bilgisayarla uyumlu dosyalar sağlar."

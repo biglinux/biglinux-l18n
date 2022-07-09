@@ -2,20 +2,20 @@
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the bigcontrolcenter package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-# 
+#
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: bigcontrolcenter\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-07-09 04:17-0300\n"
+"POT-Creation-Date: 2022-07-09 14:17-0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: it\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit"
+"Content-Transfer-Encoding: 8bit\n"
 
 msgid ""
 "A webcam já está sendo utilizada pelo programa: $WEBCAM_BUSY\n"
@@ -383,10 +383,10 @@ msgid ""
 "do relógio do sistema. Para sincronizar com o seu smartphone acesse a Google "
 "Store ou Apple Store e instale o Kde Connect."
 msgstr ""
-"Questo programma può trasferire file tra smartphone, tablet e altri computer."
-"  Con esso può, ad esempio, utilizzare il suo smartphone come mouse e "
-"tastiera wireless per controllare il computer, oltre ad altre funzioni.  Si "
-"integra meglio con BigLinux e si trova tra le applet situate vicino "
+"Questo programma può trasferire file tra smartphone, tablet e altri "
+"computer.  Con esso può, ad esempio, utilizzare il suo smartphone come mouse "
+"e tastiera wireless per controllare il computer, oltre ad altre funzioni.  "
+"Si integra meglio con BigLinux e si trova tra le applet situate vicino "
 "all'orologio di sistema. Per sincronizzarsi con il suo smartphone, vada sul "
 "Google Store o sull'Apple Store e installi Kde Connect."
 
@@ -553,7 +553,6 @@ msgid ""
 "conexão do seu dispositivo Android.\n"
 "<br>\n"
 "*Caso esteja utilizando o dados móveis, será consumido do seu plano de dados."
-""
 msgstr ""
 "Come utilizzare Internet dal suo tablet o smartphone Android:\n"
 "<br><br>\n"

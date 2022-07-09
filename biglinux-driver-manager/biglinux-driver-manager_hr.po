@@ -2,20 +2,20 @@
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the biglinux-driver-manager package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-# 
+#
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: biglinux-driver-manager\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-07-09 04:17-0300\n"
+"POT-Creation-Date: 2022-07-09 14:17-0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: hr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit"
+"Content-Transfer-Encoding: 8bit\n"
 
 msgid "O Big-Hardware-Relatory já está em uso."
 msgstr "Big-Hardware-Relatory je već u upotrebi."
@@ -71,82 +71,6 @@ msgstr ""
 "Želite li vidjeti datoteku ili je poslati na web mjesto transfer.sh, da "
 "biste na jednostavan način imali URL s podacima na računalu?"
 
-msgid "Categorias"
-msgstr "Kategorije"
-
-msgid "Principais"
-msgstr "Glavni"
-
-msgid "Driver detectado:"
-msgstr "Otkriven vozač:"
-
-msgid "<small>* A detecção não inclui impressoras e scanners</small>"
-msgstr "<small>*Otkrivanje ne uključuje pisače i skenere</small>"
-
-msgid "Placa de vídeo"
-msgstr "Grafička kartica"
-
-msgid "Wifi"
-msgstr "Wi-Fi"
-
-msgid "Rede Cabeada"
-msgstr "Kabelska mreža"
-
-msgid "Bluetooth"
-msgstr "Bluetooth"
-
-msgid "Impressora"
-msgstr "printer"
-
-msgid "Impressora 3D"
-msgstr "3D pisač"
-
-msgid "Scanner"
-msgstr "Skener"
-
-msgid "TV Digital"
-msgstr "Digitalna TV"
-
-msgid "Webcam"
-msgstr "web kamera"
-
-msgid "Touchscreen"
-msgstr "zaslon osjetljiv na dodir"
-
-msgid "Som"
-msgstr "zvuk"
-
-msgid "Outros"
-msgstr "Ostalo"
-
-msgid "Pesquisar Driver ou Firmware"
-msgstr "Potražite upravljački program ili firmver"
-
-msgid "Resultado da pesquisa"
-msgstr "Rezultati pretrage"
-
-msgid "Big-Driver-Manager"
-msgstr "Voditelj velikog vozača"
-
-msgid "Abrir"
-msgstr "Otvori"
-
-msgid "Instalar ou Remover Drivers e Firmwares"
-msgstr "Instalirajte ili uklonite upravljačke programe i firmwares"
-
-msgid ""
-"Geralmente é preciso reiniciar o computador para o driver ou firmware ser "
-"aplicado."
-msgstr ""
-"Općenito je potrebno ponovno pokrenuti računalo kako bi se upravljački "
-"program ili firmver primijenio."
-
-msgid "Driver ou firmware"
-msgstr "Upravljački program ili firmware"
-
-msgid "Este pacote fornece arquivos compatíveis com este computador."
-msgstr "Ovaj paket pruža datoteke kompatibilne s ovim računalom."
-
 msgid "Concluído, reinicie o computador para ativar a configuração do driver."
 msgstr ""
 "Gotovo, ponovno pokrenite računalo da biste aktivirali konfiguraciju "
@@ -175,6 +99,9 @@ msgstr "Memoari"
 
 msgid "Swap (Memória Virtual)"
 msgstr "Zamjena (virtualna memorija)"
+
+msgid "Placa de vídeo"
+msgstr "Grafička kartica"
 
 msgid "Áudio"
 msgstr "Audio"
@@ -218,8 +145,29 @@ msgstr "Informacijski sustav"
 msgid "Repositórios"
 msgstr "Repozitoriji"
 
+msgid "Bluetooth"
+msgstr "Bluetooth"
+
 msgid "Temperatura"
 msgstr "Vrijeme"
+
+msgid ""
+"Digite sua senha para gerar um relatório removendo dados sensíveis, por "
+"exemplo, endereço de IP, ou cancele para utilizar as informações da tela "
+"anterior."
+msgstr ""
+"Unesite lozinku da biste generirali izvješće o uklanjanju osjetljivih "
+"podataka, na primjer IP adrese ili otkazali da biste koristili podatke s "
+"prethodnog zaslona."
+
+msgid "Digite sua senha para gerar um relatório mais completo."
+msgstr "Unesite lozinku za generiranje potpunijeg izvješća."
+
+msgid "Categorias"
+msgstr "Kategorije"
+
+msgid "Principais"
+msgstr "Glavni"
 
 msgid "Resumo"
 msgstr "Sažetak"
@@ -233,6 +181,9 @@ msgstr "PCI"
 msgid "Armazenamento"
 msgstr "Skladištenje"
 
+msgid "Impressora"
+msgstr "printer"
+
 msgid "Mais informações"
 msgstr "Više informacija"
 
@@ -241,6 +192,12 @@ msgstr "Hardver"
 
 msgid "Pesquisar"
 msgstr "Pretraživanje"
+
+msgid "Resultado da pesquisa"
+msgstr "Rezultati pretrage"
+
+msgid "Abrir"
+msgstr "Otvori"
 
 msgid "Informações Sobre o Sistema e o Hardware"
 msgstr "Informacije o sustavu i hardveru"
@@ -297,14 +254,61 @@ msgstr "OSOBNA ISKAZNICA"
 msgid "Info"
 msgstr "Informacije"
 
-msgid ""
-"Digite sua senha para gerar um relatório removendo dados sensíveis, por "
-"exemplo, endereço de IP, ou cancele para utilizar as informações da tela "
-"anterior."
-msgstr ""
-"Unesite lozinku da biste generirali izvješće o uklanjanju osjetljivih "
-"podataka, na primjer IP adrese ili otkazali da biste koristili podatke s "
-"prethodnog zaslona."
+msgid "Driver detectado:"
+msgstr "Otkriven vozač:"
 
-msgid "Digite sua senha para gerar um relatório mais completo."
-msgstr "Unesite lozinku za generiranje potpunijeg izvješća."
+msgid "<small>* A detecção não inclui impressoras e scanners</small>"
+msgstr "<small>*Otkrivanje ne uključuje pisače i skenere</small>"
+
+msgid "Wifi"
+msgstr "Wi-Fi"
+
+msgid "Rede Cabeada"
+msgstr "Kabelska mreža"
+
+msgid "Impressora 3D"
+msgstr "3D pisač"
+
+msgid "Scanner"
+msgstr "Skener"
+
+msgid "TV Digital"
+msgstr "Digitalna TV"
+
+msgid "Webcam"
+msgstr "web kamera"
+
+msgid "Touchscreen"
+msgstr "zaslon osjetljiv na dodir"
+
+msgid "Som"
+msgstr "zvuk"
+
+msgid "Outros"
+msgstr "Ostalo"
+
+msgid "Pesquisar Driver ou Firmware"
+msgstr "Potražite upravljački program ili firmver"
+
+msgid "Big-Driver-Manager"
+msgstr "Voditelj velikog vozača"
+
+msgid "Instalar ou Remover Drivers e Firmwares"
+msgstr "Instalirajte ili uklonite upravljačke programe i firmwares"
+
+msgid ""
+"Geralmente é preciso reiniciar o computador para o driver ou firmware ser "
+"aplicado."
+msgstr ""
+"Općenito je potrebno ponovno pokrenuti računalo kako bi se upravljački "
+"program ili firmver primijenio."
+
+msgid "Driver ou firmware"
+msgstr "Upravljački program ili firmware"
+
+#, fuzzy
+msgid "Aplicando - Aguarde"
+msgstr "Slanje, molim vas pričekajte..."
+
+msgid "Este pacote fornece arquivos compatíveis com este computador."
+msgstr "Ovaj paket pruža datoteke kompatibilne s ovim računalom."

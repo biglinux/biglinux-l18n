@@ -2,20 +2,20 @@
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the bigcontrolcenter package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-# 
+#
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: bigcontrolcenter\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-07-09 04:17-0300\n"
+"POT-Creation-Date: 2022-07-09 14:17-0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit"
+"Content-Transfer-Encoding: 8bit\n"
 
 msgid ""
 "A webcam já está sendo utilizada pelo programa: $WEBCAM_BUSY\n"
@@ -199,7 +199,6 @@ msgstr "Facebook"
 msgid "Parabéns, você concluiu os primeiros passos para utilizar o BigLinux."
 msgstr ""
 "Félicitations, vous avez terminé les premières étapes pour utiliser BigLinux."
-""
 
 msgid "Integração com Google Drive e ownCloud"
 msgstr "Intégration avec Google Drive et ownCloud"
@@ -558,10 +557,9 @@ msgid ""
 "conexão do seu dispositivo Android.\n"
 "<br>\n"
 "*Caso esteja utilizando o dados móveis, será consumido do seu plano de dados."
-""
 msgstr ""
-"Comment utiliser l'internet à partir de votre tablette ou smartphone Android "
-":\n"
+"Comment utiliser l'internet à partir de votre tablette ou smartphone "
+"Android :\n"
 "<br><br>\n"
 "1. Branchez l'appareil sur le port USB de l'ordinateur ;\n"
 "<br>\n"
@@ -752,8 +750,7 @@ msgstr ""
 "d'autres comme Nvidia <b>la désactivent</b>."
 
 msgid "Download próximo de 1 GB, pode demorar muito."
-msgstr ""
-"Si vous téléchargez près de 1 Go, cela peut prendre beaucoup de temps."
+msgstr "Si vous téléchargez près de 1 Go, cela peut prendre beaucoup de temps."
 
 msgid "Resolução: "
 msgstr "Résolution:"

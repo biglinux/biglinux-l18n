@@ -2,20 +2,20 @@
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the biglinux-driver-manager package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-# 
+#
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: biglinux-driver-manager\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-07-09 04:17-0300\n"
+"POT-Creation-Date: 2022-07-09 14:17-0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: he\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit"
+"Content-Transfer-Encoding: 8bit\n"
 
 msgid "O Big-Hardware-Relatory já está em uso."
 msgstr "החומרה הגדולה של החומרה כבר בשימוש."
@@ -70,81 +70,6 @@ msgstr ""
 "האם ברצונך להציג את הקובץ או לשלוח אותו לאתר transfer.sh, לקבל כתובת אתר עם "
 "הנתונים במחשב שלך בצורה קלה לשיתוף?"
 
-msgid "Categorias"
-msgstr "קטגוריות"
-
-msgid "Principais"
-msgstr "ראשי"
-
-msgid "Driver detectado:"
-msgstr "זוהה מנהל התקן:"
-
-msgid "<small>* A detecção não inclui impressoras e scanners</small>"
-msgstr "<small>*איתור אינו כולל מדפסות וסורקים</small>"
-
-msgid "Placa de vídeo"
-msgstr "כרטיס מסך"
-
-msgid "Wifi"
-msgstr "וויי - פיי"
-
-msgid "Rede Cabeada"
-msgstr "רשת כבלים"
-
-msgid "Bluetooth"
-msgstr "Bluetooth"
-
-msgid "Impressora"
-msgstr "דפס"
-
-msgid "Impressora 3D"
-msgstr "מדפסת 3D"
-
-msgid "Scanner"
-msgstr "סורק"
-
-msgid "TV Digital"
-msgstr "טלוויזיה דיגיטלית"
-
-msgid "Webcam"
-msgstr "מצלמת אינטרנט"
-
-msgid "Touchscreen"
-msgstr "מסך מגע"
-
-msgid "Som"
-msgstr "קול"
-
-msgid "Outros"
-msgstr "אחרים"
-
-msgid "Pesquisar Driver ou Firmware"
-msgstr "חפש מנהל התקן או קושחה"
-
-msgid "Resultado da pesquisa"
-msgstr "תוצאת חיפוש"
-
-msgid "Big-Driver-Manager"
-msgstr "מנהל התקן גדול"
-
-msgid "Abrir"
-msgstr "פתוח"
-
-msgid "Instalar ou Remover Drivers e Firmwares"
-msgstr "התקנה או הסרה של מנהלי התקנים וקושחות"
-
-msgid ""
-"Geralmente é preciso reiniciar o computador para o driver ou firmware ser "
-"aplicado."
-msgstr ""
-"בדרך כלל יש צורך להפעיל מחדש את המחשב כדי שמנהל ההתקן או הקושחה יחולו."
-
-msgid "Driver ou firmware"
-msgstr "מנהל התקן או קושחה"
-
-msgid "Este pacote fornece arquivos compatíveis com este computador."
-msgstr "חבילה זו מספקת קבצים התואמים למחשב זה."
-
 msgid "Concluído, reinicie o computador para ativar a configuração do driver."
 msgstr "בוצע, הפעל מחדש את המחשב כדי להפעיל את תצורת מנהל ההתקן."
 
@@ -171,6 +96,9 @@ msgstr "סיפור חיים"
 
 msgid "Swap (Memória Virtual)"
 msgstr "החלפה (זיכרון וירטואלי)"
+
+msgid "Placa de vídeo"
+msgstr "כרטיס מסך"
 
 msgid "Áudio"
 msgstr "אודיו"
@@ -214,8 +142,28 @@ msgstr "מידע על המערכת"
 msgid "Repositórios"
 msgstr "מאגרים"
 
+msgid "Bluetooth"
+msgstr "Bluetooth"
+
 msgid "Temperatura"
 msgstr "טמפ"
+
+msgid ""
+"Digite sua senha para gerar um relatório removendo dados sensíveis, por "
+"exemplo, endereço de IP, ou cancele para utilizar as informações da tela "
+"anterior."
+msgstr ""
+"הזן את הסיסמה שלך כדי להפיק דוח שמסיר נתונים רגישים, לדוגמה, כתובת IP, או "
+"בטל כדי להשתמש במידע מהמסך הקודם."
+
+msgid "Digite sua senha para gerar um relatório mais completo."
+msgstr "הזן את הסיסמה שלך כדי להפיק דוח מלא יותר."
+
+msgid "Categorias"
+msgstr "קטגוריות"
+
+msgid "Principais"
+msgstr "ראשי"
 
 msgid "Resumo"
 msgstr "סיכום"
@@ -229,6 +177,9 @@ msgstr "PCI"
 msgid "Armazenamento"
 msgstr "אחסון"
 
+msgid "Impressora"
+msgstr "דפס"
+
 msgid "Mais informações"
 msgstr "מידע נוסף"
 
@@ -237,6 +188,12 @@ msgstr "חומרה"
 
 msgid "Pesquisar"
 msgstr "חיפוש"
+
+msgid "Resultado da pesquisa"
+msgstr "תוצאת חיפוש"
+
+msgid "Abrir"
+msgstr "פתוח"
 
 msgid "Informações Sobre o Sistema e o Hardware"
 msgstr "מידע על מערכת וחומרה"
@@ -293,13 +250,59 @@ msgstr "תעודת זהות"
 msgid "Info"
 msgstr "מידע"
 
-msgid ""
-"Digite sua senha para gerar um relatório removendo dados sensíveis, por "
-"exemplo, endereço de IP, ou cancele para utilizar as informações da tela "
-"anterior."
-msgstr ""
-"הזן את הסיסמה שלך כדי להפיק דוח שמסיר נתונים רגישים, לדוגמה, כתובת IP, או "
-"בטל כדי להשתמש במידע מהמסך הקודם."
+msgid "Driver detectado:"
+msgstr "זוהה מנהל התקן:"
 
-msgid "Digite sua senha para gerar um relatório mais completo."
-msgstr "הזן את הסיסמה שלך כדי להפיק דוח מלא יותר."
+msgid "<small>* A detecção não inclui impressoras e scanners</small>"
+msgstr "<small>*איתור אינו כולל מדפסות וסורקים</small>"
+
+msgid "Wifi"
+msgstr "וויי - פיי"
+
+msgid "Rede Cabeada"
+msgstr "רשת כבלים"
+
+msgid "Impressora 3D"
+msgstr "מדפסת 3D"
+
+msgid "Scanner"
+msgstr "סורק"
+
+msgid "TV Digital"
+msgstr "טלוויזיה דיגיטלית"
+
+msgid "Webcam"
+msgstr "מצלמת אינטרנט"
+
+msgid "Touchscreen"
+msgstr "מסך מגע"
+
+msgid "Som"
+msgstr "קול"
+
+msgid "Outros"
+msgstr "אחרים"
+
+msgid "Pesquisar Driver ou Firmware"
+msgstr "חפש מנהל התקן או קושחה"
+
+msgid "Big-Driver-Manager"
+msgstr "מנהל התקן גדול"
+
+msgid "Instalar ou Remover Drivers e Firmwares"
+msgstr "התקנה או הסרה של מנהלי התקנים וקושחות"
+
+msgid ""
+"Geralmente é preciso reiniciar o computador para o driver ou firmware ser "
+"aplicado."
+msgstr "בדרך כלל יש צורך להפעיל מחדש את המחשב כדי שמנהל ההתקן או הקושחה יחולו."
+
+msgid "Driver ou firmware"
+msgstr "מנהל התקן או קושחה"
+
+#, fuzzy
+msgid "Aplicando - Aguarde"
+msgstr "שולח, אנא המתן..."
+
+msgid "Este pacote fornece arquivos compatíveis com este computador."
+msgstr "חבילה זו מספקת קבצים התואמים למחשב זה."

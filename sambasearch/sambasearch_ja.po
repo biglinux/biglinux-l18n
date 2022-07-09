@@ -2,20 +2,20 @@
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the sambasearch package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-# 
+#
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: sambasearch\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-07-09 04:17-0300\n"
+"POT-Creation-Date: 2022-07-09 14:17-0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit"
+"Content-Transfer-Encoding: 8bit\n"
 
 msgid "Procurar compartilhamentos"
 msgstr "株式検索"
@@ -41,7 +41,9 @@ msgstr "https://www.biglinux.com.br"
 msgid ""
 "Alteração aplicada, verifique se os compartilhamentos de rede estão "
 "aparecendo no gerenciador de arquivos."
-msgstr "変更適用後、ファイルマネージャにネットワーク共有が表示されることを確認します。"
+msgstr ""
+"変更適用後、ファイルマネージャにネットワーク共有が表示されることを確認しま"
+"す。"
 
 msgid "Usuário"
 msgstr "ユーザー"
@@ -59,13 +61,18 @@ msgid ""
 "*A maioria dos servidores precisa de login e senha para listar os "
 "compartilhamentos disponíveis, deixe em branco para efetuar uma busca "
 "anônima."
-msgstr "*ほとんどのサーバーでは、利用可能な共有の一覧を表示するためにログインとパスワードが必要です。匿名で検索する場合は空白にしてください。"
+msgstr ""
+"*ほとんどのサーバーでは、利用可能な共有の一覧を表示するためにログインとパス"
+"ワードが必要です。匿名で検索する場合は空白にしてください。"
 
 msgid "Cancelar"
 msgstr "キャンセル"
 
 msgid "Próximo"
 msgstr "次のページ"
+
+msgid "Aguarde..."
+msgstr ""
 
 msgid "Anônimo"
 msgstr "匿名希望"
@@ -78,3 +85,6 @@ msgstr "をネットワークに接続します。"
 
 msgid "Voltar"
 msgstr "背面"
+
+msgid "Fechar"
+msgstr ""

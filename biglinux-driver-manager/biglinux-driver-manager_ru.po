@@ -2,20 +2,20 @@
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the biglinux-driver-manager package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-# 
+#
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: biglinux-driver-manager\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-07-09 04:17-0300\n"
+"POT-Creation-Date: 2022-07-09 14:17-0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit"
+"Content-Transfer-Encoding: 8bit\n"
 
 msgid "O Big-Hardware-Relatory já está em uso."
 msgstr "Big-Hardware-Relatory уже используется."
@@ -70,82 +70,6 @@ msgstr ""
 "Вы хотите просмотреть файл или отправить его в transfer.sh, чтобы иметь URL "
 "с данными с вашего компьютера в удобном для обмена виде?"
 
-msgid "Categorias"
-msgstr "Категории"
-
-msgid "Principais"
-msgstr "Главная"
-
-msgid "Driver detectado:"
-msgstr "Обнаружен драйвер:"
-
-msgid "<small>* A detecção não inclui impressoras e scanners</small>"
-msgstr "<small>* Обнаружение не включает принтеры и сканеры</small>"
-
-msgid "Placa de vídeo"
-msgstr "Видеокарта"
-
-msgid "Wifi"
-msgstr "Wifi"
-
-msgid "Rede Cabeada"
-msgstr "Проводная сеть"
-
-msgid "Bluetooth"
-msgstr "Bluetooth"
-
-msgid "Impressora"
-msgstr "Принтер"
-
-msgid "Impressora 3D"
-msgstr "3D-принтер"
-
-msgid "Scanner"
-msgstr "Сканер"
-
-msgid "TV Digital"
-msgstr "Цифровое телевидение"
-
-msgid "Webcam"
-msgstr "Веб-камера"
-
-msgid "Touchscreen"
-msgstr "Сенсорный экран"
-
-msgid "Som"
-msgstr "Звук"
-
-msgid "Outros"
-msgstr "Другое"
-
-msgid "Pesquisar Driver ou Firmware"
-msgstr "Поиск драйвера или микропрограммы"
-
-msgid "Resultado da pesquisa"
-msgstr "Результат поиска"
-
-msgid "Big-Driver-Manager"
-msgstr "Big-Driver-Manager"
-
-msgid "Abrir"
-msgstr "Открытым"
-
-msgid "Instalar ou Remover Drivers e Firmwares"
-msgstr "Установка или удаление драйверов и встроенного ПО"
-
-msgid ""
-"Geralmente é preciso reiniciar o computador para o driver ou firmware ser "
-"aplicado."
-msgstr ""
-"Обычно для применения драйвера или микропрограммы необходимо перезагрузить "
-"компьютер."
-
-msgid "Driver ou firmware"
-msgstr "Драйвер или микропрограмма"
-
-msgid "Este pacote fornece arquivos compatíveis com este computador."
-msgstr "Этот пакет содержит файлы, совместимые с данным компьютером."
-
 msgid "Concluído, reinicie o computador para ativar a configuração do driver."
 msgstr ""
 "После завершения перезагрузите компьютер, чтобы активировать конфигурацию "
@@ -174,6 +98,9 @@ msgstr "Память"
 
 msgid "Swap (Memória Virtual)"
 msgstr "Swap (виртуальная память)"
+
+msgid "Placa de vídeo"
+msgstr "Видеокарта"
 
 msgid "Áudio"
 msgstr "Аудио"
@@ -217,8 +144,29 @@ msgstr "Системная информация"
 msgid "Repositórios"
 msgstr "Репозитории"
 
+msgid "Bluetooth"
+msgstr "Bluetooth"
+
 msgid "Temperatura"
 msgstr "Температура"
+
+msgid ""
+"Digite sua senha para gerar um relatório removendo dados sensíveis, por "
+"exemplo, endereço de IP, ou cancele para utilizar as informações da tela "
+"anterior."
+msgstr ""
+"Введите свой пароль для создания отчета, удаляющего конфиденциальные данные, "
+"например, IP-адрес, или отмените, чтобы использовать информацию с "
+"предыдущего экрана."
+
+msgid "Digite sua senha para gerar um relatório mais completo."
+msgstr "Введите свой пароль для создания более полного отчета."
+
+msgid "Categorias"
+msgstr "Категории"
+
+msgid "Principais"
+msgstr "Главная"
 
 msgid "Resumo"
 msgstr "Резюме"
@@ -232,6 +180,9 @@ msgstr "Pci"
 msgid "Armazenamento"
 msgstr "Хранение"
 
+msgid "Impressora"
+msgstr "Принтер"
+
 msgid "Mais informações"
 msgstr "Дополнительная информация"
 
@@ -240,6 +191,12 @@ msgstr "Оборудование"
 
 msgid "Pesquisar"
 msgstr "Поиск"
+
+msgid "Resultado da pesquisa"
+msgstr "Результат поиска"
+
+msgid "Abrir"
+msgstr "Открытым"
 
 msgid "Informações Sobre o Sistema e o Hardware"
 msgstr "Информация о системе и аппаратном обеспечении"
@@ -296,14 +253,61 @@ msgstr "ID"
 msgid "Info"
 msgstr "Информация"
 
-msgid ""
-"Digite sua senha para gerar um relatório removendo dados sensíveis, por "
-"exemplo, endereço de IP, ou cancele para utilizar as informações da tela "
-"anterior."
-msgstr ""
-"Введите свой пароль для создания отчета, удаляющего конфиденциальные данные, "
-"например, IP-адрес, или отмените, чтобы использовать информацию с "
-"предыдущего экрана."
+msgid "Driver detectado:"
+msgstr "Обнаружен драйвер:"
 
-msgid "Digite sua senha para gerar um relatório mais completo."
-msgstr "Введите свой пароль для создания более полного отчета."
+msgid "<small>* A detecção não inclui impressoras e scanners</small>"
+msgstr "<small>* Обнаружение не включает принтеры и сканеры</small>"
+
+msgid "Wifi"
+msgstr "Wifi"
+
+msgid "Rede Cabeada"
+msgstr "Проводная сеть"
+
+msgid "Impressora 3D"
+msgstr "3D-принтер"
+
+msgid "Scanner"
+msgstr "Сканер"
+
+msgid "TV Digital"
+msgstr "Цифровое телевидение"
+
+msgid "Webcam"
+msgstr "Веб-камера"
+
+msgid "Touchscreen"
+msgstr "Сенсорный экран"
+
+msgid "Som"
+msgstr "Звук"
+
+msgid "Outros"
+msgstr "Другое"
+
+msgid "Pesquisar Driver ou Firmware"
+msgstr "Поиск драйвера или микропрограммы"
+
+msgid "Big-Driver-Manager"
+msgstr "Big-Driver-Manager"
+
+msgid "Instalar ou Remover Drivers e Firmwares"
+msgstr "Установка или удаление драйверов и встроенного ПО"
+
+msgid ""
+"Geralmente é preciso reiniciar o computador para o driver ou firmware ser "
+"aplicado."
+msgstr ""
+"Обычно для применения драйвера или микропрограммы необходимо перезагрузить "
+"компьютер."
+
+msgid "Driver ou firmware"
+msgstr "Драйвер или микропрограмма"
+
+#, fuzzy
+msgid "Aplicando - Aguarde"
+msgstr "Отправка, пожалуйста, подождите..."
+
+msgid "Este pacote fornece arquivos compatíveis com este computador."
+msgstr "Этот пакет содержит файлы, совместимые с данным компьютером."

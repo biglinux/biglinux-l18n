@@ -2,20 +2,20 @@
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the bigcontrolcenter package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-# 
+#
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: bigcontrolcenter\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-07-09 04:17-0300\n"
+"POT-Creation-Date: 2022-07-09 14:17-0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: he\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit"
+"Content-Transfer-Encoding: 8bit\n"
 
 msgid ""
 "A webcam já está sendo utilizada pelo programa: $WEBCAM_BUSY\n"
@@ -341,8 +341,7 @@ msgstr "הגדר את ערכת הנושא של Kvantum"
 msgid ""
 "Para a configuração do Kvantum funcionar, aplique o tema Kvantum em 'Estilo "
 "do aplicativo'."
-msgstr ""
-"כדי שתצורת Kvantum תעבוד, החל את ערכת הנושא Kvantum תחת 'סגנון יישום'."
+msgstr "כדי שתצורת Kvantum תעבוד, החל את ערכת הנושא Kvantum תחת 'סגנון יישום'."
 
 msgid "Carteira de senhas do KDE"
 msgstr "ארנק סיסמא KDE"
@@ -534,7 +533,6 @@ msgid ""
 "conexão do seu dispositivo Android.\n"
 "<br>\n"
 "*Caso esteja utilizando o dados móveis, será consumido do seu plano de dados."
-""
 msgstr ""
 "כיצד להשתמש באינטרנט מהטאבלט או מהסמארטפון של Android:\n"
 "<br><br>\n"
@@ -547,7 +545,8 @@ msgstr ""
 "<br><br>\n"
 "* אפשרויות אלה נמצאות בקטע 'רשת ואינטרנט' או 'חיבורים ושיתוף'.\n"
 "<br><br>\n"
-"כאשר תפעיל אותו, תחובר אוטומטית ותשתמש באותו חיבור כמו מכשיר ה- Android שלך.\n"
+"כאשר תפעיל אותו, תחובר אוטומטית ותשתמש באותו חיבור כמו מכשיר ה- Android "
+"שלך.\n"
 "<br>\n"
 "* אם אתה משתמש בנתונים ניידים, זה יהיה נצרך מתוכנית הנתונים שלך."
 

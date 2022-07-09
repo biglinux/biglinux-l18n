@@ -2,20 +2,20 @@
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the biglinux-driver-manager package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-# 
+#
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: biglinux-driver-manager\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-07-09 04:17-0300\n"
+"POT-Creation-Date: 2022-07-09 14:17-0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit"
+"Content-Transfer-Encoding: 8bit\n"
 
 msgid "O Big-Hardware-Relatory já está em uso."
 msgstr "Big-Hardware-Relatoryはすでに使用されています。"
@@ -42,7 +42,8 @@ msgid ""
 "Já existe outro driver nVidia instalado, para instalar este driver, remova "
 "primeiro o driver instalado."
 msgstr ""
-"すでに別のnVidiaドライバがインストールされていますので、このドライバをインストールするには、まずインストールされているドライバを削除してください。"
+"すでに別のnVidiaドライバがインストールされていますので、このドライバをインス"
+"トールするには、まずインストールされているドライバを削除してください。"
 
 msgid "Desativado"
 msgstr "使用不可"
@@ -65,81 +66,9 @@ msgstr "レポートがアーカイブに保存されました。"
 msgid ""
 "Deseja visualizar o arquivo ou envia-lo ao site transfer.sh, para ter uma "
 "URL com os dados do seu computador de forma fácil de compartilhar?"
-msgstr "ファイルを表示したり、transfer.shに送信して、共有する簡単な方法でコンピュータからのデータでURLを持つようにしたいですか？"
-
-msgid "Categorias"
-msgstr "カテゴリー"
-
-msgid "Principais"
-msgstr "メイン"
-
-msgid "Driver detectado:"
-msgstr "ドライバーを検出しました。"
-
-msgid "<small>* A detecção não inclui impressoras e scanners</small>"
-msgstr "<small>* プリンター、スキャナーは検出対象に含まれません</small>"
-
-msgid "Placa de vídeo"
-msgstr "ビデオカード"
-
-msgid "Wifi"
-msgstr "無線LAN"
-
-msgid "Rede Cabeada"
-msgstr "有線ネットワーク"
-
-msgid "Bluetooth"
-msgstr "ブルートゥース"
-
-msgid "Impressora"
-msgstr "プリンター"
-
-msgid "Impressora 3D"
-msgstr "3Dプリンター"
-
-msgid "Scanner"
-msgstr "スキャナ"
-
-msgid "TV Digital"
-msgstr "デジタルテレビ"
-
-msgid "Webcam"
-msgstr "ウェブカメラ"
-
-msgid "Touchscreen"
-msgstr "タッチスクリーン"
-
-msgid "Som"
-msgstr "サウンド"
-
-msgid "Outros"
-msgstr "その他"
-
-msgid "Pesquisar Driver ou Firmware"
-msgstr "ドライバーまたはファームウェアの検索"
-
-msgid "Resultado da pesquisa"
-msgstr "検索結果"
-
-msgid "Big-Driver-Manager"
-msgstr "ビッグドライバーマネージャ"
-
-msgid "Abrir"
-msgstr "開ける"
-
-msgid "Instalar ou Remover Drivers e Firmwares"
-msgstr "ドライバとファームウェアのインストールと削除"
-
-msgid ""
-"Geralmente é preciso reiniciar o computador para o driver ou firmware ser "
-"aplicado."
-msgstr "ドライバやファームウェアを適用するには、通常、コンピュータを再起動する必要があります。"
-
-msgid "Driver ou firmware"
-msgstr "ドライバまたはファームウェア"
-
-msgid "Este pacote fornece arquivos compatíveis com este computador."
-msgstr "このパッケージは、このコンピューターに対応したファイルを提供します。"
+msgstr ""
+"ファイルを表示したり、transfer.shに送信して、共有する簡単な方法でコンピュータ"
+"からのデータでURLを持つようにしたいですか？"
 
 msgid "Concluído, reinicie o computador para ativar a configuração do driver."
 msgstr "完了したら、コンピュータを再起動し、ドライバーの設定を有効にします。"
@@ -167,6 +96,9 @@ msgstr "メモリ"
 
 msgid "Swap (Memória Virtual)"
 msgstr "スワップ(仮想メモリ)"
+
+msgid "Placa de vídeo"
+msgstr "ビデオカード"
 
 msgid "Áudio"
 msgstr "オーディオ"
@@ -210,8 +142,28 @@ msgstr "システム情報"
 msgid "Repositórios"
 msgstr "レポジトリー"
 
+msgid "Bluetooth"
+msgstr "ブルートゥース"
+
 msgid "Temperatura"
 msgstr "温度"
+
+msgid ""
+"Digite sua senha para gerar um relatório removendo dados sensíveis, por "
+"exemplo, endereço de IP, ou cancele para utilizar as informações da tela "
+"anterior."
+msgstr ""
+"IPアドレスなどの機密データを削除してレポートを作成する場合はパスワードを入力"
+"し、前の画面の情報を使用する場合はキャンセルしてください。"
+
+msgid "Digite sua senha para gerar um relatório mais completo."
+msgstr "パスワードを入力すると、より詳細なレポートが作成されます。"
+
+msgid "Categorias"
+msgstr "カテゴリー"
+
+msgid "Principais"
+msgstr "メイン"
 
 msgid "Resumo"
 msgstr "概要"
@@ -225,6 +177,9 @@ msgstr "Pci"
 msgid "Armazenamento"
 msgstr "ストレージ"
 
+msgid "Impressora"
+msgstr "プリンター"
+
 msgid "Mais informações"
 msgstr "詳細はこちら"
 
@@ -233,6 +188,12 @@ msgstr "ハードウェア"
 
 msgid "Pesquisar"
 msgstr "検索"
+
+msgid "Resultado da pesquisa"
+msgstr "検索結果"
+
+msgid "Abrir"
+msgstr "開ける"
 
 msgid "Informações Sobre o Sistema e o Hardware"
 msgstr "システム・ハードウェア情報"
@@ -267,7 +228,9 @@ msgstr "ドライバのインストールと削除"
 msgid ""
 "O BigLinux inclui milhares de drivers e firmwares por padrão, porém ainda "
 "pode ser necessário instalar mais alguns."
-msgstr "BigLinuxにはデフォルトで数千のドライバとファームウェアが含まれていますが、さらにいくつかのインストールが必要な場合があります。"
+msgstr ""
+"BigLinuxにはデフォルトで数千のドライバとファームウェアが含まれていますが、さ"
+"らにいくつかのインストールが必要な場合があります。"
 
 msgid "Gerar Relatório"
 msgstr "レポート作成"
@@ -287,11 +250,61 @@ msgstr "ID"
 msgid "Info"
 msgstr "情報"
 
-msgid ""
-"Digite sua senha para gerar um relatório removendo dados sensíveis, por "
-"exemplo, endereço de IP, ou cancele para utilizar as informações da tela "
-"anterior."
-msgstr "IPアドレスなどの機密データを削除してレポートを作成する場合はパスワードを入力し、前の画面の情報を使用する場合はキャンセルしてください。"
+msgid "Driver detectado:"
+msgstr "ドライバーを検出しました。"
 
-msgid "Digite sua senha para gerar um relatório mais completo."
-msgstr "パスワードを入力すると、より詳細なレポートが作成されます。"
+msgid "<small>* A detecção não inclui impressoras e scanners</small>"
+msgstr "<small>* プリンター、スキャナーは検出対象に含まれません</small>"
+
+msgid "Wifi"
+msgstr "無線LAN"
+
+msgid "Rede Cabeada"
+msgstr "有線ネットワーク"
+
+msgid "Impressora 3D"
+msgstr "3Dプリンター"
+
+msgid "Scanner"
+msgstr "スキャナ"
+
+msgid "TV Digital"
+msgstr "デジタルテレビ"
+
+msgid "Webcam"
+msgstr "ウェブカメラ"
+
+msgid "Touchscreen"
+msgstr "タッチスクリーン"
+
+msgid "Som"
+msgstr "サウンド"
+
+msgid "Outros"
+msgstr "その他"
+
+msgid "Pesquisar Driver ou Firmware"
+msgstr "ドライバーまたはファームウェアの検索"
+
+msgid "Big-Driver-Manager"
+msgstr "ビッグドライバーマネージャ"
+
+msgid "Instalar ou Remover Drivers e Firmwares"
+msgstr "ドライバとファームウェアのインストールと削除"
+
+msgid ""
+"Geralmente é preciso reiniciar o computador para o driver ou firmware ser "
+"aplicado."
+msgstr ""
+"ドライバやファームウェアを適用するには、通常、コンピュータを再起動する必要が"
+"あります。"
+
+msgid "Driver ou firmware"
+msgstr "ドライバまたはファームウェア"
+
+#, fuzzy
+msgid "Aplicando - Aguarde"
+msgstr "送信中です、お待ちください..."
+
+msgid "Este pacote fornece arquivos compatíveis com este computador."
+msgstr "このパッケージは、このコンピューターに対応したファイルを提供します。"

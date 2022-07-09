@@ -2,20 +2,20 @@
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the bigocrpdf package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-# 
+#
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: bigocrpdf\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-07-09 04:17-0300\n"
+"POT-Creation-Date: 2022-07-09 14:17-0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: nl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit"
+"Content-Transfer-Encoding: 8bit\n"
 
 msgid "Torne seu PDF pesquisável"
 msgstr "Maak uw PDF doorzoekbaar"
@@ -69,8 +69,7 @@ msgstr "Bestemming:"
 msgid "Aplicar"
 msgstr "Solliciteer op"
 
-msgid ""
-"Adicionar OCR no PDF digitalizado permitindo seleção de textos e busca:"
+msgid "Adicionar OCR no PDF digitalizado permitindo seleção de textos e busca:"
 msgstr ""
 "Voeg OCR toe aan de gescande PDF om tekst te kunnen selecteren en zoeken:"
 
@@ -92,11 +91,20 @@ msgstr "Uitlijning:"
 msgid "Aplicando - Aguarde"
 msgstr "Aanvragen - Even geduld a.u.b"
 
+msgid "Abrir"
+msgstr ""
+
 msgid "Arquivo:"
 msgstr "Archief:"
 
 msgid "Pasta:"
 msgstr "Map:"
+
+msgid "OCR para PDF"
+msgstr ""
+
+msgid "Concluído!"
+msgstr ""
 
 msgid "Salvo em: "
 msgstr "Opgeslagen in "

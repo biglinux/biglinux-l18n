@@ -2,20 +2,20 @@
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the biglinux-driver-manager package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-# 
+#
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: biglinux-driver-manager\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-07-09 04:17-0300\n"
+"POT-Creation-Date: 2022-07-09 14:17-0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: zh\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit"
+"Content-Transfer-Encoding: 8bit\n"
 
 msgid "O Big-Hardware-Relatory já está em uso."
 msgstr "Big-Hardware-Relatory已经在使用。"
@@ -64,81 +64,9 @@ msgstr "该报告已被保存到档案馆。"
 msgid ""
 "Deseja visualizar o arquivo ou envia-lo ao site transfer.sh, para ter uma "
 "URL com os dados do seu computador de forma fácil de compartilhar?"
-msgstr "你想查看文件或将其发送到transfer.sh，以一种简单的方式分享来自你电脑的数据的URL吗？"
-
-msgid "Categorias"
-msgstr "类别"
-
-msgid "Principais"
-msgstr "主要内容"
-
-msgid "Driver detectado:"
-msgstr "检测到的驱动程序。"
-
-msgid "<small>* A detecção não inclui impressoras e scanners</small>"
-msgstr "<small>* 检测不包括打印机和扫描仪</small>"
-
-msgid "Placa de vídeo"
-msgstr "视频卡"
-
-msgid "Wifi"
-msgstr "无线网络"
-
-msgid "Rede Cabeada"
-msgstr "有线网络"
-
-msgid "Bluetooth"
-msgstr "蓝牙"
-
-msgid "Impressora"
-msgstr "打印机"
-
-msgid "Impressora 3D"
-msgstr "3D打印机"
-
-msgid "Scanner"
-msgstr "扫描器"
-
-msgid "TV Digital"
-msgstr "数字电视"
-
-msgid "Webcam"
-msgstr "网络摄像头"
-
-msgid "Touchscreen"
-msgstr "触摸屏"
-
-msgid "Som"
-msgstr "声音"
-
-msgid "Outros"
-msgstr "其他"
-
-msgid "Pesquisar Driver ou Firmware"
-msgstr "搜索驱动程序或固件"
-
-msgid "Resultado da pesquisa"
-msgstr "搜索结果"
-
-msgid "Big-Driver-Manager"
-msgstr "大司机-经理人"
-
-msgid "Abrir"
-msgstr "打開"
-
-msgid "Instalar ou Remover Drivers e Firmwares"
-msgstr "安装或删除驱动程序和固件"
-
-msgid ""
-"Geralmente é preciso reiniciar o computador para o driver ou firmware ser "
-"aplicado."
-msgstr "通常有必要重新启动计算机以应用驱动程序或固件。"
-
-msgid "Driver ou firmware"
-msgstr "驱动程序或固件"
-
-msgid "Este pacote fornece arquivos compatíveis com este computador."
-msgstr "该软件包提供与该计算机兼容的文件。"
+msgstr ""
+"你想查看文件或将其发送到transfer.sh，以一种简单的方式分享来自你电脑的数据的"
+"URL吗？"
 
 msgid "Concluído, reinicie o computador para ativar a configuração do driver."
 msgstr "完成后，重新启动计算机以激活驱动配置。"
@@ -166,6 +94,9 @@ msgstr "记忆"
 
 msgid "Swap (Memória Virtual)"
 msgstr "交换（虚拟内存）"
+
+msgid "Placa de vídeo"
+msgstr "视频卡"
 
 msgid "Áudio"
 msgstr "音频"
@@ -209,8 +140,28 @@ msgstr "系统信息"
 msgid "Repositórios"
 msgstr "储存库"
 
+msgid "Bluetooth"
+msgstr "蓝牙"
+
 msgid "Temperatura"
 msgstr "温度"
+
+msgid ""
+"Digite sua senha para gerar um relatório removendo dados sensíveis, por "
+"exemplo, endereço de IP, ou cancele para utilizar as informações da tela "
+"anterior."
+msgstr ""
+"输入你的密码，生成一份删除敏感数据（如IP地址）的报告，或者取消，使用前一屏幕"
+"的信息。"
+
+msgid "Digite sua senha para gerar um relatório mais completo."
+msgstr "输入你的密码，以生成更完整的报告。"
+
+msgid "Categorias"
+msgstr "类别"
+
+msgid "Principais"
+msgstr "主要内容"
 
 msgid "Resumo"
 msgstr "摘要"
@@ -224,6 +175,9 @@ msgstr "芯片"
 msgid "Armazenamento"
 msgstr "储存"
 
+msgid "Impressora"
+msgstr "打印机"
+
 msgid "Mais informações"
 msgstr "更多信息"
 
@@ -232,6 +186,12 @@ msgstr "硬件设施"
 
 msgid "Pesquisar"
 msgstr "搜索"
+
+msgid "Resultado da pesquisa"
+msgstr "搜索结果"
+
+msgid "Abrir"
+msgstr "打開"
 
 msgid "Informações Sobre o Sistema e o Hardware"
 msgstr "系统和硬件信息"
@@ -286,11 +246,59 @@ msgstr "身份证"
 msgid "Info"
 msgstr "信息"
 
-msgid ""
-"Digite sua senha para gerar um relatório removendo dados sensíveis, por "
-"exemplo, endereço de IP, ou cancele para utilizar as informações da tela "
-"anterior."
-msgstr "输入你的密码，生成一份删除敏感数据（如IP地址）的报告，或者取消，使用前一屏幕的信息。"
+msgid "Driver detectado:"
+msgstr "检测到的驱动程序。"
 
-msgid "Digite sua senha para gerar um relatório mais completo."
-msgstr "输入你的密码，以生成更完整的报告。"
+msgid "<small>* A detecção não inclui impressoras e scanners</small>"
+msgstr "<small>* 检测不包括打印机和扫描仪</small>"
+
+msgid "Wifi"
+msgstr "无线网络"
+
+msgid "Rede Cabeada"
+msgstr "有线网络"
+
+msgid "Impressora 3D"
+msgstr "3D打印机"
+
+msgid "Scanner"
+msgstr "扫描器"
+
+msgid "TV Digital"
+msgstr "数字电视"
+
+msgid "Webcam"
+msgstr "网络摄像头"
+
+msgid "Touchscreen"
+msgstr "触摸屏"
+
+msgid "Som"
+msgstr "声音"
+
+msgid "Outros"
+msgstr "其他"
+
+msgid "Pesquisar Driver ou Firmware"
+msgstr "搜索驱动程序或固件"
+
+msgid "Big-Driver-Manager"
+msgstr "大司机-经理人"
+
+msgid "Instalar ou Remover Drivers e Firmwares"
+msgstr "安装或删除驱动程序和固件"
+
+msgid ""
+"Geralmente é preciso reiniciar o computador para o driver ou firmware ser "
+"aplicado."
+msgstr "通常有必要重新启动计算机以应用驱动程序或固件。"
+
+msgid "Driver ou firmware"
+msgstr "驱动程序或固件"
+
+#, fuzzy
+msgid "Aplicando - Aguarde"
+msgstr "正在发送，请等待..."
+
+msgid "Este pacote fornece arquivos compatíveis com este computador."
+msgstr "该软件包提供与该计算机兼容的文件。"

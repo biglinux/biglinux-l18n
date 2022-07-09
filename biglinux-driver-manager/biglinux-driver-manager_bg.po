@@ -2,20 +2,20 @@
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the biglinux-driver-manager package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-# 
+#
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: biglinux-driver-manager\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-07-09 04:17-0300\n"
+"POT-Creation-Date: 2022-07-09 14:17-0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: bg\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit"
+"Content-Transfer-Encoding: 8bit\n"
 
 msgid "O Big-Hardware-Relatory já está em uso."
 msgstr "Big-Hardware-Relatory вече се използва."
@@ -70,82 +70,6 @@ msgstr ""
 "Искате ли да прегледате файла или да го изпратите на transfer.sh, за да "
 "получите URL адрес с данните от вашия компютър по лесен начин за споделяне?"
 
-msgid "Categorias"
-msgstr "Категории"
-
-msgid "Principais"
-msgstr "Основен"
-
-msgid "Driver detectado:"
-msgstr "Открит драйвер:"
-
-msgid "<small>* A detecção não inclui impressoras e scanners</small>"
-msgstr "<small>* Откриването не включва принтери и скенери</small>"
-
-msgid "Placa de vídeo"
-msgstr "Видеокарта"
-
-msgid "Wifi"
-msgstr "Wifi"
-
-msgid "Rede Cabeada"
-msgstr "Кабелна мрежа"
-
-msgid "Bluetooth"
-msgstr "Bluetooth"
-
-msgid "Impressora"
-msgstr "Принтер"
-
-msgid "Impressora 3D"
-msgstr "3D принтер"
-
-msgid "Scanner"
-msgstr "Скенер"
-
-msgid "TV Digital"
-msgstr "Цифрова телевизия"
-
-msgid "Webcam"
-msgstr "Уеб камера"
-
-msgid "Touchscreen"
-msgstr "Сензорен екран"
-
-msgid "Som"
-msgstr "Звук"
-
-msgid "Outros"
-msgstr "Други"
-
-msgid "Pesquisar Driver ou Firmware"
-msgstr "Търсене на драйвер или фърмуер"
-
-msgid "Resultado da pesquisa"
-msgstr "Резултат от търсенето"
-
-msgid "Big-Driver-Manager"
-msgstr "Big-Driver-Manager"
-
-msgid "Abrir"
-msgstr "Отворете"
-
-msgid "Instalar ou Remover Drivers e Firmwares"
-msgstr "Инсталиране или премахване на драйвери и фърмуер"
-
-msgid ""
-"Geralmente é preciso reiniciar o computador para o driver ou firmware ser "
-"aplicado."
-msgstr ""
-"Обикновено е необходимо да рестартирате компютъра, за да се приложи "
-"драйверът или фърмуерът."
-
-msgid "Driver ou firmware"
-msgstr "Драйвер или фърмуер"
-
-msgid "Este pacote fornece arquivos compatíveis com este computador."
-msgstr "Този пакет предоставя файлове, съвместими с този компютър."
-
 msgid "Concluído, reinicie o computador para ativar a configuração do driver."
 msgstr ""
 "След като приключите, рестартирайте компютъра, за да активирате "
@@ -174,6 +98,9 @@ msgstr "Памет"
 
 msgid "Swap (Memória Virtual)"
 msgstr "Подмяна (виртуална памет)"
+
+msgid "Placa de vídeo"
+msgstr "Видеокарта"
 
 msgid "Áudio"
 msgstr "Аудио"
@@ -217,8 +144,29 @@ msgstr "Информация за системата"
 msgid "Repositórios"
 msgstr "Хранилища"
 
+msgid "Bluetooth"
+msgstr "Bluetooth"
+
 msgid "Temperatura"
 msgstr "Температура"
+
+msgid ""
+"Digite sua senha para gerar um relatório removendo dados sensíveis, por "
+"exemplo, endereço de IP, ou cancele para utilizar as informações da tela "
+"anterior."
+msgstr ""
+"Въведете паролата си, за да генерирате отчет, в който са премахнати "
+"чувствителни данни, например IP адрес, или отменете, за да използвате "
+"информацията от предишния екран."
+
+msgid "Digite sua senha para gerar um relatório mais completo."
+msgstr "Въведете паролата си, за да генерирате по-пълен отчет."
+
+msgid "Categorias"
+msgstr "Категории"
+
+msgid "Principais"
+msgstr "Основен"
 
 msgid "Resumo"
 msgstr "Резюме"
@@ -232,6 +180,9 @@ msgstr "Pci"
 msgid "Armazenamento"
 msgstr "Съхранение"
 
+msgid "Impressora"
+msgstr "Принтер"
+
 msgid "Mais informações"
 msgstr "Повече информация"
 
@@ -240,6 +191,12 @@ msgstr "Хардуер"
 
 msgid "Pesquisar"
 msgstr "Търсене"
+
+msgid "Resultado da pesquisa"
+msgstr "Резултат от търсенето"
+
+msgid "Abrir"
+msgstr "Отворете"
 
 msgid "Informações Sobre o Sistema e o Hardware"
 msgstr "Информация за системата и хардуера"
@@ -297,14 +254,61 @@ msgstr "ID"
 msgid "Info"
 msgstr "Информация"
 
-msgid ""
-"Digite sua senha para gerar um relatório removendo dados sensíveis, por "
-"exemplo, endereço de IP, ou cancele para utilizar as informações da tela "
-"anterior."
-msgstr ""
-"Въведете паролата си, за да генерирате отчет, в който са премахнати "
-"чувствителни данни, например IP адрес, или отменете, за да използвате "
-"информацията от предишния екран."
+msgid "Driver detectado:"
+msgstr "Открит драйвер:"
 
-msgid "Digite sua senha para gerar um relatório mais completo."
-msgstr "Въведете паролата си, за да генерирате по-пълен отчет."
+msgid "<small>* A detecção não inclui impressoras e scanners</small>"
+msgstr "<small>* Откриването не включва принтери и скенери</small>"
+
+msgid "Wifi"
+msgstr "Wifi"
+
+msgid "Rede Cabeada"
+msgstr "Кабелна мрежа"
+
+msgid "Impressora 3D"
+msgstr "3D принтер"
+
+msgid "Scanner"
+msgstr "Скенер"
+
+msgid "TV Digital"
+msgstr "Цифрова телевизия"
+
+msgid "Webcam"
+msgstr "Уеб камера"
+
+msgid "Touchscreen"
+msgstr "Сензорен екран"
+
+msgid "Som"
+msgstr "Звук"
+
+msgid "Outros"
+msgstr "Други"
+
+msgid "Pesquisar Driver ou Firmware"
+msgstr "Търсене на драйвер или фърмуер"
+
+msgid "Big-Driver-Manager"
+msgstr "Big-Driver-Manager"
+
+msgid "Instalar ou Remover Drivers e Firmwares"
+msgstr "Инсталиране или премахване на драйвери и фърмуер"
+
+msgid ""
+"Geralmente é preciso reiniciar o computador para o driver ou firmware ser "
+"aplicado."
+msgstr ""
+"Обикновено е необходимо да рестартирате компютъра, за да се приложи "
+"драйверът или фърмуерът."
+
+msgid "Driver ou firmware"
+msgstr "Драйвер или фърмуер"
+
+#, fuzzy
+msgid "Aplicando - Aguarde"
+msgstr "Изпращане, моля, изчакайте..."
+
+msgid "Este pacote fornece arquivos compatíveis com este computador."
+msgstr "Този пакет предоставя файлове, съвместими с този компютър."

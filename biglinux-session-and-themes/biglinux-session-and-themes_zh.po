@@ -2,20 +2,20 @@
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the biglinux-session-and-themes package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-# 
+#
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: biglinux-session-and-themes\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-07-09 04:17-0300\n"
+"POT-Creation-Date: 2022-07-09 14:17-0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: zh\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit"
+"Content-Transfer-Encoding: 8bit\n"
 
 msgid "Temas, Desktop e Ajustes"
 msgstr "主题、桌面和设置"
@@ -93,7 +93,8 @@ msgstr "圆形的边缘。"
 msgid ""
 "Esse tema possui transparências com efeitos que<br>podem tornar o sistema "
 "lento em computadores<br>antigos ou ambientes virtualizados."
-msgstr "此主題具有透明效果，<br>可能會降低舊<br>計算機或虛擬化環境中的系統速度。"
+msgstr ""
+"此主題具有透明效果，<br>可能會降低舊<br>計算機或虛擬化環境中的系統速度。"
 
 msgid "<b>Classic</b> e <b>New</b> têm melhor desempenho."
 msgstr "<b>经典</b>和<b>新版</b>有更好的性能。"
@@ -110,7 +111,9 @@ msgstr "选择在启动时加载到内存中的程序"
 msgid ""
 "O Preload carrega arquivos dos programas na memória, para que iniciem "
 "rapidamente. O uso excessivo causa lentidão. Escolha a opção desejada:"
-msgstr "预加载将程序文件加载到内存中，以便它们快速启动。过度使用会导致速度减慢。选择所需的选项。"
+msgstr ""
+"预加载将程序文件加载到内存中，以便它们快速启动。过度使用会导致速度减慢。选择"
+"所需的选项。"
 
 msgid "Automático"
 msgstr "自动的"
