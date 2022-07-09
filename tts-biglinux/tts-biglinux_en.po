@@ -2,20 +2,20 @@
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the tts-biglinux package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
+# 
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: tts-biglinux\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-07-09 14:19-0300\n"
+"POT-Creation-Date: 2022-07-09 04:17-0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: en\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
+"Content-Transfer-Encoding: 8bit"
 
 msgid "Configurações de texto para voz"
 msgstr "Text to speech settings"
@@ -55,7 +55,7 @@ msgid "Números maiores deixam a voz mais aguda, o padrão é: -25"
 msgstr "Higher numbers make the voice higher, the standard is: -25"
 
 msgid "Tom"
-msgstr "Tom"
+msgstr "Tone"
 
 msgid "O padrão é: 0."
 msgstr "The default is: 0."

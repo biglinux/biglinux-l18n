@@ -12,25 +12,25 @@ msgstr ""
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
-"Language: es\n"
+"Language: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit"
 
 msgid "Configurações de texto para voz"
-msgstr "Configuración de texto a voz"
+msgstr "Configurações de texto para voz"
 
 msgid "Vozes - Abrir BigStore"
-msgstr "Voces - Open BigStore"
+msgstr "Vozes - Abrir BigStore"
 
 msgid "Voice Configuration"
-msgstr "Configuración de voz"
+msgstr "Voice Configuration"
 
 msgid "Configurar voz"
-msgstr "Configurar la voz"
+msgstr "Configurar voz"
 
 msgid "Para falar um texto selecionado use o atalho "
-msgstr "Para hablar un texto seleccionado, utilice el atajo de teclado "
+msgstr "Para falar um texto selecionado use o atalho "
 
 msgid "[Alt] + [V]"
 msgstr "[Alt] + [V]"
@@ -39,34 +39,32 @@ msgid ""
 "ou o ícone na sessão Utilitários no menu do sistema. Para interromper a "
 "leitura use novamene o atalho ou ícone."
 msgstr ""
-"o icono en la sección de Utilidades del menú del sistema. Para dejar de "
-"leer, vuelva a utilizar el acceso directo o el icono."
+"ou o ícone na sessão Utilitários no menu do sistema. Para interromper a "
+"leitura use novamene o atalho ou ícone."
 
 msgid "Selecione as configurações de sua preferência"
-msgstr "Seleccione su configuración preferida"
+msgstr "Selecione as configurações de sua preferência"
 
 msgid "Números maiores deixam a voz mais rápida, o padrão é: -25"
-msgstr ""
-"Los números más grandes hacen que la voz sea más rápida, el valor por "
-"defecto es: -25"
+msgstr "Números maiores deixam a voz mais rápida, o padrão é: -25"
 
 msgid "Velocidade"
-msgstr "Velocidad"
+msgstr "Velocidade"
 
 msgid "Números maiores deixam a voz mais aguda, o padrão é: -25"
-msgstr "Los números más altos hacen que la voz sea más alta, la norma es: -25"
+msgstr "Números maiores deixam a voz mais aguda, o padrão é: -25"
 
 msgid "Tom"
-msgstr "Tono"
+msgstr "Tom"
 
 msgid "O padrão é: 0."
-msgstr "El valor por defecto es: 0."
+msgstr "O padrão é: 0."
 
 msgid "Volume"
-msgstr "Volumen"
+msgstr "Volume"
 
 msgid "As vozes são otimizadas para idiomas expecíficos."
-msgstr "Las voces están optimizadas para idiomas específicos."
+msgstr "As vozes são otimizadas para idiomas expecíficos."
 
 msgid "Voz"
 msgstr "Voz"
