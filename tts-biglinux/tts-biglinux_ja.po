@@ -2,20 +2,20 @@
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the tts-biglinux package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-# 
+#
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: tts-biglinux\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-06-21 03:19-0300\n"
+"POT-Creation-Date: 2022-07-09 04:17-0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ja\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit"
+"Content-Transfer-Encoding: 8bit\n"
 
 msgid "Configurações de texto para voz"
 msgstr "音声合成の設定"
@@ -39,7 +39,9 @@ msgid ""
 "ou o ícone na sessão Utilitários no menu do sistema. Para interromper a "
 "leitura use novamene o atalho ou ícone."
 msgstr ""
-"またはシステムメニューの「ユーティリティ」セクションのアイコンをクリックします。読み上げを中止する場合は、もう一度ショートカットやアイコンを使ってください。"
+"またはシステムメニューの「ユーティリティ」セクションのアイコンをクリックしま"
+"す。読み上げを中止する場合は、もう一度ショートカットやアイコンを使ってくださ"
+"い。"
 
 msgid "Selecione as configurações de sua preferência"
 msgstr "お好みの設定を選択"

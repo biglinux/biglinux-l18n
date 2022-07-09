@@ -2,20 +2,20 @@
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the biglinux-grub-restore package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-# 
+#
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: biglinux-grub-restore\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-06-21 03:19-0300\n"
+"POT-Creation-Date: 2022-07-09 04:17-0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: nl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit"
+"Content-Transfer-Encoding: 8bit\n"
 
 msgid "Este utilitário deve ser utilizado somente no modo live!"
 msgstr "Dit hulpmiddel mag alleen in live mode gebruikt worden!"
@@ -39,11 +39,14 @@ msgstr ""
 msgid "Restaurar o Boot, Grub e initrd"
 msgstr "Herstel Boot, Grub en initrd"
 
+msgid "Aguarde..."
+msgstr ""
+
 msgid ""
 "Não encontrei nenhum Linux instalado neste computador, processo cancelado.\n"
 msgstr ""
-"Ik kon geen Linux geïnstalleerd op deze computer vinden, proces geannuleerd."
-"\n"
+"Ik kon geen Linux geïnstalleerd op deze computer vinden, proces "
+"geannuleerd.\n"
 
 msgid ""
 "O boot no modo live está utilizando o modo EFI, porém não encontrei nenhuma "
@@ -71,10 +74,8 @@ msgstr ""
 "van de computer om in EFI modus op te starten.\n"
 "Wilt u het proberen, ook al zal het waarschijnlijk niet werken?"
 
-msgid ""
-"Encontrei mais de uma partição EFI, selecione qual devo utilizar:\n"
-msgstr ""
-"Ik vond meer dan één EFI-partitie, kies welke u wilt gebruiken:\n"
+msgid "Encontrei mais de uma partição EFI, selecione qual devo utilizar:\n"
+msgstr "Ik vond meer dan één EFI-partitie, kies welke u wilt gebruiken:\n"
 
 msgid "Nenhuma partição EFI selecionada, processo cancelado."
 msgstr "Geen EFI-partitie geselecteerd, proces geannuleerd."
@@ -190,6 +191,9 @@ msgid ""
 msgstr ""
 "Interactief, opent de pamac-manager pakketbeheerder binnen het gekozen "
 "systeem."
+
+msgid "Concluído!"
+msgstr ""
 
 msgid ""
 "Confirme os dados\n"

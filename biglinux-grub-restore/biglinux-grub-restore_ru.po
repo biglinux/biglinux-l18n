@@ -2,20 +2,20 @@
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the biglinux-grub-restore package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-# 
+#
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: biglinux-grub-restore\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-06-21 03:19-0300\n"
+"POT-Creation-Date: 2022-07-09 04:17-0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit"
+"Content-Transfer-Encoding: 8bit\n"
 
 msgid "Este utilitário deve ser utilizado somente no modo live!"
 msgstr "Эта утилита должна использоваться только в режиме реального времени!"
@@ -37,6 +37,9 @@ msgstr ""
 
 msgid "Restaurar o Boot, Grub e initrd"
 msgstr "Восстановление загрузки, Grub и initrd"
+
+msgid "Aguarde..."
+msgstr ""
 
 msgid ""
 "Não encontrei nenhum Linux instalado neste computador, processo cancelado.\n"
@@ -70,10 +73,8 @@ msgstr ""
 "Bios компьютера для загрузки в режиме EFI.\n"
 "Хотите попробовать, даже если это вряд ли получится?"
 
-msgid ""
-"Encontrei mais de uma partição EFI, selecione qual devo utilizar:\n"
-msgstr ""
-"Я нашел несколько разделов EFI, выберите, какой из них использовать:\n"
+msgid "Encontrei mais de uma partição EFI, selecione qual devo utilizar:\n"
+msgstr "Я нашел несколько разделов EFI, выберите, какой из них использовать:\n"
 
 msgid "Nenhuma partição EFI selecionada, processo cancelado."
 msgstr "Не выбран раздел EFI, процесс отменен."
@@ -189,6 +190,9 @@ msgid ""
 "selecionado."
 msgstr ""
 "Интерактивный, открывает менеджер пакетов pamac-manager в выбранной системе."
+
+msgid "Concluído!"
+msgstr ""
 
 msgid ""
 "Confirme os dados\n"

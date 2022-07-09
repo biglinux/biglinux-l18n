@@ -3,18 +3,18 @@
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the big-store package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-# 
+#
 # #-#-#-#-#  python.pot (PACKAGE VERSION)  #-#-#-#-#
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) YEAR ORGANIZATION
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-# 
+#
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-07-08 12:29-0300\n"
+"POT-Creation-Date: 2022-07-09 04:17-0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -22,13 +22,25 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: pygettext.py 1.5"
+"Generated-By: pygettext.py 1.5\n"
 
 msgid "Big-Store está aberta."
 msgstr "Le Big-Store est ouvert."
 
 msgid "Big-Store"
 msgstr "Big-Store"
+
+#, fuzzy
+msgid "Instalar"
+msgstr "Installation de"
+
+#, fuzzy
+msgid "Remover"
+msgstr "Retirer:"
+
+#
+msgid "Internet"
+msgstr ""
 
 msgid "Navegadores"
 msgstr "Navigateurs"
@@ -57,6 +69,10 @@ msgstr "Outils de réseau"
 msgid "Notícias, Feeds e RSS"
 msgstr "Actualités, flux et RSS"
 
+#, fuzzy
+msgid "Escritório"
+msgstr "Dépôt :"
+
 msgid "Suíte Office"
 msgstr "Office Suite"
 
@@ -68,6 +84,10 @@ msgstr "Éditeurs de PDF"
 
 msgid "Agenda de tarefas e contatos"
 msgstr "Calendrier des tâches et des contacts"
+
+#
+msgid "Gráficos"
+msgstr ""
 
 msgid "Visualizadores de imagem"
 msgstr "Visionneuses d'images"
@@ -83,6 +103,10 @@ msgstr "Convertir, redimensionner ou compresser des images"
 
 msgid "Edição 3D e CAD"
 msgstr "Édition 3D et CAO"
+
+#
+msgid "Multimídia"
+msgstr ""
 
 msgid "Reprodutores de áudio"
 msgstr "Lecteurs audio"
@@ -110,6 +134,10 @@ msgstr "Enregistreurs et copieurs de CD et DVD"
 
 msgid "Webcam, gravação de tela e transmissão de vídeo"
 msgstr "Webcam, enregistrement d'écran et streaming vidéo"
+
+#
+msgid "Jogos"
+msgstr ""
 
 msgid "Gerenciadores de jogos"
 msgstr "Gestionnaires de jeux"
@@ -147,6 +175,14 @@ msgstr "Conseil d'administration"
 msgid "RPG"
 msgstr "RPG"
 
+#
+msgid "Outros"
+msgstr ""
+
+#
+msgid "Sistema"
+msgstr ""
+
 msgid "Armazenamento e partições"
 msgstr "Rangement et cloisons"
 
@@ -158,6 +194,10 @@ msgstr "Java JRE"
 
 msgid "Virtualização"
 msgstr "Virtualisation"
+
+#
+msgid "Desenvolvimento"
+msgstr ""
 
 msgid "Editores de código e IDE"
 msgstr "Editeurs de code et IDEs"
@@ -173,6 +213,26 @@ msgstr "Programmes autochtones"
 
 msgid "Programas AUR"
 msgstr "Programmes AUR"
+
+#
+msgid "Instalado na partição:"
+msgstr ""
+
+#
+msgid "Tamanho da partição:"
+msgstr ""
+
+#
+msgid "Espaço utilizado:"
+msgstr ""
+
+#
+msgid "Espaço livre:"
+msgstr ""
+
+#
+msgid "Data que o sistema foi instalado:"
+msgstr ""
 
 msgid "Pacotes nativos e AUR"
 msgstr "Paquets natifs et AUR"
@@ -207,6 +267,10 @@ msgstr "Non informé"
 msgid "Atualizar"
 msgstr "Mise à jour"
 
+#
+msgid "Categorias"
+msgstr ""
+
 msgid "Versão instalada"
 msgstr "Version installée"
 
@@ -216,6 +280,10 @@ msgstr "Version disponible"
 msgid "Versão"
 msgstr "Version"
 
+#
+msgid "Fechar"
+msgstr ""
+
 msgid "Pacote .deb"
 msgstr "Paquet .deb"
 
@@ -223,6 +291,14 @@ msgid ""
 "Esse programa está em formato .deb, que possui a melhor integração com o "
 "sistema."
 msgstr "Ce programme est au format .deb, qui s'intègre le mieux au système."
+
+#, fuzzy
+msgid "Mais informações"
+msgstr "Paramètres"
+
+#
+msgid "Voltar"
+msgstr ""
 
 msgid "Dependências a instalar"
 msgstr "Dépendances à installer"
@@ -256,6 +332,10 @@ msgstr "Version disponible :"
 
 msgid "Repositório:"
 msgstr "Dépôt :"
+
+#
+msgid "Cancelar"
+msgstr ""
 
 msgid "Instalando"
 msgstr "Installation de"
@@ -292,6 +372,10 @@ msgid "Pacotes"
 msgstr "Packages"
 
 msgid "Ativado"
+msgstr "Activé"
+
+#, fuzzy
+msgid "Desativado"
 msgstr "Activé"
 
 msgid "Atualizações"
@@ -412,6 +496,10 @@ msgstr ""
 "Affiche uniquement les programmes<br>sélectionnés \n"
 "et cache les résultats qui sont utiles <br>\n"
 "uniquement pour les utilisateurs avancés."
+
+#
+msgid "Aplicando - Aguarde"
+msgstr ""
 
 msgid "Procurar programa"
 msgstr "Programme de recherche"

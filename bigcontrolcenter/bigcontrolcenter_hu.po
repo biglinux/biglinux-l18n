@@ -2,20 +2,20 @@
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the bigcontrolcenter package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-# 
+#
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: bigcontrolcenter\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-07-08 12:29-0300\n"
+"POT-Creation-Date: 2022-07-09 04:17-0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: hu\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit"
+"Content-Transfer-Encoding: 8bit\n"
 
 msgid ""
 "A webcam já está sendo utilizada pelo programa: $WEBCAM_BUSY\n"
@@ -30,11 +30,20 @@ msgstr ""
 "Az elvégzett változtatások láthatóak\n"
 "a webkamera képében más programokban."
 
+msgid "Webcam"
+msgstr ""
+
 msgid "Category"
 msgstr "Kategória"
 
 msgid "Name"
 msgstr "Név"
+
+msgid "ID"
+msgstr ""
+
+msgid "Info"
+msgstr ""
 
 msgid ""
 "O relatório foi salvo no arquivo $FILE_TO_SAVE\n"
@@ -48,6 +57,9 @@ msgstr ""
 msgid "Visualizar o relatório"
 msgstr "A jelentés megtekintése"
 
+msgid "Fechar"
+msgstr ""
+
 msgid "Hardinfo Relatory"
 msgstr "Hardinfo Kapcsolódó"
 
@@ -56,6 +68,15 @@ msgstr "Bevezetés a BigLinuxba"
 
 msgid "Central de Controle"
 msgstr "Vezérlőközpont"
+
+msgid "Bom dia"
+msgstr ""
+
+msgid "Boa tarde"
+msgstr ""
+
+msgid "Boa noite"
+msgstr ""
 
 msgid "Aguarde, carregando..."
 msgstr "Készülj, töltés..."
@@ -80,6 +101,10 @@ msgid ""
 "extremamente simples."
 msgstr ""
 "Teljes konfigurációkat kínálunk, amelyek közül nagyon egyszerűen választhat."
+
+#, fuzzy
+msgid "Temas, Desktop e Ajustes"
+msgstr "Témák, asztal és beállítások"
 
 msgid "Escolha seu Avatar"
 msgstr "Válassza ki az avatárját"
@@ -141,13 +166,15 @@ msgstr "Zajcsökkentő"
 msgid "Configurar a voz do sistema (TTS)"
 msgstr "Rendszerhang (TTS) beállítása"
 
+msgid "OCR para PDF"
+msgstr ""
+
 msgid "Doação e Redes sociais"
 msgstr "Adományozás és szociális hálózatok"
 
 msgid "Sua doação é muito importante para o projeto e siga as redes sociais."
 msgstr ""
 "Adománya nagyon fontos a projekt számára, és kövesse a közösségi hálózatokat."
-""
 
 msgid "Doação"
 msgstr "Adományozás"
@@ -192,8 +219,7 @@ msgstr "Fejlesztési programok a QT számára."
 msgid ""
 "Configurações de uso dos antigos CDs de música, não são válidas para músicas "
 "em MP3."
-msgstr ""
-"A régi zenei CD-k használati beállításai nem érvényesek az MP3 zenére."
+msgstr "A régi zenei CD-k használati beállításai nem érvényesek az MP3 zenére."
 
 msgid "Procurar servidores (zeroconf)"
 msgstr "Keresés szerverek (zeroconf)"
@@ -278,7 +304,6 @@ msgid ""
 msgstr ""
 "Ezzel a programmal az Apple iPhone vagy iPad készülékén lévő programokhoz "
 "hasonló módon férhet hozzá, mintha egy USB-pendrive-on lévő fájlokat érne el."
-""
 
 msgid "Áreas de trabalho virtuais e atividades"
 msgstr "Virtuális munkaterületek és tevékenységek"
@@ -341,7 +366,6 @@ msgstr "Felhasználó menedzser"
 msgid "Adiciona, remove ou edita usuários e grupos do sistema."
 msgstr ""
 "Rendszerfelhasználók és csoportok hozzáadása, eltávolítása vagy szerkesztése."
-""
 
 msgid "Gerenciar arquivos"
 msgstr "Fájlok kezelése"
@@ -376,8 +400,7 @@ msgstr "Hang és mikrofon"
 msgid ""
 "Configurar ou alterar dispositivos de entrada e saída de áudio. (Ex: HDMI)"
 msgstr ""
-"Audió bemeneti és kimeneti eszközök konfigurálása vagy módosítása (pl.: "
-"HDMI)"
+"Audió bemeneti és kimeneti eszközök konfigurálása vagy módosítása (pl.: HDMI)"
 
 msgid "Qt QDBusViewer "
 msgstr "Qt QDBusViewer "
@@ -418,6 +441,16 @@ msgstr "A képernyőbeállítások visszaállítása megtörtént."
 msgid "Configurações da tela"
 msgstr "Képernyőbeállítások"
 
+#, fuzzy
+msgid "Categorias"
+msgstr "Kategória"
+
+msgid "Principais"
+msgstr ""
+
+msgid "Sistema"
+msgstr ""
+
 msgid "Aparência"
 msgstr "Megjelenés"
 
@@ -429,6 +462,9 @@ msgstr "Testreszabás"
 
 msgid "Telefone"
 msgstr "Telefon"
+
+msgid "Multimídia"
+msgstr ""
 
 msgid "Rede e Internet"
 msgstr "Hálózat és internet"
@@ -445,11 +481,23 @@ msgstr "Adatvédelem"
 msgid "Servidor"
 msgstr "Szerver"
 
+msgid "Desenvolvimento"
+msgstr ""
+
 msgid "Sobre"
 msgstr "A  oldalról"
 
+msgid "Outros"
+msgstr ""
+
 msgid "Pesquisar..."
 msgstr "Keresés..."
+
+msgid "Resultado da pesquisa"
+msgstr ""
+
+msgid "Abrir"
+msgstr ""
 
 msgid "Temas, desktop e ajustes"
 msgstr "Témák, asztal és beállítások"
@@ -504,7 +552,6 @@ msgid ""
 "conexão do seu dispositivo Android.\n"
 "<br>\n"
 "*Caso esteja utilizando o dados móveis, será consumido do seu plano de dados."
-""
 msgstr ""
 "Hogyan használhatod az internetet Android táblagépedről vagy "
 "okostelefonodról:\n"
@@ -738,8 +785,7 @@ msgstr ""
 "másolja az Android ID-t, majd kattintson a (Google Apps aktiválása) gombra, "
 "hogy megnyíljon az eszköz regisztrációs oldala, be kell jelentkeznie a "
 "Google-fiókjába, adja meg az Android ID-t, és regisztráljon. Néhány percig "
-"eltarthat, amíg aktiválódik a Waydroidodon. Zárja be és nyissa ki újra. "
-"Kész!"
+"eltarthat, amíg aktiválódik a Waydroidodon. Zárja be és nyissa ki újra. Kész!"
 
 msgid "Exibir ID do Android"
 msgstr "Android ID megjelenítése"

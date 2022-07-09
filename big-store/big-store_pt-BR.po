@@ -3,18 +3,18 @@
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the big-store package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-# 
+#
 # #-#-#-#-#  python.pot (PACKAGE VERSION)  #-#-#-#-#
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) YEAR ORGANIZATION
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-# 
+#
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-07-09 02:17-0300\n"
+"POT-Creation-Date: 2022-07-09 04:17-0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -22,13 +22,27 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: pygettext.py 1.5"
+"Generated-By: pygettext.py 1.5\n"
 
 msgid "Big-Store está aberta."
 msgstr "Big-Store está aberta."
 
 msgid "Big-Store"
 msgstr "Big-Store"
+
+#, fuzzy
+msgid "Instalar"
+msgstr "Instalando"
+
+#
+# File: big-store/big-store/usr/share/bigbashview/bcc/apps/big-store/view_appstream_pamac.py, line: 242
+#, fuzzy
+msgid "Remover"
+msgstr "Remove:"
+
+#
+msgid "Internet"
+msgstr ""
 
 msgid "Navegadores"
 msgstr "Navegadores"
@@ -57,6 +71,13 @@ msgstr "Ferramentas de rede"
 msgid "Notícias, Feeds e RSS"
 msgstr "Notícias, Feeds e RSS"
 
+#
+# File: big-store/big-store/usr/share/bigbashview/bcc/apps/big-store/view_appstream_pamac.py, line: 170
+# File: big-store/big-store/usr/share/bigbashview/bcc/apps/big-store/view_flatpak_pamac.py, line: 133
+#, fuzzy
+msgid "Escritório"
+msgstr "Repositório:"
+
 msgid "Suíte Office"
 msgstr "Suíte Office"
 
@@ -68,6 +89,10 @@ msgstr "Editores de PDF"
 
 msgid "Agenda de tarefas e contatos"
 msgstr "Agenda de tarefas e contatos"
+
+#
+msgid "Gráficos"
+msgstr ""
 
 msgid "Visualizadores de imagem"
 msgstr "Visualizadores de imagem"
@@ -83,6 +108,10 @@ msgstr "Converter, redimensionar ou compactar imagens"
 
 msgid "Edição 3D e CAD"
 msgstr "Edição 3D e CAD"
+
+#
+msgid "Multimídia"
+msgstr ""
 
 msgid "Reprodutores de áudio"
 msgstr "Reprodutores de áudio"
@@ -110,6 +139,10 @@ msgstr "Gravadores e copiadores de CD e DVD"
 
 msgid "Webcam, gravação de tela e transmissão de vídeo"
 msgstr "Webcam, gravação de tela e transmissão de vídeo"
+
+#
+msgid "Jogos"
+msgstr ""
 
 msgid "Gerenciadores de jogos"
 msgstr "Gerenciadores de jogos"
@@ -147,6 +180,14 @@ msgstr "Tabuleiro"
 msgid "RPG"
 msgstr "RPG"
 
+#
+msgid "Outros"
+msgstr ""
+
+#
+msgid "Sistema"
+msgstr ""
+
 msgid "Armazenamento e partições"
 msgstr "Armazenamento e partições"
 
@@ -158,6 +199,10 @@ msgstr "Java JRE"
 
 msgid "Virtualização"
 msgstr "Virtualização"
+
+#
+msgid "Desenvolvimento"
+msgstr ""
 
 msgid "Editores de código e IDE"
 msgstr "Editores de código e IDE"
@@ -173,6 +218,26 @@ msgstr "Programas Nativos"
 
 msgid "Programas AUR"
 msgstr "Programas AUR"
+
+#
+msgid "Instalado na partição:"
+msgstr ""
+
+#
+msgid "Tamanho da partição:"
+msgstr ""
+
+#
+msgid "Espaço utilizado:"
+msgstr ""
+
+#
+msgid "Espaço livre:"
+msgstr ""
+
+#
+msgid "Data que o sistema foi instalado:"
+msgstr ""
 
 msgid "Pacotes nativos e AUR"
 msgstr "Pacotes nativos e AUR"
@@ -204,7 +269,7 @@ msgstr "Pacote: "
 msgid "Não informada"
 msgstr "Não informada"
 
-# 
+#
 # File: big-store/big-store/usr/share/bigbashview/bcc/apps/big-store/category_appstream_pamac.py, line: 68
 # File: big-store/big-store/usr/share/bigbashview/bcc/apps/big-store/search_appstream_pamac.py, line: 65
 # File: big-store/big-store/usr/share/bigbashview/bcc/apps/big-store/search_appstream_pamac_simple.py, line: 65
@@ -213,6 +278,10 @@ msgstr "Não informada"
 # File: big-store/big-store/usr/share/bigbashview/bcc/apps/big-store/view_flatpak_pamac.py, line: 81
 msgid "Atualizar"
 msgstr "Atualizar"
+
+#
+msgid "Categorias"
+msgstr ""
 
 msgid "Versão instalada"
 msgstr "Versão instalada"
@@ -223,6 +292,10 @@ msgstr "Versão disponível"
 msgid "Versão"
 msgstr "Versão"
 
+#
+msgid "Fechar"
+msgstr ""
+
 msgid "Pacote .deb"
 msgstr "Pacote .deb"
 
@@ -232,6 +305,14 @@ msgid ""
 msgstr ""
 "Esse programa está em formato .deb, que possui a melhor integração com o "
 "sistema."
+
+#, fuzzy
+msgid "Mais informações"
+msgstr "Configurações"
+
+#
+msgid "Voltar"
+msgstr ""
 
 msgid "Dependências a instalar"
 msgstr "Dependências a instalar"
@@ -254,28 +335,32 @@ msgstr "mas não está disponível"
 msgid "Programas Flatpak"
 msgstr "Programas Flatpak"
 
-# 
+#
 # File: big-store/big-store/usr/share/bigbashview/bcc/apps/big-store/view_appstream_pamac.py, line: 94
 # File: big-store/big-store/usr/share/bigbashview/bcc/apps/big-store/view_flatpak_pamac.py, line: 78
 msgid "Executar"
 msgstr "Executar"
 
-# 
+#
 # File: big-store/big-store/usr/share/bigbashview/bcc/apps/big-store/view_appstream_pamac.py, line: 137
 # File: big-store/big-store/usr/share/bigbashview/bcc/apps/big-store/view_flatpak_pamac.py, line: 103
 msgid "Pacote:"
 msgstr "Pacote:"
 
-# 
+#
 # File: big-store/big-store/usr/share/bigbashview/bcc/apps/big-store/view_flatpak_pamac.py, line: 108
 msgid "Versão disponível:"
 msgstr "Versão disponível:"
 
-# 
+#
 # File: big-store/big-store/usr/share/bigbashview/bcc/apps/big-store/view_appstream_pamac.py, line: 170
 # File: big-store/big-store/usr/share/bigbashview/bcc/apps/big-store/view_flatpak_pamac.py, line: 133
 msgid "Repositório:"
 msgstr "Repositório:"
+
+#
+msgid "Cancelar"
+msgstr ""
 
 msgid "Instalando"
 msgstr "Instalando"
@@ -286,13 +371,13 @@ msgstr "Removendo"
 msgid "Programas Snap"
 msgstr "Programas Snap"
 
-# 
+#
 # File: big-store/big-store/usr/share/bigbashview/bcc/apps/big-store/view_appstream_pamac.py, line: 146
 # File: big-store/big-store/usr/share/bigbashview/bcc/apps/big-store/view_appstream_pamac.py, line: 150
 msgid "Versão disponivel:"
 msgstr "Versão disponivel:"
 
-# 
+#
 # File: big-store/big-store/usr/share/bigbashview/bcc/apps/big-store/view_appstream_pamac.py, line: 165
 # File: big-store/big-store/usr/share/bigbashview/bcc/apps/big-store/view_flatpak_pamac.py, line: 128
 msgid "Licença:"
@@ -301,7 +386,7 @@ msgstr "Licença:"
 msgid "AUR"
 msgstr "AUR"
 
-# 
+#
 # File: big-store/big-store/usr/share/bigbashview/bcc/apps/big-store/view_appstream_pamac.py, line: 175
 msgid "Empacotador:"
 msgstr "Empacotador:"
@@ -320,6 +405,10 @@ msgid "Pacotes"
 msgstr "Pacotes"
 
 msgid "Ativado"
+msgstr "Ativado"
+
+#, fuzzy
+msgid "Desativado"
 msgstr "Ativado"
 
 msgid "Atualizações"
@@ -439,6 +528,10 @@ msgstr ""
 "e oculta resultados que são úteis <br>\n"
 "apenas a usuários avançados."
 
+#
+msgid "Aplicando - Aguarde"
+msgstr ""
+
 msgid "Procurar programa"
 msgstr "Procurar programa"
 
@@ -451,73 +544,73 @@ msgstr "Nativos"
 msgid "Início"
 msgstr "Início"
 
-# 
+#
 # File: big-store/big-store/usr/share/bigbashview/bcc/apps/big-store/view_appstream_pamac.py, line: 101
 # File: big-store/big-store/usr/share/bigbashview/bcc/apps/big-store/view_aur.py, line: 46
 msgid "Reinstalar"
 msgstr "Reinstalar"
 
-# 
+#
 # File: big-store/big-store/usr/share/bigbashview/bcc/apps/big-store/view_appstream_pamac.py, line: 141
 # File: big-store/big-store/usr/share/bigbashview/bcc/apps/big-store/view_flatpak_pamac.py, line: 113
 msgid "Versão instalada:"
 msgstr "Versão instalada:"
 
-# 
+#
 # File: big-store/big-store/usr/share/bigbashview/bcc/apps/big-store/view_appstream_pamac.py, line: 153
 # File: big-store/big-store/usr/share/bigbashview/bcc/apps/big-store/view_flatpak_pamac.py, line: 116
 msgid "Uso de armazenamento:"
 msgstr "Uso de armazenamento:"
 
-# 
+#
 # File: big-store/big-store/usr/share/bigbashview/bcc/apps/big-store/view_appstream_pamac.py, line: 156
 # File: big-store/big-store/usr/share/bigbashview/bcc/apps/big-store/view_flatpak_pamac.py, line: 119
 msgid "Tamanho do download:"
 msgstr "Tamanho do download:"
 
-# 
+#
 # File: big-store/big-store/usr/share/bigbashview/bcc/apps/big-store/view_appstream_pamac.py, line: 160
 # File: big-store/big-store/usr/share/bigbashview/bcc/apps/big-store/view_flatpak_pamac.py, line: 123
 msgid "Site:"
 msgstr "Site:"
 
-# 
+#
 # File: big-store/big-store/usr/share/bigbashview/bcc/apps/big-store/view_appstream_pamac.py, line: 197
 msgid "Motivo da instalação:"
 msgstr "Motivo da instalação:"
 
-# 
+#
 # File: big-store/big-store/usr/share/bigbashview/bcc/apps/big-store/view_appstream_pamac.py, line: 202
 msgid "Grupos:"
 msgstr "Grupos:"
 
-# 
+#
 # File: big-store/big-store/usr/share/bigbashview/bcc/apps/big-store/view_appstream_pamac.py, line: 215
 msgid "Complementos:"
 msgstr "Complementos:"
 
-# 
+#
 # File: big-store/big-store/usr/share/bigbashview/bcc/apps/big-store/view_appstream_pamac.py, line: 234
 msgid "Dependências:"
 msgstr "Dependências:"
 
-# 
+#
 # File: big-store/big-store/usr/share/bigbashview/bcc/apps/big-store/view_appstream_pamac.py, line: 242
 msgid "Remove:"
 msgstr "Remove:"
 
-# 
+#
 # File: big-store/big-store/usr/share/bigbashview/bcc/apps/big-store/view_appstream_pamac.py, line: 250
 msgid "Substitui:"
 msgstr "Substitui:"
 
-# 
+#
 # File: big-store/big-store/usr/share/bigbashview/bcc/apps/big-store/view_appstream_pamac.py, line: 257
 # File: big-store/big-store/usr/share/bigbashview/bcc/apps/big-store/view_flatpak_pamac.py, line: 148
 msgid "Arquivos do pacote:"
 msgstr "Arquivos do pacote:"
 
-# 
+#
 # File: big-store/big-store/usr/share/bigbashview/bcc/apps/big-store/view_appstream_pamac.py, line: 260
 # File: big-store/big-store/usr/share/bigbashview/bcc/apps/big-store/view_flatpak_pamac.py, line: 150
 msgid "Clique aqui para ver os arquivos"

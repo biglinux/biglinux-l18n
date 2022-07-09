@@ -3,18 +3,18 @@
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the big-store package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-# 
+#
 # #-#-#-#-#  python.pot (PACKAGE VERSION)  #-#-#-#-#
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) YEAR ORGANIZATION
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-# 
+#
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-07-08 12:29-0300\n"
+"POT-Creation-Date: 2022-07-09 04:17-0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -22,13 +22,25 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: pygettext.py 1.5"
+"Generated-By: pygettext.py 1.5\n"
 
 msgid "Big-Store está aberta."
 msgstr "Большой магазин открыт."
 
 msgid "Big-Store"
 msgstr "Big-Store"
+
+#, fuzzy
+msgid "Instalar"
+msgstr "Установка"
+
+#, fuzzy
+msgid "Remover"
+msgstr "Remove:"
+
+#
+msgid "Internet"
+msgstr ""
 
 msgid "Navegadores"
 msgstr "Браузеры"
@@ -57,6 +69,10 @@ msgstr "Сетевые инструменты"
 msgid "Notícias, Feeds e RSS"
 msgstr "Новости, каналы и RSS"
 
+#, fuzzy
+msgid "Escritório"
+msgstr "Репозиторий:"
+
 msgid "Suíte Office"
 msgstr "Офисный пакет"
 
@@ -68,6 +84,10 @@ msgstr "Редакторы PDF"
 
 msgid "Agenda de tarefas e contatos"
 msgstr "Календарь задач и контактов"
+
+#
+msgid "Gráficos"
+msgstr ""
 
 msgid "Visualizadores de imagem"
 msgstr "Зрители изображений"
@@ -83,6 +103,10 @@ msgstr "Преобразование, изменение размера или �
 
 msgid "Edição 3D e CAD"
 msgstr "Редактирование 3D и CAD"
+
+#
+msgid "Multimídia"
+msgstr ""
 
 msgid "Reprodutores de áudio"
 msgstr "Аудиоплееры"
@@ -110,6 +134,10 @@ msgstr "CD и DVD рекордеры и копировальные аппара�
 
 msgid "Webcam, gravação de tela e transmissão de vídeo"
 msgstr "Веб-камера, запись экрана и потоковое видео"
+
+#
+msgid "Jogos"
+msgstr ""
 
 msgid "Gerenciadores de jogos"
 msgstr "Менеджеры игр"
@@ -147,6 +175,14 @@ msgstr "Правление"
 msgid "RPG"
 msgstr "RPG"
 
+#
+msgid "Outros"
+msgstr ""
+
+#
+msgid "Sistema"
+msgstr ""
+
 msgid "Armazenamento e partições"
 msgstr "Хранение и перегородки"
 
@@ -158,6 +194,10 @@ msgstr "Java JRE"
 
 msgid "Virtualização"
 msgstr "Виртуализация"
+
+#
+msgid "Desenvolvimento"
+msgstr ""
 
 msgid "Editores de código e IDE"
 msgstr "Редакторы кода и IDE"
@@ -173,6 +213,26 @@ msgstr "Родные программы"
 
 msgid "Programas AUR"
 msgstr "Программы AUR"
+
+#
+msgid "Instalado na partição:"
+msgstr ""
+
+#
+msgid "Tamanho da partição:"
+msgstr ""
+
+#
+msgid "Espaço utilizado:"
+msgstr ""
+
+#
+msgid "Espaço livre:"
+msgstr ""
+
+#
+msgid "Data que o sistema foi instalado:"
+msgstr ""
 
 msgid "Pacotes nativos e AUR"
 msgstr "Нативные пакеты и AUR"
@@ -207,6 +267,10 @@ msgstr "Не информирован"
 msgid "Atualizar"
 msgstr "Обновление"
 
+#
+msgid "Categorias"
+msgstr ""
+
 msgid "Versão instalada"
 msgstr "Установленная версия"
 
@@ -216,6 +280,10 @@ msgstr "Доступная версия"
 msgid "Versão"
 msgstr "Версия"
 
+#
+msgid "Fechar"
+msgstr ""
+
 msgid "Pacote .deb"
 msgstr "Пакет .deb"
 
@@ -224,6 +292,14 @@ msgid ""
 "sistema."
 msgstr ""
 "Эта программа в формате .deb, который имеет наилучшую интеграцию с системой."
+
+#, fuzzy
+msgid "Mais informações"
+msgstr "Настройки"
+
+#
+msgid "Voltar"
+msgstr ""
 
 msgid "Dependências a instalar"
 msgstr "Зависимости для установки"
@@ -257,6 +333,10 @@ msgstr "Доступна версия:"
 
 msgid "Repositório:"
 msgstr "Репозиторий:"
+
+#
+msgid "Cancelar"
+msgstr ""
 
 msgid "Instalando"
 msgstr "Установка"
@@ -293,6 +373,10 @@ msgid "Pacotes"
 msgstr "Пакеты"
 
 msgid "Ativado"
+msgstr "Активированный"
+
+#, fuzzy
+msgid "Desativado"
 msgstr "Активированный"
 
 msgid "Atualizações"
@@ -411,6 +495,10 @@ msgstr ""
 "Отображает только<br>выбранные</br> программы<br>\n"
 "и скрывает результаты, которые являются полезными <br>\n"
 "только для опытных пользователей.</br></br> "
+
+#
+msgid "Aplicando - Aguarde"
+msgstr ""
 
 msgid "Procurar programa"
 msgstr "Программа поиска"

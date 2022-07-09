@@ -2,20 +2,20 @@
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the biglinux-driver-manager package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-# 
+#
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: biglinux-driver-manager\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-06-21 03:19-0300\n"
+"POT-Creation-Date: 2022-07-09 04:17-0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit"
+"Content-Transfer-Encoding: 8bit\n"
 
 msgid "O Big-Hardware-Relatory já está em uso."
 msgstr "Le Gros Matériel-Relatif est déjà utilisé."
@@ -50,6 +50,9 @@ msgstr "Handicapés"
 
 msgid "Informações de Hardware"
 msgstr "Informations sur le matériel"
+
+msgid "Fechar"
+msgstr ""
 
 msgid "Enviar para transfer.sh"
 msgstr "Envoyer à transfer.sh"
@@ -124,6 +127,9 @@ msgstr "Résultat de la recherche"
 
 msgid "Big-Driver-Manager"
 msgstr "Big-Driver-Manager"
+
+msgid "Abrir"
+msgstr ""
 
 msgid "Instalar ou Remover Drivers e Firmwares"
 msgstr "Installer ou supprimer des pilotes et des micrologiciels"
@@ -230,6 +236,9 @@ msgstr "Stockage"
 msgid "Mais informações"
 msgstr "Plus d'informations"
 
+msgid "Hardware"
+msgstr ""
+
 msgid "Pesquisar"
 msgstr "Recherche"
 
@@ -280,6 +289,9 @@ msgstr ""
 
 msgid "Categoria"
 msgstr "Catégorie"
+
+msgid "Nome"
+msgstr ""
 
 msgid "ID"
 msgstr "ID"

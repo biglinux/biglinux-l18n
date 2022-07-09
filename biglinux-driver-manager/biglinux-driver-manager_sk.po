@@ -2,20 +2,20 @@
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the biglinux-driver-manager package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-# 
+#
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: biglinux-driver-manager\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-06-21 03:19-0300\n"
+"POT-Creation-Date: 2022-07-09 04:17-0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: sk\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit"
+"Content-Transfer-Encoding: 8bit\n"
 
 msgid "O Big-Hardware-Relatory já está em uso."
 msgstr "Veľký hardvér - Relatory sa už používa."
@@ -50,6 +50,9 @@ msgstr "Bezbariérový"
 
 msgid "Informações de Hardware"
 msgstr "Informácie o hardvéri"
+
+msgid "Fechar"
+msgstr ""
 
 msgid "Enviar para transfer.sh"
 msgstr "Odoslať do transfer.sh"
@@ -123,6 +126,9 @@ msgstr "Výsledok vyhľadávania"
 
 msgid "Big-Driver-Manager"
 msgstr "Big-Driver-Manager"
+
+msgid "Abrir"
+msgstr ""
 
 msgid "Instalar ou Remover Drivers e Firmwares"
 msgstr "Inštalácia alebo odstránenie ovládačov a firmvéru"
@@ -228,6 +234,9 @@ msgstr "Úložisko"
 msgid "Mais informações"
 msgstr "Viac informácií"
 
+msgid "Hardware"
+msgstr ""
+
 msgid "Pesquisar"
 msgstr "Vyhľadávanie"
 
@@ -276,6 +285,9 @@ msgstr "Vytvorí súbor s informáciami, ktoré možno zverejniť na internete."
 
 msgid "Categoria"
 msgstr "Kategória"
+
+msgid "Nome"
+msgstr ""
 
 msgid "ID"
 msgstr "ID"

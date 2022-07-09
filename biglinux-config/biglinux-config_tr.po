@@ -2,20 +2,20 @@
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the biglinux-config package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-# 
+#
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: biglinux-config\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-06-21 03:18-0300\n"
+"POT-Creation-Date: 2022-07-09 04:17-0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: tr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit"
+"Content-Transfer-Encoding: 8bit\n"
 
 msgid "Restaurar Configurações"
 msgstr "Ayarları Geri Yükle"
@@ -30,8 +30,8 @@ msgid "As configurações foram restauradas com sucesso!"
 msgstr "Ayarlar başarıyla geri yüklendi!"
 
 msgid ""
-"Você tem certeza que deseja restaurar todas as configurações do KDE/"
-"Plasma?\\nIsso apagará todas as configurações definidas por $USER!"
+"Você tem certeza que deseja restaurar todas as configurações do KDE/Plasma?"
+"\\nIsso apagará todas as configurações definidas por $USER!"
 msgstr ""
 "Tüm KDE/Plasma ayarlarını geri yüklemek istediğinizden emin misiniz? $USER "
 "tarafından ayarlanan tüm ayarları siler!"
@@ -44,8 +44,8 @@ msgstr ""
 "kapatmanız/açmanız gerekir!"
 
 msgid ""
-"Restaurar&nbsp;o&nbsp;programa&nbsp;como&nbsp;modo&nbsp;padrão&nbsp;ou&nbsp;distribuição&nbsp;BigLinux."
-""
+"Restaurar&nbsp;o&nbsp;programa&nbsp;como&nbsp;modo&nbsp;padrão&nbsp;ou&nbsp;"
+"distribuição&nbsp;BigLinux."
 msgstr "Programı standart mod veya BigLinux dağıtımı olarak geri yükleyin."
 
 msgid "Restaurar&nbsp;o&nbsp;programa&nbsp;como&nbsp;modo&nbsp;padrão."
@@ -72,6 +72,9 @@ msgstr ""
 "Videolar-(Smplayer) smplayer.sh Multimedya smplayer.png smplayer skel "
 "$COMMENT_skel"
 
+msgid "Fechar"
+msgstr ""
+
 msgid "Restaurar no modo padrão da distribuição"
 msgstr "Varsayılan dağıtım moduna geri yükleme"
 
@@ -92,6 +95,18 @@ msgstr "Ana"
 
 msgid "Internet"
 msgstr "İnternet"
+
+msgid "Multimídia"
+msgstr ""
+
+msgid "Gráficos"
+msgstr ""
+
+msgid "Escritório"
+msgstr ""
+
+msgid "Sistema"
+msgstr ""
 
 msgid "Pesquisar Restaurar"
 msgstr "Arama Geri Yükleme"

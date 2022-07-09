@@ -2,20 +2,20 @@
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the biglinux-config package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-# 
+#
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: biglinux-config\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-06-21 03:18-0300\n"
+"POT-Creation-Date: 2022-07-09 04:17-0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: da\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit"
+"Content-Transfer-Encoding: 8bit\n"
 
 msgid "Restaurar Configurações"
 msgstr "Gendan indstillinger"
@@ -31,12 +31,11 @@ msgid "As configurações foram restauradas com sucesso!"
 msgstr "Indstillingerne er blevet gendannet med succes!"
 
 msgid ""
-"Você tem certeza que deseja restaurar todas as configurações do KDE/"
-"Plasma?\\nIsso apagará todas as configurações definidas por $USER!"
+"Você tem certeza que deseja restaurar todas as configurações do KDE/Plasma?"
+"\\nIsso apagará todas as configurações definidas por $USER!"
 msgstr ""
-"Er du sikker på, at du vil gendanne alle KDE/Plasma-"
-"indstillingerne?\\nIsIsIsIs sletter alle de indstillinger, der er angivet af "
-"$USER!"
+"Er du sikker på, at du vil gendanne alle KDE/Plasma-indstillingerne?"
+"\\nIsIsIsIs sletter alle de indstillinger, der er angivet af $USER!"
 
 msgid ""
 "As configurações foram restauradas com sucesso!\\nÉ necessário fazer logoff/"
@@ -46,8 +45,8 @@ msgstr ""
 "fuldføre gendannelsen!"
 
 msgid ""
-"Restaurar&nbsp;o&nbsp;programa&nbsp;como&nbsp;modo&nbsp;padrão&nbsp;ou&nbsp;distribuição&nbsp;BigLinux."
-""
+"Restaurar&nbsp;o&nbsp;programa&nbsp;como&nbsp;modo&nbsp;padrão&nbsp;ou&nbsp;"
+"distribuição&nbsp;BigLinux."
 msgstr "Gendan programmet som standardtilstand eller BigLinux-distribution."
 
 msgid "Restaurar&nbsp;o&nbsp;programa&nbsp;como&nbsp;modo&nbsp;padrão."
@@ -74,6 +73,9 @@ msgstr ""
 "Videoer-(Smplayer) smplayer.sh Multimedia smplayer.png smplayer skel "
 "$COMMENT_skel"
 
+msgid "Fechar"
+msgstr ""
+
 msgid "Restaurar no modo padrão da distribuição"
 msgstr "Gendan til standarddistributionstilstand"
 
@@ -87,7 +89,6 @@ msgstr "Gendannelse i standardprogramtilstand"
 msgid "Essa opção restaura o programa com o padrão do desenvolvedor."
 msgstr ""
 "Denne indstilling genopretter programmet til udviklerens standardindstilling."
-""
 
 msgid "Restaurar as configurações do programa:"
 msgstr "Gendan programindstillingerne:"
@@ -97,6 +98,18 @@ msgstr "Vigtigste"
 
 msgid "Internet"
 msgstr "Internet"
+
+msgid "Multimídia"
+msgstr ""
+
+msgid "Gráficos"
+msgstr ""
+
+msgid "Escritório"
+msgstr ""
+
+msgid "Sistema"
+msgstr ""
 
 msgid "Pesquisar Restaurar"
 msgstr "Søg Genoprette"

@@ -2,20 +2,20 @@
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the sambasearch package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-# 
+#
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: sambasearch\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-06-21 03:19-0300\n"
+"POT-Creation-Date: 2022-07-09 04:17-0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit"
+"Content-Transfer-Encoding: 8bit\n"
 
 msgid "Procurar compartilhamentos"
 msgstr "Búsqueda de acciones"
@@ -55,8 +55,7 @@ msgid "Senha"
 msgstr "Contraseña"
 
 msgid "Insira a senha do usuário do servidor que deseja acessar"
-msgstr ""
-"Introduzca la contraseña del usuario del servidor al que desea acceder"
+msgstr "Introduzca la contraseña del usuario del servidor al que desea acceder"
 
 msgid ""
 "*A maioria dos servidores precisa de login e senha para listar os "
@@ -72,6 +71,9 @@ msgstr "Cancelar"
 
 msgid "Próximo"
 msgstr "Siguiente"
+
+msgid "Aguarde..."
+msgstr ""
 
 msgid "Anônimo"
 msgstr "Anónimo"

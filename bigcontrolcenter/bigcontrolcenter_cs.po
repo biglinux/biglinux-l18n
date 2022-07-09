@@ -2,20 +2,20 @@
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the bigcontrolcenter package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-# 
+#
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: bigcontrolcenter\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-07-08 12:29-0300\n"
+"POT-Creation-Date: 2022-07-09 04:17-0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: cs\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit"
+"Content-Transfer-Encoding: 8bit\n"
 
 msgid ""
 "A webcam já está sendo utilizada pelo programa: $WEBCAM_BUSY\n"
@@ -30,11 +30,20 @@ msgstr ""
 "Provedené změny jsou patrné\n"
 "v obraze webové kamery v jiných programech."
 
+msgid "Webcam"
+msgstr ""
+
 msgid "Category"
 msgstr "Kategorie"
 
 msgid "Name"
 msgstr "Název"
+
+msgid "ID"
+msgstr ""
+
+msgid "Info"
+msgstr ""
 
 msgid ""
 "O relatório foi salvo no arquivo $FILE_TO_SAVE\n"
@@ -48,6 +57,9 @@ msgstr ""
 msgid "Visualizar o relatório"
 msgstr "Zobrazit zprávu"
 
+msgid "Fechar"
+msgstr ""
+
 msgid "Hardinfo Relatory"
 msgstr "Hardinfo Relatory"
 
@@ -56,6 +68,15 @@ msgstr "Úvod do systému BigLinux"
 
 msgid "Central de Controle"
 msgstr "Řídicí centrum"
+
+msgid "Bom dia"
+msgstr ""
+
+msgid "Boa tarde"
+msgstr ""
+
+msgid "Boa noite"
+msgstr ""
 
 msgid "Aguarde, carregando..."
 msgstr "Připravte se, načítání..."
@@ -80,6 +101,10 @@ msgid ""
 "extremamente simples."
 msgstr ""
 "Nabízíme kompletní konfigurace, ze kterých si můžete velmi jednoduše vybrat."
+
+#, fuzzy
+msgid "Temas, Desktop e Ajustes"
+msgstr "Motivy, plocha a nastavení"
 
 msgid "Escolha seu Avatar"
 msgstr "Vyberte si svůj avatar"
@@ -138,6 +163,9 @@ msgstr "Redukce hluku"
 
 msgid "Configurar a voz do sistema (TTS)"
 msgstr "Nastavení systémového hlasu (TTS)"
+
+msgid "OCR para PDF"
+msgstr ""
 
 msgid "Doação e Redes sociais"
 msgstr "Dárcovství a sociální sítě"
@@ -409,6 +437,16 @@ msgstr "Nastavení obrazovky bylo resetováno."
 msgid "Configurações da tela"
 msgstr "Nastavení obrazovky"
 
+#, fuzzy
+msgid "Categorias"
+msgstr "Kategorie"
+
+msgid "Principais"
+msgstr ""
+
+msgid "Sistema"
+msgstr ""
+
 msgid "Aparência"
 msgstr "Vzhled"
 
@@ -420,6 +458,9 @@ msgstr "Přizpůsobení"
 
 msgid "Telefone"
 msgstr "Telefon"
+
+msgid "Multimídia"
+msgstr ""
 
 msgid "Rede e Internet"
 msgstr "Síť a internet"
@@ -436,11 +477,23 @@ msgstr "Ochrana osobních údajů"
 msgid "Servidor"
 msgstr "Server"
 
+msgid "Desenvolvimento"
+msgstr ""
+
 msgid "Sobre"
 msgstr "O stránkách"
 
+msgid "Outros"
+msgstr ""
+
 msgid "Pesquisar..."
 msgstr "Vyhledávání..."
+
+msgid "Resultado da pesquisa"
+msgstr ""
+
+msgid "Abrir"
+msgstr ""
 
 msgid "Temas, desktop e ajustes"
 msgstr "Motivy, plocha a nastavení"
@@ -495,7 +548,6 @@ msgid ""
 "conexão do seu dispositivo Android.\n"
 "<br>\n"
 "*Caso esteja utilizando o dados móveis, será consumido do seu plano de dados."
-""
 msgstr ""
 "Jak používat internet z tabletu nebo smartphonu se systémem Android:\n"
 "<br><br>\n"
@@ -578,9 +630,9 @@ msgstr ""
 "Nainstalujte aplikaci Airdroid z obchodu s aplikacemi ve svém smartphonu.  "
 "Pomocí tohoto tlačítka otevřete webovou stránku Airdroid v daném počítači.  "
 "Pomocí aplikace v chytrém telefonu přečtěte kód QR, který se zobrazí na "
-"obrazovce počítače, a získejte přístup k přenosům souborů a dalším možnostem."
-"  Můžete také použít našeho správce webových aplikací, který vám usnadní "
-"používání tohoto webu."
+"obrazovce počítače, a získejte přístup k přenosům souborů a dalším "
+"možnostem.  Můžete také použít našeho správce webových aplikací, který vám "
+"usnadní používání tohoto webu."
 
 msgid "Suporte a aplicativos Android"
 msgstr "Podpora aplikací pro Android"

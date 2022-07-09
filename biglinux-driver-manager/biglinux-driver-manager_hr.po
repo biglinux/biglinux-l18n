@@ -2,20 +2,20 @@
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the biglinux-driver-manager package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-# 
+#
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: biglinux-driver-manager\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-06-21 03:19-0300\n"
+"POT-Creation-Date: 2022-07-09 04:17-0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: hr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit"
+"Content-Transfer-Encoding: 8bit\n"
 
 msgid "O Big-Hardware-Relatory já está em uso."
 msgstr "Big-Hardware-Relatory je već u upotrebi."
@@ -51,6 +51,9 @@ msgstr "onemogućeno"
 
 msgid "Informações de Hardware"
 msgstr "Informacije o hardveru"
+
+msgid "Fechar"
+msgstr ""
 
 msgid "Enviar para transfer.sh"
 msgstr "Pošalji na transfer.sh"
@@ -124,6 +127,9 @@ msgstr "Rezultati pretrage"
 
 msgid "Big-Driver-Manager"
 msgstr "Voditelj velikog vozača"
+
+msgid "Abrir"
+msgstr ""
 
 msgid "Instalar ou Remover Drivers e Firmwares"
 msgstr "Instalirajte ili uklonite upravljačke programe i firmwares"
@@ -230,6 +236,9 @@ msgstr "Skladištenje"
 msgid "Mais informações"
 msgstr "Više informacija"
 
+msgid "Hardware"
+msgstr ""
+
 msgid "Pesquisar"
 msgstr "Pretraživanje"
 
@@ -278,6 +287,9 @@ msgstr "Stvara datoteku s informacijama koje se mogu objaviti na internetu."
 
 msgid "Categoria"
 msgstr "Kategorija"
+
+msgid "Nome"
+msgstr ""
 
 msgid "ID"
 msgstr "OSOBNA ISKAZNICA"

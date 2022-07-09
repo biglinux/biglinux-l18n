@@ -3,18 +3,18 @@
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the big-store package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-# 
+#
 # #-#-#-#-#  python.pot (PACKAGE VERSION)  #-#-#-#-#
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) YEAR ORGANIZATION
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-# 
+#
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-07-08 12:29-0300\n"
+"POT-Creation-Date: 2022-07-09 04:17-0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -22,13 +22,25 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: pygettext.py 1.5"
+"Generated-By: pygettext.py 1.5\n"
 
 msgid "Big-Store está aberta."
 msgstr "Big-Store on avatud."
 
 msgid "Big-Store"
 msgstr "Big-Store"
+
+#, fuzzy
+msgid "Instalar"
+msgstr "Paigaldamine"
+
+#, fuzzy
+msgid "Remover"
+msgstr "Eemalda:"
+
+#
+msgid "Internet"
+msgstr ""
 
 msgid "Navegadores"
 msgstr "Brauserid"
@@ -57,6 +69,10 @@ msgstr "Võrguvahendid"
 msgid "Notícias, Feeds e RSS"
 msgstr "Uudised, söötmed ja RSS"
 
+#, fuzzy
+msgid "Escritório"
+msgstr "Hoiukoht:"
+
 msgid "Suíte Office"
 msgstr "Office Suite"
 
@@ -68,6 +84,10 @@ msgstr "PDF redaktorid"
 
 msgid "Agenda de tarefas e contatos"
 msgstr "Ülesannete ja kontaktide kalender"
+
+#
+msgid "Gráficos"
+msgstr ""
 
 msgid "Visualizadores de imagem"
 msgstr "Pildi vaatajad"
@@ -83,6 +103,10 @@ msgstr "Piltide teisendamine, suuruse muutmine või tihendamine"
 
 msgid "Edição 3D e CAD"
 msgstr "3D ja CAD redigeerimine"
+
+#
+msgid "Multimídia"
+msgstr ""
 
 msgid "Reprodutores de áudio"
 msgstr "Helimängijad"
@@ -110,6 +134,10 @@ msgstr "CD- ja DVD-salvestid ning koopiamasinad"
 
 msgid "Webcam, gravação de tela e transmissão de vídeo"
 msgstr "Veebikaamera, ekraanisalvestus ja video voogedastus"
+
+#
+msgid "Jogos"
+msgstr ""
 
 msgid "Gerenciadores de jogos"
 msgstr "Mängujuhid"
@@ -147,6 +175,14 @@ msgstr "Juhatus"
 msgid "RPG"
 msgstr "RPG"
 
+#
+msgid "Outros"
+msgstr ""
+
+#
+msgid "Sistema"
+msgstr ""
+
 msgid "Armazenamento e partições"
 msgstr "Ladustamine ja vaheseinad"
 
@@ -158,6 +194,10 @@ msgstr "Java JRE"
 
 msgid "Virtualização"
 msgstr "Virtualiseerimine"
+
+#
+msgid "Desenvolvimento"
+msgstr ""
 
 msgid "Editores de código e IDE"
 msgstr "Koodiredaktorid ja IDEd"
@@ -173,6 +213,26 @@ msgstr "Emakeelsed programmid"
 
 msgid "Programas AUR"
 msgstr "AUR programmid"
+
+#
+msgid "Instalado na partição:"
+msgstr ""
+
+#
+msgid "Tamanho da partição:"
+msgstr ""
+
+#
+msgid "Espaço utilizado:"
+msgstr ""
+
+#
+msgid "Espaço livre:"
+msgstr ""
+
+#
+msgid "Data que o sistema foi instalado:"
+msgstr ""
 
 msgid "Pacotes nativos e AUR"
 msgstr "Emakeelsed paketid ja AUR"
@@ -207,6 +267,10 @@ msgstr "Ei ole teavitatud"
 msgid "Atualizar"
 msgstr "Ajakohastamine"
 
+#
+msgid "Categorias"
+msgstr ""
+
 msgid "Versão instalada"
 msgstr "Installeeritud versioon"
 
@@ -215,6 +279,10 @@ msgstr "Kättesaadav versioon"
 
 msgid "Versão"
 msgstr "Versioon"
+
+#
+msgid "Fechar"
+msgstr ""
 
 msgid "Pacote .deb"
 msgstr ".deb pakett"
@@ -225,6 +293,14 @@ msgid ""
 msgstr ""
 "See programm on .deb formaadis, mis on kõige paremini süsteemiga "
 "integreeritav."
+
+#, fuzzy
+msgid "Mais informações"
+msgstr "Seaded"
+
+#
+msgid "Voltar"
+msgstr ""
 
 msgid "Dependências a instalar"
 msgstr "Paigaldatavad sõltuvused"
@@ -258,6 +334,10 @@ msgstr "Saadaval versioon:"
 
 msgid "Repositório:"
 msgstr "Hoiukoht:"
+
+#
+msgid "Cancelar"
+msgstr ""
 
 msgid "Instalando"
 msgstr "Paigaldamine"
@@ -294,6 +374,10 @@ msgid "Pacotes"
 msgstr "Pakendid"
 
 msgid "Ativado"
+msgstr "Aktiveeritud"
+
+#, fuzzy
+msgid "Desativado"
 msgstr "Aktiveeritud"
 
 msgid "Atualizações"
@@ -411,6 +495,10 @@ msgstr ""
 "Kuvab ainult valitud programme<br>\n"
 "ja peidab kasulikud tulemused <br>\n"
 "ainult edasijõudnud kasutajatele."
+
+#
+msgid "Aplicando - Aguarde"
+msgstr ""
 
 msgid "Procurar programa"
 msgstr "Otsi programmi"

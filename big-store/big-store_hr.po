@@ -3,18 +3,18 @@
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the big-store package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-# 
+#
 # #-#-#-#-#  python.pot (PACKAGE VERSION)  #-#-#-#-#
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) YEAR ORGANIZATION
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-# 
+#
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-07-08 12:29-0300\n"
+"POT-Creation-Date: 2022-07-09 04:17-0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -22,13 +22,25 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: pygettext.py 1.5"
+"Generated-By: pygettext.py 1.5\n"
 
 msgid "Big-Store está aberta."
 msgstr "Velika trgovina je otvorena."
 
 msgid "Big-Store"
 msgstr "Big-Store"
+
+#, fuzzy
+msgid "Instalar"
+msgstr "Instaliranje"
+
+#, fuzzy
+msgid "Remover"
+msgstr "Ukloni:"
+
+#
+msgid "Internet"
+msgstr ""
 
 msgid "Navegadores"
 msgstr "navigatori"
@@ -57,6 +69,10 @@ msgstr "Mrežni alati"
 msgid "Notícias, Feeds e RSS"
 msgstr "Vijesti, feedovi, i RSS"
 
+#, fuzzy
+msgid "Escritório"
+msgstr "Repozitorij:"
+
 msgid "Suíte Office"
 msgstr "Uredski apartman"
 
@@ -68,6 +84,10 @@ msgstr "PDF urednici"
 
 msgid "Agenda de tarefas e contatos"
 msgstr "Raspored zadataka i kontakata"
+
+#
+msgid "Gráficos"
+msgstr ""
 
 msgid "Visualizadores de imagem"
 msgstr "Gledatelji slika"
@@ -83,6 +103,10 @@ msgstr "Pretvaranje, promjena veličine ili komprimiranje slika"
 
 msgid "Edição 3D e CAD"
 msgstr "3D i CAD uređivanje"
+
+#
+msgid "Multimídia"
+msgstr ""
 
 msgid "Reprodutores de áudio"
 msgstr "Audio playeri"
@@ -110,6 +134,10 @@ msgstr "CD i DVD snimači i kopirni uređaji"
 
 msgid "Webcam, gravação de tela e transmissão de vídeo"
 msgstr "Web kamera, snimanje zaslona i streaming videozapisa"
+
+#
+msgid "Jogos"
+msgstr ""
 
 msgid "Gerenciadores de jogos"
 msgstr "Menadžeri igara"
@@ -147,6 +175,14 @@ msgstr "Ladica"
 msgid "RPG"
 msgstr "RPG"
 
+#
+msgid "Outros"
+msgstr ""
+
+#
+msgid "Sistema"
+msgstr ""
+
 msgid "Armazenamento e partições"
 msgstr "Skladištenje i particije"
 
@@ -158,6 +194,10 @@ msgstr "Java JRE"
 
 msgid "Virtualização"
 msgstr "Virtualizacija"
+
+#
+msgid "Desenvolvimento"
+msgstr ""
 
 msgid "Editores de código e IDE"
 msgstr "Urednici koda i IDE"
@@ -173,6 +213,26 @@ msgstr "Izvorni programi"
 
 msgid "Programas AUR"
 msgstr "AUR programi"
+
+#
+msgid "Instalado na partição:"
+msgstr ""
+
+#
+msgid "Tamanho da partição:"
+msgstr ""
+
+#
+msgid "Espaço utilizado:"
+msgstr ""
+
+#
+msgid "Espaço livre:"
+msgstr ""
+
+#
+msgid "Data que o sistema foi instalado:"
+msgstr ""
 
 msgid "Pacotes nativos e AUR"
 msgstr "Izvorni i AUR paketi"
@@ -207,6 +267,10 @@ msgstr "Nije informirano"
 msgid "Atualizar"
 msgstr "ažuriraj"
 
+#
+msgid "Categorias"
+msgstr ""
+
 msgid "Versão instalada"
 msgstr "Instalirana verzija"
 
@@ -216,6 +280,10 @@ msgstr "Dostupna verzija"
 msgid "Versão"
 msgstr "Verzija"
 
+#
+msgid "Fechar"
+msgstr ""
+
 msgid "Pacote .deb"
 msgstr ".deb paket"
 
@@ -224,6 +292,14 @@ msgid ""
 "sistema."
 msgstr ""
 "Ovaj program je u .deb formatu, koji ima najbolju integraciju sa sustavom."
+
+#, fuzzy
+msgid "Mais informações"
+msgstr "Postavke"
+
+#
+msgid "Voltar"
+msgstr ""
 
 msgid "Dependências a instalar"
 msgstr "Ovisnosti za instalaciju"
@@ -257,6 +333,10 @@ msgstr "Dostupna verzija:"
 
 msgid "Repositório:"
 msgstr "Repozitorij:"
+
+#
+msgid "Cancelar"
+msgstr ""
 
 msgid "Instalando"
 msgstr "Instaliranje"
@@ -293,6 +373,10 @@ msgid "Pacotes"
 msgstr "Paketi"
 
 msgid "Ativado"
+msgstr "Omogućeno"
+
+#, fuzzy
+msgid "Desativado"
 msgstr "Omogućeno"
 
 msgid "Atualizações"
@@ -411,6 +495,10 @@ msgstr ""
 "Prikazuje samo odabrane programe <br> \n"
 "i sakriti rezultate koji su korisni <br>\n"
 "samo napredni korisnici."
+
+#
+msgid "Aplicando - Aguarde"
+msgstr ""
 
 msgid "Procurar programa"
 msgstr "Traži program"
