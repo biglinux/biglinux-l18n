@@ -30,11 +30,20 @@ msgstr ""
 "Modificările efectuate pot fi observate\n"
 "în imaginea camerei web în alte programe."
 
+msgid "Webcam"
+msgstr "Webcam"
+
 msgid "Category"
 msgstr "Categoria"
 
 msgid "Name"
 msgstr "Nume"
+
+msgid "ID"
+msgstr "ID"
+
+msgid "Info"
+msgstr "Informații"
 
 msgid ""
 "O relatório foi salvo no arquivo $FILE_TO_SAVE\n"
@@ -48,6 +57,9 @@ msgstr ""
 msgid "Visualizar o relatório"
 msgstr "Vizualizați raportul"
 
+msgid "Fechar"
+msgstr "Închideți"
+
 msgid "Hardinfo Relatory"
 msgstr "Hardinfo Relator"
 
@@ -56,6 +68,15 @@ msgstr "Introducere în BigLinux"
 
 msgid "Central de Controle"
 msgstr "Centrul de control"
+
+msgid "Bom dia"
+msgstr "Bună dimineața"
+
+msgid "Boa tarde"
+msgstr "Bună ziua"
+
+msgid "Boa noite"
+msgstr "Bună seara"
 
 msgid "Aguarde, carregando..."
 msgstr "Așteptați, se încarcă..."
@@ -81,6 +102,9 @@ msgid ""
 msgstr ""
 "Vă punem la dispoziție configurații complete din care puteți alege într-un "
 "mod foarte simplu."
+
+msgid "Temas, Desktop e Ajustes"
+msgstr "Teme, desktop și setări"
 
 msgid "Escolha seu Avatar"
 msgstr "Alege-ți Avatarul"
@@ -139,6 +163,9 @@ msgstr "Reductor de zgomot"
 
 msgid "Configurar a voz do sistema (TTS)"
 msgstr "Setarea vocii sistemului (TTS)"
+
+msgid "OCR para PDF"
+msgstr "OCR pentru PDF"
 
 msgid "Doação e Redes sociais"
 msgstr "Donația și rețelele sociale"
@@ -417,6 +444,15 @@ msgstr "Setările ecranului au fost resetate."
 msgid "Configurações da tela"
 msgstr "Setări ecran"
 
+msgid "Categorias"
+msgstr "Categorii"
+
+msgid "Principais"
+msgstr "Principal"
+
+msgid "Sistema"
+msgstr "Sistem"
+
 msgid "Aparência"
 msgstr "Aspect"
 
@@ -428,6 +464,9 @@ msgstr "Personalizați"
 
 msgid "Telefone"
 msgstr "Telefon"
+
+msgid "Multimídia"
+msgstr "Multimedia"
 
 msgid "Rede e Internet"
 msgstr "Rețea și Internet"
@@ -444,11 +483,23 @@ msgstr "Confidențialitate"
 msgid "Servidor"
 msgstr "Server"
 
+msgid "Desenvolvimento"
+msgstr "Dezvoltare"
+
 msgid "Sobre"
 msgstr "Despre"
 
+msgid "Outros"
+msgstr "Altele"
+
 msgid "Pesquisar..."
 msgstr "Căutare..."
+
+msgid "Resultado da pesquisa"
+msgstr "Rezultatul căutării"
+
+msgid "Abrir"
+msgstr "Deschideți"
 
 msgid "Temas, desktop e ajustes"
 msgstr "Teme, desktop și setări"

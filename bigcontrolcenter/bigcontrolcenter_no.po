@@ -30,11 +30,20 @@ msgstr ""
 "Endringene som er gjort kan vises\n"
 "på webkamerabildet ditt i andre programmer."
 
+msgid "Webcam"
+msgstr "webkamera"
+
 msgid "Category"
 msgstr "Kategori"
 
 msgid "Name"
 msgstr "Navn"
+
+msgid "ID"
+msgstr "ID"
+
+msgid "Info"
+msgstr "Info"
 
 msgid ""
 "O relatório foi salvo no arquivo $FILE_TO_SAVE\n"
@@ -48,6 +57,9 @@ msgstr ""
 msgid "Visualizar o relatório"
 msgstr "Vise rapporten"
 
+msgid "Fechar"
+msgstr "Lukk"
+
 msgid "Hardinfo Relatory"
 msgstr "Hardinfo-rapport"
 
@@ -56,6 +68,15 @@ msgstr "Innføring i BigLinux"
 
 msgid "Central de Controle"
 msgstr "Kontrollsenter"
+
+msgid "Bom dia"
+msgstr "Salaam"
+
+msgid "Boa tarde"
+msgstr "God ettermiddag"
+
+msgid "Boa noite"
+msgstr "God natt"
 
 msgid "Aguarde, carregando..."
 msgstr "Vente, lasting..."
@@ -81,6 +102,9 @@ msgid ""
 msgstr ""
 "Komplette konfigurasjoner er tilgjengelige for deg å velge på en ekstremt "
 "enkel måte."
+
+msgid "Temas, Desktop e Ajustes"
+msgstr "Temaer, skrivebord og justeringer"
 
 msgid "Escolha seu Avatar"
 msgstr "Velg din avatar"
@@ -139,6 +163,9 @@ msgstr "Støy redusering"
 
 msgid "Configurar a voz do sistema (TTS)"
 msgstr "Konfigurer systemstemme (TTS)"
+
+msgid "OCR para PDF"
+msgstr "OCR til PDF"
 
 msgid "Doação e Redes sociais"
 msgstr "Donasjon og sosiale nettverk"
@@ -411,6 +438,15 @@ msgstr "Skjerminnstillingene er tilbakestilt."
 msgid "Configurações da tela"
 msgstr "Skjerminnstillinger"
 
+msgid "Categorias"
+msgstr "Kategorier"
+
+msgid "Principais"
+msgstr "Hoved"
+
+msgid "Sistema"
+msgstr "Systemet"
+
 msgid "Aparência"
 msgstr "Utseende"
 
@@ -422,6 +458,9 @@ msgstr "tilpasse"
 
 msgid "Telefone"
 msgstr "telefon"
+
+msgid "Multimídia"
+msgstr "Multimedia"
 
 msgid "Rede e Internet"
 msgstr "Nettverk og Internett"
@@ -438,11 +477,23 @@ msgstr "Personvern"
 msgid "Servidor"
 msgstr "hovedramme"
 
+msgid "Desenvolvimento"
+msgstr "Utvikling"
+
 msgid "Sobre"
 msgstr "Om"
 
+msgid "Outros"
+msgstr "Annet"
+
 msgid "Pesquisar..."
 msgstr "Søk..."
+
+msgid "Resultado da pesquisa"
+msgstr "Søk resultat"
+
+msgid "Abrir"
+msgstr "Åpen"
 
 msgid "Temas, desktop e ajustes"
 msgstr "Temaer, skrivebord og justeringer"

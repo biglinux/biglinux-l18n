@@ -30,11 +30,20 @@ msgstr ""
 "Provedené změny jsou patrné\n"
 "v obraze webové kamery v jiných programech."
 
+msgid "Webcam"
+msgstr "Webová kamera"
+
 msgid "Category"
 msgstr "Kategorie"
 
 msgid "Name"
 msgstr "Název"
+
+msgid "ID"
+msgstr "ID"
+
+msgid "Info"
+msgstr "Informace"
 
 msgid ""
 "O relatório foi salvo no arquivo $FILE_TO_SAVE\n"
@@ -48,6 +57,9 @@ msgstr ""
 msgid "Visualizar o relatório"
 msgstr "Zobrazit zprávu"
 
+msgid "Fechar"
+msgstr "Zavřít"
+
 msgid "Hardinfo Relatory"
 msgstr "Hardinfo Relatory"
 
@@ -56,6 +68,15 @@ msgstr "Úvod do systému BigLinux"
 
 msgid "Central de Controle"
 msgstr "Řídicí centrum"
+
+msgid "Bom dia"
+msgstr "Dobré ráno"
+
+msgid "Boa tarde"
+msgstr "Dobré odpoledne"
+
+msgid "Boa noite"
+msgstr "Dobrý večer"
 
 msgid "Aguarde, carregando..."
 msgstr "Připravte se, načítání..."
@@ -80,6 +101,9 @@ msgid ""
 "extremamente simples."
 msgstr ""
 "Nabízíme kompletní konfigurace, ze kterých si můžete velmi jednoduše vybrat."
+
+msgid "Temas, Desktop e Ajustes"
+msgstr "Motivy, plocha a nastavení"
 
 msgid "Escolha seu Avatar"
 msgstr "Vyberte si svůj avatar"
@@ -138,6 +162,9 @@ msgstr "Redukce hluku"
 
 msgid "Configurar a voz do sistema (TTS)"
 msgstr "Nastavení systémového hlasu (TTS)"
+
+msgid "OCR para PDF"
+msgstr "OCR pro PDF"
 
 msgid "Doação e Redes sociais"
 msgstr "Dárcovství a sociální sítě"
@@ -409,6 +436,15 @@ msgstr "Nastavení obrazovky bylo resetováno."
 msgid "Configurações da tela"
 msgstr "Nastavení obrazovky"
 
+msgid "Categorias"
+msgstr "Kategorie"
+
+msgid "Principais"
+msgstr "Hlavní stránka"
+
+msgid "Sistema"
+msgstr "Systém"
+
 msgid "Aparência"
 msgstr "Vzhled"
 
@@ -420,6 +456,9 @@ msgstr "Přizpůsobení"
 
 msgid "Telefone"
 msgstr "Telefon"
+
+msgid "Multimídia"
+msgstr "Multimédia"
 
 msgid "Rede e Internet"
 msgstr "Síť a internet"
@@ -436,11 +475,23 @@ msgstr "Ochrana osobních údajů"
 msgid "Servidor"
 msgstr "Server"
 
+msgid "Desenvolvimento"
+msgstr "Vývoj"
+
 msgid "Sobre"
 msgstr "O stránkách"
 
+msgid "Outros"
+msgstr "Další"
+
 msgid "Pesquisar..."
 msgstr "Vyhledávání..."
+
+msgid "Resultado da pesquisa"
+msgstr "Výsledek hledání"
+
+msgid "Abrir"
+msgstr "Otevřít"
 
 msgid "Temas, desktop e ajustes"
 msgstr "Motivy, plocha a nastavení"

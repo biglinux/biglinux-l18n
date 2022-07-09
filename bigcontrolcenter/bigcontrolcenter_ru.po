@@ -30,11 +30,20 @@ msgstr ""
 "Внесенные изменения можно увидеть\n"
 "в изображении вашей веб-камеры в других программах."
 
+msgid "Webcam"
+msgstr "Веб-камера"
+
 msgid "Category"
 msgstr "Категория"
 
 msgid "Name"
 msgstr "Имя"
+
+msgid "ID"
+msgstr "ID"
+
+msgid "Info"
+msgstr "Информация"
 
 msgid ""
 "O relatório foi salvo no arquivo $FILE_TO_SAVE\n"
@@ -48,6 +57,9 @@ msgstr ""
 msgid "Visualizar o relatório"
 msgstr "Посмотреть отчет"
 
+msgid "Fechar"
+msgstr "Закрыть"
+
 msgid "Hardinfo Relatory"
 msgstr "Hardinfo Relatory"
 
@@ -56,6 +68,15 @@ msgstr "Введение в BigLinux"
 
 msgid "Central de Controle"
 msgstr "Центр управления"
+
+msgid "Bom dia"
+msgstr "Доброе утро"
+
+msgid "Boa tarde"
+msgstr "Добрый день"
+
+msgid "Boa noite"
+msgstr "Доброй ночи"
 
 msgid "Aguarde, carregando..."
 msgstr "Приготовьтесь, загрузка..."
@@ -81,6 +102,9 @@ msgid ""
 msgstr ""
 "Мы предоставляем полные конфигурации, из которых вы можете выбрать очень "
 "простой способ."
+
+msgid "Temas, Desktop e Ajustes"
+msgstr "Темы, рабочий стол и настройки"
 
 msgid "Escolha seu Avatar"
 msgstr "Выберите свой Аватар"
@@ -139,6 +163,9 @@ msgstr "Шумоподавитель"
 
 msgid "Configurar a voz do sistema (TTS)"
 msgstr "Настройка системного голоса (TTS)"
+
+msgid "OCR para PDF"
+msgstr "OCR для PDF"
 
 msgid "Doação e Redes sociais"
 msgstr "Пожертвования и социальные сети"
@@ -417,6 +444,15 @@ msgstr "Настройки экрана были сброшены."
 msgid "Configurações da tela"
 msgstr "Настройки экрана"
 
+msgid "Categorias"
+msgstr "Категории"
+
+msgid "Principais"
+msgstr "Главная"
+
+msgid "Sistema"
+msgstr "Система"
+
 msgid "Aparência"
 msgstr "Внешний вид"
 
@@ -428,6 +464,9 @@ msgstr "Настроить"
 
 msgid "Telefone"
 msgstr "Телефон"
+
+msgid "Multimídia"
+msgstr "Мультимедиа"
 
 msgid "Rede e Internet"
 msgstr "Сеть и Интернет"
@@ -444,11 +483,23 @@ msgstr "Конфиденциальность"
 msgid "Servidor"
 msgstr "Сервер"
 
+msgid "Desenvolvimento"
+msgstr "Разработка"
+
 msgid "Sobre"
 msgstr "О сайте"
 
+msgid "Outros"
+msgstr "Другое"
+
 msgid "Pesquisar..."
 msgstr "Поиск..."
+
+msgid "Resultado da pesquisa"
+msgstr "Результат поиска"
+
+msgid "Abrir"
+msgstr "Открытым"
 
 msgid "Temas, desktop e ajustes"
 msgstr "Темы, рабочий стол и настройки"

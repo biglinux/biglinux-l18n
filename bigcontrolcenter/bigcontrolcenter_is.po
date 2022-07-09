@@ -30,11 +30,20 @@ msgstr ""
 "Hægt er að skoða breytingarnar sem gerðar eru\n"
 "á webcam myndinni þinni í öðrum forritum."
 
+msgid "Webcam"
+msgstr "vefmyndavél"
+
 msgid "Category"
 msgstr "Flokkur"
 
 msgid "Name"
 msgstr "Nafn"
+
+msgid "ID"
+msgstr "AUÐKENNI"
+
+msgid "Info"
+msgstr "Upplýsingar"
 
 msgid ""
 "O relatório foi salvo no arquivo $FILE_TO_SAVE\n"
@@ -48,6 +57,9 @@ msgstr ""
 msgid "Visualizar o relatório"
 msgstr "Skoða skýrsluna"
 
+msgid "Fechar"
+msgstr "Loka"
+
 msgid "Hardinfo Relatory"
 msgstr "Hardinfo skýrsla"
 
@@ -56,6 +68,15 @@ msgstr "Kynning á BigLinux"
 
 msgid "Central de Controle"
 msgstr "Stjórnstöð"
+
+msgid "Bom dia"
+msgstr "Salaam"
+
+msgid "Boa tarde"
+msgstr "Góðan daginn"
+
+msgid "Boa noite"
+msgstr "Góða nótt"
 
 msgid "Aguarde, carregando..."
 msgstr "Bíddu, hleðsla..."
@@ -79,6 +100,9 @@ msgid ""
 "Disponiblizamos configurações completas para você selecionar de forma "
 "extremamente simples."
 msgstr "Heill stillingar eru í boði fyrir þig að velja á afar einfaldan hátt."
+
+msgid "Temas, Desktop e Ajustes"
+msgstr "Þemu, skrifborð og leiðréttingar"
 
 msgid "Escolha seu Avatar"
 msgstr "Veldu Avatar þinn"
@@ -137,6 +161,9 @@ msgstr "Hávaði rörtengi"
 
 msgid "Configurar a voz do sistema (TTS)"
 msgstr "Setja upp kerfi rödd (TTS)"
+
+msgid "OCR para PDF"
+msgstr "OCR til PDF"
 
 msgid "Doação e Redes sociais"
 msgstr "Framlag og félagsleg net"
@@ -410,6 +437,15 @@ msgstr "Stillingar skjásins hafa verið endurstilltar."
 msgid "Configurações da tela"
 msgstr "Skjástillingar"
 
+msgid "Categorias"
+msgstr "Flokkar"
+
+msgid "Principais"
+msgstr "Aðal"
+
+msgid "Sistema"
+msgstr "Kerfi"
+
 msgid "Aparência"
 msgstr "Útlit"
 
@@ -421,6 +457,9 @@ msgstr "sérsníða"
 
 msgid "Telefone"
 msgstr "sími"
+
+msgid "Multimídia"
+msgstr "Margmiðlun"
 
 msgid "Rede e Internet"
 msgstr "Net og Internet"
@@ -437,11 +476,23 @@ msgstr "Persónuvernd"
 msgid "Servidor"
 msgstr "mainframe"
 
+msgid "Desenvolvimento"
+msgstr "Þróun"
+
 msgid "Sobre"
 msgstr "Um"
 
+msgid "Outros"
+msgstr "Annað"
+
 msgid "Pesquisar..."
 msgstr "Leita..."
+
+msgid "Resultado da pesquisa"
+msgstr "Leitarniðurstöður"
+
+msgid "Abrir"
+msgstr "Opna"
 
 msgid "Temas, desktop e ajustes"
 msgstr "Þemu, skrifborð og klip"

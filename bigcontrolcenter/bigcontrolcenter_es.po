@@ -30,11 +30,20 @@ msgstr ""
 "Los cambios realizados pueden verse\n"
 "en la imagen de su cámara web en otros programas."
 
+msgid "Webcam"
+msgstr "Cámara web"
+
 msgid "Category"
 msgstr "Categoría"
 
 msgid "Name"
 msgstr "Nombre"
+
+msgid "ID"
+msgstr "ID"
+
+msgid "Info"
+msgstr "Información"
 
 msgid ""
 "O relatório foi salvo no arquivo $FILE_TO_SAVE\n"
@@ -48,6 +57,9 @@ msgstr ""
 msgid "Visualizar o relatório"
 msgstr "Ver el informe"
 
+msgid "Fechar"
+msgstr "Cerrar"
+
 msgid "Hardinfo Relatory"
 msgstr "Relativo a Hardinfo"
 
@@ -56,6 +68,15 @@ msgstr "Introducción a BigLinux"
 
 msgid "Central de Controle"
 msgstr "Centro de control"
+
+msgid "Bom dia"
+msgstr "Buen día"
+
+msgid "Boa tarde"
+msgstr "Buenas tardes"
+
+msgid "Boa noite"
+msgstr "Buenas noches"
 
 msgid "Aguarde, carregando..."
 msgstr "Preparados, cargando..."
@@ -81,6 +102,9 @@ msgid ""
 msgstr ""
 "Le proporcionamos configuraciones completas para que pueda elegir de forma "
 "muy sencilla."
+
+msgid "Temas, Desktop e Ajustes"
+msgstr "Temas, escritorio y configuración"
 
 msgid "Escolha seu Avatar"
 msgstr "Elija su avatar"
@@ -139,6 +163,9 @@ msgstr "Reductor de ruido"
 
 msgid "Configurar a voz do sistema (TTS)"
 msgstr "Configurar la voz del sistema (TTS)"
+
+msgid "OCR para PDF"
+msgstr "OCR para PDF"
 
 msgid "Doação e Redes sociais"
 msgstr "Donación y redes sociales"
@@ -417,6 +444,15 @@ msgstr "La configuración de la pantalla se ha restablecido."
 msgid "Configurações da tela"
 msgstr "Configuración de la pantalla"
 
+msgid "Categorias"
+msgstr "Categorías"
+
+msgid "Principais"
+msgstr "Principal"
+
+msgid "Sistema"
+msgstr "Sistema"
+
 msgid "Aparência"
 msgstr "Apariencia"
 
@@ -428,6 +464,9 @@ msgstr "Personalice"
 
 msgid "Telefone"
 msgstr "Teléfono"
+
+msgid "Multimídia"
+msgstr "Multimedia"
 
 msgid "Rede e Internet"
 msgstr "Red e Internet"
@@ -444,11 +483,23 @@ msgstr "Privacidad"
 msgid "Servidor"
 msgstr "Servidor"
 
+msgid "Desenvolvimento"
+msgstr "Desarrollo"
+
 msgid "Sobre"
 msgstr "Acerca de"
 
+msgid "Outros"
+msgstr "Otros"
+
 msgid "Pesquisar..."
 msgstr "Buscar..."
+
+msgid "Resultado da pesquisa"
+msgstr "Resultado de la búsqueda"
+
+msgid "Abrir"
+msgstr "Abrir"
 
 msgid "Temas, desktop e ajustes"
 msgstr "Temas, escritorio y configuración"

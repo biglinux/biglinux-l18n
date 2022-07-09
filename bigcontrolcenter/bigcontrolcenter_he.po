@@ -30,11 +30,20 @@ msgstr ""
 "ניתן לראות את השינויים שבוצעו\n"
 "על תמונת מצלמת האינטרנט שלך בתוכניות אחרות."
 
+msgid "Webcam"
+msgstr "מצלמת אינטרנט"
+
 msgid "Category"
 msgstr "קטגוריה"
 
 msgid "Name"
 msgstr "שם"
+
+msgid "ID"
+msgstr "תעודת זהות"
+
+msgid "Info"
+msgstr "מידע"
 
 msgid ""
 "O relatório foi salvo no arquivo $FILE_TO_SAVE\n"
@@ -48,6 +57,9 @@ msgstr ""
 msgid "Visualizar o relatório"
 msgstr "הצג את הדוח"
 
+msgid "Fechar"
+msgstr "סגור"
+
 msgid "Hardinfo Relatory"
 msgstr "דוח מידע"
 
@@ -56,6 +68,15 @@ msgstr "מבוא ל- ביגלינוקס"
 
 msgid "Central de Controle"
 msgstr "מרכז הבקרה"
+
+msgid "Bom dia"
+msgstr "סלאם"
+
+msgid "Boa tarde"
+msgstr "אחר צהריים טובים"
+
+msgid "Boa noite"
+msgstr "לילה טוב"
 
 msgid "Aguarde, carregando..."
 msgstr "חכה, טוען..."
@@ -79,6 +100,9 @@ msgid ""
 "Disponiblizamos configurações completas para você selecionar de forma "
 "extremamente simples."
 msgstr "תצורות שלמות זמינות לבחירתך בצורה פשוטה ביותר."
+
+msgid "Temas, Desktop e Ajustes"
+msgstr "ערכות נושא, שולחן עבודה והתאמות"
 
 msgid "Escolha seu Avatar"
 msgstr "בחר את הדמות שלך"
@@ -135,6 +159,9 @@ msgstr "כמפחית רעש"
 
 msgid "Configurar a voz do sistema (TTS)"
 msgstr "הגדרת קול מערכת (TTS)"
+
+msgid "OCR para PDF"
+msgstr "זיהוי תווים אופטי ל- PDF"
 
 msgid "Doação e Redes sociais"
 msgstr "תרומה ורשתות חברתיות"
@@ -401,6 +428,15 @@ msgstr "הגדרות המסך אופסו."
 msgid "Configurações da tela"
 msgstr "הגדרות מסך"
 
+msgid "Categorias"
+msgstr "קטגוריות"
+
+msgid "Principais"
+msgstr "ראשי"
+
+msgid "Sistema"
+msgstr "מערכת"
+
 msgid "Aparência"
 msgstr "מראה"
 
@@ -412,6 +448,9 @@ msgstr "להתאים אישית"
 
 msgid "Telefone"
 msgstr "טלפון"
+
+msgid "Multimídia"
+msgstr "מולטימדיה"
 
 msgid "Rede e Internet"
 msgstr "רשת ואינטרנט"
@@ -428,11 +467,23 @@ msgstr "פרטיות"
 msgid "Servidor"
 msgstr "מיינפריים"
 
+msgid "Desenvolvimento"
+msgstr "פיתוח"
+
 msgid "Sobre"
 msgstr "אודות"
 
+msgid "Outros"
+msgstr "אחרים"
+
 msgid "Pesquisar..."
 msgstr "חפש..."
+
+msgid "Resultado da pesquisa"
+msgstr "תוצאת חיפוש"
+
+msgid "Abrir"
+msgstr "פתוח"
 
 msgid "Temas, desktop e ajustes"
 msgstr "ערכות נושא, שולחן עבודה, וtweaks"

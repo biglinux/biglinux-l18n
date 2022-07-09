@@ -28,11 +28,20 @@ msgstr ""
 "канфігурацыі. Унесеныя змены можна ўбачыць на малюнку вашай вэб-камеры ў "
 "іншых праграмах."
 
+msgid "Webcam"
+msgstr "вэбкамера"
+
 msgid "Category"
 msgstr "Катэгорыя"
 
 msgid "Name"
 msgstr "імя"
+
+msgid "ID"
+msgstr "ID"
+
+msgid "Info"
+msgstr "інфармацыя"
 
 msgid ""
 "O relatório foi salvo no arquivo $FILE_TO_SAVE\n"
@@ -45,6 +54,9 @@ msgstr ""
 msgid "Visualizar o relatório"
 msgstr "Праглядзіце справаздачу"
 
+msgid "Fechar"
+msgstr "Закрыць"
+
 msgid "Hardinfo Relatory"
 msgstr "Справаздача Hardinfo"
 
@@ -53,6 +65,15 @@ msgstr "Уводзіны ў BigLinux"
 
 msgid "Central de Controle"
 msgstr "Цэнтр кіравання"
+
+msgid "Bom dia"
+msgstr "Добрай раніцы"
+
+msgid "Boa tarde"
+msgstr "Добры дзень"
+
+msgid "Boa noite"
+msgstr "Дабранач"
 
 msgid "Aguarde, carregando..."
 msgstr "Пачакайце, загружаецца..."
@@ -78,6 +99,9 @@ msgid ""
 msgstr ""
 "Мы прапануем поўныя налады, якія вы можаце выбраць надзвычай простым "
 "спосабам."
+
+msgid "Temas, Desktop e Ajustes"
+msgstr "Тэмы, працоўны стол і налады"
 
 msgid "Escolha seu Avatar"
 msgstr "Выберыце свой аватар"
@@ -136,6 +160,9 @@ msgstr "Зніжэнне шуму"
 
 msgid "Configurar a voz do sistema (TTS)"
 msgstr "Наладзіць сістэмны голас (TTS)"
+
+msgid "OCR para PDF"
+msgstr "OCR ў pdf"
 
 msgid "Doação e Redes sociais"
 msgstr "Ахвяраванне і сацыяльныя сеткі"
@@ -407,6 +434,15 @@ msgstr "Налады экрана былі скінуты."
 msgid "Configurações da tela"
 msgstr "налады экрана"
 
+msgid "Categorias"
+msgstr "Катэгорыі"
+
+msgid "Principais"
+msgstr "Галоўны"
+
+msgid "Sistema"
+msgstr "Сістэма"
+
 msgid "Aparência"
 msgstr "Знешні выгляд"
 
@@ -418,6 +454,9 @@ msgstr "Персаналізацыя"
 
 msgid "Telefone"
 msgstr "Тэлефон"
+
+msgid "Multimídia"
+msgstr "Мультымедыя"
 
 msgid "Rede e Internet"
 msgstr "Сетка і Інтэрнэт"
@@ -434,11 +473,23 @@ msgstr "Канфідэнцыяльнасць"
 msgid "Servidor"
 msgstr "сервер"
 
+msgid "Desenvolvimento"
+msgstr "Развіццё"
+
 msgid "Sobre"
 msgstr "Аб"
 
+msgid "Outros"
+msgstr "Іншыя"
+
 msgid "Pesquisar..."
 msgstr "Шукаць..."
+
+msgid "Resultado da pesquisa"
+msgstr "вынік пошуку"
+
+msgid "Abrir"
+msgstr "Адкрыць"
 
 msgid "Temas, desktop e ajustes"
 msgstr "Тэмы, працоўны стол і налады"
