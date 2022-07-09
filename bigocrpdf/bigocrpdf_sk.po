@@ -2,20 +2,20 @@
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the bigocrpdf package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
+# 
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: bigocrpdf\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-07-09 14:19-0300\n"
+"POT-Creation-Date: 2022-07-09 04:17-0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: sk\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
+"Content-Transfer-Encoding: 8bit"
 
 msgid "Torne seu PDF pesquisável"
 msgstr "Zabezpečte, aby sa vo vašom PDF dalo vyhľadávať"
@@ -69,9 +69,11 @@ msgstr "Cieľová destinácia:"
 msgid "Aplicar"
 msgstr "Aplikovať"
 
-msgid "Adicionar OCR no PDF digitalizado permitindo seleção de textos e busca:"
+msgid ""
+"Adicionar OCR no PDF digitalizado permitindo seleção de textos e busca:"
 msgstr ""
 "Pridanie OCR do naskenovaného PDF, ktoré umožňuje výber textu a vyhľadávanie:"
+""
 
 msgid "Quantidade de arquivos:"
 msgstr "Počet súborov:"
@@ -92,7 +94,7 @@ msgid "Aplicando - Aguarde"
 msgstr "Podanie žiadosti - Počkajte, prosím"
 
 msgid "Abrir"
-msgstr ""
+msgstr "Otvorte stránku"
 
 msgid "Arquivo:"
 msgstr "Archív:"
@@ -101,10 +103,10 @@ msgid "Pasta:"
 msgstr "Priečinok:"
 
 msgid "OCR para PDF"
-msgstr ""
+msgstr "OCR pre PDF"
 
 msgid "Concluído!"
-msgstr ""
+msgstr "Hotovo!"
 
 msgid "Salvo em: "
 msgstr "Uložené v "

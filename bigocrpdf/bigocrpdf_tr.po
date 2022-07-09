@@ -2,20 +2,20 @@
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the bigocrpdf package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
+# 
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: bigocrpdf\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-07-09 14:19-0300\n"
+"POT-Creation-Date: 2022-07-09 04:17-0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: tr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
+"Content-Transfer-Encoding: 8bit"
 
 msgid "Torne seu PDF pesquisável"
 msgstr "PDF'nizi aranabilir hale getirin"
@@ -69,7 +69,8 @@ msgstr "Varış yeri:"
 msgid "Aplicar"
 msgstr "Başvurmak"
 
-msgid "Adicionar OCR no PDF digitalizado permitindo seleção de textos e busca:"
+msgid ""
+"Adicionar OCR no PDF digitalizado permitindo seleção de textos e busca:"
 msgstr "Taranan PDF'ye OCR ekleyerek metin seçimine ve aramaya olanak tanır:"
 
 msgid "Quantidade de arquivos:"
@@ -91,7 +92,7 @@ msgid "Aplicando - Aguarde"
 msgstr "Başvuru - Lütfen bekleyin"
 
 msgid "Abrir"
-msgstr ""
+msgstr "Açık"
 
 msgid "Arquivo:"
 msgstr "Arşiv:"
@@ -100,10 +101,10 @@ msgid "Pasta:"
 msgstr "Klasör:"
 
 msgid "OCR para PDF"
-msgstr ""
+msgstr "PDF için OCR"
 
 msgid "Concluído!"
-msgstr ""
+msgstr "Tamamdır!"
 
 msgid "Salvo em: "
 msgstr "Kaydedildi "

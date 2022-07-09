@@ -2,20 +2,20 @@
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the bigocrpdf package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
+# 
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: bigocrpdf\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-07-09 14:19-0300\n"
+"POT-Creation-Date: 2022-07-09 04:17-0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: zh\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
+"Content-Transfer-Encoding: 8bit"
 
 msgid "Torne seu PDF pesquisável"
 msgstr "使您的 PDF 可搜索"
@@ -67,7 +67,8 @@ msgstr "目的地。"
 msgid "Aplicar"
 msgstr "申請"
 
-msgid "Adicionar OCR no PDF digitalizado permitindo seleção de textos e busca:"
+msgid ""
+"Adicionar OCR no PDF digitalizado permitindo seleção de textos e busca:"
 msgstr "在扫描的PDF中添加OCR，允许文本选择和搜索。"
 
 msgid "Quantidade de arquivos:"
@@ -89,7 +90,7 @@ msgid "Aplicando - Aguarde"
 msgstr "申请 - 请等待"
 
 msgid "Abrir"
-msgstr ""
+msgstr "打開"
 
 msgid "Arquivo:"
 msgstr "档案。"
@@ -98,10 +99,10 @@ msgid "Pasta:"
 msgstr "文件夾："
 
 msgid "OCR para PDF"
-msgstr ""
+msgstr "用于PDF的OCR"
 
 msgid "Concluído!"
-msgstr ""
+msgstr "完成了!"
 
 msgid "Salvo em: "
 msgstr "保存在。 "

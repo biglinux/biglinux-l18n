@@ -2,20 +2,20 @@
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the bigocrpdf package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
+# 
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: bigocrpdf\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-07-09 14:19-0300\n"
+"POT-Creation-Date: 2022-07-09 04:17-0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: be\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
+"Content-Transfer-Encoding: 8bit"
 
 msgid "Torne seu PDF pesquisável"
 msgstr "Зрабіце ваш PDF даступным для пошуку"
@@ -69,7 +69,8 @@ msgstr "Лёс:"
 msgid "Aplicar"
 msgstr "Ўжываць"
 
-msgid "Adicionar OCR no PDF digitalizado permitindo seleção de textos e busca:"
+msgid ""
+"Adicionar OCR no PDF digitalizado permitindo seleção de textos e busca:"
 msgstr "Дадаць OCR у адсканаваны PDF, дазваляючы выбар і пошук тэксту:"
 
 msgid "Quantidade de arquivos:"
@@ -91,7 +92,7 @@ msgid "Aplicando - Aguarde"
 msgstr "Заяўка - пачакайце"
 
 msgid "Abrir"
-msgstr ""
+msgstr "Адкрыць"
 
 msgid "Arquivo:"
 msgstr "Файл:"
@@ -100,10 +101,10 @@ msgid "Pasta:"
 msgstr "Папка:"
 
 msgid "OCR para PDF"
-msgstr ""
+msgstr "OCR ў pdf"
 
 msgid "Concluído!"
-msgstr ""
+msgstr "Выснову!"
 
 msgid "Salvo em: "
 msgstr "Захавана:"

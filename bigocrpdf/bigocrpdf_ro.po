@@ -2,20 +2,20 @@
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the bigocrpdf package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
+# 
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: bigocrpdf\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-07-09 14:19-0300\n"
+"POT-Creation-Date: 2022-07-09 04:17-0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ro\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
+"Content-Transfer-Encoding: 8bit"
 
 msgid "Torne seu PDF pesquisável"
 msgstr "Faceți ca PDF-ul dvs. să poată fi căutat"
@@ -69,7 +69,8 @@ msgstr "Destinație:"
 msgid "Aplicar"
 msgstr "Aplicați"
 
-msgid "Adicionar OCR no PDF digitalizado permitindo seleção de textos e busca:"
+msgid ""
+"Adicionar OCR no PDF digitalizado permitindo seleção de textos e busca:"
 msgstr ""
 "Adăugați OCR la PDF-ul scanat pentru a permite selectarea și căutarea de "
 "text:"
@@ -93,7 +94,7 @@ msgid "Aplicando - Aguarde"
 msgstr "Aplicare - Vă rugăm să așteptați"
 
 msgid "Abrir"
-msgstr ""
+msgstr "Deschideți"
 
 msgid "Arquivo:"
 msgstr "Arhivă:"
@@ -102,10 +103,10 @@ msgid "Pasta:"
 msgstr "Dosar:"
 
 msgid "OCR para PDF"
-msgstr ""
+msgstr "OCR pentru PDF"
 
 msgid "Concluído!"
-msgstr ""
+msgstr "Gata!"
 
 msgid "Salvo em: "
 msgstr "Salvat în "
