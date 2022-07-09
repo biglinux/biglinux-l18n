@@ -3,18 +3,18 @@
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the big-store package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-# 
+#
 # #-#-#-#-#  python.pot (PACKAGE VERSION)  #-#-#-#-#
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) YEAR ORGANIZATION
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-# 
+#
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-07-09 04:17-0300\n"
+"POT-Creation-Date: 2022-07-09 17:16-0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -22,7 +22,7 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: pygettext.py 1.5"
+"Generated-By: pygettext.py 1.5\n"
 
 msgid "Big-Store está aberta."
 msgstr "Біг-магазин відкритий."
@@ -396,7 +396,6 @@ msgid ""
 msgstr ""
 "Примусово оновлюйте, використовуйте цей параметр, якщо не вдається оновити "
 "систему, однак при примусовому оновленні деякі програми можуть бути видалені."
-""
 
 msgid "Repositórios nativos"
 msgstr "Рідні репозиторії"
@@ -410,7 +409,8 @@ msgid ""
 msgstr ""
 "\n"
 "Нативні програми краще інтегруються в систему <br>\n"
-"і вони проходять подальше тестування, перш ніж вони стануть доступними, <br>\n"
+"і вони проходять подальше тестування, перш ніж вони стануть доступними, "
+"<br>\n"
 "так що це найкращий варіант, коли програма ви <br>\n"
 "хочу доступний у більш ніж одному типі установки. <br>"
 
