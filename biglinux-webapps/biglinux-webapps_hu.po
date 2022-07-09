@@ -2,20 +2,20 @@
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the biglinux-webapps package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
+# 
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: biglinux-webapps\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-07-09 14:19-0300\n"
+"POT-Creation-Date: 2022-07-09 04:17-0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: hu\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
+"Content-Transfer-Encoding: 8bit"
 
 msgid "Selecionar imagem"
 msgstr "Kép kiválasztása"
@@ -80,9 +80,6 @@ msgstr "Add"
 msgid "Para adicionar um WebApp, você precisa informar a Url e o Nome."
 msgstr "Egy Webalkalmazás hozzáadásához meg kell adnia az Url és a Név címet."
 
-msgid "Fechar"
-msgstr ""
-
 msgid "Para detectar o Nome e o Ícone você precisa informar a Url."
 msgstr "A név és az ikon észleléséhez tájékoztatnia kell az Url-t."
 
@@ -102,21 +99,6 @@ msgstr "Megtalált ikonok"
 msgid "Selecione o ícone preferido:"
 msgstr "Válassza ki a kívánt ikont:"
 
-msgid "Desenvolvimento"
-msgstr ""
-
-msgid "Escritório"
-msgstr "Iroda"
-
-msgid "Gráficos"
-msgstr "Grafika"
-
-msgid "Jogos"
-msgstr "Játékok"
-
-msgid "Multimídia"
-msgstr ""
-
 msgid "Tem certeza que deseja remover este WebApp?"
 msgstr "Biztos, hogy el akarja távolítani ezt a webalkalmazást?"
 
@@ -134,15 +116,6 @@ msgstr "Válassza ki a kívánt böngészőt:"
 
 msgid "WebApps Nativos"
 msgstr "Natív webes alkalmazások"
-
-msgid "Bom dia"
-msgstr ""
-
-msgid "Boa tarde"
-msgstr ""
-
-msgid "Boa noite"
-msgstr ""
 
 msgid "Aguarde, estamos preparando para começar..."
 msgstr "Készüljetek, mindjárt kezdünk..."

@@ -12,19 +12,19 @@ msgstr ""
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
-"Language: fr\n"
+"Language: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit"
 
 msgid "Selecionar imagem"
-msgstr "Sélectionner une image"
+msgstr "Selecionar imagem"
 
 msgid "Adicionar WebApps"
-msgstr "Ajouter des WebApps"
+msgstr "Adicionar WebApps"
 
 msgid "WebApps Adicionados"
-msgstr "WebApps ajoutées"
+msgstr "WebApps Adicionados"
 
 msgid "WebApps BigLinux"
 msgstr "WebApps BigLinux"
@@ -33,89 +33,89 @@ msgid "Url:"
 msgstr "Url:"
 
 msgid "Detectar Nome e Ícone"
-msgstr "Détecter le nom et l'icône"
+msgstr "Detectar Nome e Ícone"
 
 msgid "Nome:"
-msgstr "Nom:"
+msgstr "Nome:"
 
 msgid "Ícone:"
-msgstr "Icône:"
+msgstr "Ícone:"
 
 msgid "Alterar"
-msgstr "Changer"
+msgstr "Alterar"
 
 msgid "Navegador:"
-msgstr "Navigateur:"
+msgstr "Navegador:"
 
 msgid "Categoria:"
-msgstr "Catégorie:"
+msgstr "Categoria:"
 
 msgid "DESENVOLVIMENTO"
-msgstr "DÉVELOPPEMENT"
+msgstr "DESENVOLVIMENTO"
 
 msgid "ESCRITÓRIO"
-msgstr "BUREAU"
+msgstr "ESCRITÓRIO"
 
 msgid "GRÁFICOS"
-msgstr "GRAPHIQUE"
+msgstr "GRÁFICOS"
 
 msgid "JOGOS"
-msgstr "JEUX"
+msgstr "JOGOS"
 
 msgid "MULTIMÍDIA"
-msgstr "MULTIMÉDIA"
+msgstr "MULTIMÍDIA"
 
 msgid "Criar atalho na Área de Trabalho"
-msgstr "Créer un raccourci sur le bureau"
+msgstr "Criar atalho na Área de Trabalho"
 
 msgid "Perfil adicional"
-msgstr "Profil supplémentaire"
+msgstr "Perfil adicional"
 
 msgid "YouTube Modo TV"
-msgstr "Mode TV YouTube"
+msgstr "YouTube Modo TV"
 
 msgid "Adicionar"
-msgstr "Ajouter"
+msgstr "Adicionar"
 
 msgid "Para adicionar um WebApp, você precisa informar a Url e o Nome."
-msgstr "Pour ajouter une WebApp, vous devez fournir l'URL et le nom."
+msgstr "Para adicionar um WebApp, você precisa informar a Url e o Nome."
 
 msgid "Para detectar o Nome e o Ícone você precisa informar a Url."
-msgstr "Um den Namen und das Symbol zu erkennen, müssen Sie die URL angeben."
+msgstr "Para detectar o Nome e o Ícone você precisa informar a Url."
 
 msgid ""
 "A Url é inválida ou a conexão falhou.<br>Tente inserir o ícone pelo botão "
 "Alterar."
 msgstr ""
-" L'URL n'est pas valide ou la connexion a échoué.<br>Essayez d'entrer "
-"l'icône via le bouton Modifier."
+"A Url é inválida ou a conexão falhou.<br>Tente inserir o ícone pelo botão "
+"Alterar."
 
 msgid "O WebApp foi adicionado com sucesso!"
-msgstr " La WebApp a été ajoutée avec succès !"
+msgstr "O WebApp foi adicionado com sucesso!"
 
 msgid "Ícones encontrados"
-msgstr "Icônes trouvées "
+msgstr "Ícones encontrados"
 
 msgid "Selecione o ícone preferido:"
-msgstr " Sélectionnez votre icône préférée :"
+msgstr "Selecione o ícone preferido:"
 
 msgid "Tem certeza que deseja remover este WebApp?"
-msgstr " Voulez-vous vraiment supprimer cette WebApp ?"
+msgstr "Tem certeza que deseja remover este WebApp?"
 
 msgid "Nenhum WebApp adicionado!"
-msgstr " Aucune application Web ajoutée !"
+msgstr "Nenhum WebApp adicionado!"
 
 msgid "Navegador padrão<br>dos webapps:"
-msgstr " Navigateur par défaut<br>des applications Web :"
+msgstr "Navegador padrão<br>dos webapps:"
 
 msgid "Alterar navegador"
-msgstr "Changer de navigateur"
+msgstr "Alterar navegador"
 
 msgid "Selecione o navegador preferido:"
-msgstr "Sélectionnez votre navigateur préféré :"
+msgstr "Selecione o navegador preferido:"
 
 msgid "WebApps Nativos"
-msgstr "Applications Web natives"
+msgstr "WebApps Nativos"
 
 msgid "Aguarde, estamos preparando para começar..."
-msgstr "Attendez, nous nous préparons à commencer..."
+msgstr "Aguarde, estamos preparando para começar..."

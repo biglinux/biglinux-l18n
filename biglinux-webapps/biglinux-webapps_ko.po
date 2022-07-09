@@ -2,20 +2,20 @@
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the biglinux-webapps package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
+# 
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: biglinux-webapps\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-07-09 14:19-0300\n"
+"POT-Creation-Date: 2022-07-09 04:17-0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ko\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
+"Content-Transfer-Encoding: 8bit"
 
 msgid "Selecionar imagem"
 msgstr "이미지 선택"
@@ -80,18 +80,13 @@ msgstr "추가"
 msgid "Para adicionar um WebApp, você precisa informar a Url e o Nome."
 msgstr "웹앱을 추가하려면 URL과 이름을 입력해야 합니다."
 
-msgid "Fechar"
-msgstr ""
-
 msgid "Para detectar o Nome e o Ícone você precisa informar a Url."
 msgstr "이름과 아이콘을 검색하려면 URL을 입력해야 합니다."
 
 msgid ""
 "A Url é inválida ou a conexão falhou.<br>Tente inserir o ícone pelo botão "
 "Alterar."
-msgstr ""
-"URL이 잘못되었거나 연결에 실패했습니다.<br>변경 버튼을 통해 아이콘을 삽입해 "
-"보세요."
+msgstr "URL이 잘못되었거나 연결에 실패했습니다.<br>변경 버튼을 통해 아이콘을 삽입해 보세요."
 
 msgid "O WebApp foi adicionado com sucesso!"
 msgstr "웹앱이 성공적으로 추가되었습니다!"
@@ -101,21 +96,6 @@ msgstr "찾음 아이콘"
 
 msgid "Selecione o ícone preferido:"
 msgstr "기본 아이콘을 선택합니다."
-
-msgid "Desenvolvimento"
-msgstr ""
-
-msgid "Escritório"
-msgstr "사무실"
-
-msgid "Gráficos"
-msgstr "그래픽스"
-
-msgid "Jogos"
-msgstr "게임"
-
-msgid "Multimídia"
-msgstr ""
 
 msgid "Tem certeza que deseja remover este WebApp?"
 msgstr "이 웹앱을 제거하시겠습니까?"
@@ -134,15 +114,6 @@ msgstr "원하는 브라우저를 선택합니다."
 
 msgid "WebApps Nativos"
 msgstr "네이티브 웹앱"
-
-msgid "Bom dia"
-msgstr ""
-
-msgid "Boa tarde"
-msgstr ""
-
-msgid "Boa noite"
-msgstr ""
 
 msgid "Aguarde, estamos preparando para começar..."
 msgstr "잠깐, 시작할 준비가 됐어..."
