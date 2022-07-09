@@ -3,18 +3,18 @@
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the big-store package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
+# 
 # #-#-#-#-#  python.pot (PACKAGE VERSION)  #-#-#-#-#
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) YEAR ORGANIZATION
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
+# 
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-07-09 16:02-0300\n"
+"POT-Creation-Date: 2022-07-09 04:17-0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -22,7 +22,7 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: pygettext.py 1.5\n"
+"Generated-By: pygettext.py 1.5"
 
 msgid "Big-Store está aberta."
 msgstr "大卖场开张了。"
@@ -380,20 +380,16 @@ msgid ""
 "Atualizar as chaves dos repositórios BigLinux, Manjaro e Archlinux. Lembre "
 "que se você ativou repositórios complementares será necessário adicionar as "
 "chaves desses repositórios novamente."
-msgstr ""
-"更新BigLinux、Manjaro和Archlinux存储库的密钥。记住，如果你已经激活了补充库，"
-"将需要再次添加这些库的密钥。"
+msgstr "更新BigLinux、Manjaro和Archlinux存储库的密钥。记住，如果你已经激活了补充库，将需要再次添加这些库的密钥。"
 
 msgid ""
 "Forçar atualizações, utilize essa opção se não estiver conseguindo atualizar "
 "o sistema, porém, na atualização forçada alguns programas podem ser "
 "removidos."
-msgstr ""
-"强制更新，如果你无法更新系统，就使用这个选项，然而，在强制更新中，一些程序可"
-"能被删除。"
+msgstr "强制更新，如果你无法更新系统，就使用这个选项，然而，在强制更新中，一些程序可能被删除。"
 
 msgid "Repositórios nativos"
-msgstr ""
+msgstr "本地存储库"
 
 msgid ""
 "\n"
@@ -480,7 +476,7 @@ msgid "Modo Simplificado"
 msgstr "简化模式"
 
 msgid "Nativos"
-msgstr ""
+msgstr "土著人"
 
 msgid "Início"
 msgstr "首页"
@@ -500,15 +496,11 @@ msgstr "下載大小："
 msgid "Site:"
 msgstr "網頁:"
 
-#
-# File: big-store/big-store/usr/share/bigbashview/bcc/apps/big-store/view_appstream_pamac.py, line: 180
-# File: big-store/big-store/usr/share/bigbashview/bcc/apps/big-store/view_aur.py, line: 124
 msgid "Data do empacotamento:"
-msgstr ""
+msgstr "包装的日期。"
 
-#, fuzzy
 msgid "Data de instalação:"
-msgstr "安裝原因："
+msgstr "安装日期。"
 
 msgid "Motivo da instalação:"
 msgstr "安裝原因："
@@ -534,16 +526,11 @@ msgstr "打包文件："
 msgid "Clique aqui para ver os arquivos"
 msgstr "點擊這裡查看文件"
 
-#
-# File: big-store/big-store/usr/share/bigbashview/bcc/apps/big-store/view_aur.py, line: 92
 msgid "Número de votos:"
-msgstr ""
+msgstr "票数。"
 
-#
-# File: big-store/big-store/usr/share/bigbashview/bcc/apps/big-store/view_aur.py, line: 95
 msgid "Página no AUR:"
-msgstr ""
+msgstr "AUR页。"
 
-#, fuzzy
 msgid "Dependências de instalação:"
-msgstr "需要安装的依赖性"
+msgstr "安装的依赖性。"

@@ -3,18 +3,18 @@
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the big-store package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
+# 
 # #-#-#-#-#  python.pot (PACKAGE VERSION)  #-#-#-#-#
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) YEAR ORGANIZATION
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
+# 
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-07-09 16:02-0300\n"
+"POT-Creation-Date: 2022-07-09 04:17-0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -22,7 +22,7 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: pygettext.py 1.5\n"
+"Generated-By: pygettext.py 1.5"
 
 msgid "Big-Store está aberta."
 msgstr "Big-Store ist geöffnet."
@@ -399,7 +399,7 @@ msgstr ""
 "möglicherweise einige Programme entfernt."
 
 msgid "Repositórios nativos"
-msgstr ""
+msgstr "Native Repositories"
 
 msgid ""
 "\n"
@@ -486,7 +486,7 @@ msgid "Modo Simplificado"
 msgstr "Vereinfachter Modus"
 
 msgid "Nativos"
-msgstr ""
+msgstr "Einheimische"
 
 msgid "Início"
 msgstr "Startseite"
@@ -506,15 +506,11 @@ msgstr "Downloadgröße:"
 msgid "Site:"
 msgstr "Webseite:"
 
-#
-# File: big-store/big-store/usr/share/bigbashview/bcc/apps/big-store/view_appstream_pamac.py, line: 180
-# File: big-store/big-store/usr/share/bigbashview/bcc/apps/big-store/view_aur.py, line: 124
 msgid "Data do empacotamento:"
-msgstr ""
+msgstr "Datum der Verpackung:"
 
-#, fuzzy
 msgid "Data de instalação:"
-msgstr "Grund für die Installation:"
+msgstr "Datum der Installation:"
 
 msgid "Motivo da instalação:"
 msgstr "Grund für die Installation:"
@@ -540,16 +536,11 @@ msgstr "Paketdateien:"
 msgid "Clique aqui para ver os arquivos"
 msgstr "Klicken Sie hier, um die Dateien anzuzeigen"
 
-#
-# File: big-store/big-store/usr/share/bigbashview/bcc/apps/big-store/view_aur.py, line: 92
 msgid "Número de votos:"
-msgstr ""
+msgstr "Anzahl der Stimmen:"
 
-#
-# File: big-store/big-store/usr/share/bigbashview/bcc/apps/big-store/view_aur.py, line: 95
 msgid "Página no AUR:"
-msgstr ""
+msgstr "AUR-Seite:"
 
-#, fuzzy
 msgid "Dependências de instalação:"
-msgstr "Zu installierende Abhängigkeiten"
+msgstr "Abhängigkeiten bei der Installation:"

@@ -3,18 +3,18 @@
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the big-store package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
+# 
 # #-#-#-#-#  python.pot (PACKAGE VERSION)  #-#-#-#-#
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) YEAR ORGANIZATION
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
+# 
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-07-09 16:02-0300\n"
+"POT-Creation-Date: 2022-07-09 04:17-0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -22,7 +22,7 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: pygettext.py 1.5\n"
+"Generated-By: pygettext.py 1.5"
 
 msgid "Big-Store está aberta."
 msgstr "Big-Store er opið."
@@ -396,7 +396,7 @@ msgstr ""
 "en í þvingaðri uppfærslu geta sum forrit verið fjarlægð."
 
 msgid "Repositórios nativos"
-msgstr ""
+msgstr "Innfæddar geymslur"
 
 msgid ""
 "\n"
@@ -484,7 +484,7 @@ msgid "Modo Simplificado"
 msgstr "Einfölduð Mode"
 
 msgid "Nativos"
-msgstr ""
+msgstr "Innfæddir"
 
 msgid "Início"
 msgstr "Byrja"
@@ -504,15 +504,11 @@ msgstr "Sækja stærð:"
 msgid "Site:"
 msgstr "Vefsíða:"
 
-#
-# File: big-store/big-store/usr/share/bigbashview/bcc/apps/big-store/view_appstream_pamac.py, line: 180
-# File: big-store/big-store/usr/share/bigbashview/bcc/apps/big-store/view_aur.py, line: 124
 msgid "Data do empacotamento:"
-msgstr ""
+msgstr "Dagsetning umbúða:"
 
-#, fuzzy
 msgid "Data de instalação:"
-msgstr "Ástæða fyrir uppsetningu:"
+msgstr "Uppsetning dagsetning:"
 
 msgid "Motivo da instalação:"
 msgstr "Ástæða fyrir uppsetningu:"
@@ -538,16 +534,11 @@ msgstr "Pakki skrár:"
 msgid "Clique aqui para ver os arquivos"
 msgstr "Smelltu hér til að skoða skrárnar"
 
-#
-# File: big-store/big-store/usr/share/bigbashview/bcc/apps/big-store/view_aur.py, line: 92
 msgid "Número de votos:"
-msgstr ""
+msgstr "Fjöldi atkvæða:"
 
-#
-# File: big-store/big-store/usr/share/bigbashview/bcc/apps/big-store/view_aur.py, line: 95
 msgid "Página no AUR:"
-msgstr ""
+msgstr "Síða á AUR:"
 
-#, fuzzy
 msgid "Dependências de instalação:"
-msgstr "Ósjálfstæði til að setja upp"
+msgstr "Uppsetning ósjálfstæði:"

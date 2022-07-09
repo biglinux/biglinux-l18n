@@ -3,18 +3,18 @@
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the big-store package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
+# 
 # #-#-#-#-#  python.pot (PACKAGE VERSION)  #-#-#-#-#
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) YEAR ORGANIZATION
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
+# 
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-07-09 16:02-0300\n"
+"POT-Creation-Date: 2022-07-09 04:17-0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -22,7 +22,7 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Generated-By: pygettext.py 1.5\n"
+"Generated-By: pygettext.py 1.5"
 
 msgid "Big-Store está aberta."
 msgstr "Big-Store is open."
@@ -238,7 +238,8 @@ msgid "Pacotes Snap"
 msgstr "Snap Pakketten"
 
 msgid "Pacotes Snap Instalados clique no pacote para remover"
-msgstr "Geïnstalleerde Snap-pakketten klik op het pakket om het te verwijderen"
+msgstr ""
+"Geïnstalleerde Snap-pakketten klik op het pakket om het te verwijderen"
 
 msgid "Versão: "
 msgstr "Versie "
@@ -399,7 +400,7 @@ msgstr ""
 "verwijderd worden."
 
 msgid "Repositórios nativos"
-msgstr ""
+msgstr "Inheemse repositories"
 
 msgid ""
 "\n"
@@ -486,7 +487,7 @@ msgid "Modo Simplificado"
 msgstr "Vereenvoudigde modus"
 
 msgid "Nativos"
-msgstr ""
+msgstr "Inboorlingen"
 
 msgid "Início"
 msgstr "Home"
@@ -506,15 +507,11 @@ msgstr "Download formaat:"
 msgid "Site:"
 msgstr "Website:"
 
-#
-# File: big-store/big-store/usr/share/bigbashview/bcc/apps/big-store/view_appstream_pamac.py, line: 180
-# File: big-store/big-store/usr/share/bigbashview/bcc/apps/big-store/view_aur.py, line: 124
 msgid "Data do empacotamento:"
-msgstr ""
+msgstr "Datum van verpakking:"
 
-#, fuzzy
 msgid "Data de instalação:"
-msgstr "Reden voor installatie:"
+msgstr "Datum van installatie:"
 
 msgid "Motivo da instalação:"
 msgstr "Reden voor installatie:"
@@ -540,16 +537,11 @@ msgstr "Pakket bestanden:"
 msgid "Clique aqui para ver os arquivos"
 msgstr "Klik hier om de archieven te zien"
 
-#
-# File: big-store/big-store/usr/share/bigbashview/bcc/apps/big-store/view_aur.py, line: 92
 msgid "Número de votos:"
-msgstr ""
+msgstr "Aantal stemmen:"
 
-#
-# File: big-store/big-store/usr/share/bigbashview/bcc/apps/big-store/view_aur.py, line: 95
 msgid "Página no AUR:"
-msgstr ""
+msgstr "AUR bladzijde:"
 
-#, fuzzy
 msgid "Dependências de instalação:"
-msgstr "Te installeren afhankelijkheden"
+msgstr "Afhankelijkheden van de installatie:"
