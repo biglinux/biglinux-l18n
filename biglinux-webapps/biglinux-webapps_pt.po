@@ -2,20 +2,20 @@
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the biglinux-webapps package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
+# 
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: biglinux-webapps\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-07-09 15:29-0300\n"
+"POT-Creation-Date: 2022-07-09 04:17-0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: pt\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
+"Content-Transfer-Encoding: 8bit"
 
 msgid "Selecionar imagem"
 msgstr "Selecionar imagem"
@@ -81,7 +81,7 @@ msgid "Para adicionar um WebApp, você precisa informar a Url e o Nome."
 msgstr "Para adicionar um WebApp, você precisa informar a Url e o Nome."
 
 msgid "Fechar"
-msgstr ""
+msgstr "Fechar"
 
 msgid "Para detectar o Nome e o Ícone você precisa informar a Url."
 msgstr "Para detectar o Nome e o Ícone você precisa informar a Url."
@@ -103,19 +103,19 @@ msgid "Selecione o ícone preferido:"
 msgstr "Selecione o ícone preferido:"
 
 msgid "Desenvolvimento"
-msgstr ""
+msgstr "Desenvolvimento"
 
 msgid "Escritório"
-msgstr ""
+msgstr "Escritório"
 
 msgid "Gráficos"
-msgstr ""
+msgstr "Gráficos"
 
 msgid "Jogos"
-msgstr ""
+msgstr "Jogos"
 
 msgid "Multimídia"
-msgstr ""
+msgstr "Multimídia"
 
 msgid "Tem certeza que deseja remover este WebApp?"
 msgstr "Tem certeza que deseja remover este WebApp?"
@@ -136,13 +136,13 @@ msgid "WebApps Nativos"
 msgstr "WebApps Nativos"
 
 msgid "Bom dia"
-msgstr ""
+msgstr "Bom dia"
 
 msgid "Boa tarde"
-msgstr ""
+msgstr "Boa tarde"
 
 msgid "Boa noite"
-msgstr ""
+msgstr "Boa noite"
 
 msgid "Aguarde, estamos preparando para começar..."
 msgstr "Aguarde, estamos preparando para começar..."

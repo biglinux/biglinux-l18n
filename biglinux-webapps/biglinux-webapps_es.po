@@ -2,20 +2,20 @@
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the biglinux-webapps package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
+# 
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: biglinux-webapps\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-07-09 15:29-0300\n"
+"POT-Creation-Date: 2022-07-09 04:17-0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
+"Content-Transfer-Encoding: 8bit"
 
 msgid "Selecionar imagem"
 msgstr "Seleccionar imagen"
@@ -78,10 +78,11 @@ msgid "Adicionar"
 msgstr "Agregar"
 
 msgid "Para adicionar um WebApp, você precisa informar a Url e o Nome."
-msgstr "Para agregar una aplicación web, debe proporcionar la URL y el nombre."
+msgstr ""
+"Para agregar una aplicación web, debe proporcionar la URL y el nombre."
 
 msgid "Fechar"
-msgstr ""
+msgstr "Cerrar"
 
 msgid "Para detectar o Nome e o Ícone você precisa informar a Url."
 msgstr "Para detectar el Nombre y el Icono, debe informar la Url."
@@ -103,19 +104,19 @@ msgid "Selecione o ícone preferido:"
 msgstr "Seleccione su icono preferido:"
 
 msgid "Desenvolvimento"
-msgstr ""
+msgstr "Desarrollo"
 
 msgid "Escritório"
-msgstr ""
+msgstr "Oficina"
 
 msgid "Gráficos"
-msgstr ""
+msgstr "Gráficos"
 
 msgid "Jogos"
-msgstr ""
+msgstr "Juegos"
 
 msgid "Multimídia"
-msgstr ""
+msgstr "Multimedia"
 
 msgid "Tem certeza que deseja remover este WebApp?"
 msgstr "¿Está seguro de que desea eliminar esta aplicación web?"
@@ -136,13 +137,13 @@ msgid "WebApps Nativos"
 msgstr "Aplicaciones web nativas"
 
 msgid "Bom dia"
-msgstr ""
+msgstr "Buen día"
 
 msgid "Boa tarde"
-msgstr ""
+msgstr "Buenas tardes"
 
 msgid "Boa noite"
-msgstr ""
+msgstr "Buenas noches"
 
 msgid "Aguarde, estamos preparando para começar..."
 msgstr "Espera, nos estamos preparando para empezar..."
