@@ -1,0 +1,131 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the big-welcome package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: big-welcome\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-07-09 02:00-0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: zh\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Iniciando no BigLinux"
+msgstr "启动BigLinux"
+
+#, fuzzy
+msgid "Bem vindo ao BigLinux"
+msgstr "启动BigLinux"
+
+msgid "Comece com algumas etapas simples."
+msgstr ""
+
+msgid "Mostrar na inicialização"
+msgstr ""
+
+msgid "Olá"
+msgstr ""
+
+msgid "Ajustes iniciais"
+msgstr ""
+
+msgid ""
+"Disponiblizamos configurações completas para você selecionar de forma "
+"extremamente simples."
+msgstr ""
+
+msgid "Temas, Desktop e Ajustes"
+msgstr ""
+
+msgid "Escolha seu navegador padrão"
+msgstr ""
+
+msgid "Defina seus programas padrões."
+msgstr ""
+
+msgid "Outros navegadores"
+msgstr ""
+
+msgid "KDE Connect"
+msgstr ""
+
+msgid ""
+"O KDE Connect é um aplicativo que facilita as comunicações sem fio e a "
+"transferência de dados entre dispositivos em redes locais. Disponível na "
+"Google Play Store para Android e Apple Store para iPhone."
+msgstr ""
+
+msgid "Instalação de Driver e Informações de Hardware"
+msgstr ""
+
+msgid "Instalar ou Remover Drivers e Firmwares de forma simples."
+msgstr ""
+
+msgid "Impressoras"
+msgstr ""
+
+msgid "Impressoras HP"
+msgstr ""
+
+msgid "Conheça alguns recursos"
+msgstr ""
+
+msgid ""
+"Nosso sistema é colaborativo, venha fazer parte dessa evolução. Confira as "
+"novidades!"
+msgstr ""
+
+msgid "Central de Controle"
+msgstr ""
+
+msgid "Big Store"
+msgstr ""
+
+msgid "Web Apps"
+msgstr ""
+
+msgid "Redutor de Ruídos"
+msgstr ""
+
+msgid "Configurar a voz do sistema (TTS)"
+msgstr ""
+
+msgid "OCR para PDF"
+msgstr ""
+
+msgid "Doação e Redes sociais"
+msgstr ""
+
+msgid "Sua doação é muito importante para o projeto e siga as redes sociais."
+msgstr ""
+
+msgid "Doação"
+msgstr ""
+
+msgid "Fórum"
+msgstr ""
+
+msgid "YouTube"
+msgstr ""
+
+msgid "Twitter"
+msgstr ""
+
+msgid "Telegram"
+msgstr ""
+
+msgid "Instagram"
+msgstr ""
+
+msgid "Facebook"
+msgstr ""
+
+msgid "Parabéns, você concluiu os primeiros passo para utilizar o BigLinux."
+msgstr "恭喜你，你已经完成了使用BigLinux的第一个步骤。"

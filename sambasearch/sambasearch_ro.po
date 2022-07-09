@@ -1,0 +1,91 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the sambasearch package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: sambasearch\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-07-09 02:00-0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: ro\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Procurar compartilhamentos"
+msgstr "Căutați acțiuni"
+
+msgid "Localiza compartilhamentos na rede (Windows ou Samba)."
+msgstr "Localizați partajările de rețea (Windows sau Samba)."
+
+msgid "GPL v2 or greater"
+msgstr "GPL v2 sau mai mare"
+
+msgid "Bruno Gonçalves"
+msgstr "Bruno Gonçalves"
+
+msgid "01/08/2019"
+msgstr "01/08/2019"
+
+msgid "https://github.com/biglinux/sambasearch"
+msgstr "https://github.com/biglinux/sambasearch"
+
+msgid "https://www.biglinux.com.br"
+msgstr "https://www.biglinux.com.br"
+
+msgid ""
+"Alteração aplicada, verifique se os compartilhamentos de rede estão "
+"aparecendo no gerenciador de arquivos."
+msgstr ""
+"Modificare aplicată, verificați dacă partajările de rețea apar în managerul "
+"de fișiere."
+
+msgid "Usuário"
+msgstr "Utilizator"
+
+msgid "Insira o usuário do servidor que deseja acessar"
+msgstr "Introduceți utilizatorul serverului pe care doriți să îl accesați"
+
+msgid "Senha"
+msgstr "Parola"
+
+msgid "Insira a senha do usuário do servidor que deseja acessar"
+msgstr ""
+"Introduceți parola utilizatorului serverului pe care doriți să-l accesați"
+
+msgid ""
+"*A maioria dos servidores precisa de login e senha para listar os "
+"compartilhamentos disponíveis, deixe em branco para efetuar uma busca "
+"anônima."
+msgstr ""
+"*Cele mai multe servere necesită o autentificare și o parolă pentru a lista "
+"acțiunile disponibile; lăsați gol pentru a efectua o căutare anonimă."
+
+msgid "Cancelar"
+msgstr "Anulează"
+
+msgid "Próximo"
+msgstr "Următorul"
+
+msgid "Aguarde..."
+msgstr ""
+
+msgid "Anônimo"
+msgstr "Anonimul"
+
+msgid "Procura efetuada com o usuário:"
+msgstr "Căutare efectuată împreună cu utilizatorul:"
+
+msgid "na rede:"
+msgstr "în rețea:"
+
+msgid "Voltar"
+msgstr "Înapoi"
+
+msgid "Fechar"
+msgstr "Închideți"

@@ -1,0 +1,70 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the tts-biglinux package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: tts-biglinux\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-07-09 02:00-0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: et\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Configurações de texto para voz"
+msgstr "Tekstist kõnes seaded"
+
+msgid "Vozes - Abrir BigStore"
+msgstr "Hääled - Avatud BigStore"
+
+msgid "Voice Configuration"
+msgstr "Häälkonfiguratsioon"
+
+msgid "Configurar voz"
+msgstr "Hääle konfigureerimine"
+
+msgid "Para falar um texto selecionado use o atalho "
+msgstr "Valitud teksti kõnetamiseks kasutage otsetee "
+
+msgid "[Alt] + [V]"
+msgstr "[Alt] + [V]"
+
+msgid ""
+"ou o ícone na sessão Utilitários no menu do sistema. Para interromper a "
+"leitura use novamene o atalho ou ícone."
+msgstr ""
+"või ikooni süsteemimenüü jaotises Utilities. Lugemise lõpetamiseks kasutage "
+"uuesti otseteed või ikooni."
+
+msgid "Selecione as configurações de sua preferência"
+msgstr "Valige oma eelistatud seaded"
+
+msgid "Números maiores deixam a voz mais rápida, o padrão é: -25"
+msgstr "Suuremad numbrid muudavad hääle kiiremaks, vaikimisi on: -25"
+
+msgid "Velocidade"
+msgstr "Kiirus"
+
+msgid "Números maiores deixam a voz mais aguda, o padrão é: -25"
+msgstr "Suuremad numbrid muudavad hääle kõrgemaks, standard on: -25"
+
+msgid "Tom"
+msgstr "Tom"
+
+msgid "O padrão é: 0."
+msgstr "Vaikimisi on: 0."
+
+msgid "Volume"
+msgstr "Köide"
+
+msgid "As vozes são otimizadas para idiomas expecíficos."
+msgstr "Hääled on optimeeritud konkreetsete keelte jaoks."
+
+msgid "Voz"
+msgstr "Hääl"

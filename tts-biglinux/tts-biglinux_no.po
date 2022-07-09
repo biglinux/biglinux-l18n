@@ -1,0 +1,70 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the tts-biglinux package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: tts-biglinux\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-07-09 02:00-0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: no\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Configurações de texto para voz"
+msgstr "Tekst-til-tale-innstillinger"
+
+msgid "Vozes - Abrir BigStore"
+msgstr "Stemmer - Open BigStore"
+
+msgid "Voice Configuration"
+msgstr "Stemme konfigurasjon"
+
+msgid "Configurar voz"
+msgstr "Sett opp stemme"
+
+msgid "Para falar um texto selecionado use o atalho "
+msgstr "Hvis du vil snakke en markert tekst, bruk snarveien "
+
+msgid "[Alt] + [V]"
+msgstr "[Alt] + [V]"
+
+msgid ""
+"ou o ícone na sessão Utilitários no menu do sistema. Para interromper a "
+"leitura use novamene o atalho ou ícone."
+msgstr ""
+"eller ikonet i Verktøy-delen av systemmenyen. Hvis du vil slutte å lese, "
+"bruker du snarveien eller ikonet på nytt."
+
+msgid "Selecione as configurações de sua preferência"
+msgstr "Velg dine foretrukne innstillinger"
+
+msgid "Números maiores deixam a voz mais rápida, o padrão é: -25"
+msgstr "Høyere tall gjør stemmen raskere, standard er: -25"
+
+msgid "Velocidade"
+msgstr "hastighet"
+
+msgid "Números maiores deixam a voz mais aguda, o padrão é: -25"
+msgstr "Høyere tall gjør stemmen høyere, standard er: -25"
+
+msgid "Tom"
+msgstr "Tom"
+
+msgid "O padrão é: 0."
+msgstr "Standard er: 0."
+
+msgid "Volume"
+msgstr "Volum"
+
+msgid "As vozes são otimizadas para idiomas expecíficos."
+msgstr "Stemmene er optimalisert for bestemte språk."
+
+msgid "Voz"
+msgstr "Stemme"

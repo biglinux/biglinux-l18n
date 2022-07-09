@@ -1,0 +1,90 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the sambasearch package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: sambasearch\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-07-09 02:00-0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Procurar compartilhamentos"
+msgstr "株式検索"
+
+msgid "Localiza compartilhamentos na rede (Windows ou Samba)."
+msgstr "ネットワーク共有（WindowsまたはSamba）の場所を確認します。"
+
+msgid "GPL v2 or greater"
+msgstr "GPL v2以上"
+
+msgid "Bruno Gonçalves"
+msgstr "ブルーノ・ゴンサルベス"
+
+msgid "01/08/2019"
+msgstr "01/08/2019"
+
+msgid "https://github.com/biglinux/sambasearch"
+msgstr "https://github.com/biglinux/sambasearch"
+
+msgid "https://www.biglinux.com.br"
+msgstr "https://www.biglinux.com.br"
+
+msgid ""
+"Alteração aplicada, verifique se os compartilhamentos de rede estão "
+"aparecendo no gerenciador de arquivos."
+msgstr ""
+"変更適用後、ファイルマネージャにネットワーク共有が表示されることを確認しま"
+"す。"
+
+msgid "Usuário"
+msgstr "ユーザー"
+
+msgid "Insira o usuário do servidor que deseja acessar"
+msgstr "アクセスしたいサーバーのユーザーを入力します"
+
+msgid "Senha"
+msgstr "パスワード"
+
+msgid "Insira a senha do usuário do servidor que deseja acessar"
+msgstr "アクセスしたいサーバーユーザーのパスワードを入力する"
+
+msgid ""
+"*A maioria dos servidores precisa de login e senha para listar os "
+"compartilhamentos disponíveis, deixe em branco para efetuar uma busca "
+"anônima."
+msgstr ""
+"*ほとんどのサーバーでは、利用可能な共有の一覧を表示するためにログインとパス"
+"ワードが必要です。匿名で検索する場合は空白にしてください。"
+
+msgid "Cancelar"
+msgstr "キャンセル"
+
+msgid "Próximo"
+msgstr "次のページ"
+
+msgid "Aguarde..."
+msgstr ""
+
+msgid "Anônimo"
+msgstr "匿名希望"
+
+msgid "Procura efetuada com o usuário:"
+msgstr "ユーザーと一緒に実施した検索。"
+
+msgid "na rede:"
+msgstr "をネットワークに接続します。"
+
+msgid "Voltar"
+msgstr "背面"
+
+msgid "Fechar"
+msgstr "閉じる"
