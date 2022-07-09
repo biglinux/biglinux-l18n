@@ -73,6 +73,9 @@ msgstr ""
 "Відео- (SMPlayer) smplayer.sh Мультимедіа smplayer.png SMPlayer скеля "
 "$comment_skel"
 
+msgid "Fechar"
+msgstr " Закрити"
+
 msgid "Restaurar no modo padrão da distribuição"
 msgstr "Відновлення в типовий режим дистрибутива"
 
@@ -93,6 +96,18 @@ msgstr "Головна"
 
 msgid "Internet"
 msgstr "Internet"
+
+msgid "Multimídia"
+msgstr "Мультимедіа"
+
+msgid "Gráficos"
+msgstr "графіка"
+
+msgid "Escritório"
+msgstr "Офіс"
+
+msgid "Sistema"
+msgstr "система"
 
 msgid "Pesquisar Restaurar"
 msgstr "Пошук Відновлення"

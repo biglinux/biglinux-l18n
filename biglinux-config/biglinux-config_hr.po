@@ -73,6 +73,9 @@ msgstr ""
 "Videozapisi- (Smplayer) smplayer.sh Multimedija smplayer.png smplayer skel "
 "$comment_skel"
 
+msgid "Fechar"
+msgstr "Zatvoriti"
+
 msgid "Restaurar no modo padrão da distribuição"
 msgstr "Vratite se na zadani način distribucije"
 
@@ -93,6 +96,18 @@ msgstr "Glavni"
 
 msgid "Internet"
 msgstr "Internet"
+
+msgid "Multimídia"
+msgstr "Multimedija"
+
+msgid "Gráficos"
+msgstr "Grafika"
+
+msgid "Escritório"
+msgstr "Ured"
+
+msgid "Sistema"
+msgstr "Sustav"
 
 msgid "Pesquisar Restaurar"
 msgstr "Vraćanje pretraživanja"

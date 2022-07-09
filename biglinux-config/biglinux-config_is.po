@@ -73,6 +73,9 @@ msgstr ""
 "Myndbönd- (Smplayer) smplayer.sh Margmiðlun smplayer.png Smaspilari skel "
 "$comment_skel"
 
+msgid "Fechar"
+msgstr "Loka"
+
 msgid "Restaurar no modo padrão da distribuição"
 msgstr "Endurheimta í sjálfgefna stillingu dreifingarinnar"
 
@@ -93,6 +96,18 @@ msgstr "Aðal"
 
 msgid "Internet"
 msgstr "Internet"
+
+msgid "Multimídia"
+msgstr "Margmiðlun"
+
+msgid "Gráficos"
+msgstr "Grafík"
+
+msgid "Escritório"
+msgstr "Skrifstofa"
+
+msgid "Sistema"
+msgstr "Kerfi"
 
 msgid "Pesquisar Restaurar"
 msgstr "Leita Endurheimta"

@@ -72,6 +72,9 @@ msgstr ""
 "Videolar-(Smplayer) smplayer.sh Multimedya smplayer.png smplayer skel "
 "$COMMENT_skel"
 
+msgid "Fechar"
+msgstr "Kapat"
+
 msgid "Restaurar no modo padrão da distribuição"
 msgstr "Varsayılan dağıtım moduna geri yükleme"
 
@@ -92,6 +95,18 @@ msgstr "Ana"
 
 msgid "Internet"
 msgstr "İnternet"
+
+msgid "Multimídia"
+msgstr "Multimedya"
+
+msgid "Gráficos"
+msgstr "Grafikler"
+
+msgid "Escritório"
+msgstr "Ofis"
+
+msgid "Sistema"
+msgstr "Sistem"
 
 msgid "Pesquisar Restaurar"
 msgstr "Arama Geri Yükleme"

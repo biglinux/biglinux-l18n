@@ -74,6 +74,9 @@ msgstr ""
 "Videoer-(Smplayer) smplayer.sh Multimedia smplayer.png smplayer skel "
 "$COMMENT_skel"
 
+msgid "Fechar"
+msgstr "Luk"
+
 msgid "Restaurar no modo padrão da distribuição"
 msgstr "Gendan til standarddistributionstilstand"
 
@@ -97,6 +100,18 @@ msgstr "Vigtigste"
 
 msgid "Internet"
 msgstr "Internet"
+
+msgid "Multimídia"
+msgstr "Multimedier"
+
+msgid "Gráficos"
+msgstr "Grafik"
+
+msgid "Escritório"
+msgstr "Kontor"
+
+msgid "Sistema"
+msgstr "System"
 
 msgid "Pesquisar Restaurar"
 msgstr "Søg Genoprette"

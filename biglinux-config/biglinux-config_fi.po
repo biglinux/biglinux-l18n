@@ -73,6 +73,9 @@ msgstr ""
 "Videot-(Smplayer) smplayer.sh Multimedia smplayer.png smplayer skel "
 "$COMMENT_skel"
 
+msgid "Fechar"
+msgstr "Sulje"
+
 msgid "Restaurar no modo padrão da distribuição"
 msgstr "Palauta oletusjakelutila"
 
@@ -93,6 +96,18 @@ msgstr "Main"
 
 msgid "Internet"
 msgstr "Internet"
+
+msgid "Multimídia"
+msgstr "Multimedia"
+
+msgid "Gráficos"
+msgstr "Grafiikka"
+
+msgid "Escritório"
+msgstr "Toimisto"
+
+msgid "Sistema"
+msgstr "Järjestelmä"
 
 msgid "Pesquisar Restaurar"
 msgstr "Haku Palauta"

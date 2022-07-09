@@ -73,6 +73,9 @@ msgstr ""
 "Videos-(Smplayer) smplayer.sh Multimeedia smplayer.png smplayer skel "
 "$COMMENT_skel"
 
+msgid "Fechar"
+msgstr "Sulge"
+
 msgid "Restaurar no modo padrão da distribuição"
 msgstr "Taastada vaikimisi jaotamise režiim"
 
@@ -93,6 +96,18 @@ msgstr "Main"
 
 msgid "Internet"
 msgstr "Internet"
+
+msgid "Multimídia"
+msgstr "Multimeedia"
+
+msgid "Gráficos"
+msgstr "Graafika"
+
+msgid "Escritório"
+msgstr "Kontor"
+
+msgid "Sistema"
+msgstr "Süsteem"
 
 msgid "Pesquisar Restaurar"
 msgstr "Otsi taastamine"

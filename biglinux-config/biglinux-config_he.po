@@ -69,6 +69,9 @@ msgstr ""
 "קטעי וידאו- (סמפלייר) smplayer.sh מולטימדיה smplayer.png סמפלייר skel "
 "$comment_skel"
 
+msgid "Fechar"
+msgstr "סגור"
+
 msgid "Restaurar no modo padrão da distribuição"
 msgstr "שחזר למצב ברירת המחדל של ההפצה"
 
@@ -89,6 +92,18 @@ msgstr "ראשי"
 
 msgid "Internet"
 msgstr "מרשתת"
+
+msgid "Multimídia"
+msgstr "מולטימדיה"
+
+msgid "Gráficos"
+msgstr "גרפיקה"
+
+msgid "Escritório"
+msgstr "משרד"
+
+msgid "Sistema"
+msgstr "מערכת"
 
 msgid "Pesquisar Restaurar"
 msgstr "חיפוש שחזור"

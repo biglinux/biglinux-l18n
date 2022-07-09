@@ -73,6 +73,9 @@ msgstr ""
 "Відэа-(Smplayer) smplayer.sh Мультымедыя smplayer.png smplayer skel "
 "$COMMENT_skel"
 
+msgid "Fechar"
+msgstr "Закрыць"
+
 msgid "Restaurar no modo padrão da distribuição"
 msgstr "Аднавіць у рэжыме распаўсюджвання па змаўчанні"
 
@@ -93,6 +96,18 @@ msgstr "Галоўны"
 
 msgid "Internet"
 msgstr "Інтэрнэт"
+
+msgid "Multimídia"
+msgstr "Мультымедыя"
+
+msgid "Gráficos"
+msgstr "Графіка"
+
+msgid "Escritório"
+msgstr "Офіс"
+
+msgid "Sistema"
+msgstr "Сістэма"
 
 msgid "Pesquisar Restaurar"
 msgstr "Пошук Аднаўленне"
