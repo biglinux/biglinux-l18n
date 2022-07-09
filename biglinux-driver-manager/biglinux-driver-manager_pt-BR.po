@@ -2,20 +2,20 @@
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the biglinux-driver-manager package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-# 
+#
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: biglinux-driver-manager\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-07-08 19:55-0300\n"
+"POT-Creation-Date: 2022-07-08 22:53-0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: \n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit"
+"Content-Transfer-Encoding: 8bit\n"
 
 msgid "O Big-Hardware-Relatory já está em uso."
 msgstr "O Big-Hardware-Relatory já está em uso."
@@ -50,6 +50,9 @@ msgstr "Desativado"
 
 msgid "Informações de Hardware"
 msgstr "Informações de Hardware"
+
+msgid "Fechar"
+msgstr ""
 
 msgid "Enviar para transfer.sh"
 msgstr "Enviar para transfer.sh"
@@ -124,6 +127,9 @@ msgstr "Resultado da pesquisa"
 msgid "Big-Driver-Manager"
 msgstr "Big-Driver-Manager"
 
+msgid "Abrir"
+msgstr ""
+
 msgid "Instalar ou Remover Drivers e Firmwares"
 msgstr "Instalar ou Remover Drivers e Firmwares"
 
@@ -141,8 +147,7 @@ msgid "Este pacote fornece arquivos compatíveis com este computador."
 msgstr "Este pacote fornece arquivos compatíveis com este computador."
 
 msgid "Concluído, reinicie o computador para ativar a configuração do driver."
-msgstr ""
-"Concluído, reinicie o computador para ativar a configuração do driver."
+msgstr "Concluído, reinicie o computador para ativar a configuração do driver."
 
 msgid "Driver"
 msgstr "Driver"
@@ -228,6 +233,9 @@ msgstr "Armazenamento"
 msgid "Mais informações"
 msgstr "Mais informações"
 
+msgid "Hardware"
+msgstr ""
+
 msgid "Pesquisar"
 msgstr "Pesquisar"
 
@@ -276,6 +284,9 @@ msgstr "Cria um arquivo com informações que pode ser publicado na internet."
 
 msgid "Categoria"
 msgstr "Categoria"
+
+msgid "Nome"
+msgstr ""
 
 msgid "ID"
 msgstr "ID"
