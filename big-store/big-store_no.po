@@ -30,6 +30,15 @@ msgstr "Big-Store er åpen."
 msgid "Big-Store"
 msgstr "Big-Store"
 
+msgid "Instalar"
+msgstr "Installer"
+
+msgid "Remover"
+msgstr "Fjern"
+
+msgid "Internet"
+msgstr "Internett"
+
 msgid "Navegadores"
 msgstr "navigatører"
 
@@ -57,6 +66,9 @@ msgstr "Nettverksverktøy"
 msgid "Notícias, Feeds e RSS"
 msgstr "Nyheter, Feeds og RSS"
 
+msgid "Escritório"
+msgstr "Kontor"
+
 msgid "Suíte Office"
 msgstr "Kontor-suite"
 
@@ -68,6 +80,9 @@ msgstr "PDF-redaktører"
 
 msgid "Agenda de tarefas e contatos"
 msgstr "Oppgave og kontakt tidsplan"
+
+msgid "Gráficos"
+msgstr "grafikk"
 
 msgid "Visualizadores de imagem"
 msgstr "Bildevisere"
@@ -83,6 +98,9 @@ msgstr "Konvertere, endre størrelse på eller komprimere bilder"
 
 msgid "Edição 3D e CAD"
 msgstr "3D og CAD-redigering"
+
+msgid "Multimídia"
+msgstr "Multimedia"
 
 msgid "Reprodutores de áudio"
 msgstr "Audio spillere"
@@ -110,6 +128,9 @@ msgstr "CD- og DVD-brennere og kopimaskiner"
 
 msgid "Webcam, gravação de tela e transmissão de vídeo"
 msgstr "Webkamera, skjermopptak og videostreaming"
+
+msgid "Jogos"
+msgstr "Spill"
 
 msgid "Gerenciadores de jogos"
 msgstr "Spill ledere"
@@ -147,6 +168,12 @@ msgstr "skuff"
 msgid "RPG"
 msgstr "RPG"
 
+msgid "Outros"
+msgstr "Annet"
+
+msgid "Sistema"
+msgstr "Systemet"
+
 msgid "Armazenamento e partições"
 msgstr "Lagring og partisjoner"
 
@@ -158,6 +185,9 @@ msgstr "Java JRE"
 
 msgid "Virtualização"
 msgstr "Virtualisering"
+
+msgid "Desenvolvimento"
+msgstr "Utvikling"
 
 msgid "Editores de código e IDE"
 msgstr "Kode redaktører og IDE"
@@ -173,6 +203,21 @@ msgstr "Innfødte programmer"
 
 msgid "Programas AUR"
 msgstr "AUR-programmer"
+
+msgid "Instalado na partição:"
+msgstr "Installert på partisjonen:"
+
+msgid "Tamanho da partição:"
+msgstr "Partisjon størrelse:"
+
+msgid "Espaço utilizado:"
+msgstr "Plass brukt:"
+
+msgid "Espaço livre:"
+msgstr "Ledig plass:"
+
+msgid "Data que o sistema foi instalado:"
+msgstr "Dato systemet ble installert:"
 
 msgid "Pacotes nativos e AUR"
 msgstr "Innfødte og AUR-pakker"
@@ -207,6 +252,9 @@ msgstr "Ikke informert"
 msgid "Atualizar"
 msgstr "oppdatering"
 
+msgid "Categorias"
+msgstr "Kategorier"
+
 msgid "Versão instalada"
 msgstr "Installert versjon"
 
@@ -215,6 +263,9 @@ msgstr "Tilgjengelig versjon"
 
 msgid "Versão"
 msgstr "Versjon"
+
+msgid "Fechar"
+msgstr "Lukk"
 
 msgid "Pacote .deb"
 msgstr ".deb pakke"
@@ -225,6 +276,12 @@ msgid ""
 msgstr ""
 "Dette programmet er i .deb-format, som har den beste integrasjonen med "
 "systemet."
+
+msgid "Mais informações"
+msgstr "Mer informasjon"
+
+msgid "Voltar"
+msgstr "Gå tilbake"
 
 msgid "Dependências a instalar"
 msgstr "Avhengigheter å installere"
@@ -258,6 +315,9 @@ msgstr "Tilgjengelig versjon:"
 
 msgid "Repositório:"
 msgstr "Oppbevaringssted:"
+
+msgid "Cancelar"
+msgstr "Avbryt"
 
 msgid "Instalando"
 msgstr "Installere"
@@ -295,6 +355,9 @@ msgstr "pakker"
 
 msgid "Ativado"
 msgstr "Aktivert"
+
+msgid "Desativado"
+msgstr "deaktivert"
 
 msgid "Atualizações"
 msgstr "oppgraderinger"
@@ -412,6 +475,9 @@ msgstr ""
 "Viser bare valgte programmer <br> \n"
 "og skjule resultater som er nyttige <br>\n"
 "Bare avanserte brukere."
+
+msgid "Aplicando - Aguarde"
+msgstr "Påføring - Vennligst vent"
 
 msgid "Procurar programa"
 msgstr "Søk etter program"

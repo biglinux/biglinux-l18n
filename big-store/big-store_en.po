@@ -30,6 +30,15 @@ msgstr "Big-Store is open."
 msgid "Big-Store"
 msgstr "Big-Store"
 
+msgid "Instalar"
+msgstr "Install"
+
+msgid "Remover"
+msgstr "Remove"
+
+msgid "Internet"
+msgstr "Internet"
+
 msgid "Navegadores"
 msgstr "Browsers"
 
@@ -57,6 +66,9 @@ msgstr "Network Tools"
 msgid "Notícias, Feeds e RSS"
 msgstr "News, Feeds and RSS"
 
+msgid "Escritório"
+msgstr "Office"
+
 msgid "Suíte Office"
 msgstr "Office Suite"
 
@@ -68,6 +80,9 @@ msgstr "PDF Editors"
 
 msgid "Agenda de tarefas e contatos"
 msgstr "Calendar of tasks and contacts"
+
+msgid "Gráficos"
+msgstr "Graphics"
 
 msgid "Visualizadores de imagem"
 msgstr "Image viewers"
@@ -83,6 +98,9 @@ msgstr "Convert, resize or compress images"
 
 msgid "Edição 3D e CAD"
 msgstr "3D and CAD Editing"
+
+msgid "Multimídia"
+msgstr "Multimedia"
 
 msgid "Reprodutores de áudio"
 msgstr "Audio Players"
@@ -110,6 +128,9 @@ msgstr "CD and DVD recorders and copiers"
 
 msgid "Webcam, gravação de tela e transmissão de vídeo"
 msgstr "Webcam, screen recording and video streaming"
+
+msgid "Jogos"
+msgstr "Games"
 
 msgid "Gerenciadores de jogos"
 msgstr "Game Managers"
@@ -147,6 +168,12 @@ msgstr "Board"
 msgid "RPG"
 msgstr "RPG"
 
+msgid "Outros"
+msgstr "Other"
+
+msgid "Sistema"
+msgstr "System"
+
 msgid "Armazenamento e partições"
 msgstr "Storage and partitions"
 
@@ -158,6 +185,9 @@ msgstr "Java JRE"
 
 msgid "Virtualização"
 msgstr "Virtualization"
+
+msgid "Desenvolvimento"
+msgstr "Development"
 
 msgid "Editores de código e IDE"
 msgstr "Code editors and IDEs"
@@ -173,6 +203,21 @@ msgstr "Native Programs"
 
 msgid "Programas AUR"
 msgstr "AUR Programs"
+
+msgid "Instalado na partição:"
+msgstr "Installed on the partition:"
+
+msgid "Tamanho da partição:"
+msgstr "Partition size:"
+
+msgid "Espaço utilizado:"
+msgstr "Space used:"
+
+msgid "Espaço livre:"
+msgstr "Clear space:"
+
+msgid "Data que o sistema foi instalado:"
+msgstr "Date the system was installed:"
 
 msgid "Pacotes nativos e AUR"
 msgstr "Native packages and AUR"
@@ -207,6 +252,9 @@ msgstr "Not informed"
 msgid "Atualizar"
 msgstr "Update"
 
+msgid "Categorias"
+msgstr "Categories"
+
 msgid "Versão instalada"
 msgstr "Installed version"
 
@@ -215,6 +263,9 @@ msgstr "Version available"
 
 msgid "Versão"
 msgstr "Version"
+
+msgid "Fechar"
+msgstr "Close"
 
 msgid "Pacote .deb"
 msgstr ".deb package"
@@ -225,6 +276,12 @@ msgid ""
 msgstr ""
 "This program is in .deb format, which has the best integration with the "
 "system."
+
+msgid "Mais informações"
+msgstr "More information"
+
+msgid "Voltar"
+msgstr "Back"
 
 msgid "Dependências a instalar"
 msgstr "Dependencies to install"
@@ -258,6 +315,9 @@ msgstr "Version available:"
 
 msgid "Repositório:"
 msgstr "Repository:"
+
+msgid "Cancelar"
+msgstr "Cancel"
 
 msgid "Instalando"
 msgstr "Installing"
@@ -294,6 +354,9 @@ msgstr "Packages"
 
 msgid "Ativado"
 msgstr "Activated"
+
+msgid "Desativado"
+msgstr "Disabled"
 
 msgid "Atualizações"
 msgstr "Updates"
@@ -410,6 +473,9 @@ msgstr ""
 "Displays only<br>selected</br> programs<br>\n"
 "and hides results that are useful <br>\n"
 "only to advanced users.</br></br> "
+
+msgid "Aplicando - Aguarde"
+msgstr "Applying - Please wait"
 
 msgid "Procurar programa"
 msgstr "Program Search"

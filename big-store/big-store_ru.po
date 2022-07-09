@@ -30,6 +30,15 @@ msgstr "Большой магазин открыт."
 msgid "Big-Store"
 msgstr "Big-Store"
 
+msgid "Instalar"
+msgstr "Установите"
+
+msgid "Remover"
+msgstr "Удалить"
+
+msgid "Internet"
+msgstr "Интернет"
+
 msgid "Navegadores"
 msgstr "Браузеры"
 
@@ -57,6 +66,9 @@ msgstr "Сетевые инструменты"
 msgid "Notícias, Feeds e RSS"
 msgstr "Новости, каналы и RSS"
 
+msgid "Escritório"
+msgstr "Офис"
+
 msgid "Suíte Office"
 msgstr "Офисный пакет"
 
@@ -68,6 +80,9 @@ msgstr "Редакторы PDF"
 
 msgid "Agenda de tarefas e contatos"
 msgstr "Календарь задач и контактов"
+
+msgid "Gráficos"
+msgstr "Графика"
 
 msgid "Visualizadores de imagem"
 msgstr "Зрители изображений"
@@ -83,6 +98,9 @@ msgstr "Преобразование, изменение размера или �
 
 msgid "Edição 3D e CAD"
 msgstr "Редактирование 3D и CAD"
+
+msgid "Multimídia"
+msgstr "Мультимедиа"
 
 msgid "Reprodutores de áudio"
 msgstr "Аудиоплееры"
@@ -110,6 +128,9 @@ msgstr "CD и DVD рекордеры и копировальные аппара�
 
 msgid "Webcam, gravação de tela e transmissão de vídeo"
 msgstr "Веб-камера, запись экрана и потоковое видео"
+
+msgid "Jogos"
+msgstr "Игры"
 
 msgid "Gerenciadores de jogos"
 msgstr "Менеджеры игр"
@@ -147,6 +168,12 @@ msgstr "Правление"
 msgid "RPG"
 msgstr "RPG"
 
+msgid "Outros"
+msgstr "Другое"
+
+msgid "Sistema"
+msgstr "Система"
+
 msgid "Armazenamento e partições"
 msgstr "Хранение и перегородки"
 
@@ -158,6 +185,9 @@ msgstr "Java JRE"
 
 msgid "Virtualização"
 msgstr "Виртуализация"
+
+msgid "Desenvolvimento"
+msgstr "Разработка"
 
 msgid "Editores de código e IDE"
 msgstr "Редакторы кода и IDE"
@@ -173,6 +203,21 @@ msgstr "Родные программы"
 
 msgid "Programas AUR"
 msgstr "Программы AUR"
+
+msgid "Instalado na partição:"
+msgstr "Установлен на раздел:"
+
+msgid "Tamanho da partição:"
+msgstr "Размер раздела:"
+
+msgid "Espaço utilizado:"
+msgstr "Используемое пространство:"
+
+msgid "Espaço livre:"
+msgstr "Чистое пространство:"
+
+msgid "Data que o sistema foi instalado:"
+msgstr "Дата установки системы:"
 
 msgid "Pacotes nativos e AUR"
 msgstr "Нативные пакеты и AUR"
@@ -207,6 +252,9 @@ msgstr "Не информирован"
 msgid "Atualizar"
 msgstr "Обновление"
 
+msgid "Categorias"
+msgstr "Категории"
+
 msgid "Versão instalada"
 msgstr "Установленная версия"
 
@@ -216,6 +264,9 @@ msgstr "Доступная версия"
 msgid "Versão"
 msgstr "Версия"
 
+msgid "Fechar"
+msgstr "Закрыть"
+
 msgid "Pacote .deb"
 msgstr "Пакет .deb"
 
@@ -224,6 +275,12 @@ msgid ""
 "sistema."
 msgstr ""
 "Эта программа в формате .deb, который имеет наилучшую интеграцию с системой."
+
+msgid "Mais informações"
+msgstr "Дополнительная информация"
+
+msgid "Voltar"
+msgstr "Назад"
 
 msgid "Dependências a instalar"
 msgstr "Зависимости для установки"
@@ -257,6 +314,9 @@ msgstr "Доступна версия:"
 
 msgid "Repositório:"
 msgstr "Репозиторий:"
+
+msgid "Cancelar"
+msgstr "Отмена"
 
 msgid "Instalando"
 msgstr "Установка"
@@ -294,6 +354,9 @@ msgstr "Пакеты"
 
 msgid "Ativado"
 msgstr "Активированный"
+
+msgid "Desativado"
+msgstr "Инвалид"
 
 msgid "Atualizações"
 msgstr "Обновления"
@@ -411,6 +474,9 @@ msgstr ""
 "Отображает только<br>выбранные</br> программы<br>\n"
 "и скрывает результаты, которые являются полезными <br>\n"
 "только для опытных пользователей.</br></br> "
+
+msgid "Aplicando - Aguarde"
+msgstr "Подача заявки - Пожалуйста, подождите"
 
 msgid "Procurar programa"
 msgstr "Программа поиска"

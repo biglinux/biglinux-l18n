@@ -30,6 +30,15 @@ msgstr "Big-Store on avoinna."
 msgid "Big-Store"
 msgstr "Big-Store"
 
+msgid "Instalar"
+msgstr "Asenna"
+
+msgid "Remover"
+msgstr "Poista"
+
+msgid "Internet"
+msgstr "Internet"
+
 msgid "Navegadores"
 msgstr "Selaimet"
 
@@ -57,6 +66,9 @@ msgstr "Verkkotyökalut"
 msgid "Notícias, Feeds e RSS"
 msgstr "Uutiset, syötteet ja RSS"
 
+msgid "Escritório"
+msgstr "Toimisto"
+
 msgid "Suíte Office"
 msgstr "Office Suite"
 
@@ -68,6 +80,9 @@ msgstr "PDF-editorit"
 
 msgid "Agenda de tarefas e contatos"
 msgstr "Tehtävien ja yhteystietojen kalenteri"
+
+msgid "Gráficos"
+msgstr "Grafiikka"
 
 msgid "Visualizadores de imagem"
 msgstr "Kuvan katselijat"
@@ -83,6 +98,9 @@ msgstr "Kuvien muuntaminen, koon muuttaminen tai pakkaaminen"
 
 msgid "Edição 3D e CAD"
 msgstr "3D- ja CAD-editointi"
+
+msgid "Multimídia"
+msgstr "Multimedia"
 
 msgid "Reprodutores de áudio"
 msgstr "Äänisoittimet"
@@ -110,6 +128,9 @@ msgstr "CD- ja DVD-tallentimet ja kopiokoneet"
 
 msgid "Webcam, gravação de tela e transmissão de vídeo"
 msgstr "Webkamera, näytön tallennus ja videon suoratoisto"
+
+msgid "Jogos"
+msgstr "Pelit"
 
 msgid "Gerenciadores de jogos"
 msgstr "Pelinjohtajat"
@@ -147,6 +168,12 @@ msgstr "Hallitus"
 msgid "RPG"
 msgstr "RPG"
 
+msgid "Outros"
+msgstr "Muut"
+
+msgid "Sistema"
+msgstr "Järjestelmä"
+
 msgid "Armazenamento e partições"
 msgstr "Säilytys ja väliseinät"
 
@@ -158,6 +185,9 @@ msgstr "Java JRE"
 
 msgid "Virtualização"
 msgstr "Virtualisointi"
+
+msgid "Desenvolvimento"
+msgstr "Kehitys"
 
 msgid "Editores de código e IDE"
 msgstr "Koodieditorit ja IDE:t"
@@ -173,6 +203,21 @@ msgstr "Kotimaiset ohjelmat"
 
 msgid "Programas AUR"
 msgstr "AUR-ohjelmat"
+
+msgid "Instalado na partição:"
+msgstr "Asennettu osioon:"
+
+msgid "Tamanho da partição:"
+msgstr "Osion koko:"
+
+msgid "Espaço utilizado:"
+msgstr "Käytetty tila:"
+
+msgid "Espaço livre:"
+msgstr "Tyhjää tilaa:"
+
+msgid "Data que o sistema foi instalado:"
+msgstr "Järjestelmän asennuspäivämäärä:"
 
 msgid "Pacotes nativos e AUR"
 msgstr "Kotimaiset paketit ja AUR"
@@ -207,6 +252,9 @@ msgstr "Ei tietoa"
 msgid "Atualizar"
 msgstr "Päivitys"
 
+msgid "Categorias"
+msgstr "Kategoriat"
+
 msgid "Versão instalada"
 msgstr "Asennettu versio"
 
@@ -216,6 +264,9 @@ msgstr "Saatavilla oleva versio"
 msgid "Versão"
 msgstr "Versio"
 
+msgid "Fechar"
+msgstr "Sulje"
+
 msgid "Pacote .deb"
 msgstr ".deb-paketti"
 
@@ -224,6 +275,12 @@ msgid ""
 "sistema."
 msgstr ""
 "Tämä ohjelma on .deb-muodossa, joka integroituu parhaiten järjestelmään."
+
+msgid "Mais informações"
+msgstr "Lisätietoja"
+
+msgid "Voltar"
+msgstr "Takaisin"
 
 msgid "Dependências a instalar"
 msgstr "Asennettavat riippuvuudet"
@@ -257,6 +314,9 @@ msgstr "Saatavilla oleva versio:"
 
 msgid "Repositório:"
 msgstr "Säilytyspaikka:"
+
+msgid "Cancelar"
+msgstr "Peruuta"
 
 msgid "Instalando"
 msgstr "Asennus"
@@ -294,6 +354,9 @@ msgstr "Paketit"
 
 msgid "Ativado"
 msgstr "Aktivoitu"
+
+msgid "Desativado"
+msgstr "Vammaiset"
 
 msgid "Atualizações"
 msgstr "Päivitykset"
@@ -412,6 +475,9 @@ msgstr ""
 "Näyttää vain valitut ohjelmat<br>\n"
 "ja piilottaa hyödylliset tulokset <br>\n"
 "vain edistyneille käyttäjille."
+
+msgid "Aplicando - Aguarde"
+msgstr "Hakemuksen tekeminen - Odota"
 
 msgid "Procurar programa"
 msgstr "Hakuohjelma"

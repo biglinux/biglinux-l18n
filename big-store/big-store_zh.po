@@ -30,6 +30,15 @@ msgstr "大卖场开张了。"
 msgid "Big-Store"
 msgstr "BigStore"
 
+msgid "Instalar"
+msgstr "安装"
+
+msgid "Remover"
+msgstr "移除"
+
+msgid "Internet"
+msgstr "互联网"
+
 msgid "Navegadores"
 msgstr "浏览器"
 
@@ -57,6 +66,9 @@ msgstr "网络工具"
 msgid "Notícias, Feeds e RSS"
 msgstr "新闻、提要和RSS"
 
+msgid "Escritório"
+msgstr "办公室"
+
 msgid "Suíte Office"
 msgstr "办公套件"
 
@@ -68,6 +80,9 @@ msgstr "PDF编辑"
 
 msgid "Agenda de tarefas e contatos"
 msgstr "任务和联系人的日历"
+
+msgid "Gráficos"
+msgstr "图形"
 
 msgid "Visualizadores de imagem"
 msgstr "图片浏览者"
@@ -83,6 +98,9 @@ msgstr "转换、调整大小或压缩图像"
 
 msgid "Edição 3D e CAD"
 msgstr "3D和CAD编辑"
+
+msgid "Multimídia"
+msgstr "多媒体"
 
 msgid "Reprodutores de áudio"
 msgstr "音频播放器"
@@ -110,6 +128,9 @@ msgstr "CD和DVD刻录机和复印机"
 
 msgid "Webcam, gravação de tela e transmissão de vídeo"
 msgstr "网络摄像头、屏幕录制和视频流"
+
+msgid "Jogos"
+msgstr "游戏"
 
 msgid "Gerenciadores de jogos"
 msgstr "游戏经理"
@@ -147,6 +168,12 @@ msgstr "董事会"
 msgid "RPG"
 msgstr "角色扮演"
 
+msgid "Outros"
+msgstr "其他"
+
+msgid "Sistema"
+msgstr "系统"
+
 msgid "Armazenamento e partições"
 msgstr "储存和隔断"
 
@@ -158,6 +185,9 @@ msgstr "Java JRE"
 
 msgid "Virtualização"
 msgstr "虚拟化"
+
+msgid "Desenvolvimento"
+msgstr "发展"
 
 msgid "Editores de código e IDE"
 msgstr "代码编辑器和IDE"
@@ -173,6 +203,21 @@ msgstr "本地方案"
 
 msgid "Programas AUR"
 msgstr "AUR方案"
+
+msgid "Instalado na partição:"
+msgstr "安装在分区上。"
+
+msgid "Tamanho da partição:"
+msgstr "分区大小。"
+
+msgid "Espaço utilizado:"
+msgstr "使用的空间。"
+
+msgid "Espaço livre:"
+msgstr "清理空间。"
+
+msgid "Data que o sistema foi instalado:"
+msgstr "系统安装的日期。"
 
 msgid "Pacotes nativos e AUR"
 msgstr "原生包和AUR"
@@ -207,6 +252,9 @@ msgstr "未被告知"
 msgid "Atualizar"
 msgstr "更新"
 
+msgid "Categorias"
+msgstr "类别"
+
 msgid "Versão instalada"
 msgstr "安装的版本"
 
@@ -216,6 +264,9 @@ msgstr "现有版本"
 msgid "Versão"
 msgstr "版本"
 
+msgid "Fechar"
+msgstr "关闭"
+
 msgid "Pacote .deb"
 msgstr ".deb包"
 
@@ -223,6 +274,12 @@ msgid ""
 "Esse programa está em formato .deb, que possui a melhor integração com o "
 "sistema."
 msgstr "这个程序是.deb格式，与系统有最好的整合。"
+
+msgid "Mais informações"
+msgstr "更多信息"
+
+msgid "Voltar"
+msgstr "溯源"
 
 msgid "Dependências a instalar"
 msgstr "需要安装的依赖性"
@@ -256,6 +313,9 @@ msgstr "可用的版本。"
 
 msgid "Repositório:"
 msgstr "存储库。"
+
+msgid "Cancelar"
+msgstr "取消"
 
 msgid "Instalando"
 msgstr "安装"
@@ -291,6 +351,9 @@ msgstr "节目包"
 
 msgid "Ativado"
 msgstr "已激活"
+
+msgid "Desativado"
+msgstr "失能"
 
 msgid "Atualizações"
 msgstr "更新"
@@ -402,6 +465,9 @@ msgstr ""
 "只显示 选定的 节目<br>\n"
 "并隐藏了一些有用的结果<br>\n"
 "只对高级用户开放。"
+
+msgid "Aplicando - Aguarde"
+msgstr "申请 - 请等待"
 
 msgid "Procurar programa"
 msgstr "搜索程序"

@@ -30,6 +30,15 @@ msgstr "대형 매장이 열려 있습니다."
 msgid "Big-Store"
 msgstr "빅 스토어"
 
+msgid "Instalar"
+msgstr "설치"
+
+msgid "Remover"
+msgstr "제거"
+
+msgid "Internet"
+msgstr "인터넷"
+
 msgid "Navegadores"
 msgstr "항해사"
 
@@ -57,6 +66,9 @@ msgstr "네트워크 도구"
 msgid "Notícias, Feeds e RSS"
 msgstr "뉴스, 피드 및 RSS"
 
+msgid "Escritório"
+msgstr "사무실"
+
 msgid "Suíte Office"
 msgstr "오피스 스위트"
 
@@ -68,6 +80,9 @@ msgstr "PDF 편집자"
 
 msgid "Agenda de tarefas e contatos"
 msgstr "작업 및 연락처 일정"
+
+msgid "Gráficos"
+msgstr "그래픽스"
 
 msgid "Visualizadores de imagem"
 msgstr "이미지 뷰어"
@@ -83,6 +98,9 @@ msgstr "이미지 변환, 크기 조정 또는 압축"
 
 msgid "Edição 3D e CAD"
 msgstr "3D 및 CAD 편집"
+
+msgid "Multimídia"
+msgstr "멀티미디어"
 
 msgid "Reprodutores de áudio"
 msgstr "오디오 플레이어"
@@ -110,6 +128,9 @@ msgstr "CD 및 DVD 버너 및 복사기"
 
 msgid "Webcam, gravação de tela e transmissão de vídeo"
 msgstr "웹캠, 화면 녹화 및 비디오 스트리밍"
+
+msgid "Jogos"
+msgstr "게임"
 
 msgid "Gerenciadores de jogos"
 msgstr "게임 매니저"
@@ -147,6 +168,12 @@ msgstr "트레이"
 msgid "RPG"
 msgstr "롤 플레잉"
 
+msgid "Outros"
+msgstr "기타"
+
+msgid "Sistema"
+msgstr "시스템"
+
 msgid "Armazenamento e partições"
 msgstr "스토리지 및 파티션"
 
@@ -158,6 +185,9 @@ msgstr "자바 JRE"
 
 msgid "Virtualização"
 msgstr "가상화"
+
+msgid "Desenvolvimento"
+msgstr "개발"
 
 msgid "Editores de código e IDE"
 msgstr "코드 에디터 및 IDE"
@@ -173,6 +203,21 @@ msgstr "네이티브 프로그램"
 
 msgid "Programas AUR"
 msgstr "AUR 프로그램"
+
+msgid "Instalado na partição:"
+msgstr "파티션에 설치됨:"
+
+msgid "Tamanho da partição:"
+msgstr "파티션 크기:"
+
+msgid "Espaço utilizado:"
+msgstr "사용된 공간:"
+
+msgid "Espaço livre:"
+msgstr "여유 공간:"
+
+msgid "Data que o sistema foi instalado:"
+msgstr "시스템 설치 날짜:"
 
 msgid "Pacotes nativos e AUR"
 msgstr "네이티브 및 AUR 패키지"
@@ -207,6 +252,9 @@ msgstr "정보 없음"
 msgid "Atualizar"
 msgstr "업데이트"
 
+msgid "Categorias"
+msgstr "카테고리"
+
 msgid "Versão instalada"
 msgstr "설치된 버전"
 
@@ -216,6 +264,9 @@ msgstr "사용 가능한 버전"
 msgid "Versão"
 msgstr "버전"
 
+msgid "Fechar"
+msgstr "닫기"
+
 msgid "Pacote .deb"
 msgstr ".deb 패키지"
 
@@ -223,6 +274,12 @@ msgid ""
 "Esse programa está em formato .deb, que possui a melhor integração com o "
 "sistema."
 msgstr "이 프로그램은.deb 형식으로 시스템과 가장 잘 통합됩니다."
+
+msgid "Mais informações"
+msgstr "추가 정보"
+
+msgid "Voltar"
+msgstr "뒤로 가기"
 
 msgid "Dependências a instalar"
 msgstr "설치할 종속성"
@@ -256,6 +313,9 @@ msgstr "사용 가능한 버전:"
 
 msgid "Repositório:"
 msgstr "리포지토리:"
+
+msgid "Cancelar"
+msgstr "취소"
 
 msgid "Instalando"
 msgstr "설치 중"
@@ -291,6 +351,9 @@ msgstr "묶음"
 
 msgid "Ativado"
 msgstr "활성화됨"
+
+msgid "Desativado"
+msgstr "비활성화"
 
 msgid "Atualizações"
 msgstr "업그레이드"
@@ -406,6 +469,9 @@ msgstr ""
 "선택한 프로그램만 표시합니다. <br> \n"
 "유용한 결과를 숨길 수 있습니다. <br>\n"
 "고급 사용자만 해당됩니다."
+
+msgid "Aplicando - Aguarde"
+msgstr "신청 - 기다려주세요"
 
 msgid "Procurar programa"
 msgstr "프로그램 검색"

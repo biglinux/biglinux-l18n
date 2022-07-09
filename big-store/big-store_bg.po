@@ -30,6 +30,15 @@ msgstr "Big-Store е отворен."
 msgid "Big-Store"
 msgstr "Big-Store"
 
+msgid "Instalar"
+msgstr "Инсталиране на"
+
+msgid "Remover"
+msgstr "Премахване на"
+
+msgid "Internet"
+msgstr "Интернет"
+
 msgid "Navegadores"
 msgstr "Браузъри"
 
@@ -57,6 +66,9 @@ msgstr "Мрежови инструменти"
 msgid "Notícias, Feeds e RSS"
 msgstr "Новини, емисии и RSS"
 
+msgid "Escritório"
+msgstr "Офис"
+
 msgid "Suíte Office"
 msgstr "Офис пакет"
 
@@ -68,6 +80,9 @@ msgstr "PDF редактори"
 
 msgid "Agenda de tarefas e contatos"
 msgstr "Календар на задачите и контактите"
+
+msgid "Gráficos"
+msgstr "Графики"
 
 msgid "Visualizadores de imagem"
 msgstr "Наблюдатели на изображения"
@@ -83,6 +98,9 @@ msgstr "Конвертиране, промяна на размера или ко
 
 msgid "Edição 3D e CAD"
 msgstr "3D и CAD редактиране"
+
+msgid "Multimídia"
+msgstr "Мултимедия"
 
 msgid "Reprodutores de áudio"
 msgstr "Аудио плейъри"
@@ -110,6 +128,9 @@ msgstr "CD и DVD записващи устройства и копирни ма
 
 msgid "Webcam, gravação de tela e transmissão de vídeo"
 msgstr "Уеб камера, запис на екрана и видео стрийминг"
+
+msgid "Jogos"
+msgstr "Игри"
 
 msgid "Gerenciadores de jogos"
 msgstr "Мениджъри на игри"
@@ -147,6 +168,12 @@ msgstr "Съвет"
 msgid "RPG"
 msgstr "RPG"
 
+msgid "Outros"
+msgstr "Други"
+
+msgid "Sistema"
+msgstr "Система"
+
 msgid "Armazenamento e partições"
 msgstr "Съхранение и прегради"
 
@@ -158,6 +185,9 @@ msgstr "Java JRE"
 
 msgid "Virtualização"
 msgstr "Виртуализация"
+
+msgid "Desenvolvimento"
+msgstr "Развитие"
 
 msgid "Editores de código e IDE"
 msgstr "Редактори на код и IDE"
@@ -173,6 +203,21 @@ msgstr "Родни програми"
 
 msgid "Programas AUR"
 msgstr "Програми на AUR"
+
+msgid "Instalado na partição:"
+msgstr "Инсталиран в дяла:"
+
+msgid "Tamanho da partição:"
+msgstr "Размер на дяла:"
+
+msgid "Espaço utilizado:"
+msgstr "Използвано пространство:"
+
+msgid "Espaço livre:"
+msgstr "Свободно пространство:"
+
+msgid "Data que o sistema foi instalado:"
+msgstr "Дата на инсталиране на системата:"
 
 msgid "Pacotes nativos e AUR"
 msgstr "Родни пакети и AUR"
@@ -207,6 +252,9 @@ msgstr "Не е информиран"
 msgid "Atualizar"
 msgstr "Актуализация"
 
+msgid "Categorias"
+msgstr "Категории"
+
 msgid "Versão instalada"
 msgstr "Инсталирана версия"
 
@@ -215,6 +263,9 @@ msgstr "Налична версия"
 
 msgid "Versão"
 msgstr "Версия"
+
+msgid "Fechar"
+msgstr "Затвори"
 
 msgid "Pacote .deb"
 msgstr ".deb пакет"
@@ -225,6 +276,12 @@ msgid ""
 msgstr ""
 "Тази програма е във формат .deb, който има най-добра интеграция със "
 "системата."
+
+msgid "Mais informações"
+msgstr "Повече информация"
+
+msgid "Voltar"
+msgstr "Обратно"
 
 msgid "Dependências a instalar"
 msgstr "Зависимости за инсталиране"
@@ -258,6 +315,9 @@ msgstr "Налична версия:"
 
 msgid "Repositório:"
 msgstr "Хранилище:"
+
+msgid "Cancelar"
+msgstr "Отмяна на"
 
 msgid "Instalando"
 msgstr "Инсталиране на"
@@ -294,6 +354,9 @@ msgstr "Пакети"
 
 msgid "Ativado"
 msgstr "Активиран"
+
+msgid "Desativado"
+msgstr "Инвалиди"
 
 msgid "Atualizações"
 msgstr "Актуализации"
@@ -412,6 +475,9 @@ msgstr ""
 "Показва само избрани програми<br>\n"
 "и скрива полезните резултати <br>\n"
 "само за напреднали потребители."
+
+msgid "Aplicando - Aguarde"
+msgstr "Кандидатстване - Моля, изчакайте"
 
 msgid "Procurar programa"
 msgstr "Програма за търсене"

@@ -30,6 +30,15 @@ msgstr "Big-Store адкрыты."
 msgid "Big-Store"
 msgstr "Big-Store"
 
+msgid "Instalar"
+msgstr "Ўсталяваць"
+
+msgid "Remover"
+msgstr "Выдаліць"
+
+msgid "Internet"
+msgstr "Інтэрнэт"
+
 msgid "Navegadores"
 msgstr "браўзэры"
 
@@ -57,6 +66,9 @@ msgstr "сеткавыя інструменты"
 msgid "Notícias, Feeds e RSS"
 msgstr "Навіны, стужкі і RSS"
 
+msgid "Escritório"
+msgstr "Офіс"
+
 msgid "Suíte Office"
 msgstr "офісны пакет"
 
@@ -68,6 +80,9 @@ msgstr "PDF рэдактары"
 
 msgid "Agenda de tarefas e contatos"
 msgstr "Каляндар задач і кантактаў"
+
+msgid "Gráficos"
+msgstr "Графіка"
 
 msgid "Visualizadores de imagem"
 msgstr "прагляду малюнкаў"
@@ -83,6 +98,9 @@ msgstr "Канвертаваць, змяняць памер або сціска�
 
 msgid "Edição 3D e CAD"
 msgstr "Рэдагаванне 3D і CAD"
+
+msgid "Multimídia"
+msgstr "Мультымедыя"
 
 msgid "Reprodutores de áudio"
 msgstr "аўдыяплэеры"
@@ -110,6 +128,9 @@ msgstr "CD і DVD запісвальнікі і капіравальныя ап�
 
 msgid "Webcam, gravação de tela e transmissão de vídeo"
 msgstr "Вэб-камера, запіс экрана і струменевае відэа"
+
+msgid "Jogos"
+msgstr "Гульні"
 
 msgid "Gerenciadores de jogos"
 msgstr "менеджэры гульняў"
@@ -147,6 +168,12 @@ msgstr "Дошка"
 msgid "RPG"
 msgstr "Ролевая гульня"
 
+msgid "Outros"
+msgstr "Іншыя"
+
+msgid "Sistema"
+msgstr "Сістэма"
+
 msgid "Armazenamento e partições"
 msgstr "Сховішча і перагародкі"
 
@@ -158,6 +185,9 @@ msgstr "Java JRE"
 
 msgid "Virtualização"
 msgstr "віртуалізацыя"
+
+msgid "Desenvolvimento"
+msgstr "Развіццё"
 
 msgid "Editores de código e IDE"
 msgstr "Рэдактары кода і IDE"
@@ -173,6 +203,21 @@ msgstr "Родныя праграмы"
 
 msgid "Programas AUR"
 msgstr "Праграмы AUR"
+
+msgid "Instalado na partição:"
+msgstr "Усталявана на раздзел:"
+
+msgid "Tamanho da partição:"
+msgstr "Памер падзелу:"
+
+msgid "Espaço utilizado:"
+msgstr "Выкарыстанае месца:"
+
+msgid "Espaço livre:"
+msgstr "Вольная прастора:"
+
+msgid "Data que o sistema foi instalado:"
+msgstr "Дата ўстаноўкі сістэмы:"
 
 msgid "Pacotes nativos e AUR"
 msgstr "Уласныя пакеты і AUR"
@@ -207,6 +252,9 @@ msgstr "не інфармаваны"
 msgid "Atualizar"
 msgstr "Абнаўленне"
 
+msgid "Categorias"
+msgstr "Катэгорыі"
+
 msgid "Versão instalada"
 msgstr "усталяваная версія"
 
@@ -216,6 +264,9 @@ msgstr "Даступная версія"
 msgid "Versão"
 msgstr "Версія"
 
+msgid "Fechar"
+msgstr "Закрыць"
+
 msgid "Pacote .deb"
 msgstr "Пакет .deb"
 
@@ -224,6 +275,12 @@ msgid ""
 "sistema."
 msgstr ""
 "Гэта праграма ў фармаце .deb, які мае найлепшую інтэграцыю з сістэмай."
+
+msgid "Mais informações"
+msgstr "Больш інфармацыі"
+
+msgid "Voltar"
+msgstr "Вяртацца"
 
 msgid "Dependências a instalar"
 msgstr "Залежнасці для ўстаноўкі"
@@ -257,6 +314,9 @@ msgstr "Даступная версія:"
 
 msgid "Repositório:"
 msgstr "Рэпазітар:"
+
+msgid "Cancelar"
+msgstr "Адмяніць"
 
 msgid "Instalando"
 msgstr "ўстаноўка"
@@ -294,6 +354,9 @@ msgstr "пакеты"
 
 msgid "Ativado"
 msgstr "Актываваны"
+
+msgid "Desativado"
+msgstr "Адключаны"
 
 msgid "Atualizações"
 msgstr "абнаўлення"
@@ -401,6 +464,9 @@ msgid ""
 msgstr ""
 "Паказаць толькі выбраныя праграмы<br> і хавае карысныя вынікі<br> толькі для "
 "прасунутых карыстальнікаў."
+
+msgid "Aplicando - Aguarde"
+msgstr "Заяўка - пачакайце"
 
 msgid "Procurar programa"
 msgstr "пошукавая праграма"

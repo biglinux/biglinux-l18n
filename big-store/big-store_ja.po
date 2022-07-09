@@ -30,6 +30,15 @@ msgstr "ビッグストアがオープンしました。"
 msgid "Big-Store"
 msgstr "ビッグストア"
 
+msgid "Instalar"
+msgstr "インストール"
+
+msgid "Remover"
+msgstr "削除"
+
+msgid "Internet"
+msgstr "インターネット"
+
 msgid "Navegadores"
 msgstr "ブラウザー"
 
@@ -57,6 +66,9 @@ msgstr "ネットワークツール"
 msgid "Notícias, Feeds e RSS"
 msgstr "ニュース、フィード、RSS"
 
+msgid "Escritório"
+msgstr "オフィス"
+
 msgid "Suíte Office"
 msgstr "オフィススイート"
 
@@ -68,6 +80,9 @@ msgstr "PDFエディター"
 
 msgid "Agenda de tarefas e contatos"
 msgstr "タスクと連絡先のカレンダー"
+
+msgid "Gráficos"
+msgstr "グラフィック"
 
 msgid "Visualizadores de imagem"
 msgstr "画像ビューアー"
@@ -83,6 +98,9 @@ msgstr "画像の変換、リサイズ、圧縮"
 
 msgid "Edição 3D e CAD"
 msgstr "3D・CAD編集"
+
+msgid "Multimídia"
+msgstr "マルチメディア"
 
 msgid "Reprodutores de áudio"
 msgstr "オーディオプレーヤー"
@@ -110,6 +128,9 @@ msgstr "CD・DVDレコーダー、コピー機"
 
 msgid "Webcam, gravação de tela e transmissão de vídeo"
 msgstr "ウェブカメラ、画面録画、ビデオストリーミング"
+
+msgid "Jogos"
+msgstr "ゲーム"
 
 msgid "Gerenciadores de jogos"
 msgstr "ゲーム担当者"
@@ -147,6 +168,12 @@ msgstr "ボード"
 msgid "RPG"
 msgstr "ロールプレイングゲーム"
 
+msgid "Outros"
+msgstr "その他"
+
+msgid "Sistema"
+msgstr "システム"
+
 msgid "Armazenamento e partições"
 msgstr "収納・仕切り"
 
@@ -158,6 +185,9 @@ msgstr "ジャバ JRE"
 
 msgid "Virtualização"
 msgstr "仮想化"
+
+msgid "Desenvolvimento"
+msgstr "開発"
 
 msgid "Editores de código e IDE"
 msgstr "コードエディターとIDE"
@@ -173,6 +203,21 @@ msgstr "ネイティブプログラム"
 
 msgid "Programas AUR"
 msgstr "AURプログラム"
+
+msgid "Instalado na partição:"
+msgstr "パーティションにインストールされています。"
+
+msgid "Tamanho da partição:"
+msgstr "パーティションサイズ。"
+
+msgid "Espaço utilizado:"
+msgstr "使用するスペース"
+
+msgid "Espaço livre:"
+msgstr "空間をクリアにする。"
+
+msgid "Data que o sistema foi instalado:"
+msgstr "システムがインストールされた日付。"
 
 msgid "Pacotes nativos e AUR"
 msgstr "ネイティブパッケージとAUR"
@@ -207,6 +252,9 @@ msgstr "非通知"
 msgid "Atualizar"
 msgstr "更新情報"
 
+msgid "Categorias"
+msgstr "カテゴリー"
+
 msgid "Versão instalada"
 msgstr "インストールされているバージョン"
 
@@ -216,6 +264,9 @@ msgstr "使用可能なバージョン"
 msgid "Versão"
 msgstr "バージョン"
 
+msgid "Fechar"
+msgstr "閉じる"
+
 msgid "Pacote .deb"
 msgstr ".debパッケージ"
 
@@ -223,6 +274,12 @@ msgid ""
 "Esse programa está em formato .deb, que possui a melhor integração com o "
 "sistema."
 msgstr "本プログラムは、システムとの連携が最も優れている.deb形式を採用しています。"
+
+msgid "Mais informações"
+msgstr "詳細はこちら"
+
+msgid "Voltar"
+msgstr "背面"
 
 msgid "Dependências a instalar"
 msgstr "インストールする依存関係"
@@ -256,6 +313,9 @@ msgstr "バージョンあり。"
 
 msgid "Repositório:"
 msgstr "リポジトリです。"
+
+msgid "Cancelar"
+msgstr "キャンセル"
 
 msgid "Instalando"
 msgstr "インストール"
@@ -291,6 +351,9 @@ msgstr "パッケージ"
 
 msgid "Ativado"
 msgstr "起動中"
+
+msgid "Desativado"
+msgstr "使用不可"
 
 msgid "Atualizações"
 msgstr "更新情報"
@@ -405,6 +468,9 @@ msgstr ""
 "選択した 番組のみ表示<br>\n"
 "で、有用な結果は非表示になります<br>\n"
 "は上級者向けです。"
+
+msgid "Aplicando - Aguarde"
+msgstr "応募中 - しばらくお待ちください"
 
 msgid "Procurar programa"
 msgstr "検索プログラム"

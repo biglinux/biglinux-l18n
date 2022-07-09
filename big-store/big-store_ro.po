@@ -30,6 +30,15 @@ msgstr "Big-Store este deschis."
 msgid "Big-Store"
 msgstr "Big-Store"
 
+msgid "Instalar"
+msgstr "Instalați"
+
+msgid "Remover"
+msgstr "Eliminați"
+
+msgid "Internet"
+msgstr "Internet"
+
 msgid "Navegadores"
 msgstr "Browsere"
 
@@ -57,6 +66,9 @@ msgstr "Instrumente de rețea"
 msgid "Notícias, Feeds e RSS"
 msgstr "Știri, fluxuri și RSS"
 
+msgid "Escritório"
+msgstr "Birou"
+
 msgid "Suíte Office"
 msgstr "Suita Office"
 
@@ -68,6 +80,9 @@ msgstr "Editorii PDF"
 
 msgid "Agenda de tarefas e contatos"
 msgstr "Calendar de sarcini și contacte"
+
+msgid "Gráficos"
+msgstr "Grafică"
 
 msgid "Visualizadores de imagem"
 msgstr "Vizualizatori de imagini"
@@ -83,6 +98,9 @@ msgstr "Conversia, redimensionarea sau comprimarea imaginilor"
 
 msgid "Edição 3D e CAD"
 msgstr "Editare 3D și CAD"
+
+msgid "Multimídia"
+msgstr "Multimedia"
 
 msgid "Reprodutores de áudio"
 msgstr "Redactori audio"
@@ -110,6 +128,9 @@ msgstr "Aparate de înregistrat și copiatoare de CD și DVD"
 
 msgid "Webcam, gravação de tela e transmissão de vídeo"
 msgstr "Webcam, înregistrare a ecranului și streaming video"
+
+msgid "Jogos"
+msgstr "Jocuri"
 
 msgid "Gerenciadores de jogos"
 msgstr "Managerii de joc"
@@ -147,6 +168,12 @@ msgstr "Consiliul de administrație"
 msgid "RPG"
 msgstr "RPG"
 
+msgid "Outros"
+msgstr "Altele"
+
+msgid "Sistema"
+msgstr "Sistem"
+
 msgid "Armazenamento e partições"
 msgstr "Depozitare și partiții"
 
@@ -158,6 +185,9 @@ msgstr "Java JRE"
 
 msgid "Virtualização"
 msgstr "Virtualizare"
+
+msgid "Desenvolvimento"
+msgstr "Dezvoltare"
 
 msgid "Editores de código e IDE"
 msgstr "Editoare de cod și IDE-uri"
@@ -173,6 +203,21 @@ msgstr "Programe autohtone"
 
 msgid "Programas AUR"
 msgstr "Programe AUR"
+
+msgid "Instalado na partição:"
+msgstr "Instalat pe partiție:"
+
+msgid "Tamanho da partição:"
+msgstr "Dimensiunea partiției:"
+
+msgid "Espaço utilizado:"
+msgstr "Spațiu utilizat:"
+
+msgid "Espaço livre:"
+msgstr "Spațiu liber:"
+
+msgid "Data que o sistema foi instalado:"
+msgstr "Data la care a fost instalat sistemul:"
 
 msgid "Pacotes nativos e AUR"
 msgstr "Pachete native și AUR"
@@ -209,6 +254,9 @@ msgstr "Neinformat"
 msgid "Atualizar"
 msgstr "Actualizare"
 
+msgid "Categorias"
+msgstr "Categorii"
+
 msgid "Versão instalada"
 msgstr "Versiunea instalată"
 
@@ -217,6 +265,9 @@ msgstr "Versiunea disponibilă"
 
 msgid "Versão"
 msgstr "Versiunea"
+
+msgid "Fechar"
+msgstr "Închideți"
 
 msgid "Pacote .deb"
 msgstr "Pachetul .deb"
@@ -227,6 +278,12 @@ msgid ""
 msgstr ""
 "Acest program este în format .deb, care are cea mai bună integrare cu "
 "sistemul."
+
+msgid "Mais informações"
+msgstr "Mai multe informații"
+
+msgid "Voltar"
+msgstr "Înapoi"
 
 msgid "Dependências a instalar"
 msgstr "Dependențe de instalat"
@@ -260,6 +317,9 @@ msgstr "Versiune disponibilă:"
 
 msgid "Repositório:"
 msgstr "Depozitar:"
+
+msgid "Cancelar"
+msgstr "Anulează"
 
 msgid "Instalando"
 msgstr "Instalarea"
@@ -297,6 +357,9 @@ msgstr "Pachete"
 
 msgid "Ativado"
 msgstr "Activat"
+
+msgid "Desativado"
+msgstr "Persoane cu handicap"
 
 msgid "Atualizações"
 msgstr "Actualizări"
@@ -414,6 +477,9 @@ msgstr ""
 "Afișează numai programele selectate <br>\n"
 "și ascunde rezultatele care sunt utile <br>\n"
 "numai pentru utilizatorii avansați."
+
+msgid "Aplicando - Aguarde"
+msgstr "Aplicare - Vă rugăm să așteptați"
 
 msgid "Procurar programa"
 msgstr "Program de căutare"

@@ -30,6 +30,15 @@ msgstr "Big-Store är öppen."
 msgid "Big-Store"
 msgstr "Big-Store"
 
+msgid "Instalar"
+msgstr "Installera"
+
+msgid "Remover"
+msgstr "Ta bort"
+
+msgid "Internet"
+msgstr "Internet"
+
 msgid "Navegadores"
 msgstr "Webbläsare"
 
@@ -57,6 +66,9 @@ msgstr "Nätverksverktyg"
 msgid "Notícias, Feeds e RSS"
 msgstr "Nyheter, flöden och RSS"
 
+msgid "Escritório"
+msgstr "Kontor"
+
 msgid "Suíte Office"
 msgstr "Office Suite"
 
@@ -68,6 +80,9 @@ msgstr "PDF-redigerare"
 
 msgid "Agenda de tarefas e contatos"
 msgstr "Kalender med uppgifter och kontakter"
+
+msgid "Gráficos"
+msgstr "Grafik"
 
 msgid "Visualizadores de imagem"
 msgstr "Bildvisare"
@@ -83,6 +98,9 @@ msgstr "Konvertera, ändra storlek eller komprimera bilder"
 
 msgid "Edição 3D e CAD"
 msgstr "3D- och CAD-redigering"
+
+msgid "Multimídia"
+msgstr "Multimedia"
 
 msgid "Reprodutores de áudio"
 msgstr "Ljudspelare"
@@ -110,6 +128,9 @@ msgstr "CD- och DVD-inspelare och kopiatorer"
 
 msgid "Webcam, gravação de tela e transmissão de vídeo"
 msgstr "Webbkamera, skärminspelning och videoströmning"
+
+msgid "Jogos"
+msgstr "Spel"
 
 msgid "Gerenciadores de jogos"
 msgstr "Spelansvariga"
@@ -147,6 +168,12 @@ msgstr "Styrelse"
 msgid "RPG"
 msgstr "RPG"
 
+msgid "Outros"
+msgstr "Övriga"
+
+msgid "Sistema"
+msgstr "System"
+
 msgid "Armazenamento e partições"
 msgstr "Förvaring och skiljeväggar"
 
@@ -158,6 +185,9 @@ msgstr "Java JRE"
 
 msgid "Virtualização"
 msgstr "Virtualisering"
+
+msgid "Desenvolvimento"
+msgstr "Utveckling"
 
 msgid "Editores de código e IDE"
 msgstr "Kodredigerare och IDE:er"
@@ -173,6 +203,21 @@ msgstr "Inhemska program"
 
 msgid "Programas AUR"
 msgstr "AUR-programmen"
+
+msgid "Instalado na partição:"
+msgstr "Installerad på partitionen:"
+
+msgid "Tamanho da partição:"
+msgstr "Partitionsstorlek:"
+
+msgid "Espaço utilizado:"
+msgstr "Utrymme som används:"
+
+msgid "Espaço livre:"
+msgstr "Klart utrymme:"
+
+msgid "Data que o sistema foi instalado:"
+msgstr "Datum då systemet installerades:"
 
 msgid "Pacotes nativos e AUR"
 msgstr "Inhemska paket och AUR"
@@ -207,6 +252,9 @@ msgstr "Inte informerad"
 msgid "Atualizar"
 msgstr "Uppdatera"
 
+msgid "Categorias"
+msgstr "Kategorier"
+
 msgid "Versão instalada"
 msgstr "Installerad version"
 
@@ -215,6 +263,9 @@ msgstr "Tillgänglig version"
 
 msgid "Versão"
 msgstr "Version"
+
+msgid "Fechar"
+msgstr "Stäng"
 
 msgid "Pacote .deb"
 msgstr ".deb-paketet"
@@ -225,6 +276,12 @@ msgid ""
 msgstr ""
 "Programmet är i .deb-format, vilket ger den bästa integrationen med systemet."
 ""
+
+msgid "Mais informações"
+msgstr "Mer information"
+
+msgid "Voltar"
+msgstr "Tillbaka"
 
 msgid "Dependências a instalar"
 msgstr "Beroenden som ska installeras"
@@ -258,6 +315,9 @@ msgstr "Tillgänglig version:"
 
 msgid "Repositório:"
 msgstr "Förvaringsplats:"
+
+msgid "Cancelar"
+msgstr "Avbryt"
 
 msgid "Instalando"
 msgstr "Installation av"
@@ -295,6 +355,9 @@ msgstr "Paket"
 
 msgid "Ativado"
 msgstr "Aktiverad"
+
+msgid "Desativado"
+msgstr "Inaktiverad"
 
 msgid "Atualizações"
 msgstr "Uppdateringar"
@@ -411,6 +474,9 @@ msgstr ""
 "Visar endast valda program<br>\n"
 "och döljer resultat som är användbara <br>\n"
 "endast för avancerade användare."
+
+msgid "Aplicando - Aguarde"
+msgstr "Ansökan - Vänta"
 
 msgid "Procurar programa"
 msgstr "Sök program"

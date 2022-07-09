@@ -30,6 +30,15 @@ msgstr "Big-Store on avatud."
 msgid "Big-Store"
 msgstr "Big-Store"
 
+msgid "Instalar"
+msgstr "Paigaldage"
+
+msgid "Remover"
+msgstr "Eemaldage"
+
+msgid "Internet"
+msgstr "Internet"
+
 msgid "Navegadores"
 msgstr "Brauserid"
 
@@ -57,6 +66,9 @@ msgstr "Võrguvahendid"
 msgid "Notícias, Feeds e RSS"
 msgstr "Uudised, söötmed ja RSS"
 
+msgid "Escritório"
+msgstr "Kontor"
+
 msgid "Suíte Office"
 msgstr "Office Suite"
 
@@ -68,6 +80,9 @@ msgstr "PDF redaktorid"
 
 msgid "Agenda de tarefas e contatos"
 msgstr "Ülesannete ja kontaktide kalender"
+
+msgid "Gráficos"
+msgstr "Graafika"
 
 msgid "Visualizadores de imagem"
 msgstr "Pildi vaatajad"
@@ -83,6 +98,9 @@ msgstr "Piltide teisendamine, suuruse muutmine või tihendamine"
 
 msgid "Edição 3D e CAD"
 msgstr "3D ja CAD redigeerimine"
+
+msgid "Multimídia"
+msgstr "Multimeedia"
 
 msgid "Reprodutores de áudio"
 msgstr "Helimängijad"
@@ -110,6 +128,9 @@ msgstr "CD- ja DVD-salvestid ning koopiamasinad"
 
 msgid "Webcam, gravação de tela e transmissão de vídeo"
 msgstr "Veebikaamera, ekraanisalvestus ja video voogedastus"
+
+msgid "Jogos"
+msgstr "Mängud"
 
 msgid "Gerenciadores de jogos"
 msgstr "Mängujuhid"
@@ -147,6 +168,12 @@ msgstr "Juhatus"
 msgid "RPG"
 msgstr "RPG"
 
+msgid "Outros"
+msgstr "Muud"
+
+msgid "Sistema"
+msgstr "Süsteem"
+
 msgid "Armazenamento e partições"
 msgstr "Ladustamine ja vaheseinad"
 
@@ -158,6 +185,9 @@ msgstr "Java JRE"
 
 msgid "Virtualização"
 msgstr "Virtualiseerimine"
+
+msgid "Desenvolvimento"
+msgstr "Arendus"
 
 msgid "Editores de código e IDE"
 msgstr "Koodiredaktorid ja IDEd"
@@ -173,6 +203,21 @@ msgstr "Emakeelsed programmid"
 
 msgid "Programas AUR"
 msgstr "AUR programmid"
+
+msgid "Instalado na partição:"
+msgstr "Paigaldatud partitsioonile:"
+
+msgid "Tamanho da partição:"
+msgstr "Jaotise suurus:"
+
+msgid "Espaço utilizado:"
+msgstr "Kasutatud ruum:"
+
+msgid "Espaço livre:"
+msgstr "Vaba ruum:"
+
+msgid "Data que o sistema foi instalado:"
+msgstr "Süsteemi paigaldamise kuupäev:"
 
 msgid "Pacotes nativos e AUR"
 msgstr "Emakeelsed paketid ja AUR"
@@ -207,6 +252,9 @@ msgstr "Ei ole teavitatud"
 msgid "Atualizar"
 msgstr "Ajakohastamine"
 
+msgid "Categorias"
+msgstr "Kategooriad"
+
 msgid "Versão instalada"
 msgstr "Installeeritud versioon"
 
@@ -215,6 +263,9 @@ msgstr "Kättesaadav versioon"
 
 msgid "Versão"
 msgstr "Versioon"
+
+msgid "Fechar"
+msgstr "Sulge"
 
 msgid "Pacote .deb"
 msgstr ".deb pakett"
@@ -225,6 +276,12 @@ msgid ""
 msgstr ""
 "See programm on .deb formaadis, mis on kõige paremini süsteemiga "
 "integreeritav."
+
+msgid "Mais informações"
+msgstr "Lisateave"
+
+msgid "Voltar"
+msgstr "Tagasi"
 
 msgid "Dependências a instalar"
 msgstr "Paigaldatavad sõltuvused"
@@ -258,6 +315,9 @@ msgstr "Saadaval versioon:"
 
 msgid "Repositório:"
 msgstr "Hoiukoht:"
+
+msgid "Cancelar"
+msgstr "Tühista"
 
 msgid "Instalando"
 msgstr "Paigaldamine"
@@ -295,6 +355,9 @@ msgstr "Pakendid"
 
 msgid "Ativado"
 msgstr "Aktiveeritud"
+
+msgid "Desativado"
+msgstr "Puudega inimesed"
 
 msgid "Atualizações"
 msgstr "Uuendused"
@@ -411,6 +474,9 @@ msgstr ""
 "Kuvab ainult valitud programme<br>\n"
 "ja peidab kasulikud tulemused <br>\n"
 "ainult edasijõudnud kasutajatele."
+
+msgid "Aplicando - Aguarde"
+msgstr "Taotlemine - Palun oodake"
 
 msgid "Procurar programa"
 msgstr "Otsi programmi"

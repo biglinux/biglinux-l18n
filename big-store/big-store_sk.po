@@ -30,6 +30,15 @@ msgstr "Big-Store je otvorený."
 msgid "Big-Store"
 msgstr "Big-Store"
 
+msgid "Instalar"
+msgstr "Inštalácia stránky"
+
+msgid "Remover"
+msgstr "Odstránenie stránky"
+
+msgid "Internet"
+msgstr "Internet"
+
 msgid "Navegadores"
 msgstr "Prehliadače"
 
@@ -57,6 +66,9 @@ msgstr "Sieťové nástroje"
 msgid "Notícias, Feeds e RSS"
 msgstr "Správy, kanály a RSS"
 
+msgid "Escritório"
+msgstr "Kancelária"
+
 msgid "Suíte Office"
 msgstr "Kancelársky balík"
 
@@ -68,6 +80,9 @@ msgstr "Redaktori PDF"
 
 msgid "Agenda de tarefas e contatos"
 msgstr "Kalendár úloh a kontaktov"
+
+msgid "Gráficos"
+msgstr "Grafika"
 
 msgid "Visualizadores de imagem"
 msgstr "Prehliadače obrázkov"
@@ -83,6 +98,9 @@ msgstr "Konverzia, zmena veľkosti alebo komprimácia obrázkov"
 
 msgid "Edição 3D e CAD"
 msgstr "Úprava 3D a CAD"
+
+msgid "Multimídia"
+msgstr "Multimédiá"
 
 msgid "Reprodutores de áudio"
 msgstr "Zvukové prehrávače"
@@ -110,6 +128,9 @@ msgstr "CD a DVD rekordéry a kopírky"
 
 msgid "Webcam, gravação de tela e transmissão de vídeo"
 msgstr "Webová kamera, nahrávanie obrazovky a streamovanie videa"
+
+msgid "Jogos"
+msgstr "Hry"
 
 msgid "Gerenciadores de jogos"
 msgstr "Manažéri hier"
@@ -147,6 +168,12 @@ msgstr "Rada"
 msgid "RPG"
 msgstr "RPG"
 
+msgid "Outros"
+msgstr "Iné"
+
+msgid "Sistema"
+msgstr "Systém"
+
 msgid "Armazenamento e partições"
 msgstr "Úložné priestory a priečky"
 
@@ -158,6 +185,9 @@ msgstr "Java JRE"
 
 msgid "Virtualização"
 msgstr "Virtualizácia"
+
+msgid "Desenvolvimento"
+msgstr "Vývoj"
 
 msgid "Editores de código e IDE"
 msgstr "Editory kódu a IDE"
@@ -173,6 +203,21 @@ msgstr "Pôvodné programy"
 
 msgid "Programas AUR"
 msgstr "Programy AUR"
+
+msgid "Instalado na partição:"
+msgstr "Nainštalovaný na oddiele:"
+
+msgid "Tamanho da partição:"
+msgstr "Veľkosť oddielu:"
+
+msgid "Espaço utilizado:"
+msgstr "Použitý priestor:"
+
+msgid "Espaço livre:"
+msgstr "Voľný priestor:"
+
+msgid "Data que o sistema foi instalado:"
+msgstr "Dátum inštalácie systému:"
 
 msgid "Pacotes nativos e AUR"
 msgstr "Pôvodné balíky a AUR"
@@ -207,6 +252,9 @@ msgstr "Nie je informovaný"
 msgid "Atualizar"
 msgstr "Aktualizácia"
 
+msgid "Categorias"
+msgstr "Kategórie"
+
 msgid "Versão instalada"
 msgstr "Nainštalovaná verzia"
 
@@ -216,6 +264,9 @@ msgstr "Dostupná verzia"
 msgid "Versão"
 msgstr "Verzia"
 
+msgid "Fechar"
+msgstr "Zatvoriť"
+
 msgid "Pacote .deb"
 msgstr "Balík .deb"
 
@@ -224,6 +275,12 @@ msgid ""
 "sistema."
 msgstr ""
 "Tento program je vo formáte .deb, ktorý má najlepšiu integráciu so systémom."
+
+msgid "Mais informações"
+msgstr "Viac informácií"
+
+msgid "Voltar"
+msgstr "Späť"
 
 msgid "Dependências a instalar"
 msgstr "Závislosti na inštaláciu"
@@ -257,6 +314,9 @@ msgstr "Dostupná verzia:"
 
 msgid "Repositório:"
 msgstr "Úložisko:"
+
+msgid "Cancelar"
+msgstr "Zrušiť"
 
 msgid "Instalando"
 msgstr "Inštalácia stránky"
@@ -294,6 +354,9 @@ msgstr "Balíky"
 
 msgid "Ativado"
 msgstr "Aktivované"
+
+msgid "Desativado"
+msgstr "Bezbariérový"
 
 msgid "Atualizações"
 msgstr "Aktualizácie"
@@ -411,6 +474,9 @@ msgstr ""
 "Zobrazí len vybrané programy<br>\n"
 "a skrýva výsledky, ktoré sú užitočné <br>\n"
 "len pre pokročilých používateľov."
+
+msgid "Aplicando - Aguarde"
+msgstr "Podanie žiadosti - Počkajte, prosím"
 
 msgid "Procurar programa"
 msgstr "Vyhľadávací program"

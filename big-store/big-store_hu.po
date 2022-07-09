@@ -30,6 +30,15 @@ msgstr "A Big-Store nyitva van."
 msgid "Big-Store"
 msgstr "Big-Store"
 
+msgid "Instalar"
+msgstr "Telepítse a"
+
+msgid "Remover"
+msgstr "Távolítsa el a"
+
+msgid "Internet"
+msgstr "Internet"
+
 msgid "Navegadores"
 msgstr "Böngészők"
 
@@ -57,6 +66,9 @@ msgstr "Hálózati eszközök"
 msgid "Notícias, Feeds e RSS"
 msgstr "Hírek, Feeds és RSS"
 
+msgid "Escritório"
+msgstr "Iroda"
+
 msgid "Suíte Office"
 msgstr "Office Suite"
 
@@ -68,6 +80,9 @@ msgstr "PDF szerkesztők"
 
 msgid "Agenda de tarefas e contatos"
 msgstr "Feladat- és kapcsolattartási naptár"
+
+msgid "Gráficos"
+msgstr "Grafika"
 
 msgid "Visualizadores de imagem"
 msgstr "Képnézők"
@@ -83,6 +98,9 @@ msgstr "Képek átalakítása, méretének módosítása vagy tömörítése"
 
 msgid "Edição 3D e CAD"
 msgstr "3D és CAD szerkesztés"
+
+msgid "Multimídia"
+msgstr "Multimédia"
 
 msgid "Reprodutores de áudio"
 msgstr "Audio lejátszók"
@@ -110,6 +128,9 @@ msgstr "CD- és DVD-írók és másolók"
 
 msgid "Webcam, gravação de tela e transmissão de vídeo"
 msgstr "Webkamera, képernyőfelvétel és videó streaming"
+
+msgid "Jogos"
+msgstr "Játékok"
 
 msgid "Gerenciadores de jogos"
 msgstr "Játékvezetők"
@@ -147,6 +168,12 @@ msgstr "Igazgatótanács"
 msgid "RPG"
 msgstr "RPG"
 
+msgid "Outros"
+msgstr "Egyéb"
+
+msgid "Sistema"
+msgstr "Rendszer"
+
 msgid "Armazenamento e partições"
 msgstr "Tárolás és válaszfalak"
 
@@ -158,6 +185,9 @@ msgstr "Java JRE"
 
 msgid "Virtualização"
 msgstr "Virtualizáció"
+
+msgid "Desenvolvimento"
+msgstr "Fejlesztés"
 
 msgid "Editores de código e IDE"
 msgstr "Kódszerkesztők és IDE-k"
@@ -173,6 +203,21 @@ msgstr "Bennszülött programok"
 
 msgid "Programas AUR"
 msgstr "AUR programok"
+
+msgid "Instalado na partição:"
+msgstr "Telepítve a partícióra:"
+
+msgid "Tamanho da partição:"
+msgstr "Partíció mérete:"
+
+msgid "Espaço utilizado:"
+msgstr "Használt tér:"
+
+msgid "Espaço livre:"
+msgstr "Tiszta tér:"
+
+msgid "Data que o sistema foi instalado:"
+msgstr "A rendszer telepítésének dátuma:"
 
 msgid "Pacotes nativos e AUR"
 msgstr "Natív csomagok és AUR"
@@ -207,6 +252,9 @@ msgstr "Nem tájékoztatták"
 msgid "Atualizar"
 msgstr "Frissítés"
 
+msgid "Categorias"
+msgstr "Kategóriák"
+
 msgid "Versão instalada"
 msgstr "Telepített verzió"
 
@@ -216,6 +264,9 @@ msgstr "Elérhető verzió"
 msgid "Versão"
 msgstr "Verzió"
 
+msgid "Fechar"
+msgstr "Zárja be a"
+
 msgid "Pacote .deb"
 msgstr ".deb csomag"
 
@@ -224,6 +275,12 @@ msgid ""
 "sistema."
 msgstr ""
 "Ez a program .deb formátumú, amely a legjobban integrálódik a rendszerbe."
+
+msgid "Mais informações"
+msgstr "További információ"
+
+msgid "Voltar"
+msgstr "Vissza"
 
 msgid "Dependências a instalar"
 msgstr "Telepítendő függőségek"
@@ -257,6 +314,9 @@ msgstr "Elérhető verzió:"
 
 msgid "Repositório:"
 msgstr "Tárhely:"
+
+msgid "Cancelar"
+msgstr "Törölje"
 
 msgid "Instalando"
 msgstr "A  telepítése"
@@ -294,6 +354,9 @@ msgstr "Csomagok"
 
 msgid "Ativado"
 msgstr "Aktivált"
+
+msgid "Desativado"
+msgstr "Mozgáskorlátozottak"
 
 msgid "Atualizações"
 msgstr "Frissítések"
@@ -412,6 +475,9 @@ msgstr ""
 "Csak a kiválasztott programokat jeleníti meg<br>\n"
 "és elrejti a hasznos eredményeket <br>\n"
 "csak haladó felhasználóknak."
+
+msgid "Aplicando - Aguarde"
+msgstr "Jelentkezés - Kérjük, várjon"
 
 msgid "Procurar programa"
 msgstr "Keresés program"

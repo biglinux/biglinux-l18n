@@ -30,6 +30,15 @@ msgstr "Big-Store is open."
 msgid "Big-Store"
 msgstr "Big-Store"
 
+msgid "Instalar"
+msgstr "Installeer"
+
+msgid "Remover"
+msgstr "Verwijder"
+
+msgid "Internet"
+msgstr "Internet"
+
 msgid "Navegadores"
 msgstr "Browsers"
 
@@ -57,6 +66,9 @@ msgstr "Netwerkgereedschappen"
 msgid "Notícias, Feeds e RSS"
 msgstr "Nieuws, Feeds en RSS"
 
+msgid "Escritório"
+msgstr "Kantoor"
+
 msgid "Suíte Office"
 msgstr "Kantoor-Suite"
 
@@ -68,6 +80,9 @@ msgstr "PDF-redactie"
 
 msgid "Agenda de tarefas e contatos"
 msgstr "Kalender van taken en contacten"
+
+msgid "Gráficos"
+msgstr "Graphics"
 
 msgid "Visualizadores de imagem"
 msgstr "Beeldkijkers"
@@ -83,6 +98,9 @@ msgstr "Afbeeldingen converteren, verkleinen of comprimeren"
 
 msgid "Edição 3D e CAD"
 msgstr "3D- en CAD-bewerking"
+
+msgid "Multimídia"
+msgstr "Multimedia"
 
 msgid "Reprodutores de áudio"
 msgstr "Audio spelers"
@@ -110,6 +128,9 @@ msgstr "CD- en DVD-recorders en kopieerapparaten"
 
 msgid "Webcam, gravação de tela e transmissão de vídeo"
 msgstr "Webcam, schermopname en videostreaming"
+
+msgid "Jogos"
+msgstr "Spelletjes"
 
 msgid "Gerenciadores de jogos"
 msgstr "Spelleiders"
@@ -147,6 +168,12 @@ msgstr "Raad"
 msgid "RPG"
 msgstr "RPG"
 
+msgid "Outros"
+msgstr "Andere"
+
+msgid "Sistema"
+msgstr "Systeem"
+
 msgid "Armazenamento e partições"
 msgstr "Opslag en scheidingswanden"
 
@@ -158,6 +185,9 @@ msgstr "Java JRE"
 
 msgid "Virtualização"
 msgstr "Virtualisatie"
+
+msgid "Desenvolvimento"
+msgstr "Ontwikkeling"
 
 msgid "Editores de código e IDE"
 msgstr "Code-editors en IDE's"
@@ -173,6 +203,21 @@ msgstr "Inheemse programma's"
 
 msgid "Programas AUR"
 msgstr "AUR-programma's"
+
+msgid "Instalado na partição:"
+msgstr "Geïnstalleerd op de partitie:"
+
+msgid "Tamanho da partição:"
+msgstr "Partitiegrootte:"
+
+msgid "Espaço utilizado:"
+msgstr "Gebruikte ruimte:"
+
+msgid "Espaço livre:"
+msgstr "Vrije ruimte:"
+
+msgid "Data que o sistema foi instalado:"
+msgstr "Datum waarop het systeem werd geïnstalleerd:"
 
 msgid "Pacotes nativos e AUR"
 msgstr "Native pakketten en AUR"
@@ -208,6 +253,9 @@ msgstr "Niet op de hoogte"
 msgid "Atualizar"
 msgstr "Bijwerken"
 
+msgid "Categorias"
+msgstr "Categorieën"
+
 msgid "Versão instalada"
 msgstr "Geïnstalleerde versie"
 
@@ -216,6 +264,9 @@ msgstr "Versie beschikbaar"
 
 msgid "Versão"
 msgstr "Versie"
+
+msgid "Fechar"
+msgstr "Sluiten"
 
 msgid "Pacote .deb"
 msgstr ".deb-pakket"
@@ -226,6 +277,12 @@ msgid ""
 msgstr ""
 "Dit programma is in .deb formaat, dat de beste integratie met het systeem "
 "heeft."
+
+msgid "Mais informações"
+msgstr "Meer informatie"
+
+msgid "Voltar"
+msgstr "Terug"
 
 msgid "Dependências a instalar"
 msgstr "Te installeren afhankelijkheden"
@@ -259,6 +316,9 @@ msgstr "Beschikbare versie:"
 
 msgid "Repositório:"
 msgstr "Repository:"
+
+msgid "Cancelar"
+msgstr "Annuleren"
 
 msgid "Instalando"
 msgstr "Installeren van"
@@ -296,6 +356,9 @@ msgstr "Pakketten"
 
 msgid "Ativado"
 msgstr "Geactiveerd"
+
+msgid "Desativado"
+msgstr "Uitgeschakeld"
 
 msgid "Atualizações"
 msgstr "Updates"
@@ -413,6 +476,9 @@ msgstr ""
 "Geeft alleen geselecteerde programma's weer<br>\n"
 "en verbergt resultaten die nuttig zijn <br>\n"
 "alleen voor gevorderde gebruikers."
+
+msgid "Aplicando - Aguarde"
+msgstr "Aanvragen - Even geduld a.u.b"
 
 msgid "Procurar programa"
 msgstr "Zoekprogramma"

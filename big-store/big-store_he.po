@@ -30,6 +30,15 @@ msgstr "חנות גדולה פתוחה."
 msgid "Big-Store"
 msgstr "חנות גדולה"
 
+msgid "Instalar"
+msgstr "התקן"
+
+msgid "Remover"
+msgstr "הסר"
+
+msgid "Internet"
+msgstr "מרשתת"
+
 msgid "Navegadores"
 msgstr "נווטים"
 
@@ -57,6 +66,9 @@ msgstr "כלי רשת"
 msgid "Notícias, Feeds e RSS"
 msgstr "חדשות, הזנות ו- RSS"
 
+msgid "Escritório"
+msgstr "משרד"
+
 msgid "Suíte Office"
 msgstr "סוויטה משרדית"
 
@@ -68,6 +80,9 @@ msgstr "עורכי PDF"
 
 msgid "Agenda de tarefas e contatos"
 msgstr "לוח זמנים של משימות ויצירת קשר"
+
+msgid "Gráficos"
+msgstr "גרפיקה"
 
 msgid "Visualizadores de imagem"
 msgstr "צופי תמונה"
@@ -83,6 +98,9 @@ msgstr "המרה, שינוי גודל או דחיסת תמונות"
 
 msgid "Edição 3D e CAD"
 msgstr "עריכת תלת-ממד ו- CAD"
+
+msgid "Multimídia"
+msgstr "מולטימדיה"
 
 msgid "Reprodutores de áudio"
 msgstr "נגני אודיו"
@@ -110,6 +128,9 @@ msgstr "צורבי CD ו- DVD ומכונות צילום"
 
 msgid "Webcam, gravação de tela e transmissão de vídeo"
 msgstr "מצלמת רשת, הקלטת מסך והזרמת וידאו"
+
+msgid "Jogos"
+msgstr "משחקים"
 
 msgid "Gerenciadores de jogos"
 msgstr "מנהלי משחקים"
@@ -147,6 +168,12 @@ msgstr "מגש"
 msgid "RPG"
 msgstr "RPG"
 
+msgid "Outros"
+msgstr "אחרים"
+
+msgid "Sistema"
+msgstr "מערכת"
+
 msgid "Armazenamento e partições"
 msgstr "אחסון ומחיצות"
 
@@ -158,6 +185,9 @@ msgstr "ג'אווה ג'וניור"
 
 msgid "Virtualização"
 msgstr "וירטואליזציה"
+
+msgid "Desenvolvimento"
+msgstr "פיתוח"
 
 msgid "Editores de código e IDE"
 msgstr "עורכי קוד ו- IDE"
@@ -173,6 +203,21 @@ msgstr "תוכניות מקוריות"
 
 msgid "Programas AUR"
 msgstr "תוכניות AUR"
+
+msgid "Instalado na partição:"
+msgstr "מותקן על המחיצה:"
+
+msgid "Tamanho da partição:"
+msgstr "גודל מחיצה:"
+
+msgid "Espaço utilizado:"
+msgstr "שטח בשימוש:"
+
+msgid "Espaço livre:"
+msgstr "מקום פנוי:"
+
+msgid "Data que o sistema foi instalado:"
+msgstr "תאריך התקנת המערכת:"
 
 msgid "Pacotes nativos e AUR"
 msgstr "חבילות מקוריות ו- AUR"
@@ -207,6 +252,9 @@ msgstr "לא הודיע"
 msgid "Atualizar"
 msgstr "עדכון"
 
+msgid "Categorias"
+msgstr "קטגוריות"
+
 msgid "Versão instalada"
 msgstr "גרסה מותקנת"
 
@@ -216,6 +264,9 @@ msgstr "גרסה זמינה"
 msgid "Versão"
 msgstr "גרסה"
 
+msgid "Fechar"
+msgstr "סגור"
+
 msgid "Pacote .deb"
 msgstr ".deb חבילה"
 
@@ -223,6 +274,12 @@ msgid ""
 "Esse programa está em formato .deb, que possui a melhor integração com o "
 "sistema."
 msgstr "תוכנית זו היא בפורמט.deb, אשר יש את האינטגרציה הטובה ביותר עם המערכת."
+
+msgid "Mais informações"
+msgstr "מידע נוסף"
+
+msgid "Voltar"
+msgstr "חזור אחורה"
 
 msgid "Dependências a instalar"
 msgstr "תלות להתקנה"
@@ -256,6 +313,9 @@ msgstr "גרסה זמינה:"
 
 msgid "Repositório:"
 msgstr "מאגר:"
+
+msgid "Cancelar"
+msgstr "ביטול"
 
 msgid "Instalando"
 msgstr "התקנת"
@@ -291,6 +351,9 @@ msgstr "חבילות"
 
 msgid "Ativado"
 msgstr "מופעל"
+
+msgid "Desativado"
+msgstr "מושבת"
 
 msgid "Atualizações"
 msgstr "שִׁפּוּעַים"
@@ -406,6 +469,9 @@ msgstr ""
 "מציג רק תוכניות שנבחרו <br> \n"
 "ולהסתיר תוצאות שימושיות <br>\n"
 "משתמשים מתקדמים בלבד."
+
+msgid "Aplicando - Aguarde"
+msgstr "הגשת בקשה - אנא המתן"
 
 msgid "Procurar programa"
 msgstr "חפש תוכנית"

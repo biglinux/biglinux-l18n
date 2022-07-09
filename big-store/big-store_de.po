@@ -30,6 +30,15 @@ msgstr "Big-Store ist geöffnet."
 msgid "Big-Store"
 msgstr "Big-Store"
 
+msgid "Instalar"
+msgstr "Installieren Sie"
+
+msgid "Remover"
+msgstr "Entfernen"
+
+msgid "Internet"
+msgstr "Internet"
+
 msgid "Navegadores"
 msgstr "Browser"
 
@@ -57,6 +66,9 @@ msgstr "Netzwerk-Tools"
 msgid "Notícias, Feeds e RSS"
 msgstr "Nachrichten, Feeds und RSS"
 
+msgid "Escritório"
+msgstr "Büro"
+
 msgid "Suíte Office"
 msgstr "Office-Paket"
 
@@ -68,6 +80,9 @@ msgstr "PDF-Editoren"
 
 msgid "Agenda de tarefas e contatos"
 msgstr "Kalender mit Aufgaben und Kontakten"
+
+msgid "Gráficos"
+msgstr "Grafiken"
 
 msgid "Visualizadores de imagem"
 msgstr "Bildbetrachter"
@@ -83,6 +98,9 @@ msgstr "Bilder konvertieren, in der Größe verändern oder komprimieren"
 
 msgid "Edição 3D e CAD"
 msgstr "3D- und CAD-Bearbeitung"
+
+msgid "Multimídia"
+msgstr "Multimedia"
 
 msgid "Reprodutores de áudio"
 msgstr "Audioplayer"
@@ -110,6 +128,9 @@ msgstr "CD- und DVD-Brenner und -Kopierer"
 
 msgid "Webcam, gravação de tela e transmissão de vídeo"
 msgstr "Webcam, Bildschirmaufzeichnung und Videostreaming"
+
+msgid "Jogos"
+msgstr "Spiele"
 
 msgid "Gerenciadores de jogos"
 msgstr "Spiel-Manager"
@@ -147,6 +168,12 @@ msgstr "Vorstand"
 msgid "RPG"
 msgstr "RPG"
 
+msgid "Outros"
+msgstr "Andere"
+
+msgid "Sistema"
+msgstr "System"
+
 msgid "Armazenamento e partições"
 msgstr "Lagerung und Trennwände"
 
@@ -158,6 +185,9 @@ msgstr "Java JRE"
 
 msgid "Virtualização"
 msgstr "Virtualisierung"
+
+msgid "Desenvolvimento"
+msgstr "Entwicklung"
 
 msgid "Editores de código e IDE"
 msgstr "Code-Editoren und IDEs"
@@ -173,6 +203,21 @@ msgstr "Einheimische Programme"
 
 msgid "Programas AUR"
 msgstr "AUR-Programme"
+
+msgid "Instalado na partição:"
+msgstr "Installiert auf der Partition:"
+
+msgid "Tamanho da partição:"
+msgstr "Größe der Partition:"
+
+msgid "Espaço utilizado:"
+msgstr "Genutzter Raum:"
+
+msgid "Espaço livre:"
+msgstr "Freiraum:"
+
+msgid "Data que o sistema foi instalado:"
+msgstr "Datum, an dem das System installiert wurde:"
 
 msgid "Pacotes nativos e AUR"
 msgstr "Einheimische Pakete und AUR"
@@ -207,6 +252,9 @@ msgstr "Nicht informiert"
 msgid "Atualizar"
 msgstr "Update"
 
+msgid "Categorias"
+msgstr "Kategorien"
+
 msgid "Versão instalada"
 msgstr "Installierte Version"
 
@@ -215,6 +263,9 @@ msgstr "Version verfügbar"
 
 msgid "Versão"
 msgstr "Version"
+
+msgid "Fechar"
+msgstr "Schließen Sie"
 
 msgid "Pacote .deb"
 msgstr ".deb-Paket"
@@ -225,6 +276,12 @@ msgid ""
 msgstr ""
 "Dieses Programm liegt im .deb-Format vor, das sich am besten in das System "
 "integrieren lässt."
+
+msgid "Mais informações"
+msgstr "Weitere Informationen"
+
+msgid "Voltar"
+msgstr "Zurück"
 
 msgid "Dependências a instalar"
 msgstr "Zu installierende Abhängigkeiten"
@@ -258,6 +315,9 @@ msgstr "Version verfügbar:"
 
 msgid "Repositório:"
 msgstr "Repository:"
+
+msgid "Cancelar"
+msgstr "Abbrechen"
 
 msgid "Instalando"
 msgstr "Installation von"
@@ -295,6 +355,9 @@ msgstr "Pakete"
 
 msgid "Ativado"
 msgstr "Aktiviert"
+
+msgid "Desativado"
+msgstr "Behinderte"
 
 msgid "Atualizações"
 msgstr "Aktualisierungen"
@@ -412,6 +475,9 @@ msgstr ""
 "Zeigt nurausgewählte Programme an<br>\n"
 "und verbirgt Ergebnisse, die nützlich sind <br>\n"
 "nur für fortgeschrittene Benutzer."
+
+msgid "Aplicando - Aguarde"
+msgstr "Antragstellung - Bitte warten"
 
 msgid "Procurar programa"
 msgstr "Programm suchen"
