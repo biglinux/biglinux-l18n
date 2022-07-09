@@ -1,0 +1,307 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the biglinux-driver-manager package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: biglinux-driver-manager\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-07-09 00:55-0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: be\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "O Big-Hardware-Relatory já está em uso."
+msgstr "Big-Hardware-Relatory ужо выкарыстоўваецца."
+
+msgid "Informações sobre o Hardware"
+msgstr "Інфармацыя аб абсталяванні"
+
+msgid "Este driver é software livre."
+msgstr "Гэты драйвер бясплатная праграма."
+
+msgid "Este driver é proprietário."
+msgstr "Гэты драйвер з'яўляецца ўласнасцю."
+
+msgid "Este driver parece compatível com este computador."
+msgstr "Здаецца, гэты драйвер сумяшчальны з гэтым кампутарам."
+
+msgid "Remover"
+msgstr "Выдаліць"
+
+msgid "Instalar"
+msgstr "Ўсталяваць"
+
+msgid ""
+"Já existe outro driver nVidia instalado, para instalar este driver, remova "
+"primeiro o driver instalado."
+msgstr ""
+"Ужо ўсталяваны іншы драйвер nVidia, каб усталяваць гэты драйвер, спачатку "
+"выдаліце ўсталяваны драйвер."
+
+msgid "Desativado"
+msgstr "Адключаны"
+
+msgid "Informações de Hardware"
+msgstr "Інфармацыя аб абсталяванні"
+
+msgid "Fechar"
+msgstr ""
+
+msgid "Enviar para transfer.sh"
+msgstr "Адправіць на transfer.sh"
+
+msgid "Visualizar"
+msgstr "Для прагляду"
+
+msgid "O relatório foi salvo no arquivo:"
+msgstr "Справаздача была захавана ў файле:"
+
+msgid ""
+"Deseja visualizar o arquivo ou envia-lo ao site transfer.sh, para ter uma "
+"URL com os dados do seu computador de forma fácil de compartilhar?"
+msgstr ""
+"Вы хочаце праглядзець файл або загрузіць яго на вэб-сайт transfer.sh, каб "
+"мець URL з дадзенымі з вашага камп'ютара, якімі можна лёгка абагуліць?"
+
+msgid "Categorias"
+msgstr "Катэгорыі"
+
+msgid "Principais"
+msgstr "Галоўны"
+
+msgid "Driver detectado:"
+msgstr "Выяўлены драйвер:"
+
+msgid "<small>* A detecção não inclui impressoras e scanners</small>"
+msgstr "<small>* Выяўленне не ўключае прынтэры і сканары</small>"
+
+msgid "Placa de vídeo"
+msgstr "Відэакарта"
+
+msgid "Wifi"
+msgstr "Wi-Fi"
+
+msgid "Rede Cabeada"
+msgstr "правадная сетка"
+
+msgid "Bluetooth"
+msgstr "Bluetooth"
+
+msgid "Impressora"
+msgstr "Прынтэр"
+
+msgid "Impressora 3D"
+msgstr "3d прынтэр"
+
+msgid "Scanner"
+msgstr "сканер"
+
+msgid "TV Digital"
+msgstr "Лічбавае тэлебачанне"
+
+msgid "Webcam"
+msgstr "вэбкамера"
+
+msgid "Touchscreen"
+msgstr "Сэнсарны экран"
+
+msgid "Som"
+msgstr "Гук"
+
+msgid "Outros"
+msgstr "Іншыя"
+
+msgid "Pesquisar Driver ou Firmware"
+msgstr "Пошук драйвераў або прашыўкі"
+
+msgid "Resultado da pesquisa"
+msgstr "вынік пошуку"
+
+msgid "Big-Driver-Manager"
+msgstr "Вялікі кіроўца-менеджар"
+
+msgid "Abrir"
+msgstr ""
+
+msgid "Instalar ou Remover Drivers e Firmwares"
+msgstr "Ўстаноўка або выдаленне драйвераў і прашыўкі"
+
+msgid ""
+"Geralmente é preciso reiniciar o computador para o driver ou firmware ser "
+"aplicado."
+msgstr ""
+"Звычайна неабходна перазагрузіць кампутар, каб драйвер або прашыўка ўступілі "
+"ў сілу."
+
+msgid "Driver ou firmware"
+msgstr "Драйвер або прашыўка"
+
+msgid "Este pacote fornece arquivos compatíveis com este computador."
+msgstr "Гэты пакет змяшчае файлы, сумяшчальныя з гэтым камп'ютарам."
+
+msgid "Concluído, reinicie o computador para ativar a configuração do driver."
+msgstr "Завершана, перазагрузіце кампутар, каб актываваць наладу драйвера."
+
+msgid "Driver"
+msgstr "кіроўца"
+
+msgid "Ocorreu um erro e o driver não pode ser aplicado."
+msgstr "Адбылася памылка, і драйвер нельга ўжыць."
+
+msgid "Enviando, aguarde..."
+msgstr "Адпраўка, пачакайце..."
+
+msgid "Ver informações do dispositivo no Linux Hardware"
+msgstr "Прагляд інфармацыі аб прыладзе ў Linux Hardware"
+
+msgid "Processador"
+msgstr "Працэсар"
+
+msgid "Placa mãe"
+msgstr "Матчына плата"
+
+msgid "Memória"
+msgstr "Памяць"
+
+msgid "Swap (Memória Virtual)"
+msgstr "Памяняць месцамі (віртуальная памяць)"
+
+msgid "Áudio"
+msgstr "аўдыё"
+
+msgid "Rede"
+msgstr "Сетка"
+
+msgid "Conexões de Rede"
+msgstr "Сеткавыя злучэнні"
+
+msgid "Dispositivos e conexões USB"
+msgstr "USB-прылады і злучэнні"
+
+msgid "Portas PCI"
+msgstr "парты PCI"
+
+msgid "Bateria"
+msgstr "Барабаны"
+
+msgid "Dispositivos de Armazenamento"
+msgstr "Запамінальныя прылады"
+
+msgid "Partições montadas"
+msgstr "змантаваныя перагародкі"
+
+msgid "Partições desmontadas"
+msgstr "размантаваныя раздзелы"
+
+msgid "Dispositivos lógicos"
+msgstr "лагічныя прылады"
+
+msgid "Raid"
+msgstr "налёт"
+
+msgid "Sistema"
+msgstr "Сістэма"
+
+msgid "Informações de Sistema"
+msgstr "Інфармацыя аб сістэме"
+
+msgid "Repositórios"
+msgstr "сховішчы"
+
+msgid "Temperatura"
+msgstr "Тэмпература"
+
+msgid "Resumo"
+msgstr "Рэзюмэ"
+
+msgid "Usb"
+msgstr "USB"
+
+msgid "Pci"
+msgstr "PCI"
+
+msgid "Armazenamento"
+msgstr "Захоўванне"
+
+msgid "Mais informações"
+msgstr "Больш інфармацыі"
+
+msgid "Hardware"
+msgstr ""
+
+msgid "Pesquisar"
+msgstr "Пошук"
+
+msgid "Informações Sobre o Sistema e o Hardware"
+msgstr "Інфармацыя пра сістэму і абсталяванне"
+
+msgid "Memória RAM:"
+msgstr "Аператыўная памяць:"
+
+msgid "Vídeo:"
+msgstr "Відэа:"
+
+msgid "Instalado na partição:"
+msgstr "Усталявана на раздзел:"
+
+msgid "Tamanho da partição:"
+msgstr "Памер падзелу:"
+
+msgid "Espaço utilizado:"
+msgstr "Выкарыстанае месца:"
+
+msgid "Espaço livre:"
+msgstr "Вольная прастора:"
+
+msgid "Data que o sistema foi instalado:"
+msgstr "Дата ўстаноўкі сістэмы:"
+
+msgid "Kernel em uso:"
+msgstr "Ядро ў выкарыстанні:"
+
+msgid "Instalar ou Remover Drivers"
+msgstr "Ўстаноўка або выдаленне драйвераў"
+
+msgid ""
+"O BigLinux inclui milhares de drivers e firmwares por padrão, porém ainda "
+"pode ser necessário instalar mais alguns."
+msgstr ""
+"BigLinux па змаўчанні ўключае тысячы драйвераў і прашыўкі, але вам усё роўна "
+"спатрэбіцца ўсталяваць яшчэ некалькі."
+
+msgid "Gerar Relatório"
+msgstr "Стварыць справаздачу"
+
+msgid "Cria um arquivo com informações que pode ser publicado na internet."
+msgstr "Стварае файл з інфармацыяй, якую можна апублікаваць у Інтэрнэце."
+
+msgid "Categoria"
+msgstr "Катэгорыя"
+
+msgid "Nome"
+msgstr ""
+
+msgid "ID"
+msgstr "ID"
+
+msgid "Info"
+msgstr "інфармацыя"
+
+msgid ""
+"Digite sua senha para gerar um relatório removendo dados sensíveis, por "
+"exemplo, endereço de IP, ou cancele para utilizar as informações da tela "
+"anterior."
+msgstr ""
+"Увядзіце свой пароль, каб стварыць справаздачу аб выдаленні канфідэнцыяльных "
+"даных, напрыклад, IP-адрас, або адмяніце, каб выкарыстоўваць інфармацыю з "
+"папярэдняга экрана."
+
+msgid "Digite sua senha para gerar um relatório mais completo."
+msgstr "Увядзіце свой пароль, каб стварыць больш поўную справаздачу."

@@ -1,0 +1,70 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the tts-biglinux package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: tts-biglinux\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-07-09 00:55-0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: tr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Configurações de texto para voz"
+msgstr "Metinden konuşmaya ayarları"
+
+msgid "Vozes - Abrir BigStore"
+msgstr "Sesler - BigStore'u Açın"
+
+msgid "Voice Configuration"
+msgstr "Ses Yapılandırması"
+
+msgid "Configurar voz"
+msgstr "Ses yapılandırma"
+
+msgid "Para falar um texto selecionado use o atalho "
+msgstr "Seçilen bir metni konuşmak için kısayolu kullanın "
+
+msgid "[Alt] + [V]"
+msgstr "[Alt] + [V]"
+
+msgid ""
+"ou o ícone na sessão Utilitários no menu do sistema. Para interromper a "
+"leitura use novamene o atalho ou ícone."
+msgstr ""
+"veya sistem menüsünün Yardımcı Programlar bölümündeki simgesini seçin. "
+"Okumayı durdurmak için kısayolu veya simgeyi tekrar kullanın."
+
+msgid "Selecione as configurações de sua preferência"
+msgstr "Tercih ettiğiniz ayarları seçin"
+
+msgid "Números maiores deixam a voz mais rápida, o padrão é: -25"
+msgstr "Daha büyük sayılar sesi daha hızlı hale getirir, varsayılan değer: -25"
+
+msgid "Velocidade"
+msgstr "Hız"
+
+msgid "Números maiores deixam a voz mais aguda, o padrão é: -25"
+msgstr "Daha yüksek sayılar sesi daha yüksek yapar, standart: -25"
+
+msgid "Tom"
+msgstr "Tom"
+
+msgid "O padrão é: 0."
+msgstr "Varsayılan değer: 0'dır."
+
+msgid "Volume"
+msgstr "Cilt"
+
+msgid "As vozes são otimizadas para idiomas expecíficos."
+msgstr "Sesler belirli diller için optimize edilmiştir."
+
+msgid "Voz"
+msgstr "Ses"

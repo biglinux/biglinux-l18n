@@ -1,0 +1,70 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the tts-biglinux package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: tts-biglinux\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-07-09 00:55-0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: uk\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "Configurações de texto para voz"
+msgstr "Параметри синтезу мовлення з тексту"
+
+msgid "Vozes - Abrir BigStore"
+msgstr "Голоси - Відкрити BigStore"
+
+msgid "Voice Configuration"
+msgstr "Налаштування голосу"
+
+msgid "Configurar voz"
+msgstr "Налаштування голосу"
+
+msgid "Para falar um texto selecionado use o atalho "
+msgstr "Щоб промовити виділений текст, скористайтеся ярликом"
+
+msgid "[Alt] + [V]"
+msgstr "[Alt] + [V]"
+
+msgid ""
+"ou o ícone na sessão Utilitários no menu do sistema. Para interromper a "
+"leitura use novamene o atalho ou ícone."
+msgstr ""
+"або іконку в розділі Службові програми системного меню. Щоб припинити "
+"читання, знову скористайтеся ярликом або піктограмою."
+
+msgid "Selecione as configurações de sua preferência"
+msgstr "Виберіть бажані налаштування"
+
+msgid "Números maiores deixam a voz mais rápida, o padrão é: -25"
+msgstr "Більш високі цифри роблять голос швидшим, за замовчуванням: -25"
+
+msgid "Velocidade"
+msgstr "Швидкість"
+
+msgid "Números maiores deixam a voz mais aguda, o padrão é: -25"
+msgstr "Більші цифри підвищують голос, за замовчуванням: -25"
+
+msgid "Tom"
+msgstr "Тон"
+
+msgid "O padrão é: 0."
+msgstr "За замовчуванням: 0."
+
+msgid "Volume"
+msgstr "Обсяг"
+
+msgid "As vozes são otimizadas para idiomas expecíficos."
+msgstr "Голоси оптимізовані для певних мов."
+
+msgid "Voz"
+msgstr "Голос"

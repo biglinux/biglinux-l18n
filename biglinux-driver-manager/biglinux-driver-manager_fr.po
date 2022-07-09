@@ -1,0 +1,312 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the biglinux-driver-manager package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: biglinux-driver-manager\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-07-09 00:55-0300\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+msgid "O Big-Hardware-Relatory já está em uso."
+msgstr "Le Gros Matériel-Relatif est déjà utilisé."
+
+msgid "Informações sobre o Hardware"
+msgstr "Informations sur le matériel"
+
+msgid "Este driver é software livre."
+msgstr "Ce pilote est un logiciel gratuit."
+
+msgid "Este driver é proprietário."
+msgstr "Ce pilote est propriétaire."
+
+msgid "Este driver parece compatível com este computador."
+msgstr "Ce pilote semble être compatible avec cet ordinateur."
+
+msgid "Remover"
+msgstr "Retirer"
+
+msgid "Instalar"
+msgstr "Installer"
+
+msgid ""
+"Já existe outro driver nVidia instalado, para instalar este driver, remova "
+"primeiro o driver instalado."
+msgstr ""
+"Un autre pilote nVidia est déjà installé, pour installer ce pilote, "
+"supprimez d'abord le pilote installé."
+
+msgid "Desativado"
+msgstr "Handicapés"
+
+msgid "Informações de Hardware"
+msgstr "Informations sur le matériel"
+
+msgid "Fechar"
+msgstr ""
+
+msgid "Enviar para transfer.sh"
+msgstr "Envoyer à transfer.sh"
+
+msgid "Visualizar"
+msgstr "Voir"
+
+msgid "O relatório foi salvo no arquivo:"
+msgstr "Le rapport a été enregistré dans les archives :"
+
+msgid ""
+"Deseja visualizar o arquivo ou envia-lo ao site transfer.sh, para ter uma "
+"URL com os dados do seu computador de forma fácil de compartilhar?"
+msgstr ""
+"Voulez-vous voir le fichier ou l'envoyer à transfer.sh, pour avoir une URL "
+"avec les données de votre ordinateur d'une manière facile à partager ?"
+
+msgid "Categorias"
+msgstr "Catégories"
+
+msgid "Principais"
+msgstr "Principal"
+
+msgid "Driver detectado:"
+msgstr "Conducteur détecté :"
+
+msgid "<small>* A detecção não inclui impressoras e scanners</small>"
+msgstr ""
+"<small>* La détection n'inclut pas les imprimantes et les scanners</small>"
+
+msgid "Placa de vídeo"
+msgstr "Carte vidéo"
+
+msgid "Wifi"
+msgstr "Wifi"
+
+msgid "Rede Cabeada"
+msgstr "Réseau câblé"
+
+msgid "Bluetooth"
+msgstr "Bluetooth"
+
+msgid "Impressora"
+msgstr "Imprimante"
+
+msgid "Impressora 3D"
+msgstr "Imprimante 3D"
+
+msgid "Scanner"
+msgstr "Scanner"
+
+msgid "TV Digital"
+msgstr "Télévision numérique"
+
+msgid "Webcam"
+msgstr "Webcam"
+
+msgid "Touchscreen"
+msgstr "Écran tactile"
+
+msgid "Som"
+msgstr "Son"
+
+msgid "Outros"
+msgstr "Autre"
+
+msgid "Pesquisar Driver ou Firmware"
+msgstr "Rechercher un pilote ou un micrologiciel"
+
+msgid "Resultado da pesquisa"
+msgstr "Résultat de la recherche"
+
+msgid "Big-Driver-Manager"
+msgstr "Big-Driver-Manager"
+
+msgid "Abrir"
+msgstr ""
+
+msgid "Instalar ou Remover Drivers e Firmwares"
+msgstr "Installer ou supprimer des pilotes et des micrologiciels"
+
+msgid ""
+"Geralmente é preciso reiniciar o computador para o driver ou firmware ser "
+"aplicado."
+msgstr ""
+"Il est généralement nécessaire de redémarrer l'ordinateur pour que le pilote "
+"ou le micrologiciel soit appliqué."
+
+msgid "Driver ou firmware"
+msgstr "Pilote ou micrologiciel"
+
+msgid "Este pacote fornece arquivos compatíveis com este computador."
+msgstr "Ce paquet fournit des fichiers compatibles avec cet ordinateur."
+
+msgid "Concluído, reinicie o computador para ativar a configuração do driver."
+msgstr ""
+"Une fois terminé, redémarrez votre ordinateur pour activer la configuration "
+"du pilote."
+
+msgid "Driver"
+msgstr "Conducteur"
+
+msgid "Ocorreu um erro e o driver não pode ser aplicado."
+msgstr "Une erreur s'est produite et le pilote ne peut pas être appliqué."
+
+msgid "Enviando, aguarde..."
+msgstr "Envoi, veuillez patienter..."
+
+msgid "Ver informações do dispositivo no Linux Hardware"
+msgstr "Afficher les informations sur le matériel Linux"
+
+msgid "Processador"
+msgstr "Processeur"
+
+msgid "Placa mãe"
+msgstr "Carte mère"
+
+msgid "Memória"
+msgstr "Mémoire"
+
+msgid "Swap (Memória Virtual)"
+msgstr "Swap (mémoire virtuelle)"
+
+msgid "Áudio"
+msgstr "Audio"
+
+msgid "Rede"
+msgstr "Réseau"
+
+msgid "Conexões de Rede"
+msgstr "Connexions réseau"
+
+msgid "Dispositivos e conexões USB"
+msgstr "Dispositifs et connexions USB"
+
+msgid "Portas PCI"
+msgstr "Ports PCI"
+
+msgid "Bateria"
+msgstr "Batterie"
+
+msgid "Dispositivos de Armazenamento"
+msgstr "Périphériques de stockage"
+
+msgid "Partições montadas"
+msgstr "Cloisons montées"
+
+msgid "Partições desmontadas"
+msgstr "Cloisons démantelées"
+
+msgid "Dispositivos lógicos"
+msgstr "Dispositifs logiques"
+
+msgid "Raid"
+msgstr "Raid"
+
+msgid "Sistema"
+msgstr "Système"
+
+msgid "Informações de Sistema"
+msgstr "Informations sur le système"
+
+msgid "Repositórios"
+msgstr "Dépôts"
+
+msgid "Temperatura"
+msgstr "Température"
+
+msgid "Resumo"
+msgstr "Résumé"
+
+msgid "Usb"
+msgstr "Usb"
+
+msgid "Pci"
+msgstr "Pci"
+
+msgid "Armazenamento"
+msgstr "Stockage"
+
+msgid "Mais informações"
+msgstr "Plus d'informations"
+
+msgid "Hardware"
+msgstr ""
+
+msgid "Pesquisar"
+msgstr "Recherche"
+
+msgid "Informações Sobre o Sistema e o Hardware"
+msgstr "Informations sur le système et le matériel"
+
+msgid "Memória RAM:"
+msgstr "Mémoire vive :"
+
+msgid "Vídeo:"
+msgstr "Vidéo:"
+
+msgid "Instalado na partição:"
+msgstr "Installé sur la partition :"
+
+msgid "Tamanho da partição:"
+msgstr "Taille de la partition :"
+
+msgid "Espaço utilizado:"
+msgstr "Espace utilisé :"
+
+msgid "Espaço livre:"
+msgstr "Espace libre :"
+
+msgid "Data que o sistema foi instalado:"
+msgstr "Date à laquelle le système a été installé :"
+
+msgid "Kernel em uso:"
+msgstr "Noyau utilisé :"
+
+msgid "Instalar ou Remover Drivers"
+msgstr "Installer ou supprimer des pilotes"
+
+msgid ""
+"O BigLinux inclui milhares de drivers e firmwares por padrão, porém ainda "
+"pode ser necessário instalar mais alguns."
+msgstr ""
+"BigLinux inclut des milliers de pilotes et de micrologiciels par défaut, "
+"mais vous devrez peut-être en installer d'autres."
+
+msgid "Gerar Relatório"
+msgstr "Générer un rapport"
+
+msgid "Cria um arquivo com informações que pode ser publicado na internet."
+msgstr ""
+"Crée un fichier contenant des informations pouvant être publiées sur "
+"Internet."
+
+msgid "Categoria"
+msgstr "Catégorie"
+
+msgid "Nome"
+msgstr ""
+
+msgid "ID"
+msgstr "ID"
+
+msgid "Info"
+msgstr "Info"
+
+msgid ""
+"Digite sua senha para gerar um relatório removendo dados sensíveis, por "
+"exemplo, endereço de IP, ou cancele para utilizar as informações da tela "
+"anterior."
+msgstr ""
+"Saisissez votre mot de passe pour générer un rapport supprimant les données "
+"sensibles, par exemple l'adresse IP, ou annulez pour utiliser les "
+"informations de l'écran précédent."
+
+msgid "Digite sua senha para gerar um relatório mais completo."
+msgstr "Saisissez votre mot de passe pour générer un rapport plus complet."
