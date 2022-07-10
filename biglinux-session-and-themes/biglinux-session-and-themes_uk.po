@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: biglinux-session-and-themes\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-07-09 17:30-0300\n"
+"POT-Creation-Date: 2022-07-10 14:09-0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -97,7 +97,8 @@ msgstr ""
 "Ця тема містить прозорі плівки з ефектами, які<br>можуть уповільнити роботу "
 "системи на старих<br>комп’ютерах або віртуалізованих середовищах."
 
-msgid "<b>Classic</b> e <b>New</b> têm melhor desempenho."
+#, fuzzy
+msgid "<b>Classic</b>, <b>New</b> e <b>Modern</b> têm melhor desempenho."
 msgstr "<b> Класичний </b> і <b> Новий </b> працюють краще."
 
 msgid "Renderizar o desktop via software"

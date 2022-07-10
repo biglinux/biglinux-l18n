@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: biglinux-livecd\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-07-09 17:30-0300\n"
+"POT-Creation-Date: 2022-07-10 14:09-0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -16,6 +16,18 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+
+msgid "Escolha o modelo do teclado:"
+msgstr "Επιλέξτε το μοντέλο του πληκτρολογίου σας:"
+
+msgid "Escolha o tema dos aplicativos:"
+msgstr "Επιλέξτε το θέμα των εφαρμογών:"
+
+msgid ""
+"Utilizando renderização por software, a qualidade das transparências será "
+"reduzida."
+msgstr ""
+"Χρησιμοποιώντας λογισμικό απόδοσης, η ποιότητα των διαφανειών θα μειωθεί."
 
 msgid "Desempenho"
 msgstr "Επιδόσεις"
@@ -56,15 +68,3 @@ msgstr "αποδίδουν καλύτερα."
 
 msgid "e"
 msgstr "e"
-
-msgid "Escolha o modelo do teclado:"
-msgstr "Επιλέξτε το μοντέλο του πληκτρολογίου σας:"
-
-msgid "Escolha o tema dos aplicativos:"
-msgstr "Επιλέξτε το θέμα των εφαρμογών:"
-
-msgid ""
-"Utilizando renderização por software, a qualidade das transparências será "
-"reduzida."
-msgstr ""
-"Χρησιμοποιώντας λογισμικό απόδοσης, η ποιότητα των διαφανειών θα μειωθεί."

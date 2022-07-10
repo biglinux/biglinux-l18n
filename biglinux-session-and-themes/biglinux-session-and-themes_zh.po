@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: biglinux-session-and-themes\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-07-09 17:30-0300\n"
+"POT-Creation-Date: 2022-07-10 14:09-0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -96,7 +96,8 @@ msgid ""
 msgstr ""
 "此主題具有透明效果，<br>可能會降低舊<br>計算機或虛擬化環境中的系統速度。"
 
-msgid "<b>Classic</b> e <b>New</b> têm melhor desempenho."
+#, fuzzy
+msgid "<b>Classic</b>, <b>New</b> e <b>Modern</b> têm melhor desempenho."
 msgstr "<b>经典</b>和<b>新版</b>有更好的性能。"
 
 msgid "Renderizar o desktop via software"

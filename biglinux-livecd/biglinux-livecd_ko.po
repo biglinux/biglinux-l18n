@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: biglinux-livecd\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-07-09 17:30-0300\n"
+"POT-Creation-Date: 2022-07-10 14:09-0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -16,6 +16,17 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+
+msgid "Escolha o modelo do teclado:"
+msgstr "키보드 모델을 선택합니다."
+
+msgid "Escolha o tema dos aplicativos:"
+msgstr "앱의 테마를 선택합니다."
+
+msgid ""
+"Utilizando renderização por software, a qualidade das transparências será "
+"reduzida."
+msgstr "소프트웨어 렌더링을 사용하면 투명도의 품질이 저하됩니다."
 
 msgid "Desempenho"
 msgstr "퍼포먼스"
@@ -53,14 +64,3 @@ msgstr "더 잘 수행합니다."
 
 msgid "e"
 msgstr "과"
-
-msgid "Escolha o modelo do teclado:"
-msgstr "키보드 모델을 선택합니다."
-
-msgid "Escolha o tema dos aplicativos:"
-msgstr "앱의 테마를 선택합니다."
-
-msgid ""
-"Utilizando renderização por software, a qualidade das transparências será "
-"reduzida."
-msgstr "소프트웨어 렌더링을 사용하면 투명도의 품질이 저하됩니다."

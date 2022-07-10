@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: biglinux-livecd\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-07-09 17:30-0300\n"
+"POT-Creation-Date: 2022-07-10 14:09-0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -16,6 +16,17 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+
+msgid "Escolha o modelo do teclado:"
+msgstr "Wählen Sie Ihr Tastaturmodell:"
+
+msgid "Escolha o tema dos aplicativos:"
+msgstr "Wählen Sie das Thema der Anwendungen:"
+
+msgid ""
+"Utilizando renderização por software, a qualidade das transparências será "
+"reduzida."
+msgstr "Beim Software-Rendering wird die Qualität der Transparenzen reduziert."
 
 msgid "Desempenho"
 msgstr "Leistung"
@@ -55,14 +66,3 @@ msgstr "bessere Leistung haben."
 
 msgid "e"
 msgstr "und"
-
-msgid "Escolha o modelo do teclado:"
-msgstr "Wählen Sie Ihr Tastaturmodell:"
-
-msgid "Escolha o tema dos aplicativos:"
-msgstr "Wählen Sie das Thema der Anwendungen:"
-
-msgid ""
-"Utilizando renderização por software, a qualidade das transparências será "
-"reduzida."
-msgstr "Beim Software-Rendering wird die Qualität der Transparenzen reduziert."
