@@ -2,20 +2,20 @@
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the biglinux-session-and-themes package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
+# 
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: biglinux-session-and-themes\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-07-10 14:09-0300\n"
+"POT-Creation-Date: 2022-07-09 04:17-0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: fr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit\n"
+"Content-Transfer-Encoding: 8bit"
 
 msgid "Temas, Desktop e Ajustes"
 msgstr "Thèmes, bureau et paramètres"
@@ -99,15 +99,20 @@ msgstr ""
 "Ce thème comporte des transparences avec des effets qui peuvent<br>ralentir "
 "le système sur les vieux ordinateurs<br>ou les environnements virtualisés."
 
-#, fuzzy
 msgid "<b>Classic</b>, <b>New</b> e <b>Modern</b> têm melhor desempenho."
+msgstr ""
+"<b>Classique</b>, <b>Nouveau</b> et <b>Moderne</b> sont les plus performants."
+""
+
+msgid "<b>Classic</b> e <b>New</b> têm melhor desempenho."
 msgstr "<b>Classic</b> et <b>New</b> ont de meilleures performances."
 
 msgid "Renderizar o desktop via software"
 msgstr "Rendre le bureau par logiciel"
 
 msgid "(Pode ser útil em máquina virtual ou computadores antigos)"
-msgstr "(Peut être utile sur les machines virtuelles ou les vieux ordinateurs)"
+msgstr ""
+"(Peut être utile sur les machines virtuelles ou les vieux ordinateurs)"
 
 msgid "Escolher programas a serem carregados na memória durante boot"
 msgstr "Choisir les programmes à charger en mémoire au moment du démarrage"
@@ -117,8 +122,8 @@ msgid ""
 "rapidamente. O uso excessivo causa lentidão. Escolha a opção desejada:"
 msgstr ""
 "Preload charge les fichiers du programme dans la mémoire pour qu'ils "
-"démarrent rapidement. Une utilisation excessive entraîne des "
-"ralentissements. Choisissez l'option souhaitée :"
+"démarrent rapidement. Une utilisation excessive entraîne des ralentissements."
+" Choisissez l'option souhaitée :"
 
 msgid "Automático"
 msgstr "Automatique"
