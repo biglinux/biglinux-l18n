@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: bigcontrolcenter\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-07-10 14:09-0300\n"
+"POT-Creation-Date: 2022-07-23 19:21-0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -437,6 +437,9 @@ msgstr "Skjerminnstillingene er tilbakestilt."
 msgid "Configurações da tela"
 msgstr "Skjerminnstillinger"
 
+msgid "Aguarde, criando arquivos de cache..."
+msgstr "Vennligst vent, lage cache-filer..."
+
 msgid "Categorias"
 msgstr "Kategorier"
 
@@ -696,9 +699,6 @@ msgstr ""
 "Snapdrop kan brukes på hvilken som helst smarttelefon eller datamaskin, "
 "inkludert overføring av filer direkte fra en smarttelefon til en annen. Du "
 "kan også bruke vår webappbehandling for å lette bruken av dette nettstedet."
-
-msgid "Aguarde, criando arquivos de cache..."
-msgstr "Vennligst vent, lage cache-filer..."
 
 msgid "Maximizado"
 msgstr "Maksimeres"

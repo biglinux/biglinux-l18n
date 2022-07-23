@@ -2,20 +2,20 @@
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the biglinux-session-and-themes package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-# 
+#
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: biglinux-session-and-themes\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-07-09 04:17-0300\n"
+"POT-Creation-Date: 2022-07-23 19:21-0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: be\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit"
+"Content-Transfer-Encoding: 8bit\n"
 
 msgid "Temas, Desktop e Ajustes"
 msgstr "Тэмы, працоўны стол і налады"
@@ -61,6 +61,9 @@ msgstr "Прадукцыйнасць у аптымізаваным рэжыме!
 msgid "Desempenho em modo performance!"
 msgstr "Прадукцыйнасць у рэжыме прадукцыйнасці!"
 
+msgid "Aplicando, aguarde o termino."
+msgstr ""
+
 msgid "Temas"
 msgstr "тэмы"
 
@@ -98,14 +101,13 @@ msgstr ""
 msgid "<b>Classic</b>, <b>New</b> e <b>Modern</b> têm melhor desempenho."
 msgstr "<b>Класічны</b> , <b>новы</b> і <b>сучасны</b> працуюць лепш."
 
-msgid "<b>Classic</b> e <b>New</b> têm melhor desempenho."
-msgstr "<b>Класіка</b> і <b>новае</b> працуюць лепш."
-
 msgid "Renderizar o desktop via software"
 msgstr "Рэндэрынг працоўнага стала праз праграмнае забеспячэнне"
 
-msgid "(Pode ser útil em máquina virtual ou computadores antigos)"
-msgstr "(Можа быць карысным на віртуальнай машыне або старых кампутарах)"
+msgid ""
+"(Pode ser útil em computadores antigos, porém alguns programas param de "
+"funcionar)"
+msgstr ""
 
 msgid "Escolher programas a serem carregados na memória durante boot"
 msgstr "Выберыце праграмы для загрузкі ў памяць пры загрузцы"
@@ -148,7 +150,8 @@ msgstr "Перавернутая пракрутка мышы"
 msgid "Pesquisar arquivos"
 msgstr "пошук файлаў"
 
-msgid "Bloquear a área de trabalho"
+#, fuzzy
+msgid "Bloquear a edição da área de trabalho"
 msgstr "Блакаванне працоўнай прасторы"
 
 msgid "Ocultar Gerenciador de Boot (GRUB)"
@@ -196,3 +199,9 @@ msgid ""
 "Utilizando renderização por software, a qualidade das transparências está "
 "reduzida."
 msgstr "З дапамогай праграмнага рэндэрынгу якасць транспарантаў зніжаецца."
+
+#~ msgid "<b>Classic</b> e <b>New</b> têm melhor desempenho."
+#~ msgstr "<b>Класіка</b> і <b>новае</b> працуюць лепш."
+
+#~ msgid "(Pode ser útil em máquina virtual ou computadores antigos)"
+#~ msgstr "(Можа быць карысным на віртуальнай машыне або старых кампутарах)"

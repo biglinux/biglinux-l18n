@@ -7,7 +7,7 @@
 msgid   ""
 msgstr  "Project-Id-Version: biglinux-session-and-themes\n"
         "Report-Msgid-Bugs-To: \n"
-        "POT-Creation-Date: 2022-07-10 14:09-0300\n"
+        "POT-Creation-Date: 2022-07-23 19:21-0300\n"
         "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
         "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
         "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -50,6 +50,9 @@ msgstr  ""
 msgid   "Desempenho em modo performance!"
 msgstr  ""
 
+msgid   "Aplicando, aguarde o termino."
+msgstr  ""
+
 msgid   "Temas"
 msgstr  ""
 
@@ -87,7 +90,8 @@ msgstr  ""
 msgid   "Renderizar o desktop via software"
 msgstr  ""
 
-msgid   "(Pode ser útil em máquina virtual ou computadores antigos)"
+msgid   "(Pode ser útil em computadores antigos, porém alguns programas param "
+        "de funcionar)"
 msgstr  ""
 
 msgid   "Escolher programas a serem carregados na memória durante boot"
@@ -128,7 +132,7 @@ msgstr  ""
 msgid   "Pesquisar arquivos"
 msgstr  ""
 
-msgid   "Bloquear a área de trabalho"
+msgid   "Bloquear a edição da área de trabalho"
 msgstr  ""
 
 msgid   "Ocultar Gerenciador de Boot (GRUB)"

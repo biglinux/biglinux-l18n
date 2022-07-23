@@ -2,20 +2,20 @@
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the biglinux-session-and-themes package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-# 
+#
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: biglinux-session-and-themes\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-07-09 04:17-0300\n"
+"POT-Creation-Date: 2022-07-23 19:21-0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: en\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit"
+"Content-Transfer-Encoding: 8bit\n"
 
 msgid "Temas, Desktop e Ajustes"
 msgstr "Themes, Desktop and Settings"
@@ -65,6 +65,9 @@ msgstr "Performance in enhanced mode!"
 msgid "Desempenho em modo performance!"
 msgstr "Performance in performance mode!"
 
+msgid "Aplicando, aguarde o termino."
+msgstr ""
+
 msgid "Temas"
 msgstr "Themes"
 
@@ -102,14 +105,13 @@ msgstr ""
 msgid "<b>Classic</b>, <b>New</b> e <b>Modern</b> têm melhor desempenho."
 msgstr "<b>Classic</b>, <b>New</b> and <b>Modern</b> perform best."
 
-msgid "<b>Classic</b> e <b>New</b> têm melhor desempenho."
-msgstr "<b>Classic</b> and <b>New</b> have better performance."
-
 msgid "Renderizar o desktop via software"
 msgstr "Rendering the desktop via software"
 
-msgid "(Pode ser útil em máquina virtual ou computadores antigos)"
-msgstr "(Can be useful on virtual machine or older computers)"
+msgid ""
+"(Pode ser útil em computadores antigos, porém alguns programas param de "
+"funcionar)"
+msgstr ""
 
 msgid "Escolher programas a serem carregados na memória durante boot"
 msgstr "Choosing programs to load into memory during boot"
@@ -151,7 +153,8 @@ msgstr "Mouse scrolling inverted"
 msgid "Pesquisar arquivos"
 msgstr "Search archives"
 
-msgid "Bloquear a área de trabalho"
+#, fuzzy
+msgid "Bloquear a edição da área de trabalho"
 msgstr "Lock the desktop"
 
 msgid "Ocultar Gerenciador de Boot (GRUB)"
@@ -199,3 +202,9 @@ msgid ""
 "Utilizando renderização por software, a qualidade das transparências está "
 "reduzida."
 msgstr "Using software rendering, the quality of transparencies is reduced."
+
+#~ msgid "<b>Classic</b> e <b>New</b> têm melhor desempenho."
+#~ msgstr "<b>Classic</b> and <b>New</b> have better performance."
+
+#~ msgid "(Pode ser útil em máquina virtual ou computadores antigos)"
+#~ msgstr "(Can be useful on virtual machine or older computers)"

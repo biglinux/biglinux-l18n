@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: biglinux-driver-manager\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-07-10 14:09-0300\n"
+"POT-Creation-Date: 2022-07-23 19:21-0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -87,72 +87,6 @@ msgstr "Hiba történt, és az illesztőprogram nem alkalmazható."
 msgid "Enviando, aguarde..."
 msgstr "Küldés, kérem várjon..."
 
-msgid "Ver informações do dispositivo no Linux Hardware"
-msgstr "Eszközinformációk megtekintése a Linux Hardveren"
-
-msgid "Processador"
-msgstr "Processzor"
-
-msgid "Placa mãe"
-msgstr "Alaplap"
-
-msgid "Memória"
-msgstr "Memória"
-
-msgid "Swap (Memória Virtual)"
-msgstr "Swap (virtuális memória)"
-
-msgid "Placa de vídeo"
-msgstr "Videokártya"
-
-msgid "Áudio"
-msgstr "Audio"
-
-msgid "Rede"
-msgstr "Hálózat"
-
-msgid "Conexões de Rede"
-msgstr "Hálózati kapcsolatok"
-
-msgid "Dispositivos e conexões USB"
-msgstr "USB eszközök és csatlakozások"
-
-msgid "Portas PCI"
-msgstr "PCI portok"
-
-msgid "Bateria"
-msgstr "Akkumulátor"
-
-msgid "Dispositivos de Armazenamento"
-msgstr "Tárolóeszközök"
-
-msgid "Partições montadas"
-msgstr "Szerelt partíciók"
-
-msgid "Partições desmontadas"
-msgstr "Szétszerelt válaszfalak"
-
-msgid "Dispositivos lógicos"
-msgstr "Logikai eszközök"
-
-msgid "Raid"
-msgstr "Raid"
-
-msgid "Sistema"
-msgstr "Rendszer"
-
-msgid "Informações de Sistema"
-msgstr "Rendszerinformáció"
-
-msgid "Repositórios"
-msgstr "Tárházak"
-
-msgid "Bluetooth"
-msgstr "Bluetooth"
-
-msgid "Temperatura"
-msgstr "Hőmérséklet"
-
 msgid ""
 "Digite sua senha para gerar um relatório removendo dados sensíveis, por "
 "exemplo, endereço de IP, ou cancele para utilizar as informações da tela "
@@ -174,17 +108,47 @@ msgstr "Főoldal"
 msgid "Resumo"
 msgstr "Összefoglaló"
 
+msgid "Processador"
+msgstr "Processzor"
+
+msgid "Placa de vídeo"
+msgstr "Videokártya"
+
+msgid "Placa mãe"
+msgstr "Alaplap"
+
+msgid "Memória"
+msgstr "Memória"
+
+msgid "Rede"
+msgstr "Hálózat"
+
 msgid "Usb"
 msgstr "Usb"
 
 msgid "Pci"
 msgstr "Pci"
 
+msgid "Bateria"
+msgstr "Akkumulátor"
+
 msgid "Armazenamento"
 msgstr "Tárolás"
 
+msgid "Sistema"
+msgstr "Rendszer"
+
+msgid "Bluetooth"
+msgstr "Bluetooth"
+
+msgid "Temperatura"
+msgstr "Hőmérséklet"
+
 msgid "Impressora"
 msgstr "Nyomtató"
+
+msgid "Áudio"
+msgstr "Audio"
 
 msgid "Mais informações"
 msgstr "További információ"
@@ -245,6 +209,9 @@ msgid "Cria um arquivo com informações que pode ser publicado na internet."
 msgstr ""
 "Olyan fájlt hoz létre, amely az interneten közzétehető információkat "
 "tartalmaz."
+
+msgid "Ver informações do dispositivo no Linux Hardware"
+msgstr "Eszközinformációk megtekintése a Linux Hardveren"
 
 msgid "Categoria"
 msgstr "Kategória"
@@ -316,3 +283,36 @@ msgstr "Jelentkezés - Kérjük, várjon"
 
 msgid "Este pacote fornece arquivos compatíveis com este computador."
 msgstr "Ez a csomag az adott számítógéppel kompatibilis fájlokat tartalmaz."
+
+msgid "Swap (Memória Virtual)"
+msgstr "Swap (virtuális memória)"
+
+msgid "Conexões de Rede"
+msgstr "Hálózati kapcsolatok"
+
+msgid "Dispositivos e conexões USB"
+msgstr "USB eszközök és csatlakozások"
+
+msgid "Portas PCI"
+msgstr "PCI portok"
+
+msgid "Dispositivos de Armazenamento"
+msgstr "Tárolóeszközök"
+
+msgid "Partições montadas"
+msgstr "Szerelt partíciók"
+
+msgid "Partições desmontadas"
+msgstr "Szétszerelt válaszfalak"
+
+msgid "Dispositivos lógicos"
+msgstr "Logikai eszközök"
+
+msgid "Raid"
+msgstr "Raid"
+
+msgid "Informações de Sistema"
+msgstr "Rendszerinformáció"
+
+msgid "Repositórios"
+msgstr "Tárházak"

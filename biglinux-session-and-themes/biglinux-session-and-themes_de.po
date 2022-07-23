@@ -2,20 +2,20 @@
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the biglinux-session-and-themes package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-# 
+#
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: biglinux-session-and-themes\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-07-09 04:17-0300\n"
+"POT-Creation-Date: 2022-07-23 19:21-0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: de\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit"
+"Content-Transfer-Encoding: 8bit\n"
 
 msgid "Temas, Desktop e Ajustes"
 msgstr "Themes, Desktop und Einstellungen"
@@ -68,6 +68,9 @@ msgstr "Leistung im erweiterten Modus!"
 msgid "Desempenho em modo performance!"
 msgstr "Leistung im Leistungsmodus!"
 
+msgid "Aplicando, aguarde o termino."
+msgstr ""
+
 msgid "Temas"
 msgstr "Themen"
 
@@ -106,14 +109,13 @@ msgid "<b>Classic</b>, <b>New</b> e <b>Modern</b> têm melhor desempenho."
 msgstr ""
 "<b>Klassisch</b>, <b>Neu</b> und <b>Modern</b> funktionieren am besten."
 
-msgid "<b>Classic</b> e <b>New</b> têm melhor desempenho."
-msgstr "<b>Classic</b> und <b>New</b> haben eine bessere Leistung."
-
 msgid "Renderizar o desktop via software"
 msgstr "Rendering des Desktops per Software"
 
-msgid "(Pode ser útil em máquina virtual ou computadores antigos)"
-msgstr "(Kann auf virtuellen Maschinen oder alten Computern nützlich sein)"
+msgid ""
+"(Pode ser útil em computadores antigos, porém alguns programas param de "
+"funcionar)"
+msgstr ""
 
 msgid "Escolher programas a serem carregados na memória durante boot"
 msgstr ""
@@ -157,7 +159,8 @@ msgstr "Umgekehrter Maus-Scroll"
 msgid "Pesquisar arquivos"
 msgstr "Archive durchsuchen"
 
-msgid "Bloquear a área de trabalho"
+#, fuzzy
+msgid "Bloquear a edição da área de trabalho"
 msgstr "Sperren des Desktops"
 
 msgid "Ocultar Gerenciador de Boot (GRUB)"
@@ -204,5 +207,10 @@ msgstr "Desktop angewendet"
 msgid ""
 "Utilizando renderização por software, a qualidade das transparências está "
 "reduzida."
-msgstr ""
-"Beim Software-Rendering wird die Qualität der Transparenzen reduziert."
+msgstr "Beim Software-Rendering wird die Qualität der Transparenzen reduziert."
+
+#~ msgid "<b>Classic</b> e <b>New</b> têm melhor desempenho."
+#~ msgstr "<b>Classic</b> und <b>New</b> haben eine bessere Leistung."
+
+#~ msgid "(Pode ser útil em máquina virtual ou computadores antigos)"
+#~ msgstr "(Kann auf virtuellen Maschinen oder alten Computern nützlich sein)"

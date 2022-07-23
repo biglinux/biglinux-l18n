@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: bigcontrolcenter\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-07-10 14:09-0300\n"
+"POT-Creation-Date: 2022-07-23 19:21-0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -436,6 +436,9 @@ msgstr "Nastavení obrazovky bylo resetováno."
 msgid "Configurações da tela"
 msgstr "Nastavení obrazovky"
 
+msgid "Aguarde, criando arquivos de cache..."
+msgstr "Připravte se na vytváření souborů mezipaměti..."
+
 msgid "Categorias"
 msgstr "Kategorie"
 
@@ -699,9 +702,6 @@ msgstr ""
 "počítači, včetně přenosu souborů přímo z jednoho smartphonu do druhého.  "
 "Můžete také použít našeho správce webových aplikací, který vám usnadní "
 "používání těchto webových stránek."
-
-msgid "Aguarde, criando arquivos de cache..."
-msgstr "Připravte se na vytváření souborů mezipaměti..."
 
 msgid "Maximizado"
 msgstr "Maximalizováno"

@@ -2,20 +2,20 @@
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the biglinux-session-and-themes package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-# 
+#
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: biglinux-session-and-themes\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-07-09 04:17-0300\n"
+"POT-Creation-Date: 2022-07-23 19:21-0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: sv\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit"
+"Content-Transfer-Encoding: 8bit\n"
 
 msgid "Temas, Desktop e Ajustes"
 msgstr "Teman, skrivbord och inställningar"
@@ -65,6 +65,9 @@ msgstr "Prestanda i förbättrat läge!"
 msgid "Desempenho em modo performance!"
 msgstr "Prestanda i prestandaläge!"
 
+msgid "Aplicando, aguarde o termino."
+msgstr ""
+
 msgid "Temas"
 msgstr "Teman"
 
@@ -102,14 +105,13 @@ msgstr ""
 msgid "<b>Classic</b>, <b>New</b> e <b>Modern</b> têm melhor desempenho."
 msgstr "<b>Klassiskt</b>, <b>nytt</b> och <b>modernt</b> fungerar bäst."
 
-msgid "<b>Classic</b> e <b>New</b> têm melhor desempenho."
-msgstr "<b>Classic</b> och <b>New</b> har bättre prestanda."
-
 msgid "Renderizar o desktop via software"
 msgstr "Återgivning av skrivbordet med hjälp av mjukvara"
 
-msgid "(Pode ser útil em máquina virtual ou computadores antigos)"
-msgstr "(Kan vara användbart på virtuella maskiner eller gamla datorer)"
+msgid ""
+"(Pode ser útil em computadores antigos, porém alguns programas param de "
+"funcionar)"
+msgstr ""
 
 msgid "Escolher programas a serem carregados na memória durante boot"
 msgstr "Välj program som ska laddas in i minnet vid uppstart"
@@ -151,7 +153,8 @@ msgstr "Inverterad musrullning"
 msgid "Pesquisar arquivos"
 msgstr "Sök i arkiven"
 
-msgid "Bloquear a área de trabalho"
+#, fuzzy
+msgid "Bloquear a edição da área de trabalho"
 msgstr "Låsa skrivbordet"
 
 msgid "Ocultar Gerenciador de Boot (GRUB)"
@@ -167,8 +170,7 @@ msgid ""
 "É preciso reiniciar a sessão para concluir a configuração. Deseja fazer "
 "agora?"
 msgstr ""
-"Du måste logga in igen för att slutföra konfigurationen. Vill du göra det "
-"nu?"
+"Du måste logga in igen för att slutföra konfigurationen. Vill du göra det nu?"
 
 msgid "Configuração do Desktop"
 msgstr "Konfigurering av skrivbord"
@@ -199,3 +201,9 @@ msgid ""
 "Utilizando renderização por software, a qualidade das transparências está "
 "reduzida."
 msgstr "Om du använder mjukvarurendering minskar kvaliteten på transparenter."
+
+#~ msgid "<b>Classic</b> e <b>New</b> têm melhor desempenho."
+#~ msgstr "<b>Classic</b> och <b>New</b> har bättre prestanda."
+
+#~ msgid "(Pode ser útil em máquina virtual ou computadores antigos)"
+#~ msgstr "(Kan vara användbart på virtuella maskiner eller gamla datorer)"

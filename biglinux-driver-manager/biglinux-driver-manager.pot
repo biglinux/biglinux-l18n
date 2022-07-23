@@ -7,7 +7,7 @@
 msgid   ""
 msgstr  "Project-Id-Version: biglinux-driver-manager\n"
         "Report-Msgid-Bugs-To: \n"
-        "POT-Creation-Date: 2022-07-10 14:09-0300\n"
+        "POT-Creation-Date: 2022-07-23 19:21-0300\n"
         "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
         "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
         "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -77,72 +77,6 @@ msgstr  ""
 msgid   "Enviando, aguarde..."
 msgstr  ""
 
-msgid   "Ver informações do dispositivo no Linux Hardware"
-msgstr  ""
-
-msgid   "Processador"
-msgstr  ""
-
-msgid   "Placa mãe"
-msgstr  ""
-
-msgid   "Memória"
-msgstr  ""
-
-msgid   "Swap (Memória Virtual)"
-msgstr  ""
-
-msgid   "Placa de vídeo"
-msgstr  ""
-
-msgid   "Áudio"
-msgstr  ""
-
-msgid   "Rede"
-msgstr  ""
-
-msgid   "Conexões de Rede"
-msgstr  ""
-
-msgid   "Dispositivos e conexões USB"
-msgstr  ""
-
-msgid   "Portas PCI"
-msgstr  ""
-
-msgid   "Bateria"
-msgstr  ""
-
-msgid   "Dispositivos de Armazenamento"
-msgstr  ""
-
-msgid   "Partições montadas"
-msgstr  ""
-
-msgid   "Partições desmontadas"
-msgstr  ""
-
-msgid   "Dispositivos lógicos"
-msgstr  ""
-
-msgid   "Raid"
-msgstr  ""
-
-msgid   "Sistema"
-msgstr  ""
-
-msgid   "Informações de Sistema"
-msgstr  ""
-
-msgid   "Repositórios"
-msgstr  ""
-
-msgid   "Bluetooth"
-msgstr  ""
-
-msgid   "Temperatura"
-msgstr  ""
-
 msgid   "Digite sua senha para gerar um relatório removendo dados sensíveis, "
         "por exemplo, endereço de IP, ou cancele para utilizar as informações "
         "da tela anterior."
@@ -160,16 +94,46 @@ msgstr  ""
 msgid   "Resumo"
 msgstr  ""
 
+msgid   "Processador"
+msgstr  ""
+
+msgid   "Placa de vídeo"
+msgstr  ""
+
+msgid   "Placa mãe"
+msgstr  ""
+
+msgid   "Memória"
+msgstr  ""
+
+msgid   "Rede"
+msgstr  ""
+
 msgid   "Usb"
 msgstr  ""
 
 msgid   "Pci"
 msgstr  ""
 
+msgid   "Bateria"
+msgstr  ""
+
 msgid   "Armazenamento"
 msgstr  ""
 
+msgid   "Sistema"
+msgstr  ""
+
+msgid   "Bluetooth"
+msgstr  ""
+
+msgid   "Temperatura"
+msgstr  ""
+
 msgid   "Impressora"
+msgstr  ""
+
+msgid   "Áudio"
 msgstr  ""
 
 msgid   "Mais informações"
@@ -225,6 +189,9 @@ msgid   "Gerar Relatório"
 msgstr  ""
 
 msgid   "Cria um arquivo com informações que pode ser publicado na internet."
+msgstr  ""
+
+msgid   "Ver informações do dispositivo no Linux Hardware"
 msgstr  ""
 
 msgid   "Categoria"
@@ -292,4 +259,37 @@ msgid   "Aplicando - Aguarde"
 msgstr  ""
 
 msgid   "Este pacote fornece arquivos compatíveis com este computador."
+msgstr  ""
+
+msgid   "Swap (Memória Virtual)"
+msgstr  ""
+
+msgid   "Conexões de Rede"
+msgstr  ""
+
+msgid   "Dispositivos e conexões USB"
+msgstr  ""
+
+msgid   "Portas PCI"
+msgstr  ""
+
+msgid   "Dispositivos de Armazenamento"
+msgstr  ""
+
+msgid   "Partições montadas"
+msgstr  ""
+
+msgid   "Partições desmontadas"
+msgstr  ""
+
+msgid   "Dispositivos lógicos"
+msgstr  ""
+
+msgid   "Raid"
+msgstr  ""
+
+msgid   "Informações de Sistema"
+msgstr  ""
+
+msgid   "Repositórios"
 msgstr  ""

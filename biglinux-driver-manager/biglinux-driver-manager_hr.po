@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: biglinux-driver-manager\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-07-10 14:09-0300\n"
+"POT-Creation-Date: 2022-07-23 19:21-0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -85,72 +85,6 @@ msgstr "Došlo je do pogreške i upravljački program se ne može primijeniti."
 msgid "Enviando, aguarde..."
 msgstr "Slanje, molim vas pričekajte..."
 
-msgid "Ver informações do dispositivo no Linux Hardware"
-msgstr "Prikaz informacija o uređaju na Linux hardveru"
-
-msgid "Processador"
-msgstr "Procesor"
-
-msgid "Placa mãe"
-msgstr "Matična ploča"
-
-msgid "Memória"
-msgstr "Memoari"
-
-msgid "Swap (Memória Virtual)"
-msgstr "Zamjena (virtualna memorija)"
-
-msgid "Placa de vídeo"
-msgstr "Grafička kartica"
-
-msgid "Áudio"
-msgstr "Audio"
-
-msgid "Rede"
-msgstr "Neto"
-
-msgid "Conexões de Rede"
-msgstr "Mrežne veze"
-
-msgid "Dispositivos e conexões USB"
-msgstr "USB uređaji i veze"
-
-msgid "Portas PCI"
-msgstr "PCI priključci"
-
-msgid "Bateria"
-msgstr "Bubnjevi"
-
-msgid "Dispositivos de Armazenamento"
-msgstr "Uređaji za pohranu"
-
-msgid "Partições montadas"
-msgstr "Montirane particije"
-
-msgid "Partições desmontadas"
-msgstr "Demontirane particije"
-
-msgid "Dispositivos lógicos"
-msgstr "Logički uređaji"
-
-msgid "Raid"
-msgstr "Raid"
-
-msgid "Sistema"
-msgstr "Sustav"
-
-msgid "Informações de Sistema"
-msgstr "Informacijski sustav"
-
-msgid "Repositórios"
-msgstr "Repozitoriji"
-
-msgid "Bluetooth"
-msgstr "Bluetooth"
-
-msgid "Temperatura"
-msgstr "Vrijeme"
-
 msgid ""
 "Digite sua senha para gerar um relatório removendo dados sensíveis, por "
 "exemplo, endereço de IP, ou cancele para utilizar as informações da tela "
@@ -172,17 +106,47 @@ msgstr "Glavni"
 msgid "Resumo"
 msgstr "Sažetak"
 
+msgid "Processador"
+msgstr "Procesor"
+
+msgid "Placa de vídeo"
+msgstr "Grafička kartica"
+
+msgid "Placa mãe"
+msgstr "Matična ploča"
+
+msgid "Memória"
+msgstr "Memoari"
+
+msgid "Rede"
+msgstr "Neto"
+
 msgid "Usb"
 msgstr "Usb"
 
 msgid "Pci"
 msgstr "PCI"
 
+msgid "Bateria"
+msgstr "Bubnjevi"
+
 msgid "Armazenamento"
 msgstr "Skladištenje"
 
+msgid "Sistema"
+msgstr "Sustav"
+
+msgid "Bluetooth"
+msgstr "Bluetooth"
+
+msgid "Temperatura"
+msgstr "Vrijeme"
+
 msgid "Impressora"
 msgstr "printer"
+
+msgid "Áudio"
+msgstr "Audio"
 
 msgid "Mais informações"
 msgstr "Više informacija"
@@ -241,6 +205,9 @@ msgstr "Generiraj izvješće"
 
 msgid "Cria um arquivo com informações que pode ser publicado na internet."
 msgstr "Stvara datoteku s informacijama koje se mogu objaviti na internetu."
+
+msgid "Ver informações do dispositivo no Linux Hardware"
+msgstr "Prikaz informacija o uređaju na Linux hardveru"
 
 msgid "Categoria"
 msgstr "Kategorija"
@@ -311,3 +278,36 @@ msgstr "Primjena - Molimo pričekajte"
 
 msgid "Este pacote fornece arquivos compatíveis com este computador."
 msgstr "Ovaj paket pruža datoteke kompatibilne s ovim računalom."
+
+msgid "Swap (Memória Virtual)"
+msgstr "Zamjena (virtualna memorija)"
+
+msgid "Conexões de Rede"
+msgstr "Mrežne veze"
+
+msgid "Dispositivos e conexões USB"
+msgstr "USB uređaji i veze"
+
+msgid "Portas PCI"
+msgstr "PCI priključci"
+
+msgid "Dispositivos de Armazenamento"
+msgstr "Uređaji za pohranu"
+
+msgid "Partições montadas"
+msgstr "Montirane particije"
+
+msgid "Partições desmontadas"
+msgstr "Demontirane particije"
+
+msgid "Dispositivos lógicos"
+msgstr "Logički uređaji"
+
+msgid "Raid"
+msgstr "Raid"
+
+msgid "Informações de Sistema"
+msgstr "Informacijski sustav"
+
+msgid "Repositórios"
+msgstr "Repozitoriji"

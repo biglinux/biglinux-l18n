@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: bigcontrolcenter\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-07-10 14:09-0300\n"
+"POT-Creation-Date: 2022-07-23 19:21-0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -442,6 +442,9 @@ msgstr "Näytön asetukset on nollattu."
 msgid "Configurações da tela"
 msgstr "Näytön asetukset"
 
+msgid "Aguarde, criando arquivos de cache..."
+msgstr "Valmiina, luodaan välimuistitiedostoja..."
+
 msgid "Categorias"
 msgstr "Kategoriat"
 
@@ -703,9 +706,6 @@ msgstr ""
 "älypuhelimella tai tietokoneella, mukaan lukien tiedostojen siirtäminen "
 "suoraan älypuhelimesta toiseen.  Voit myös käyttää verkkosovellusten "
 "hallintaa, joka helpottaa tämän verkkosivuston käyttöä."
-
-msgid "Aguarde, criando arquivos de cache..."
-msgstr "Valmiina, luodaan välimuistitiedostoja..."
 
 msgid "Maximizado"
 msgstr "Maksimoitu"

@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: biglinux-driver-manager\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-07-10 14:09-0300\n"
+"POT-Creation-Date: 2022-07-23 19:21-0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -84,72 +84,6 @@ msgstr "Tapahtui virhe, eikä ohjainta voida käyttää."
 msgid "Enviando, aguarde..."
 msgstr "Lähetys, odota..."
 
-msgid "Ver informações do dispositivo no Linux Hardware"
-msgstr "Linux-laitteiston laitetietojen tarkasteleminen"
-
-msgid "Processador"
-msgstr "Prosessori"
-
-msgid "Placa mãe"
-msgstr "Emolevy"
-
-msgid "Memória"
-msgstr "Muisti"
-
-msgid "Swap (Memória Virtual)"
-msgstr "Swap (virtuaalimuisti)"
-
-msgid "Placa de vídeo"
-msgstr "Videokortti"
-
-msgid "Áudio"
-msgstr "Audio"
-
-msgid "Rede"
-msgstr "Verkko"
-
-msgid "Conexões de Rede"
-msgstr "Verkkoyhteydet"
-
-msgid "Dispositivos e conexões USB"
-msgstr "USB-laitteet ja -liitännät"
-
-msgid "Portas PCI"
-msgstr "PCI-portit"
-
-msgid "Bateria"
-msgstr "Akku"
-
-msgid "Dispositivos de Armazenamento"
-msgstr "Tallennuslaitteet"
-
-msgid "Partições montadas"
-msgstr "Asennetut väliseinät"
-
-msgid "Partições desmontadas"
-msgstr "Puretut väliseinät"
-
-msgid "Dispositivos lógicos"
-msgstr "Logiikkalaitteet"
-
-msgid "Raid"
-msgstr "Raid"
-
-msgid "Sistema"
-msgstr "Järjestelmä"
-
-msgid "Informações de Sistema"
-msgstr "Järjestelmätiedot"
-
-msgid "Repositórios"
-msgstr "Tietovarastot"
-
-msgid "Bluetooth"
-msgstr "Bluetooth"
-
-msgid "Temperatura"
-msgstr "Lämpötila"
-
 msgid ""
 "Digite sua senha para gerar um relatório removendo dados sensíveis, por "
 "exemplo, endereço de IP, ou cancele para utilizar as informações da tela "
@@ -171,17 +105,47 @@ msgstr "Main"
 msgid "Resumo"
 msgstr "Yhteenveto"
 
+msgid "Processador"
+msgstr "Prosessori"
+
+msgid "Placa de vídeo"
+msgstr "Videokortti"
+
+msgid "Placa mãe"
+msgstr "Emolevy"
+
+msgid "Memória"
+msgstr "Muisti"
+
+msgid "Rede"
+msgstr "Verkko"
+
 msgid "Usb"
 msgstr "Usb"
 
 msgid "Pci"
 msgstr "Pci"
 
+msgid "Bateria"
+msgstr "Akku"
+
 msgid "Armazenamento"
 msgstr "Varastointi"
 
+msgid "Sistema"
+msgstr "Järjestelmä"
+
+msgid "Bluetooth"
+msgstr "Bluetooth"
+
+msgid "Temperatura"
+msgstr "Lämpötila"
+
 msgid "Impressora"
 msgstr "Tulostin"
+
+msgid "Áudio"
+msgstr "Audio"
 
 msgid "Mais informações"
 msgstr "Lisätietoja"
@@ -241,6 +205,9 @@ msgstr "Luo raportti"
 msgid "Cria um arquivo com informações que pode ser publicado na internet."
 msgstr ""
 "Se luo tiedoston, jossa on tietoja, jotka voidaan julkaista Internetissä."
+
+msgid "Ver informações do dispositivo no Linux Hardware"
+msgstr "Linux-laitteiston laitetietojen tarkasteleminen"
 
 msgid "Categoria"
 msgstr "Luokka"
@@ -312,3 +279,36 @@ msgstr "Hakemuksen tekeminen - Odota"
 msgid "Este pacote fornece arquivos compatíveis com este computador."
 msgstr ""
 "Tämä paketti sisältää tämän tietokoneen kanssa yhteensopivat tiedostot."
+
+msgid "Swap (Memória Virtual)"
+msgstr "Swap (virtuaalimuisti)"
+
+msgid "Conexões de Rede"
+msgstr "Verkkoyhteydet"
+
+msgid "Dispositivos e conexões USB"
+msgstr "USB-laitteet ja -liitännät"
+
+msgid "Portas PCI"
+msgstr "PCI-portit"
+
+msgid "Dispositivos de Armazenamento"
+msgstr "Tallennuslaitteet"
+
+msgid "Partições montadas"
+msgstr "Asennetut väliseinät"
+
+msgid "Partições desmontadas"
+msgstr "Puretut väliseinät"
+
+msgid "Dispositivos lógicos"
+msgstr "Logiikkalaitteet"
+
+msgid "Raid"
+msgstr "Raid"
+
+msgid "Informações de Sistema"
+msgstr "Järjestelmätiedot"
+
+msgid "Repositórios"
+msgstr "Tietovarastot"

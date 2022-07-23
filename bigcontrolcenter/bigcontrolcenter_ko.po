@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: bigcontrolcenter\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-07-10 14:09-0300\n"
+"POT-Creation-Date: 2022-07-23 19:21-0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -432,6 +432,9 @@ msgstr "화면 설정이 재설정되었습니다."
 msgid "Configurações da tela"
 msgstr "화면 설정"
 
+msgid "Aguarde, criando arquivos de cache..."
+msgstr "잠시 기다려 주십시오. 캐시 파일을 생성하는 중"
+
 msgid "Categorias"
 msgstr "카테고리"
 
@@ -680,9 +683,6 @@ msgstr ""
 "서 Snapdrop 웹 사이트를 엽니다.Snapdrop은 한 스마트 폰에서 다른 스마트 폰으"
 "로 직접 파일을 전송하는 것을 포함하여 모든 스마트 폰 또는 컴퓨터에서 사용할 "
 "수 있습니다.웹 앱 관리자를 사용하여 이 사이트를 쉽게 사용할 수도 있습니다."
-
-msgid "Aguarde, criando arquivos de cache..."
-msgstr "잠시 기다려 주십시오. 캐시 파일을 생성하는 중"
 
 msgid "Maximizado"
 msgstr "최대화"

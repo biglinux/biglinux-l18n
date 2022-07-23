@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: biglinux-driver-manager\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-07-10 14:09-0300\n"
+"POT-Creation-Date: 2022-07-23 19:21-0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -84,72 +84,6 @@ msgstr "A apărut o eroare și nu se poate aplica driverul."
 msgid "Enviando, aguarde..."
 msgstr "Trimitere, vă rugăm să așteptați..."
 
-msgid "Ver informações do dispositivo no Linux Hardware"
-msgstr "Vizualizați informații despre dispozitiv pe Linux Hardware"
-
-msgid "Processador"
-msgstr "Procesor"
-
-msgid "Placa mãe"
-msgstr "Placa de bază"
-
-msgid "Memória"
-msgstr "Memorie"
-
-msgid "Swap (Memória Virtual)"
-msgstr "Swap (memorie virtuală)"
-
-msgid "Placa de vídeo"
-msgstr "Placa video"
-
-msgid "Áudio"
-msgstr "Audio"
-
-msgid "Rede"
-msgstr "Rețea"
-
-msgid "Conexões de Rede"
-msgstr "Conexiuni de rețea"
-
-msgid "Dispositivos e conexões USB"
-msgstr "Dispozitive și conexiuni USB"
-
-msgid "Portas PCI"
-msgstr "Porturi PCI"
-
-msgid "Bateria"
-msgstr "Baterie"
-
-msgid "Dispositivos de Armazenamento"
-msgstr "Dispozitive de stocare"
-
-msgid "Partições montadas"
-msgstr "Partiții montate"
-
-msgid "Partições desmontadas"
-msgstr "Partiții demontate"
-
-msgid "Dispositivos lógicos"
-msgstr "Dispozitive logice"
-
-msgid "Raid"
-msgstr "Raid"
-
-msgid "Sistema"
-msgstr "Sistem"
-
-msgid "Informações de Sistema"
-msgstr "Informații de sistem"
-
-msgid "Repositórios"
-msgstr "Depozite"
-
-msgid "Bluetooth"
-msgstr "Bluetooth"
-
-msgid "Temperatura"
-msgstr "Temperatura"
-
 msgid ""
 "Digite sua senha para gerar um relatório removendo dados sensíveis, por "
 "exemplo, endereço de IP, ou cancele para utilizar as informações da tela "
@@ -171,17 +105,47 @@ msgstr "Principal"
 msgid "Resumo"
 msgstr "Rezumat"
 
+msgid "Processador"
+msgstr "Procesor"
+
+msgid "Placa de vídeo"
+msgstr "Placa video"
+
+msgid "Placa mãe"
+msgstr "Placa de bază"
+
+msgid "Memória"
+msgstr "Memorie"
+
+msgid "Rede"
+msgstr "Rețea"
+
 msgid "Usb"
 msgstr "Usb"
 
 msgid "Pci"
 msgstr "Pci"
 
+msgid "Bateria"
+msgstr "Baterie"
+
 msgid "Armazenamento"
 msgstr "Depozitare"
 
+msgid "Sistema"
+msgstr "Sistem"
+
+msgid "Bluetooth"
+msgstr "Bluetooth"
+
+msgid "Temperatura"
+msgstr "Temperatura"
+
 msgid "Impressora"
 msgstr "Imprimantă"
+
+msgid "Áudio"
+msgstr "Audio"
 
 msgid "Mais informações"
 msgstr "Mai multe informații"
@@ -241,6 +205,9 @@ msgstr "Generarea raportului"
 msgid "Cria um arquivo com informações que pode ser publicado na internet."
 msgstr ""
 "Acesta creează un fișier cu informații care pot fi publicate pe internet."
+
+msgid "Ver informações do dispositivo no Linux Hardware"
+msgstr "Vizualizați informații despre dispozitiv pe Linux Hardware"
 
 msgid "Categoria"
 msgstr "Categoria"
@@ -311,3 +278,36 @@ msgstr "Aplicare - Vă rugăm să așteptați"
 
 msgid "Este pacote fornece arquivos compatíveis com este computador."
 msgstr "Acest pachet oferă fișiere compatibile cu acest computer."
+
+msgid "Swap (Memória Virtual)"
+msgstr "Swap (memorie virtuală)"
+
+msgid "Conexões de Rede"
+msgstr "Conexiuni de rețea"
+
+msgid "Dispositivos e conexões USB"
+msgstr "Dispozitive și conexiuni USB"
+
+msgid "Portas PCI"
+msgstr "Porturi PCI"
+
+msgid "Dispositivos de Armazenamento"
+msgstr "Dispozitive de stocare"
+
+msgid "Partições montadas"
+msgstr "Partiții montate"
+
+msgid "Partições desmontadas"
+msgstr "Partiții demontate"
+
+msgid "Dispositivos lógicos"
+msgstr "Dispozitive logice"
+
+msgid "Raid"
+msgstr "Raid"
+
+msgid "Informações de Sistema"
+msgstr "Informații de sistem"
+
+msgid "Repositórios"
+msgstr "Depozite"

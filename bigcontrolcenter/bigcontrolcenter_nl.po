@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: bigcontrolcenter\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-07-10 14:09-0300\n"
+"POT-Creation-Date: 2022-07-23 19:21-0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -446,6 +446,9 @@ msgstr "De scherminstellingen zijn opnieuw ingesteld."
 msgid "Configurações da tela"
 msgstr "Scherminstellingen"
 
+msgid "Aguarde, criando arquivos de cache..."
+msgstr "Sta klaar, om cache-bestanden te maken..."
+
 msgid "Categorias"
 msgstr "Categorieën"
 
@@ -709,9 +712,6 @@ msgstr ""
 "gebruikt worden, inclusief het rechtstreeks overbrengen van bestanden van de "
 "ene smartphone naar de andere.  U kunt ook onze web app manager gebruiken om "
 "het gebruik van deze website te vergemakkelijken."
-
-msgid "Aguarde, criando arquivos de cache..."
-msgstr "Sta klaar, om cache-bestanden te maken..."
 
 msgid "Maximizado"
 msgstr "Gemaximaliseerd"

@@ -2,20 +2,20 @@
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the biglinux-session-and-themes package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-# 
+#
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: biglinux-session-and-themes\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-07-09 04:17-0300\n"
+"POT-Creation-Date: 2022-07-23 19:21-0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: it\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit"
+"Content-Transfer-Encoding: 8bit\n"
 
 msgid "Temas, Desktop e Ajustes"
 msgstr "Temi, Desktop e Impostazioni"
@@ -66,6 +66,9 @@ msgstr "Prestazioni in modalità potenziata!"
 msgid "Desempenho em modo performance!"
 msgstr "Prestazioni in modalità performance!"
 
+msgid "Aplicando, aguarde o termino."
+msgstr ""
+
 msgid "Temas"
 msgstr "Temi"
 
@@ -104,14 +107,13 @@ msgid "<b>Classic</b>, <b>New</b> e <b>Modern</b> têm melhor desempenho."
 msgstr ""
 "I <b>classici</b>, i <b>nuovi</b> e i <b>moderni</b> sono i più performanti."
 
-msgid "<b>Classic</b> e <b>New</b> têm melhor desempenho."
-msgstr "<b>Classic</b> e <b>New</b> hanno prestazioni migliori."
-
 msgid "Renderizar o desktop via software"
 msgstr "Rendering del desktop via software"
 
-msgid "(Pode ser útil em máquina virtual ou computadores antigos)"
-msgstr "(Può essere utile su macchine virtuali o vecchi computer)"
+msgid ""
+"(Pode ser útil em computadores antigos, porém alguns programas param de "
+"funcionar)"
+msgstr ""
 
 msgid "Escolher programas a serem carregados na memória durante boot"
 msgstr "Scegliere i programmi da caricare in memoria al momento dell'avvio"
@@ -154,7 +156,8 @@ msgstr "Scorrimento del mouse invertito"
 msgid "Pesquisar arquivos"
 msgstr "Cerca negli archivi"
 
-msgid "Bloquear a área de trabalho"
+#, fuzzy
+msgid "Bloquear a edição da área de trabalho"
 msgstr "Bloccare il desktop"
 
 msgid "Ocultar Gerenciador de Boot (GRUB)"
@@ -203,3 +206,9 @@ msgid ""
 "reduzida."
 msgstr ""
 "Utilizzando il rendering software, la qualità delle trasparenze si riduce."
+
+#~ msgid "<b>Classic</b> e <b>New</b> têm melhor desempenho."
+#~ msgstr "<b>Classic</b> e <b>New</b> hanno prestazioni migliori."
+
+#~ msgid "(Pode ser útil em máquina virtual ou computadores antigos)"
+#~ msgstr "(Può essere utile su macchine virtuali o vecchi computer)"

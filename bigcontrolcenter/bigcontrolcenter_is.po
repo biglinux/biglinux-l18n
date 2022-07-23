@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: bigcontrolcenter\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-07-10 14:09-0300\n"
+"POT-Creation-Date: 2022-07-23 19:21-0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -437,6 +437,9 @@ msgstr "Stillingar skjásins hafa verið endurstilltar."
 msgid "Configurações da tela"
 msgstr "Skjástillingar"
 
+msgid "Aguarde, criando arquivos de cache..."
+msgstr "Vinsamlegast bíddu, búðu til skyndiminni skrár..."
+
 msgid "Categorias"
 msgstr "Flokkar"
 
@@ -695,9 +698,6 @@ msgstr ""
 "Snapdrop er hægt að nota á hvaða snjallsíma eða tölvu sem er, þar á meðal að "
 "flytja skrár beint frá einum snjallsíma til annars. Þú getur líka notað "
 "vefforritastjóra okkar til að auðvelda notkun þessarar síðu."
-
-msgid "Aguarde, criando arquivos de cache..."
-msgstr "Vinsamlegast bíddu, búðu til skyndiminni skrár..."
 
 msgid "Maximizado"
 msgstr "Hámarkað"

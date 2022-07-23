@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: bigcontrolcenter\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-07-10 14:09-0300\n"
+"POT-Creation-Date: 2022-07-23 19:21-0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -439,6 +439,9 @@ msgstr "Postavke zaslona su resetirane."
 msgid "Configurações da tela"
 msgstr "Postavke zaslona"
 
+msgid "Aguarde, criando arquivos de cache..."
+msgstr "Pričekajte, kreirajte datoteke predmemorije..."
+
 msgid "Categorias"
 msgstr "Kategorije"
 
@@ -701,9 +704,6 @@ msgstr ""
 "uključujući prijenos datoteka izravno s jednog pametnog telefona na drugi. "
 "Također možete koristiti naš upravitelj web aplikacija kako biste olakšali "
 "korištenje ove stranice."
-
-msgid "Aguarde, criando arquivos de cache..."
-msgstr "Pričekajte, kreirajte datoteke predmemorije..."
 
 msgid "Maximizado"
 msgstr "Maksimizirano"

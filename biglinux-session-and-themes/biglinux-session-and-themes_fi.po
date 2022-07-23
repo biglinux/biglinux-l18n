@@ -2,20 +2,20 @@
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the biglinux-session-and-themes package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-# 
+#
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: biglinux-session-and-themes\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-07-09 04:17-0300\n"
+"POT-Creation-Date: 2022-07-23 19:21-0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: fi\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit"
+"Content-Transfer-Encoding: 8bit\n"
 
 msgid "Temas, Desktop e Ajustes"
 msgstr "Teemat, työpöytä ja asetukset"
@@ -65,6 +65,9 @@ msgstr "Suorituskyky tehostetussa tilassa!"
 msgid "Desempenho em modo performance!"
 msgstr "Suorituskyky suoritustilassa!"
 
+msgid "Aplicando, aguarde o termino."
+msgstr ""
+
 msgid "Temas"
 msgstr "Teemat"
 
@@ -103,14 +106,13 @@ msgstr ""
 msgid "<b>Classic</b>, <b>New</b> e <b>Modern</b> têm melhor desempenho."
 msgstr "<b>Klassinen</b>, <b>uusi</b> ja <b>moderni</b> toimivat parhaiten."
 
-msgid "<b>Classic</b> e <b>New</b> têm melhor desempenho."
-msgstr "<b>Classic</b> ja <b>New</b> ovat suorituskyvyltään parempia."
-
 msgid "Renderizar o desktop via software"
 msgstr "Työpöydän renderöinti ohjelmiston avulla"
 
-msgid "(Pode ser útil em máquina virtual ou computadores antigos)"
-msgstr "(Voi olla hyödyllinen virtuaalikoneessa tai vanhoissa tietokoneissa)"
+msgid ""
+"(Pode ser útil em computadores antigos, porém alguns programas param de "
+"funcionar)"
+msgstr ""
 
 msgid "Escolher programas a serem carregados na memória durante boot"
 msgstr "Valitse ohjelmat, jotka ladataan muistiin käynnistyksen yhteydessä"
@@ -152,7 +154,8 @@ msgstr "Käänteinen hiiren vieritys"
 msgid "Pesquisar arquivos"
 msgstr "Etsi arkistoista"
 
-msgid "Bloquear a área de trabalho"
+#, fuzzy
+msgid "Bloquear a edição da área de trabalho"
 msgstr "Lukitse työpöytä"
 
 msgid "Ocultar Gerenciador de Boot (GRUB)"
@@ -201,3 +204,10 @@ msgid ""
 "reduzida."
 msgstr ""
 "Ohjelmiston renderöintiä käytettäessä läpinäkyvien kuvien laatu heikkenee."
+
+#~ msgid "<b>Classic</b> e <b>New</b> têm melhor desempenho."
+#~ msgstr "<b>Classic</b> ja <b>New</b> ovat suorituskyvyltään parempia."
+
+#~ msgid "(Pode ser útil em máquina virtual ou computadores antigos)"
+#~ msgstr ""
+#~ "(Voi olla hyödyllinen virtuaalikoneessa tai vanhoissa tietokoneissa)"

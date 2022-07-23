@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: biglinux-driver-manager\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-07-10 14:09-0300\n"
+"POT-Creation-Date: 2022-07-23 19:21-0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -83,72 +83,6 @@ msgstr "Vyskytla sa chyba a ovládač nemožno použiť."
 msgid "Enviando, aguarde..."
 msgstr "Odosielanie, počkajte, prosím..."
 
-msgid "Ver informações do dispositivo no Linux Hardware"
-msgstr "Zobrazenie informácií o zariadení v systéme Linux Hardware"
-
-msgid "Processador"
-msgstr "Procesor"
-
-msgid "Placa mãe"
-msgstr "Základná doska"
-
-msgid "Memória"
-msgstr "Pamäť"
-
-msgid "Swap (Memória Virtual)"
-msgstr "Swap (virtuálna pamäť)"
-
-msgid "Placa de vídeo"
-msgstr "Grafická karta"
-
-msgid "Áudio"
-msgstr "Audio"
-
-msgid "Rede"
-msgstr "Sieť"
-
-msgid "Conexões de Rede"
-msgstr "Sieťové pripojenia"
-
-msgid "Dispositivos e conexões USB"
-msgstr "Zariadenia a pripojenia USB"
-
-msgid "Portas PCI"
-msgstr "Porty PCI"
-
-msgid "Bateria"
-msgstr "Batéria"
-
-msgid "Dispositivos de Armazenamento"
-msgstr "Zariadenia na ukladanie dát"
-
-msgid "Partições montadas"
-msgstr "Namontované priečky"
-
-msgid "Partições desmontadas"
-msgstr "Demontované priečky"
-
-msgid "Dispositivos lógicos"
-msgstr "Logické zariadenia"
-
-msgid "Raid"
-msgstr "Nájazd"
-
-msgid "Sistema"
-msgstr "Systém"
-
-msgid "Informações de Sistema"
-msgstr "Systémové informácie"
-
-msgid "Repositórios"
-msgstr "Úložiská"
-
-msgid "Bluetooth"
-msgstr "Bluetooth"
-
-msgid "Temperatura"
-msgstr "Teplota"
-
 msgid ""
 "Digite sua senha para gerar um relatório removendo dados sensíveis, por "
 "exemplo, endereço de IP, ou cancele para utilizar as informações da tela "
@@ -170,17 +104,47 @@ msgstr "Hlavná stránka"
 msgid "Resumo"
 msgstr "Zhrnutie"
 
+msgid "Processador"
+msgstr "Procesor"
+
+msgid "Placa de vídeo"
+msgstr "Grafická karta"
+
+msgid "Placa mãe"
+msgstr "Základná doska"
+
+msgid "Memória"
+msgstr "Pamäť"
+
+msgid "Rede"
+msgstr "Sieť"
+
 msgid "Usb"
 msgstr "Usb"
 
 msgid "Pci"
 msgstr "Pci"
 
+msgid "Bateria"
+msgstr "Batéria"
+
 msgid "Armazenamento"
 msgstr "Úložisko"
 
+msgid "Sistema"
+msgstr "Systém"
+
+msgid "Bluetooth"
+msgstr "Bluetooth"
+
+msgid "Temperatura"
+msgstr "Teplota"
+
 msgid "Impressora"
 msgstr "Tlačiareň"
+
+msgid "Áudio"
+msgstr "Audio"
 
 msgid "Mais informações"
 msgstr "Viac informácií"
@@ -239,6 +203,9 @@ msgstr "Generovanie správy"
 
 msgid "Cria um arquivo com informações que pode ser publicado na internet."
 msgstr "Vytvorí súbor s informáciami, ktoré možno zverejniť na internete."
+
+msgid "Ver informações do dispositivo no Linux Hardware"
+msgstr "Zobrazenie informácií o zariadení v systéme Linux Hardware"
 
 msgid "Categoria"
 msgstr "Kategória"
@@ -309,3 +276,36 @@ msgstr "Podanie žiadosti - Počkajte, prosím"
 
 msgid "Este pacote fornece arquivos compatíveis com este computador."
 msgstr "Tento balík poskytuje súbory kompatibilné s týmto počítačom."
+
+msgid "Swap (Memória Virtual)"
+msgstr "Swap (virtuálna pamäť)"
+
+msgid "Conexões de Rede"
+msgstr "Sieťové pripojenia"
+
+msgid "Dispositivos e conexões USB"
+msgstr "Zariadenia a pripojenia USB"
+
+msgid "Portas PCI"
+msgstr "Porty PCI"
+
+msgid "Dispositivos de Armazenamento"
+msgstr "Zariadenia na ukladanie dát"
+
+msgid "Partições montadas"
+msgstr "Namontované priečky"
+
+msgid "Partições desmontadas"
+msgstr "Demontované priečky"
+
+msgid "Dispositivos lógicos"
+msgstr "Logické zariadenia"
+
+msgid "Raid"
+msgstr "Nájazd"
+
+msgid "Informações de Sistema"
+msgstr "Systémové informácie"
+
+msgid "Repositórios"
+msgstr "Úložiská"

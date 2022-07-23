@@ -2,20 +2,20 @@
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the biglinux-session-and-themes package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-# 
+#
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: biglinux-session-and-themes\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-07-09 04:17-0300\n"
+"POT-Creation-Date: 2022-07-23 19:21-0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: tr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit"
+"Content-Transfer-Encoding: 8bit\n"
 
 msgid "Temas, Desktop e Ajustes"
 msgstr "Temalar, Masaüstü ve Ayarlar"
@@ -65,6 +65,9 @@ msgstr "Gelişmiş modda performans!"
 msgid "Desempenho em modo performance!"
 msgstr "Performans modunda performans!"
 
+msgid "Aplicando, aguarde o termino."
+msgstr ""
+
 msgid "Temas"
 msgstr "Temalar"
 
@@ -103,14 +106,13 @@ msgid "<b>Classic</b>, <b>New</b> e <b>Modern</b> têm melhor desempenho."
 msgstr ""
 "<b>Klasik</b>, <b>Yeni</b> ve <b>Modern</b> en iyi performansı gösterir."
 
-msgid "<b>Classic</b> e <b>New</b> têm melhor desempenho."
-msgstr "<b>Klasik</b> ve <b>Yeni</b> daha iyi performansa sahiptir."
-
 msgid "Renderizar o desktop via software"
 msgstr "Masaüstünü yazılım aracılığıyla oluşturma"
 
-msgid "(Pode ser útil em máquina virtual ou computadores antigos)"
-msgstr "(Sanal makinelerde veya eski bilgisayarlarda faydalı olabilir)"
+msgid ""
+"(Pode ser útil em computadores antigos, porém alguns programas param de "
+"funcionar)"
+msgstr ""
 
 msgid "Escolher programas a serem carregados na memória durante boot"
 msgstr "Önyükleme sırasında belleğe yüklenecek programları seçin"
@@ -153,7 +155,8 @@ msgstr "Ters çevrilmiş fare kaydırma"
 msgid "Pesquisar arquivos"
 msgstr "Arama arşivleri"
 
-msgid "Bloquear a área de trabalho"
+#, fuzzy
+msgid "Bloquear a edição da área de trabalho"
 msgstr "Masaüstünü kilitleme"
 
 msgid "Ocultar Gerenciador de Boot (GRUB)"
@@ -201,3 +204,9 @@ msgid ""
 "Utilizando renderização por software, a qualidade das transparências está "
 "reduzida."
 msgstr "Yazılım oluşturma kullanılarak asetatların kalitesi düşürülür."
+
+#~ msgid "<b>Classic</b> e <b>New</b> têm melhor desempenho."
+#~ msgstr "<b>Klasik</b> ve <b>Yeni</b> daha iyi performansa sahiptir."
+
+#~ msgid "(Pode ser útil em máquina virtual ou computadores antigos)"
+#~ msgstr "(Sanal makinelerde veya eski bilgisayarlarda faydalı olabilir)"

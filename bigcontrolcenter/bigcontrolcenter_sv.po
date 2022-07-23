@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: bigcontrolcenter\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-07-10 14:09-0300\n"
+"POT-Creation-Date: 2022-07-23 19:21-0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -439,6 +439,9 @@ msgstr "Skärminställningarna har återställts."
 msgid "Configurações da tela"
 msgstr "Skärminställningar"
 
+msgid "Aguarde, criando arquivos de cache..."
+msgstr "Var beredd på att skapa cachefiler..."
+
 msgid "Categorias"
 msgstr "Kategorier"
 
@@ -698,9 +701,6 @@ msgstr ""
 "datorn.  Snapdrop kan användas på alla smarttelefoner och datorer, inklusive "
 "överföring av filer direkt från en smarttelefon till en annan.  Du kan också "
 "använda vår webbapphanterare för att göra det enkelt att använda webbplatsen."
-
-msgid "Aguarde, criando arquivos de cache..."
-msgstr "Var beredd på att skapa cachefiler..."
 
 msgid "Maximizado"
 msgstr "Maximerad"

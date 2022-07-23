@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: bigcontrolcenter\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-07-10 14:09-0300\n"
+"POT-Creation-Date: 2022-07-23 19:21-0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -449,6 +449,9 @@ msgstr "Die Bildschirmeinstellungen wurden zurückgesetzt."
 msgid "Configurações da tela"
 msgstr "Bildschirmeinstellungen"
 
+msgid "Aguarde, criando arquivos de cache..."
+msgstr "Bereithalten, um Cache-Dateien zu erstellen..."
+
 msgid "Categorias"
 msgstr "Kategorien"
 
@@ -718,9 +721,6 @@ msgstr ""
 "einschließlich der Übertragung von Dateien direkt von einem Smartphone auf "
 "ein anderes.  Sie können auch unseren Web App Manager verwenden, um die "
 "Nutzung dieser Website zu vereinfachen."
-
-msgid "Aguarde, criando arquivos de cache..."
-msgstr "Bereithalten, um Cache-Dateien zu erstellen..."
 
 msgid "Maximizado"
 msgstr "Maximiert"

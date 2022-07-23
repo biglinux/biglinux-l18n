@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: biglinux-driver-manager\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-07-10 14:09-0300\n"
+"POT-Creation-Date: 2022-07-23 19:21-0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -84,72 +84,6 @@ msgstr "Възникнала е грешка и драйверът не може
 msgid "Enviando, aguarde..."
 msgstr "Изпращане, моля, изчакайте..."
 
-msgid "Ver informações do dispositivo no Linux Hardware"
-msgstr "Преглед на информация за устройствата в Linux Hardware"
-
-msgid "Processador"
-msgstr "Процесор"
-
-msgid "Placa mãe"
-msgstr "Дънна платка"
-
-msgid "Memória"
-msgstr "Памет"
-
-msgid "Swap (Memória Virtual)"
-msgstr "Подмяна (виртуална памет)"
-
-msgid "Placa de vídeo"
-msgstr "Видеокарта"
-
-msgid "Áudio"
-msgstr "Аудио"
-
-msgid "Rede"
-msgstr "Мрежа"
-
-msgid "Conexões de Rede"
-msgstr "Мрежови връзки"
-
-msgid "Dispositivos e conexões USB"
-msgstr "USB устройства и връзки"
-
-msgid "Portas PCI"
-msgstr "Портове PCI"
-
-msgid "Bateria"
-msgstr "Батерия"
-
-msgid "Dispositivos de Armazenamento"
-msgstr "Устройства за съхранение"
-
-msgid "Partições montadas"
-msgstr "Монтирани дялове"
-
-msgid "Partições desmontadas"
-msgstr "Демонтирани прегради"
-
-msgid "Dispositivos lógicos"
-msgstr "Логически устройства"
-
-msgid "Raid"
-msgstr "Raid"
-
-msgid "Sistema"
-msgstr "Система"
-
-msgid "Informações de Sistema"
-msgstr "Информация за системата"
-
-msgid "Repositórios"
-msgstr "Хранилища"
-
-msgid "Bluetooth"
-msgstr "Bluetooth"
-
-msgid "Temperatura"
-msgstr "Температура"
-
 msgid ""
 "Digite sua senha para gerar um relatório removendo dados sensíveis, por "
 "exemplo, endereço de IP, ou cancele para utilizar as informações da tela "
@@ -171,17 +105,47 @@ msgstr "Основен"
 msgid "Resumo"
 msgstr "Резюме"
 
+msgid "Processador"
+msgstr "Процесор"
+
+msgid "Placa de vídeo"
+msgstr "Видеокарта"
+
+msgid "Placa mãe"
+msgstr "Дънна платка"
+
+msgid "Memória"
+msgstr "Памет"
+
+msgid "Rede"
+msgstr "Мрежа"
+
 msgid "Usb"
 msgstr "Usb"
 
 msgid "Pci"
 msgstr "Pci"
 
+msgid "Bateria"
+msgstr "Батерия"
+
 msgid "Armazenamento"
 msgstr "Съхранение"
 
+msgid "Sistema"
+msgstr "Система"
+
+msgid "Bluetooth"
+msgstr "Bluetooth"
+
+msgid "Temperatura"
+msgstr "Температура"
+
 msgid "Impressora"
 msgstr "Принтер"
+
+msgid "Áudio"
+msgstr "Аудио"
 
 msgid "Mais informações"
 msgstr "Повече информация"
@@ -241,6 +205,9 @@ msgstr "Генериране на отчет"
 msgid "Cria um arquivo com informações que pode ser publicado na internet."
 msgstr ""
 "Той създава файл с информация, която може да бъде публикувана в интернет."
+
+msgid "Ver informações do dispositivo no Linux Hardware"
+msgstr "Преглед на информация за устройствата в Linux Hardware"
 
 msgid "Categoria"
 msgstr "Категория"
@@ -311,3 +278,36 @@ msgstr "Кандидатстване - Моля, изчакайте"
 
 msgid "Este pacote fornece arquivos compatíveis com este computador."
 msgstr "Този пакет предоставя файлове, съвместими с този компютър."
+
+msgid "Swap (Memória Virtual)"
+msgstr "Подмяна (виртуална памет)"
+
+msgid "Conexões de Rede"
+msgstr "Мрежови връзки"
+
+msgid "Dispositivos e conexões USB"
+msgstr "USB устройства и връзки"
+
+msgid "Portas PCI"
+msgstr "Портове PCI"
+
+msgid "Dispositivos de Armazenamento"
+msgstr "Устройства за съхранение"
+
+msgid "Partições montadas"
+msgstr "Монтирани дялове"
+
+msgid "Partições desmontadas"
+msgstr "Демонтирани прегради"
+
+msgid "Dispositivos lógicos"
+msgstr "Логически устройства"
+
+msgid "Raid"
+msgstr "Raid"
+
+msgid "Informações de Sistema"
+msgstr "Информация за системата"
+
+msgid "Repositórios"
+msgstr "Хранилища"

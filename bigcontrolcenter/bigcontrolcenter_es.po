@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: bigcontrolcenter\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-07-10 14:09-0300\n"
+"POT-Creation-Date: 2022-07-23 19:21-0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -444,6 +444,9 @@ msgstr "La configuración de la pantalla se ha restablecido."
 msgid "Configurações da tela"
 msgstr "Configuración de la pantalla"
 
+msgid "Aguarde, criando arquivos de cache..."
+msgstr "Preparados, creando archivos de caché..."
+
 msgid "Categorias"
 msgstr "Categorías"
 
@@ -709,9 +712,6 @@ msgstr ""
 "smartphone u ordenador, incluso para transferir archivos directamente de un "
 "smartphone a otro.  También puede utilizar nuestro gestor de aplicaciones "
 "web para facilitar el uso de este sitio web."
-
-msgid "Aguarde, criando arquivos de cache..."
-msgstr "Preparados, creando archivos de caché..."
 
 msgid "Maximizado"
 msgstr "Maximizado"

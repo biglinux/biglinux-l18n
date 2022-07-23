@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: biglinux-driver-manager\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-07-10 14:09-0300\n"
+"POT-Creation-Date: 2022-07-23 19:21-0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -85,72 +85,6 @@ msgstr "Bir hata oluştu ve sürücü uygulanamıyor."
 msgid "Enviando, aguarde..."
 msgstr "Gönderiliyor, lütfen bekleyin..."
 
-msgid "Ver informações do dispositivo no Linux Hardware"
-msgstr "Linux Donanımında cihaz bilgilerini görüntüleme"
-
-msgid "Processador"
-msgstr "İşlemci"
-
-msgid "Placa mãe"
-msgstr "Anakart"
-
-msgid "Memória"
-msgstr "Hafıza"
-
-msgid "Swap (Memória Virtual)"
-msgstr "Swap (Sanal Bellek)"
-
-msgid "Placa de vídeo"
-msgstr "Ekran kartı"
-
-msgid "Áudio"
-msgstr "Ses"
-
-msgid "Rede"
-msgstr "Şebeke"
-
-msgid "Conexões de Rede"
-msgstr "Ağ Bağlantıları"
-
-msgid "Dispositivos e conexões USB"
-msgstr "USB aygıtları ve bağlantıları"
-
-msgid "Portas PCI"
-msgstr "PCI bağlantı noktaları"
-
-msgid "Bateria"
-msgstr "Akü"
-
-msgid "Dispositivos de Armazenamento"
-msgstr "Depolama Cihazları"
-
-msgid "Partições montadas"
-msgstr "Monte edilmiş bölmeler"
-
-msgid "Partições desmontadas"
-msgstr "Sökülmüş bölmeler"
-
-msgid "Dispositivos lógicos"
-msgstr "Mantıksal cihazlar"
-
-msgid "Raid"
-msgstr "Baskın"
-
-msgid "Sistema"
-msgstr "Sistem"
-
-msgid "Informações de Sistema"
-msgstr "Sistem Bilgileri"
-
-msgid "Repositórios"
-msgstr "Depolar"
-
-msgid "Bluetooth"
-msgstr "Bluetooth"
-
-msgid "Temperatura"
-msgstr "Sıcaklık"
-
 msgid ""
 "Digite sua senha para gerar um relatório removendo dados sensíveis, por "
 "exemplo, endereço de IP, ou cancele para utilizar as informações da tela "
@@ -171,17 +105,47 @@ msgstr "Ana"
 msgid "Resumo"
 msgstr "Özet"
 
+msgid "Processador"
+msgstr "İşlemci"
+
+msgid "Placa de vídeo"
+msgstr "Ekran kartı"
+
+msgid "Placa mãe"
+msgstr "Anakart"
+
+msgid "Memória"
+msgstr "Hafıza"
+
+msgid "Rede"
+msgstr "Şebeke"
+
 msgid "Usb"
 msgstr "Usb"
 
 msgid "Pci"
 msgstr "Pci"
 
+msgid "Bateria"
+msgstr "Akü"
+
 msgid "Armazenamento"
 msgstr "Depolama"
 
+msgid "Sistema"
+msgstr "Sistem"
+
+msgid "Bluetooth"
+msgstr "Bluetooth"
+
+msgid "Temperatura"
+msgstr "Sıcaklık"
+
 msgid "Impressora"
 msgstr "Yazıcı"
+
+msgid "Áudio"
+msgstr "Ses"
 
 msgid "Mais informações"
 msgstr "Daha fazla bilgi"
@@ -240,6 +204,9 @@ msgstr "Rapor Oluştur"
 
 msgid "Cria um arquivo com informações que pode ser publicado na internet."
 msgstr "İnternette yayınlanabilecek bilgileri içeren bir dosya oluşturur."
+
+msgid "Ver informações do dispositivo no Linux Hardware"
+msgstr "Linux Donanımında cihaz bilgilerini görüntüleme"
 
 msgid "Categoria"
 msgstr "Kategori"
@@ -310,3 +277,36 @@ msgstr "Başvuru - Lütfen bekleyin"
 
 msgid "Este pacote fornece arquivos compatíveis com este computador."
 msgstr "Bu paket, bu bilgisayarla uyumlu dosyalar sağlar."
+
+msgid "Swap (Memória Virtual)"
+msgstr "Swap (Sanal Bellek)"
+
+msgid "Conexões de Rede"
+msgstr "Ağ Bağlantıları"
+
+msgid "Dispositivos e conexões USB"
+msgstr "USB aygıtları ve bağlantıları"
+
+msgid "Portas PCI"
+msgstr "PCI bağlantı noktaları"
+
+msgid "Dispositivos de Armazenamento"
+msgstr "Depolama Cihazları"
+
+msgid "Partições montadas"
+msgstr "Monte edilmiş bölmeler"
+
+msgid "Partições desmontadas"
+msgstr "Sökülmüş bölmeler"
+
+msgid "Dispositivos lógicos"
+msgstr "Mantıksal cihazlar"
+
+msgid "Raid"
+msgstr "Baskın"
+
+msgid "Informações de Sistema"
+msgstr "Sistem Bilgileri"
+
+msgid "Repositórios"
+msgstr "Depolar"

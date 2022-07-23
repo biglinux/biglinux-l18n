@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: bigcontrolcenter\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-07-10 14:09-0300\n"
+"POT-Creation-Date: 2022-07-23 19:21-0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -424,6 +424,9 @@ msgstr "屏幕设置已被重置。"
 msgid "Configurações da tela"
 msgstr "屏幕设置"
 
+msgid "Aguarde, criando arquivos de cache..."
+msgstr "准备就绪，创建缓存文件..."
+
 msgid "Categorias"
 msgstr "类别"
 
@@ -664,9 +667,6 @@ msgstr ""
 "可以发送你想要的文件。  使用这个按钮可以在该计算机上打开Snapdrop网站。  "
 "Snapdrop可以在任何智能手机或电脑上使用，包括将文件直接从一部智能手机传输到另"
 "一部智能手机。  你也可以使用我们的网络应用程序管理器，以方便使用本网站。"
-
-msgid "Aguarde, criando arquivos de cache..."
-msgstr "准备就绪，创建缓存文件..."
 
 msgid "Maximizado"
 msgstr "最大化"

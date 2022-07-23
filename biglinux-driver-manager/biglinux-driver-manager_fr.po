@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: biglinux-driver-manager\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-07-10 14:09-0300\n"
+"POT-Creation-Date: 2022-07-23 19:21-0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -84,72 +84,6 @@ msgstr "Une erreur s'est produite et le pilote ne peut pas être appliqué."
 msgid "Enviando, aguarde..."
 msgstr "Envoi, veuillez patienter..."
 
-msgid "Ver informações do dispositivo no Linux Hardware"
-msgstr "Afficher les informations sur le matériel Linux"
-
-msgid "Processador"
-msgstr "Processeur"
-
-msgid "Placa mãe"
-msgstr "Carte mère"
-
-msgid "Memória"
-msgstr "Mémoire"
-
-msgid "Swap (Memória Virtual)"
-msgstr "Swap (mémoire virtuelle)"
-
-msgid "Placa de vídeo"
-msgstr "Carte vidéo"
-
-msgid "Áudio"
-msgstr "Audio"
-
-msgid "Rede"
-msgstr "Réseau"
-
-msgid "Conexões de Rede"
-msgstr "Connexions réseau"
-
-msgid "Dispositivos e conexões USB"
-msgstr "Dispositifs et connexions USB"
-
-msgid "Portas PCI"
-msgstr "Ports PCI"
-
-msgid "Bateria"
-msgstr "Batterie"
-
-msgid "Dispositivos de Armazenamento"
-msgstr "Périphériques de stockage"
-
-msgid "Partições montadas"
-msgstr "Cloisons montées"
-
-msgid "Partições desmontadas"
-msgstr "Cloisons démantelées"
-
-msgid "Dispositivos lógicos"
-msgstr "Dispositifs logiques"
-
-msgid "Raid"
-msgstr "Raid"
-
-msgid "Sistema"
-msgstr "Système"
-
-msgid "Informações de Sistema"
-msgstr "Informations sur le système"
-
-msgid "Repositórios"
-msgstr "Dépôts"
-
-msgid "Bluetooth"
-msgstr "Bluetooth"
-
-msgid "Temperatura"
-msgstr "Température"
-
 msgid ""
 "Digite sua senha para gerar um relatório removendo dados sensíveis, por "
 "exemplo, endereço de IP, ou cancele para utilizar as informações da tela "
@@ -171,17 +105,47 @@ msgstr "Principal"
 msgid "Resumo"
 msgstr "Résumé"
 
+msgid "Processador"
+msgstr "Processeur"
+
+msgid "Placa de vídeo"
+msgstr "Carte vidéo"
+
+msgid "Placa mãe"
+msgstr "Carte mère"
+
+msgid "Memória"
+msgstr "Mémoire"
+
+msgid "Rede"
+msgstr "Réseau"
+
 msgid "Usb"
 msgstr "Usb"
 
 msgid "Pci"
 msgstr "Pci"
 
+msgid "Bateria"
+msgstr "Batterie"
+
 msgid "Armazenamento"
 msgstr "Stockage"
 
+msgid "Sistema"
+msgstr "Système"
+
+msgid "Bluetooth"
+msgstr "Bluetooth"
+
+msgid "Temperatura"
+msgstr "Température"
+
 msgid "Impressora"
 msgstr "Imprimante"
+
+msgid "Áudio"
+msgstr "Audio"
 
 msgid "Mais informações"
 msgstr "Plus d'informations"
@@ -242,6 +206,9 @@ msgid "Cria um arquivo com informações que pode ser publicado na internet."
 msgstr ""
 "Crée un fichier contenant des informations pouvant être publiées sur "
 "Internet."
+
+msgid "Ver informações do dispositivo no Linux Hardware"
+msgstr "Afficher les informations sur le matériel Linux"
 
 msgid "Categoria"
 msgstr "Catégorie"
@@ -313,3 +280,36 @@ msgstr "Candidature - Veuillez patienter"
 
 msgid "Este pacote fornece arquivos compatíveis com este computador."
 msgstr "Ce paquet fournit des fichiers compatibles avec cet ordinateur."
+
+msgid "Swap (Memória Virtual)"
+msgstr "Swap (mémoire virtuelle)"
+
+msgid "Conexões de Rede"
+msgstr "Connexions réseau"
+
+msgid "Dispositivos e conexões USB"
+msgstr "Dispositifs et connexions USB"
+
+msgid "Portas PCI"
+msgstr "Ports PCI"
+
+msgid "Dispositivos de Armazenamento"
+msgstr "Périphériques de stockage"
+
+msgid "Partições montadas"
+msgstr "Cloisons montées"
+
+msgid "Partições desmontadas"
+msgstr "Cloisons démantelées"
+
+msgid "Dispositivos lógicos"
+msgstr "Dispositifs logiques"
+
+msgid "Raid"
+msgstr "Raid"
+
+msgid "Informações de Sistema"
+msgstr "Informations sur le système"
+
+msgid "Repositórios"
+msgstr "Dépôts"

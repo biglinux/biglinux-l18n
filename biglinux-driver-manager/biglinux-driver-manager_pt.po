@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: biglinux-driver-manager\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-07-10 14:09-0300\n"
+"POT-Creation-Date: 2022-07-23 19:21-0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -82,72 +82,6 @@ msgstr "Ocorreu um erro e o driver não pode ser aplicado."
 msgid "Enviando, aguarde..."
 msgstr "Enviando, aguarde..."
 
-msgid "Ver informações do dispositivo no Linux Hardware"
-msgstr "Ver informações do dispositivo no Linux Hardware"
-
-msgid "Processador"
-msgstr "Processador"
-
-msgid "Placa mãe"
-msgstr "Placa mãe"
-
-msgid "Memória"
-msgstr "Memória"
-
-msgid "Swap (Memória Virtual)"
-msgstr "Swap (Memória Virtual)"
-
-msgid "Placa de vídeo"
-msgstr "Placa de vídeo"
-
-msgid "Áudio"
-msgstr "Áudio"
-
-msgid "Rede"
-msgstr "Rede"
-
-msgid "Conexões de Rede"
-msgstr "Conexões de Rede"
-
-msgid "Dispositivos e conexões USB"
-msgstr "Dispositivos e conexões USB"
-
-msgid "Portas PCI"
-msgstr "Portas PCI"
-
-msgid "Bateria"
-msgstr "Bateria"
-
-msgid "Dispositivos de Armazenamento"
-msgstr "Dispositivos de Armazenamento"
-
-msgid "Partições montadas"
-msgstr "Partições montadas"
-
-msgid "Partições desmontadas"
-msgstr "Partições desmontadas"
-
-msgid "Dispositivos lógicos"
-msgstr "Dispositivos lógicos"
-
-msgid "Raid"
-msgstr "Raid"
-
-msgid "Sistema"
-msgstr "Sistema"
-
-msgid "Informações de Sistema"
-msgstr "Informações de Sistema"
-
-msgid "Repositórios"
-msgstr "Repositórios"
-
-msgid "Bluetooth"
-msgstr "Bluetooth"
-
-msgid "Temperatura"
-msgstr "Temperatura"
-
 msgid ""
 "Digite sua senha para gerar um relatório removendo dados sensíveis, por "
 "exemplo, endereço de IP, ou cancele para utilizar as informações da tela "
@@ -169,17 +103,47 @@ msgstr "Principais"
 msgid "Resumo"
 msgstr "Resumo"
 
+msgid "Processador"
+msgstr "Processador"
+
+msgid "Placa de vídeo"
+msgstr "Placa de vídeo"
+
+msgid "Placa mãe"
+msgstr "Placa mãe"
+
+msgid "Memória"
+msgstr "Memória"
+
+msgid "Rede"
+msgstr "Rede"
+
 msgid "Usb"
 msgstr "Usb"
 
 msgid "Pci"
 msgstr "Pci"
 
+msgid "Bateria"
+msgstr "Bateria"
+
 msgid "Armazenamento"
 msgstr "Armazenamento"
 
+msgid "Sistema"
+msgstr "Sistema"
+
+msgid "Bluetooth"
+msgstr "Bluetooth"
+
+msgid "Temperatura"
+msgstr "Temperatura"
+
 msgid "Impressora"
 msgstr "Impressora"
+
+msgid "Áudio"
+msgstr "Áudio"
 
 msgid "Mais informações"
 msgstr "Mais informações"
@@ -238,6 +202,9 @@ msgstr "Gerar Relatório"
 
 msgid "Cria um arquivo com informações que pode ser publicado na internet."
 msgstr "Cria um arquivo com informações que pode ser publicado na internet."
+
+msgid "Ver informações do dispositivo no Linux Hardware"
+msgstr "Ver informações do dispositivo no Linux Hardware"
 
 msgid "Categoria"
 msgstr "Categoria"
@@ -308,3 +275,36 @@ msgstr "Aplicando - Aguarde"
 
 msgid "Este pacote fornece arquivos compatíveis com este computador."
 msgstr "Este pacote fornece arquivos compatíveis com este computador."
+
+msgid "Swap (Memória Virtual)"
+msgstr "Swap (Memória Virtual)"
+
+msgid "Conexões de Rede"
+msgstr "Conexões de Rede"
+
+msgid "Dispositivos e conexões USB"
+msgstr "Dispositivos e conexões USB"
+
+msgid "Portas PCI"
+msgstr "Portas PCI"
+
+msgid "Dispositivos de Armazenamento"
+msgstr "Dispositivos de Armazenamento"
+
+msgid "Partições montadas"
+msgstr "Partições montadas"
+
+msgid "Partições desmontadas"
+msgstr "Partições desmontadas"
+
+msgid "Dispositivos lógicos"
+msgstr "Dispositivos lógicos"
+
+msgid "Raid"
+msgstr "Raid"
+
+msgid "Informações de Sistema"
+msgstr "Informações de Sistema"
+
+msgid "Repositórios"
+msgstr "Repositórios"

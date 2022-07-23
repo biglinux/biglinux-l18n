@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: bigcontrolcenter\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-07-10 14:09-0300\n"
+"POT-Creation-Date: 2022-07-23 19:21-0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -435,6 +435,9 @@ msgstr "Налаштування екрану скинуті."
 msgid "Configurações da tela"
 msgstr "налаштування екрана"
 
+msgid "Aguarde, criando arquivos de cache..."
+msgstr "Будь ласка, зачекайте, створюючи файли кешу..."
+
 msgid "Categorias"
 msgstr "Категорії"
 
@@ -694,9 +697,6 @@ msgstr ""
 "смартфоні або комп'ютері, включаючи передачу файлів безпосередньо з одного "
 "смартфона на інший. Ви також можете скористатися нашим менеджером веб-"
 "додатків для полегшення використання цього сайту."
-
-msgid "Aguarde, criando arquivos de cache..."
-msgstr "Будь ласка, зачекайте, створюючи файли кешу..."
 
 msgid "Maximizado"
 msgstr "Максимізований"

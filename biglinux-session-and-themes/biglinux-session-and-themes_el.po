@@ -2,20 +2,20 @@
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the biglinux-session-and-themes package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-# 
+#
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: biglinux-session-and-themes\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-07-09 04:17-0300\n"
+"POT-Creation-Date: 2022-07-23 19:21-0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: el\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit"
+"Content-Transfer-Encoding: 8bit\n"
 
 msgid "Temas, Desktop e Ajustes"
 msgstr "Θέματα, επιφάνεια εργασίας και ρυθμίσεις"
@@ -68,6 +68,9 @@ msgstr "Απόδοση σε βελτιωμένη λειτουργία!"
 msgid "Desempenho em modo performance!"
 msgstr "Απόδοση σε λειτουργία απόδοσης!"
 
+msgid "Aplicando, aguarde o termino."
+msgstr ""
+
 msgid "Temas"
 msgstr "Θέματα"
 
@@ -106,14 +109,13 @@ msgid "<b>Classic</b>, <b>New</b> e <b>Modern</b> têm melhor desempenho."
 msgstr ""
 "Τα <b>κλασικά</b>, τα <b>νέα</b> και τα <b>μοντέρνα</b> αποδίδουν καλύτερα."
 
-msgid "<b>Classic</b> e <b>New</b> têm melhor desempenho."
-msgstr "Το<b>Classic</b> και το <b>New</b> έχουν καλύτερες επιδόσεις."
-
 msgid "Renderizar o desktop via software"
 msgstr "Απεικόνιση της επιφάνειας εργασίας μέσω λογισμικού"
 
-msgid "(Pode ser útil em máquina virtual ou computadores antigos)"
-msgstr "(Μπορεί να είναι χρήσιμο σε εικονικές μηχανές ή παλιούς υπολογιστές)"
+msgid ""
+"(Pode ser útil em computadores antigos, porém alguns programas param de "
+"funcionar)"
+msgstr ""
 
 msgid "Escolher programas a serem carregados na memória durante boot"
 msgstr "Επιλέξτε προγράμματα που θα φορτωθούν στη μνήμη κατά την εκκίνηση"
@@ -156,7 +158,8 @@ msgstr "Αντεστραμμένη κύλιση ποντικιού"
 msgid "Pesquisar arquivos"
 msgstr "Αναζήτηση στα αρχεία"
 
-msgid "Bloquear a área de trabalho"
+#, fuzzy
+msgid "Bloquear a edição da área de trabalho"
 msgstr "Κλείδωμα της επιφάνειας εργασίας"
 
 msgid "Ocultar Gerenciador de Boot (GRUB)"
@@ -206,3 +209,10 @@ msgid ""
 "reduzida."
 msgstr ""
 "Χρησιμοποιώντας λογισμικό απόδοσης, η ποιότητα των διαφανειών μειώνεται."
+
+#~ msgid "<b>Classic</b> e <b>New</b> têm melhor desempenho."
+#~ msgstr "Το<b>Classic</b> και το <b>New</b> έχουν καλύτερες επιδόσεις."
+
+#~ msgid "(Pode ser útil em máquina virtual ou computadores antigos)"
+#~ msgstr ""
+#~ "(Μπορεί να είναι χρήσιμο σε εικονικές μηχανές ή παλιούς υπολογιστές)"

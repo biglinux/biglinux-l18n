@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: bigcontrolcenter\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-07-10 14:09-0300\n"
+"POT-Creation-Date: 2022-07-23 19:21-0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -427,6 +427,9 @@ msgstr "הגדרות המסך אופסו."
 msgid "Configurações da tela"
 msgstr "הגדרות מסך"
 
+msgid "Aguarde, criando arquivos de cache..."
+msgstr "אנא המתן, יצירת קבצי מטמון..."
+
 msgid "Categorias"
 msgstr "קטגוריות"
 
@@ -674,9 +677,6 @@ msgstr ""
 "בלחצן זה כדי לפתוח את אתר Snapdrop במחשב זה. ניתן להשתמש ב- Snapdrop בכל "
 "טלפון חכם או מחשב, כולל העברת קבצים ישירות מסמארטפון אחד למשנהו. אתה יכול גם "
 "להשתמש במנהל אפליקציות האינטרנט שלנו כדי להקל על השימוש באתר זה."
-
-msgid "Aguarde, criando arquivos de cache..."
-msgstr "אנא המתן, יצירת קבצי מטמון..."
 
 msgid "Maximizado"
 msgstr "מוגדל"

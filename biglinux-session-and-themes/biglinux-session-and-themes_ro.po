@@ -2,20 +2,20 @@
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the biglinux-session-and-themes package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-# 
+#
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: biglinux-session-and-themes\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-07-09 04:17-0300\n"
+"POT-Creation-Date: 2022-07-23 19:21-0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: ro\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit"
+"Content-Transfer-Encoding: 8bit\n"
 
 msgid "Temas, Desktop e Ajustes"
 msgstr "Teme, desktop și setări"
@@ -65,6 +65,9 @@ msgstr "Performanță în modul îmbunătățit!"
 msgid "Desempenho em modo performance!"
 msgstr "Performanță în modul performanță!"
 
+msgid "Aplicando, aguarde o termino."
+msgstr ""
+
 msgid "Temas"
 msgstr "Teme"
 
@@ -100,17 +103,15 @@ msgstr ""
 "calculatoarele vechi<br>sau în mediile virtualizate."
 
 msgid "<b>Classic</b>, <b>New</b> e <b>Modern</b> têm melhor desempenho."
-msgstr ""
-"<b>Clasic</b>, <b>Nou</b> și <b>Modern</b> au cele mai bune rezultate."
-
-msgid "<b>Classic</b> e <b>New</b> têm melhor desempenho."
-msgstr "<b>Classic</b> și <b>New</b> au performanțe mai bune."
+msgstr "<b>Clasic</b>, <b>Nou</b> și <b>Modern</b> au cele mai bune rezultate."
 
 msgid "Renderizar o desktop via software"
 msgstr "Redarea desktop-ului prin intermediul unui software"
 
-msgid "(Pode ser útil em máquina virtual ou computadores antigos)"
-msgstr "(Poate fi utilă pe mașinile virtuale sau pe calculatoarele vechi)"
+msgid ""
+"(Pode ser útil em computadores antigos, porém alguns programas param de "
+"funcionar)"
+msgstr ""
 
 msgid "Escolher programas a serem carregados na memória durante boot"
 msgstr "Alegeți programele care vor fi încărcate în memorie la pornire"
@@ -153,7 +154,8 @@ msgstr "Derulare inversată a mouse-ului"
 msgid "Pesquisar arquivos"
 msgstr "Căutați în arhive"
 
-msgid "Bloquear a área de trabalho"
+#, fuzzy
+msgid "Bloquear a edição da área de trabalho"
 msgstr "Blocați desktop-ul"
 
 msgid "Ocultar Gerenciador de Boot (GRUB)"
@@ -202,3 +204,9 @@ msgid ""
 "reduzida."
 msgstr ""
 "Prin utilizarea randării software, calitatea transparențelor este redusă."
+
+#~ msgid "<b>Classic</b> e <b>New</b> têm melhor desempenho."
+#~ msgstr "<b>Classic</b> și <b>New</b> au performanțe mai bune."
+
+#~ msgid "(Pode ser útil em máquina virtual ou computadores antigos)"
+#~ msgstr "(Poate fi utilă pe mașinile virtuale sau pe calculatoarele vechi)"

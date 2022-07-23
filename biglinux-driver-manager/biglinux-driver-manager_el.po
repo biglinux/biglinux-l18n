@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: biglinux-driver-manager\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-07-10 14:09-0300\n"
+"POT-Creation-Date: 2022-07-23 19:21-0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -88,72 +88,6 @@ msgstr ""
 msgid "Enviando, aguarde..."
 msgstr "Αποστολή, παρακαλώ περιμένετε..."
 
-msgid "Ver informações do dispositivo no Linux Hardware"
-msgstr "Προβολή πληροφοριών συσκευής στο υλικό Linux"
-
-msgid "Processador"
-msgstr "Επεξεργαστής"
-
-msgid "Placa mãe"
-msgstr "Μητρική πλακέτα"
-
-msgid "Memória"
-msgstr "Μνήμη"
-
-msgid "Swap (Memória Virtual)"
-msgstr "Swap (Εικονική μνήμη)"
-
-msgid "Placa de vídeo"
-msgstr "Κάρτα βίντεο"
-
-msgid "Áudio"
-msgstr "Ήχος"
-
-msgid "Rede"
-msgstr "Δίκτυο"
-
-msgid "Conexões de Rede"
-msgstr "Συνδέσεις δικτύου"
-
-msgid "Dispositivos e conexões USB"
-msgstr "Συσκευές και συνδέσεις USB"
-
-msgid "Portas PCI"
-msgstr "Θύρες PCI"
-
-msgid "Bateria"
-msgstr "Μπαταρία"
-
-msgid "Dispositivos de Armazenamento"
-msgstr "Συσκευές αποθήκευσης"
-
-msgid "Partições montadas"
-msgstr "Τοποθετημένα χωρίσματα"
-
-msgid "Partições desmontadas"
-msgstr "Αποσυναρμολογημένα χωρίσματα"
-
-msgid "Dispositivos lógicos"
-msgstr "Λογικές συσκευές"
-
-msgid "Raid"
-msgstr "Επιδρομή"
-
-msgid "Sistema"
-msgstr "Σύστημα"
-
-msgid "Informações de Sistema"
-msgstr "Πληροφορίες συστήματος"
-
-msgid "Repositórios"
-msgstr "Αποθετήρια"
-
-msgid "Bluetooth"
-msgstr "Bluetooth"
-
-msgid "Temperatura"
-msgstr "Θερμοκρασία"
-
 msgid ""
 "Digite sua senha para gerar um relatório removendo dados sensíveis, por "
 "exemplo, endereço de IP, ou cancele para utilizar as informações da tela "
@@ -177,17 +111,47 @@ msgstr "Κύρια"
 msgid "Resumo"
 msgstr "Περίληψη"
 
+msgid "Processador"
+msgstr "Επεξεργαστής"
+
+msgid "Placa de vídeo"
+msgstr "Κάρτα βίντεο"
+
+msgid "Placa mãe"
+msgstr "Μητρική πλακέτα"
+
+msgid "Memória"
+msgstr "Μνήμη"
+
+msgid "Rede"
+msgstr "Δίκτυο"
+
 msgid "Usb"
 msgstr "Usb"
 
 msgid "Pci"
 msgstr "Pci"
 
+msgid "Bateria"
+msgstr "Μπαταρία"
+
 msgid "Armazenamento"
 msgstr "Αποθήκευση"
 
+msgid "Sistema"
+msgstr "Σύστημα"
+
+msgid "Bluetooth"
+msgstr "Bluetooth"
+
+msgid "Temperatura"
+msgstr "Θερμοκρασία"
+
 msgid "Impressora"
 msgstr "Εκτυπωτής"
+
+msgid "Áudio"
+msgstr "Ήχος"
 
 msgid "Mais informações"
 msgstr "Περισσότερες πληροφορίες"
@@ -248,6 +212,9 @@ msgid "Cria um arquivo com informações que pode ser publicado na internet."
 msgstr ""
 "Δημιουργεί ένα αρχείο με πληροφορίες που μπορούν να δημοσιευτούν στο "
 "διαδίκτυο."
+
+msgid "Ver informações do dispositivo no Linux Hardware"
+msgstr "Προβολή πληροφοριών συσκευής στο υλικό Linux"
 
 msgid "Categoria"
 msgstr "Κατηγορία"
@@ -318,3 +285,36 @@ msgstr "Εφαρμογή - Παρακαλώ περιμένετε"
 
 msgid "Este pacote fornece arquivos compatíveis com este computador."
 msgstr "Αυτό το πακέτο παρέχει αρχεία συμβατά με αυτόν τον υπολογιστή."
+
+msgid "Swap (Memória Virtual)"
+msgstr "Swap (Εικονική μνήμη)"
+
+msgid "Conexões de Rede"
+msgstr "Συνδέσεις δικτύου"
+
+msgid "Dispositivos e conexões USB"
+msgstr "Συσκευές και συνδέσεις USB"
+
+msgid "Portas PCI"
+msgstr "Θύρες PCI"
+
+msgid "Dispositivos de Armazenamento"
+msgstr "Συσκευές αποθήκευσης"
+
+msgid "Partições montadas"
+msgstr "Τοποθετημένα χωρίσματα"
+
+msgid "Partições desmontadas"
+msgstr "Αποσυναρμολογημένα χωρίσματα"
+
+msgid "Dispositivos lógicos"
+msgstr "Λογικές συσκευές"
+
+msgid "Raid"
+msgstr "Επιδρομή"
+
+msgid "Informações de Sistema"
+msgstr "Πληροφορίες συστήματος"
+
+msgid "Repositórios"
+msgstr "Αποθετήρια"

@@ -2,20 +2,20 @@
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the biglinux-session-and-themes package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-# 
+#
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: biglinux-session-and-themes\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-07-09 04:17-0300\n"
+"POT-Creation-Date: 2022-07-23 19:21-0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: es\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit"
+"Content-Transfer-Encoding: 8bit\n"
 
 msgid "Temas, Desktop e Ajustes"
 msgstr "Temas, escritorio y configuración"
@@ -66,6 +66,9 @@ msgstr "Rendimiento en modo mejorado!"
 msgid "Desempenho em modo performance!"
 msgstr "Rendimiento en el modo de rendimiento!"
 
+msgid "Aplicando, aguarde o termino."
+msgstr ""
+
 msgid "Temas"
 msgstr "Temas"
 
@@ -105,19 +108,17 @@ msgstr ""
 "Los <b>clásicos</b>, los <b>nuevos</b> y <b>los modernos</b> son los que "
 "mejor funcionan."
 
-msgid "<b>Classic</b> e <b>New</b> têm melhor desempenho."
-msgstr "<b>Classic</b> y <b>New</b> tienen mejor rendimiento."
-
 msgid "Renderizar o desktop via software"
 msgstr "Renderización del escritorio mediante software"
 
-msgid "(Pode ser útil em máquina virtual ou computadores antigos)"
-msgstr "(Puede ser útil en una máquina virtual o en ordenadores antiguos)"
+msgid ""
+"(Pode ser útil em computadores antigos, porém alguns programas param de "
+"funcionar)"
+msgstr ""
 
 msgid "Escolher programas a serem carregados na memória durante boot"
 msgstr ""
-"Elegir los programas que se cargarán en la memoria en el momento del "
-"arranque"
+"Elegir los programas que se cargarán en la memoria en el momento del arranque"
 
 msgid ""
 "O Preload carrega arquivos dos programas na memória, para que iniciem "
@@ -157,7 +158,8 @@ msgstr "Desplazamiento invertido del ratón"
 msgid "Pesquisar arquivos"
 msgstr "Buscar en los archivos"
 
-msgid "Bloquear a área de trabalho"
+#, fuzzy
+msgid "Bloquear a edição da área de trabalho"
 msgstr "Bloquear el escritorio"
 
 msgid "Ocultar Gerenciador de Boot (GRUB)"
@@ -207,3 +209,9 @@ msgid ""
 msgstr ""
 "Al utilizar el renderizado por software, la calidad de las transparencias se "
 "reduce."
+
+#~ msgid "<b>Classic</b> e <b>New</b> têm melhor desempenho."
+#~ msgstr "<b>Classic</b> y <b>New</b> tienen mejor rendimiento."
+
+#~ msgid "(Pode ser útil em máquina virtual ou computadores antigos)"
+#~ msgstr "(Puede ser útil en una máquina virtual o en ordenadores antiguos)"

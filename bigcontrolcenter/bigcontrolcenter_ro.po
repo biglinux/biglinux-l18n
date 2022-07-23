@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: bigcontrolcenter\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-07-10 14:09-0300\n"
+"POT-Creation-Date: 2022-07-23 19:21-0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -444,6 +444,9 @@ msgstr "Setările ecranului au fost resetate."
 msgid "Configurações da tela"
 msgstr "Setări ecran"
 
+msgid "Aguarde, criando arquivos de cache..."
+msgstr "Așteptați, creăm fișiere cache..."
+
 msgid "Categorias"
 msgstr "Categorii"
 
@@ -709,9 +712,6 @@ msgstr ""
 "pe orice smartphone sau computer, inclusiv pentru a transfera fișiere direct "
 "de pe un smartphone pe altul.  De asemenea, puteți utiliza managerul nostru "
 "de aplicații web pentru a facilita utilizarea acestui site web."
-
-msgid "Aguarde, criando arquivos de cache..."
-msgstr "Așteptați, creăm fișiere cache..."
 
 msgid "Maximizado"
 msgstr "Maximizat"

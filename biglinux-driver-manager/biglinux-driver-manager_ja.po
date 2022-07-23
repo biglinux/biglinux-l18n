@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: biglinux-driver-manager\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-07-10 14:09-0300\n"
+"POT-Creation-Date: 2022-07-23 19:21-0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -82,72 +82,6 @@ msgstr "エラーが発生したため、ドライバを適用できません。
 msgid "Enviando, aguarde..."
 msgstr "送信中です、お待ちください..."
 
-msgid "Ver informações do dispositivo no Linux Hardware"
-msgstr "Linux Hardwareのデバイス情報を表示する"
-
-msgid "Processador"
-msgstr "プロセッサー"
-
-msgid "Placa mãe"
-msgstr "マザーボード"
-
-msgid "Memória"
-msgstr "メモリ"
-
-msgid "Swap (Memória Virtual)"
-msgstr "スワップ(仮想メモリ)"
-
-msgid "Placa de vídeo"
-msgstr "ビデオカード"
-
-msgid "Áudio"
-msgstr "オーディオ"
-
-msgid "Rede"
-msgstr "ネットワーク"
-
-msgid "Conexões de Rede"
-msgstr "ネットワーク接続"
-
-msgid "Dispositivos e conexões USB"
-msgstr "USBデバイスと接続"
-
-msgid "Portas PCI"
-msgstr "PCIポート"
-
-msgid "Bateria"
-msgstr "バッテリー"
-
-msgid "Dispositivos de Armazenamento"
-msgstr "ストレージデバイス"
-
-msgid "Partições montadas"
-msgstr "マウントパーティション"
-
-msgid "Partições desmontadas"
-msgstr "解体されたパーティション"
-
-msgid "Dispositivos lógicos"
-msgstr "ロジックデバイス"
-
-msgid "Raid"
-msgstr "レイド"
-
-msgid "Sistema"
-msgstr "システム"
-
-msgid "Informações de Sistema"
-msgstr "システム情報"
-
-msgid "Repositórios"
-msgstr "レポジトリー"
-
-msgid "Bluetooth"
-msgstr "ブルートゥース"
-
-msgid "Temperatura"
-msgstr "温度"
-
 msgid ""
 "Digite sua senha para gerar um relatório removendo dados sensíveis, por "
 "exemplo, endereço de IP, ou cancele para utilizar as informações da tela "
@@ -168,17 +102,47 @@ msgstr "メイン"
 msgid "Resumo"
 msgstr "概要"
 
+msgid "Processador"
+msgstr "プロセッサー"
+
+msgid "Placa de vídeo"
+msgstr "ビデオカード"
+
+msgid "Placa mãe"
+msgstr "マザーボード"
+
+msgid "Memória"
+msgstr "メモリ"
+
+msgid "Rede"
+msgstr "ネットワーク"
+
 msgid "Usb"
 msgstr "ユーエスビー"
 
 msgid "Pci"
 msgstr "Pci"
 
+msgid "Bateria"
+msgstr "バッテリー"
+
 msgid "Armazenamento"
 msgstr "ストレージ"
 
+msgid "Sistema"
+msgstr "システム"
+
+msgid "Bluetooth"
+msgstr "ブルートゥース"
+
+msgid "Temperatura"
+msgstr "温度"
+
 msgid "Impressora"
 msgstr "プリンター"
+
+msgid "Áudio"
+msgstr "オーディオ"
 
 msgid "Mais informações"
 msgstr "詳細はこちら"
@@ -237,6 +201,9 @@ msgstr "レポート作成"
 
 msgid "Cria um arquivo com informações que pode ser publicado na internet."
 msgstr "インターネット上で公開できる情報を含むファイルを作成します。"
+
+msgid "Ver informações do dispositivo no Linux Hardware"
+msgstr "Linux Hardwareのデバイス情報を表示する"
 
 msgid "Categoria"
 msgstr "カテゴリー"
@@ -307,3 +274,36 @@ msgstr "応募中 - しばらくお待ちください"
 
 msgid "Este pacote fornece arquivos compatíveis com este computador."
 msgstr "このパッケージは、このコンピューターに対応したファイルを提供します。"
+
+msgid "Swap (Memória Virtual)"
+msgstr "スワップ(仮想メモリ)"
+
+msgid "Conexões de Rede"
+msgstr "ネットワーク接続"
+
+msgid "Dispositivos e conexões USB"
+msgstr "USBデバイスと接続"
+
+msgid "Portas PCI"
+msgstr "PCIポート"
+
+msgid "Dispositivos de Armazenamento"
+msgstr "ストレージデバイス"
+
+msgid "Partições montadas"
+msgstr "マウントパーティション"
+
+msgid "Partições desmontadas"
+msgstr "解体されたパーティション"
+
+msgid "Dispositivos lógicos"
+msgstr "ロジックデバイス"
+
+msgid "Raid"
+msgstr "レイド"
+
+msgid "Informações de Sistema"
+msgstr "システム情報"
+
+msgid "Repositórios"
+msgstr "レポジトリー"

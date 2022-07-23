@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: bigcontrolcenter\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-07-10 14:09-0300\n"
+"POT-Creation-Date: 2022-07-23 19:21-0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -443,6 +443,9 @@ msgstr "Настройките на екрана са нулирани."
 msgid "Configurações da tela"
 msgstr "Настройки на екрана"
 
+msgid "Aguarde, criando arquivos de cache..."
+msgstr "Подгответе се за създаване на кеш файлове..."
+
 msgid "Categorias"
 msgstr "Категории"
 
@@ -708,9 +711,6 @@ msgstr ""
 "или компютър, включително за прехвърляне на файлове директно от един "
 "смартфон на друг.  Можете също така да използвате нашия мениджър на уеб "
 "приложения, за да улесните използването на този уебсайт."
-
-msgid "Aguarde, criando arquivos de cache..."
-msgstr "Подгответе се за създаване на кеш файлове..."
 
 msgid "Maximizado"
 msgstr "Максимизиран"

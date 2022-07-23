@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: bigcontrolcenter\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-07-10 14:09-0300\n"
+"POT-Creation-Date: 2022-07-23 19:21-0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -447,6 +447,9 @@ msgstr "Ustawienia ekranu zostały zresetowane."
 msgid "Configurações da tela"
 msgstr "Ustawienia ekranu"
 
+msgid "Aguarde, criando arquivos de cache..."
+msgstr "Przygotować się, tworząc pliki pamięci podręcznej..."
+
 msgid "Categorias"
 msgstr "Kategorie"
 
@@ -715,9 +718,6 @@ msgstr ""
 "jednego smartfona na drugi.  Mogą Państwo również skorzystać z naszego "
 "menedżera aplikacji internetowych, aby ułatwić sobie korzystanie z tej "
 "strony."
-
-msgid "Aguarde, criando arquivos de cache..."
-msgstr "Przygotować się, tworząc pliki pamięci podręcznej..."
 
 msgid "Maximizado"
 msgstr "Zmaksymalizowana"

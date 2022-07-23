@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: biglinux-session-and-themes\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-07-10 14:09-0300\n"
+"POT-Creation-Date: 2022-07-23 19:21-0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -65,6 +65,9 @@ msgstr "Desempenho em modo otimizado!"
 msgid "Desempenho em modo performance!"
 msgstr "Desempenho em modo performance!"
 
+msgid "Aplicando, aguarde o termino."
+msgstr ""
+
 msgid "Temas"
 msgstr "Temas"
 
@@ -106,8 +109,10 @@ msgstr "<b>Classic</b> e <b>New</b> têm melhor desempenho."
 msgid "Renderizar o desktop via software"
 msgstr "Renderizar o desktop via software"
 
-msgid "(Pode ser útil em máquina virtual ou computadores antigos)"
-msgstr "(Pode ser útil em máquina virtual ou computadores antigos)"
+msgid ""
+"(Pode ser útil em computadores antigos, porém alguns programas param de "
+"funcionar)"
+msgstr ""
 
 msgid "Escolher programas a serem carregados na memória durante boot"
 msgstr "Escolher programas a serem carregados na memória durante boot"
@@ -149,7 +154,8 @@ msgstr "Rolagem do mouse invertida"
 msgid "Pesquisar arquivos"
 msgstr "Pesquisar arquivos"
 
-msgid "Bloquear a área de trabalho"
+#, fuzzy
+msgid "Bloquear a edição da área de trabalho"
 msgstr "Bloquear a área de trabalho"
 
 msgid "Ocultar Gerenciador de Boot (GRUB)"
@@ -199,3 +205,6 @@ msgid ""
 msgstr ""
 "Utilizando renderização por software, a qualidade das transparências está "
 "reduzida."
+
+#~ msgid "(Pode ser útil em máquina virtual ou computadores antigos)"
+#~ msgstr "(Pode ser útil em máquina virtual ou computadores antigos)"

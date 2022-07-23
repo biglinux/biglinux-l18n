@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: bigcontrolcenter\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-07-10 14:09-0300\n"
+"POT-Creation-Date: 2022-07-23 19:21-0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -439,6 +439,9 @@ msgstr "Ekraani seaded on lähtestatud."
 msgid "Configurações da tela"
 msgstr "Ekraani seaded"
 
+msgid "Aguarde, criando arquivos de cache..."
+msgstr "Oodata, luues vahemälufaile..."
+
 msgid "Categorias"
 msgstr "Kategooriad"
 
@@ -696,9 +699,6 @@ msgstr ""
 "saab kasutada mis tahes nutitelefonis või arvutis, sealhulgas edastada faile "
 "otse ühest nutitelefonist teise.  Võite kasutada ka meie veebirakenduse "
 "haldurit, et muuta selle veebisaidi kasutamine lihtsaks."
-
-msgid "Aguarde, criando arquivos de cache..."
-msgstr "Oodata, luues vahemälufaile..."
 
 msgid "Maximizado"
 msgstr "Maksimeeritud"

@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: biglinux-driver-manager\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-07-10 14:09-0300\n"
+"POT-Creation-Date: 2022-07-23 19:21-0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -86,72 +86,6 @@ msgstr ""
 msgid "Enviando, aguarde..."
 msgstr "Zenden, even geduld..."
 
-msgid "Ver informações do dispositivo no Linux Hardware"
-msgstr "Apparaatinformatie bekijken op Linux Hardware"
-
-msgid "Processador"
-msgstr "Processor"
-
-msgid "Placa mãe"
-msgstr "Moederbord"
-
-msgid "Memória"
-msgstr "Geheugen"
-
-msgid "Swap (Memória Virtual)"
-msgstr "Swap (virtueel geheugen)"
-
-msgid "Placa de vídeo"
-msgstr "Videokaart"
-
-msgid "Áudio"
-msgstr "Audio"
-
-msgid "Rede"
-msgstr "Netwerk"
-
-msgid "Conexões de Rede"
-msgstr "Netwerkverbindingen"
-
-msgid "Dispositivos e conexões USB"
-msgstr "USB-apparaten en aansluitingen"
-
-msgid "Portas PCI"
-msgstr "PCI-poorten"
-
-msgid "Bateria"
-msgstr "Batterij"
-
-msgid "Dispositivos de Armazenamento"
-msgstr "Opslagapparaten"
-
-msgid "Partições montadas"
-msgstr "Gemonteerde scheidingswanden"
-
-msgid "Partições desmontadas"
-msgstr "Ontmantelde scheidingswanden"
-
-msgid "Dispositivos lógicos"
-msgstr "Logische apparaten"
-
-msgid "Raid"
-msgstr "Overval"
-
-msgid "Sistema"
-msgstr "Systeem"
-
-msgid "Informações de Sistema"
-msgstr "Systeeminformatie"
-
-msgid "Repositórios"
-msgstr "Repositories"
-
-msgid "Bluetooth"
-msgstr "Bluetooth"
-
-msgid "Temperatura"
-msgstr "Temperatuur"
-
 msgid ""
 "Digite sua senha para gerar um relatório removendo dados sensíveis, por "
 "exemplo, endereço de IP, ou cancele para utilizar as informações da tela "
@@ -173,17 +107,47 @@ msgstr "Hoofd"
 msgid "Resumo"
 msgstr "Samenvatting"
 
+msgid "Processador"
+msgstr "Processor"
+
+msgid "Placa de vídeo"
+msgstr "Videokaart"
+
+msgid "Placa mãe"
+msgstr "Moederbord"
+
+msgid "Memória"
+msgstr "Geheugen"
+
+msgid "Rede"
+msgstr "Netwerk"
+
 msgid "Usb"
 msgstr "Usb"
 
 msgid "Pci"
 msgstr "Pci"
 
+msgid "Bateria"
+msgstr "Batterij"
+
 msgid "Armazenamento"
 msgstr "Opslag"
 
+msgid "Sistema"
+msgstr "Systeem"
+
+msgid "Bluetooth"
+msgstr "Bluetooth"
+
+msgid "Temperatura"
+msgstr "Temperatuur"
+
 msgid "Impressora"
 msgstr "Printer"
+
+msgid "Áudio"
+msgstr "Audio"
 
 msgid "Mais informações"
 msgstr "Meer informatie"
@@ -243,6 +207,9 @@ msgstr "Genereer verslag"
 msgid "Cria um arquivo com informações que pode ser publicado na internet."
 msgstr ""
 "Maakt een bestand met informatie die op het internet gepubliceerd kan worden."
+
+msgid "Ver informações do dispositivo no Linux Hardware"
+msgstr "Apparaatinformatie bekijken op Linux Hardware"
 
 msgid "Categoria"
 msgstr "Categorie"
@@ -313,3 +280,36 @@ msgstr "Aanvragen - Even geduld a.u.b"
 
 msgid "Este pacote fornece arquivos compatíveis com este computador."
 msgstr "Dit pakket bevat bestanden die compatibel zijn met deze computer."
+
+msgid "Swap (Memória Virtual)"
+msgstr "Swap (virtueel geheugen)"
+
+msgid "Conexões de Rede"
+msgstr "Netwerkverbindingen"
+
+msgid "Dispositivos e conexões USB"
+msgstr "USB-apparaten en aansluitingen"
+
+msgid "Portas PCI"
+msgstr "PCI-poorten"
+
+msgid "Dispositivos de Armazenamento"
+msgstr "Opslagapparaten"
+
+msgid "Partições montadas"
+msgstr "Gemonteerde scheidingswanden"
+
+msgid "Partições desmontadas"
+msgstr "Ontmantelde scheidingswanden"
+
+msgid "Dispositivos lógicos"
+msgstr "Logische apparaten"
+
+msgid "Raid"
+msgstr "Overval"
+
+msgid "Informações de Sistema"
+msgstr "Systeeminformatie"
+
+msgid "Repositórios"
+msgstr "Repositories"

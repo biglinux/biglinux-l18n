@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: biglinux-driver-manager\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-07-10 14:09-0300\n"
+"POT-Creation-Date: 2022-07-23 19:21-0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -84,72 +84,6 @@ msgstr "Ett fel har inträffat och drivrutinen kan inte tillämpas."
 msgid "Enviando, aguarde..."
 msgstr "Sändning, vänligen vänta..."
 
-msgid "Ver informações do dispositivo no Linux Hardware"
-msgstr "Visa enhetsinformation om Linux maskinvara"
-
-msgid "Processador"
-msgstr "Processor"
-
-msgid "Placa mãe"
-msgstr "Moderkort"
-
-msgid "Memória"
-msgstr "Minne"
-
-msgid "Swap (Memória Virtual)"
-msgstr "Swap (virtuellt minne)"
-
-msgid "Placa de vídeo"
-msgstr "Videokort"
-
-msgid "Áudio"
-msgstr "Ljud"
-
-msgid "Rede"
-msgstr "Nätverk"
-
-msgid "Conexões de Rede"
-msgstr "Nätverksanslutningar"
-
-msgid "Dispositivos e conexões USB"
-msgstr "USB-enheter och anslutningar"
-
-msgid "Portas PCI"
-msgstr "PCI-portar"
-
-msgid "Bateria"
-msgstr "Batteri"
-
-msgid "Dispositivos de Armazenamento"
-msgstr "Lagringsenheter"
-
-msgid "Partições montadas"
-msgstr "Monterade partitioner"
-
-msgid "Partições desmontadas"
-msgstr "Nedmonterade skiljeväggar"
-
-msgid "Dispositivos lógicos"
-msgstr "Logiska anordningar"
-
-msgid "Raid"
-msgstr "Raid"
-
-msgid "Sistema"
-msgstr "System"
-
-msgid "Informações de Sistema"
-msgstr "Systeminformation"
-
-msgid "Repositórios"
-msgstr "Förvaringsställen"
-
-msgid "Bluetooth"
-msgstr "Bluetooth"
-
-msgid "Temperatura"
-msgstr "Temperatur"
-
 msgid ""
 "Digite sua senha para gerar um relatório removendo dados sensíveis, por "
 "exemplo, endereço de IP, ou cancele para utilizar as informações da tela "
@@ -171,17 +105,47 @@ msgstr "Huvudsidan"
 msgid "Resumo"
 msgstr "Sammanfattning"
 
+msgid "Processador"
+msgstr "Processor"
+
+msgid "Placa de vídeo"
+msgstr "Videokort"
+
+msgid "Placa mãe"
+msgstr "Moderkort"
+
+msgid "Memória"
+msgstr "Minne"
+
+msgid "Rede"
+msgstr "Nätverk"
+
 msgid "Usb"
 msgstr "Usb"
 
 msgid "Pci"
 msgstr "Pci"
 
+msgid "Bateria"
+msgstr "Batteri"
+
 msgid "Armazenamento"
 msgstr "Lagring"
 
+msgid "Sistema"
+msgstr "System"
+
+msgid "Bluetooth"
+msgstr "Bluetooth"
+
+msgid "Temperatura"
+msgstr "Temperatur"
+
 msgid "Impressora"
 msgstr "Skrivare"
+
+msgid "Áudio"
+msgstr "Ljud"
 
 msgid "Mais informações"
 msgstr "Mer information"
@@ -240,6 +204,9 @@ msgstr "Generera en rapport"
 
 msgid "Cria um arquivo com informações que pode ser publicado na internet."
 msgstr "Skapar en fil med information som kan publiceras på internet."
+
+msgid "Ver informações do dispositivo no Linux Hardware"
+msgstr "Visa enhetsinformation om Linux maskinvara"
 
 msgid "Categoria"
 msgstr "Kategori"
@@ -310,3 +277,36 @@ msgstr "Ansökan - Vänta"
 
 msgid "Este pacote fornece arquivos compatíveis com este computador."
 msgstr "Det här paketet innehåller filer som är kompatibla med den här datorn."
+
+msgid "Swap (Memória Virtual)"
+msgstr "Swap (virtuellt minne)"
+
+msgid "Conexões de Rede"
+msgstr "Nätverksanslutningar"
+
+msgid "Dispositivos e conexões USB"
+msgstr "USB-enheter och anslutningar"
+
+msgid "Portas PCI"
+msgstr "PCI-portar"
+
+msgid "Dispositivos de Armazenamento"
+msgstr "Lagringsenheter"
+
+msgid "Partições montadas"
+msgstr "Monterade partitioner"
+
+msgid "Partições desmontadas"
+msgstr "Nedmonterade skiljeväggar"
+
+msgid "Dispositivos lógicos"
+msgstr "Logiska anordningar"
+
+msgid "Raid"
+msgstr "Raid"
+
+msgid "Informações de Sistema"
+msgstr "Systeminformation"
+
+msgid "Repositórios"
+msgstr "Förvaringsställen"

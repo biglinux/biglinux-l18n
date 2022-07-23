@@ -2,20 +2,20 @@
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the biglinux-session-and-themes package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-# 
+#
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: biglinux-session-and-themes\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-07-09 04:17-0300\n"
+"POT-Creation-Date: 2022-07-23 19:21-0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: sk\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit"
+"Content-Transfer-Encoding: 8bit\n"
 
 msgid "Temas, Desktop e Ajustes"
 msgstr "Témy, pracovná plocha a nastavenia"
@@ -64,6 +64,9 @@ msgstr "Výkon v rozšírenom režime!"
 msgid "Desempenho em modo performance!"
 msgstr "Výkon v režime výkonu!"
 
+msgid "Aplicando, aguarde o termino."
+msgstr ""
+
 msgid "Temas"
 msgstr "Témy"
 
@@ -102,15 +105,13 @@ msgstr ""
 msgid "<b>Classic</b>, <b>New</b> e <b>Modern</b> têm melhor desempenho."
 msgstr "Najlepšie sa osvedčili <b>klasické</b>, <b>nové</b> a <b>moderné</b>."
 
-msgid "<b>Classic</b> e <b>New</b> têm melhor desempenho."
-msgstr "<b>Klasické</b> a <b>nové</b> majú lepší výkon."
-
 msgid "Renderizar o desktop via software"
 msgstr "Vykresľovanie pracovnej plochy pomocou softvéru"
 
-msgid "(Pode ser útil em máquina virtual ou computadores antigos)"
+msgid ""
+"(Pode ser útil em computadores antigos, porém alguns programas param de "
+"funcionar)"
 msgstr ""
-"(Môže byť užitočné na virtuálnom počítači alebo na starých počítačoch)"
 
 msgid "Escolher programas a serem carregados na memória durante boot"
 msgstr "Výber programov, ktoré sa majú načítať do pamäte pri štarte systému"
@@ -119,8 +120,9 @@ msgid ""
 "O Preload carrega arquivos dos programas na memória, para que iniciem "
 "rapidamente. O uso excessivo causa lentidão. Escolha a opção desejada:"
 msgstr ""
-"Predbežné načítanie načíta súbory programu do pamäte, aby sa rýchlo spustili."
-" Nadmerné používanie spôsobuje spomalenie. Vyberte požadovanú možnosť:"
+"Predbežné načítanie načíta súbory programu do pamäte, aby sa rýchlo "
+"spustili. Nadmerné používanie spôsobuje spomalenie. Vyberte požadovanú "
+"možnosť:"
 
 msgid "Automático"
 msgstr "Automatické"
@@ -152,7 +154,8 @@ msgstr "Invertované posúvanie myšou"
 msgid "Pesquisar arquivos"
 msgstr "Vyhľadávanie v archívoch"
 
-msgid "Bloquear a área de trabalho"
+#, fuzzy
+msgid "Bloquear a edição da área de trabalho"
 msgstr "Uzamknutie pracovnej plochy"
 
 msgid "Ocultar Gerenciador de Boot (GRUB)"
@@ -200,3 +203,10 @@ msgid ""
 "Utilizando renderização por software, a qualidade das transparências está "
 "reduzida."
 msgstr "Pri softvérovom vykresľovaní sa znižuje kvalita priehľadov."
+
+#~ msgid "<b>Classic</b> e <b>New</b> têm melhor desempenho."
+#~ msgstr "<b>Klasické</b> a <b>nové</b> majú lepší výkon."
+
+#~ msgid "(Pode ser útil em máquina virtual ou computadores antigos)"
+#~ msgstr ""
+#~ "(Môže byť užitočné na virtuálnom počítači alebo na starých počítačoch)"

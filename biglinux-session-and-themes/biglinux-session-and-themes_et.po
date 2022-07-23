@@ -2,20 +2,20 @@
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the biglinux-session-and-themes package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-# 
+#
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: biglinux-session-and-themes\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-07-09 04:17-0300\n"
+"POT-Creation-Date: 2022-07-23 19:21-0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: et\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit"
+"Content-Transfer-Encoding: 8bit\n"
 
 msgid "Temas, Desktop e Ajustes"
 msgstr "Teemad, töölaud ja seaded"
@@ -65,6 +65,9 @@ msgstr "Täiustatud režiimil toimimine!"
 msgid "Desempenho em modo performance!"
 msgstr "Esitlusvõime esitusrežiimis!"
 
+msgid "Aplicando, aguarde o termino."
+msgstr ""
+
 msgid "Temas"
 msgstr "Teemad"
 
@@ -103,14 +106,13 @@ msgid "<b>Classic</b>, <b>New</b> e <b>Modern</b> têm melhor desempenho."
 msgstr ""
 "Kõige paremini toimivad <b>klassikaline</b>, <b>uus</b> ja <b>kaasaegne</b>."
 
-msgid "<b>Classic</b> e <b>New</b> têm melhor desempenho."
-msgstr "<b>Classic</b> ja <b>New</b> on parema jõudlusega."
-
 msgid "Renderizar o desktop via software"
 msgstr "Töölaua renderdamine tarkvara abil"
 
-msgid "(Pode ser útil em máquina virtual ou computadores antigos)"
-msgstr "(Võib olla kasulik virtuaalses masinas või vanades arvutites)"
+msgid ""
+"(Pode ser útil em computadores antigos, porém alguns programas param de "
+"funcionar)"
+msgstr ""
 
 msgid "Escolher programas a serem carregados na memória durante boot"
 msgstr "Valige programmid, mis laaditakse mällu käivitamise ajal"
@@ -152,7 +154,8 @@ msgstr "Ümberpööratud hiire kerimine"
 msgid "Pesquisar arquivos"
 msgstr "Otsi arhiivides"
 
-msgid "Bloquear a área de trabalho"
+#, fuzzy
+msgid "Bloquear a edição da área de trabalho"
 msgstr "Töölaua lukustamine"
 
 msgid "Ocultar Gerenciador de Boot (GRUB)"
@@ -200,3 +203,9 @@ msgid ""
 "Utilizando renderização por software, a qualidade das transparências está "
 "reduzida."
 msgstr "Tarkvaralist renderdamist kasutades väheneb läbipaistvuse kvaliteet."
+
+#~ msgid "<b>Classic</b> e <b>New</b> têm melhor desempenho."
+#~ msgstr "<b>Classic</b> ja <b>New</b> on parema jõudlusega."
+
+#~ msgid "(Pode ser útil em máquina virtual ou computadores antigos)"
+#~ msgstr "(Võib olla kasulik virtuaalses masinas või vanades arvutites)"

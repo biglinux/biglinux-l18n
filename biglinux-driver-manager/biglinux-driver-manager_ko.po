@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: biglinux-driver-manager\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-07-10 14:09-0300\n"
+"POT-Creation-Date: 2022-07-23 19:21-0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -82,72 +82,6 @@ msgstr "오류가 발생하여 드라이버를 적용할 수 없습니다."
 msgid "Enviando, aguarde..."
 msgstr "보내는 중입니다. 잠시만 기다려"
 
-msgid "Ver informações do dispositivo no Linux Hardware"
-msgstr "Linux 하드웨어에 대한 장치 정보 보기"
-
-msgid "Processador"
-msgstr "프로세서"
-
-msgid "Placa mãe"
-msgstr "마더보드"
-
-msgid "Memória"
-msgstr "회고록"
-
-msgid "Swap (Memória Virtual)"
-msgstr "스왑 (가상 메모리)"
-
-msgid "Placa de vídeo"
-msgstr "비디오 카드"
-
-msgid "Áudio"
-msgstr "오디오"
-
-msgid "Rede"
-msgstr "넷"
-
-msgid "Conexões de Rede"
-msgstr "네트워크 연결"
-
-msgid "Dispositivos e conexões USB"
-msgstr "USB 장치 및 연결"
-
-msgid "Portas PCI"
-msgstr "PCI 포트"
-
-msgid "Bateria"
-msgstr "드럼"
-
-msgid "Dispositivos de Armazenamento"
-msgstr "스토리지 디바이스"
-
-msgid "Partições montadas"
-msgstr "마운트된 파티션"
-
-msgid "Partições desmontadas"
-msgstr "해체된 파티션"
-
-msgid "Dispositivos lógicos"
-msgstr "논리 디바이스"
-
-msgid "Raid"
-msgstr "레이드"
-
-msgid "Sistema"
-msgstr "시스템"
-
-msgid "Informações de Sistema"
-msgstr "시스템 정보"
-
-msgid "Repositórios"
-msgstr "리포지토리"
-
-msgid "Bluetooth"
-msgstr "블루투스"
-
-msgid "Temperatura"
-msgstr "임시 직원"
-
 msgid ""
 "Digite sua senha para gerar um relatório removendo dados sensíveis, por "
 "exemplo, endereço de IP, ou cancele para utilizar as informações da tela "
@@ -168,17 +102,47 @@ msgstr "메인"
 msgid "Resumo"
 msgstr "요약"
 
+msgid "Processador"
+msgstr "프로세서"
+
+msgid "Placa de vídeo"
+msgstr "비디오 카드"
+
+msgid "Placa mãe"
+msgstr "마더보드"
+
+msgid "Memória"
+msgstr "회고록"
+
+msgid "Rede"
+msgstr "넷"
+
 msgid "Usb"
 msgstr "Usb"
 
 msgid "Pci"
 msgstr "PCI"
 
+msgid "Bateria"
+msgstr "드럼"
+
 msgid "Armazenamento"
 msgstr "스토리지"
 
+msgid "Sistema"
+msgstr "시스템"
+
+msgid "Bluetooth"
+msgstr "블루투스"
+
+msgid "Temperatura"
+msgstr "임시 직원"
+
 msgid "Impressora"
 msgstr "프린터"
+
+msgid "Áudio"
+msgstr "오디오"
 
 msgid "Mais informações"
 msgstr "추가 정보"
@@ -237,6 +201,9 @@ msgstr "보고서 생성"
 
 msgid "Cria um arquivo com informações que pode ser publicado na internet."
 msgstr "인터넷에 게시할 수 있는 정보가 포함된 파일을 만듭니다."
+
+msgid "Ver informações do dispositivo no Linux Hardware"
+msgstr "Linux 하드웨어에 대한 장치 정보 보기"
 
 msgid "Categoria"
 msgstr "카테고리"
@@ -306,3 +273,36 @@ msgstr "신청 - 기다려주세요"
 
 msgid "Este pacote fornece arquivos compatíveis com este computador."
 msgstr "이 패키지는 이 컴퓨터와 호환되는 파일을 제공합니다."
+
+msgid "Swap (Memória Virtual)"
+msgstr "스왑 (가상 메모리)"
+
+msgid "Conexões de Rede"
+msgstr "네트워크 연결"
+
+msgid "Dispositivos e conexões USB"
+msgstr "USB 장치 및 연결"
+
+msgid "Portas PCI"
+msgstr "PCI 포트"
+
+msgid "Dispositivos de Armazenamento"
+msgstr "스토리지 디바이스"
+
+msgid "Partições montadas"
+msgstr "마운트된 파티션"
+
+msgid "Partições desmontadas"
+msgstr "해체된 파티션"
+
+msgid "Dispositivos lógicos"
+msgstr "논리 디바이스"
+
+msgid "Raid"
+msgstr "레이드"
+
+msgid "Informações de Sistema"
+msgstr "시스템 정보"
+
+msgid "Repositórios"
+msgstr "리포지토리"

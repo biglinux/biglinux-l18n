@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: biglinux-driver-manager\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-07-10 14:09-0300\n"
+"POT-Creation-Date: 2022-07-23 19:21-0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -82,72 +82,6 @@ msgstr "אירעה שגיאה ולא ניתן להחיל את מנהל ההתק�
 msgid "Enviando, aguarde..."
 msgstr "שולח, אנא המתן..."
 
-msgid "Ver informações do dispositivo no Linux Hardware"
-msgstr "הצגת פרטי מכשיר על חומרת Linux"
-
-msgid "Processador"
-msgstr "מעבד"
-
-msgid "Placa mãe"
-msgstr "לוח אם"
-
-msgid "Memória"
-msgstr "סיפור חיים"
-
-msgid "Swap (Memória Virtual)"
-msgstr "החלפה (זיכרון וירטואלי)"
-
-msgid "Placa de vídeo"
-msgstr "כרטיס מסך"
-
-msgid "Áudio"
-msgstr "אודיו"
-
-msgid "Rede"
-msgstr "נטו"
-
-msgid "Conexões de Rede"
-msgstr "חיבורי רשת"
-
-msgid "Dispositivos e conexões USB"
-msgstr "התקני USB וחיבורים"
-
-msgid "Portas PCI"
-msgstr "יציאות PCI"
-
-msgid "Bateria"
-msgstr "תופים"
-
-msgid "Dispositivos de Armazenamento"
-msgstr "התקני אחסון"
-
-msgid "Partições montadas"
-msgstr "מחיצות רכובות"
-
-msgid "Partições desmontadas"
-msgstr "מחיצות מפורקות"
-
-msgid "Dispositivos lógicos"
-msgstr "התקנים לוגיים"
-
-msgid "Raid"
-msgstr "פשיטה"
-
-msgid "Sistema"
-msgstr "מערכת"
-
-msgid "Informações de Sistema"
-msgstr "מידע על המערכת"
-
-msgid "Repositórios"
-msgstr "מאגרים"
-
-msgid "Bluetooth"
-msgstr "Bluetooth"
-
-msgid "Temperatura"
-msgstr "טמפ"
-
 msgid ""
 "Digite sua senha para gerar um relatório removendo dados sensíveis, por "
 "exemplo, endereço de IP, ou cancele para utilizar as informações da tela "
@@ -168,17 +102,47 @@ msgstr "ראשי"
 msgid "Resumo"
 msgstr "סיכום"
 
+msgid "Processador"
+msgstr "מעבד"
+
+msgid "Placa de vídeo"
+msgstr "כרטיס מסך"
+
+msgid "Placa mãe"
+msgstr "לוח אם"
+
+msgid "Memória"
+msgstr "סיפור חיים"
+
+msgid "Rede"
+msgstr "נטו"
+
 msgid "Usb"
 msgstr "USB"
 
 msgid "Pci"
 msgstr "PCI"
 
+msgid "Bateria"
+msgstr "תופים"
+
 msgid "Armazenamento"
 msgstr "אחסון"
 
+msgid "Sistema"
+msgstr "מערכת"
+
+msgid "Bluetooth"
+msgstr "Bluetooth"
+
+msgid "Temperatura"
+msgstr "טמפ"
+
 msgid "Impressora"
 msgstr "דפס"
+
+msgid "Áudio"
+msgstr "אודיו"
 
 msgid "Mais informações"
 msgstr "מידע נוסף"
@@ -237,6 +201,9 @@ msgstr "להפיק דוח"
 
 msgid "Cria um arquivo com informações que pode ser publicado na internet."
 msgstr "יוצר קובץ עם מידע שניתן לפרסם באינטרנט."
+
+msgid "Ver informações do dispositivo no Linux Hardware"
+msgstr "הצגת פרטי מכשיר על חומרת Linux"
 
 msgid "Categoria"
 msgstr "קטגוריה"
@@ -305,3 +272,36 @@ msgstr "הגשת בקשה - אנא המתן"
 
 msgid "Este pacote fornece arquivos compatíveis com este computador."
 msgstr "חבילה זו מספקת קבצים התואמים למחשב זה."
+
+msgid "Swap (Memória Virtual)"
+msgstr "החלפה (זיכרון וירטואלי)"
+
+msgid "Conexões de Rede"
+msgstr "חיבורי רשת"
+
+msgid "Dispositivos e conexões USB"
+msgstr "התקני USB וחיבורים"
+
+msgid "Portas PCI"
+msgstr "יציאות PCI"
+
+msgid "Dispositivos de Armazenamento"
+msgstr "התקני אחסון"
+
+msgid "Partições montadas"
+msgstr "מחיצות רכובות"
+
+msgid "Partições desmontadas"
+msgstr "מחיצות מפורקות"
+
+msgid "Dispositivos lógicos"
+msgstr "התקנים לוגיים"
+
+msgid "Raid"
+msgstr "פשיטה"
+
+msgid "Informações de Sistema"
+msgstr "מידע על המערכת"
+
+msgid "Repositórios"
+msgstr "מאגרים"

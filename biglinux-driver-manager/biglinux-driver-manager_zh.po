@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: biglinux-driver-manager\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-07-10 14:09-0300\n"
+"POT-Creation-Date: 2022-07-23 19:21-0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -80,72 +80,6 @@ msgstr "发生了一个错误，无法应用该驱动程序。"
 msgid "Enviando, aguarde..."
 msgstr "正在发送，请等待..."
 
-msgid "Ver informações do dispositivo no Linux Hardware"
-msgstr "查看Linux硬件上的设备信息"
-
-msgid "Processador"
-msgstr "处理器"
-
-msgid "Placa mãe"
-msgstr "母板"
-
-msgid "Memória"
-msgstr "记忆"
-
-msgid "Swap (Memória Virtual)"
-msgstr "交换（虚拟内存）"
-
-msgid "Placa de vídeo"
-msgstr "视频卡"
-
-msgid "Áudio"
-msgstr "音频"
-
-msgid "Rede"
-msgstr "网络"
-
-msgid "Conexões de Rede"
-msgstr "网络连接"
-
-msgid "Dispositivos e conexões USB"
-msgstr "USB设备和连接"
-
-msgid "Portas PCI"
-msgstr "PCI端口"
-
-msgid "Bateria"
-msgstr "电池"
-
-msgid "Dispositivos de Armazenamento"
-msgstr "存储设备"
-
-msgid "Partições montadas"
-msgstr "安装的隔断"
-
-msgid "Partições desmontadas"
-msgstr "拆除的隔断"
-
-msgid "Dispositivos lógicos"
-msgstr "逻辑装置"
-
-msgid "Raid"
-msgstr "袭击"
-
-msgid "Sistema"
-msgstr "系统"
-
-msgid "Informações de Sistema"
-msgstr "系统信息"
-
-msgid "Repositórios"
-msgstr "储存库"
-
-msgid "Bluetooth"
-msgstr "蓝牙"
-
-msgid "Temperatura"
-msgstr "温度"
-
 msgid ""
 "Digite sua senha para gerar um relatório removendo dados sensíveis, por "
 "exemplo, endereço de IP, ou cancele para utilizar as informações da tela "
@@ -166,17 +100,47 @@ msgstr "主要内容"
 msgid "Resumo"
 msgstr "摘要"
 
+msgid "Processador"
+msgstr "处理器"
+
+msgid "Placa de vídeo"
+msgstr "视频卡"
+
+msgid "Placa mãe"
+msgstr "母板"
+
+msgid "Memória"
+msgstr "记忆"
+
+msgid "Rede"
+msgstr "网络"
+
 msgid "Usb"
 msgstr "笔记本电脑"
 
 msgid "Pci"
 msgstr "芯片"
 
+msgid "Bateria"
+msgstr "电池"
+
 msgid "Armazenamento"
 msgstr "储存"
 
+msgid "Sistema"
+msgstr "系统"
+
+msgid "Bluetooth"
+msgstr "蓝牙"
+
+msgid "Temperatura"
+msgstr "温度"
+
 msgid "Impressora"
 msgstr "打印机"
+
+msgid "Áudio"
+msgstr "音频"
 
 msgid "Mais informações"
 msgstr "更多信息"
@@ -233,6 +197,9 @@ msgstr "生成报告"
 
 msgid "Cria um arquivo com informações que pode ser publicado na internet."
 msgstr "創建包含可在 Internet 上發布的信息的文件。"
+
+msgid "Ver informações do dispositivo no Linux Hardware"
+msgstr "查看Linux硬件上的设备信息"
 
 msgid "Categoria"
 msgstr "类别"
@@ -301,3 +268,36 @@ msgstr "申请 - 请等待"
 
 msgid "Este pacote fornece arquivos compatíveis com este computador."
 msgstr "该软件包提供与该计算机兼容的文件。"
+
+msgid "Swap (Memória Virtual)"
+msgstr "交换（虚拟内存）"
+
+msgid "Conexões de Rede"
+msgstr "网络连接"
+
+msgid "Dispositivos e conexões USB"
+msgstr "USB设备和连接"
+
+msgid "Portas PCI"
+msgstr "PCI端口"
+
+msgid "Dispositivos de Armazenamento"
+msgstr "存储设备"
+
+msgid "Partições montadas"
+msgstr "安装的隔断"
+
+msgid "Partições desmontadas"
+msgstr "拆除的隔断"
+
+msgid "Dispositivos lógicos"
+msgstr "逻辑装置"
+
+msgid "Raid"
+msgstr "袭击"
+
+msgid "Informações de Sistema"
+msgstr "系统信息"
+
+msgid "Repositórios"
+msgstr "储存库"

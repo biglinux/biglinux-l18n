@@ -2,20 +2,20 @@
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the biglinux-session-and-themes package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-# 
+#
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: biglinux-session-and-themes\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-07-09 04:17-0300\n"
+"POT-Creation-Date: 2022-07-23 19:21-0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
 "Language: nl\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
-"Content-Transfer-Encoding: 8bit"
+"Content-Transfer-Encoding: 8bit\n"
 
 msgid "Temas, Desktop e Ajustes"
 msgstr "Thema's, Bureaublad en Instellingen"
@@ -65,6 +65,9 @@ msgstr "Prestaties in verbeterde modus!"
 msgid "Desempenho em modo performance!"
 msgstr "Prestaties in de prestatiemodus!"
 
+msgid "Aplicando, aguarde o termino."
+msgstr ""
+
 msgid "Temas"
 msgstr "Thema's"
 
@@ -102,14 +105,13 @@ msgstr ""
 msgid "<b>Classic</b>, <b>New</b> e <b>Modern</b> têm melhor desempenho."
 msgstr "<b>Klassiek</b>, <b>Nieuw</b> en <b>Modern</b> presteren het best."
 
-msgid "<b>Classic</b> e <b>New</b> têm melhor desempenho."
-msgstr "<b>Classic</b> en <b>New</b> hebben betere prestaties."
-
 msgid "Renderizar o desktop via software"
 msgstr "Weergave van het bureaublad via software"
 
-msgid "(Pode ser útil em máquina virtual ou computadores antigos)"
-msgstr "(Kan nuttig zijn op virtuele machines of oude computers)"
+msgid ""
+"(Pode ser útil em computadores antigos, porém alguns programas param de "
+"funcionar)"
+msgstr ""
 
 msgid "Escolher programas a serem carregados na memória durante boot"
 msgstr ""
@@ -152,7 +154,8 @@ msgstr "Omgekeerd scrollen met de muis"
 msgid "Pesquisar arquivos"
 msgstr "Zoek archieven"
 
-msgid "Bloquear a área de trabalho"
+#, fuzzy
+msgid "Bloquear a edição da área de trabalho"
 msgstr "Het bureaublad vergrendelen"
 
 msgid "Ocultar Gerenciador de Boot (GRUB)"
@@ -201,3 +204,9 @@ msgid ""
 "reduzida."
 msgstr ""
 "Met software rendering wordt de kwaliteit van transparanten verminderd."
+
+#~ msgid "<b>Classic</b> e <b>New</b> têm melhor desempenho."
+#~ msgstr "<b>Classic</b> en <b>New</b> hebben betere prestaties."
+
+#~ msgid "(Pode ser útil em máquina virtual ou computadores antigos)"
+#~ msgstr "(Kan nuttig zijn op virtuele machines of oude computers)"

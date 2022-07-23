@@ -7,7 +7,7 @@
 msgid   ""
 msgstr  "Project-Id-Version: bigcontrolcenter\n"
         "Report-Msgid-Bugs-To: \n"
-        "POT-Creation-Date: 2022-07-10 14:09-0300\n"
+        "POT-Creation-Date: 2022-07-23 19:21-0300\n"
         "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
         "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
         "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -388,6 +388,9 @@ msgstr  ""
 msgid   "Configurações da tela"
 msgstr  ""
 
+msgid   "Aguarde, criando arquivos de cache..."
+msgstr  ""
+
 msgid   "Categorias"
 msgstr  ""
 
@@ -591,9 +594,6 @@ msgid   "Basta abrir o site https://snapdrop.net nos Hardware que você quer "
         "transferindo arquivos diretamente de um smartphone para outro.  Você "
         "também pode utilizar nosso gerenciador de Web apps para facilitar o "
         "uso desse site."
-msgstr  ""
-
-msgid   "Aguarde, criando arquivos de cache..."
 msgstr  ""
 
 msgid   "Maximizado"
