@@ -1,0 +1,89 @@
+msgid ""
+msgstr ""
+
+msgctxt "@default|"
+msgid "An unknown error occured."
+msgstr ""
+
+msgctxt "@default|"
+msgid "Hardware Probe"
+msgstr ""
+
+msgctxt "@default|"
+msgid "Privacy Information"
+msgstr ""
+
+msgctxt "@default|"
+msgid "Uploading a Hardware Probe is subject to the following Pricacy Terms."
+msgstr ""
+
+msgctxt "@default|"
+msgid "Please see %s for more information."
+msgstr ""
+
+msgctxt "@default|"
+msgid ""
+"<p>This utility collects hardware details of your computer and can "
+"anonymously upload them to a public database.</p>\n"
+"        <p>This can help users and operating system developers to "
+"collaboratively debug hardware related issues, check for operating system "
+"compatibility and find drivers.</p>\n"
+"        <p>You will get a permanent probe URL to view and share collected "
+"information.</p><br><br><br>"
+msgstr ""
+
+msgctxt "@default|"
+msgid "Show Hardware Probe"
+msgstr ""
+
+msgctxt "@default|"
+msgid "Failed to open the hardware probe."
+msgstr ""
+
+msgctxt "@default|"
+msgid "Failed to run the %s tool."
+msgstr ""
+
+msgctxt "@default|"
+msgid "Failed to set the owner to %x."
+msgstr ""
+
+msgctxt "@default|"
+msgid "Uploading Hardware Probe"
+msgstr ""
+
+msgctxt "@default|"
+msgid "The Hardware Probe is being uploaded to the public database"
+msgstr ""
+
+msgctxt "@default|"
+msgid "You need an active internet connection in order to upload."
+msgstr ""
+
+msgctxt "@default|"
+msgid "Failed to upload using the %s tool."
+msgstr ""
+
+msgctxt "@default|"
+msgid "Hardware Probe Uploaded"
+msgstr ""
+
+msgctxt "@default|"
+msgid "Quit"
+msgstr ""
+
+msgctxt "@default|"
+msgid "Failed to open the uploaded hardware probe."
+msgstr ""
+
+msgctxt "@default|"
+msgid "Error"
+msgstr ""
+
+msgctxt "@default|"
+msgid "Hardware Probe was not successful."
+msgstr ""
+
+msgctxt "tstr|"
+msgid "Hello World"
+msgstr ""
