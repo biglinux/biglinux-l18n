@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: biglinux-driver-manager\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-07-23 19:21-0300\n"
+"POT-Creation-Date: 2022-08-01 06:12-0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -49,55 +49,6 @@ msgstr ""
 
 msgid "Desativado"
 msgstr "Mozgáskorlátozottak"
-
-msgid "Informações de Hardware"
-msgstr "Hardveres információk"
-
-msgid "Fechar"
-msgstr "Zárja be a"
-
-msgid "Enviar para transfer.sh"
-msgstr "Küldés a transfer.sh-nak"
-
-msgid "Visualizar"
-msgstr "A  megtekintése"
-
-msgid "O relatório foi salvo no arquivo:"
-msgstr "A jelentés az archívumba került:"
-
-msgid ""
-"Deseja visualizar o arquivo ou envia-lo ao site transfer.sh, para ter uma "
-"URL com os dados do seu computador de forma fácil de compartilhar?"
-msgstr ""
-"Szeretné megtekinteni a fájlt, vagy elküldeni a transfer.sh-nak, hogy egy "
-"URL-címet kapjon az adatokkal a számítógépéről, és könnyen megoszthassa "
-"azokat?"
-
-msgid "Concluído, reinicie o computador para ativar a configuração do driver."
-msgstr ""
-"Miután befejezte, indítsa újra a számítógépet az illesztőprogram-"
-"konfiguráció aktiválásához."
-
-msgid "Driver"
-msgstr "Vezető"
-
-msgid "Ocorreu um erro e o driver não pode ser aplicado."
-msgstr "Hiba történt, és az illesztőprogram nem alkalmazható."
-
-msgid "Enviando, aguarde..."
-msgstr "Küldés, kérem várjon..."
-
-msgid ""
-"Digite sua senha para gerar um relatório removendo dados sensíveis, por "
-"exemplo, endereço de IP, ou cancele para utilizar as informações da tela "
-"anterior."
-msgstr ""
-"Adja meg a jelszavát, ha az érzékeny adatokat, például az IP-címet "
-"eltávolító jelentést szeretne létrehozni, vagy törölje a műveletet, ha az "
-"előző képernyő információit szeretné használni."
-
-msgid "Digite sua senha para gerar um relatório mais completo."
-msgstr "A teljesebb jelentés létrehozásához adja meg jelszavát."
 
 msgid "Categorias"
 msgstr "Kategóriák"
@@ -162,6 +113,12 @@ msgstr "Keresés"
 msgid "Resultado da pesquisa"
 msgstr "Keresés eredménye"
 
+msgid "Informações de Hardware"
+msgstr "Hardveres információk"
+
+msgid "Fechar"
+msgstr "Zárja be a"
+
 msgid "Abrir"
 msgstr "Nyissa meg a  címet"
 
@@ -225,6 +182,23 @@ msgstr "ID"
 msgid "Info"
 msgstr "Info"
 
+msgid "Enviar para transfer.sh"
+msgstr "Küldés a transfer.sh-nak"
+
+msgid "Visualizar"
+msgstr "A  megtekintése"
+
+msgid "O relatório foi salvo no arquivo:"
+msgstr "A jelentés az archívumba került:"
+
+msgid ""
+"Deseja visualizar o arquivo ou envia-lo ao site transfer.sh, para ter uma "
+"URL com os dados do seu computador de forma fácil de compartilhar?"
+msgstr ""
+"Szeretné megtekinteni a fájlt, vagy elküldeni a transfer.sh-nak, hogy egy "
+"URL-címet kapjon az adatokkal a számítógépéről, és könnyen megoszthassa "
+"azokat?"
+
 msgid "Driver detectado:"
 msgstr "A sofőr észlelte:"
 
@@ -284,6 +258,17 @@ msgstr "Jelentkezés - Kérjük, várjon"
 msgid "Este pacote fornece arquivos compatíveis com este computador."
 msgstr "Ez a csomag az adott számítógéppel kompatibilis fájlokat tartalmaz."
 
+msgid "Concluído, reinicie o computador para ativar a configuração do driver."
+msgstr ""
+"Miután befejezte, indítsa újra a számítógépet az illesztőprogram-"
+"konfiguráció aktiválásához."
+
+msgid "Driver"
+msgstr "Vezető"
+
+msgid "Ocorreu um erro e o driver não pode ser aplicado."
+msgstr "Hiba történt, és az illesztőprogram nem alkalmazható."
+
 msgid "Swap (Memória Virtual)"
 msgstr "Swap (virtuális memória)"
 
@@ -316,3 +301,18 @@ msgstr "Rendszerinformáció"
 
 msgid "Repositórios"
 msgstr "Tárházak"
+
+msgid ""
+"Digite sua senha para gerar um relatório removendo dados sensíveis, por "
+"exemplo, endereço de IP, ou cancele para utilizar as informações da tela "
+"anterior."
+msgstr ""
+"Adja meg a jelszavát, ha az érzékeny adatokat, például az IP-címet "
+"eltávolító jelentést szeretne létrehozni, vagy törölje a műveletet, ha az "
+"előző képernyő információit szeretné használni."
+
+msgid "Digite sua senha para gerar um relatório mais completo."
+msgstr "A teljesebb jelentés létrehozásához adja meg jelszavát."
+
+msgid "Enviando, aguarde..."
+msgstr "Küldés, kérem várjon..."

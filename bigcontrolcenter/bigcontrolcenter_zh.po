@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: bigcontrolcenter\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-07-23 19:21-0300\n"
+"POT-Creation-Date: 2022-08-01 06:12-0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -16,6 +16,12 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+
+msgid "Introdução ao BigLinux"
+msgstr "BigLinux 簡介"
+
+msgid "Central de Controle"
+msgstr "控制中心"
 
 msgid ""
 "A webcam já está sendo utilizada pelo programa: $WEBCAM_BUSY\n"
@@ -62,24 +68,6 @@ msgstr "关闭"
 
 msgid "Hardinfo Relatory"
 msgstr "困难情况下的相关信息"
-
-msgid "Central de Controle"
-msgstr "控制中心"
-
-msgid "Introdução ao BigLinux"
-msgstr "BigLinux 簡介"
-
-msgid "Bom dia"
-msgstr "早上好"
-
-msgid "Boa tarde"
-msgstr "下午好"
-
-msgid "Boa noite"
-msgstr "晚安"
-
-msgid "Aguarde, carregando..."
-msgstr "准备好了，正在加载..."
 
 msgid "Bem vindo ao BigLinux"
 msgstr "欢迎来到BigLinux"
@@ -192,6 +180,18 @@ msgstr "脸书"
 msgid "Parabéns, você concluiu os primeiros passos para utilizar o BigLinux."
 msgstr "恭喜，您已經完成了使用 BigLinux 的第一步。"
 
+msgid "Bom dia"
+msgstr "早上好"
+
+msgid "Boa tarde"
+msgstr "下午好"
+
+msgid "Boa noite"
+msgstr "晚安"
+
+msgid "Aguarde, carregando..."
+msgstr "准备好了，正在加载..."
+
 msgid "Integração com Google Drive e ownCloud"
 msgstr "与Google Drive和ownCloud整合"
 
@@ -199,6 +199,12 @@ msgid ""
 "Acesse seus arquivos que estão no Google Drive ou ownCloud diretamente no "
 "gerenciador de arquivos."
 msgstr "直接从文件管理器访问你在Google Drive或ownCloud中的文件。"
+
+msgid "Configurar o AppimageLauncher"
+msgstr "配置AppimageLauncher"
+
+msgid "Escolher o comportamento dos programas disponibilizados em .appimage"
+msgstr "选择.appimage中可用的程序的行为"
 
 msgid "Qt Assistant"
 msgstr "Qt助手"
@@ -240,6 +246,12 @@ msgstr ""
 msgid "Temas do Bootsplash"
 msgstr "Bootsplash主题"
 
+msgid "Controle o brilho e as cores"
+msgstr "控制亮度和颜色"
+
+msgid "Brilho e cor"
+msgstr "光泽和色彩"
+
 msgid "Procurar servidores SSH"
 msgstr "浏览SSH服务器"
 
@@ -266,6 +278,9 @@ msgstr "分区或格式化"
 
 msgid "Cuidado, este programa poderá apagar todos os dados do computador."
 msgstr "请注意，这个程序可能会清除你电脑上的所有数据。"
+
+msgid "Informações de armazenamento (SMART)"
+msgstr "存储信息（SMART）。"
 
 msgid "Firewall"
 msgstr "防火墙"
@@ -294,6 +309,9 @@ msgid ""
 msgstr ""
 "有了这个程序，你可以以类似于访问U盘上的文件的方式访问你的苹果iPhone或iPad上的"
 "程序。"
+
+msgid "Equalizador (DSP)"
+msgstr "均衡器（DSP）"
 
 msgid "Áreas de trabalho virtuais e atividades"
 msgstr "虚拟工作空间和活动"
@@ -332,6 +350,9 @@ msgstr ""
 
 msgid "Instalar, configurar ou remover impressoras."
 msgstr "安装、配置或删除打印机。"
+
+msgid "Gerenciar serviços (Systemd)"
+msgstr "管理服务（Systemd）。"
 
 msgid "Configurar o tema Kvantum"
 msgstr "配置Kvantum主题"
@@ -378,6 +399,9 @@ msgstr "终端"
 msgid "Acesse o terminal de comandos."
 msgstr "进入命令终端。"
 
+msgid "Gerenciador de senhas"
+msgstr "密码管理器"
+
 msgid "Som e microfone"
 msgstr "声音和话筒"
 
@@ -393,39 +417,6 @@ msgstr "KDE控制中心"
 
 msgid "Configurador avançado de energia"
 msgstr "高级电源配置器"
-
-msgid "Informações de armazenamento (SMART)"
-msgstr "存储信息（SMART）。"
-
-msgid "Gerenciar serviços (Systemd)"
-msgstr "管理服务（Systemd）。"
-
-msgid "Configurar o AppimageLauncher"
-msgstr "配置AppimageLauncher"
-
-msgid "Escolher o comportamento dos programas disponibilizados em .appimage"
-msgstr "选择.appimage中可用的程序的行为"
-
-msgid "Controle o brilho e as cores"
-msgstr "控制亮度和颜色"
-
-msgid "Brilho e cor"
-msgstr "光泽和色彩"
-
-msgid "Equalizador (DSP)"
-msgstr "均衡器（DSP）"
-
-msgid "Gerenciador de senhas"
-msgstr "密码管理器"
-
-msgid "As configurações da tela foram resetadas."
-msgstr "屏幕设置已被重置。"
-
-msgid "Configurações da tela"
-msgstr "屏幕设置"
-
-msgid "Aguarde, criando arquivos de cache..."
-msgstr "准备就绪，创建缓存文件..."
 
 msgid "Categorias"
 msgstr "类别"
@@ -667,6 +658,15 @@ msgstr ""
 "可以发送你想要的文件。  使用这个按钮可以在该计算机上打开Snapdrop网站。  "
 "Snapdrop可以在任何智能手机或电脑上使用，包括将文件直接从一部智能手机传输到另"
 "一部智能手机。  你也可以使用我们的网络应用程序管理器，以方便使用本网站。"
+
+msgid "As configurações da tela foram resetadas."
+msgstr "屏幕设置已被重置。"
+
+msgid "Configurações da tela"
+msgstr "屏幕设置"
+
+msgid "Aguarde, criando arquivos de cache..."
+msgstr "准备就绪，创建缓存文件..."
 
 msgid "Maximizado"
 msgstr "最大化"

@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: biglinux-config\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-07-23 19:21-0300\n"
+"POT-Creation-Date: 2022-08-01 06:12-0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -20,77 +20,12 @@ msgstr ""
 msgid "Restaurar Configurações"
 msgstr "Seadete taastamine"
 
-msgid ""
-"Atenção! O programa está aberto!\\nEle será fechado para que a restauração "
-"tenha efeito."
-msgstr ""
-"Ettevaatust! Programm on avatud! See on suletud, et taastamine saaks toimuda."
+#, fuzzy
+msgid "Pesquisar programa"
+msgstr "Otsi taastamine"
 
-msgid "As configurações foram restauradas com sucesso!"
-msgstr "Seaded on edukalt taastatud!"
-
-msgid ""
-"Você tem certeza que deseja restaurar todas as configurações do KDE/Plasma?"
-"\\nIsso apagará todas as configurações definidas por $USER!"
-msgstr ""
-"Kas olete kindel, et soovite taastada kõik KDE/Plasma seaded?\\nIsIsIsIs "
-"kustutab kõik $USERi poolt määratud seaded!"
-
-msgid ""
-"As configurações foram restauradas com sucesso!\\nÉ necessário fazer logoff/"
-"login para concluir a restauração!"
-msgstr ""
-"Seaded on edukalt taastatud! Taastamise lõpuleviimiseks peate välja/ sisse "
-"logima!"
-
-msgid ""
-"Restaurar&nbsp;o&nbsp;programa&nbsp;como&nbsp;modo&nbsp;padrão&nbsp;ou&nbsp;"
-"distribuição&nbsp;BigLinux."
-msgstr "Taastage programm standardrežiimi või BigLinuxi jaotuse kujul."
-
-msgid "Restaurar&nbsp;o&nbsp;programa&nbsp;como&nbsp;modo&nbsp;padrão."
-msgstr "Taastab programmi vaikimisi režiimi."
-
-msgid ""
-"Músicas-(Clementine) clementine.sh Multimedia clementine.png clementine skel "
-"$COMMENT_skel"
-msgstr ""
-"Muusika-(Clementine) clementine.sh multimeedia clementine.png clementine "
-"skel $COMMENT_skel"
-
-msgid ""
-"Gravador-de-Tela-(vokoscreenNG) vokoscreen.sh Multimedia vokoscreen.png "
-"vokoscreenNG  $COMMENT_normal"
-msgstr ""
-"Screen Recorder-(vokoscreenNG) vokoscreen.sh Multimeedia vokoscreen.png "
-"vokoscreenNG $COMMENT_normal"
-
-msgid ""
-"Vídeos-(Smplayer) smplayer.sh Multimedia smplayer.png smplayer skel "
-"$COMMENT_skel"
-msgstr ""
-"Videos-(Smplayer) smplayer.sh Multimeedia smplayer.png smplayer skel "
-"$COMMENT_skel"
-
-msgid "Fechar"
-msgstr "Sulge"
-
-msgid "Restaurar no modo padrão da distribuição"
-msgstr "Taastada vaikimisi jaotamise režiim"
-
-msgid "Essa opção restaura o programa com o padrão do BigLinux."
-msgstr "See valik taastab programmi BigLinuxi vaikimisi."
-
-msgid "Restaurar no modo padrão do programa"
-msgstr "Taastamine tavaprogrammi režiimis"
-
-msgid "Essa opção restaura o programa com o padrão do desenvolvedor."
-msgstr "See valik taastab programmi arendaja vaikimisi."
-
-msgid "Restaurar as configurações do programa:"
-msgstr "Taastage programmi seaded:"
-
-msgid "Principal"
+#, fuzzy
+msgid "Principais"
 msgstr "Main"
 
 msgid "Internet"
@@ -108,5 +43,120 @@ msgstr "Kontor"
 msgid "Sistema"
 msgstr "Süsteem"
 
-msgid "Pesquisar Restaurar"
-msgstr "Otsi taastamine"
+#, fuzzy
+msgid "Restaurar o programa no modo da distribuição BigLinux."
+msgstr "Taastada vaikimisi jaotamise režiim"
+
+msgid "Em qual modo você deseja restaurar?"
+msgstr ""
+
+msgid "Restaurar no modo padrão da distribuição"
+msgstr "Taastada vaikimisi jaotamise režiim"
+
+msgid "Cancelar"
+msgstr ""
+
+#, fuzzy
+msgid "Restaurar o programa no modo padrão."
+msgstr "Taastamine tavaprogrammi režiimis"
+
+msgid "Restaurar no modo padrão do programa"
+msgstr "Taastamine tavaprogrammi režiimis"
+
+#, fuzzy
+msgid "Restaurar o programa no modo padrão ou distribuição BigLinux."
+msgstr "Taastada vaikimisi jaotamise režiim"
+
+msgid "Músicas"
+msgstr ""
+
+msgid "Gravador de Tela"
+msgstr ""
+
+msgid "Vídeos"
+msgstr ""
+
+msgid "Conversor de áudio e vídeo"
+msgstr ""
+
+msgid "As configurações foram restauradas com sucesso!"
+msgstr "Seaded on edukalt taastatud!"
+
+msgid "OK"
+msgstr ""
+
+#, fuzzy
+msgid "As configurações do BigLinux KDE foram restauradas com sucesso!"
+msgstr "Seaded on edukalt taastatud!"
+
+msgid "É necessário reinciar a sessão para concluir a restauração!"
+msgstr ""
+
+msgid "Atenção! O programa está em execução!"
+msgstr ""
+
+msgid "Será fechado para que a restauração seja concluída."
+msgstr ""
+
+#, fuzzy
+msgid ""
+"Você tem certeza que deseja restaurar todas as configurações do BigLinux KDE?"
+msgstr ""
+"Kas olete kindel, et soovite taastada kõik KDE/Plasma seaded?\\nIsIsIsIs "
+"kustutab kõik $USERi poolt määratud seaded!"
+
+#, fuzzy
+msgid "Isso apagará todas as configurações definidas por "
+msgstr "Taastage programmi seaded:"
+
+#~ msgid ""
+#~ "Atenção! O programa está aberto!\\nEle será fechado para que a "
+#~ "restauração tenha efeito."
+#~ msgstr ""
+#~ "Ettevaatust! Programm on avatud! See on suletud, et taastamine saaks "
+#~ "toimuda."
+
+#~ msgid ""
+#~ "As configurações foram restauradas com sucesso!\\nÉ necessário fazer "
+#~ "logoff/login para concluir a restauração!"
+#~ msgstr ""
+#~ "Seaded on edukalt taastatud! Taastamise lõpuleviimiseks peate välja/ "
+#~ "sisse logima!"
+
+#~ msgid ""
+#~ "Restaurar&nbsp;o&nbsp;programa&nbsp;como&nbsp;modo&nbsp;padrão&nbsp;"
+#~ "ou&nbsp;distribuição&nbsp;BigLinux."
+#~ msgstr "Taastage programm standardrežiimi või BigLinuxi jaotuse kujul."
+
+#~ msgid "Restaurar&nbsp;o&nbsp;programa&nbsp;como&nbsp;modo&nbsp;padrão."
+#~ msgstr "Taastab programmi vaikimisi režiimi."
+
+#~ msgid ""
+#~ "Músicas-(Clementine) clementine.sh Multimedia clementine.png clementine "
+#~ "skel $COMMENT_skel"
+#~ msgstr ""
+#~ "Muusika-(Clementine) clementine.sh multimeedia clementine.png clementine "
+#~ "skel $COMMENT_skel"
+
+#~ msgid ""
+#~ "Gravador-de-Tela-(vokoscreenNG) vokoscreen.sh Multimedia vokoscreen.png "
+#~ "vokoscreenNG  $COMMENT_normal"
+#~ msgstr ""
+#~ "Screen Recorder-(vokoscreenNG) vokoscreen.sh Multimeedia vokoscreen.png "
+#~ "vokoscreenNG $COMMENT_normal"
+
+#~ msgid ""
+#~ "Vídeos-(Smplayer) smplayer.sh Multimedia smplayer.png smplayer skel "
+#~ "$COMMENT_skel"
+#~ msgstr ""
+#~ "Videos-(Smplayer) smplayer.sh Multimeedia smplayer.png smplayer skel "
+#~ "$COMMENT_skel"
+
+#~ msgid "Fechar"
+#~ msgstr "Sulge"
+
+#~ msgid "Essa opção restaura o programa com o padrão do BigLinux."
+#~ msgstr "See valik taastab programmi BigLinuxi vaikimisi."
+
+#~ msgid "Essa opção restaura o programa com o padrão do desenvolvedor."
+#~ msgstr "See valik taastab programmi arendaja vaikimisi."

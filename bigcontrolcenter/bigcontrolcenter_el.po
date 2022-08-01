@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: bigcontrolcenter\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-07-23 19:21-0300\n"
+"POT-Creation-Date: 2022-08-01 06:12-0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -16,6 +16,12 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+
+msgid "Introdução ao BigLinux"
+msgstr "Εισαγωγή στο BigLinux"
+
+msgid "Central de Controle"
+msgstr "Κέντρο ελέγχου"
 
 msgid ""
 "A webcam já está sendo utilizada pelo programa: $WEBCAM_BUSY\n"
@@ -62,24 +68,6 @@ msgstr "Κλείστε το"
 
 msgid "Hardinfo Relatory"
 msgstr "Hardinfo Σχετικό"
-
-msgid "Central de Controle"
-msgstr "Κέντρο ελέγχου"
-
-msgid "Introdução ao BigLinux"
-msgstr "Εισαγωγή στο BigLinux"
-
-msgid "Bom dia"
-msgstr "Καλημέρα"
-
-msgid "Boa tarde"
-msgstr "Καλησπέρα"
-
-msgid "Boa noite"
-msgstr "Καλησπέρα"
-
-msgid "Aguarde, carregando..."
-msgstr "Αναμείνατε, φόρτωση..."
 
 msgid "Bem vindo ao BigLinux"
 msgstr "Καλώς ήρθατε στο BigLinux"
@@ -198,6 +186,18 @@ msgstr "Facebook"
 msgid "Parabéns, você concluiu os primeiros passos para utilizar o BigLinux."
 msgstr "Συγχαρητήρια, ολοκληρώσατε τα πρώτα βήματα για τη χρήση του BigLinux."
 
+msgid "Bom dia"
+msgstr "Καλημέρα"
+
+msgid "Boa tarde"
+msgstr "Καλησπέρα"
+
+msgid "Boa noite"
+msgstr "Καλησπέρα"
+
+msgid "Aguarde, carregando..."
+msgstr "Αναμείνατε, φόρτωση..."
+
 msgid "Integração com Google Drive e ownCloud"
 msgstr "Ενσωμάτωση με το Google Drive και το ownCloud"
 
@@ -207,6 +207,13 @@ msgid ""
 msgstr ""
 "Αποκτήστε πρόσβαση στα αρχεία σας που βρίσκονται στο Google Drive ή στο "
 "ownCloud απευθείας από τη διαχείριση αρχείων."
+
+msgid "Configurar o AppimageLauncher"
+msgstr "Διαμόρφωση του AppimageLauncher"
+
+msgid "Escolher o comportamento dos programas disponibilizados em .appimage"
+msgstr ""
+"Επιλέξτε τη συμπεριφορά των προγραμμάτων που είναι διαθέσιμα στο .appimage"
 
 msgid "Qt Assistant"
 msgstr "Βοηθός Qt"
@@ -250,6 +257,12 @@ msgstr ""
 msgid "Temas do Bootsplash"
 msgstr "Θέματα Bootsplash"
 
+msgid "Controle o brilho e as cores"
+msgstr "Έλεγχος φωτεινότητας και χρωμάτων"
+
+msgid "Brilho e cor"
+msgstr "Λάμψη και χρώμα"
+
 msgid "Procurar servidores SSH"
 msgstr "Αναζήτηση διακομιστών SSH"
 
@@ -279,6 +292,9 @@ msgstr ""
 "Προσοχή, αυτό το πρόγραμμα μπορεί να διαγράψει όλα τα δεδομένα στον "
 "υπολογιστή σας."
 
+msgid "Informações de armazenamento (SMART)"
+msgstr "Πληροφορίες αποθήκευσης (SMART)"
+
 msgid "Firewall"
 msgstr "Τείχος προστασίας"
 
@@ -307,6 +323,9 @@ msgstr ""
 "Με αυτό το πρόγραμμα μπορείτε να έχετε πρόσβαση στα προγράμματα στο Apple "
 "iPhone ή iPad σας με παρόμοιο τρόπο με την πρόσβαση σε αρχεία σε ένα στικάκι "
 "USB."
+
+msgid "Equalizador (DSP)"
+msgstr "Ισοσταθμιστής (DSP)"
 
 msgid "Áreas de trabalho virtuais e atividades"
 msgstr "Εικονικοί χώροι εργασίας και δραστηριότητες"
@@ -349,6 +368,9 @@ msgstr ""
 
 msgid "Instalar, configurar ou remover impressoras."
 msgstr "Εγκατάσταση, διαμόρφωση ή κατάργηση εκτυπωτών."
+
+msgid "Gerenciar serviços (Systemd)"
+msgstr "Διαχείριση υπηρεσιών (Systemd)"
 
 msgid "Configurar o tema Kvantum"
 msgstr "Διαμόρφωση του θέματος Kvantum"
@@ -400,6 +422,9 @@ msgstr "Τερματικό"
 msgid "Acesse o terminal de comandos."
 msgstr "Αποκτήστε πρόσβαση στο τερματικό εντολών."
 
+msgid "Gerenciador de senhas"
+msgstr "Διαχείριση κωδικού πρόσβασης"
+
 msgid "Som e microfone"
 msgstr "Ήχος και μικρόφωνο"
 
@@ -415,40 +440,6 @@ msgstr "Κέντρο ελέγχου KDE"
 
 msgid "Configurador avançado de energia"
 msgstr "Προηγμένη διαμόρφωση ισχύος"
-
-msgid "Informações de armazenamento (SMART)"
-msgstr "Πληροφορίες αποθήκευσης (SMART)"
-
-msgid "Gerenciar serviços (Systemd)"
-msgstr "Διαχείριση υπηρεσιών (Systemd)"
-
-msgid "Configurar o AppimageLauncher"
-msgstr "Διαμόρφωση του AppimageLauncher"
-
-msgid "Escolher o comportamento dos programas disponibilizados em .appimage"
-msgstr ""
-"Επιλέξτε τη συμπεριφορά των προγραμμάτων που είναι διαθέσιμα στο .appimage"
-
-msgid "Controle o brilho e as cores"
-msgstr "Έλεγχος φωτεινότητας και χρωμάτων"
-
-msgid "Brilho e cor"
-msgstr "Λάμψη και χρώμα"
-
-msgid "Equalizador (DSP)"
-msgstr "Ισοσταθμιστής (DSP)"
-
-msgid "Gerenciador de senhas"
-msgstr "Διαχείριση κωδικού πρόσβασης"
-
-msgid "As configurações da tela foram resetadas."
-msgstr "Οι ρυθμίσεις της οθόνης έχουν μηδενιστεί."
-
-msgid "Configurações da tela"
-msgstr "Ρυθμίσεις οθόνης"
-
-msgid "Aguarde, criando arquivos de cache..."
-msgstr "Αναμείνατε, δημιουργώντας αρχεία cache..."
 
 msgid "Categorias"
 msgstr "Κατηγορίες"
@@ -722,6 +713,15 @@ msgstr ""
 "της μεταφοράς αρχείων απευθείας από ένα smartphone σε ένα άλλο.  Μπορείτε "
 "επίσης να χρησιμοποιήσετε τον διαχειριστή εφαρμογών ιστού για να "
 "διευκολύνετε τη χρήση αυτού του ιστότοπου."
+
+msgid "As configurações da tela foram resetadas."
+msgstr "Οι ρυθμίσεις της οθόνης έχουν μηδενιστεί."
+
+msgid "Configurações da tela"
+msgstr "Ρυθμίσεις οθόνης"
+
+msgid "Aguarde, criando arquivos de cache..."
+msgstr "Αναμείνατε, δημιουργώντας αρχεία cache..."
 
 msgid "Maximizado"
 msgstr "Μεγιστοποιημένο"

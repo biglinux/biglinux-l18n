@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: biglinux-driver-manager\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-07-23 19:21-0300\n"
+"POT-Creation-Date: 2022-08-01 06:12-0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -47,53 +47,6 @@ msgstr ""
 
 msgid "Desativado"
 msgstr "Puudega inimesed"
-
-msgid "Informações de Hardware"
-msgstr "Riistvara teave"
-
-msgid "Fechar"
-msgstr "Sulge"
-
-msgid "Enviar para transfer.sh"
-msgstr "Saada transfer.sh"
-
-msgid "Visualizar"
-msgstr "Vaata"
-
-msgid "O relatório foi salvo no arquivo:"
-msgstr "Aruanne on salvestatud arhiivi:"
-
-msgid ""
-"Deseja visualizar o arquivo ou envia-lo ao site transfer.sh, para ter uma "
-"URL com os dados do seu computador de forma fácil de compartilhar?"
-msgstr ""
-"Kas soovite faili vaadata või saata selle transfer.sh, et saada URL-i oma "
-"arvutist andmete lihtsaks jagamiseks?"
-
-msgid "Concluído, reinicie o computador para ativar a configuração do driver."
-msgstr ""
-"Kui olete lõpetanud, käivitage arvuti uuesti, et aktiveerida draiveri "
-"konfiguratsioon."
-
-msgid "Driver"
-msgstr "Juht"
-
-msgid "Ocorreu um erro e o driver não pode ser aplicado."
-msgstr "Tekkis viga ja draiverit ei saa rakendada."
-
-msgid "Enviando, aguarde..."
-msgstr "Saatmine, palun oodake..."
-
-msgid ""
-"Digite sua senha para gerar um relatório removendo dados sensíveis, por "
-"exemplo, endereço de IP, ou cancele para utilizar as informações da tela "
-"anterior."
-msgstr ""
-"Sisestage oma parool, et luua aruanne, millest on eemaldatud tundlikud "
-"andmed, nt IP-aadress, või tühistage, et kasutada eelmise ekraani teavet."
-
-msgid "Digite sua senha para gerar um relatório mais completo."
-msgstr "Täielikuma aruande koostamiseks sisestage oma parool."
 
 msgid "Categorias"
 msgstr "Kategooriad"
@@ -158,6 +111,12 @@ msgstr "Otsi"
 msgid "Resultado da pesquisa"
 msgstr "Otsingu tulemus"
 
+msgid "Informações de Hardware"
+msgstr "Riistvara teave"
+
+msgid "Fechar"
+msgstr "Sulge"
+
 msgid "Abrir"
 msgstr "Avatud"
 
@@ -219,6 +178,22 @@ msgstr "ID"
 msgid "Info"
 msgstr "Info"
 
+msgid "Enviar para transfer.sh"
+msgstr "Saada transfer.sh"
+
+msgid "Visualizar"
+msgstr "Vaata"
+
+msgid "O relatório foi salvo no arquivo:"
+msgstr "Aruanne on salvestatud arhiivi:"
+
+msgid ""
+"Deseja visualizar o arquivo ou envia-lo ao site transfer.sh, para ter uma "
+"URL com os dados do seu computador de forma fácil de compartilhar?"
+msgstr ""
+"Kas soovite faili vaadata või saata selle transfer.sh, et saada URL-i oma "
+"arvutist andmete lihtsaks jagamiseks?"
+
 msgid "Driver detectado:"
 msgstr "Juhi tuvastamine:"
 
@@ -277,6 +252,17 @@ msgstr "Taotlemine - Palun oodake"
 msgid "Este pacote fornece arquivos compatíveis com este computador."
 msgstr "See pakett sisaldab selle arvutiga ühilduvaid faile."
 
+msgid "Concluído, reinicie o computador para ativar a configuração do driver."
+msgstr ""
+"Kui olete lõpetanud, käivitage arvuti uuesti, et aktiveerida draiveri "
+"konfiguratsioon."
+
+msgid "Driver"
+msgstr "Juht"
+
+msgid "Ocorreu um erro e o driver não pode ser aplicado."
+msgstr "Tekkis viga ja draiverit ei saa rakendada."
+
 msgid "Swap (Memória Virtual)"
 msgstr "Vahetus (virtuaalne mälu)"
 
@@ -309,3 +295,17 @@ msgstr "Süsteemi teave"
 
 msgid "Repositórios"
 msgstr "Repositooriumid"
+
+msgid ""
+"Digite sua senha para gerar um relatório removendo dados sensíveis, por "
+"exemplo, endereço de IP, ou cancele para utilizar as informações da tela "
+"anterior."
+msgstr ""
+"Sisestage oma parool, et luua aruanne, millest on eemaldatud tundlikud "
+"andmed, nt IP-aadress, või tühistage, et kasutada eelmise ekraani teavet."
+
+msgid "Digite sua senha para gerar um relatório mais completo."
+msgstr "Täielikuma aruande koostamiseks sisestage oma parool."
+
+msgid "Enviando, aguarde..."
+msgstr "Saatmine, palun oodake..."

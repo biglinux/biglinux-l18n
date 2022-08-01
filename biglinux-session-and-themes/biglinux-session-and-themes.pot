@@ -7,7 +7,7 @@
 msgid   ""
 msgstr  "Project-Id-Version: biglinux-session-and-themes\n"
         "Report-Msgid-Bugs-To: \n"
-        "POT-Creation-Date: 2022-07-23 19:21-0300\n"
+        "POT-Creation-Date: 2022-08-01 06:12-0300\n"
         "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
         "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
         "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -41,16 +41,10 @@ msgid   "Configuração aplicada!\n"
         "ser aplicada."
 msgstr  ""
 
-msgid   "Desempenho em modo normal!"
+msgid   "Aplicando, aguarde..."
 msgstr  ""
 
-msgid   "Desempenho em modo otimizado!"
-msgstr  ""
-
-msgid   "Desempenho em modo performance!"
-msgstr  ""
-
-msgid   "Aplicando, aguarde o termino."
+msgid   "Concluído!"
 msgstr  ""
 
 msgid   "Temas"
@@ -172,4 +166,13 @@ msgstr  ""
 
 msgid   "Utilizando renderização por software, a qualidade das transparências "
         "está reduzida."
+msgstr  ""
+
+msgid   "Desempenho em modo normal!"
+msgstr  ""
+
+msgid   "Desempenho em modo otimizado!"
+msgstr  ""
+
+msgid   "Desempenho em modo performance!"
 msgstr  ""

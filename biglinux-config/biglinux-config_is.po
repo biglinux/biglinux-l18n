@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: biglinux-config\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-07-23 19:21-0300\n"
+"POT-Creation-Date: 2022-08-01 06:12-0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -20,78 +20,12 @@ msgstr ""
 msgid "Restaurar Configurações"
 msgstr "Endurheimta stillingar"
 
-msgid ""
-"Atenção! O programa está aberto!\\nEle será fechado para que a restauração "
-"tenha efeito."
-msgstr ""
-"Athygli! Forritið er opið! \\ nÞað verður lokað til að endurheimtin taki "
-"gildi."
+#, fuzzy
+msgid "Pesquisar programa"
+msgstr "Leita Endurheimta"
 
-msgid "As configurações foram restauradas com sucesso!"
-msgstr "Stillingar hafa verið endurreistar!"
-
-msgid ""
-"Você tem certeza que deseja restaurar todas as configurações do KDE/Plasma?"
-"\\nIsso apagará todas as configurações definidas por $USER!"
-msgstr ""
-"Ertu viss um að þú viljir endurheimta allar KDE/Plasma stillingar? \\ nÞetta "
-"mun eyða öllum stillingum sem skilgreindar eru af $USER!"
-
-msgid ""
-"As configurações foram restauradas com sucesso!\\nÉ necessário fazer logoff/"
-"login para concluir a restauração!"
-msgstr ""
-"Stillingar hafa verið endurreistar! \\ nÞú verður að skrá þig af/skrá þig "
-"inn til að ljúka endurheimt!"
-
-msgid ""
-"Restaurar&nbsp;o&nbsp;programa&nbsp;como&nbsp;modo&nbsp;padrão&nbsp;ou&nbsp;"
-"distribuição&nbsp;BigLinux."
-msgstr "Endurheimtu forritið sem venjulegan hátt eða BigLinux dreifingu."
-
-msgid "Restaurar&nbsp;o&nbsp;programa&nbsp;como&nbsp;modo&nbsp;padrão."
-msgstr "Endurheimta forritið í sjálfgefna stillingu."
-
-msgid ""
-"Músicas-(Clementine) clementine.sh Multimedia clementine.png clementine skel "
-"$COMMENT_skel"
-msgstr ""
-"Lög- (Clementine) clementine.sh Margmiðlun clementine.png Clementine skel "
-"$comment_skel"
-
-msgid ""
-"Gravador-de-Tela-(vokoscreenNG) vokoscreen.sh Multimedia vokoscreen.png "
-"vokoscreenNG  $COMMENT_normal"
-msgstr ""
-"Skjár Upptökutæki - (VokoScreenng) vokoscreen.sh Margmiðlun vokoscreen.png "
-"Vokosscreenng $comment_normal"
-
-msgid ""
-"Vídeos-(Smplayer) smplayer.sh Multimedia smplayer.png smplayer skel "
-"$COMMENT_skel"
-msgstr ""
-"Myndbönd- (Smplayer) smplayer.sh Margmiðlun smplayer.png Smaspilari skel "
-"$comment_skel"
-
-msgid "Fechar"
-msgstr "Loka"
-
-msgid "Restaurar no modo padrão da distribuição"
-msgstr "Endurheimta í sjálfgefna stillingu dreifingarinnar"
-
-msgid "Essa opção restaura o programa com o padrão do BigLinux."
-msgstr "Þessi valkostur endurheimtir forritið í BigLinux sjálfgefið."
-
-msgid "Restaurar no modo padrão do programa"
-msgstr "Endurheimta í sjálfgefnum ham"
-
-msgid "Essa opção restaura o programa com o padrão do desenvolvedor."
-msgstr "Þessi valkostur endurheimtir forritið til verktaki sjálfgefið."
-
-msgid "Restaurar as configurações do programa:"
-msgstr "Endurheimta forritastillingar:"
-
-msgid "Principal"
+#, fuzzy
+msgid "Principais"
 msgstr "Aðal"
 
 msgid "Internet"
@@ -109,5 +43,120 @@ msgstr "Skrifstofa"
 msgid "Sistema"
 msgstr "Kerfi"
 
-msgid "Pesquisar Restaurar"
-msgstr "Leita Endurheimta"
+#, fuzzy
+msgid "Restaurar o programa no modo da distribuição BigLinux."
+msgstr "Endurheimta í sjálfgefna stillingu dreifingarinnar"
+
+msgid "Em qual modo você deseja restaurar?"
+msgstr ""
+
+msgid "Restaurar no modo padrão da distribuição"
+msgstr "Endurheimta í sjálfgefna stillingu dreifingarinnar"
+
+msgid "Cancelar"
+msgstr ""
+
+#, fuzzy
+msgid "Restaurar o programa no modo padrão."
+msgstr "Endurheimta í sjálfgefnum ham"
+
+msgid "Restaurar no modo padrão do programa"
+msgstr "Endurheimta í sjálfgefnum ham"
+
+#, fuzzy
+msgid "Restaurar o programa no modo padrão ou distribuição BigLinux."
+msgstr "Endurheimta í sjálfgefna stillingu dreifingarinnar"
+
+msgid "Músicas"
+msgstr ""
+
+msgid "Gravador de Tela"
+msgstr ""
+
+msgid "Vídeos"
+msgstr ""
+
+msgid "Conversor de áudio e vídeo"
+msgstr ""
+
+msgid "As configurações foram restauradas com sucesso!"
+msgstr "Stillingar hafa verið endurreistar!"
+
+msgid "OK"
+msgstr ""
+
+#, fuzzy
+msgid "As configurações do BigLinux KDE foram restauradas com sucesso!"
+msgstr "Stillingar hafa verið endurreistar!"
+
+msgid "É necessário reinciar a sessão para concluir a restauração!"
+msgstr ""
+
+msgid "Atenção! O programa está em execução!"
+msgstr ""
+
+msgid "Será fechado para que a restauração seja concluída."
+msgstr ""
+
+#, fuzzy
+msgid ""
+"Você tem certeza que deseja restaurar todas as configurações do BigLinux KDE?"
+msgstr ""
+"Ertu viss um að þú viljir endurheimta allar KDE/Plasma stillingar? \\ nÞetta "
+"mun eyða öllum stillingum sem skilgreindar eru af $USER!"
+
+#, fuzzy
+msgid "Isso apagará todas as configurações definidas por "
+msgstr "Endurheimta forritastillingar:"
+
+#~ msgid ""
+#~ "Atenção! O programa está aberto!\\nEle será fechado para que a "
+#~ "restauração tenha efeito."
+#~ msgstr ""
+#~ "Athygli! Forritið er opið! \\ nÞað verður lokað til að endurheimtin taki "
+#~ "gildi."
+
+#~ msgid ""
+#~ "As configurações foram restauradas com sucesso!\\nÉ necessário fazer "
+#~ "logoff/login para concluir a restauração!"
+#~ msgstr ""
+#~ "Stillingar hafa verið endurreistar! \\ nÞú verður að skrá þig af/skrá þig "
+#~ "inn til að ljúka endurheimt!"
+
+#~ msgid ""
+#~ "Restaurar&nbsp;o&nbsp;programa&nbsp;como&nbsp;modo&nbsp;padrão&nbsp;"
+#~ "ou&nbsp;distribuição&nbsp;BigLinux."
+#~ msgstr "Endurheimtu forritið sem venjulegan hátt eða BigLinux dreifingu."
+
+#~ msgid "Restaurar&nbsp;o&nbsp;programa&nbsp;como&nbsp;modo&nbsp;padrão."
+#~ msgstr "Endurheimta forritið í sjálfgefna stillingu."
+
+#~ msgid ""
+#~ "Músicas-(Clementine) clementine.sh Multimedia clementine.png clementine "
+#~ "skel $COMMENT_skel"
+#~ msgstr ""
+#~ "Lög- (Clementine) clementine.sh Margmiðlun clementine.png Clementine skel "
+#~ "$comment_skel"
+
+#~ msgid ""
+#~ "Gravador-de-Tela-(vokoscreenNG) vokoscreen.sh Multimedia vokoscreen.png "
+#~ "vokoscreenNG  $COMMENT_normal"
+#~ msgstr ""
+#~ "Skjár Upptökutæki - (VokoScreenng) vokoscreen.sh Margmiðlun vokoscreen."
+#~ "png Vokosscreenng $comment_normal"
+
+#~ msgid ""
+#~ "Vídeos-(Smplayer) smplayer.sh Multimedia smplayer.png smplayer skel "
+#~ "$COMMENT_skel"
+#~ msgstr ""
+#~ "Myndbönd- (Smplayer) smplayer.sh Margmiðlun smplayer.png Smaspilari skel "
+#~ "$comment_skel"
+
+#~ msgid "Fechar"
+#~ msgstr "Loka"
+
+#~ msgid "Essa opção restaura o programa com o padrão do BigLinux."
+#~ msgstr "Þessi valkostur endurheimtir forritið í BigLinux sjálfgefið."
+
+#~ msgid "Essa opção restaura o programa com o padrão do desenvolvedor."
+#~ msgstr "Þessi valkostur endurheimtir forritið til verktaki sjálfgefið."

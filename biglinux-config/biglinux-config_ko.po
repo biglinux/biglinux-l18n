@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: biglinux-config\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-07-23 19:21-0300\n"
+"POT-Creation-Date: 2022-08-01 06:12-0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -20,76 +20,12 @@ msgstr ""
 msgid "Restaurar Configurações"
 msgstr "복원 설정"
 
-msgid ""
-"Atenção! O programa está aberto!\\nEle será fechado para que a restauração "
-"tenha efeito."
-msgstr "주의!프로그램이 열려 있습니다!\\ n복원을 적용하려면 닫힙니다."
+#, fuzzy
+msgid "Pesquisar programa"
+msgstr "검색 복원"
 
-msgid "As configurações foram restauradas com sucesso!"
-msgstr "설정이 성공적으로 복원되었습니다!"
-
-msgid ""
-"Você tem certeza que deseja restaurar todas as configurações do KDE/Plasma?"
-"\\nIsso apagará todas as configurações definidas por $USER!"
-msgstr ""
-"모든 KDE/플라즈마 설정을 복원하시겠습니까?\\ n이렇게 하면 $USER에서 정의한 모"
-"든 설정이 삭제됩니다."
-
-msgid ""
-"As configurações foram restauradas com sucesso!\\nÉ necessário fazer logoff/"
-"login para concluir a restauração!"
-msgstr ""
-"설정이 성공적으로 복원되었습니다!\\ n복원을 완료하려면 로그오프하거나 로그인"
-"해야 합니다!"
-
-msgid ""
-"Restaurar&nbsp;o&nbsp;programa&nbsp;como&nbsp;modo&nbsp;padrão&nbsp;ou&nbsp;"
-"distribuição&nbsp;BigLinux."
-msgstr "프로그램을 표준 모드 또는 BigLinux 배포판으로 복원합니다."
-
-msgid "Restaurar&nbsp;o&nbsp;programa&nbsp;como&nbsp;modo&nbsp;padrão."
-msgstr "프로그램을 기본 모드로 복원합니다."
-
-msgid ""
-"Músicas-(Clementine) clementine.sh Multimedia clementine.png clementine skel "
-"$COMMENT_skel"
-msgstr ""
-"노래- (클레멘타인) clementine.sh 멀티미디어 clementine.png 클레멘타인 해골 "
-"$코멘트_스켈"
-
-msgid ""
-"Gravador-de-Tela-(vokoscreenNG) vokoscreen.sh Multimedia vokoscreen.png "
-"vokoscreenNG  $COMMENT_normal"
-msgstr ""
-"스크린 레코더 - (보코스크린) vokoscreen.sh 멀티미디어 vokoscreen.png 보코스스"
-"크리닝 $코멘트_노멀"
-
-msgid ""
-"Vídeos-(Smplayer) smplayer.sh Multimedia smplayer.png smplayer skel "
-"$COMMENT_skel"
-msgstr ""
-"동영상- (스플레이어) smplayer.sh 멀티미디어 smplayer.png 스플레이어 스케일 "
-"$코멘트_스켈"
-
-msgid "Fechar"
-msgstr "닫기"
-
-msgid "Restaurar no modo padrão da distribuição"
-msgstr "배포의 기본 모드로 복원"
-
-msgid "Essa opção restaura o programa com o padrão do BigLinux."
-msgstr "이 옵션은 프로그램을 BigLinux 기본값으로 복원합니다."
-
-msgid "Restaurar no modo padrão do programa"
-msgstr "프로그램 기본 모드에서 복원"
-
-msgid "Essa opção restaura o programa com o padrão do desenvolvedor."
-msgstr "이 옵션은 프로그램을 개발자 기본값으로 복원합니다."
-
-msgid "Restaurar as configurações do programa:"
-msgstr "프로그램 설정 복원:"
-
-msgid "Principal"
+#, fuzzy
+msgid "Principais"
 msgstr "메인"
 
 msgid "Internet"
@@ -107,5 +43,118 @@ msgstr "사무실"
 msgid "Sistema"
 msgstr "시스템"
 
-msgid "Pesquisar Restaurar"
-msgstr "검색 복원"
+#, fuzzy
+msgid "Restaurar o programa no modo da distribuição BigLinux."
+msgstr "배포의 기본 모드로 복원"
+
+msgid "Em qual modo você deseja restaurar?"
+msgstr ""
+
+msgid "Restaurar no modo padrão da distribuição"
+msgstr "배포의 기본 모드로 복원"
+
+msgid "Cancelar"
+msgstr ""
+
+#, fuzzy
+msgid "Restaurar o programa no modo padrão."
+msgstr "프로그램 기본 모드에서 복원"
+
+msgid "Restaurar no modo padrão do programa"
+msgstr "프로그램 기본 모드에서 복원"
+
+#, fuzzy
+msgid "Restaurar o programa no modo padrão ou distribuição BigLinux."
+msgstr "배포의 기본 모드로 복원"
+
+msgid "Músicas"
+msgstr ""
+
+msgid "Gravador de Tela"
+msgstr ""
+
+msgid "Vídeos"
+msgstr ""
+
+msgid "Conversor de áudio e vídeo"
+msgstr ""
+
+msgid "As configurações foram restauradas com sucesso!"
+msgstr "설정이 성공적으로 복원되었습니다!"
+
+msgid "OK"
+msgstr ""
+
+#, fuzzy
+msgid "As configurações do BigLinux KDE foram restauradas com sucesso!"
+msgstr "설정이 성공적으로 복원되었습니다!"
+
+msgid "É necessário reinciar a sessão para concluir a restauração!"
+msgstr ""
+
+msgid "Atenção! O programa está em execução!"
+msgstr ""
+
+msgid "Será fechado para que a restauração seja concluída."
+msgstr ""
+
+#, fuzzy
+msgid ""
+"Você tem certeza que deseja restaurar todas as configurações do BigLinux KDE?"
+msgstr ""
+"모든 KDE/플라즈마 설정을 복원하시겠습니까?\\ n이렇게 하면 $USER에서 정의한 모"
+"든 설정이 삭제됩니다."
+
+#, fuzzy
+msgid "Isso apagará todas as configurações definidas por "
+msgstr "프로그램 설정 복원:"
+
+#~ msgid ""
+#~ "Atenção! O programa está aberto!\\nEle será fechado para que a "
+#~ "restauração tenha efeito."
+#~ msgstr "주의!프로그램이 열려 있습니다!\\ n복원을 적용하려면 닫힙니다."
+
+#~ msgid ""
+#~ "As configurações foram restauradas com sucesso!\\nÉ necessário fazer "
+#~ "logoff/login para concluir a restauração!"
+#~ msgstr ""
+#~ "설정이 성공적으로 복원되었습니다!\\ n복원을 완료하려면 로그오프하거나 로그"
+#~ "인해야 합니다!"
+
+#~ msgid ""
+#~ "Restaurar&nbsp;o&nbsp;programa&nbsp;como&nbsp;modo&nbsp;padrão&nbsp;"
+#~ "ou&nbsp;distribuição&nbsp;BigLinux."
+#~ msgstr "프로그램을 표준 모드 또는 BigLinux 배포판으로 복원합니다."
+
+#~ msgid "Restaurar&nbsp;o&nbsp;programa&nbsp;como&nbsp;modo&nbsp;padrão."
+#~ msgstr "프로그램을 기본 모드로 복원합니다."
+
+#~ msgid ""
+#~ "Músicas-(Clementine) clementine.sh Multimedia clementine.png clementine "
+#~ "skel $COMMENT_skel"
+#~ msgstr ""
+#~ "노래- (클레멘타인) clementine.sh 멀티미디어 clementine.png 클레멘타인 해"
+#~ "골 $코멘트_스켈"
+
+#~ msgid ""
+#~ "Gravador-de-Tela-(vokoscreenNG) vokoscreen.sh Multimedia vokoscreen.png "
+#~ "vokoscreenNG  $COMMENT_normal"
+#~ msgstr ""
+#~ "스크린 레코더 - (보코스크린) vokoscreen.sh 멀티미디어 vokoscreen.png 보코"
+#~ "스스크리닝 $코멘트_노멀"
+
+#~ msgid ""
+#~ "Vídeos-(Smplayer) smplayer.sh Multimedia smplayer.png smplayer skel "
+#~ "$COMMENT_skel"
+#~ msgstr ""
+#~ "동영상- (스플레이어) smplayer.sh 멀티미디어 smplayer.png 스플레이어 스케"
+#~ "일 $코멘트_스켈"
+
+#~ msgid "Fechar"
+#~ msgstr "닫기"
+
+#~ msgid "Essa opção restaura o programa com o padrão do BigLinux."
+#~ msgstr "이 옵션은 프로그램을 BigLinux 기본값으로 복원합니다."
+
+#~ msgid "Essa opção restaura o programa com o padrão do desenvolvedor."
+#~ msgstr "이 옵션은 프로그램을 개발자 기본값으로 복원합니다."

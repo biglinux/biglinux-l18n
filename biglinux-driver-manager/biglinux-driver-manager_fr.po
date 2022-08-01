@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: biglinux-driver-manager\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-07-23 19:21-0300\n"
+"POT-Creation-Date: 2022-08-01 06:12-0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -47,54 +47,6 @@ msgstr ""
 
 msgid "Desativado"
 msgstr "Handicapés"
-
-msgid "Informações de Hardware"
-msgstr "Informations sur le matériel"
-
-msgid "Fechar"
-msgstr "Fermer"
-
-msgid "Enviar para transfer.sh"
-msgstr "Envoyer à transfer.sh"
-
-msgid "Visualizar"
-msgstr "Voir"
-
-msgid "O relatório foi salvo no arquivo:"
-msgstr "Le rapport a été enregistré dans les archives :"
-
-msgid ""
-"Deseja visualizar o arquivo ou envia-lo ao site transfer.sh, para ter uma "
-"URL com os dados do seu computador de forma fácil de compartilhar?"
-msgstr ""
-"Voulez-vous voir le fichier ou l'envoyer à transfer.sh, pour avoir une URL "
-"avec les données de votre ordinateur d'une manière facile à partager ?"
-
-msgid "Concluído, reinicie o computador para ativar a configuração do driver."
-msgstr ""
-"Une fois terminé, redémarrez votre ordinateur pour activer la configuration "
-"du pilote."
-
-msgid "Driver"
-msgstr "Conducteur"
-
-msgid "Ocorreu um erro e o driver não pode ser aplicado."
-msgstr "Une erreur s'est produite et le pilote ne peut pas être appliqué."
-
-msgid "Enviando, aguarde..."
-msgstr "Envoi, veuillez patienter..."
-
-msgid ""
-"Digite sua senha para gerar um relatório removendo dados sensíveis, por "
-"exemplo, endereço de IP, ou cancele para utilizar as informações da tela "
-"anterior."
-msgstr ""
-"Saisissez votre mot de passe pour générer un rapport supprimant les données "
-"sensibles, par exemple l'adresse IP, ou annulez pour utiliser les "
-"informations de l'écran précédent."
-
-msgid "Digite sua senha para gerar um relatório mais completo."
-msgstr "Saisissez votre mot de passe pour générer un rapport plus complet."
 
 msgid "Categorias"
 msgstr "Catégories"
@@ -159,6 +111,12 @@ msgstr "Recherche"
 msgid "Resultado da pesquisa"
 msgstr "Résultat de la recherche"
 
+msgid "Informações de Hardware"
+msgstr "Informations sur le matériel"
+
+msgid "Fechar"
+msgstr "Fermer"
+
 msgid "Abrir"
 msgstr "Ouvert"
 
@@ -222,6 +180,22 @@ msgstr "ID"
 msgid "Info"
 msgstr "Info"
 
+msgid "Enviar para transfer.sh"
+msgstr "Envoyer à transfer.sh"
+
+msgid "Visualizar"
+msgstr "Voir"
+
+msgid "O relatório foi salvo no arquivo:"
+msgstr "Le rapport a été enregistré dans les archives :"
+
+msgid ""
+"Deseja visualizar o arquivo ou envia-lo ao site transfer.sh, para ter uma "
+"URL com os dados do seu computador de forma fácil de compartilhar?"
+msgstr ""
+"Voulez-vous voir le fichier ou l'envoyer à transfer.sh, pour avoir une URL "
+"avec les données de votre ordinateur d'une manière facile à partager ?"
+
 msgid "Driver detectado:"
 msgstr "Conducteur détecté :"
 
@@ -281,6 +255,17 @@ msgstr "Candidature - Veuillez patienter"
 msgid "Este pacote fornece arquivos compatíveis com este computador."
 msgstr "Ce paquet fournit des fichiers compatibles avec cet ordinateur."
 
+msgid "Concluído, reinicie o computador para ativar a configuração do driver."
+msgstr ""
+"Une fois terminé, redémarrez votre ordinateur pour activer la configuration "
+"du pilote."
+
+msgid "Driver"
+msgstr "Conducteur"
+
+msgid "Ocorreu um erro e o driver não pode ser aplicado."
+msgstr "Une erreur s'est produite et le pilote ne peut pas être appliqué."
+
 msgid "Swap (Memória Virtual)"
 msgstr "Swap (mémoire virtuelle)"
 
@@ -313,3 +298,18 @@ msgstr "Informations sur le système"
 
 msgid "Repositórios"
 msgstr "Dépôts"
+
+msgid ""
+"Digite sua senha para gerar um relatório removendo dados sensíveis, por "
+"exemplo, endereço de IP, ou cancele para utilizar as informações da tela "
+"anterior."
+msgstr ""
+"Saisissez votre mot de passe pour générer un rapport supprimant les données "
+"sensibles, par exemple l'adresse IP, ou annulez pour utiliser les "
+"informations de l'écran précédent."
+
+msgid "Digite sua senha para gerar um relatório mais completo."
+msgstr "Saisissez votre mot de passe pour générer un rapport plus complet."
+
+msgid "Enviando, aguarde..."
+msgstr "Envoi, veuillez patienter..."

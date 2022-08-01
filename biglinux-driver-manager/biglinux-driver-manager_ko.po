@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: biglinux-driver-manager\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-07-23 19:21-0300\n"
+"POT-Creation-Date: 2022-08-01 06:12-0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -47,51 +47,6 @@ msgstr ""
 
 msgid "Desativado"
 msgstr "비활성화"
-
-msgid "Informações de Hardware"
-msgstr "하드웨어 정보"
-
-msgid "Fechar"
-msgstr "닫기"
-
-msgid "Enviar para transfer.sh"
-msgstr "transfer.sh 으로 보내기"
-
-msgid "Visualizar"
-msgstr "전망"
-
-msgid "O relatório foi salvo no arquivo:"
-msgstr "보고서가 파일에 저장되었습니다."
-
-msgid ""
-"Deseja visualizar o arquivo ou envia-lo ao site transfer.sh, para ter uma "
-"URL com os dados do seu computador de forma fácil de compartilhar?"
-msgstr ""
-"파일을 보거나 transfer.sh 웹 사이트로 보내 컴퓨터의 데이터가 포함 된 URL을 쉽"
-"게 공유 할 수 있습니까?"
-
-msgid "Concluído, reinicie o computador para ativar a configuração do driver."
-msgstr "완료, 컴퓨터를 다시 시작하여 드라이버 구성을 활성화하십시오."
-
-msgid "Driver"
-msgstr "드라이버"
-
-msgid "Ocorreu um erro e o driver não pode ser aplicado."
-msgstr "오류가 발생하여 드라이버를 적용할 수 없습니다."
-
-msgid "Enviando, aguarde..."
-msgstr "보내는 중입니다. 잠시만 기다려"
-
-msgid ""
-"Digite sua senha para gerar um relatório removendo dados sensíveis, por "
-"exemplo, endereço de IP, ou cancele para utilizar as informações da tela "
-"anterior."
-msgstr ""
-"암호를 입력하여 중요한 데이터 (예: IP 주소) 를 제거하는 보고서를 생성하거나 "
-"취소를 입력하여 이전 화면의 정보를 사용합니다."
-
-msgid "Digite sua senha para gerar um relatório mais completo."
-msgstr "더 완전한 보고서를 생성하려면 비밀번호를 입력합니다."
 
 msgid "Categorias"
 msgstr "카테고리"
@@ -156,6 +111,12 @@ msgstr "검색"
 msgid "Resultado da pesquisa"
 msgstr "검색 결과"
 
+msgid "Informações de Hardware"
+msgstr "하드웨어 정보"
+
+msgid "Fechar"
+msgstr "닫기"
+
 msgid "Abrir"
 msgstr "오픈"
 
@@ -217,6 +178,22 @@ msgstr "신분증"
 msgid "Info"
 msgstr "정보"
 
+msgid "Enviar para transfer.sh"
+msgstr "transfer.sh 으로 보내기"
+
+msgid "Visualizar"
+msgstr "전망"
+
+msgid "O relatório foi salvo no arquivo:"
+msgstr "보고서가 파일에 저장되었습니다."
+
+msgid ""
+"Deseja visualizar o arquivo ou envia-lo ao site transfer.sh, para ter uma "
+"URL com os dados do seu computador de forma fácil de compartilhar?"
+msgstr ""
+"파일을 보거나 transfer.sh 웹 사이트로 보내 컴퓨터의 데이터가 포함 된 URL을 쉽"
+"게 공유 할 수 있습니까?"
+
 msgid "Driver detectado:"
 msgstr "드라이버 감지:"
 
@@ -274,6 +251,15 @@ msgstr "신청 - 기다려주세요"
 msgid "Este pacote fornece arquivos compatíveis com este computador."
 msgstr "이 패키지는 이 컴퓨터와 호환되는 파일을 제공합니다."
 
+msgid "Concluído, reinicie o computador para ativar a configuração do driver."
+msgstr "완료, 컴퓨터를 다시 시작하여 드라이버 구성을 활성화하십시오."
+
+msgid "Driver"
+msgstr "드라이버"
+
+msgid "Ocorreu um erro e o driver não pode ser aplicado."
+msgstr "오류가 발생하여 드라이버를 적용할 수 없습니다."
+
 msgid "Swap (Memória Virtual)"
 msgstr "스왑 (가상 메모리)"
 
@@ -306,3 +292,17 @@ msgstr "시스템 정보"
 
 msgid "Repositórios"
 msgstr "리포지토리"
+
+msgid ""
+"Digite sua senha para gerar um relatório removendo dados sensíveis, por "
+"exemplo, endereço de IP, ou cancele para utilizar as informações da tela "
+"anterior."
+msgstr ""
+"암호를 입력하여 중요한 데이터 (예: IP 주소) 를 제거하는 보고서를 생성하거나 "
+"취소를 입력하여 이전 화면의 정보를 사용합니다."
+
+msgid "Digite sua senha para gerar um relatório mais completo."
+msgstr "더 완전한 보고서를 생성하려면 비밀번호를 입력합니다."
+
+msgid "Enviando, aguarde..."
+msgstr "보내는 중입니다. 잠시만 기다려"

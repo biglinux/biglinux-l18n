@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: biglinux-session-and-themes\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-07-23 19:21-0300\n"
+"POT-Creation-Date: 2022-08-01 06:12-0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -56,16 +56,10 @@ msgstr ""
 "kako bi konfiguracija završila\n"
 "primjenjivati."
 
-msgid "Desempenho em modo normal!"
-msgstr "Izvedba u normalnom načinu rada!"
+msgid "Aplicando, aguarde..."
+msgstr ""
 
-msgid "Desempenho em modo otimizado!"
-msgstr "Performanse u optimiziranom načinu!"
-
-msgid "Desempenho em modo performance!"
-msgstr "Performanse u načinu rada!"
-
-msgid "Aplicando, aguarde o termino."
+msgid "Concluído!"
 msgstr ""
 
 msgid "Temas"
@@ -203,6 +197,15 @@ msgid ""
 "reduzida."
 msgstr ""
 "Korištenjem prikazivanja softvera smanjuje se kvaliteta prozirnih folija."
+
+msgid "Desempenho em modo normal!"
+msgstr "Izvedba u normalnom načinu rada!"
+
+msgid "Desempenho em modo otimizado!"
+msgstr "Performanse u optimiziranom načinu!"
+
+msgid "Desempenho em modo performance!"
+msgstr "Performanse u načinu rada!"
 
 #~ msgid "<b>Classic</b> e <b>New</b> têm melhor desempenho."
 #~ msgstr "<b>Klasični</b> i<b>novi</b> rade bolje."

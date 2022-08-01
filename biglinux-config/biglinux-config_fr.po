@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: biglinux-config\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-07-23 19:21-0300\n"
+"POT-Creation-Date: 2022-08-01 06:12-0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -20,79 +20,12 @@ msgstr ""
 msgid "Restaurar Configurações"
 msgstr "Restaurer les paramètres"
 
-msgid ""
-"Atenção! O programa está aberto!\\nEle será fechado para que a restauração "
-"tenha efeito."
-msgstr ""
-"Attention ! Le programme est ouvert ! Il sera fermé le temps que la "
-"restauration prenne effet."
+#, fuzzy
+msgid "Pesquisar programa"
+msgstr "Recherche de restauration"
 
-msgid "As configurações foram restauradas com sucesso!"
-msgstr "Les paramètres ont été restaurés avec succès !"
-
-msgid ""
-"Você tem certeza que deseja restaurar todas as configurações do KDE/Plasma?"
-"\\nIsso apagará todas as configurações definidas por $USER!"
-msgstr ""
-"Êtes-vous sûr de vouloir restaurer tous les paramètres de KDE/Plasma ? "
-"Effacez tous les paramètres définis par $USER !"
-
-msgid ""
-"As configurações foram restauradas com sucesso!\\nÉ necessário fazer logoff/"
-"login para concluir a restauração!"
-msgstr ""
-"Les paramètres ont été restaurés avec succès ! Vous devez vous déconnecter/"
-"se connecter pour terminer la restauration !"
-
-msgid ""
-"Restaurar&nbsp;o&nbsp;programa&nbsp;como&nbsp;modo&nbsp;padrão&nbsp;ou&nbsp;"
-"distribuição&nbsp;BigLinux."
-msgstr "Restaurer le programme en mode standard ou la distribution BigLinux."
-
-msgid "Restaurar&nbsp;o&nbsp;programa&nbsp;como&nbsp;modo&nbsp;padrão."
-msgstr "Rétablir le programme comme mode par défaut."
-
-msgid ""
-"Músicas-(Clementine) clementine.sh Multimedia clementine.png clementine skel "
-"$COMMENT_skel"
-msgstr ""
-"Musique-(Clémentine) clementine.sh Multimédia clementine.png clementine skel "
-"$COMMENT_skel"
-
-msgid ""
-"Gravador-de-Tela-(vokoscreenNG) vokoscreen.sh Multimedia vokoscreen.png "
-"vokoscreenNG  $COMMENT_normal"
-msgstr ""
-"Enregistreur d'écran-(vokoscreenNG) vokoscreen.sh Multimédia vokoscreen.png "
-"vokoscreenNG $COMMENT_normal"
-
-msgid ""
-"Vídeos-(Smplayer) smplayer.sh Multimedia smplayer.png smplayer skel "
-"$COMMENT_skel"
-msgstr ""
-"Vidéos-(Smplayer) smplayer.sh Multimédia smplayer.png smplayer skel "
-"$COMMENT_skel"
-
-msgid "Fechar"
-msgstr "Fermer"
-
-msgid "Restaurar no modo padrão da distribuição"
-msgstr "Restaurer le mode de distribution par défaut"
-
-msgid "Essa opção restaura o programa com o padrão do BigLinux."
-msgstr "Cette option restaure le programme par défaut de BigLinux."
-
-msgid "Restaurar no modo padrão do programa"
-msgstr "Rétablissement en mode programme standard"
-
-msgid "Essa opção restaura o programa com o padrão do desenvolvedor."
-msgstr ""
-"Cette option rétablit le programme à la valeur par défaut du développeur."
-
-msgid "Restaurar as configurações do programa:"
-msgstr "Rétablir les paramètres du programme :"
-
-msgid "Principal"
+#, fuzzy
+msgid "Principais"
 msgstr "Principal"
 
 msgid "Internet"
@@ -110,5 +43,122 @@ msgstr "Bureau"
 msgid "Sistema"
 msgstr "Système"
 
-msgid "Pesquisar Restaurar"
-msgstr "Recherche de restauration"
+#, fuzzy
+msgid "Restaurar o programa no modo da distribuição BigLinux."
+msgstr "Restaurer le mode de distribution par défaut"
+
+msgid "Em qual modo você deseja restaurar?"
+msgstr ""
+
+msgid "Restaurar no modo padrão da distribuição"
+msgstr "Restaurer le mode de distribution par défaut"
+
+msgid "Cancelar"
+msgstr ""
+
+#, fuzzy
+msgid "Restaurar o programa no modo padrão."
+msgstr "Rétablissement en mode programme standard"
+
+msgid "Restaurar no modo padrão do programa"
+msgstr "Rétablissement en mode programme standard"
+
+#, fuzzy
+msgid "Restaurar o programa no modo padrão ou distribuição BigLinux."
+msgstr "Restaurer le mode de distribution par défaut"
+
+msgid "Músicas"
+msgstr ""
+
+msgid "Gravador de Tela"
+msgstr ""
+
+msgid "Vídeos"
+msgstr ""
+
+msgid "Conversor de áudio e vídeo"
+msgstr ""
+
+msgid "As configurações foram restauradas com sucesso!"
+msgstr "Les paramètres ont été restaurés avec succès !"
+
+msgid "OK"
+msgstr ""
+
+#, fuzzy
+msgid "As configurações do BigLinux KDE foram restauradas com sucesso!"
+msgstr "Les paramètres ont été restaurés avec succès !"
+
+msgid "É necessário reinciar a sessão para concluir a restauração!"
+msgstr ""
+
+msgid "Atenção! O programa está em execução!"
+msgstr ""
+
+msgid "Será fechado para que a restauração seja concluída."
+msgstr ""
+
+#, fuzzy
+msgid ""
+"Você tem certeza que deseja restaurar todas as configurações do BigLinux KDE?"
+msgstr ""
+"Êtes-vous sûr de vouloir restaurer tous les paramètres de KDE/Plasma ? "
+"Effacez tous les paramètres définis par $USER !"
+
+#, fuzzy
+msgid "Isso apagará todas as configurações definidas por "
+msgstr "Rétablir les paramètres du programme :"
+
+#~ msgid ""
+#~ "Atenção! O programa está aberto!\\nEle será fechado para que a "
+#~ "restauração tenha efeito."
+#~ msgstr ""
+#~ "Attention ! Le programme est ouvert ! Il sera fermé le temps que la "
+#~ "restauration prenne effet."
+
+#~ msgid ""
+#~ "As configurações foram restauradas com sucesso!\\nÉ necessário fazer "
+#~ "logoff/login para concluir a restauração!"
+#~ msgstr ""
+#~ "Les paramètres ont été restaurés avec succès ! Vous devez vous "
+#~ "déconnecter/se connecter pour terminer la restauration !"
+
+#~ msgid ""
+#~ "Restaurar&nbsp;o&nbsp;programa&nbsp;como&nbsp;modo&nbsp;padrão&nbsp;"
+#~ "ou&nbsp;distribuição&nbsp;BigLinux."
+#~ msgstr ""
+#~ "Restaurer le programme en mode standard ou la distribution BigLinux."
+
+#~ msgid "Restaurar&nbsp;o&nbsp;programa&nbsp;como&nbsp;modo&nbsp;padrão."
+#~ msgstr "Rétablir le programme comme mode par défaut."
+
+#~ msgid ""
+#~ "Músicas-(Clementine) clementine.sh Multimedia clementine.png clementine "
+#~ "skel $COMMENT_skel"
+#~ msgstr ""
+#~ "Musique-(Clémentine) clementine.sh Multimédia clementine.png clementine "
+#~ "skel $COMMENT_skel"
+
+#~ msgid ""
+#~ "Gravador-de-Tela-(vokoscreenNG) vokoscreen.sh Multimedia vokoscreen.png "
+#~ "vokoscreenNG  $COMMENT_normal"
+#~ msgstr ""
+#~ "Enregistreur d'écran-(vokoscreenNG) vokoscreen.sh Multimédia vokoscreen."
+#~ "png vokoscreenNG $COMMENT_normal"
+
+#~ msgid ""
+#~ "Vídeos-(Smplayer) smplayer.sh Multimedia smplayer.png smplayer skel "
+#~ "$COMMENT_skel"
+#~ msgstr ""
+#~ "Vidéos-(Smplayer) smplayer.sh Multimédia smplayer.png smplayer skel "
+#~ "$COMMENT_skel"
+
+#~ msgid "Fechar"
+#~ msgstr "Fermer"
+
+#~ msgid "Essa opção restaura o programa com o padrão do BigLinux."
+#~ msgstr "Cette option restaure le programme par défaut de BigLinux."
+
+#~ msgid "Essa opção restaura o programa com o padrão do desenvolvedor."
+#~ msgstr ""
+#~ "Cette option rétablit le programme à la valeur par défaut du développeur."

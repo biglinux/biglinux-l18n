@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: bigcontrolcenter\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-07-23 19:21-0300\n"
+"POT-Creation-Date: 2022-08-01 06:12-0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -16,6 +16,12 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+
+msgid "Introdução ao BigLinux"
+msgstr "Johdanto BigLinuxiin"
+
+msgid "Central de Controle"
+msgstr "Valvontakeskus"
 
 msgid ""
 "A webcam já está sendo utilizada pelo programa: $WEBCAM_BUSY\n"
@@ -62,24 +68,6 @@ msgstr "Sulje"
 
 msgid "Hardinfo Relatory"
 msgstr "Hardinfo Suhteellinen"
-
-msgid "Central de Controle"
-msgstr "Valvontakeskus"
-
-msgid "Introdução ao BigLinux"
-msgstr "Johdanto BigLinuxiin"
-
-msgid "Bom dia"
-msgstr "Hyvää huomenta"
-
-msgid "Boa tarde"
-msgstr "Hyvää iltapäivää"
-
-msgid "Boa noite"
-msgstr "Hyvää iltaa"
-
-msgid "Aguarde, carregando..."
-msgstr "Valmistautukaa, lastaus..."
 
 msgid "Bem vindo ao BigLinux"
 msgstr "Tervetuloa BigLinuxiin"
@@ -200,6 +188,18 @@ msgid "Parabéns, você concluiu os primeiros passos para utilizar o BigLinux."
 msgstr ""
 "Onneksi olkoon, olet suorittanut BigLinuxin käytön ensimmäiset vaiheet."
 
+msgid "Bom dia"
+msgstr "Hyvää huomenta"
+
+msgid "Boa tarde"
+msgstr "Hyvää iltapäivää"
+
+msgid "Boa noite"
+msgstr "Hyvää iltaa"
+
+msgid "Aguarde, carregando..."
+msgstr "Valmistautukaa, lastaus..."
+
 msgid "Integração com Google Drive e ownCloud"
 msgstr "Integrointi Google Driven ja ownCloudin kanssa"
 
@@ -209,6 +209,13 @@ msgid ""
 msgstr ""
 "Pääset Google Drivessa tai ownCloudissa oleviin tiedostoihisi suoraan "
 "tiedostonhallinnasta."
+
+msgid "Configurar o AppimageLauncher"
+msgstr "AppimageLauncherin määrittäminen"
+
+msgid "Escolher o comportamento dos programas disponibilizados em .appimage"
+msgstr ""
+"Valitse .appimage-tiedostossa käytettävissä olevien ohjelmien käyttäytyminen"
 
 msgid "Qt Assistant"
 msgstr "Qt Assistant"
@@ -251,6 +258,12 @@ msgstr ""
 msgid "Temas do Bootsplash"
 msgstr "Bootsplash-teemat"
 
+msgid "Controle o brilho e as cores"
+msgstr "Säädä kirkkautta ja värejä"
+
+msgid "Brilho e cor"
+msgstr "Kiilto ja väri"
+
 msgid "Procurar servidores SSH"
 msgstr "Selaa SSH-palvelimia"
 
@@ -277,6 +290,9 @@ msgstr "Osioinnin tai alustuksen tekeminen"
 
 msgid "Cuidado, este programa poderá apagar todos os dados do computador."
 msgstr "Varo, että tämä ohjelma voi poistaa kaikki tietokoneen tiedot."
+
+msgid "Informações de armazenamento (SMART)"
+msgstr "Varastointitiedot (SMART)"
 
 msgid "Firewall"
 msgstr "Palomuuri"
@@ -305,6 +321,9 @@ msgid ""
 msgstr ""
 "Tämän ohjelman avulla voit käyttää Apple iPhonen tai iPadin ohjelmia samalla "
 "tavalla kuin USB-tikulla olevia tiedostoja."
+
+msgid "Equalizador (DSP)"
+msgstr "Equalizer (DSP)"
 
 msgid "Áreas de trabalho virtuais e atividades"
 msgstr "Virtuaaliset työtilat ja toiminnot"
@@ -344,6 +363,9 @@ msgstr ""
 
 msgid "Instalar, configurar ou remover impressoras."
 msgstr "Asenna, määritä tai poista tulostimia."
+
+msgid "Gerenciar serviços (Systemd)"
+msgstr "Palveluiden hallinta (Systemd)"
 
 msgid "Configurar o tema Kvantum"
 msgstr "Kvantum-teeman määrittäminen"
@@ -395,6 +417,9 @@ msgstr "Terminaali"
 msgid "Acesse o terminal de comandos."
 msgstr "Siirry komentoterminaaliin."
 
+msgid "Gerenciador de senhas"
+msgstr "Salasananhallinta"
+
 msgid "Som e microfone"
 msgstr "Ääni ja mikrofoni"
 
@@ -410,40 +435,6 @@ msgstr "KDE-ohjauskeskus"
 
 msgid "Configurador avançado de energia"
 msgstr "Kehittynyt tehon konfiguraattori"
-
-msgid "Informações de armazenamento (SMART)"
-msgstr "Varastointitiedot (SMART)"
-
-msgid "Gerenciar serviços (Systemd)"
-msgstr "Palveluiden hallinta (Systemd)"
-
-msgid "Configurar o AppimageLauncher"
-msgstr "AppimageLauncherin määrittäminen"
-
-msgid "Escolher o comportamento dos programas disponibilizados em .appimage"
-msgstr ""
-"Valitse .appimage-tiedostossa käytettävissä olevien ohjelmien käyttäytyminen"
-
-msgid "Controle o brilho e as cores"
-msgstr "Säädä kirkkautta ja värejä"
-
-msgid "Brilho e cor"
-msgstr "Kiilto ja väri"
-
-msgid "Equalizador (DSP)"
-msgstr "Equalizer (DSP)"
-
-msgid "Gerenciador de senhas"
-msgstr "Salasananhallinta"
-
-msgid "As configurações da tela foram resetadas."
-msgstr "Näytön asetukset on nollattu."
-
-msgid "Configurações da tela"
-msgstr "Näytön asetukset"
-
-msgid "Aguarde, criando arquivos de cache..."
-msgstr "Valmiina, luodaan välimuistitiedostoja..."
 
 msgid "Categorias"
 msgstr "Kategoriat"
@@ -706,6 +697,15 @@ msgstr ""
 "älypuhelimella tai tietokoneella, mukaan lukien tiedostojen siirtäminen "
 "suoraan älypuhelimesta toiseen.  Voit myös käyttää verkkosovellusten "
 "hallintaa, joka helpottaa tämän verkkosivuston käyttöä."
+
+msgid "As configurações da tela foram resetadas."
+msgstr "Näytön asetukset on nollattu."
+
+msgid "Configurações da tela"
+msgstr "Näytön asetukset"
+
+msgid "Aguarde, criando arquivos de cache..."
+msgstr "Valmiina, luodaan välimuistitiedostoja..."
 
 msgid "Maximizado"
 msgstr "Maksimoitu"

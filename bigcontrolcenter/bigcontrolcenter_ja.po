@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: bigcontrolcenter\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-07-23 19:21-0300\n"
+"POT-Creation-Date: 2022-08-01 06:12-0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -16,6 +16,12 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+
+msgid "Introdução ao BigLinux"
+msgstr "BigLinuxの紹介"
+
+msgid "Central de Controle"
+msgstr "コントロールセンター"
 
 msgid ""
 "A webcam já está sendo utilizada pelo programa: $WEBCAM_BUSY\n"
@@ -62,24 +68,6 @@ msgstr "閉じる"
 
 msgid "Hardinfo Relatory"
 msgstr "Hardinfo関連"
-
-msgid "Central de Controle"
-msgstr "コントロールセンター"
-
-msgid "Introdução ao BigLinux"
-msgstr "BigLinuxの紹介"
-
-msgid "Bom dia"
-msgstr "おはよう"
-
-msgid "Boa tarde"
-msgstr "こんにちは"
-
-msgid "Boa noite"
-msgstr "おやすみ"
-
-msgid "Aguarde, carregando..."
-msgstr "スタンバイ、ローディング..."
 
 msgid "Bem vindo ao BigLinux"
 msgstr "BigLinuxへようこそ"
@@ -200,6 +188,18 @@ msgid "Parabéns, você concluiu os primeiros passos para utilizar o BigLinux."
 msgstr ""
 "おめでとうございます。BigLinuxを使用するための最初のステップが完了しました。"
 
+msgid "Bom dia"
+msgstr "おはよう"
+
+msgid "Boa tarde"
+msgstr "こんにちは"
+
+msgid "Boa noite"
+msgstr "おやすみ"
+
+msgid "Aguarde, carregando..."
+msgstr "スタンバイ、ローディング..."
+
 msgid "Integração com Google Drive e ownCloud"
 msgstr "Google Drive、ownCloudとの連携"
 
@@ -209,6 +209,12 @@ msgid ""
 msgstr ""
 "Google DriveやownCloudにあるファイルに、ファイルマネージャーから直接アクセス"
 "できます。"
+
+msgid "Configurar o AppimageLauncher"
+msgstr "AppimageLauncherの設定"
+
+msgid "Escolher o comportamento dos programas disponibilizados em .appimage"
+msgstr ".appimageで利用できるプログラムの動作を選択します。"
 
 msgid "Qt Assistant"
 msgstr "Qtアシスタント"
@@ -250,6 +256,12 @@ msgstr ""
 msgid "Temas do Bootsplash"
 msgstr "Bootsplashテーマ"
 
+msgid "Controle o brilho e as cores"
+msgstr "輝度や色のコントロール"
+
+msgid "Brilho e cor"
+msgstr "輝きと色"
+
 msgid "Procurar servidores SSH"
 msgstr "SSHサーバーをブラウズする"
 
@@ -279,6 +291,9 @@ msgstr ""
 "このプログラムを使用すると、コンピューター上のすべてのデータが消去される可能"
 "性がありますので、ご注意ください。"
 
+msgid "Informações de armazenamento (SMART)"
+msgstr "ストレージ情報（SMART）"
+
 msgid "Firewall"
 msgstr "ファイアウォール"
 
@@ -306,6 +321,9 @@ msgid ""
 msgstr ""
 "このプログラムを使えば、USBメモリ内のファイルにアクセスするのと同じように、"
 "Apple社のiPhoneやiPad内のプログラムにアクセスすることができます。"
+
+msgid "Equalizador (DSP)"
+msgstr "イコライザー（DSP）"
 
 msgid "Áreas de trabalho virtuais e atividades"
 msgstr "仮想ワークスペースとアクティビティ"
@@ -344,6 +362,9 @@ msgstr ""
 
 msgid "Instalar, configurar ou remover impressoras."
 msgstr "プリンターの設置、設定、削除を行う。"
+
+msgid "Gerenciar serviços (Systemd)"
+msgstr "サービスの管理(Systemd)"
 
 msgid "Configurar o tema Kvantum"
 msgstr "Kvantum テーマを設定する"
@@ -394,6 +415,9 @@ msgstr "ターミナル"
 msgid "Acesse o terminal de comandos."
 msgstr "コマンドターミナルにアクセスします。"
 
+msgid "Gerenciador de senhas"
+msgstr "パスワードマネージャー"
+
 msgid "Som e microfone"
 msgstr "サウンドとマイク"
 
@@ -409,39 +433,6 @@ msgstr "KDEコントロールセンター"
 
 msgid "Configurador avançado de energia"
 msgstr "アドバンスト・パワー・コンフィギュレーター"
-
-msgid "Informações de armazenamento (SMART)"
-msgstr "ストレージ情報（SMART）"
-
-msgid "Gerenciar serviços (Systemd)"
-msgstr "サービスの管理(Systemd)"
-
-msgid "Configurar o AppimageLauncher"
-msgstr "AppimageLauncherの設定"
-
-msgid "Escolher o comportamento dos programas disponibilizados em .appimage"
-msgstr ".appimageで利用できるプログラムの動作を選択します。"
-
-msgid "Controle o brilho e as cores"
-msgstr "輝度や色のコントロール"
-
-msgid "Brilho e cor"
-msgstr "輝きと色"
-
-msgid "Equalizador (DSP)"
-msgstr "イコライザー（DSP）"
-
-msgid "Gerenciador de senhas"
-msgstr "パスワードマネージャー"
-
-msgid "As configurações da tela foram resetadas."
-msgstr "画面の設定がリセットされました。"
-
-msgid "Configurações da tela"
-msgstr "画面設定"
-
-msgid "Aguarde, criando arquivos de cache..."
-msgstr "キャッシュファイル作成待機中..."
 
 msgid "Categorias"
 msgstr "カテゴリー"
@@ -699,6 +690,15 @@ msgstr ""
 "は、スマートフォンから他のスマートフォンへ直接ファイルを転送するなど、あらゆ"
 "るスマートフォンやパソコンで利用することができます。  また、Webアプリマネー"
 "ジャーを利用することで、このウェブサイトを簡単に利用することができます。"
+
+msgid "As configurações da tela foram resetadas."
+msgstr "画面の設定がリセットされました。"
+
+msgid "Configurações da tela"
+msgstr "画面設定"
+
+msgid "Aguarde, criando arquivos de cache..."
+msgstr "キャッシュファイル作成待機中..."
 
 msgid "Maximizado"
 msgstr "最大化"

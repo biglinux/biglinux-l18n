@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: bigcontrolcenter\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-07-23 19:21-0300\n"
+"POT-Creation-Date: 2022-08-01 06:12-0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -16,6 +16,12 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+
+msgid "Introdução ao BigLinux"
+msgstr "Bevezetés a BigLinuxba"
+
+msgid "Central de Controle"
+msgstr "Vezérlőközpont"
 
 msgid ""
 "A webcam já está sendo utilizada pelo programa: $WEBCAM_BUSY\n"
@@ -62,24 +68,6 @@ msgstr "Zárja be a"
 
 msgid "Hardinfo Relatory"
 msgstr "Hardinfo Kapcsolódó"
-
-msgid "Central de Controle"
-msgstr "Vezérlőközpont"
-
-msgid "Introdução ao BigLinux"
-msgstr "Bevezetés a BigLinuxba"
-
-msgid "Bom dia"
-msgstr "Jó reggelt!"
-
-msgid "Boa tarde"
-msgstr "Jó napot!"
-
-msgid "Boa noite"
-msgstr "Jó estét!"
-
-msgid "Aguarde, carregando..."
-msgstr "Készülj, töltés..."
 
 msgid "Bem vindo ao BigLinux"
 msgstr "Üdvözöljük a BigLinuxon"
@@ -199,6 +187,18 @@ msgstr "Facebook"
 msgid "Parabéns, você concluiu os primeiros passos para utilizar o BigLinux."
 msgstr "Gratulálunk, elvégezte a BigLinux használatának első lépéseit."
 
+msgid "Bom dia"
+msgstr "Jó reggelt!"
+
+msgid "Boa tarde"
+msgstr "Jó napot!"
+
+msgid "Boa noite"
+msgstr "Jó estét!"
+
+msgid "Aguarde, carregando..."
+msgstr "Készülj, töltés..."
+
 msgid "Integração com Google Drive e ownCloud"
 msgstr "Integráció a Google Drive és az ownCloud rendszerrel"
 
@@ -208,6 +208,12 @@ msgid ""
 msgstr ""
 "A Google Drive-ban vagy ownCloudban lévő fájlokat közvetlenül a "
 "fájlkezelőből érheti el."
+
+msgid "Configurar o AppimageLauncher"
+msgstr "Az AppimageLauncher konfigurálása"
+
+msgid "Escolher o comportamento dos programas disponibilizados em .appimage"
+msgstr "Válassza ki a .appimage-ben elérhető programok viselkedését"
 
 msgid "Qt Assistant"
 msgstr "Qt asszisztens"
@@ -249,6 +255,12 @@ msgstr ""
 msgid "Temas do Bootsplash"
 msgstr "Bootsplash témák"
 
+msgid "Controle o brilho e as cores"
+msgstr "A fényerő és a színek szabályozása"
+
+msgid "Brilho e cor"
+msgstr "Fény és szín"
+
 msgid "Procurar servidores SSH"
 msgstr "SSH-kiszolgálók böngészése"
 
@@ -275,6 +287,9 @@ msgstr "Partícionálás vagy formázás"
 
 msgid "Cuidado, este programa poderá apagar todos os dados do computador."
 msgstr "Vigyázzon, ez a program törölheti a számítógépén lévő összes adatot."
+
+msgid "Informações de armazenamento (SMART)"
+msgstr "Tárolási információk (SMART)"
 
 msgid "Firewall"
 msgstr "Tűzfal"
@@ -303,6 +318,9 @@ msgid ""
 msgstr ""
 "Ezzel a programmal az Apple iPhone vagy iPad készülékén lévő programokhoz "
 "hasonló módon férhet hozzá, mintha egy USB-pendrive-on lévő fájlokat érne el."
+
+msgid "Equalizador (DSP)"
+msgstr "Egyenlítő (DSP)"
 
 msgid "Áreas de trabalho virtuais e atividades"
 msgstr "Virtuális munkaterületek és tevékenységek"
@@ -342,6 +360,9 @@ msgstr ""
 
 msgid "Instalar, configurar ou remover impressoras."
 msgstr "Nyomtatók telepítése, konfigurálása vagy eltávolítása."
+
+msgid "Gerenciar serviços (Systemd)"
+msgstr "Szolgáltatások kezelése (Systemd)"
 
 msgid "Configurar o tema Kvantum"
 msgstr "A Kvantum téma konfigurálása"
@@ -393,6 +414,9 @@ msgstr "Terminál"
 msgid "Acesse o terminal de comandos."
 msgstr "Lépjen be a parancsterminálba."
 
+msgid "Gerenciador de senhas"
+msgstr "Jelszókezelő"
+
 msgid "Som e microfone"
 msgstr "Hang és mikrofon"
 
@@ -409,39 +433,6 @@ msgstr "KDE Vezérlőközpont"
 
 msgid "Configurador avançado de energia"
 msgstr "Fejlett teljesítmény-konfigurátor"
-
-msgid "Informações de armazenamento (SMART)"
-msgstr "Tárolási információk (SMART)"
-
-msgid "Gerenciar serviços (Systemd)"
-msgstr "Szolgáltatások kezelése (Systemd)"
-
-msgid "Configurar o AppimageLauncher"
-msgstr "Az AppimageLauncher konfigurálása"
-
-msgid "Escolher o comportamento dos programas disponibilizados em .appimage"
-msgstr "Válassza ki a .appimage-ben elérhető programok viselkedését"
-
-msgid "Controle o brilho e as cores"
-msgstr "A fényerő és a színek szabályozása"
-
-msgid "Brilho e cor"
-msgstr "Fény és szín"
-
-msgid "Equalizador (DSP)"
-msgstr "Egyenlítő (DSP)"
-
-msgid "Gerenciador de senhas"
-msgstr "Jelszókezelő"
-
-msgid "As configurações da tela foram resetadas."
-msgstr "A képernyőbeállítások visszaállítása megtörtént."
-
-msgid "Configurações da tela"
-msgstr "Képernyőbeállítások"
-
-msgid "Aguarde, criando arquivos de cache..."
-msgstr "Készenlétben állunk, cache fájlok létrehozása..."
 
 msgid "Categorias"
 msgstr "Kategóriák"
@@ -710,6 +701,15 @@ msgstr ""
 "használható, beleértve a fájlok közvetlen átvitelét egyik okostelefonról a "
 "másikra.  A webalkalmazás-kezelőnket is használhatja, hogy megkönnyítse a "
 "weboldal használatát."
+
+msgid "As configurações da tela foram resetadas."
+msgstr "A képernyőbeállítások visszaállítása megtörtént."
+
+msgid "Configurações da tela"
+msgstr "Képernyőbeállítások"
+
+msgid "Aguarde, criando arquivos de cache..."
+msgstr "Készenlétben állunk, cache fájlok létrehozása..."
 
 msgid "Maximizado"
 msgstr "Maximált"

@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: biglinux-driver-manager\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-07-23 19:21-0300\n"
+"POT-Creation-Date: 2022-08-01 06:12-0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -47,53 +47,6 @@ msgstr ""
 
 msgid "Desativado"
 msgstr "інвалід"
-
-msgid "Informações de Hardware"
-msgstr "Інформація про обладнання"
-
-msgid "Fechar"
-msgstr " Закрити"
-
-msgid "Enviar para transfer.sh"
-msgstr "Надіслати до transfer.sh"
-
-msgid "Visualizar"
-msgstr "вид"
-
-msgid "O relatório foi salvo no arquivo:"
-msgstr "Звіт був збережений у файл:"
-
-msgid ""
-"Deseja visualizar o arquivo ou envia-lo ao site transfer.sh, para ter uma "
-"URL com os dados do seu computador de forma fácil de compartilhar?"
-msgstr ""
-"Ви хочете переглянути файл або відправити його на веб-сайт transfer.sh, щоб "
-"мати URL-адресу з даними на вашому комп'ютері в простий для обміну способом?"
-
-msgid "Concluído, reinicie o computador para ativar a configuração do driver."
-msgstr ""
-"Готово, перезавантажте комп'ютер, щоб активувати конфігурацію драйверів."
-
-msgid "Driver"
-msgstr "Водій"
-
-msgid "Ocorreu um erro e o driver não pode ser aplicado."
-msgstr "Сталася помилка, і драйвер не може бути застосований."
-
-msgid "Enviando, aguarde..."
-msgstr "Відправка, будь ласка, зачекайте"
-
-msgid ""
-"Digite sua senha para gerar um relatório removendo dados sensíveis, por "
-"exemplo, endereço de IP, ou cancele para utilizar as informações da tela "
-"anterior."
-msgstr ""
-"Введіть пароль, щоб створити звіт про видалення конфіденційних даних, "
-"наприклад, IP-адреси, або скасувати використання інформації з попереднього "
-"екрана."
-
-msgid "Digite sua senha para gerar um relatório mais completo."
-msgstr "Введіть свій пароль, щоб згенерувати більш повний звіт."
 
 msgid "Categorias"
 msgstr "Категорії"
@@ -158,6 +111,12 @@ msgstr "Шукати..."
 msgid "Resultado da pesquisa"
 msgstr "Результат пошуку"
 
+msgid "Informações de Hardware"
+msgstr "Інформація про обладнання"
+
+msgid "Fechar"
+msgstr " Закрити"
+
 msgid "Abrir"
 msgstr "ВІДЧИНЕНО"
 
@@ -219,6 +178,22 @@ msgstr "ІД"
 msgid "Info"
 msgstr "Інфо"
 
+msgid "Enviar para transfer.sh"
+msgstr "Надіслати до transfer.sh"
+
+msgid "Visualizar"
+msgstr "вид"
+
+msgid "O relatório foi salvo no arquivo:"
+msgstr "Звіт був збережений у файл:"
+
+msgid ""
+"Deseja visualizar o arquivo ou envia-lo ao site transfer.sh, para ter uma "
+"URL com os dados do seu computador de forma fácil de compartilhar?"
+msgstr ""
+"Ви хочете переглянути файл або відправити його на веб-сайт transfer.sh, щоб "
+"мати URL-адресу з даними на вашому комп'ютері в простий для обміну способом?"
+
 msgid "Driver detectado:"
 msgstr "Виявлено драйвер:"
 
@@ -277,6 +252,16 @@ msgstr "Застосування - будь ласка, зачекайте"
 msgid "Este pacote fornece arquivos compatíveis com este computador."
 msgstr "Цей пакет надає файли, сумісні з цим комп'ютером."
 
+msgid "Concluído, reinicie o computador para ativar a configuração do driver."
+msgstr ""
+"Готово, перезавантажте комп'ютер, щоб активувати конфігурацію драйверів."
+
+msgid "Driver"
+msgstr "Водій"
+
+msgid "Ocorreu um erro e o driver não pode ser aplicado."
+msgstr "Сталася помилка, і драйвер не може бути застосований."
+
 msgid "Swap (Memória Virtual)"
 msgstr "Swap (віртуальна пам'ять)"
 
@@ -309,3 +294,18 @@ msgstr "Інформація про систему"
 
 msgid "Repositórios"
 msgstr "сховища"
+
+msgid ""
+"Digite sua senha para gerar um relatório removendo dados sensíveis, por "
+"exemplo, endereço de IP, ou cancele para utilizar as informações da tela "
+"anterior."
+msgstr ""
+"Введіть пароль, щоб створити звіт про видалення конфіденційних даних, "
+"наприклад, IP-адреси, або скасувати використання інформації з попереднього "
+"екрана."
+
+msgid "Digite sua senha para gerar um relatório mais completo."
+msgstr "Введіть свій пароль, щоб згенерувати більш повний звіт."
+
+msgid "Enviando, aguarde..."
+msgstr "Відправка, будь ласка, зачекайте"

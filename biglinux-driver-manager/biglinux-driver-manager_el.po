@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: biglinux-driver-manager\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-07-23 19:21-0300\n"
+"POT-Creation-Date: 2022-08-01 06:12-0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -49,58 +49,6 @@ msgstr ""
 
 msgid "Desativado"
 msgstr "Άτομα με ειδικές ανάγκες"
-
-msgid "Informações de Hardware"
-msgstr "Πληροφορίες υλικού"
-
-msgid "Fechar"
-msgstr "Κλείστε το"
-
-msgid "Enviar para transfer.sh"
-msgstr "Αποστολή στο transfer.sh"
-
-msgid "Visualizar"
-msgstr "Προβολή"
-
-msgid "O relatório foi salvo no arquivo:"
-msgstr "Η έκθεση έχει αποθηκευτεί στο αρχείο:"
-
-msgid ""
-"Deseja visualizar o arquivo ou envia-lo ao site transfer.sh, para ter uma "
-"URL com os dados do seu computador de forma fácil de compartilhar?"
-msgstr ""
-"Θέλετε να δείτε το αρχείο ή να το στείλετε στο transfer.sh, για να έχετε μια "
-"διεύθυνση URL με τα δεδομένα από τον υπολογιστή σας με εύκολο τρόπο για να "
-"τα μοιραστείτε"
-
-msgid "Concluído, reinicie o computador para ativar a configuração do driver."
-msgstr ""
-"Μόλις ολοκληρωθεί, επανεκκινήστε τον υπολογιστή σας για να ενεργοποιήσετε τη "
-"διαμόρφωση του προγράμματος οδήγησης."
-
-msgid "Driver"
-msgstr "Οδηγός"
-
-msgid "Ocorreu um erro e o driver não pode ser aplicado."
-msgstr ""
-"Παρουσιάστηκε σφάλμα και το πρόγραμμα οδήγησης δεν μπορεί να εφαρμοστεί."
-
-msgid "Enviando, aguarde..."
-msgstr "Αποστολή, παρακαλώ περιμένετε..."
-
-msgid ""
-"Digite sua senha para gerar um relatório removendo dados sensíveis, por "
-"exemplo, endereço de IP, ou cancele para utilizar as informações da tela "
-"anterior."
-msgstr ""
-"Εισάγετε τον κωδικό πρόσβασής σας για να δημιουργήσετε μια αναφορά που "
-"αφαιρεί ευαίσθητα δεδομένα, π.χ. διεύθυνση IP, ή ακυρώστε για να "
-"χρησιμοποιήσετε τις πληροφορίες από την προηγούμενη οθόνη."
-
-msgid "Digite sua senha para gerar um relatório mais completo."
-msgstr ""
-"Εισάγετε τον κωδικό πρόσβασής σας για να δημιουργήσετε μια πιο ολοκληρωμένη "
-"αναφορά."
 
 msgid "Categorias"
 msgstr "Κατηγορίες"
@@ -165,6 +113,12 @@ msgstr "Αναζήτηση"
 msgid "Resultado da pesquisa"
 msgstr "Αποτελέσματα αναζήτησης"
 
+msgid "Informações de Hardware"
+msgstr "Πληροφορίες υλικού"
+
+msgid "Fechar"
+msgstr "Κλείστε το"
+
 msgid "Abrir"
 msgstr "Ανοίξτε το"
 
@@ -228,6 +182,23 @@ msgstr "ID"
 msgid "Info"
 msgstr "Πληροφορίες"
 
+msgid "Enviar para transfer.sh"
+msgstr "Αποστολή στο transfer.sh"
+
+msgid "Visualizar"
+msgstr "Προβολή"
+
+msgid "O relatório foi salvo no arquivo:"
+msgstr "Η έκθεση έχει αποθηκευτεί στο αρχείο:"
+
+msgid ""
+"Deseja visualizar o arquivo ou envia-lo ao site transfer.sh, para ter uma "
+"URL com os dados do seu computador de forma fácil de compartilhar?"
+msgstr ""
+"Θέλετε να δείτε το αρχείο ή να το στείλετε στο transfer.sh, για να έχετε μια "
+"διεύθυνση URL με τα δεδομένα από τον υπολογιστή σας με εύκολο τρόπο για να "
+"τα μοιραστείτε"
+
 msgid "Driver detectado:"
 msgstr "Εντοπίστηκε οδηγός:"
 
@@ -286,6 +257,18 @@ msgstr "Εφαρμογή - Παρακαλώ περιμένετε"
 msgid "Este pacote fornece arquivos compatíveis com este computador."
 msgstr "Αυτό το πακέτο παρέχει αρχεία συμβατά με αυτόν τον υπολογιστή."
 
+msgid "Concluído, reinicie o computador para ativar a configuração do driver."
+msgstr ""
+"Μόλις ολοκληρωθεί, επανεκκινήστε τον υπολογιστή σας για να ενεργοποιήσετε τη "
+"διαμόρφωση του προγράμματος οδήγησης."
+
+msgid "Driver"
+msgstr "Οδηγός"
+
+msgid "Ocorreu um erro e o driver não pode ser aplicado."
+msgstr ""
+"Παρουσιάστηκε σφάλμα και το πρόγραμμα οδήγησης δεν μπορεί να εφαρμοστεί."
+
 msgid "Swap (Memória Virtual)"
 msgstr "Swap (Εικονική μνήμη)"
 
@@ -318,3 +301,20 @@ msgstr "Πληροφορίες συστήματος"
 
 msgid "Repositórios"
 msgstr "Αποθετήρια"
+
+msgid ""
+"Digite sua senha para gerar um relatório removendo dados sensíveis, por "
+"exemplo, endereço de IP, ou cancele para utilizar as informações da tela "
+"anterior."
+msgstr ""
+"Εισάγετε τον κωδικό πρόσβασής σας για να δημιουργήσετε μια αναφορά που "
+"αφαιρεί ευαίσθητα δεδομένα, π.χ. διεύθυνση IP, ή ακυρώστε για να "
+"χρησιμοποιήσετε τις πληροφορίες από την προηγούμενη οθόνη."
+
+msgid "Digite sua senha para gerar um relatório mais completo."
+msgstr ""
+"Εισάγετε τον κωδικό πρόσβασής σας για να δημιουργήσετε μια πιο ολοκληρωμένη "
+"αναφορά."
+
+msgid "Enviando, aguarde..."
+msgstr "Αποστολή, παρακαλώ περιμένετε..."

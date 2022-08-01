@@ -7,7 +7,7 @@
 msgid   ""
 msgstr  "Project-Id-Version: bigcontrolcenter\n"
         "Report-Msgid-Bugs-To: \n"
-        "POT-Creation-Date: 2022-07-23 19:21-0300\n"
+        "POT-Creation-Date: 2022-08-01 06:12-0300\n"
         "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
         "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
         "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -15,6 +15,12 @@ msgstr  "Project-Id-Version: bigcontrolcenter\n"
         "MIME-Version: 1.0\n"
         "Content-Type: text/plain; charset=UTF-8\n"
         "Content-Transfer-Encoding: 8bit\n"
+
+msgid   "Introdução ao BigLinux"
+msgstr  ""
+
+msgid   "Central de Controle"
+msgstr  ""
 
 msgid   "A webcam já está sendo utilizada pelo programa: $WEBCAM_BUSY\n"
         "\n"
@@ -50,24 +56,6 @@ msgid   "Fechar"
 msgstr  ""
 
 msgid   "Hardinfo Relatory"
-msgstr  ""
-
-msgid   "Central de Controle"
-msgstr  ""
-
-msgid   "Introdução ao BigLinux"
-msgstr  ""
-
-msgid   "Bom dia"
-msgstr  ""
-
-msgid   "Boa tarde"
-msgstr  ""
-
-msgid   "Boa noite"
-msgstr  ""
-
-msgid   "Aguarde, carregando..."
 msgstr  ""
 
 msgid   "Bem vindo ao BigLinux"
@@ -177,11 +165,29 @@ msgstr  ""
 msgid   "Parabéns, você concluiu os primeiros passos para utilizar o BigLinux."
 msgstr  ""
 
+msgid   "Bom dia"
+msgstr  ""
+
+msgid   "Boa tarde"
+msgstr  ""
+
+msgid   "Boa noite"
+msgstr  ""
+
+msgid   "Aguarde, carregando..."
+msgstr  ""
+
 msgid   "Integração com Google Drive e ownCloud"
 msgstr  ""
 
 msgid   "Acesse seus arquivos que estão no Google Drive ou ownCloud "
         "diretamente no gerenciador de arquivos."
+msgstr  ""
+
+msgid   "Configurar o AppimageLauncher"
+msgstr  ""
+
+msgid   "Escolher o comportamento dos programas disponibilizados em .appimage"
 msgstr  ""
 
 msgid   "Qt Assistant"
@@ -215,6 +221,12 @@ msgstr  ""
 msgid   "Temas do Bootsplash"
 msgstr  ""
 
+msgid   "Controle o brilho e as cores"
+msgstr  ""
+
+msgid   "Brilho e cor"
+msgstr  ""
+
 msgid   "Procurar servidores SSH"
 msgstr  ""
 
@@ -242,6 +254,9 @@ msgstr  ""
 msgid   "Cuidado, este programa poderá apagar todos os dados do computador."
 msgstr  ""
 
+msgid   "Informações de armazenamento (SMART)"
+msgstr  ""
+
 msgid   "Firewall"
 msgstr  ""
 
@@ -265,6 +280,9 @@ msgstr  ""
 
 msgid   "Com esse programa você pode acessar os programas do seu iPhone ou "
         "iPad Apple de forma similar ao acesso de arquivos em um pendrive."
+msgstr  ""
+
+msgid   "Equalizador (DSP)"
 msgstr  ""
 
 msgid   "Áreas de trabalho virtuais e atividades"
@@ -300,6 +318,9 @@ msgid   "Configuração avançada de rede (VPN, wifi, cabeada, IP fixo, PPPoE, "
 msgstr  ""
 
 msgid   "Instalar, configurar ou remover impressoras."
+msgstr  ""
+
+msgid   "Gerenciar serviços (Systemd)"
 msgstr  ""
 
 msgid   "Configurar o tema Kvantum"
@@ -342,6 +363,9 @@ msgstr  ""
 msgid   "Acesse o terminal de comandos."
 msgstr  ""
 
+msgid   "Gerenciador de senhas"
+msgstr  ""
+
 msgid   "Som e microfone"
 msgstr  ""
 
@@ -356,39 +380,6 @@ msgid   "Centro de controle do KDE"
 msgstr  ""
 
 msgid   "Configurador avançado de energia"
-msgstr  ""
-
-msgid   "Informações de armazenamento (SMART)"
-msgstr  ""
-
-msgid   "Gerenciar serviços (Systemd)"
-msgstr  ""
-
-msgid   "Configurar o AppimageLauncher"
-msgstr  ""
-
-msgid   "Escolher o comportamento dos programas disponibilizados em .appimage"
-msgstr  ""
-
-msgid   "Controle o brilho e as cores"
-msgstr  ""
-
-msgid   "Brilho e cor"
-msgstr  ""
-
-msgid   "Equalizador (DSP)"
-msgstr  ""
-
-msgid   "Gerenciador de senhas"
-msgstr  ""
-
-msgid   "As configurações da tela foram resetadas."
-msgstr  ""
-
-msgid   "Configurações da tela"
-msgstr  ""
-
-msgid   "Aguarde, criando arquivos de cache..."
 msgstr  ""
 
 msgid   "Categorias"
@@ -594,6 +585,15 @@ msgid   "Basta abrir o site https://snapdrop.net nos Hardware que você quer "
         "transferindo arquivos diretamente de um smartphone para outro.  Você "
         "também pode utilizar nosso gerenciador de Web apps para facilitar o "
         "uso desse site."
+msgstr  ""
+
+msgid   "As configurações da tela foram resetadas."
+msgstr  ""
+
+msgid   "Configurações da tela"
+msgstr  ""
+
+msgid   "Aguarde, criando arquivos de cache..."
 msgstr  ""
 
 msgid   "Maximizado"

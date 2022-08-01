@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: sambasearch\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-07-23 19:21-0300\n"
+"POT-Creation-Date: 2022-08-01 06:13-0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -72,9 +72,6 @@ msgstr "Annuleren"
 msgid "Próximo"
 msgstr "Volgende"
 
-msgid "Aguarde..."
-msgstr ""
-
 msgid "Anônimo"
 msgstr "Anoniem"
 
@@ -88,4 +85,7 @@ msgid "Voltar"
 msgstr "Terug"
 
 msgid "Fechar"
+msgstr ""
+
+msgid "Aguarde..."
 msgstr ""

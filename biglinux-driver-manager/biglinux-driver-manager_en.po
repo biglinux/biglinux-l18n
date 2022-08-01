@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: biglinux-driver-manager\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-07-23 19:21-0300\n"
+"POT-Creation-Date: 2022-08-01 06:12-0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -47,53 +47,6 @@ msgstr ""
 
 msgid "Desativado"
 msgstr "Disabled"
-
-msgid "Informações de Hardware"
-msgstr "Hardware Information"
-
-msgid "Fechar"
-msgstr "Close"
-
-msgid "Enviar para transfer.sh"
-msgstr "Send to transfer.sh"
-
-msgid "Visualizar"
-msgstr "View"
-
-msgid "O relatório foi salvo no arquivo:"
-msgstr "The report is saved in the archive:"
-
-msgid ""
-"Deseja visualizar o arquivo ou envia-lo ao site transfer.sh, para ter uma "
-"URL com os dados do seu computador de forma fácil de compartilhar?"
-msgstr ""
-"Do you want to view the file or send it to transfer.sh, to have a URL with "
-"the data from your computer in an easy to share way?"
-
-msgid "Concluído, reinicie o computador para ativar a configuração do driver."
-msgstr ""
-"When finished, restart your computer to activate the driver configuration."
-
-msgid "Driver"
-msgstr "Driver"
-
-msgid "Ocorreu um erro e o driver não pode ser aplicado."
-msgstr "An error has occurred and the driver cannot be applied."
-
-msgid "Enviando, aguarde..."
-msgstr "Sending, please wait..."
-
-msgid ""
-"Digite sua senha para gerar um relatório removendo dados sensíveis, por "
-"exemplo, endereço de IP, ou cancele para utilizar as informações da tela "
-"anterior."
-msgstr ""
-"Enter your password to generate a report removing sensitive data, for "
-"example IP address, or cancel to use the information from the previous "
-"screen."
-
-msgid "Digite sua senha para gerar um relatório mais completo."
-msgstr "Enter your password to generate a more complete report."
 
 msgid "Categorias"
 msgstr "Categories"
@@ -158,6 +111,12 @@ msgstr "Search"
 msgid "Resultado da pesquisa"
 msgstr "Search result"
 
+msgid "Informações de Hardware"
+msgstr "Hardware Information"
+
+msgid "Fechar"
+msgstr "Close"
+
 msgid "Abrir"
 msgstr "Open"
 
@@ -219,6 +178,22 @@ msgstr "ID"
 msgid "Info"
 msgstr "Info"
 
+msgid "Enviar para transfer.sh"
+msgstr "Send to transfer.sh"
+
+msgid "Visualizar"
+msgstr "View"
+
+msgid "O relatório foi salvo no arquivo:"
+msgstr "The report is saved in the archive:"
+
+msgid ""
+"Deseja visualizar o arquivo ou envia-lo ao site transfer.sh, para ter uma "
+"URL com os dados do seu computador de forma fácil de compartilhar?"
+msgstr ""
+"Do you want to view the file or send it to transfer.sh, to have a URL with "
+"the data from your computer in an easy to share way?"
+
 msgid "Driver detectado:"
 msgstr "Driver detected:"
 
@@ -277,6 +252,16 @@ msgstr "Applying - Please wait"
 msgid "Este pacote fornece arquivos compatíveis com este computador."
 msgstr "This package provides files that are compatible with this computer."
 
+msgid "Concluído, reinicie o computador para ativar a configuração do driver."
+msgstr ""
+"When finished, restart your computer to activate the driver configuration."
+
+msgid "Driver"
+msgstr "Driver"
+
+msgid "Ocorreu um erro e o driver não pode ser aplicado."
+msgstr "An error has occurred and the driver cannot be applied."
+
 msgid "Swap (Memória Virtual)"
 msgstr "Swap (Virtual Memory)"
 
@@ -309,3 +294,18 @@ msgstr "System Information"
 
 msgid "Repositórios"
 msgstr "Repositories"
+
+msgid ""
+"Digite sua senha para gerar um relatório removendo dados sensíveis, por "
+"exemplo, endereço de IP, ou cancele para utilizar as informações da tela "
+"anterior."
+msgstr ""
+"Enter your password to generate a report removing sensitive data, for "
+"example IP address, or cancel to use the information from the previous "
+"screen."
+
+msgid "Digite sua senha para gerar um relatório mais completo."
+msgstr "Enter your password to generate a more complete report."
+
+msgid "Enviando, aguarde..."
+msgstr "Sending, please wait..."

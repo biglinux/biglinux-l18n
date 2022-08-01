@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: bigcontrolcenter\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-07-23 19:21-0300\n"
+"POT-Creation-Date: 2022-08-01 06:12-0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -16,6 +16,12 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+
+msgid "Introdução ao BigLinux"
+msgstr "Uvod u BigLinux"
+
+msgid "Central de Controle"
+msgstr "Kontrolni centar"
 
 msgid ""
 "A webcam já está sendo utilizada pelo programa: $WEBCAM_BUSY\n"
@@ -62,24 +68,6 @@ msgstr "Zatvoriti"
 
 msgid "Hardinfo Relatory"
 msgstr "Hardinfo izvještaj"
-
-msgid "Central de Controle"
-msgstr "Kontrolni centar"
-
-msgid "Introdução ao BigLinux"
-msgstr "Uvod u BigLinux"
-
-msgid "Bom dia"
-msgstr "Salaam"
-
-msgid "Boa tarde"
-msgstr "Dobar dan"
-
-msgid "Boa noite"
-msgstr "Laku noć"
-
-msgid "Aguarde, carregando..."
-msgstr "Čekaj, utovar..."
 
 msgid "Bem vindo ao BigLinux"
 msgstr "Dobrodošli u BigLinux"
@@ -198,6 +186,18 @@ msgstr "Facebook"
 msgid "Parabéns, você concluiu os primeiros passos para utilizar o BigLinux."
 msgstr "Čestitamo, dovršili ste prve korake za korištenje BigLinuxa."
 
+msgid "Bom dia"
+msgstr "Salaam"
+
+msgid "Boa tarde"
+msgstr "Dobar dan"
+
+msgid "Boa noite"
+msgstr "Laku noć"
+
+msgid "Aguarde, carregando..."
+msgstr "Čekaj, utovar..."
+
 msgid "Integração com Google Drive e ownCloud"
 msgstr "Integracija s Google diskom i OwnCloud"
 
@@ -207,6 +207,12 @@ msgid ""
 msgstr ""
 "Pristupite datotekama koje se nalaze na Google disku ili OwnCloud izravno iz "
 "upravitelja datoteka."
+
+msgid "Configurar o AppimageLauncher"
+msgstr "Konfigurirajte aplikaciju ImageLauncher"
+
+msgid "Escolher o comportamento dos programas disponibilizados em .appimage"
+msgstr "Odaberite ponašanje programa dostupnih u .appimage"
 
 msgid "Qt Assistant"
 msgstr "Qt pomoćnik"
@@ -248,6 +254,12 @@ msgstr ""
 msgid "Temas do Bootsplash"
 msgstr "Bootsplash teme"
 
+msgid "Controle o brilho e as cores"
+msgstr "Kontrola svjetline i boja"
+
+msgid "Brilho e cor"
+msgstr "Svjetlina i boja"
+
 msgid "Procurar servidores SSH"
 msgstr "Potražite SSH poslužitelje"
 
@@ -276,6 +288,9 @@ msgid "Cuidado, este programa poderá apagar todos os dados do computador."
 msgstr ""
 "Budite oprezni, ovaj program može izbrisati sve podatke s vašeg računala."
 
+msgid "Informações de armazenamento (SMART)"
+msgstr "Informacije za pohranu (SMART)"
+
 msgid "Firewall"
 msgstr "Vatrozid"
 
@@ -303,6 +318,9 @@ msgid ""
 msgstr ""
 "Pomoću ovog programa možete pristupiti programima na Apple iPhoneu ili iPadu "
 "na sličan način kao i pristup datotekama na pendriveu."
+
+msgid "Equalizador (DSP)"
+msgstr "Ekvilajzer (DSP)"
 
 msgid "Áreas de trabalho virtuais e atividades"
 msgstr "Virtualni radni prostori i aktivnosti"
@@ -342,6 +360,9 @@ msgstr ""
 
 msgid "Instalar, configurar ou remover impressoras."
 msgstr "Instalirajte, konfigurirajte ili uklonite pisače."
+
+msgid "Gerenciar serviços (Systemd)"
+msgstr "Upravljanje uslugama (Systemd)"
 
 msgid "Configurar o tema Kvantum"
 msgstr "Postavljanje teme Kvantum"
@@ -393,6 +414,9 @@ msgstr "Terminal"
 msgid "Acesse o terminal de comandos."
 msgstr "Idite na naredbeni terminal."
 
+msgid "Gerenciador de senhas"
+msgstr "Upravitelj lozinki"
+
 msgid "Som e microfone"
 msgstr "Zvuk i mikrofon"
 
@@ -408,39 +432,6 @@ msgstr "KDE kontrolni centar"
 
 msgid "Configurador avançado de energia"
 msgstr "Napredni konfigurator napajanja"
-
-msgid "Informações de armazenamento (SMART)"
-msgstr "Informacije za pohranu (SMART)"
-
-msgid "Gerenciar serviços (Systemd)"
-msgstr "Upravljanje uslugama (Systemd)"
-
-msgid "Configurar o AppimageLauncher"
-msgstr "Konfigurirajte aplikaciju ImageLauncher"
-
-msgid "Escolher o comportamento dos programas disponibilizados em .appimage"
-msgstr "Odaberite ponašanje programa dostupnih u .appimage"
-
-msgid "Controle o brilho e as cores"
-msgstr "Kontrola svjetline i boja"
-
-msgid "Brilho e cor"
-msgstr "Svjetlina i boja"
-
-msgid "Equalizador (DSP)"
-msgstr "Ekvilajzer (DSP)"
-
-msgid "Gerenciador de senhas"
-msgstr "Upravitelj lozinki"
-
-msgid "As configurações da tela foram resetadas."
-msgstr "Postavke zaslona su resetirane."
-
-msgid "Configurações da tela"
-msgstr "Postavke zaslona"
-
-msgid "Aguarde, criando arquivos de cache..."
-msgstr "Pričekajte, kreirajte datoteke predmemorije..."
 
 msgid "Categorias"
 msgstr "Kategorije"
@@ -704,6 +695,15 @@ msgstr ""
 "uključujući prijenos datoteka izravno s jednog pametnog telefona na drugi. "
 "Također možete koristiti naš upravitelj web aplikacija kako biste olakšali "
 "korištenje ove stranice."
+
+msgid "As configurações da tela foram resetadas."
+msgstr "Postavke zaslona su resetirane."
+
+msgid "Configurações da tela"
+msgstr "Postavke zaslona"
+
+msgid "Aguarde, criando arquivos de cache..."
+msgstr "Pričekajte, kreirajte datoteke predmemorije..."
 
 msgid "Maximizado"
 msgstr "Maksimizirano"

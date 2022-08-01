@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: biglinux-config\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-07-23 19:21-0300\n"
+"POT-Creation-Date: 2022-08-01 06:12-0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -20,78 +20,12 @@ msgstr ""
 msgid "Restaurar Configurações"
 msgstr "Vraćanje postavki"
 
-msgid ""
-"Atenção! O programa está aberto!\\nEle será fechado para que a restauração "
-"tenha efeito."
-msgstr ""
-"Pažnja! Program je otvoren! \\ Nbit će zatvoren da bi vraćanje stupilo na "
-"snagu."
+#, fuzzy
+msgid "Pesquisar programa"
+msgstr "Vraćanje pretraživanja"
 
-msgid "As configurações foram restauradas com sucesso!"
-msgstr "Postavke su uspješno obnovljene!"
-
-msgid ""
-"Você tem certeza que deseja restaurar todas as configurações do KDE/Plasma?"
-"\\nIsso apagará todas as configurações definidas por $USER!"
-msgstr ""
-"Jeste li sigurni da želite vratiti sve KDE/plazma postavke? \\ nOvo će "
-"izbrisati sve postavke definirane $USER!"
-
-msgid ""
-"As configurações foram restauradas com sucesso!\\nÉ necessário fazer logoff/"
-"login para concluir a restauração!"
-msgstr ""
-"Postavke su uspješno obnovljene! \\ nMorate se odjaviti/prijaviti da biste "
-"dovršili vraćanje!"
-
-msgid ""
-"Restaurar&nbsp;o&nbsp;programa&nbsp;como&nbsp;modo&nbsp;padrão&nbsp;ou&nbsp;"
-"distribuição&nbsp;BigLinux."
-msgstr "Vratite program kao standardni način rada ili BigLinux distribuciju."
-
-msgid "Restaurar&nbsp;o&nbsp;programa&nbsp;como&nbsp;modo&nbsp;padrão."
-msgstr "Vratite program u zadani način rada."
-
-msgid ""
-"Músicas-(Clementine) clementine.sh Multimedia clementine.png clementine skel "
-"$COMMENT_skel"
-msgstr ""
-"Pjesme- (Clementine) clementine.sh Multimedija clementine.png clementine "
-"skel $Comment_Skel"
-
-msgid ""
-"Gravador-de-Tela-(vokoscreenNG) vokoscreen.sh Multimedia vokoscreen.png "
-"vokoscreenNG  $COMMENT_normal"
-msgstr ""
-"Snimač zaslona - (VokoScreenNG) vokoscreen.sh Multimedija vokoscreen.png "
-"Vokosscreenng $comment_normal"
-
-msgid ""
-"Vídeos-(Smplayer) smplayer.sh Multimedia smplayer.png smplayer skel "
-"$COMMENT_skel"
-msgstr ""
-"Videozapisi- (Smplayer) smplayer.sh Multimedija smplayer.png smplayer skel "
-"$comment_skel"
-
-msgid "Fechar"
-msgstr "Zatvoriti"
-
-msgid "Restaurar no modo padrão da distribuição"
-msgstr "Vratite se na zadani način distribucije"
-
-msgid "Essa opção restaura o programa com o padrão do BigLinux."
-msgstr "Ova opcija vraća program na zadani BigLinux."
-
-msgid "Restaurar no modo padrão do programa"
-msgstr "Vraćanje u zadanom načinu rada programa"
-
-msgid "Essa opção restaura o programa com o padrão do desenvolvedor."
-msgstr "Ova opcija vraća program na zadani programer."
-
-msgid "Restaurar as configurações do programa:"
-msgstr "Vraćanje postavki programa:"
-
-msgid "Principal"
+#, fuzzy
+msgid "Principais"
 msgstr "Glavni"
 
 msgid "Internet"
@@ -109,5 +43,121 @@ msgstr "Ured"
 msgid "Sistema"
 msgstr "Sustav"
 
-msgid "Pesquisar Restaurar"
-msgstr "Vraćanje pretraživanja"
+#, fuzzy
+msgid "Restaurar o programa no modo da distribuição BigLinux."
+msgstr "Vratite se na zadani način distribucije"
+
+msgid "Em qual modo você deseja restaurar?"
+msgstr ""
+
+msgid "Restaurar no modo padrão da distribuição"
+msgstr "Vratite se na zadani način distribucije"
+
+msgid "Cancelar"
+msgstr ""
+
+#, fuzzy
+msgid "Restaurar o programa no modo padrão."
+msgstr "Vraćanje u zadanom načinu rada programa"
+
+msgid "Restaurar no modo padrão do programa"
+msgstr "Vraćanje u zadanom načinu rada programa"
+
+#, fuzzy
+msgid "Restaurar o programa no modo padrão ou distribuição BigLinux."
+msgstr "Vratite se na zadani način distribucije"
+
+msgid "Músicas"
+msgstr ""
+
+msgid "Gravador de Tela"
+msgstr ""
+
+msgid "Vídeos"
+msgstr ""
+
+msgid "Conversor de áudio e vídeo"
+msgstr ""
+
+msgid "As configurações foram restauradas com sucesso!"
+msgstr "Postavke su uspješno obnovljene!"
+
+msgid "OK"
+msgstr ""
+
+#, fuzzy
+msgid "As configurações do BigLinux KDE foram restauradas com sucesso!"
+msgstr "Postavke su uspješno obnovljene!"
+
+msgid "É necessário reinciar a sessão para concluir a restauração!"
+msgstr ""
+
+msgid "Atenção! O programa está em execução!"
+msgstr ""
+
+msgid "Será fechado para que a restauração seja concluída."
+msgstr ""
+
+#, fuzzy
+msgid ""
+"Você tem certeza que deseja restaurar todas as configurações do BigLinux KDE?"
+msgstr ""
+"Jeste li sigurni da želite vratiti sve KDE/plazma postavke? \\ nOvo će "
+"izbrisati sve postavke definirane $USER!"
+
+#, fuzzy
+msgid "Isso apagará todas as configurações definidas por "
+msgstr "Vraćanje postavki programa:"
+
+#~ msgid ""
+#~ "Atenção! O programa está aberto!\\nEle será fechado para que a "
+#~ "restauração tenha efeito."
+#~ msgstr ""
+#~ "Pažnja! Program je otvoren! \\ Nbit će zatvoren da bi vraćanje stupilo na "
+#~ "snagu."
+
+#~ msgid ""
+#~ "As configurações foram restauradas com sucesso!\\nÉ necessário fazer "
+#~ "logoff/login para concluir a restauração!"
+#~ msgstr ""
+#~ "Postavke su uspješno obnovljene! \\ nMorate se odjaviti/prijaviti da "
+#~ "biste dovršili vraćanje!"
+
+#~ msgid ""
+#~ "Restaurar&nbsp;o&nbsp;programa&nbsp;como&nbsp;modo&nbsp;padrão&nbsp;"
+#~ "ou&nbsp;distribuição&nbsp;BigLinux."
+#~ msgstr ""
+#~ "Vratite program kao standardni način rada ili BigLinux distribuciju."
+
+#~ msgid "Restaurar&nbsp;o&nbsp;programa&nbsp;como&nbsp;modo&nbsp;padrão."
+#~ msgstr "Vratite program u zadani način rada."
+
+#~ msgid ""
+#~ "Músicas-(Clementine) clementine.sh Multimedia clementine.png clementine "
+#~ "skel $COMMENT_skel"
+#~ msgstr ""
+#~ "Pjesme- (Clementine) clementine.sh Multimedija clementine.png clementine "
+#~ "skel $Comment_Skel"
+
+#~ msgid ""
+#~ "Gravador-de-Tela-(vokoscreenNG) vokoscreen.sh Multimedia vokoscreen.png "
+#~ "vokoscreenNG  $COMMENT_normal"
+#~ msgstr ""
+#~ "Snimač zaslona - (VokoScreenNG) vokoscreen.sh Multimedija vokoscreen.png "
+#~ "Vokosscreenng $comment_normal"
+
+#~ msgid ""
+#~ "Vídeos-(Smplayer) smplayer.sh Multimedia smplayer.png smplayer skel "
+#~ "$COMMENT_skel"
+#~ msgstr ""
+#~ "Videozapisi- (Smplayer) smplayer.sh Multimedija smplayer.png smplayer "
+#~ "skel $comment_skel"
+
+#~ msgid "Fechar"
+#~ msgstr "Zatvoriti"
+
+#~ msgid "Essa opção restaura o programa com o padrão do BigLinux."
+#~ msgstr "Ova opcija vraća program na zadani BigLinux."
+
+#~ msgid "Essa opção restaura o programa com o padrão do desenvolvedor."
+#~ msgstr "Ova opcija vraća program na zadani programer."

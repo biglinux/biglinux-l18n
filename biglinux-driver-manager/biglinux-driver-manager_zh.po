@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: biglinux-driver-manager\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-07-23 19:21-0300\n"
+"POT-Creation-Date: 2022-08-01 06:12-0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -45,51 +45,6 @@ msgstr "已经安装了另一个nVidia驱动，要安装这个驱动，请先删
 
 msgid "Desativado"
 msgstr "失能"
-
-msgid "Informações de Hardware"
-msgstr "硬件信息"
-
-msgid "Fechar"
-msgstr "关闭"
-
-msgid "Enviar para transfer.sh"
-msgstr "发送到transfer.sh"
-
-msgid "Visualizar"
-msgstr "查看"
-
-msgid "O relatório foi salvo no arquivo:"
-msgstr "该报告已被保存到档案馆。"
-
-msgid ""
-"Deseja visualizar o arquivo ou envia-lo ao site transfer.sh, para ter uma "
-"URL com os dados do seu computador de forma fácil de compartilhar?"
-msgstr ""
-"你想查看文件或将其发送到transfer.sh，以一种简单的方式分享来自你电脑的数据的"
-"URL吗？"
-
-msgid "Concluído, reinicie o computador para ativar a configuração do driver."
-msgstr "完成后，重新启动计算机以激活驱动配置。"
-
-msgid "Driver"
-msgstr "驱动程序"
-
-msgid "Ocorreu um erro e o driver não pode ser aplicado."
-msgstr "发生了一个错误，无法应用该驱动程序。"
-
-msgid "Enviando, aguarde..."
-msgstr "正在发送，请等待..."
-
-msgid ""
-"Digite sua senha para gerar um relatório removendo dados sensíveis, por "
-"exemplo, endereço de IP, ou cancele para utilizar as informações da tela "
-"anterior."
-msgstr ""
-"输入你的密码，生成一份删除敏感数据（如IP地址）的报告，或者取消，使用前一屏幕"
-"的信息。"
-
-msgid "Digite sua senha para gerar um relatório mais completo."
-msgstr "输入你的密码，以生成更完整的报告。"
 
 msgid "Categorias"
 msgstr "类别"
@@ -154,6 +109,12 @@ msgstr "搜索"
 msgid "Resultado da pesquisa"
 msgstr "搜索结果"
 
+msgid "Informações de Hardware"
+msgstr "硬件信息"
+
+msgid "Fechar"
+msgstr "关闭"
+
 msgid "Abrir"
 msgstr "打開"
 
@@ -213,6 +174,22 @@ msgstr "身份证"
 msgid "Info"
 msgstr "信息"
 
+msgid "Enviar para transfer.sh"
+msgstr "发送到transfer.sh"
+
+msgid "Visualizar"
+msgstr "查看"
+
+msgid "O relatório foi salvo no arquivo:"
+msgstr "该报告已被保存到档案馆。"
+
+msgid ""
+"Deseja visualizar o arquivo ou envia-lo ao site transfer.sh, para ter uma "
+"URL com os dados do seu computador de forma fácil de compartilhar?"
+msgstr ""
+"你想查看文件或将其发送到transfer.sh，以一种简单的方式分享来自你电脑的数据的"
+"URL吗？"
+
 msgid "Driver detectado:"
 msgstr "检测到的驱动程序。"
 
@@ -269,6 +246,15 @@ msgstr "申请 - 请等待"
 msgid "Este pacote fornece arquivos compatíveis com este computador."
 msgstr "该软件包提供与该计算机兼容的文件。"
 
+msgid "Concluído, reinicie o computador para ativar a configuração do driver."
+msgstr "完成后，重新启动计算机以激活驱动配置。"
+
+msgid "Driver"
+msgstr "驱动程序"
+
+msgid "Ocorreu um erro e o driver não pode ser aplicado."
+msgstr "发生了一个错误，无法应用该驱动程序。"
+
 msgid "Swap (Memória Virtual)"
 msgstr "交换（虚拟内存）"
 
@@ -301,3 +287,17 @@ msgstr "系统信息"
 
 msgid "Repositórios"
 msgstr "储存库"
+
+msgid ""
+"Digite sua senha para gerar um relatório removendo dados sensíveis, por "
+"exemplo, endereço de IP, ou cancele para utilizar as informações da tela "
+"anterior."
+msgstr ""
+"输入你的密码，生成一份删除敏感数据（如IP地址）的报告，或者取消，使用前一屏幕"
+"的信息。"
+
+msgid "Digite sua senha para gerar um relatório mais completo."
+msgstr "输入你的密码，以生成更完整的报告。"
+
+msgid "Enviando, aguarde..."
+msgstr "正在发送，请等待..."

@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: biglinux-driver-manager\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-07-23 19:21-0300\n"
+"POT-Creation-Date: 2022-08-01 06:12-0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -47,51 +47,6 @@ msgstr ""
 
 msgid "Desativado"
 msgstr "使用不可"
-
-msgid "Informações de Hardware"
-msgstr "ハードウェア情報"
-
-msgid "Fechar"
-msgstr "閉じる"
-
-msgid "Enviar para transfer.sh"
-msgstr "transfer.shに送信する"
-
-msgid "Visualizar"
-msgstr "表示"
-
-msgid "O relatório foi salvo no arquivo:"
-msgstr "レポートがアーカイブに保存されました。"
-
-msgid ""
-"Deseja visualizar o arquivo ou envia-lo ao site transfer.sh, para ter uma "
-"URL com os dados do seu computador de forma fácil de compartilhar?"
-msgstr ""
-"ファイルを表示したり、transfer.shに送信して、共有する簡単な方法でコンピュータ"
-"からのデータでURLを持つようにしたいですか？"
-
-msgid "Concluído, reinicie o computador para ativar a configuração do driver."
-msgstr "完了したら、コンピュータを再起動し、ドライバーの設定を有効にします。"
-
-msgid "Driver"
-msgstr "ドライバー"
-
-msgid "Ocorreu um erro e o driver não pode ser aplicado."
-msgstr "エラーが発生したため、ドライバを適用できません。"
-
-msgid "Enviando, aguarde..."
-msgstr "送信中です、お待ちください..."
-
-msgid ""
-"Digite sua senha para gerar um relatório removendo dados sensíveis, por "
-"exemplo, endereço de IP, ou cancele para utilizar as informações da tela "
-"anterior."
-msgstr ""
-"IPアドレスなどの機密データを削除してレポートを作成する場合はパスワードを入力"
-"し、前の画面の情報を使用する場合はキャンセルしてください。"
-
-msgid "Digite sua senha para gerar um relatório mais completo."
-msgstr "パスワードを入力すると、より詳細なレポートが作成されます。"
 
 msgid "Categorias"
 msgstr "カテゴリー"
@@ -156,6 +111,12 @@ msgstr "検索"
 msgid "Resultado da pesquisa"
 msgstr "検索結果"
 
+msgid "Informações de Hardware"
+msgstr "ハードウェア情報"
+
+msgid "Fechar"
+msgstr "閉じる"
+
 msgid "Abrir"
 msgstr "開ける"
 
@@ -217,6 +178,22 @@ msgstr "ID"
 msgid "Info"
 msgstr "情報"
 
+msgid "Enviar para transfer.sh"
+msgstr "transfer.shに送信する"
+
+msgid "Visualizar"
+msgstr "表示"
+
+msgid "O relatório foi salvo no arquivo:"
+msgstr "レポートがアーカイブに保存されました。"
+
+msgid ""
+"Deseja visualizar o arquivo ou envia-lo ao site transfer.sh, para ter uma "
+"URL com os dados do seu computador de forma fácil de compartilhar?"
+msgstr ""
+"ファイルを表示したり、transfer.shに送信して、共有する簡単な方法でコンピュータ"
+"からのデータでURLを持つようにしたいですか？"
+
 msgid "Driver detectado:"
 msgstr "ドライバーを検出しました。"
 
@@ -275,6 +252,15 @@ msgstr "応募中 - しばらくお待ちください"
 msgid "Este pacote fornece arquivos compatíveis com este computador."
 msgstr "このパッケージは、このコンピューターに対応したファイルを提供します。"
 
+msgid "Concluído, reinicie o computador para ativar a configuração do driver."
+msgstr "完了したら、コンピュータを再起動し、ドライバーの設定を有効にします。"
+
+msgid "Driver"
+msgstr "ドライバー"
+
+msgid "Ocorreu um erro e o driver não pode ser aplicado."
+msgstr "エラーが発生したため、ドライバを適用できません。"
+
 msgid "Swap (Memória Virtual)"
 msgstr "スワップ(仮想メモリ)"
 
@@ -307,3 +293,17 @@ msgstr "システム情報"
 
 msgid "Repositórios"
 msgstr "レポジトリー"
+
+msgid ""
+"Digite sua senha para gerar um relatório removendo dados sensíveis, por "
+"exemplo, endereço de IP, ou cancele para utilizar as informações da tela "
+"anterior."
+msgstr ""
+"IPアドレスなどの機密データを削除してレポートを作成する場合はパスワードを入力"
+"し、前の画面の情報を使用する場合はキャンセルしてください。"
+
+msgid "Digite sua senha para gerar um relatório mais completo."
+msgstr "パスワードを入力すると、より詳細なレポートが作成されます。"
+
+msgid "Enviando, aguarde..."
+msgstr "送信中です、お待ちください..."

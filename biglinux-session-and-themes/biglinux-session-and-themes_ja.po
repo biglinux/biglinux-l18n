@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: biglinux-session-and-themes\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-07-23 19:21-0300\n"
+"POT-Creation-Date: 2022-08-01 06:12-0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -56,16 +56,10 @@ msgstr ""
 "コンフィギュレーションが終了するまでの間\n"
 "を適用しました。"
 
-msgid "Desempenho em modo normal!"
-msgstr "ノーマルモードでのパフォーマンス!"
+msgid "Aplicando, aguarde..."
+msgstr ""
 
-msgid "Desempenho em modo otimizado!"
-msgstr "エンハンスドモードでのパフォーマンス!"
-
-msgid "Desempenho em modo performance!"
-msgstr "パフォーマンスモードでのパフォーマンス!"
-
-msgid "Aplicando, aguarde o termino."
+msgid "Concluído!"
 msgstr ""
 
 msgid "Temas"
@@ -202,6 +196,15 @@ msgid ""
 "Utilizando renderização por software, a qualidade das transparências está "
 "reduzida."
 msgstr "ソフトウェアレンダリングを使用すると、透明度の高い画質が低下します。"
+
+msgid "Desempenho em modo normal!"
+msgstr "ノーマルモードでのパフォーマンス!"
+
+msgid "Desempenho em modo otimizado!"
+msgstr "エンハンスドモードでのパフォーマンス!"
+
+msgid "Desempenho em modo performance!"
+msgstr "パフォーマンスモードでのパフォーマンス!"
 
 #~ msgid "<b>Classic</b> e <b>New</b> têm melhor desempenho."
 #~ msgstr "<b>Classicと</b> <b>Newは</b>性能が向上しています。"

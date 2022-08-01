@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: biglinux-session-and-themes\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-07-23 19:21-0300\n"
+"POT-Creation-Date: 2022-08-01 06:12-0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -57,16 +57,10 @@ msgstr ""
 "за завършване на конфигурацията\n"
 "прилага се."
 
-msgid "Desempenho em modo normal!"
-msgstr "Изпълнение в нормален режим!"
+msgid "Aplicando, aguarde..."
+msgstr ""
 
-msgid "Desempenho em modo otimizado!"
-msgstr "Изпълнение в подобрен режим!"
-
-msgid "Desempenho em modo performance!"
-msgstr "Изпълнение в режим на изпълнение!"
-
-msgid "Aplicando, aguarde o termino."
+msgid "Concluído!"
 msgstr ""
 
 msgid "Temas"
@@ -208,6 +202,15 @@ msgid ""
 msgstr ""
 "При използване на софтуерно визуализиране качеството на прозрачните "
 "изображения се намалява."
+
+msgid "Desempenho em modo normal!"
+msgstr "Изпълнение в нормален режим!"
+
+msgid "Desempenho em modo otimizado!"
+msgstr "Изпълнение в подобрен режим!"
+
+msgid "Desempenho em modo performance!"
+msgstr "Изпълнение в режим на изпълнение!"
 
 #~ msgid "<b>Classic</b> e <b>New</b> têm melhor desempenho."
 #~ msgstr "<b>Класическият</b> и <b>новият</b> имат по-добри характеристики."

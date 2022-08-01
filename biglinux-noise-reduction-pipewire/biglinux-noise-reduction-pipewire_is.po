@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: biglinux-noise-reduction-pipewire\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-07-23 19:21-0300\n"
+"POT-Creation-Date: 2022-08-01 06:12-0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -31,6 +31,25 @@ msgstr "Hljóðnemi Sía"
 
 msgid "Ativando"
 msgstr "virkja"
+
+msgid ""
+"Este filtro utiliza técnicas de redes neurais para remover ruídos e sons do "
+"ambiente que atrapalham gravações e chamadas online."
+msgstr ""
+"Þessi sía notar taugakerfi tækni til að fjarlægja umhverfishljóð og hljóð "
+"sem trufla upptökur og símtöl á netinu."
+
+msgid "Gerenciador de Áudio"
+msgstr "Audio Manager"
+
+msgid "Frequências sonoras:"
+msgstr "Hljóð tíðni:"
+
+msgid "Filtro de ruído"
+msgstr "Hávaði sía"
+
+msgid "Iniciar automaticamente"
+msgstr "Byrjaðu sjálfkrafa"
 
 msgid "Configuração aplicada"
 msgstr "Stillingar beitt"
@@ -60,22 +79,3 @@ msgstr ""
 
 msgid "Cancelado, nenhuma configuração foi removida!"
 msgstr "Hætt við, engar stillingar voru fjarlægðar!"
-
-msgid ""
-"Este filtro utiliza técnicas de redes neurais para remover ruídos e sons do "
-"ambiente que atrapalham gravações e chamadas online."
-msgstr ""
-"Þessi sía notar taugakerfi tækni til að fjarlægja umhverfishljóð og hljóð "
-"sem trufla upptökur og símtöl á netinu."
-
-msgid "Gerenciador de Áudio"
-msgstr "Audio Manager"
-
-msgid "Frequências sonoras:"
-msgstr "Hljóð tíðni:"
-
-msgid "Filtro de ruído"
-msgstr "Hávaði sía"
-
-msgid "Iniciar automaticamente"
-msgstr "Byrjaðu sjálfkrafa"

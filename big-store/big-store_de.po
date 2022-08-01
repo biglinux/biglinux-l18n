@@ -14,7 +14,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-07-23 19:21-0300\n"
+"POT-Creation-Date: 2022-08-01 06:12-0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -36,310 +36,6 @@ msgstr "Installieren Sie"
 msgid "Remover"
 msgstr "Entfernen"
 
-msgid "Internet"
-msgstr "Internet"
-
-msgid "Navegadores"
-msgstr "Browser"
-
-msgid "E-mail"
-msgstr "E-Mail"
-
-msgid "Armazenamento nas nuvens"
-msgstr "Cloud-Speicher"
-
-msgid "Download"
-msgstr "Herunterladen"
-
-msgid "Compartilhadores e Torrent"
-msgstr "Sharer und Torrent"
-
-msgid "Mensageiros e Conferências"
-msgstr "Boten und Konferenzen"
-
-msgid "Acesso Remoto, FTP, SSH, VNC, RDP..."
-msgstr "Fernzugriff, FTP, SSH, VNC, RDP..."
-
-msgid "Ferramentas de rede"
-msgstr "Netzwerk-Tools"
-
-msgid "Notícias, Feeds e RSS"
-msgstr "Nachrichten, Feeds und RSS"
-
-msgid "Escritório"
-msgstr "Büro"
-
-msgid "Suíte Office"
-msgstr "Office-Paket"
-
-msgid "Visualizadores de PDF, Epub, e-books e mais"
-msgstr "PDF, Epub, E-Book-Viewer und mehr"
-
-msgid "Editores de PDF"
-msgstr "PDF-Editoren"
-
-msgid "Agenda de tarefas e contatos"
-msgstr "Kalender mit Aufgaben und Kontakten"
-
-msgid "Gráficos"
-msgstr "Grafiken"
-
-msgid "Visualizadores de imagem"
-msgstr "Bildbetrachter"
-
-msgid "Editores de imagem e ferramentas de desenho"
-msgstr "Bildbearbeitungsprogramme und Zeichenwerkzeuge"
-
-msgid "Captura de tela (Screenshot)"
-msgstr "Bildschirmfoto"
-
-msgid "Converter, redimensionar ou compactar imagens"
-msgstr "Bilder konvertieren, in der Größe verändern oder komprimieren"
-
-msgid "Edição 3D e CAD"
-msgstr "3D- und CAD-Bearbeitung"
-
-msgid "Multimídia"
-msgstr "Multimedia"
-
-msgid "Reprodutores de áudio"
-msgstr "Audioplayer"
-
-msgid "Rádio online"
-msgstr "Online-Radio"
-
-msgid "Gravadores e conversores de áudio"
-msgstr "Audiorecorder und -wandler"
-
-msgid "Editores de áudio"
-msgstr "Audio-Editoren"
-
-msgid "Reprodutores de vídeo"
-msgstr "Video-Spieler"
-
-msgid "Vídeo online, IPTV, Youtube..."
-msgstr "Online-Video, IPTV, Youtube..."
-
-msgid "Editores e compactadores de vídeo"
-msgstr "Videobearbeitungsprogramme und Kompressoren"
-
-msgid "Gravadores e copiadores de CD e DVD"
-msgstr "CD- und DVD-Brenner und -Kopierer"
-
-msgid "Webcam, gravação de tela e transmissão de vídeo"
-msgstr "Webcam, Bildschirmaufzeichnung und Videostreaming"
-
-msgid "Jogos"
-msgstr "Spiele"
-
-msgid "Gerenciadores de jogos"
-msgstr "Spiel-Manager"
-
-msgid "Utilitários para jogos"
-msgstr "Spiel Utilities"
-
-msgid "Emulador Retroarch"
-msgstr "Retroarch-Emulator"
-
-msgid "Emuladores"
-msgstr "Emulatoren"
-
-msgid "Criadores de jogos"
-msgstr "Spiele-Entwickler"
-
-msgid "Ação/Arcade"
-msgstr "Action/Arkade"
-
-msgid "Cartas"
-msgstr "Briefe"
-
-msgid "Educacional"
-msgstr "Bildung"
-
-msgid "Estratégia"
-msgstr "Strategie"
-
-msgid "Puzzles"
-msgstr "Rätsel"
-
-msgid "Tabuleiro"
-msgstr "Vorstand"
-
-msgid "RPG"
-msgstr "RPG"
-
-msgid "Outros"
-msgstr "Andere"
-
-msgid "Sistema"
-msgstr "System"
-
-msgid "Armazenamento e partições"
-msgstr "Lagerung und Trennwände"
-
-msgid "Fontes (Tipografia)"
-msgstr "Schriftarten (Typografie)"
-
-msgid "Java JRE"
-msgstr "Java JRE"
-
-msgid "Virtualização"
-msgstr "Virtualisierung"
-
-msgid "Desenvolvimento"
-msgstr "Entwicklung"
-
-msgid "Editores de código e IDE"
-msgstr "Code-Editoren und IDEs"
-
-msgid "Banco de dados"
-msgstr "Datenbank"
-
-msgid "Servidores WEB"
-msgstr "WEB-Server"
-
-msgid "Programas Nativos"
-msgstr "Einheimische Programme"
-
-msgid "Programas AUR"
-msgstr "AUR-Programme"
-
-msgid "Instalado na partição:"
-msgstr "Installiert auf der Partition:"
-
-msgid "Tamanho da partição:"
-msgstr "Größe der Partition:"
-
-msgid "Espaço utilizado:"
-msgstr "Genutzter Raum:"
-
-msgid "Espaço livre:"
-msgstr "Freiraum:"
-
-msgid "Data que o sistema foi instalado:"
-msgstr "Datum, an dem das System installiert wurde:"
-
-msgid "Pacotes nativos e AUR"
-msgstr "Einheimische Pakete und AUR"
-
-msgid "Instalados:"
-msgstr "Installiert:"
-
-msgid "Disponíveis:"
-msgstr "Verfügbar:"
-
-msgid "Pacotes Flatpak"
-msgstr "Flatpak-Pakete"
-
-msgid "Repositórios configurados:"
-msgstr "Repositories konfiguriert:"
-
-msgid "Pacotes Snap"
-msgstr "Schnapp-Pakete"
-
-msgid "Pacotes Snap Instalados clique no pacote para remover"
-msgstr "Installierte Snap-Pakete Klicken Sie auf das zu entfernende Paket"
-
-msgid "Versão: "
-msgstr "Version "
-
-msgid "Pacote: "
-msgstr "Paket "
-
-msgid "Não informada"
-msgstr "Nicht informiert"
-
-msgid "Atualizar"
-msgstr "Update"
-
-msgid "Categorias"
-msgstr "Kategorien"
-
-msgid "Versão instalada"
-msgstr "Installierte Version"
-
-msgid "Versão disponível"
-msgstr "Version verfügbar"
-
-msgid "Versão"
-msgstr "Version"
-
-msgid "Fechar"
-msgstr "Schließen Sie"
-
-msgid "Pacote .deb"
-msgstr ".deb-Paket"
-
-msgid ""
-"Esse programa está em formato .deb, que possui a melhor integração com o "
-"sistema."
-msgstr ""
-"Dieses Programm liegt im .deb-Format vor, das sich am besten in das System "
-"integrieren lässt."
-
-msgid "Mais informações"
-msgstr "Weitere Informationen"
-
-msgid "Voltar"
-msgstr "Zurück"
-
-msgid "Dependências a instalar"
-msgstr "Zu installierende Abhängigkeiten"
-
-msgid "Ver mais"
-msgstr "Mehr sehen"
-
-msgid "Pacotes com dependências não atendidas: "
-msgstr "Pakete mit nicht erfüllten Abhängigkeiten "
-
-msgid "Depende de "
-msgstr "Es hängt ab von "
-
-msgid "mas não vai ser instalado."
-msgstr "aber es wird nicht installiert."
-
-msgid "mas não está disponível"
-msgstr "aber sie ist nicht verfügbar"
-
-msgid "Programas Flatpak"
-msgstr "Flatpak-Programme"
-
-msgid "Executar"
-msgstr "Ausführen"
-
-msgid "Pacote:"
-msgstr "Paket:"
-
-msgid "Versão disponível:"
-msgstr "Version verfügbar:"
-
-msgid "Repositório:"
-msgstr "Repository:"
-
-msgid "Cancelar"
-msgstr "Abbrechen"
-
-msgid "Instalando"
-msgstr "Installation von"
-
-msgid "Removendo"
-msgstr "Entfernen von"
-
-msgid "Programas Snap"
-msgstr "Schnapp-Programme"
-
-msgid "Versão disponivel:"
-msgstr "Version verfügbar:"
-
-msgid "Licença:"
-msgstr "Lizenz:"
-
-msgid "AUR"
-msgstr "AUR"
-
-msgid "Empacotador:"
-msgstr "Packer:"
-
 msgid ""
 "Para os programas Snap aparecerem no menu do sistema finalize a sessão e "
 "faça login novamente."
@@ -353,6 +49,9 @@ msgstr "Einstellungen"
 msgid "Pacotes"
 msgstr "Pakete"
 
+msgid "Pacotes Flatpak"
+msgstr "Flatpak-Pakete"
+
 msgid "Ativado"
 msgstr "Aktiviert"
 
@@ -364,6 +63,9 @@ msgstr "Aktualisierungen"
 
 msgid "Atualizar seu sistema"
 msgstr "Aktualisieren Sie Ihr System"
+
+msgid "Atualizar"
+msgstr "Update"
 
 msgid "Atualizar cache dos repositórios nativos"
 msgstr "Aktualisieren Sie den Cache der nativen Repositories"
@@ -388,6 +90,9 @@ msgstr ""
 "Aktualisieren Sie die Schlüssel der Repositories von BigLinux, Manjaro und "
 "Archlinux. Denken Sie daran, dass Sie, wenn Sie ergänzende Repositories "
 "aktiviert haben, die Schlüssel dieser Repositories erneut hinzufügen müssen."
+
+msgid "Executar"
+msgstr "Ausführen"
 
 msgid ""
 "Forçar atualizações, utilize essa opção se não estiver conseguindo atualizar "
@@ -490,6 +195,301 @@ msgstr "Einheimische"
 
 msgid "Início"
 msgstr "Startseite"
+
+msgid "Internet"
+msgstr "Internet"
+
+msgid "Escritório"
+msgstr "Büro"
+
+msgid "Gráficos"
+msgstr "Grafiken"
+
+msgid "Multimídia"
+msgstr "Multimedia"
+
+msgid "Jogos"
+msgstr "Spiele"
+
+msgid "Sistema"
+msgstr "System"
+
+msgid "Desenvolvimento"
+msgstr "Entwicklung"
+
+msgid "Navegadores"
+msgstr "Browser"
+
+msgid "E-mail"
+msgstr "E-Mail"
+
+msgid "Armazenamento nas nuvens"
+msgstr "Cloud-Speicher"
+
+msgid "Download"
+msgstr "Herunterladen"
+
+msgid "Compartilhadores e Torrent"
+msgstr "Sharer und Torrent"
+
+msgid "Mensageiros e Conferências"
+msgstr "Boten und Konferenzen"
+
+msgid "Acesso Remoto, FTP, SSH, VNC, RDP..."
+msgstr "Fernzugriff, FTP, SSH, VNC, RDP..."
+
+msgid "Ferramentas de rede"
+msgstr "Netzwerk-Tools"
+
+msgid "Notícias, Feeds e RSS"
+msgstr "Nachrichten, Feeds und RSS"
+
+msgid "Suíte Office"
+msgstr "Office-Paket"
+
+msgid "Visualizadores de PDF, Epub, e-books e mais"
+msgstr "PDF, Epub, E-Book-Viewer und mehr"
+
+msgid "Editores de PDF"
+msgstr "PDF-Editoren"
+
+msgid "Agenda de tarefas e contatos"
+msgstr "Kalender mit Aufgaben und Kontakten"
+
+msgid "Visualizadores de imagem"
+msgstr "Bildbetrachter"
+
+msgid "Editores de imagem e ferramentas de desenho"
+msgstr "Bildbearbeitungsprogramme und Zeichenwerkzeuge"
+
+msgid "Captura de tela (Screenshot)"
+msgstr "Bildschirmfoto"
+
+msgid "Converter, redimensionar ou compactar imagens"
+msgstr "Bilder konvertieren, in der Größe verändern oder komprimieren"
+
+msgid "Edição 3D e CAD"
+msgstr "3D- und CAD-Bearbeitung"
+
+msgid "Reprodutores de áudio"
+msgstr "Audioplayer"
+
+msgid "Rádio online"
+msgstr "Online-Radio"
+
+msgid "Gravadores e conversores de áudio"
+msgstr "Audiorecorder und -wandler"
+
+msgid "Editores de áudio"
+msgstr "Audio-Editoren"
+
+msgid "Reprodutores de vídeo"
+msgstr "Video-Spieler"
+
+msgid "Vídeo online, IPTV, Youtube..."
+msgstr "Online-Video, IPTV, Youtube..."
+
+msgid "Editores e compactadores de vídeo"
+msgstr "Videobearbeitungsprogramme und Kompressoren"
+
+msgid "Gravadores e copiadores de CD e DVD"
+msgstr "CD- und DVD-Brenner und -Kopierer"
+
+msgid "Webcam, gravação de tela e transmissão de vídeo"
+msgstr "Webcam, Bildschirmaufzeichnung und Videostreaming"
+
+msgid "Gerenciadores de jogos"
+msgstr "Spiel-Manager"
+
+msgid "Utilitários para jogos"
+msgstr "Spiel Utilities"
+
+msgid "Emulador Retroarch"
+msgstr "Retroarch-Emulator"
+
+msgid "Emuladores"
+msgstr "Emulatoren"
+
+msgid "Criadores de jogos"
+msgstr "Spiele-Entwickler"
+
+msgid "Ação/Arcade"
+msgstr "Action/Arkade"
+
+msgid "Cartas"
+msgstr "Briefe"
+
+msgid "Educacional"
+msgstr "Bildung"
+
+msgid "Estratégia"
+msgstr "Strategie"
+
+msgid "Puzzles"
+msgstr "Rätsel"
+
+msgid "Tabuleiro"
+msgstr "Vorstand"
+
+msgid "RPG"
+msgstr "RPG"
+
+msgid "Armazenamento e partições"
+msgstr "Lagerung und Trennwände"
+
+msgid "Fontes (Tipografia)"
+msgstr "Schriftarten (Typografie)"
+
+msgid "Java JRE"
+msgstr "Java JRE"
+
+msgid "Virtualização"
+msgstr "Virtualisierung"
+
+msgid "Editores de código e IDE"
+msgstr "Code-Editoren und IDEs"
+
+msgid "Banco de dados"
+msgstr "Datenbank"
+
+msgid "Servidores WEB"
+msgstr "WEB-Server"
+
+msgid "Programas Nativos"
+msgstr "Einheimische Programme"
+
+msgid "Programas AUR"
+msgstr "AUR-Programme"
+
+msgid "Programas Flatpak"
+msgstr "Flatpak-Programme"
+
+msgid "Programas Snap"
+msgstr "Schnapp-Programme"
+
+msgid "Outros"
+msgstr "Andere"
+
+msgid "Instalado na partição:"
+msgstr "Installiert auf der Partition:"
+
+msgid "Tamanho da partição:"
+msgstr "Größe der Partition:"
+
+msgid "Espaço utilizado:"
+msgstr "Genutzter Raum:"
+
+msgid "Espaço livre:"
+msgstr "Freiraum:"
+
+msgid "Data que o sistema foi instalado:"
+msgstr "Datum, an dem das System installiert wurde:"
+
+msgid "Pacotes nativos e AUR"
+msgstr "Einheimische Pakete und AUR"
+
+msgid "Instalados:"
+msgstr "Installiert:"
+
+msgid "Disponíveis:"
+msgstr "Verfügbar:"
+
+msgid "Repositórios configurados:"
+msgstr "Repositories konfiguriert:"
+
+msgid "Pacotes Snap"
+msgstr "Schnapp-Pakete"
+
+msgid "Pacotes Snap Instalados clique no pacote para remover"
+msgstr "Installierte Snap-Pakete Klicken Sie auf das zu entfernende Paket"
+
+msgid "Versão: "
+msgstr "Version "
+
+msgid "Pacote: "
+msgstr "Paket "
+
+msgid "Não informada"
+msgstr "Nicht informiert"
+
+msgid "Categorias"
+msgstr "Kategorien"
+
+msgid "Versão instalada"
+msgstr "Installierte Version"
+
+msgid "Versão disponível"
+msgstr "Version verfügbar"
+
+msgid "Versão"
+msgstr "Version"
+
+msgid "Fechar"
+msgstr "Schließen Sie"
+
+msgid "Pacote .deb"
+msgstr ".deb-Paket"
+
+msgid ""
+"Esse programa está em formato .deb, que possui a melhor integração com o "
+"sistema."
+msgstr ""
+"Dieses Programm liegt im .deb-Format vor, das sich am besten in das System "
+"integrieren lässt."
+
+msgid "Mais informações"
+msgstr "Weitere Informationen"
+
+msgid "Voltar"
+msgstr "Zurück"
+
+msgid "Dependências a instalar"
+msgstr "Zu installierende Abhängigkeiten"
+
+msgid "Ver mais"
+msgstr "Mehr sehen"
+
+msgid "Pacotes com dependências não atendidas: "
+msgstr "Pakete mit nicht erfüllten Abhängigkeiten "
+
+msgid "Depende de "
+msgstr "Es hängt ab von "
+
+msgid "mas não vai ser instalado."
+msgstr "aber es wird nicht installiert."
+
+msgid "mas não está disponível"
+msgstr "aber sie ist nicht verfügbar"
+
+msgid "Pacote:"
+msgstr "Paket:"
+
+msgid "Versão disponível:"
+msgstr "Version verfügbar:"
+
+msgid "Repositório:"
+msgstr "Repository:"
+
+msgid "Cancelar"
+msgstr "Abbrechen"
+
+msgid "Instalando"
+msgstr "Installation von"
+
+msgid "Removendo"
+msgstr "Entfernen von"
+
+msgid "Versão disponivel:"
+msgstr "Version verfügbar:"
+
+msgid "Licença:"
+msgstr "Lizenz:"
+
+msgid "AUR"
+msgstr "AUR"
+
+msgid "Empacotador:"
+msgstr "Packer:"
 
 msgid "Reinstalar"
 msgstr "Neu installieren"

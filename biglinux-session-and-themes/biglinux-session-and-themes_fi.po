@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: biglinux-session-and-themes\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-07-23 19:21-0300\n"
+"POT-Creation-Date: 2022-08-01 06:12-0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -56,16 +56,10 @@ msgstr ""
 "jotta konfigurointi saadaan valmiiksi\n"
 "sovellettu."
 
-msgid "Desempenho em modo normal!"
-msgstr "Suorituskyky normaalitilassa!"
+msgid "Aplicando, aguarde..."
+msgstr ""
 
-msgid "Desempenho em modo otimizado!"
-msgstr "Suorituskyky tehostetussa tilassa!"
-
-msgid "Desempenho em modo performance!"
-msgstr "Suorituskyky suoritustilassa!"
-
-msgid "Aplicando, aguarde o termino."
+msgid "Concluído!"
 msgstr ""
 
 msgid "Temas"
@@ -204,6 +198,15 @@ msgid ""
 "reduzida."
 msgstr ""
 "Ohjelmiston renderöintiä käytettäessä läpinäkyvien kuvien laatu heikkenee."
+
+msgid "Desempenho em modo normal!"
+msgstr "Suorituskyky normaalitilassa!"
+
+msgid "Desempenho em modo otimizado!"
+msgstr "Suorituskyky tehostetussa tilassa!"
+
+msgid "Desempenho em modo performance!"
+msgstr "Suorituskyky suoritustilassa!"
 
 #~ msgid "<b>Classic</b> e <b>New</b> têm melhor desempenho."
 #~ msgstr "<b>Classic</b> ja <b>New</b> ovat suorituskyvyltään parempia."

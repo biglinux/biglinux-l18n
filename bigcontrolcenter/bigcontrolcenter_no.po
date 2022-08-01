@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: bigcontrolcenter\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-07-23 19:21-0300\n"
+"POT-Creation-Date: 2022-08-01 06:12-0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -16,6 +16,12 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+
+msgid "Introdução ao BigLinux"
+msgstr "Innføring i BigLinux"
+
+msgid "Central de Controle"
+msgstr "Kontrollsenter"
 
 msgid ""
 "A webcam já está sendo utilizada pelo programa: $WEBCAM_BUSY\n"
@@ -62,24 +68,6 @@ msgstr "Lukk"
 
 msgid "Hardinfo Relatory"
 msgstr "Hardinfo-rapport"
-
-msgid "Central de Controle"
-msgstr "Kontrollsenter"
-
-msgid "Introdução ao BigLinux"
-msgstr "Innføring i BigLinux"
-
-msgid "Bom dia"
-msgstr "Salaam"
-
-msgid "Boa tarde"
-msgstr "God ettermiddag"
-
-msgid "Boa noite"
-msgstr "God natt"
-
-msgid "Aguarde, carregando..."
-msgstr "Vente, lasting..."
 
 msgid "Bem vindo ao BigLinux"
 msgstr "Velkommen til BigLinux"
@@ -198,6 +186,18 @@ msgstr "Facebook"
 msgid "Parabéns, você concluiu os primeiros passos para utilizar o BigLinux."
 msgstr "Gratulerer, du har fullført de første trinnene for å bruke BigLinux."
 
+msgid "Bom dia"
+msgstr "Salaam"
+
+msgid "Boa tarde"
+msgstr "God ettermiddag"
+
+msgid "Boa noite"
+msgstr "God natt"
+
+msgid "Aguarde, carregando..."
+msgstr "Vente, lasting..."
+
 msgid "Integração com Google Drive e ownCloud"
 msgstr "Integrasjon med Google Drive og ownCloud"
 
@@ -207,6 +207,12 @@ msgid ""
 msgstr ""
 "Få tilgang til filene dine som er i Google Drive eller ownCloud direkte fra "
 "filbehandleren."
+
+msgid "Configurar o AppimageLauncher"
+msgstr "Konfigurere ImageLauncher-appen"
+
+msgid "Escolher o comportamento dos programas disponibilizados em .appimage"
+msgstr "Velg oppførselen til programmene som er tilgjengelige i .appimage"
 
 msgid "Qt Assistant"
 msgstr "Qt-assistent"
@@ -249,6 +255,12 @@ msgstr ""
 msgid "Temas do Bootsplash"
 msgstr "Bootsplash temaer"
 
+msgid "Controle o brilho e as cores"
+msgstr "Kontroller lysstyrke og farger"
+
+msgid "Brilho e cor"
+msgstr "Lysstyrke og farge"
+
 msgid "Procurar servidores SSH"
 msgstr "Søk etter SSH-servere"
 
@@ -275,6 +287,9 @@ msgstr "Partisjon eller format"
 
 msgid "Cuidado, este programa poderá apagar todos os dados do computador."
 msgstr "Vær forsiktig, dette programmet kan slette alle data fra datamaskinen."
+
+msgid "Informações de armazenamento (SMART)"
+msgstr "Lagringsinformasjon (SMART)"
 
 msgid "Firewall"
 msgstr "Brannmur"
@@ -303,6 +318,9 @@ msgid ""
 msgstr ""
 "Med dette programmet kan du få tilgang til programmene på Apple iPhone eller "
 "iPad på samme måte som å få tilgang til filer på en pendrive."
+
+msgid "Equalizador (DSP)"
+msgstr "Utjevner (DSP)"
 
 msgid "Áreas de trabalho virtuais e atividades"
 msgstr "Virtuelle arbeidsområder og aktiviteter"
@@ -341,6 +359,9 @@ msgstr ""
 
 msgid "Instalar, configurar ou remover impressoras."
 msgstr "Installer, konfigurer eller fjern skrivere."
+
+msgid "Gerenciar serviços (Systemd)"
+msgstr "Administrer tjenester (Systemd)"
 
 msgid "Configurar o tema Kvantum"
 msgstr "Sett opp Kvantum tema"
@@ -391,6 +412,9 @@ msgstr "terminalen"
 msgid "Acesse o terminal de comandos."
 msgstr "Gå til kommandoterminalen."
 
+msgid "Gerenciador de senhas"
+msgstr "Passordbehandling"
+
 msgid "Som e microfone"
 msgstr "Lyd og mikrofon"
 
@@ -406,39 +430,6 @@ msgstr "KDE kontrollsenter"
 
 msgid "Configurador avançado de energia"
 msgstr "Avansert strømkonfigurator"
-
-msgid "Informações de armazenamento (SMART)"
-msgstr "Lagringsinformasjon (SMART)"
-
-msgid "Gerenciar serviços (Systemd)"
-msgstr "Administrer tjenester (Systemd)"
-
-msgid "Configurar o AppimageLauncher"
-msgstr "Konfigurere ImageLauncher-appen"
-
-msgid "Escolher o comportamento dos programas disponibilizados em .appimage"
-msgstr "Velg oppførselen til programmene som er tilgjengelige i .appimage"
-
-msgid "Controle o brilho e as cores"
-msgstr "Kontroller lysstyrke og farger"
-
-msgid "Brilho e cor"
-msgstr "Lysstyrke og farge"
-
-msgid "Equalizador (DSP)"
-msgstr "Utjevner (DSP)"
-
-msgid "Gerenciador de senhas"
-msgstr "Passordbehandling"
-
-msgid "As configurações da tela foram resetadas."
-msgstr "Skjerminnstillingene er tilbakestilt."
-
-msgid "Configurações da tela"
-msgstr "Skjerminnstillinger"
-
-msgid "Aguarde, criando arquivos de cache..."
-msgstr "Vennligst vent, lage cache-filer..."
 
 msgid "Categorias"
 msgstr "Kategorier"
@@ -699,6 +690,15 @@ msgstr ""
 "Snapdrop kan brukes på hvilken som helst smarttelefon eller datamaskin, "
 "inkludert overføring av filer direkte fra en smarttelefon til en annen. Du "
 "kan også bruke vår webappbehandling for å lette bruken av dette nettstedet."
+
+msgid "As configurações da tela foram resetadas."
+msgstr "Skjerminnstillingene er tilbakestilt."
+
+msgid "Configurações da tela"
+msgstr "Skjerminnstillinger"
+
+msgid "Aguarde, criando arquivos de cache..."
+msgstr "Vennligst vent, lage cache-filer..."
 
 msgid "Maximizado"
 msgstr "Maksimeres"

@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: biglinux-driver-manager\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-07-23 19:21-0300\n"
+"POT-Creation-Date: 2022-08-01 06:12-0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -47,51 +47,6 @@ msgstr ""
 
 msgid "Desativado"
 msgstr "fatlaður"
-
-msgid "Informações de Hardware"
-msgstr "Upplýsingar um vélbúnað"
-
-msgid "Fechar"
-msgstr "Loka"
-
-msgid "Enviar para transfer.sh"
-msgstr "Senda til transfer.sh"
-
-msgid "Visualizar"
-msgstr "útsýni"
-
-msgid "O relatório foi salvo no arquivo:"
-msgstr "Skýrslan var vistuð í skrána:"
-
-msgid ""
-"Deseja visualizar o arquivo ou envia-lo ao site transfer.sh, para ter uma "
-"URL com os dados do seu computador de forma fácil de compartilhar?"
-msgstr ""
-"Viltu skoða skrána eða senda hana á transfer.sh vefsíðuna, til að hafa slóð "
-"með gögnum á tölvunni þinni á auðveldan hátt til að deila?"
-
-msgid "Concluído, reinicie o computador para ativar a configuração do driver."
-msgstr "Lokið, endurræstu tölvuna til að virkja bílstjóri stillingar."
-
-msgid "Driver"
-msgstr "bílstjóri"
-
-msgid "Ocorreu um erro e o driver não pode ser aplicado."
-msgstr "Villa kom upp og ekki er hægt að beita ökumanninum."
-
-msgid "Enviando, aguarde..."
-msgstr "Senda, vinsamlegast bíðið..."
-
-msgid ""
-"Digite sua senha para gerar um relatório removendo dados sensíveis, por "
-"exemplo, endereço de IP, ou cancele para utilizar as informações da tela "
-"anterior."
-msgstr ""
-"Sláðu inn lykilorðið þitt til að búa til skýrslu sem fjarlægir viðkvæm gögn, "
-"til dæmis IP-tölu, eða hætta við að nota upplýsingarnar frá fyrri skjá."
-
-msgid "Digite sua senha para gerar um relatório mais completo."
-msgstr "Sláðu inn lykilorðið þitt til að búa til fullkomnari skýrslu."
 
 msgid "Categorias"
 msgstr "Flokkar"
@@ -156,6 +111,12 @@ msgstr "Leita"
 msgid "Resultado da pesquisa"
 msgstr "Leitarniðurstöður"
 
+msgid "Informações de Hardware"
+msgstr "Upplýsingar um vélbúnað"
+
+msgid "Fechar"
+msgstr "Loka"
+
 msgid "Abrir"
 msgstr "Opna"
 
@@ -217,6 +178,22 @@ msgstr "AUÐKENNI"
 msgid "Info"
 msgstr "Upplýsingar"
 
+msgid "Enviar para transfer.sh"
+msgstr "Senda til transfer.sh"
+
+msgid "Visualizar"
+msgstr "útsýni"
+
+msgid "O relatório foi salvo no arquivo:"
+msgstr "Skýrslan var vistuð í skrána:"
+
+msgid ""
+"Deseja visualizar o arquivo ou envia-lo ao site transfer.sh, para ter uma "
+"URL com os dados do seu computador de forma fácil de compartilhar?"
+msgstr ""
+"Viltu skoða skrána eða senda hana á transfer.sh vefsíðuna, til að hafa slóð "
+"með gögnum á tölvunni þinni á auðveldan hátt til að deila?"
+
 msgid "Driver detectado:"
 msgstr "Ökumaður uppgötvað:"
 
@@ -275,6 +252,15 @@ msgstr "Sækja um - Vinsamlegast bíddu"
 msgid "Este pacote fornece arquivos compatíveis com este computador."
 msgstr "Þessi pakki býður upp á skrár sem eru samhæfar þessari tölvu."
 
+msgid "Concluído, reinicie o computador para ativar a configuração do driver."
+msgstr "Lokið, endurræstu tölvuna til að virkja bílstjóri stillingar."
+
+msgid "Driver"
+msgstr "bílstjóri"
+
+msgid "Ocorreu um erro e o driver não pode ser aplicado."
+msgstr "Villa kom upp og ekki er hægt að beita ökumanninum."
+
 msgid "Swap (Memória Virtual)"
 msgstr "Víxla (Virtual Memory)"
 
@@ -307,3 +293,17 @@ msgstr "Upplýsingar um kerfi"
 
 msgid "Repositórios"
 msgstr "Geymslur"
+
+msgid ""
+"Digite sua senha para gerar um relatório removendo dados sensíveis, por "
+"exemplo, endereço de IP, ou cancele para utilizar as informações da tela "
+"anterior."
+msgstr ""
+"Sláðu inn lykilorðið þitt til að búa til skýrslu sem fjarlægir viðkvæm gögn, "
+"til dæmis IP-tölu, eða hætta við að nota upplýsingarnar frá fyrri skjá."
+
+msgid "Digite sua senha para gerar um relatório mais completo."
+msgstr "Sláðu inn lykilorðið þitt til að búa til fullkomnari skýrslu."
+
+msgid "Enviando, aguarde..."
+msgstr "Senda, vinsamlegast bíðið..."

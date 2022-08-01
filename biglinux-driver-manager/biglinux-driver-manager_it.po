@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: biglinux-driver-manager\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-07-23 19:21-0300\n"
+"POT-Creation-Date: 2022-08-01 06:12-0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -47,54 +47,6 @@ msgstr ""
 
 msgid "Desativado"
 msgstr "Disabilitato"
-
-msgid "Informações de Hardware"
-msgstr "Informazioni sull'hardware"
-
-msgid "Fechar"
-msgstr "Chiudere"
-
-msgid "Enviar para transfer.sh"
-msgstr "Invia a transfer.sh"
-
-msgid "Visualizar"
-msgstr "Vista"
-
-msgid "O relatório foi salvo no arquivo:"
-msgstr "Il rapporto è stato salvato nell'archivio:"
-
-msgid ""
-"Deseja visualizar o arquivo ou envia-lo ao site transfer.sh, para ter uma "
-"URL com os dados do seu computador de forma fácil de compartilhar?"
-msgstr ""
-"Vuole visualizzare il file o inviarlo a transfer.sh, per avere un URL con i "
-"dati dal suo computer in modo semplice da condividere?"
-
-msgid "Concluído, reinicie o computador para ativar a configuração do driver."
-msgstr ""
-"Una volta completato, riavvii il computer per attivare la configurazione del "
-"driver."
-
-msgid "Driver"
-msgstr "Autista"
-
-msgid "Ocorreu um erro e o driver não pode ser aplicado."
-msgstr "Si è verificato un errore e non è possibile applicare il driver."
-
-msgid "Enviando, aguarde..."
-msgstr "Invio, attendere prego..."
-
-msgid ""
-"Digite sua senha para gerar um relatório removendo dados sensíveis, por "
-"exemplo, endereço de IP, ou cancele para utilizar as informações da tela "
-"anterior."
-msgstr ""
-"Inserisca la sua password per generare un rapporto eliminando i dati "
-"sensibili, ad esempio l'indirizzo IP, oppure annulli per utilizzare le "
-"informazioni della schermata precedente."
-
-msgid "Digite sua senha para gerar um relatório mais completo."
-msgstr "Inserisca la sua password per generare un rapporto più completo."
 
 msgid "Categorias"
 msgstr "Categorie"
@@ -159,6 +111,12 @@ msgstr "Ricerca"
 msgid "Resultado da pesquisa"
 msgstr "Risultato della ricerca"
 
+msgid "Informações de Hardware"
+msgstr "Informazioni sull'hardware"
+
+msgid "Fechar"
+msgstr "Chiudere"
+
 msgid "Abrir"
 msgstr "Aperto"
 
@@ -221,6 +179,22 @@ msgstr "ID"
 msgid "Info"
 msgstr "Info"
 
+msgid "Enviar para transfer.sh"
+msgstr "Invia a transfer.sh"
+
+msgid "Visualizar"
+msgstr "Vista"
+
+msgid "O relatório foi salvo no arquivo:"
+msgstr "Il rapporto è stato salvato nell'archivio:"
+
+msgid ""
+"Deseja visualizar o arquivo ou envia-lo ao site transfer.sh, para ter uma "
+"URL com os dados do seu computador de forma fácil de compartilhar?"
+msgstr ""
+"Vuole visualizzare il file o inviarlo a transfer.sh, per avere un URL con i "
+"dati dal suo computer in modo semplice da condividere?"
+
 msgid "Driver detectado:"
 msgstr "Driver rilevato:"
 
@@ -279,6 +253,17 @@ msgstr "Candidatura - Attendere prego"
 msgid "Este pacote fornece arquivos compatíveis com este computador."
 msgstr "Questo pacchetto fornisce i file compatibili con questo computer."
 
+msgid "Concluído, reinicie o computador para ativar a configuração do driver."
+msgstr ""
+"Una volta completato, riavvii il computer per attivare la configurazione del "
+"driver."
+
+msgid "Driver"
+msgstr "Autista"
+
+msgid "Ocorreu um erro e o driver não pode ser aplicado."
+msgstr "Si è verificato un errore e non è possibile applicare il driver."
+
 msgid "Swap (Memória Virtual)"
 msgstr "Swap (memoria virtuale)"
 
@@ -311,3 +296,18 @@ msgstr "Informazioni sul sistema"
 
 msgid "Repositórios"
 msgstr "Repository"
+
+msgid ""
+"Digite sua senha para gerar um relatório removendo dados sensíveis, por "
+"exemplo, endereço de IP, ou cancele para utilizar as informações da tela "
+"anterior."
+msgstr ""
+"Inserisca la sua password per generare un rapporto eliminando i dati "
+"sensibili, ad esempio l'indirizzo IP, oppure annulli per utilizzare le "
+"informazioni della schermata precedente."
+
+msgid "Digite sua senha para gerar um relatório mais completo."
+msgstr "Inserisca la sua password per generare un rapporto più completo."
+
+msgid "Enviando, aguarde..."
+msgstr "Invio, attendere prego..."

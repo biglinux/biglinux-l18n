@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: biglinux-driver-manager\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-07-23 19:21-0300\n"
+"POT-Creation-Date: 2022-08-01 06:12-0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -48,54 +48,6 @@ msgstr ""
 
 msgid "Desativado"
 msgstr "onemogućeno"
-
-msgid "Informações de Hardware"
-msgstr "Informacije o hardveru"
-
-msgid "Fechar"
-msgstr "Zatvoriti"
-
-msgid "Enviar para transfer.sh"
-msgstr "Pošalji na transfer.sh"
-
-msgid "Visualizar"
-msgstr "pogled"
-
-msgid "O relatório foi salvo no arquivo:"
-msgstr "Izvješće je spremljeno u datoteku:"
-
-msgid ""
-"Deseja visualizar o arquivo ou envia-lo ao site transfer.sh, para ter uma "
-"URL com os dados do seu computador de forma fácil de compartilhar?"
-msgstr ""
-"Želite li vidjeti datoteku ili je poslati na web mjesto transfer.sh, da "
-"biste na jednostavan način imali URL s podacima na računalu?"
-
-msgid "Concluído, reinicie o computador para ativar a configuração do driver."
-msgstr ""
-"Gotovo, ponovno pokrenite računalo da biste aktivirali konfiguraciju "
-"upravljačkog programa."
-
-msgid "Driver"
-msgstr "Vozač"
-
-msgid "Ocorreu um erro e o driver não pode ser aplicado."
-msgstr "Došlo je do pogreške i upravljački program se ne može primijeniti."
-
-msgid "Enviando, aguarde..."
-msgstr "Slanje, molim vas pričekajte..."
-
-msgid ""
-"Digite sua senha para gerar um relatório removendo dados sensíveis, por "
-"exemplo, endereço de IP, ou cancele para utilizar as informações da tela "
-"anterior."
-msgstr ""
-"Unesite lozinku da biste generirali izvješće o uklanjanju osjetljivih "
-"podataka, na primjer IP adrese ili otkazali da biste koristili podatke s "
-"prethodnog zaslona."
-
-msgid "Digite sua senha para gerar um relatório mais completo."
-msgstr "Unesite lozinku za generiranje potpunijeg izvješća."
 
 msgid "Categorias"
 msgstr "Kategorije"
@@ -160,6 +112,12 @@ msgstr "Pretraživanje"
 msgid "Resultado da pesquisa"
 msgstr "Rezultati pretrage"
 
+msgid "Informações de Hardware"
+msgstr "Informacije o hardveru"
+
+msgid "Fechar"
+msgstr "Zatvoriti"
+
 msgid "Abrir"
 msgstr "Otvori"
 
@@ -221,6 +179,22 @@ msgstr "OSOBNA ISKAZNICA"
 msgid "Info"
 msgstr "Informacije"
 
+msgid "Enviar para transfer.sh"
+msgstr "Pošalji na transfer.sh"
+
+msgid "Visualizar"
+msgstr "pogled"
+
+msgid "O relatório foi salvo no arquivo:"
+msgstr "Izvješće je spremljeno u datoteku:"
+
+msgid ""
+"Deseja visualizar o arquivo ou envia-lo ao site transfer.sh, para ter uma "
+"URL com os dados do seu computador de forma fácil de compartilhar?"
+msgstr ""
+"Želite li vidjeti datoteku ili je poslati na web mjesto transfer.sh, da "
+"biste na jednostavan način imali URL s podacima na računalu?"
+
 msgid "Driver detectado:"
 msgstr "Otkriven vozač:"
 
@@ -279,6 +253,17 @@ msgstr "Primjena - Molimo pričekajte"
 msgid "Este pacote fornece arquivos compatíveis com este computador."
 msgstr "Ovaj paket pruža datoteke kompatibilne s ovim računalom."
 
+msgid "Concluído, reinicie o computador para ativar a configuração do driver."
+msgstr ""
+"Gotovo, ponovno pokrenite računalo da biste aktivirali konfiguraciju "
+"upravljačkog programa."
+
+msgid "Driver"
+msgstr "Vozač"
+
+msgid "Ocorreu um erro e o driver não pode ser aplicado."
+msgstr "Došlo je do pogreške i upravljački program se ne može primijeniti."
+
 msgid "Swap (Memória Virtual)"
 msgstr "Zamjena (virtualna memorija)"
 
@@ -311,3 +296,18 @@ msgstr "Informacijski sustav"
 
 msgid "Repositórios"
 msgstr "Repozitoriji"
+
+msgid ""
+"Digite sua senha para gerar um relatório removendo dados sensíveis, por "
+"exemplo, endereço de IP, ou cancele para utilizar as informações da tela "
+"anterior."
+msgstr ""
+"Unesite lozinku da biste generirali izvješće o uklanjanju osjetljivih "
+"podataka, na primjer IP adrese ili otkazali da biste koristili podatke s "
+"prethodnog zaslona."
+
+msgid "Digite sua senha para gerar um relatório mais completo."
+msgstr "Unesite lozinku za generiranje potpunijeg izvješća."
+
+msgid "Enviando, aguarde..."
+msgstr "Slanje, molim vas pričekajte..."

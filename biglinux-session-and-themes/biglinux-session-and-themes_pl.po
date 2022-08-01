@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: biglinux-session-and-themes\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-07-23 19:21-0300\n"
+"POT-Creation-Date: 2022-08-01 06:12-0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -58,16 +58,10 @@ msgstr ""
 "aby konfiguracja została zakończona\n"
 "stosowane."
 
-msgid "Desempenho em modo normal!"
-msgstr "Wydajność w trybie normalnym!"
+msgid "Aplicando, aguarde..."
+msgstr ""
 
-msgid "Desempenho em modo otimizado!"
-msgstr "Wydajność w trybie rozszerzonym!"
-
-msgid "Desempenho em modo performance!"
-msgstr "Wydajność w trybie wydajnościowym!"
-
-msgid "Aplicando, aguarde o termino."
+msgid "Concluído!"
 msgstr ""
 
 msgid "Temas"
@@ -204,6 +198,15 @@ msgid ""
 "Utilizando renderização por software, a qualidade das transparências está "
 "reduzida."
 msgstr "Przy renderowaniu programowym jakość przezroczy jest obniżona."
+
+msgid "Desempenho em modo normal!"
+msgstr "Wydajność w trybie normalnym!"
+
+msgid "Desempenho em modo otimizado!"
+msgstr "Wydajność w trybie rozszerzonym!"
+
+msgid "Desempenho em modo performance!"
+msgstr "Wydajność w trybie wydajnościowym!"
 
 #~ msgid "<b>Classic</b> e <b>New</b> têm melhor desempenho."
 #~ msgstr "<b>Classic</b> i <b>New</b> mają lepsze osiągi."

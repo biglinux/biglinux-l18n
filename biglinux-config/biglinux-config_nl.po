@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: biglinux-config\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-07-23 19:21-0300\n"
+"POT-Creation-Date: 2022-08-01 06:12-0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -20,80 +20,12 @@ msgstr ""
 msgid "Restaurar Configurações"
 msgstr "Instellingen herstellen"
 
-msgid ""
-"Atenção! O programa está aberto!\\nEle será fechado para que a restauração "
-"tenha efeito."
-msgstr ""
-"Voorzichtig! Het programma is open! Het zal gesloten zijn om de restauratie "
-"te laten ingaan."
+#, fuzzy
+msgid "Pesquisar programa"
+msgstr "Zoek Herstel"
 
-msgid "As configurações foram restauradas com sucesso!"
-msgstr "De instellingen zijn met succes hersteld!"
-
-msgid ""
-"Você tem certeza que deseja restaurar todas as configurações do KDE/Plasma?"
-"\\nIsso apagará todas as configurações definidas por $USER!"
-msgstr ""
-"Weet u zeker dat u alle KDE/Plasma-instellingen wilt herstellen? Wissen alle "
-"instellingen die door $USER zijn ingesteld!"
-
-msgid ""
-"As configurações foram restauradas com sucesso!\\nÉ necessário fazer logoff/"
-"login para concluir a restauração!"
-msgstr ""
-"De instellingen zijn met succes hersteld! U moet uit/aanloggen om het "
-"herstel te voltooien!"
-
-msgid ""
-"Restaurar&nbsp;o&nbsp;programa&nbsp;como&nbsp;modo&nbsp;padrão&nbsp;ou&nbsp;"
-"distribuição&nbsp;BigLinux."
-msgstr "Herstel het programma als standaard modus of BigLinux distributie."
-
-msgid "Restaurar&nbsp;o&nbsp;programa&nbsp;como&nbsp;modo&nbsp;padrão."
-msgstr "Herstel het programma als standaardmodus."
-
-msgid ""
-"Músicas-(Clementine) clementine.sh Multimedia clementine.png clementine skel "
-"$COMMENT_skel"
-msgstr ""
-"Muziek-(Clementine) clementine.sh Multimedia clementine.png clementine skel "
-"$COMMENT_skel"
-
-msgid ""
-"Gravador-de-Tela-(vokoscreenNG) vokoscreen.sh Multimedia vokoscreen.png "
-"vokoscreenNG  $COMMENT_normal"
-msgstr ""
-"Schermrecorder-(vokoscreenNG) vokoscreen.sh Multimedia vokoscreen.png "
-"vokoscreenNG $COMMENT_normal"
-
-msgid ""
-"Vídeos-(Smplayer) smplayer.sh Multimedia smplayer.png smplayer skel "
-"$COMMENT_skel"
-msgstr ""
-"Video's-(Smplayer) smplayer.sh Multimedia smplayer.png smplayer skel "
-"$COMMENT_skel"
-
-msgid "Fechar"
-msgstr "Sluiten"
-
-msgid "Restaurar no modo padrão da distribuição"
-msgstr "Terugzetten naar standaard distributiemodus"
-
-msgid "Essa opção restaura o programa com o padrão do BigLinux."
-msgstr "Deze optie zet het programma terug naar de BigLinux standaard."
-
-msgid "Restaurar no modo padrão do programa"
-msgstr "Terugzetten in standaardprogrammamodus"
-
-msgid "Essa opção restaura o programa com o padrão do desenvolvedor."
-msgstr ""
-"Deze optie herstelt het programma naar de standaardinstelling van de "
-"ontwikkelaar."
-
-msgid "Restaurar as configurações do programa:"
-msgstr "Herstel de programma-instellingen:"
-
-msgid "Principal"
+#, fuzzy
+msgid "Principais"
 msgstr "Hoofd"
 
 msgid "Internet"
@@ -111,5 +43,122 @@ msgstr "Kantoor"
 msgid "Sistema"
 msgstr "Systeem"
 
-msgid "Pesquisar Restaurar"
-msgstr "Zoek Herstel"
+#, fuzzy
+msgid "Restaurar o programa no modo da distribuição BigLinux."
+msgstr "Terugzetten naar standaard distributiemodus"
+
+msgid "Em qual modo você deseja restaurar?"
+msgstr ""
+
+msgid "Restaurar no modo padrão da distribuição"
+msgstr "Terugzetten naar standaard distributiemodus"
+
+msgid "Cancelar"
+msgstr ""
+
+#, fuzzy
+msgid "Restaurar o programa no modo padrão."
+msgstr "Terugzetten in standaardprogrammamodus"
+
+msgid "Restaurar no modo padrão do programa"
+msgstr "Terugzetten in standaardprogrammamodus"
+
+#, fuzzy
+msgid "Restaurar o programa no modo padrão ou distribuição BigLinux."
+msgstr "Terugzetten naar standaard distributiemodus"
+
+msgid "Músicas"
+msgstr ""
+
+msgid "Gravador de Tela"
+msgstr ""
+
+msgid "Vídeos"
+msgstr ""
+
+msgid "Conversor de áudio e vídeo"
+msgstr ""
+
+msgid "As configurações foram restauradas com sucesso!"
+msgstr "De instellingen zijn met succes hersteld!"
+
+msgid "OK"
+msgstr ""
+
+#, fuzzy
+msgid "As configurações do BigLinux KDE foram restauradas com sucesso!"
+msgstr "De instellingen zijn met succes hersteld!"
+
+msgid "É necessário reinciar a sessão para concluir a restauração!"
+msgstr ""
+
+msgid "Atenção! O programa está em execução!"
+msgstr ""
+
+msgid "Será fechado para que a restauração seja concluída."
+msgstr ""
+
+#, fuzzy
+msgid ""
+"Você tem certeza que deseja restaurar todas as configurações do BigLinux KDE?"
+msgstr ""
+"Weet u zeker dat u alle KDE/Plasma-instellingen wilt herstellen? Wissen alle "
+"instellingen die door $USER zijn ingesteld!"
+
+#, fuzzy
+msgid "Isso apagará todas as configurações definidas por "
+msgstr "Herstel de programma-instellingen:"
+
+#~ msgid ""
+#~ "Atenção! O programa está aberto!\\nEle será fechado para que a "
+#~ "restauração tenha efeito."
+#~ msgstr ""
+#~ "Voorzichtig! Het programma is open! Het zal gesloten zijn om de "
+#~ "restauratie te laten ingaan."
+
+#~ msgid ""
+#~ "As configurações foram restauradas com sucesso!\\nÉ necessário fazer "
+#~ "logoff/login para concluir a restauração!"
+#~ msgstr ""
+#~ "De instellingen zijn met succes hersteld! U moet uit/aanloggen om het "
+#~ "herstel te voltooien!"
+
+#~ msgid ""
+#~ "Restaurar&nbsp;o&nbsp;programa&nbsp;como&nbsp;modo&nbsp;padrão&nbsp;"
+#~ "ou&nbsp;distribuição&nbsp;BigLinux."
+#~ msgstr "Herstel het programma als standaard modus of BigLinux distributie."
+
+#~ msgid "Restaurar&nbsp;o&nbsp;programa&nbsp;como&nbsp;modo&nbsp;padrão."
+#~ msgstr "Herstel het programma als standaardmodus."
+
+#~ msgid ""
+#~ "Músicas-(Clementine) clementine.sh Multimedia clementine.png clementine "
+#~ "skel $COMMENT_skel"
+#~ msgstr ""
+#~ "Muziek-(Clementine) clementine.sh Multimedia clementine.png clementine "
+#~ "skel $COMMENT_skel"
+
+#~ msgid ""
+#~ "Gravador-de-Tela-(vokoscreenNG) vokoscreen.sh Multimedia vokoscreen.png "
+#~ "vokoscreenNG  $COMMENT_normal"
+#~ msgstr ""
+#~ "Schermrecorder-(vokoscreenNG) vokoscreen.sh Multimedia vokoscreen.png "
+#~ "vokoscreenNG $COMMENT_normal"
+
+#~ msgid ""
+#~ "Vídeos-(Smplayer) smplayer.sh Multimedia smplayer.png smplayer skel "
+#~ "$COMMENT_skel"
+#~ msgstr ""
+#~ "Video's-(Smplayer) smplayer.sh Multimedia smplayer.png smplayer skel "
+#~ "$COMMENT_skel"
+
+#~ msgid "Fechar"
+#~ msgstr "Sluiten"
+
+#~ msgid "Essa opção restaura o programa com o padrão do BigLinux."
+#~ msgstr "Deze optie zet het programma terug naar de BigLinux standaard."
+
+#~ msgid "Essa opção restaura o programa com o padrão do desenvolvedor."
+#~ msgstr ""
+#~ "Deze optie herstelt het programma naar de standaardinstelling van de "
+#~ "ontwikkelaar."

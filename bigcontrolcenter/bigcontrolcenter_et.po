@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: bigcontrolcenter\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-07-23 19:21-0300\n"
+"POT-Creation-Date: 2022-08-01 06:12-0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -16,6 +16,12 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+
+msgid "Introdução ao BigLinux"
+msgstr "BigLinuxi tutvustus"
+
+msgid "Central de Controle"
+msgstr "Juhtimiskeskus"
 
 msgid ""
 "A webcam já está sendo utilizada pelo programa: $WEBCAM_BUSY\n"
@@ -62,24 +68,6 @@ msgstr "Sulge"
 
 msgid "Hardinfo Relatory"
 msgstr "Hardinfo Suhteline"
-
-msgid "Central de Controle"
-msgstr "Juhtimiskeskus"
-
-msgid "Introdução ao BigLinux"
-msgstr "BigLinuxi tutvustus"
-
-msgid "Bom dia"
-msgstr "Tere hommikust"
-
-msgid "Boa tarde"
-msgstr "Tere päevast"
-
-msgid "Boa noite"
-msgstr "Tere õhtust"
-
-msgid "Aguarde, carregando..."
-msgstr "Oodata, laadimine..."
 
 msgid "Bem vindo ao BigLinux"
 msgstr "Tere tulemast BigLinuxi"
@@ -198,6 +186,18 @@ msgstr "Facebook"
 msgid "Parabéns, você concluiu os primeiros passos para utilizar o BigLinux."
 msgstr "Palju õnne, olete läbinud esimesed sammud BigLinuxi kasutamiseks."
 
+msgid "Bom dia"
+msgstr "Tere hommikust"
+
+msgid "Boa tarde"
+msgstr "Tere päevast"
+
+msgid "Boa noite"
+msgstr "Tere õhtust"
+
+msgid "Aguarde, carregando..."
+msgstr "Oodata, laadimine..."
+
 msgid "Integração com Google Drive e ownCloud"
 msgstr "Integratsioon Google Drive'i ja ownCloudiga"
 
@@ -207,6 +207,12 @@ msgid ""
 msgstr ""
 "Google Drive'is või ownCloudis olevatele failidele pääseb ligi otse "
 "failihaldurist."
+
+msgid "Configurar o AppimageLauncher"
+msgstr "AppimageLauncher'i konfigureerimine"
+
+msgid "Escolher o comportamento dos programas disponibilizados em .appimage"
+msgstr "Valige .appimage'is saadaval olevate programmide käitumine"
 
 msgid "Qt Assistant"
 msgstr "Qt assistent"
@@ -248,6 +254,12 @@ msgstr ""
 msgid "Temas do Bootsplash"
 msgstr "Bootsplash teemad"
 
+msgid "Controle o brilho e as cores"
+msgstr "Heleduse ja värvide reguleerimine"
+
+msgid "Brilho e cor"
+msgstr "Sära ja värvus"
+
 msgid "Procurar servidores SSH"
 msgstr "SSH-serverite sirvimine"
 
@@ -276,6 +288,9 @@ msgid "Cuidado, este programa poderá apagar todos os dados do computador."
 msgstr ""
 "Ettevaatust, see programm võib kustutada kõik teie arvutis olevad andmed."
 
+msgid "Informações de armazenamento (SMART)"
+msgstr "Ladustamise teave (SMART)"
+
 msgid "Firewall"
 msgstr "Tulemüür"
 
@@ -303,6 +318,9 @@ msgid ""
 msgstr ""
 "Selle programmi abil saate juurdepääsu oma Apple iPhone'i või iPadi "
 "programmidele sarnaselt USB-mälupulgal olevate failide vaatamisega."
+
+msgid "Equalizador (DSP)"
+msgstr "Ekvalaiser (DSP)"
 
 msgid "Áreas de trabalho virtuais e atividades"
 msgstr "Virtuaalsed tööruumid ja tegevused"
@@ -341,6 +359,9 @@ msgstr ""
 
 msgid "Instalar, configurar ou remover impressoras."
 msgstr "Printerite paigaldamine, konfigureerimine või eemaldamine."
+
+msgid "Gerenciar serviços (Systemd)"
+msgstr "Teenuste haldamine (Systemd)"
 
 msgid "Configurar o tema Kvantum"
 msgstr "Kvantumi teema konfigureerimine"
@@ -391,6 +412,9 @@ msgstr "Terminal"
 msgid "Acesse o terminal de comandos."
 msgstr "Juurdepääs komandoterminalile."
 
+msgid "Gerenciador de senhas"
+msgstr "Salasõnahaldur"
+
 msgid "Som e microfone"
 msgstr "Heli ja mikrofon"
 
@@ -408,39 +432,6 @@ msgstr "KDE juhtimiskeskus"
 
 msgid "Configurador avançado de energia"
 msgstr "Täiustatud võimsuse konfiguraator"
-
-msgid "Informações de armazenamento (SMART)"
-msgstr "Ladustamise teave (SMART)"
-
-msgid "Gerenciar serviços (Systemd)"
-msgstr "Teenuste haldamine (Systemd)"
-
-msgid "Configurar o AppimageLauncher"
-msgstr "AppimageLauncher'i konfigureerimine"
-
-msgid "Escolher o comportamento dos programas disponibilizados em .appimage"
-msgstr "Valige .appimage'is saadaval olevate programmide käitumine"
-
-msgid "Controle o brilho e as cores"
-msgstr "Heleduse ja värvide reguleerimine"
-
-msgid "Brilho e cor"
-msgstr "Sära ja värvus"
-
-msgid "Equalizador (DSP)"
-msgstr "Ekvalaiser (DSP)"
-
-msgid "Gerenciador de senhas"
-msgstr "Salasõnahaldur"
-
-msgid "As configurações da tela foram resetadas."
-msgstr "Ekraani seaded on lähtestatud."
-
-msgid "Configurações da tela"
-msgstr "Ekraani seaded"
-
-msgid "Aguarde, criando arquivos de cache..."
-msgstr "Oodata, luues vahemälufaile..."
 
 msgid "Categorias"
 msgstr "Kategooriad"
@@ -699,6 +690,15 @@ msgstr ""
 "saab kasutada mis tahes nutitelefonis või arvutis, sealhulgas edastada faile "
 "otse ühest nutitelefonist teise.  Võite kasutada ka meie veebirakenduse "
 "haldurit, et muuta selle veebisaidi kasutamine lihtsaks."
+
+msgid "As configurações da tela foram resetadas."
+msgstr "Ekraani seaded on lähtestatud."
+
+msgid "Configurações da tela"
+msgstr "Ekraani seaded"
+
+msgid "Aguarde, criando arquivos de cache..."
+msgstr "Oodata, luues vahemälufaile..."
 
 msgid "Maximizado"
 msgstr "Maksimeeritud"

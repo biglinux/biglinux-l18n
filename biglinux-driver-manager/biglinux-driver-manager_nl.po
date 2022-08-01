@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: biglinux-driver-manager\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-07-23 19:21-0300\n"
+"POT-Creation-Date: 2022-08-01 06:12-0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -48,55 +48,6 @@ msgstr ""
 
 msgid "Desativado"
 msgstr "Uitgeschakeld"
-
-msgid "Informações de Hardware"
-msgstr "Hardware-informatie"
-
-msgid "Fechar"
-msgstr "Sluiten"
-
-msgid "Enviar para transfer.sh"
-msgstr "Stuur naar transfer.sh"
-
-msgid "Visualizar"
-msgstr "Bekijk"
-
-msgid "O relatório foi salvo no arquivo:"
-msgstr "Het rapport is in het archief opgeslagen:"
-
-msgid ""
-"Deseja visualizar o arquivo ou envia-lo ao site transfer.sh, para ter uma "
-"URL com os dados do seu computador de forma fácil de compartilhar?"
-msgstr ""
-"Wilt u het bestand bekijken of naar transfer.sh sturen, om een URL te hebben "
-"met de gegevens van uw computer op een gemakkelijke manier te delen?"
-
-msgid "Concluído, reinicie o computador para ativar a configuração do driver."
-msgstr ""
-"Zodra u klaar bent, herstart u uw computer om de driverconfiguratie te "
-"activeren."
-
-msgid "Driver"
-msgstr "Bestuurder"
-
-msgid "Ocorreu um erro e o driver não pode ser aplicado."
-msgstr ""
-"Er is een fout opgetreden en het stuurprogramma kan niet worden toegepast."
-
-msgid "Enviando, aguarde..."
-msgstr "Zenden, even geduld..."
-
-msgid ""
-"Digite sua senha para gerar um relatório removendo dados sensíveis, por "
-"exemplo, endereço de IP, ou cancele para utilizar as informações da tela "
-"anterior."
-msgstr ""
-"Voer uw wachtwoord in om een rapport te genereren waarin gevoelige gegevens, "
-"b.v. IP-adres, worden verwijderd, of annuleer om de informatie van het "
-"vorige scherm te gebruiken."
-
-msgid "Digite sua senha para gerar um relatório mais completo."
-msgstr "Voer uw wachtwoord in om een vollediger rapport te genereren."
 
 msgid "Categorias"
 msgstr "Categorieën"
@@ -161,6 +112,12 @@ msgstr "Zoeken"
 msgid "Resultado da pesquisa"
 msgstr "Zoekresultaat"
 
+msgid "Informações de Hardware"
+msgstr "Hardware-informatie"
+
+msgid "Fechar"
+msgstr "Sluiten"
+
 msgid "Abrir"
 msgstr "Open"
 
@@ -223,6 +180,22 @@ msgstr "ID"
 msgid "Info"
 msgstr "Info"
 
+msgid "Enviar para transfer.sh"
+msgstr "Stuur naar transfer.sh"
+
+msgid "Visualizar"
+msgstr "Bekijk"
+
+msgid "O relatório foi salvo no arquivo:"
+msgstr "Het rapport is in het archief opgeslagen:"
+
+msgid ""
+"Deseja visualizar o arquivo ou envia-lo ao site transfer.sh, para ter uma "
+"URL com os dados do seu computador de forma fácil de compartilhar?"
+msgstr ""
+"Wilt u het bestand bekijken of naar transfer.sh sturen, om een URL te hebben "
+"met de gegevens van uw computer op een gemakkelijke manier te delen?"
+
 msgid "Driver detectado:"
 msgstr "Gedetecteerd stuurprogramma:"
 
@@ -281,6 +254,18 @@ msgstr "Aanvragen - Even geduld a.u.b"
 msgid "Este pacote fornece arquivos compatíveis com este computador."
 msgstr "Dit pakket bevat bestanden die compatibel zijn met deze computer."
 
+msgid "Concluído, reinicie o computador para ativar a configuração do driver."
+msgstr ""
+"Zodra u klaar bent, herstart u uw computer om de driverconfiguratie te "
+"activeren."
+
+msgid "Driver"
+msgstr "Bestuurder"
+
+msgid "Ocorreu um erro e o driver não pode ser aplicado."
+msgstr ""
+"Er is een fout opgetreden en het stuurprogramma kan niet worden toegepast."
+
 msgid "Swap (Memória Virtual)"
 msgstr "Swap (virtueel geheugen)"
 
@@ -313,3 +298,18 @@ msgstr "Systeeminformatie"
 
 msgid "Repositórios"
 msgstr "Repositories"
+
+msgid ""
+"Digite sua senha para gerar um relatório removendo dados sensíveis, por "
+"exemplo, endereço de IP, ou cancele para utilizar as informações da tela "
+"anterior."
+msgstr ""
+"Voer uw wachtwoord in om een rapport te genereren waarin gevoelige gegevens, "
+"b.v. IP-adres, worden verwijderd, of annuleer om de informatie van het "
+"vorige scherm te gebruiken."
+
+msgid "Digite sua senha para gerar um relatório mais completo."
+msgstr "Voer uw wachtwoord in om een vollediger rapport te genereren."
+
+msgid "Enviando, aguarde..."
+msgstr "Zenden, even geduld..."

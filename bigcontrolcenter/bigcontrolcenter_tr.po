@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: bigcontrolcenter\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-07-23 19:21-0300\n"
+"POT-Creation-Date: 2022-08-01 06:12-0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -16,6 +16,12 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+
+msgid "Introdução ao BigLinux"
+msgstr "BigLinux'a Giriş"
+
+msgid "Central de Controle"
+msgstr "Kontrol Merkezi"
 
 msgid ""
 "A webcam já está sendo utilizada pelo programa: $WEBCAM_BUSY\n"
@@ -62,24 +68,6 @@ msgstr "Kapat"
 
 msgid "Hardinfo Relatory"
 msgstr "Hardinfo İlişkisi"
-
-msgid "Central de Controle"
-msgstr "Kontrol Merkezi"
-
-msgid "Introdução ao BigLinux"
-msgstr "BigLinux'a Giriş"
-
-msgid "Bom dia"
-msgstr "Günaydın"
-
-msgid "Boa tarde"
-msgstr "İyi günler"
-
-msgid "Boa noite"
-msgstr "İyi akşamlar"
-
-msgid "Aguarde, carregando..."
-msgstr "Beklemede kalın, yükleniyor..."
 
 msgid "Bem vindo ao BigLinux"
 msgstr "BigLinux'a Hoş Geldiniz"
@@ -197,6 +185,18 @@ msgstr "Facebook"
 msgid "Parabéns, você concluiu os primeiros passos para utilizar o BigLinux."
 msgstr "Tebrikler, BigLinux'u kullanmanın ilk adımlarını tamamladınız."
 
+msgid "Bom dia"
+msgstr "Günaydın"
+
+msgid "Boa tarde"
+msgstr "İyi günler"
+
+msgid "Boa noite"
+msgstr "İyi akşamlar"
+
+msgid "Aguarde, carregando..."
+msgstr "Beklemede kalın, yükleniyor..."
+
 msgid "Integração com Google Drive e ownCloud"
 msgstr "Google Drive ve ownCloud ile entegrasyon"
 
@@ -206,6 +206,12 @@ msgid ""
 msgstr ""
 "Google Drive veya ownCloud'da bulunan dosyalarınıza doğrudan dosya "
 "yöneticisinden erişin."
+
+msgid "Configurar o AppimageLauncher"
+msgstr "AppimageLauncher'ı Yapılandırma"
+
+msgid "Escolher o comportamento dos programas disponibilizados em .appimage"
+msgstr ".appimage içinde bulunan programların davranışını seçin"
 
 msgid "Qt Assistant"
 msgstr "Qt Asistan"
@@ -248,6 +254,12 @@ msgstr ""
 msgid "Temas do Bootsplash"
 msgstr "Bootsplash temaları"
 
+msgid "Controle o brilho e as cores"
+msgstr "Parlaklığı ve renkleri kontrol edin"
+
+msgid "Brilho e cor"
+msgstr "Parlaklık ve renk"
+
 msgid "Procurar servidores SSH"
 msgstr "SSH sunucularına göz atın"
 
@@ -274,6 +286,9 @@ msgstr "Bölümleme veya biçimlendirme"
 
 msgid "Cuidado, este programa poderá apagar todos os dados do computador."
 msgstr "Dikkat edin, bu program bilgisayarınızdaki tüm verileri silebilir."
+
+msgid "Informações de armazenamento (SMART)"
+msgstr "Depolama bilgileri (SMART)"
 
 msgid "Firewall"
 msgstr "Güvenlik Duvarı"
@@ -302,6 +317,9 @@ msgid ""
 msgstr ""
 "Bu program ile Apple iPhone veya iPad'inizdeki programlara USB bellekteki "
 "dosyalara erişmeye benzer bir şekilde erişebilirsiniz."
+
+msgid "Equalizador (DSP)"
+msgstr "Ekolayzer (DSP)"
 
 msgid "Áreas de trabalho virtuais e atividades"
 msgstr "Sanal çalışma alanları ve etkinlikler"
@@ -341,6 +359,9 @@ msgstr ""
 
 msgid "Instalar, configurar ou remover impressoras."
 msgstr "Yazıcıları kurun, yapılandırın veya kaldırın."
+
+msgid "Gerenciar serviços (Systemd)"
+msgstr "Hizmetleri yönetme (Systemd)"
 
 msgid "Configurar o tema Kvantum"
 msgstr "Kvantum temasını yapılandırma"
@@ -392,6 +413,9 @@ msgstr "Terminal"
 msgid "Acesse o terminal de comandos."
 msgstr "Komut terminaline erişin."
 
+msgid "Gerenciador de senhas"
+msgstr "Parola Yöneticisi"
+
 msgid "Som e microfone"
 msgstr "Ses ve mikrofon"
 
@@ -408,39 +432,6 @@ msgstr "KDE Kontrol Merkezi"
 
 msgid "Configurador avançado de energia"
 msgstr "Gelişmiş güç konfigüratörü"
-
-msgid "Informações de armazenamento (SMART)"
-msgstr "Depolama bilgileri (SMART)"
-
-msgid "Gerenciar serviços (Systemd)"
-msgstr "Hizmetleri yönetme (Systemd)"
-
-msgid "Configurar o AppimageLauncher"
-msgstr "AppimageLauncher'ı Yapılandırma"
-
-msgid "Escolher o comportamento dos programas disponibilizados em .appimage"
-msgstr ".appimage içinde bulunan programların davranışını seçin"
-
-msgid "Controle o brilho e as cores"
-msgstr "Parlaklığı ve renkleri kontrol edin"
-
-msgid "Brilho e cor"
-msgstr "Parlaklık ve renk"
-
-msgid "Equalizador (DSP)"
-msgstr "Ekolayzer (DSP)"
-
-msgid "Gerenciador de senhas"
-msgstr "Parola Yöneticisi"
-
-msgid "As configurações da tela foram resetadas."
-msgstr "Ekran ayarları sıfırlandı."
-
-msgid "Configurações da tela"
-msgstr "Ekran ayarları"
-
-msgid "Aguarde, criando arquivos de cache..."
-msgstr "Beklemede kalın, önbellek dosyaları oluşturuluyor."
 
 msgid "Categorias"
 msgstr "Kategoriler"
@@ -704,6 +695,15 @@ msgstr ""
 "telefondan diğerine aktarmak da dahil olmak üzere herhangi bir akıllı "
 "telefon veya bilgisayarda kullanılabilir.  Bu web sitesini kullanmayı "
 "kolaylaştırmak için web uygulama yöneticimizi de kullanabilirsiniz."
+
+msgid "As configurações da tela foram resetadas."
+msgstr "Ekran ayarları sıfırlandı."
+
+msgid "Configurações da tela"
+msgstr "Ekran ayarları"
+
+msgid "Aguarde, criando arquivos de cache..."
+msgstr "Beklemede kalın, önbellek dosyaları oluşturuluyor."
 
 msgid "Maximizado"
 msgstr "Maksimize Edilmiş"

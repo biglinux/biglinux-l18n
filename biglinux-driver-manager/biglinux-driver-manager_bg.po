@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: biglinux-driver-manager\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-07-23 19:21-0300\n"
+"POT-Creation-Date: 2022-08-01 06:12-0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -47,54 +47,6 @@ msgstr ""
 
 msgid "Desativado"
 msgstr "Инвалиди"
-
-msgid "Informações de Hardware"
-msgstr "Информация за хардуера"
-
-msgid "Fechar"
-msgstr "Затвори"
-
-msgid "Enviar para transfer.sh"
-msgstr "Изпращане на transfer.sh"
-
-msgid "Visualizar"
-msgstr "Вижте"
-
-msgid "O relatório foi salvo no arquivo:"
-msgstr "Отчетът е запазен в архива:"
-
-msgid ""
-"Deseja visualizar o arquivo ou envia-lo ao site transfer.sh, para ter uma "
-"URL com os dados do seu computador de forma fácil de compartilhar?"
-msgstr ""
-"Искате ли да прегледате файла или да го изпратите на transfer.sh, за да "
-"получите URL адрес с данните от вашия компютър по лесен начин за споделяне?"
-
-msgid "Concluído, reinicie o computador para ativar a configuração do driver."
-msgstr ""
-"След като приключите, рестартирайте компютъра, за да активирате "
-"конфигурацията на драйвера."
-
-msgid "Driver"
-msgstr "Шофьор"
-
-msgid "Ocorreu um erro e o driver não pode ser aplicado."
-msgstr "Възникнала е грешка и драйверът не може да бъде приложен."
-
-msgid "Enviando, aguarde..."
-msgstr "Изпращане, моля, изчакайте..."
-
-msgid ""
-"Digite sua senha para gerar um relatório removendo dados sensíveis, por "
-"exemplo, endereço de IP, ou cancele para utilizar as informações da tela "
-"anterior."
-msgstr ""
-"Въведете паролата си, за да генерирате отчет, в който са премахнати "
-"чувствителни данни, например IP адрес, или отменете, за да използвате "
-"информацията от предишния екран."
-
-msgid "Digite sua senha para gerar um relatório mais completo."
-msgstr "Въведете паролата си, за да генерирате по-пълен отчет."
 
 msgid "Categorias"
 msgstr "Категории"
@@ -159,6 +111,12 @@ msgstr "Търсене"
 msgid "Resultado da pesquisa"
 msgstr "Резултат от търсенето"
 
+msgid "Informações de Hardware"
+msgstr "Информация за хардуера"
+
+msgid "Fechar"
+msgstr "Затвори"
+
 msgid "Abrir"
 msgstr "Отворете"
 
@@ -221,6 +179,22 @@ msgstr "ID"
 msgid "Info"
 msgstr "Информация"
 
+msgid "Enviar para transfer.sh"
+msgstr "Изпращане на transfer.sh"
+
+msgid "Visualizar"
+msgstr "Вижте"
+
+msgid "O relatório foi salvo no arquivo:"
+msgstr "Отчетът е запазен в архива:"
+
+msgid ""
+"Deseja visualizar o arquivo ou envia-lo ao site transfer.sh, para ter uma "
+"URL com os dados do seu computador de forma fácil de compartilhar?"
+msgstr ""
+"Искате ли да прегледате файла или да го изпратите на transfer.sh, за да "
+"получите URL адрес с данните от вашия компютър по лесен начин за споделяне?"
+
 msgid "Driver detectado:"
 msgstr "Открит драйвер:"
 
@@ -279,6 +253,17 @@ msgstr "Кандидатстване - Моля, изчакайте"
 msgid "Este pacote fornece arquivos compatíveis com este computador."
 msgstr "Този пакет предоставя файлове, съвместими с този компютър."
 
+msgid "Concluído, reinicie o computador para ativar a configuração do driver."
+msgstr ""
+"След като приключите, рестартирайте компютъра, за да активирате "
+"конфигурацията на драйвера."
+
+msgid "Driver"
+msgstr "Шофьор"
+
+msgid "Ocorreu um erro e o driver não pode ser aplicado."
+msgstr "Възникнала е грешка и драйверът не може да бъде приложен."
+
 msgid "Swap (Memória Virtual)"
 msgstr "Подмяна (виртуална памет)"
 
@@ -311,3 +296,18 @@ msgstr "Информация за системата"
 
 msgid "Repositórios"
 msgstr "Хранилища"
+
+msgid ""
+"Digite sua senha para gerar um relatório removendo dados sensíveis, por "
+"exemplo, endereço de IP, ou cancele para utilizar as informações da tela "
+"anterior."
+msgstr ""
+"Въведете паролата си, за да генерирате отчет, в който са премахнати "
+"чувствителни данни, например IP адрес, или отменете, за да използвате "
+"информацията от предишния екран."
+
+msgid "Digite sua senha para gerar um relatório mais completo."
+msgstr "Въведете паролата си, за да генерирате по-пълен отчет."
+
+msgid "Enviando, aguarde..."
+msgstr "Изпращане, моля, изчакайте..."

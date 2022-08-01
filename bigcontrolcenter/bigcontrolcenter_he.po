@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: bigcontrolcenter\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-07-23 19:21-0300\n"
+"POT-Creation-Date: 2022-08-01 06:12-0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -16,6 +16,12 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+
+msgid "Introdução ao BigLinux"
+msgstr "מבוא ל- ביגלינוקס"
+
+msgid "Central de Controle"
+msgstr "מרכז הבקרה"
 
 msgid ""
 "A webcam já está sendo utilizada pelo programa: $WEBCAM_BUSY\n"
@@ -62,24 +68,6 @@ msgstr "סגור"
 
 msgid "Hardinfo Relatory"
 msgstr "דוח מידע"
-
-msgid "Central de Controle"
-msgstr "מרכז הבקרה"
-
-msgid "Introdução ao BigLinux"
-msgstr "מבוא ל- ביגלינוקס"
-
-msgid "Bom dia"
-msgstr "סלאם"
-
-msgid "Boa tarde"
-msgstr "אחר צהריים טובים"
-
-msgid "Boa noite"
-msgstr "לילה טוב"
-
-msgid "Aguarde, carregando..."
-msgstr "חכה, טוען..."
 
 msgid "Bem vindo ao BigLinux"
 msgstr "ברוכים הבאים ל BigLinux"
@@ -193,6 +181,18 @@ msgstr "פייסבוק"
 msgid "Parabéns, você concluiu os primeiros passos para utilizar o BigLinux."
 msgstr "מזל טוב, השלמת את הצעדים הראשונים לשימוש ב- BigLinux."
 
+msgid "Bom dia"
+msgstr "סלאם"
+
+msgid "Boa tarde"
+msgstr "אחר צהריים טובים"
+
+msgid "Boa noite"
+msgstr "לילה טוב"
+
+msgid "Aguarde, carregando..."
+msgstr "חכה, טוען..."
+
 msgid "Integração com Google Drive e ownCloud"
 msgstr "שילוב עם גוגל דרייב ו-OwnCloud"
 
@@ -201,6 +201,12 @@ msgid ""
 "gerenciador de arquivos."
 msgstr ""
 "גש לקבצים שלך שנמצאים ב- Google Drive או ב- ownCloud ישירות ממנהל הקבצים."
+
+msgid "Configurar o AppimageLauncher"
+msgstr "הגדר את אפליקציית ImageLauncher"
+
+msgid "Escolher o comportamento dos programas disponibilizados em .appimage"
+msgstr "בחר את אופן הפעולה של התוכניות הזמינות ב- .appimage"
 
 msgid "Qt Assistant"
 msgstr "עוזר Qt"
@@ -242,6 +248,12 @@ msgstr ""
 msgid "Temas do Bootsplash"
 msgstr "ערכות נושא של אתחול"
 
+msgid "Controle o brilho e as cores"
+msgstr "בקרת בהירות וצבעים"
+
+msgid "Brilho e cor"
+msgstr "בהירות וצבע"
+
 msgid "Procurar servidores SSH"
 msgstr "חיפוש שרתי SSH"
 
@@ -268,6 +280,9 @@ msgstr "מחיצה או פורמט"
 
 msgid "Cuidado, este programa poderá apagar todos os dados do computador."
 msgstr "היזהר, תוכנית זו עשויה למחוק את כל הנתונים מהמחשב שלך."
+
+msgid "Informações de armazenamento (SMART)"
+msgstr "מידע על אחסון (SMART)"
 
 msgid "Firewall"
 msgstr "חומת אש"
@@ -296,6 +311,9 @@ msgid ""
 msgstr ""
 "בעזרת תוכנית זו תוכלו לגשת לתוכניות באייפון או באייפד של אפל בצורה דומה "
 "לגישה לקבצים ב- pendrive."
+
+msgid "Equalizador (DSP)"
+msgstr "אקולייזר (DSP"
 
 msgid "Áreas de trabalho virtuais e atividades"
 msgstr "סביבות עבודה וירטואליות ופעילויות"
@@ -334,6 +352,9 @@ msgstr ""
 
 msgid "Instalar, configurar ou remover impressoras."
 msgstr "התקן, הגדר או הסר מדפסות."
+
+msgid "Gerenciar serviços (Systemd)"
+msgstr "ניהול שירותים (מערכת)"
 
 msgid "Configurar o tema Kvantum"
 msgstr "הגדר את ערכת הנושא של Kvantum"
@@ -381,6 +402,9 @@ msgstr "מסוף"
 msgid "Acesse o terminal de comandos."
 msgstr "עבור אל מסוף הפקודה."
 
+msgid "Gerenciador de senhas"
+msgstr "מנהל סיסמאות"
+
 msgid "Som e microfone"
 msgstr "קול ומיקרופון"
 
@@ -396,39 +420,6 @@ msgstr "מרכז הבקרה של KDE"
 
 msgid "Configurador avançado de energia"
 msgstr "קונפיגורטור כוח מתקדם"
-
-msgid "Informações de armazenamento (SMART)"
-msgstr "מידע על אחסון (SMART)"
-
-msgid "Gerenciar serviços (Systemd)"
-msgstr "ניהול שירותים (מערכת)"
-
-msgid "Configurar o AppimageLauncher"
-msgstr "הגדר את אפליקציית ImageLauncher"
-
-msgid "Escolher o comportamento dos programas disponibilizados em .appimage"
-msgstr "בחר את אופן הפעולה של התוכניות הזמינות ב- .appimage"
-
-msgid "Controle o brilho e as cores"
-msgstr "בקרת בהירות וצבעים"
-
-msgid "Brilho e cor"
-msgstr "בהירות וצבע"
-
-msgid "Equalizador (DSP)"
-msgstr "אקולייזר (DSP"
-
-msgid "Gerenciador de senhas"
-msgstr "מנהל סיסמאות"
-
-msgid "As configurações da tela foram resetadas."
-msgstr "הגדרות המסך אופסו."
-
-msgid "Configurações da tela"
-msgstr "הגדרות מסך"
-
-msgid "Aguarde, criando arquivos de cache..."
-msgstr "אנא המתן, יצירת קבצי מטמון..."
 
 msgid "Categorias"
 msgstr "קטגוריות"
@@ -677,6 +668,15 @@ msgstr ""
 "בלחצן זה כדי לפתוח את אתר Snapdrop במחשב זה. ניתן להשתמש ב- Snapdrop בכל "
 "טלפון חכם או מחשב, כולל העברת קבצים ישירות מסמארטפון אחד למשנהו. אתה יכול גם "
 "להשתמש במנהל אפליקציות האינטרנט שלנו כדי להקל על השימוש באתר זה."
+
+msgid "As configurações da tela foram resetadas."
+msgstr "הגדרות המסך אופסו."
+
+msgid "Configurações da tela"
+msgstr "הגדרות מסך"
+
+msgid "Aguarde, criando arquivos de cache..."
+msgstr "אנא המתן, יצירת קבצי מטמון..."
 
 msgid "Maximizado"
 msgstr "מוגדל"

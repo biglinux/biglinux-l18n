@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: bigcontrolcenter\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-07-23 19:21-0300\n"
+"POT-Creation-Date: 2022-08-01 06:12-0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -16,6 +16,12 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+
+msgid "Introdução ao BigLinux"
+msgstr "Kynning á BigLinux"
+
+msgid "Central de Controle"
+msgstr "Stjórnstöð"
 
 msgid ""
 "A webcam já está sendo utilizada pelo programa: $WEBCAM_BUSY\n"
@@ -62,24 +68,6 @@ msgstr "Loka"
 
 msgid "Hardinfo Relatory"
 msgstr "Hardinfo skýrsla"
-
-msgid "Central de Controle"
-msgstr "Stjórnstöð"
-
-msgid "Introdução ao BigLinux"
-msgstr "Kynning á BigLinux"
-
-msgid "Bom dia"
-msgstr "Salaam"
-
-msgid "Boa tarde"
-msgstr "Góðan daginn"
-
-msgid "Boa noite"
-msgstr "Góða nótt"
-
-msgid "Aguarde, carregando..."
-msgstr "Bíddu, hleðsla..."
 
 msgid "Bem vindo ao BigLinux"
 msgstr "Velkomin í BigLinux"
@@ -196,6 +184,18 @@ msgstr "Facebook"
 msgid "Parabéns, você concluiu os primeiros passos para utilizar o BigLinux."
 msgstr "Til hamingju, þú hefur lokið fyrstu skrefunum til að nota BigLinux."
 
+msgid "Bom dia"
+msgstr "Salaam"
+
+msgid "Boa tarde"
+msgstr "Góðan daginn"
+
+msgid "Boa noite"
+msgstr "Góða nótt"
+
+msgid "Aguarde, carregando..."
+msgstr "Bíddu, hleðsla..."
+
 msgid "Integração com Google Drive e ownCloud"
 msgstr "Samþætting við Google Drive og ownCloud"
 
@@ -205,6 +205,12 @@ msgid ""
 msgstr ""
 "Opnaðu skrárnar þínar sem eru í Google Drive eða ownCloud beint úr "
 "skráarstjóranum."
+
+msgid "Configurar o AppimageLauncher"
+msgstr "Stilla ImageLauncher forritið"
+
+msgid "Escolher o comportamento dos programas disponibilizados em .appimage"
+msgstr "Veldu hegðun forritanna sem eru í boði í.appimage"
 
 msgid "Qt Assistant"
 msgstr "Qt aðstoðarmaður"
@@ -248,6 +254,12 @@ msgstr ""
 msgid "Temas do Bootsplash"
 msgstr "Bootsplash þemu"
 
+msgid "Controle o brilho e as cores"
+msgstr "Stjórna birtustig og litum"
+
+msgid "Brilho e cor"
+msgstr "Birtustig og litur"
+
 msgid "Procurar servidores SSH"
 msgstr "Leitaðu að SSH netþjónum"
 
@@ -274,6 +286,9 @@ msgstr "Skipting eða snið"
 
 msgid "Cuidado, este programa poderá apagar todos os dados do computador."
 msgstr "Verið varkár, þetta forrit getur eytt öllum gögnum úr tölvunni þinni."
+
+msgid "Informações de armazenamento (SMART)"
+msgstr "Upplýsingar um geymslu (SMART)"
 
 msgid "Firewall"
 msgstr "Eldveggur"
@@ -302,6 +317,9 @@ msgid ""
 msgstr ""
 "Með þessu forriti geturðu fengið aðgang að forritunum á Apple iPhone eða "
 "iPad á svipaðan hátt og aðgangur að skrám á pendrive."
+
+msgid "Equalizador (DSP)"
+msgstr "Tónjafnari (DSP)"
 
 msgid "Áreas de trabalho virtuais e atividades"
 msgstr "Sýndarvinnusvæði og starfsemi"
@@ -341,6 +359,9 @@ msgstr ""
 
 msgid "Instalar, configurar ou remover impressoras."
 msgstr "Setja upp, stilla eða fjarlægja prentara."
+
+msgid "Gerenciar serviços (Systemd)"
+msgstr "Stjórna þjónustu (Systemd)"
 
 msgid "Configurar o tema Kvantum"
 msgstr "Setja upp Kvantum þema"
@@ -391,6 +412,9 @@ msgstr "Terminal"
 msgid "Acesse o terminal de comandos."
 msgstr "Farðu í stjórnstöðina."
 
+msgid "Gerenciador de senhas"
+msgstr "Lykilorð framkvæmdastjóri"
+
 msgid "Som e microfone"
 msgstr "Hljóð og hljóðnemi"
 
@@ -406,39 +430,6 @@ msgstr "KDE stjórnstöð"
 
 msgid "Configurador avançado de energia"
 msgstr "Háþróaður máttur stillingar"
-
-msgid "Informações de armazenamento (SMART)"
-msgstr "Upplýsingar um geymslu (SMART)"
-
-msgid "Gerenciar serviços (Systemd)"
-msgstr "Stjórna þjónustu (Systemd)"
-
-msgid "Configurar o AppimageLauncher"
-msgstr "Stilla ImageLauncher forritið"
-
-msgid "Escolher o comportamento dos programas disponibilizados em .appimage"
-msgstr "Veldu hegðun forritanna sem eru í boði í.appimage"
-
-msgid "Controle o brilho e as cores"
-msgstr "Stjórna birtustig og litum"
-
-msgid "Brilho e cor"
-msgstr "Birtustig og litur"
-
-msgid "Equalizador (DSP)"
-msgstr "Tónjafnari (DSP)"
-
-msgid "Gerenciador de senhas"
-msgstr "Lykilorð framkvæmdastjóri"
-
-msgid "As configurações da tela foram resetadas."
-msgstr "Stillingar skjásins hafa verið endurstilltar."
-
-msgid "Configurações da tela"
-msgstr "Skjástillingar"
-
-msgid "Aguarde, criando arquivos de cache..."
-msgstr "Vinsamlegast bíddu, búðu til skyndiminni skrár..."
 
 msgid "Categorias"
 msgstr "Flokkar"
@@ -698,6 +689,15 @@ msgstr ""
 "Snapdrop er hægt að nota á hvaða snjallsíma eða tölvu sem er, þar á meðal að "
 "flytja skrár beint frá einum snjallsíma til annars. Þú getur líka notað "
 "vefforritastjóra okkar til að auðvelda notkun þessarar síðu."
+
+msgid "As configurações da tela foram resetadas."
+msgstr "Stillingar skjásins hafa verið endurstilltar."
+
+msgid "Configurações da tela"
+msgstr "Skjástillingar"
+
+msgid "Aguarde, criando arquivos de cache..."
+msgstr "Vinsamlegast bíddu, búðu til skyndiminni skrár..."
 
 msgid "Maximizado"
 msgstr "Hámarkað"

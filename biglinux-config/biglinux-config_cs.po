@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: biglinux-config\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-07-23 19:21-0300\n"
+"POT-Creation-Date: 2022-08-01 06:12-0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -20,78 +20,12 @@ msgstr ""
 msgid "Restaurar Configurações"
 msgstr "Obnovení nastavení"
 
-msgid ""
-"Atenção! O programa está aberto!\\nEle será fechado para que a restauração "
-"tenha efeito."
-msgstr ""
-"Pozor! Program je otevřen! Bude uzavřen po dobu, kdy bude probíhat jeho "
-"obnova."
+#, fuzzy
+msgid "Pesquisar programa"
+msgstr "Obnovení vyhledávání"
 
-msgid "As configurações foram restauradas com sucesso!"
-msgstr "Nastavení bylo úspěšně obnoveno!"
-
-msgid ""
-"Você tem certeza que deseja restaurar todas as configurações do KDE/Plasma?"
-"\\nIsso apagará todas as configurações definidas por $USER!"
-msgstr ""
-"Jste si jisti, že chcete obnovit všechna nastavení KDE/Plasmy?\\nIsIsIsIs "
-"vymazat všechna nastavení nastavená $USER!"
-
-msgid ""
-"As configurações foram restauradas com sucesso!\\nÉ necessário fazer logoff/"
-"login para concluir a restauração!"
-msgstr ""
-"Nastavení bylo úspěšně obnoveno! Pro dokončení obnovy je nutné se odhlásit/"
-"zapnout!"
-
-msgid ""
-"Restaurar&nbsp;o&nbsp;programa&nbsp;como&nbsp;modo&nbsp;padrão&nbsp;ou&nbsp;"
-"distribuição&nbsp;BigLinux."
-msgstr "Obnovení programu ve standardním režimu nebo v distribuci BigLinux."
-
-msgid "Restaurar&nbsp;o&nbsp;programa&nbsp;como&nbsp;modo&nbsp;padrão."
-msgstr "Obnovení výchozího režimu programu."
-
-msgid ""
-"Músicas-(Clementine) clementine.sh Multimedia clementine.png clementine skel "
-"$COMMENT_skel"
-msgstr ""
-"Music-(Clementine) clementine.sh Multimedia clementine.png clementine skel "
-"$COMMENT_skel"
-
-msgid ""
-"Gravador-de-Tela-(vokoscreenNG) vokoscreen.sh Multimedia vokoscreen.png "
-"vokoscreenNG  $COMMENT_normal"
-msgstr ""
-"Screen Recorder-(vokoscreenNG) vokoscreen.sh Multimedia vokoscreen.png "
-"vokoscreenNG $COMMENT_normal"
-
-msgid ""
-"Vídeos-(Smplayer) smplayer.sh Multimedia smplayer.png smplayer skel "
-"$COMMENT_skel"
-msgstr ""
-"Videa-(Smplayer) smplayer.sh Multimédia smplayer.png smplayer skel "
-"$COMMENT_skel"
-
-msgid "Fechar"
-msgstr "Zavřít"
-
-msgid "Restaurar no modo padrão da distribuição"
-msgstr "Obnovení výchozího distribučního režimu"
-
-msgid "Essa opção restaura o programa com o padrão do BigLinux."
-msgstr "Tato volba obnoví výchozí nastavení programu BigLinux."
-
-msgid "Restaurar no modo padrão do programa"
-msgstr "Obnovení ve standardním režimu programu"
-
-msgid "Essa opção restaura o programa com o padrão do desenvolvedor."
-msgstr "Tato možnost obnoví výchozí nastavení programu pro vývojáře."
-
-msgid "Restaurar as configurações do programa:"
-msgstr "Obnovení nastavení programu:"
-
-msgid "Principal"
+#, fuzzy
+msgid "Principais"
 msgstr "Hlavní stránka"
 
 msgid "Internet"
@@ -109,5 +43,120 @@ msgstr "Kancelář"
 msgid "Sistema"
 msgstr "Systém"
 
-msgid "Pesquisar Restaurar"
-msgstr "Obnovení vyhledávání"
+#, fuzzy
+msgid "Restaurar o programa no modo da distribuição BigLinux."
+msgstr "Obnovení výchozího distribučního režimu"
+
+msgid "Em qual modo você deseja restaurar?"
+msgstr ""
+
+msgid "Restaurar no modo padrão da distribuição"
+msgstr "Obnovení výchozího distribučního režimu"
+
+msgid "Cancelar"
+msgstr ""
+
+#, fuzzy
+msgid "Restaurar o programa no modo padrão."
+msgstr "Obnovení ve standardním režimu programu"
+
+msgid "Restaurar no modo padrão do programa"
+msgstr "Obnovení ve standardním režimu programu"
+
+#, fuzzy
+msgid "Restaurar o programa no modo padrão ou distribuição BigLinux."
+msgstr "Obnovení výchozího distribučního režimu"
+
+msgid "Músicas"
+msgstr ""
+
+msgid "Gravador de Tela"
+msgstr ""
+
+msgid "Vídeos"
+msgstr ""
+
+msgid "Conversor de áudio e vídeo"
+msgstr ""
+
+msgid "As configurações foram restauradas com sucesso!"
+msgstr "Nastavení bylo úspěšně obnoveno!"
+
+msgid "OK"
+msgstr ""
+
+#, fuzzy
+msgid "As configurações do BigLinux KDE foram restauradas com sucesso!"
+msgstr "Nastavení bylo úspěšně obnoveno!"
+
+msgid "É necessário reinciar a sessão para concluir a restauração!"
+msgstr ""
+
+msgid "Atenção! O programa está em execução!"
+msgstr ""
+
+msgid "Será fechado para que a restauração seja concluída."
+msgstr ""
+
+#, fuzzy
+msgid ""
+"Você tem certeza que deseja restaurar todas as configurações do BigLinux KDE?"
+msgstr ""
+"Jste si jisti, že chcete obnovit všechna nastavení KDE/Plasmy?\\nIsIsIsIs "
+"vymazat všechna nastavení nastavená $USER!"
+
+#, fuzzy
+msgid "Isso apagará todas as configurações definidas por "
+msgstr "Obnovení nastavení programu:"
+
+#~ msgid ""
+#~ "Atenção! O programa está aberto!\\nEle será fechado para que a "
+#~ "restauração tenha efeito."
+#~ msgstr ""
+#~ "Pozor! Program je otevřen! Bude uzavřen po dobu, kdy bude probíhat jeho "
+#~ "obnova."
+
+#~ msgid ""
+#~ "As configurações foram restauradas com sucesso!\\nÉ necessário fazer "
+#~ "logoff/login para concluir a restauração!"
+#~ msgstr ""
+#~ "Nastavení bylo úspěšně obnoveno! Pro dokončení obnovy je nutné se "
+#~ "odhlásit/zapnout!"
+
+#~ msgid ""
+#~ "Restaurar&nbsp;o&nbsp;programa&nbsp;como&nbsp;modo&nbsp;padrão&nbsp;"
+#~ "ou&nbsp;distribuição&nbsp;BigLinux."
+#~ msgstr "Obnovení programu ve standardním režimu nebo v distribuci BigLinux."
+
+#~ msgid "Restaurar&nbsp;o&nbsp;programa&nbsp;como&nbsp;modo&nbsp;padrão."
+#~ msgstr "Obnovení výchozího režimu programu."
+
+#~ msgid ""
+#~ "Músicas-(Clementine) clementine.sh Multimedia clementine.png clementine "
+#~ "skel $COMMENT_skel"
+#~ msgstr ""
+#~ "Music-(Clementine) clementine.sh Multimedia clementine.png clementine "
+#~ "skel $COMMENT_skel"
+
+#~ msgid ""
+#~ "Gravador-de-Tela-(vokoscreenNG) vokoscreen.sh Multimedia vokoscreen.png "
+#~ "vokoscreenNG  $COMMENT_normal"
+#~ msgstr ""
+#~ "Screen Recorder-(vokoscreenNG) vokoscreen.sh Multimedia vokoscreen.png "
+#~ "vokoscreenNG $COMMENT_normal"
+
+#~ msgid ""
+#~ "Vídeos-(Smplayer) smplayer.sh Multimedia smplayer.png smplayer skel "
+#~ "$COMMENT_skel"
+#~ msgstr ""
+#~ "Videa-(Smplayer) smplayer.sh Multimédia smplayer.png smplayer skel "
+#~ "$COMMENT_skel"
+
+#~ msgid "Fechar"
+#~ msgstr "Zavřít"
+
+#~ msgid "Essa opção restaura o programa com o padrão do BigLinux."
+#~ msgstr "Tato volba obnoví výchozí nastavení programu BigLinux."
+
+#~ msgid "Essa opção restaura o programa com o padrão do desenvolvedor."
+#~ msgstr "Tato možnost obnoví výchozí nastavení programu pro vývojáře."

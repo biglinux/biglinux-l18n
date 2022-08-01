@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: biglinux-session-and-themes\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-07-23 19:21-0300\n"
+"POT-Creation-Date: 2022-08-01 06:12-0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -55,16 +55,10 @@ msgstr ""
 "na dokončenie konfigurácie\n"
 "použité."
 
-msgid "Desempenho em modo normal!"
-msgstr "Výkon v normálnom režime!"
+msgid "Aplicando, aguarde..."
+msgstr ""
 
-msgid "Desempenho em modo otimizado!"
-msgstr "Výkon v rozšírenom režime!"
-
-msgid "Desempenho em modo performance!"
-msgstr "Výkon v režime výkonu!"
-
-msgid "Aplicando, aguarde o termino."
+msgid "Concluído!"
 msgstr ""
 
 msgid "Temas"
@@ -203,6 +197,15 @@ msgid ""
 "Utilizando renderização por software, a qualidade das transparências está "
 "reduzida."
 msgstr "Pri softvérovom vykresľovaní sa znižuje kvalita priehľadov."
+
+msgid "Desempenho em modo normal!"
+msgstr "Výkon v normálnom režime!"
+
+msgid "Desempenho em modo otimizado!"
+msgstr "Výkon v rozšírenom režime!"
+
+msgid "Desempenho em modo performance!"
+msgstr "Výkon v režime výkonu!"
 
 #~ msgid "<b>Classic</b> e <b>New</b> têm melhor desempenho."
 #~ msgstr "<b>Klasické</b> a <b>nové</b> majú lepší výkon."

@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: biglinux-noise-reduction-pipewire\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-07-23 19:21-0300\n"
+"POT-Creation-Date: 2022-08-01 06:12-0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -31,6 +31,25 @@ msgstr "Mikrofonisuodatin"
 
 msgid "Ativando"
 msgstr "Aktivointi"
+
+msgid ""
+"Este filtro utiliza técnicas de redes neurais para remover ruídos e sons do "
+"ambiente que atrapalham gravações e chamadas online."
+msgstr ""
+"Tämä suodatin käyttää neuroverkkotekniikoita poistaakseen ympäristömelun ja "
+"äänet, jotka häiritsevät verkkotallenteita ja puheluita."
+
+msgid "Gerenciador de Áudio"
+msgstr "Audio Manager"
+
+msgid "Frequências sonoras:"
+msgstr "Äänitaajuudet:"
+
+msgid "Filtro de ruído"
+msgstr "Kohinasuodatin"
+
+msgid "Iniciar automaticamente"
+msgstr "Käynnistyy automaattisesti"
 
 msgid "Configuração aplicada"
 msgstr "Sovellettu konfiguraatio"
@@ -60,22 +79,3 @@ msgstr ""
 
 msgid "Cancelado, nenhuma configuração foi removida!"
 msgstr "Peruttu, mitään kokoonpanoa ei ole poistettu!"
-
-msgid ""
-"Este filtro utiliza técnicas de redes neurais para remover ruídos e sons do "
-"ambiente que atrapalham gravações e chamadas online."
-msgstr ""
-"Tämä suodatin käyttää neuroverkkotekniikoita poistaakseen ympäristömelun ja "
-"äänet, jotka häiritsevät verkkotallenteita ja puheluita."
-
-msgid "Gerenciador de Áudio"
-msgstr "Audio Manager"
-
-msgid "Frequências sonoras:"
-msgstr "Äänitaajuudet:"
-
-msgid "Filtro de ruído"
-msgstr "Kohinasuodatin"
-
-msgid "Iniciar automaticamente"
-msgstr "Käynnistyy automaattisesti"

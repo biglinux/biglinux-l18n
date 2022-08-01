@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: biglinux-noise-reduction-pipewire\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-07-23 19:21-0300\n"
+"POT-Creation-Date: 2022-08-01 06:12-0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -31,6 +31,26 @@ msgstr "Filtre de microphone"
 
 msgid "Ativando"
 msgstr "Activation"
+
+msgid ""
+"Este filtro utiliza técnicas de redes neurais para remover ruídos e sons do "
+"ambiente que atrapalham gravações e chamadas online."
+msgstr ""
+"Ce filtre utilise des techniques de réseau neuronal pour supprimer les "
+"bruits ambiants et les sons qui perturbent les enregistrements et les appels "
+"en ligne."
+
+msgid "Gerenciador de Áudio"
+msgstr "Responsable audio"
+
+msgid "Frequências sonoras:"
+msgstr "Fréquences sonores :"
+
+msgid "Filtro de ruído"
+msgstr "Filtre à bruit"
+
+msgid "Iniciar automaticamente"
+msgstr "Démarrage automatique"
 
 msgid "Configuração aplicada"
 msgstr "Configuration appliquée"
@@ -61,23 +81,3 @@ msgstr ""
 
 msgid "Cancelado, nenhuma configuração foi removida!"
 msgstr "Annulé, aucun paramètre n'a été supprimé !"
-
-msgid ""
-"Este filtro utiliza técnicas de redes neurais para remover ruídos e sons do "
-"ambiente que atrapalham gravações e chamadas online."
-msgstr ""
-"Ce filtre utilise des techniques de réseau neuronal pour supprimer les "
-"bruits ambiants et les sons qui perturbent les enregistrements et les appels "
-"en ligne."
-
-msgid "Gerenciador de Áudio"
-msgstr "Responsable audio"
-
-msgid "Frequências sonoras:"
-msgstr "Fréquences sonores :"
-
-msgid "Filtro de ruído"
-msgstr "Filtre à bruit"
-
-msgid "Iniciar automaticamente"
-msgstr "Démarrage automatique"

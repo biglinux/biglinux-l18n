@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: biglinux-driver-manager\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-07-23 19:21-0300\n"
+"POT-Creation-Date: 2022-08-01 06:12-0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -47,54 +47,6 @@ msgstr ""
 
 msgid "Desativado"
 msgstr "Engelli"
-
-msgid "Informações de Hardware"
-msgstr "Donanım Bilgileri"
-
-msgid "Fechar"
-msgstr "Kapat"
-
-msgid "Enviar para transfer.sh"
-msgstr "Transfer.sh dosyasına gönder"
-
-msgid "Visualizar"
-msgstr "Görünüm"
-
-msgid "O relatório foi salvo no arquivo:"
-msgstr "Rapor arşive kaydedildi:"
-
-msgid ""
-"Deseja visualizar o arquivo ou envia-lo ao site transfer.sh, para ter uma "
-"URL com os dados do seu computador de forma fácil de compartilhar?"
-msgstr ""
-"Dosyayı görüntülemek mi yoksa bilgisayarınızdaki verileri kolay bir şekilde "
-"paylaşmak için bir URL'ye sahip olmak için transfer.sh'ye göndermek mi "
-"istiyorsunuz?"
-
-msgid "Concluído, reinicie o computador para ativar a configuração do driver."
-msgstr ""
-"Tamamlandığında, sürücü yapılandırmasını etkinleştirmek için bilgisayarınızı "
-"yeniden başlatın."
-
-msgid "Driver"
-msgstr "Sürücü"
-
-msgid "Ocorreu um erro e o driver não pode ser aplicado."
-msgstr "Bir hata oluştu ve sürücü uygulanamıyor."
-
-msgid "Enviando, aguarde..."
-msgstr "Gönderiliyor, lütfen bekleyin..."
-
-msgid ""
-"Digite sua senha para gerar um relatório removendo dados sensíveis, por "
-"exemplo, endereço de IP, ou cancele para utilizar as informações da tela "
-"anterior."
-msgstr ""
-"IP adresi gibi hassas verileri kaldıran bir rapor oluşturmak için şifrenizi "
-"girin veya önceki ekrandaki bilgileri kullanmak için iptal edin."
-
-msgid "Digite sua senha para gerar um relatório mais completo."
-msgstr "Daha eksiksiz bir rapor oluşturmak için şifrenizi girin."
 
 msgid "Categorias"
 msgstr "Kategoriler"
@@ -159,6 +111,12 @@ msgstr "Arama"
 msgid "Resultado da pesquisa"
 msgstr "Arama sonucu"
 
+msgid "Informações de Hardware"
+msgstr "Donanım Bilgileri"
+
+msgid "Fechar"
+msgstr "Kapat"
+
 msgid "Abrir"
 msgstr "Açık"
 
@@ -220,6 +178,23 @@ msgstr "KIMLIK"
 msgid "Info"
 msgstr "Bilgi"
 
+msgid "Enviar para transfer.sh"
+msgstr "Transfer.sh dosyasına gönder"
+
+msgid "Visualizar"
+msgstr "Görünüm"
+
+msgid "O relatório foi salvo no arquivo:"
+msgstr "Rapor arşive kaydedildi:"
+
+msgid ""
+"Deseja visualizar o arquivo ou envia-lo ao site transfer.sh, para ter uma "
+"URL com os dados do seu computador de forma fácil de compartilhar?"
+msgstr ""
+"Dosyayı görüntülemek mi yoksa bilgisayarınızdaki verileri kolay bir şekilde "
+"paylaşmak için bir URL'ye sahip olmak için transfer.sh'ye göndermek mi "
+"istiyorsunuz?"
+
 msgid "Driver detectado:"
 msgstr "Sürücü tespit edildi:"
 
@@ -278,6 +253,17 @@ msgstr "Başvuru - Lütfen bekleyin"
 msgid "Este pacote fornece arquivos compatíveis com este computador."
 msgstr "Bu paket, bu bilgisayarla uyumlu dosyalar sağlar."
 
+msgid "Concluído, reinicie o computador para ativar a configuração do driver."
+msgstr ""
+"Tamamlandığında, sürücü yapılandırmasını etkinleştirmek için bilgisayarınızı "
+"yeniden başlatın."
+
+msgid "Driver"
+msgstr "Sürücü"
+
+msgid "Ocorreu um erro e o driver não pode ser aplicado."
+msgstr "Bir hata oluştu ve sürücü uygulanamıyor."
+
 msgid "Swap (Memória Virtual)"
 msgstr "Swap (Sanal Bellek)"
 
@@ -310,3 +296,17 @@ msgstr "Sistem Bilgileri"
 
 msgid "Repositórios"
 msgstr "Depolar"
+
+msgid ""
+"Digite sua senha para gerar um relatório removendo dados sensíveis, por "
+"exemplo, endereço de IP, ou cancele para utilizar as informações da tela "
+"anterior."
+msgstr ""
+"IP adresi gibi hassas verileri kaldıran bir rapor oluşturmak için şifrenizi "
+"girin veya önceki ekrandaki bilgileri kullanmak için iptal edin."
+
+msgid "Digite sua senha para gerar um relatório mais completo."
+msgstr "Daha eksiksiz bir rapor oluşturmak için şifrenizi girin."
+
+msgid "Enviando, aguarde..."
+msgstr "Gönderiliyor, lütfen bekleyin..."

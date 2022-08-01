@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: biglinux-session-and-themes\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-07-23 19:21-0300\n"
+"POT-Creation-Date: 2022-08-01 06:12-0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -54,16 +54,10 @@ msgstr ""
 "以使配置完成\n"
 "适用。"
 
-msgid "Desempenho em modo normal!"
-msgstr "正常模式下的表现!"
+msgid "Aplicando, aguarde..."
+msgstr ""
 
-msgid "Desempenho em modo otimizado!"
-msgstr "增强模式下的性能!"
-
-msgid "Desempenho em modo performance!"
-msgstr "性能模式下的表现!"
-
-msgid "Aplicando, aguarde o termino."
+msgid "Concluído!"
 msgstr ""
 
 msgid "Temas"
@@ -195,6 +189,15 @@ msgid ""
 "Utilizando renderização por software, a qualidade das transparências está "
 "reduzida."
 msgstr "使用软件渲染，透明胶片的质量会降低。"
+
+msgid "Desempenho em modo normal!"
+msgstr "正常模式下的表现!"
+
+msgid "Desempenho em modo otimizado!"
+msgstr "增强模式下的性能!"
+
+msgid "Desempenho em modo performance!"
+msgstr "性能模式下的表现!"
 
 #~ msgid "<b>Classic</b> e <b>New</b> têm melhor desempenho."
 #~ msgstr "<b>经典</b>和<b>新版</b>有更好的性能。"

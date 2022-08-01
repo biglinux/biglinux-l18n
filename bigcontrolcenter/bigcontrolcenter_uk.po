@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: bigcontrolcenter\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-07-23 19:21-0300\n"
+"POT-Creation-Date: 2022-08-01 06:12-0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -16,6 +16,12 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+
+msgid "Introdução ao BigLinux"
+msgstr "Знайомство з BigLinux"
+
+msgid "Central de Controle"
+msgstr "Центр управління"
 
 msgid ""
 "A webcam já está sendo utilizada pelo programa: $WEBCAM_BUSY\n"
@@ -57,24 +63,6 @@ msgstr " Закрити"
 
 msgid "Hardinfo Relatory"
 msgstr "Звіт Hardinfo"
-
-msgid "Central de Controle"
-msgstr "Центр управління"
-
-msgid "Introdução ao BigLinux"
-msgstr "Знайомство з BigLinux"
-
-msgid "Bom dia"
-msgstr "Доброго ранку"
-
-msgid "Boa tarde"
-msgstr "Доброго дня"
-
-msgid "Boa noite"
-msgstr "Надобраніч"
-
-msgid "Aguarde, carregando..."
-msgstr "Зачекайте, завантаження..."
 
 msgid "Bem vindo ao BigLinux"
 msgstr "Ласкаво просимо до BigLinux"
@@ -195,6 +183,18 @@ msgstr "Facebook"
 msgid "Parabéns, você concluiu os primeiros passos para utilizar o BigLinux."
 msgstr "Вітаємо, ви зробили перші кроки щодо використання BigLinux."
 
+msgid "Bom dia"
+msgstr "Доброго ранку"
+
+msgid "Boa tarde"
+msgstr "Доброго дня"
+
+msgid "Boa noite"
+msgstr "Надобраніч"
+
+msgid "Aguarde, carregando..."
+msgstr "Зачекайте, завантаження..."
+
 msgid "Integração com Google Drive e ownCloud"
 msgstr "Інтеграція з Google Drive та ownCloud"
 
@@ -204,6 +204,12 @@ msgid ""
 msgstr ""
 "Отримуйте доступ до файлів, які знаходяться на Google Drive або ownCloud, "
 "безпосередньо в менеджері файлів."
+
+msgid "Configurar o AppimageLauncher"
+msgstr "Налаштування програми ImageLauncher"
+
+msgid "Escolher o comportamento dos programas disponibilizados em .appimage"
+msgstr "Виберіть поведінку програм, доступних у .appimage"
 
 msgid "Qt Assistant"
 msgstr "Помічник Qt"
@@ -244,6 +250,12 @@ msgstr ""
 msgid "Temas do Bootsplash"
 msgstr "Теми Bootsplash"
 
+msgid "Controle o brilho e as cores"
+msgstr "Керування яскравістю і кольорами"
+
+msgid "Brilho e cor"
+msgstr "Яскравість і колір"
+
 msgid "Procurar servidores SSH"
 msgstr "Перегляд серверів SSH"
 
@@ -270,6 +282,9 @@ msgstr "розділ або формат"
 
 msgid "Cuidado, este programa poderá apagar todos os dados do computador."
 msgstr "Будьте обережні, ця програма може стерти всі дані з вашого комп’ютера."
+
+msgid "Informações de armazenamento (SMART)"
+msgstr "Інформація про зберігання (SMART)"
 
 msgid "Firewall"
 msgstr "брандмауер"
@@ -298,6 +313,9 @@ msgid ""
 msgstr ""
 "За допомогою цієї програми ви можете отримати доступ до програм на вашому "
 "Apple iPhone або iPad так само, як і файли на USB-накопичувачі."
+
+msgid "Equalizador (DSP)"
+msgstr "Еквалайзер (DSP)"
 
 msgid "Áreas de trabalho virtuais e atividades"
 msgstr "Віртуальні робочі простори та заходи"
@@ -337,6 +355,9 @@ msgstr ""
 
 msgid "Instalar, configurar ou remover impressoras."
 msgstr "Встановіть, налаштуйте або видаліть принтери."
+
+msgid "Gerenciar serviços (Systemd)"
+msgstr "Керування службами (Systemd)"
 
 msgid "Configurar o tema Kvantum"
 msgstr "Налаштуйте тему Kvantum"
@@ -387,6 +408,9 @@ msgstr "термінал"
 msgid "Acesse o terminal de comandos."
 msgstr "Доступ до командного терміналу."
 
+msgid "Gerenciador de senhas"
+msgstr "Менеджер паролів"
+
 msgid "Som e microfone"
 msgstr "звук і мікрофон"
 
@@ -404,39 +428,6 @@ msgstr "Центр керування KDE"
 
 msgid "Configurador avançado de energia"
 msgstr "Розширений конфігуратор живлення"
-
-msgid "Informações de armazenamento (SMART)"
-msgstr "Інформація про зберігання (SMART)"
-
-msgid "Gerenciar serviços (Systemd)"
-msgstr "Керування службами (Systemd)"
-
-msgid "Configurar o AppimageLauncher"
-msgstr "Налаштування програми ImageLauncher"
-
-msgid "Escolher o comportamento dos programas disponibilizados em .appimage"
-msgstr "Виберіть поведінку програм, доступних у .appimage"
-
-msgid "Controle o brilho e as cores"
-msgstr "Керування яскравістю і кольорами"
-
-msgid "Brilho e cor"
-msgstr "Яскравість і колір"
-
-msgid "Equalizador (DSP)"
-msgstr "Еквалайзер (DSP)"
-
-msgid "Gerenciador de senhas"
-msgstr "Менеджер паролів"
-
-msgid "As configurações da tela foram resetadas."
-msgstr "Налаштування екрану скинуті."
-
-msgid "Configurações da tela"
-msgstr "налаштування екрана"
-
-msgid "Aguarde, criando arquivos de cache..."
-msgstr "Будь ласка, зачекайте, створюючи файли кешу..."
 
 msgid "Categorias"
 msgstr "Категорії"
@@ -697,6 +688,15 @@ msgstr ""
 "смартфоні або комп'ютері, включаючи передачу файлів безпосередньо з одного "
 "смартфона на інший. Ви також можете скористатися нашим менеджером веб-"
 "додатків для полегшення використання цього сайту."
+
+msgid "As configurações da tela foram resetadas."
+msgstr "Налаштування екрану скинуті."
+
+msgid "Configurações da tela"
+msgstr "налаштування екрана"
+
+msgid "Aguarde, criando arquivos de cache..."
+msgstr "Будь ласка, зачекайте, створюючи файли кешу..."
 
 msgid "Maximizado"
 msgstr "Максимізований"

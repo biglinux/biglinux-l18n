@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: bigcontrolcenter\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-07-23 19:21-0300\n"
+"POT-Creation-Date: 2022-08-01 06:12-0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -16,6 +16,12 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+
+msgid "Introdução ao BigLinux"
+msgstr "Úvod do systému BigLinux"
+
+msgid "Central de Controle"
+msgstr "Řídicí centrum"
 
 msgid ""
 "A webcam já está sendo utilizada pelo programa: $WEBCAM_BUSY\n"
@@ -62,24 +68,6 @@ msgstr "Zavřít"
 
 msgid "Hardinfo Relatory"
 msgstr "Hardinfo Relatory"
-
-msgid "Central de Controle"
-msgstr "Řídicí centrum"
-
-msgid "Introdução ao BigLinux"
-msgstr "Úvod do systému BigLinux"
-
-msgid "Bom dia"
-msgstr "Dobré ráno"
-
-msgid "Boa tarde"
-msgstr "Dobré odpoledne"
-
-msgid "Boa noite"
-msgstr "Dobrý večer"
-
-msgid "Aguarde, carregando..."
-msgstr "Připravte se, načítání..."
 
 msgid "Bem vindo ao BigLinux"
 msgstr "Vítejte v systému BigLinux"
@@ -196,6 +184,18 @@ msgstr "Facebook"
 msgid "Parabéns, você concluiu os primeiros passos para utilizar o BigLinux."
 msgstr "Gratulujeme, dokončili jste první kroky k používání systému BigLinux."
 
+msgid "Bom dia"
+msgstr "Dobré ráno"
+
+msgid "Boa tarde"
+msgstr "Dobré odpoledne"
+
+msgid "Boa noite"
+msgstr "Dobrý večer"
+
+msgid "Aguarde, carregando..."
+msgstr "Připravte se, načítání..."
+
 msgid "Integração com Google Drive e ownCloud"
 msgstr "Integrace s Google Drive a ownCloud"
 
@@ -205,6 +205,12 @@ msgid ""
 msgstr ""
 "Přístup k souborům uloženým na Disku Google nebo ownCloudu můžete získat "
 "přímo ze správce souborů."
+
+msgid "Configurar o AppimageLauncher"
+msgstr "Konfigurace nástroje AppimageLauncher"
+
+msgid "Escolher o comportamento dos programas disponibilizados em .appimage"
+msgstr "Zvolte chování programů dostupných v souboru .appimage"
 
 msgid "Qt Assistant"
 msgstr "Qt Assistant"
@@ -246,6 +252,12 @@ msgstr ""
 msgid "Temas do Bootsplash"
 msgstr "Témata Bootsplash"
 
+msgid "Controle o brilho e as cores"
+msgstr "Ovládání jasu a barev"
+
+msgid "Brilho e cor"
+msgstr "Lesk a barva"
+
 msgid "Procurar servidores SSH"
 msgstr "Procházení serverů SSH"
 
@@ -272,6 +284,9 @@ msgstr "Rozdělení nebo formátování"
 
 msgid "Cuidado, este programa poderá apagar todos os dados do computador."
 msgstr "Pozor, tento program může vymazat všechna data v počítači."
+
+msgid "Informações de armazenamento (SMART)"
+msgstr "Informace o skladování (SMART)"
 
 msgid "Firewall"
 msgstr "Brána firewall"
@@ -300,6 +315,9 @@ msgid ""
 msgstr ""
 "Pomocí tohoto programu můžete přistupovat k programům v zařízení Apple "
 "iPhone nebo iPad podobně jako k souborům na USB flash disku."
+
+msgid "Equalizador (DSP)"
+msgstr "Ekvalizér (DSP)"
 
 msgid "Áreas de trabalho virtuais e atividades"
 msgstr "Virtuální pracovní prostory a aktivity"
@@ -338,6 +356,9 @@ msgstr ""
 
 msgid "Instalar, configurar ou remover impressoras."
 msgstr "Instalace, konfigurace nebo odebrání tiskáren."
+
+msgid "Gerenciar serviços (Systemd)"
+msgstr "Správa služeb (Systemd)"
 
 msgid "Configurar o tema Kvantum"
 msgstr "Konfigurace tématu Kvantum"
@@ -388,6 +409,9 @@ msgstr "Terminál"
 msgid "Acesse o terminal de comandos."
 msgstr "Přístup k příkazovému terminálu."
 
+msgid "Gerenciador de senhas"
+msgstr "Správce hesel"
+
 msgid "Som e microfone"
 msgstr "Zvuk a mikrofon"
 
@@ -405,39 +429,6 @@ msgstr "Ovládací centrum KDE"
 
 msgid "Configurador avançado de energia"
 msgstr "Pokročilý konfigurátor napájení"
-
-msgid "Informações de armazenamento (SMART)"
-msgstr "Informace o skladování (SMART)"
-
-msgid "Gerenciar serviços (Systemd)"
-msgstr "Správa služeb (Systemd)"
-
-msgid "Configurar o AppimageLauncher"
-msgstr "Konfigurace nástroje AppimageLauncher"
-
-msgid "Escolher o comportamento dos programas disponibilizados em .appimage"
-msgstr "Zvolte chování programů dostupných v souboru .appimage"
-
-msgid "Controle o brilho e as cores"
-msgstr "Ovládání jasu a barev"
-
-msgid "Brilho e cor"
-msgstr "Lesk a barva"
-
-msgid "Equalizador (DSP)"
-msgstr "Ekvalizér (DSP)"
-
-msgid "Gerenciador de senhas"
-msgstr "Správce hesel"
-
-msgid "As configurações da tela foram resetadas."
-msgstr "Nastavení obrazovky bylo resetováno."
-
-msgid "Configurações da tela"
-msgstr "Nastavení obrazovky"
-
-msgid "Aguarde, criando arquivos de cache..."
-msgstr "Připravte se na vytváření souborů mezipaměti..."
 
 msgid "Categorias"
 msgstr "Kategorie"
@@ -702,6 +693,15 @@ msgstr ""
 "počítači, včetně přenosu souborů přímo z jednoho smartphonu do druhého.  "
 "Můžete také použít našeho správce webových aplikací, který vám usnadní "
 "používání těchto webových stránek."
+
+msgid "As configurações da tela foram resetadas."
+msgstr "Nastavení obrazovky bylo resetováno."
+
+msgid "Configurações da tela"
+msgstr "Nastavení obrazovky"
+
+msgid "Aguarde, criando arquivos de cache..."
+msgstr "Připravte se na vytváření souborů mezipaměti..."
 
 msgid "Maximizado"
 msgstr "Maximalizováno"

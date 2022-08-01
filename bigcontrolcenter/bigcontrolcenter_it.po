@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: bigcontrolcenter\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-07-23 19:21-0300\n"
+"POT-Creation-Date: 2022-08-01 06:12-0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -16,6 +16,12 @@ msgstr ""
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
+
+msgid "Introdução ao BigLinux"
+msgstr "Introduzione a BigLinux"
+
+msgid "Central de Controle"
+msgstr "Centro di controllo"
 
 msgid ""
 "A webcam já está sendo utilizada pelo programa: $WEBCAM_BUSY\n"
@@ -62,24 +68,6 @@ msgstr "Chiudere"
 
 msgid "Hardinfo Relatory"
 msgstr "Relativo a Hardinfo"
-
-msgid "Central de Controle"
-msgstr "Centro di controllo"
-
-msgid "Introdução ao BigLinux"
-msgstr "Introduzione a BigLinux"
-
-msgid "Bom dia"
-msgstr "Buongiorno"
-
-msgid "Boa tarde"
-msgstr "Buon pomeriggio"
-
-msgid "Boa noite"
-msgstr "Buona sera"
-
-msgid "Aguarde, carregando..."
-msgstr "Attendere il caricamento..."
 
 msgid "Bem vindo ao BigLinux"
 msgstr "Benvenuto a BigLinux"
@@ -198,6 +186,18 @@ msgstr "Facebook"
 msgid "Parabéns, você concluiu os primeiros passos para utilizar o BigLinux."
 msgstr "Congratulazioni, ha completato i primi passi per utilizzare BigLinux."
 
+msgid "Bom dia"
+msgstr "Buongiorno"
+
+msgid "Boa tarde"
+msgstr "Buon pomeriggio"
+
+msgid "Boa noite"
+msgstr "Buona sera"
+
+msgid "Aguarde, carregando..."
+msgstr "Attendere il caricamento..."
+
 msgid "Integração com Google Drive e ownCloud"
 msgstr "Integrazione con Google Drive e ownCloud"
 
@@ -207,6 +207,12 @@ msgid ""
 msgstr ""
 "Acceda ai suoi file presenti in Google Drive o ownCloud direttamente dal "
 "file manager."
+
+msgid "Configurar o AppimageLauncher"
+msgstr "Configurazione di AppimageLauncher"
+
+msgid "Escolher o comportamento dos programas disponibilizados em .appimage"
+msgstr "Scelga il comportamento dei programmi disponibili in .appimage"
 
 msgid "Qt Assistant"
 msgstr "Assistente Qt"
@@ -250,6 +256,12 @@ msgstr ""
 msgid "Temas do Bootsplash"
 msgstr "Temi Bootsplash"
 
+msgid "Controle o brilho e as cores"
+msgstr "Controlla la luminosità e i colori"
+
+msgid "Brilho e cor"
+msgstr "Lucentezza e colore"
+
 msgid "Procurar servidores SSH"
 msgstr "Sfogliare i server SSH"
 
@@ -279,6 +291,9 @@ msgstr ""
 "Attenzione, questo programma può cancellare tutti i dati presenti sul suo "
 "computer."
 
+msgid "Informações de armazenamento (SMART)"
+msgstr "Informazioni sulla conservazione (SMART)"
+
 msgid "Firewall"
 msgstr "Firewall"
 
@@ -306,6 +321,9 @@ msgid ""
 msgstr ""
 "Con questo programma può accedere ai programmi del suo Apple iPhone o iPad "
 "in modo simile all'accesso ai file su una chiavetta USB."
+
+msgid "Equalizador (DSP)"
+msgstr "Equalizzatore (DSP)"
 
 msgid "Áreas de trabalho virtuais e atividades"
 msgstr "Spazi di lavoro e attività virtuali"
@@ -346,6 +364,9 @@ msgstr ""
 
 msgid "Instalar, configurar ou remover impressoras."
 msgstr "Installare, configurare o rimuovere le stampanti."
+
+msgid "Gerenciar serviços (Systemd)"
+msgstr "Gestire i servizi (Systemd)"
 
 msgid "Configurar o tema Kvantum"
 msgstr "Configurare il tema Kvantum"
@@ -396,6 +417,9 @@ msgstr "Terminale"
 msgid "Acesse o terminal de comandos."
 msgstr "Acceda al terminale di comando."
 
+msgid "Gerenciador de senhas"
+msgstr "Gestore di password"
+
 msgid "Som e microfone"
 msgstr "Suono e microfono"
 
@@ -412,39 +436,6 @@ msgstr "Centro di controllo KDE"
 
 msgid "Configurador avançado de energia"
 msgstr "Configuratore di potenza avanzato"
-
-msgid "Informações de armazenamento (SMART)"
-msgstr "Informazioni sulla conservazione (SMART)"
-
-msgid "Gerenciar serviços (Systemd)"
-msgstr "Gestire i servizi (Systemd)"
-
-msgid "Configurar o AppimageLauncher"
-msgstr "Configurazione di AppimageLauncher"
-
-msgid "Escolher o comportamento dos programas disponibilizados em .appimage"
-msgstr "Scelga il comportamento dei programmi disponibili in .appimage"
-
-msgid "Controle o brilho e as cores"
-msgstr "Controlla la luminosità e i colori"
-
-msgid "Brilho e cor"
-msgstr "Lucentezza e colore"
-
-msgid "Equalizador (DSP)"
-msgstr "Equalizzatore (DSP)"
-
-msgid "Gerenciador de senhas"
-msgstr "Gestore di password"
-
-msgid "As configurações da tela foram resetadas."
-msgstr "Le impostazioni dello schermo sono state resettate."
-
-msgid "Configurações da tela"
-msgstr "Impostazioni dello schermo"
-
-msgid "Aguarde, criando arquivos de cache..."
-msgstr "Rimaniamo in attesa, creando i file della cache..."
 
 msgid "Categorias"
 msgstr "Categorie"
@@ -710,6 +701,15 @@ msgstr ""
 "computer, compreso il trasferimento di file direttamente da uno smartphone "
 "all'altro.  Può anche utilizzare il nostro web app manager per semplificare "
 "l'utilizzo di questo sito web."
+
+msgid "As configurações da tela foram resetadas."
+msgstr "Le impostazioni dello schermo sono state resettate."
+
+msgid "Configurações da tela"
+msgstr "Impostazioni dello schermo"
+
+msgid "Aguarde, criando arquivos de cache..."
+msgstr "Rimaniamo in attesa, creando i file della cache..."
 
 msgid "Maximizado"
 msgstr "Massimizzato"

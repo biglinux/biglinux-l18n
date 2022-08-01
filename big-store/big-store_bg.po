@@ -14,7 +14,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-07-23 19:21-0300\n"
+"POT-Creation-Date: 2022-08-01 06:12-0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -36,310 +36,6 @@ msgstr "Инсталиране на"
 msgid "Remover"
 msgstr "Премахване на"
 
-msgid "Internet"
-msgstr "Интернет"
-
-msgid "Navegadores"
-msgstr "Браузъри"
-
-msgid "E-mail"
-msgstr "Електронна поща"
-
-msgid "Armazenamento nas nuvens"
-msgstr "Съхранение в облак"
-
-msgid "Download"
-msgstr "Изтегляне"
-
-msgid "Compartilhadores e Torrent"
-msgstr "Споделящи и Торент"
-
-msgid "Mensageiros e Conferências"
-msgstr "Пратеници и конференции"
-
-msgid "Acesso Remoto, FTP, SSH, VNC, RDP..."
-msgstr "Отдалечен достъп, FTP, SSH, VNC, RDP..."
-
-msgid "Ferramentas de rede"
-msgstr "Мрежови инструменти"
-
-msgid "Notícias, Feeds e RSS"
-msgstr "Новини, емисии и RSS"
-
-msgid "Escritório"
-msgstr "Офис"
-
-msgid "Suíte Office"
-msgstr "Офис пакет"
-
-msgid "Visualizadores de PDF, Epub, e-books e mais"
-msgstr "Преглед на PDF, Epub, електронни книги и др"
-
-msgid "Editores de PDF"
-msgstr "PDF редактори"
-
-msgid "Agenda de tarefas e contatos"
-msgstr "Календар на задачите и контактите"
-
-msgid "Gráficos"
-msgstr "Графики"
-
-msgid "Visualizadores de imagem"
-msgstr "Наблюдатели на изображения"
-
-msgid "Editores de imagem e ferramentas de desenho"
-msgstr "Редактори на изображения и инструменти за рисуване"
-
-msgid "Captura de tela (Screenshot)"
-msgstr "Снимка на екрана"
-
-msgid "Converter, redimensionar ou compactar imagens"
-msgstr "Конвертиране, промяна на размера или компресиране на изображения"
-
-msgid "Edição 3D e CAD"
-msgstr "3D и CAD редактиране"
-
-msgid "Multimídia"
-msgstr "Мултимедия"
-
-msgid "Reprodutores de áudio"
-msgstr "Аудио плейъри"
-
-msgid "Rádio online"
-msgstr "Онлайн радио"
-
-msgid "Gravadores e conversores de áudio"
-msgstr "Звукозаписващи устройства и конвертори"
-
-msgid "Editores de áudio"
-msgstr "Аудио редактори"
-
-msgid "Reprodutores de vídeo"
-msgstr "Видео плейъри"
-
-msgid "Vídeo online, IPTV, Youtube..."
-msgstr "Онлайн видео, IPTV, Youtube..."
-
-msgid "Editores e compactadores de vídeo"
-msgstr "Видеоредактори и компресори"
-
-msgid "Gravadores e copiadores de CD e DVD"
-msgstr "CD и DVD записващи устройства и копирни машини"
-
-msgid "Webcam, gravação de tela e transmissão de vídeo"
-msgstr "Уеб камера, запис на екрана и видео стрийминг"
-
-msgid "Jogos"
-msgstr "Игри"
-
-msgid "Gerenciadores de jogos"
-msgstr "Мениджъри на игри"
-
-msgid "Utilitários para jogos"
-msgstr "Инструменти за игри"
-
-msgid "Emulador Retroarch"
-msgstr "Емулатор на Retroarch"
-
-msgid "Emuladores"
-msgstr "Емулатори"
-
-msgid "Criadores de jogos"
-msgstr "Разработчици на игри"
-
-msgid "Ação/Arcade"
-msgstr "Екшън/аркада"
-
-msgid "Cartas"
-msgstr "Писма"
-
-msgid "Educacional"
-msgstr "Образователен"
-
-msgid "Estratégia"
-msgstr "Стратегия"
-
-msgid "Puzzles"
-msgstr "Пъзели"
-
-msgid "Tabuleiro"
-msgstr "Съвет"
-
-msgid "RPG"
-msgstr "RPG"
-
-msgid "Outros"
-msgstr "Други"
-
-msgid "Sistema"
-msgstr "Система"
-
-msgid "Armazenamento e partições"
-msgstr "Съхранение и прегради"
-
-msgid "Fontes (Tipografia)"
-msgstr "Шрифтове (типография)"
-
-msgid "Java JRE"
-msgstr "Java JRE"
-
-msgid "Virtualização"
-msgstr "Виртуализация"
-
-msgid "Desenvolvimento"
-msgstr "Развитие"
-
-msgid "Editores de código e IDE"
-msgstr "Редактори на код и IDE"
-
-msgid "Banco de dados"
-msgstr "База данни"
-
-msgid "Servidores WEB"
-msgstr "WEB сървъри"
-
-msgid "Programas Nativos"
-msgstr "Родни програми"
-
-msgid "Programas AUR"
-msgstr "Програми на AUR"
-
-msgid "Instalado na partição:"
-msgstr "Инсталиран в дяла:"
-
-msgid "Tamanho da partição:"
-msgstr "Размер на дяла:"
-
-msgid "Espaço utilizado:"
-msgstr "Използвано пространство:"
-
-msgid "Espaço livre:"
-msgstr "Свободно пространство:"
-
-msgid "Data que o sistema foi instalado:"
-msgstr "Дата на инсталиране на системата:"
-
-msgid "Pacotes nativos e AUR"
-msgstr "Родни пакети и AUR"
-
-msgid "Instalados:"
-msgstr "Инсталиран:"
-
-msgid "Disponíveis:"
-msgstr "На разположение:"
-
-msgid "Pacotes Flatpak"
-msgstr "Пакети Flatpak"
-
-msgid "Repositórios configurados:"
-msgstr "Конфигурирани хранилища:"
-
-msgid "Pacotes Snap"
-msgstr "Пакети Snap"
-
-msgid "Pacotes Snap Instalados clique no pacote para remover"
-msgstr "Инсталирани пакети Snap Кликнете върху пакета, за да го премахнете"
-
-msgid "Versão: "
-msgstr "Версия "
-
-msgid "Pacote: "
-msgstr "Опаковка "
-
-msgid "Não informada"
-msgstr "Не е информиран"
-
-msgid "Atualizar"
-msgstr "Актуализация"
-
-msgid "Categorias"
-msgstr "Категории"
-
-msgid "Versão instalada"
-msgstr "Инсталирана версия"
-
-msgid "Versão disponível"
-msgstr "Налична версия"
-
-msgid "Versão"
-msgstr "Версия"
-
-msgid "Fechar"
-msgstr "Затвори"
-
-msgid "Pacote .deb"
-msgstr ".deb пакет"
-
-msgid ""
-"Esse programa está em formato .deb, que possui a melhor integração com o "
-"sistema."
-msgstr ""
-"Тази програма е във формат .deb, който има най-добра интеграция със "
-"системата."
-
-msgid "Mais informações"
-msgstr "Повече информация"
-
-msgid "Voltar"
-msgstr "Обратно"
-
-msgid "Dependências a instalar"
-msgstr "Зависимости за инсталиране"
-
-msgid "Ver mais"
-msgstr "Вижте повече"
-
-msgid "Pacotes com dependências não atendidas: "
-msgstr "Пакети с неизпълнени зависимости "
-
-msgid "Depende de "
-msgstr "Това зависи от "
-
-msgid "mas não vai ser instalado."
-msgstr "но тя няма да бъде инсталирана."
-
-msgid "mas não está disponível"
-msgstr "но не е налична"
-
-msgid "Programas Flatpak"
-msgstr "Програми Flatpak"
-
-msgid "Executar"
-msgstr "Изпълнявайте"
-
-msgid "Pacote:"
-msgstr "Опаковка:"
-
-msgid "Versão disponível:"
-msgstr "Налична версия:"
-
-msgid "Repositório:"
-msgstr "Хранилище:"
-
-msgid "Cancelar"
-msgstr "Отмяна на"
-
-msgid "Instalando"
-msgstr "Инсталиране на"
-
-msgid "Removendo"
-msgstr "Премахване на"
-
-msgid "Programas Snap"
-msgstr "Програми Snap"
-
-msgid "Versão disponivel:"
-msgstr "Налична версия:"
-
-msgid "Licença:"
-msgstr "Лиценз:"
-
-msgid "AUR"
-msgstr "AUR"
-
-msgid "Empacotador:"
-msgstr "Packer:"
-
 msgid ""
 "Para os programas Snap aparecerem no menu do sistema finalize a sessão e "
 "faça login novamente."
@@ -352,6 +48,9 @@ msgstr "Настройки"
 msgid "Pacotes"
 msgstr "Пакети"
 
+msgid "Pacotes Flatpak"
+msgstr "Пакети Flatpak"
+
 msgid "Ativado"
 msgstr "Активиран"
 
@@ -363,6 +62,9 @@ msgstr "Актуализации"
 
 msgid "Atualizar seu sistema"
 msgstr "Актуализирайте системата си"
+
+msgid "Atualizar"
+msgstr "Актуализация"
 
 msgid "Atualizar cache dos repositórios nativos"
 msgstr "Актуализиране на кеша на родните хранилища"
@@ -387,6 +89,9 @@ msgstr ""
 "Актуализирайте ключовете на хранилищата на BigLinux, Manjaro и Archlinux. Не "
 "забравяйте, че ако сте активирали допълнителни хранилища, ще трябва отново "
 "да добавите ключовете на тези хранилища."
+
+msgid "Executar"
+msgstr "Изпълнявайте"
 
 msgid ""
 "Forçar atualizações, utilize essa opção se não estiver conseguindo atualizar "
@@ -490,6 +195,301 @@ msgstr "Местни жители"
 
 msgid "Início"
 msgstr "Начало"
+
+msgid "Internet"
+msgstr "Интернет"
+
+msgid "Escritório"
+msgstr "Офис"
+
+msgid "Gráficos"
+msgstr "Графики"
+
+msgid "Multimídia"
+msgstr "Мултимедия"
+
+msgid "Jogos"
+msgstr "Игри"
+
+msgid "Sistema"
+msgstr "Система"
+
+msgid "Desenvolvimento"
+msgstr "Развитие"
+
+msgid "Navegadores"
+msgstr "Браузъри"
+
+msgid "E-mail"
+msgstr "Електронна поща"
+
+msgid "Armazenamento nas nuvens"
+msgstr "Съхранение в облак"
+
+msgid "Download"
+msgstr "Изтегляне"
+
+msgid "Compartilhadores e Torrent"
+msgstr "Споделящи и Торент"
+
+msgid "Mensageiros e Conferências"
+msgstr "Пратеници и конференции"
+
+msgid "Acesso Remoto, FTP, SSH, VNC, RDP..."
+msgstr "Отдалечен достъп, FTP, SSH, VNC, RDP..."
+
+msgid "Ferramentas de rede"
+msgstr "Мрежови инструменти"
+
+msgid "Notícias, Feeds e RSS"
+msgstr "Новини, емисии и RSS"
+
+msgid "Suíte Office"
+msgstr "Офис пакет"
+
+msgid "Visualizadores de PDF, Epub, e-books e mais"
+msgstr "Преглед на PDF, Epub, електронни книги и др"
+
+msgid "Editores de PDF"
+msgstr "PDF редактори"
+
+msgid "Agenda de tarefas e contatos"
+msgstr "Календар на задачите и контактите"
+
+msgid "Visualizadores de imagem"
+msgstr "Наблюдатели на изображения"
+
+msgid "Editores de imagem e ferramentas de desenho"
+msgstr "Редактори на изображения и инструменти за рисуване"
+
+msgid "Captura de tela (Screenshot)"
+msgstr "Снимка на екрана"
+
+msgid "Converter, redimensionar ou compactar imagens"
+msgstr "Конвертиране, промяна на размера или компресиране на изображения"
+
+msgid "Edição 3D e CAD"
+msgstr "3D и CAD редактиране"
+
+msgid "Reprodutores de áudio"
+msgstr "Аудио плейъри"
+
+msgid "Rádio online"
+msgstr "Онлайн радио"
+
+msgid "Gravadores e conversores de áudio"
+msgstr "Звукозаписващи устройства и конвертори"
+
+msgid "Editores de áudio"
+msgstr "Аудио редактори"
+
+msgid "Reprodutores de vídeo"
+msgstr "Видео плейъри"
+
+msgid "Vídeo online, IPTV, Youtube..."
+msgstr "Онлайн видео, IPTV, Youtube..."
+
+msgid "Editores e compactadores de vídeo"
+msgstr "Видеоредактори и компресори"
+
+msgid "Gravadores e copiadores de CD e DVD"
+msgstr "CD и DVD записващи устройства и копирни машини"
+
+msgid "Webcam, gravação de tela e transmissão de vídeo"
+msgstr "Уеб камера, запис на екрана и видео стрийминг"
+
+msgid "Gerenciadores de jogos"
+msgstr "Мениджъри на игри"
+
+msgid "Utilitários para jogos"
+msgstr "Инструменти за игри"
+
+msgid "Emulador Retroarch"
+msgstr "Емулатор на Retroarch"
+
+msgid "Emuladores"
+msgstr "Емулатори"
+
+msgid "Criadores de jogos"
+msgstr "Разработчици на игри"
+
+msgid "Ação/Arcade"
+msgstr "Екшън/аркада"
+
+msgid "Cartas"
+msgstr "Писма"
+
+msgid "Educacional"
+msgstr "Образователен"
+
+msgid "Estratégia"
+msgstr "Стратегия"
+
+msgid "Puzzles"
+msgstr "Пъзели"
+
+msgid "Tabuleiro"
+msgstr "Съвет"
+
+msgid "RPG"
+msgstr "RPG"
+
+msgid "Armazenamento e partições"
+msgstr "Съхранение и прегради"
+
+msgid "Fontes (Tipografia)"
+msgstr "Шрифтове (типография)"
+
+msgid "Java JRE"
+msgstr "Java JRE"
+
+msgid "Virtualização"
+msgstr "Виртуализация"
+
+msgid "Editores de código e IDE"
+msgstr "Редактори на код и IDE"
+
+msgid "Banco de dados"
+msgstr "База данни"
+
+msgid "Servidores WEB"
+msgstr "WEB сървъри"
+
+msgid "Programas Nativos"
+msgstr "Родни програми"
+
+msgid "Programas AUR"
+msgstr "Програми на AUR"
+
+msgid "Programas Flatpak"
+msgstr "Програми Flatpak"
+
+msgid "Programas Snap"
+msgstr "Програми Snap"
+
+msgid "Outros"
+msgstr "Други"
+
+msgid "Instalado na partição:"
+msgstr "Инсталиран в дяла:"
+
+msgid "Tamanho da partição:"
+msgstr "Размер на дяла:"
+
+msgid "Espaço utilizado:"
+msgstr "Използвано пространство:"
+
+msgid "Espaço livre:"
+msgstr "Свободно пространство:"
+
+msgid "Data que o sistema foi instalado:"
+msgstr "Дата на инсталиране на системата:"
+
+msgid "Pacotes nativos e AUR"
+msgstr "Родни пакети и AUR"
+
+msgid "Instalados:"
+msgstr "Инсталиран:"
+
+msgid "Disponíveis:"
+msgstr "На разположение:"
+
+msgid "Repositórios configurados:"
+msgstr "Конфигурирани хранилища:"
+
+msgid "Pacotes Snap"
+msgstr "Пакети Snap"
+
+msgid "Pacotes Snap Instalados clique no pacote para remover"
+msgstr "Инсталирани пакети Snap Кликнете върху пакета, за да го премахнете"
+
+msgid "Versão: "
+msgstr "Версия "
+
+msgid "Pacote: "
+msgstr "Опаковка "
+
+msgid "Não informada"
+msgstr "Не е информиран"
+
+msgid "Categorias"
+msgstr "Категории"
+
+msgid "Versão instalada"
+msgstr "Инсталирана версия"
+
+msgid "Versão disponível"
+msgstr "Налична версия"
+
+msgid "Versão"
+msgstr "Версия"
+
+msgid "Fechar"
+msgstr "Затвори"
+
+msgid "Pacote .deb"
+msgstr ".deb пакет"
+
+msgid ""
+"Esse programa está em formato .deb, que possui a melhor integração com o "
+"sistema."
+msgstr ""
+"Тази програма е във формат .deb, който има най-добра интеграция със "
+"системата."
+
+msgid "Mais informações"
+msgstr "Повече информация"
+
+msgid "Voltar"
+msgstr "Обратно"
+
+msgid "Dependências a instalar"
+msgstr "Зависимости за инсталиране"
+
+msgid "Ver mais"
+msgstr "Вижте повече"
+
+msgid "Pacotes com dependências não atendidas: "
+msgstr "Пакети с неизпълнени зависимости "
+
+msgid "Depende de "
+msgstr "Това зависи от "
+
+msgid "mas não vai ser instalado."
+msgstr "но тя няма да бъде инсталирана."
+
+msgid "mas não está disponível"
+msgstr "но не е налична"
+
+msgid "Pacote:"
+msgstr "Опаковка:"
+
+msgid "Versão disponível:"
+msgstr "Налична версия:"
+
+msgid "Repositório:"
+msgstr "Хранилище:"
+
+msgid "Cancelar"
+msgstr "Отмяна на"
+
+msgid "Instalando"
+msgstr "Инсталиране на"
+
+msgid "Removendo"
+msgstr "Премахване на"
+
+msgid "Versão disponivel:"
+msgstr "Налична версия:"
+
+msgid "Licença:"
+msgstr "Лиценз:"
+
+msgid "AUR"
+msgstr "AUR"
+
+msgid "Empacotador:"
+msgstr "Packer:"
 
 msgid "Reinstalar"
 msgstr "Преинсталиране на"

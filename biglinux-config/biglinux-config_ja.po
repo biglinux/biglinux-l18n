@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: biglinux-config\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-07-23 19:21-0300\n"
+"POT-Creation-Date: 2022-08-01 06:12-0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -20,78 +20,12 @@ msgstr ""
 msgid "Restaurar Configurações"
 msgstr "設定の復元"
 
-msgid ""
-"Atenção! O programa está aberto!\\nEle será fechado para que a restauração "
-"tenha efeito."
-msgstr ""
-"注意!プログラムはオープンです！復旧の効果が出るまでクローズとなります。"
+#, fuzzy
+msgid "Pesquisar programa"
+msgstr "検索リストア"
 
-msgid "As configurações foram restauradas com sucesso!"
-msgstr "設定の復元に成功しました"
-
-msgid ""
-"Você tem certeza que deseja restaurar todas as configurações do KDE/Plasma?"
-"\\nIsso apagará todas as configurações definidas por $USER!"
-msgstr ""
-"KDE/Plasmaの設定を全て復元してよろしいですか？ \\USERで設定した設定を全て消去"
-"します！(笑)"
-
-msgid ""
-"As configurações foram restauradas com sucesso!\\nÉ necessário fazer logoff/"
-"login para concluir a restauração!"
-msgstr ""
-"設定の復元に成功しました！復元を完了するには、ログオフ/ログオンする必要があり"
-"ます。"
-
-msgid ""
-"Restaurar&nbsp;o&nbsp;programa&nbsp;como&nbsp;modo&nbsp;padrão&nbsp;ou&nbsp;"
-"distribuição&nbsp;BigLinux."
-msgstr ""
-"標準モードまたはBigLinuxディストリビューションとしてプログラムを復元します。"
-
-msgid "Restaurar&nbsp;o&nbsp;programa&nbsp;como&nbsp;modo&nbsp;padrão."
-msgstr "プログラムをデフォルトモードに戻す。"
-
-msgid ""
-"Músicas-(Clementine) clementine.sh Multimedia clementine.png clementine skel "
-"$COMMENT_skel"
-msgstr ""
-"音楽-(Clementine) clementine.sh Multimedia clementine.png clementine skel "
-"$COMMENT_skel"
-
-msgid ""
-"Gravador-de-Tela-(vokoscreenNG) vokoscreen.sh Multimedia vokoscreen.png "
-"vokoscreenNG  $COMMENT_normal"
-msgstr ""
-"スクリーンレコーダー-(vokoscreenNG) vokoscreen.sh マルチメディア vokoscreen."
-"png vokoscreenNG $COMMENT_normal"
-
-msgid ""
-"Vídeos-(Smplayer) smplayer.sh Multimedia smplayer.png smplayer skel "
-"$COMMENT_skel"
-msgstr ""
-"動画-(Smplayer) smplayer.sh マルチメディア smplayer.png smplayer skel "
-"$COMMENT_skel"
-
-msgid "Fechar"
-msgstr "閉じる"
-
-msgid "Restaurar no modo padrão da distribuição"
-msgstr "デフォルトの配信モードに戻す"
-
-msgid "Essa opção restaura o programa com o padrão do BigLinux."
-msgstr "このオプションは、プログラムをBigLinuxのデフォルトに戻すものです。"
-
-msgid "Restaurar no modo padrão do programa"
-msgstr "標準プログラムモードでのリストア"
-
-msgid "Essa opção restaura o programa com o padrão do desenvolvedor."
-msgstr "このオプションは、プログラムを開発者用のデフォルトに戻します。"
-
-msgid "Restaurar as configurações do programa:"
-msgstr "プログラム設定を元に戻す。"
-
-msgid "Principal"
+#, fuzzy
+msgid "Principais"
 msgstr "メイン"
 
 msgid "Internet"
@@ -109,5 +43,121 @@ msgstr "オフィス"
 msgid "Sistema"
 msgstr "システム"
 
-msgid "Pesquisar Restaurar"
-msgstr "検索リストア"
+#, fuzzy
+msgid "Restaurar o programa no modo da distribuição BigLinux."
+msgstr "デフォルトの配信モードに戻す"
+
+msgid "Em qual modo você deseja restaurar?"
+msgstr ""
+
+msgid "Restaurar no modo padrão da distribuição"
+msgstr "デフォルトの配信モードに戻す"
+
+msgid "Cancelar"
+msgstr ""
+
+#, fuzzy
+msgid "Restaurar o programa no modo padrão."
+msgstr "標準プログラムモードでのリストア"
+
+msgid "Restaurar no modo padrão do programa"
+msgstr "標準プログラムモードでのリストア"
+
+#, fuzzy
+msgid "Restaurar o programa no modo padrão ou distribuição BigLinux."
+msgstr "デフォルトの配信モードに戻す"
+
+msgid "Músicas"
+msgstr ""
+
+msgid "Gravador de Tela"
+msgstr ""
+
+msgid "Vídeos"
+msgstr ""
+
+msgid "Conversor de áudio e vídeo"
+msgstr ""
+
+msgid "As configurações foram restauradas com sucesso!"
+msgstr "設定の復元に成功しました"
+
+msgid "OK"
+msgstr ""
+
+#, fuzzy
+msgid "As configurações do BigLinux KDE foram restauradas com sucesso!"
+msgstr "設定の復元に成功しました"
+
+msgid "É necessário reinciar a sessão para concluir a restauração!"
+msgstr ""
+
+msgid "Atenção! O programa está em execução!"
+msgstr ""
+
+msgid "Será fechado para que a restauração seja concluída."
+msgstr ""
+
+#, fuzzy
+msgid ""
+"Você tem certeza que deseja restaurar todas as configurações do BigLinux KDE?"
+msgstr ""
+"KDE/Plasmaの設定を全て復元してよろしいですか？ \\USERで設定した設定を全て消去"
+"します！(笑)"
+
+#, fuzzy
+msgid "Isso apagará todas as configurações definidas por "
+msgstr "プログラム設定を元に戻す。"
+
+#~ msgid ""
+#~ "Atenção! O programa está aberto!\\nEle será fechado para que a "
+#~ "restauração tenha efeito."
+#~ msgstr ""
+#~ "注意!プログラムはオープンです！復旧の効果が出るまでクローズとなります。"
+
+#~ msgid ""
+#~ "As configurações foram restauradas com sucesso!\\nÉ necessário fazer "
+#~ "logoff/login para concluir a restauração!"
+#~ msgstr ""
+#~ "設定の復元に成功しました！復元を完了するには、ログオフ/ログオンする必要が"
+#~ "あります。"
+
+#~ msgid ""
+#~ "Restaurar&nbsp;o&nbsp;programa&nbsp;como&nbsp;modo&nbsp;padrão&nbsp;"
+#~ "ou&nbsp;distribuição&nbsp;BigLinux."
+#~ msgstr ""
+#~ "標準モードまたはBigLinuxディストリビューションとしてプログラムを復元しま"
+#~ "す。"
+
+#~ msgid "Restaurar&nbsp;o&nbsp;programa&nbsp;como&nbsp;modo&nbsp;padrão."
+#~ msgstr "プログラムをデフォルトモードに戻す。"
+
+#~ msgid ""
+#~ "Músicas-(Clementine) clementine.sh Multimedia clementine.png clementine "
+#~ "skel $COMMENT_skel"
+#~ msgstr ""
+#~ "音楽-(Clementine) clementine.sh Multimedia clementine.png clementine skel "
+#~ "$COMMENT_skel"
+
+#~ msgid ""
+#~ "Gravador-de-Tela-(vokoscreenNG) vokoscreen.sh Multimedia vokoscreen.png "
+#~ "vokoscreenNG  $COMMENT_normal"
+#~ msgstr ""
+#~ "スクリーンレコーダー-(vokoscreenNG) vokoscreen.sh マルチメディア "
+#~ "vokoscreen.png vokoscreenNG $COMMENT_normal"
+
+#~ msgid ""
+#~ "Vídeos-(Smplayer) smplayer.sh Multimedia smplayer.png smplayer skel "
+#~ "$COMMENT_skel"
+#~ msgstr ""
+#~ "動画-(Smplayer) smplayer.sh マルチメディア smplayer.png smplayer skel "
+#~ "$COMMENT_skel"
+
+#~ msgid "Fechar"
+#~ msgstr "閉じる"
+
+#~ msgid "Essa opção restaura o programa com o padrão do BigLinux."
+#~ msgstr "このオプションは、プログラムをBigLinuxのデフォルトに戻すものです。"
+
+#~ msgid "Essa opção restaura o programa com o padrão do desenvolvedor."
+#~ msgstr "このオプションは、プログラムを開発者用のデフォルトに戻します。"

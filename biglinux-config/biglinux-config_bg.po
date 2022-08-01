@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: biglinux-config\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-07-23 19:21-0300\n"
+"POT-Creation-Date: 2022-08-01 06:12-0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -20,84 +20,12 @@ msgstr ""
 msgid "Restaurar Configurações"
 msgstr "Възстановяване на настройките"
 
-msgid ""
-"Atenção! O programa está aberto!\\nEle será fechado para que a restauração "
-"tenha efeito."
-msgstr ""
-"Внимание! Програмата е отворена! Тя ще бъде затворена, за да влезе в сила "
-"възстановяването."
+#, fuzzy
+msgid "Pesquisar programa"
+msgstr "Възстановяване на търсенето"
 
-msgid "As configurações foram restauradas com sucesso!"
-msgstr "Настройките са успешно възстановени!"
-
-msgid ""
-"Você tem certeza que deseja restaurar todas as configurações do KDE/Plasma?"
-"\\nIsso apagará todas as configurações definidas por $USER!"
-msgstr ""
-"Сигурни ли сте, че искате да възстановите всички настройки на KDE/Plasma?"
-"\\nIsIsIsIs изтрива всички настройки, зададени от $USER!"
-
-msgid ""
-"As configurações foram restauradas com sucesso!\\nÉ necessário fazer logoff/"
-"login para concluir a restauração!"
-msgstr ""
-"Настройките са успешно възстановени! Трябва да излезете/включите, за да "
-"завършите възстановяването!"
-
-msgid ""
-"Restaurar&nbsp;o&nbsp;programa&nbsp;como&nbsp;modo&nbsp;padrão&nbsp;ou&nbsp;"
-"distribuição&nbsp;BigLinux."
-msgstr ""
-"Възстановяване на програмата в стандартен режим или като дистрибуция на "
-"BigLinux."
-
-msgid "Restaurar&nbsp;o&nbsp;programa&nbsp;como&nbsp;modo&nbsp;padrão."
-msgstr "Възстановяване на програмата като режим по подразбиране."
-
-msgid ""
-"Músicas-(Clementine) clementine.sh Multimedia clementine.png clementine skel "
-"$COMMENT_skel"
-msgstr ""
-"Music-(Clementine) clementine.sh Мултимедия clementine.png clementine skel "
-"$COMMENT_skel"
-
-msgid ""
-"Gravador-de-Tela-(vokoscreenNG) vokoscreen.sh Multimedia vokoscreen.png "
-"vokoscreenNG  $COMMENT_normal"
-msgstr ""
-"Screen Recorder-(vokoscreenNG) vokoscreen.sh Мултимедия vokoscreen.png "
-"vokoscreenNG $COMMENT_normal"
-
-msgid ""
-"Vídeos-(Smplayer) smplayer.sh Multimedia smplayer.png smplayer skel "
-"$COMMENT_skel"
-msgstr ""
-"Видеоклипове-(Smplayer) smplayer.sh Мултимедия smplayer.png smplayer skel "
-"$COMMENT_skel"
-
-msgid "Fechar"
-msgstr "Затвори"
-
-msgid "Restaurar no modo padrão da distribuição"
-msgstr "Възстановяване на режима на разпространение по подразбиране"
-
-msgid "Essa opção restaura o programa com o padrão do BigLinux."
-msgstr ""
-"Тази опция възстановява програмата до настройките по подразбиране на "
-"BigLinux."
-
-msgid "Restaurar no modo padrão do programa"
-msgstr "Възстановяване в режим на стандартна програма"
-
-msgid "Essa opção restaura o programa com o padrão do desenvolvedor."
-msgstr ""
-"Тази опция възстановява програмата до настройките по подразбиране на "
-"разработчика."
-
-msgid "Restaurar as configurações do programa:"
-msgstr "Възстановяване на настройките на програмата:"
-
-msgid "Principal"
+#, fuzzy
+msgid "Principais"
 msgstr "Основен"
 
 msgid "Internet"
@@ -115,5 +43,126 @@ msgstr "Офис"
 msgid "Sistema"
 msgstr "Система"
 
-msgid "Pesquisar Restaurar"
-msgstr "Възстановяване на търсенето"
+#, fuzzy
+msgid "Restaurar o programa no modo da distribuição BigLinux."
+msgstr "Възстановяване на режима на разпространение по подразбиране"
+
+msgid "Em qual modo você deseja restaurar?"
+msgstr ""
+
+msgid "Restaurar no modo padrão da distribuição"
+msgstr "Възстановяване на режима на разпространение по подразбиране"
+
+msgid "Cancelar"
+msgstr ""
+
+#, fuzzy
+msgid "Restaurar o programa no modo padrão."
+msgstr "Възстановяване в режим на стандартна програма"
+
+msgid "Restaurar no modo padrão do programa"
+msgstr "Възстановяване в режим на стандартна програма"
+
+#, fuzzy
+msgid "Restaurar o programa no modo padrão ou distribuição BigLinux."
+msgstr "Възстановяване на режима на разпространение по подразбиране"
+
+msgid "Músicas"
+msgstr ""
+
+msgid "Gravador de Tela"
+msgstr ""
+
+msgid "Vídeos"
+msgstr ""
+
+msgid "Conversor de áudio e vídeo"
+msgstr ""
+
+msgid "As configurações foram restauradas com sucesso!"
+msgstr "Настройките са успешно възстановени!"
+
+msgid "OK"
+msgstr ""
+
+#, fuzzy
+msgid "As configurações do BigLinux KDE foram restauradas com sucesso!"
+msgstr "Настройките са успешно възстановени!"
+
+msgid "É necessário reinciar a sessão para concluir a restauração!"
+msgstr ""
+
+msgid "Atenção! O programa está em execução!"
+msgstr ""
+
+msgid "Será fechado para que a restauração seja concluída."
+msgstr ""
+
+#, fuzzy
+msgid ""
+"Você tem certeza que deseja restaurar todas as configurações do BigLinux KDE?"
+msgstr ""
+"Сигурни ли сте, че искате да възстановите всички настройки на KDE/Plasma?"
+"\\nIsIsIsIs изтрива всички настройки, зададени от $USER!"
+
+#, fuzzy
+msgid "Isso apagará todas as configurações definidas por "
+msgstr "Възстановяване на настройките на програмата:"
+
+#~ msgid ""
+#~ "Atenção! O programa está aberto!\\nEle será fechado para que a "
+#~ "restauração tenha efeito."
+#~ msgstr ""
+#~ "Внимание! Програмата е отворена! Тя ще бъде затворена, за да влезе в сила "
+#~ "възстановяването."
+
+#~ msgid ""
+#~ "As configurações foram restauradas com sucesso!\\nÉ necessário fazer "
+#~ "logoff/login para concluir a restauração!"
+#~ msgstr ""
+#~ "Настройките са успешно възстановени! Трябва да излезете/включите, за да "
+#~ "завършите възстановяването!"
+
+#~ msgid ""
+#~ "Restaurar&nbsp;o&nbsp;programa&nbsp;como&nbsp;modo&nbsp;padrão&nbsp;"
+#~ "ou&nbsp;distribuição&nbsp;BigLinux."
+#~ msgstr ""
+#~ "Възстановяване на програмата в стандартен режим или като дистрибуция на "
+#~ "BigLinux."
+
+#~ msgid "Restaurar&nbsp;o&nbsp;programa&nbsp;como&nbsp;modo&nbsp;padrão."
+#~ msgstr "Възстановяване на програмата като режим по подразбиране."
+
+#~ msgid ""
+#~ "Músicas-(Clementine) clementine.sh Multimedia clementine.png clementine "
+#~ "skel $COMMENT_skel"
+#~ msgstr ""
+#~ "Music-(Clementine) clementine.sh Мултимедия clementine.png clementine "
+#~ "skel $COMMENT_skel"
+
+#~ msgid ""
+#~ "Gravador-de-Tela-(vokoscreenNG) vokoscreen.sh Multimedia vokoscreen.png "
+#~ "vokoscreenNG  $COMMENT_normal"
+#~ msgstr ""
+#~ "Screen Recorder-(vokoscreenNG) vokoscreen.sh Мултимедия vokoscreen.png "
+#~ "vokoscreenNG $COMMENT_normal"
+
+#~ msgid ""
+#~ "Vídeos-(Smplayer) smplayer.sh Multimedia smplayer.png smplayer skel "
+#~ "$COMMENT_skel"
+#~ msgstr ""
+#~ "Видеоклипове-(Smplayer) smplayer.sh Мултимедия smplayer.png smplayer skel "
+#~ "$COMMENT_skel"
+
+#~ msgid "Fechar"
+#~ msgstr "Затвори"
+
+#~ msgid "Essa opção restaura o programa com o padrão do BigLinux."
+#~ msgstr ""
+#~ "Тази опция възстановява програмата до настройките по подразбиране на "
+#~ "BigLinux."
+
+#~ msgid "Essa opção restaura o programa com o padrão do desenvolvedor."
+#~ msgstr ""
+#~ "Тази опция възстановява програмата до настройките по подразбиране на "
+#~ "разработчика."

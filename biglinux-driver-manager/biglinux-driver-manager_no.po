@@ -8,7 +8,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: biglinux-driver-manager\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-07-23 19:21-0300\n"
+"POT-Creation-Date: 2022-08-01 06:12-0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -47,53 +47,6 @@ msgstr ""
 
 msgid "Desativado"
 msgstr "deaktivert"
-
-msgid "Informações de Hardware"
-msgstr "Informasjon om maskinvare"
-
-msgid "Fechar"
-msgstr "Lukk"
-
-msgid "Enviar para transfer.sh"
-msgstr "Send til transfer.sh"
-
-msgid "Visualizar"
-msgstr "utsikt"
-
-msgid "O relatório foi salvo no arquivo:"
-msgstr "Rapporten ble lagret i filen:"
-
-msgid ""
-"Deseja visualizar o arquivo ou envia-lo ao site transfer.sh, para ter uma "
-"URL com os dados do seu computador de forma fácil de compartilhar?"
-msgstr ""
-"Vil du se filen eller sende den til nettstedet transfer.sh, for å ha en URL "
-"med dataene på datamaskinen din på en enkel å dele måte?"
-
-msgid "Concluído, reinicie o computador para ativar a configuração do driver."
-msgstr ""
-"Ferdig, start datamaskinen på nytt for å aktivere driverkonfigurasjonen."
-
-msgid "Driver"
-msgstr "Driver"
-
-msgid "Ocorreu um erro e o driver não pode ser aplicado."
-msgstr "Det oppstod en feil, og driveren kan ikke brukes."
-
-msgid "Enviando, aguarde..."
-msgstr "Sender, vennligst vent..."
-
-msgid ""
-"Digite sua senha para gerar um relatório removendo dados sensíveis, por "
-"exemplo, endereço de IP, ou cancele para utilizar as informações da tela "
-"anterior."
-msgstr ""
-"Skriv inn passordet ditt for å generere en rapport som fjerner sensitive "
-"data, for eksempel IP-adresse, eller avbryt for å bruke informasjonen fra "
-"forrige skjermbilde."
-
-msgid "Digite sua senha para gerar um relatório mais completo."
-msgstr "Skriv inn passordet ditt for å generere en mer fullstendig rapport."
 
 msgid "Categorias"
 msgstr "Kategorier"
@@ -158,6 +111,12 @@ msgstr "Søke"
 msgid "Resultado da pesquisa"
 msgstr "Søk resultat"
 
+msgid "Informações de Hardware"
+msgstr "Informasjon om maskinvare"
+
+msgid "Fechar"
+msgstr "Lukk"
+
 msgid "Abrir"
 msgstr "Åpen"
 
@@ -219,6 +178,22 @@ msgstr "ID"
 msgid "Info"
 msgstr "Info"
 
+msgid "Enviar para transfer.sh"
+msgstr "Send til transfer.sh"
+
+msgid "Visualizar"
+msgstr "utsikt"
+
+msgid "O relatório foi salvo no arquivo:"
+msgstr "Rapporten ble lagret i filen:"
+
+msgid ""
+"Deseja visualizar o arquivo ou envia-lo ao site transfer.sh, para ter uma "
+"URL com os dados do seu computador de forma fácil de compartilhar?"
+msgstr ""
+"Vil du se filen eller sende den til nettstedet transfer.sh, for å ha en URL "
+"med dataene på datamaskinen din på en enkel å dele måte?"
+
 msgid "Driver detectado:"
 msgstr "Driver oppdaget:"
 
@@ -278,6 +253,16 @@ msgid "Este pacote fornece arquivos compatíveis com este computador."
 msgstr ""
 "Denne pakken inneholder filer som er kompatible med denne datamaskinen."
 
+msgid "Concluído, reinicie o computador para ativar a configuração do driver."
+msgstr ""
+"Ferdig, start datamaskinen på nytt for å aktivere driverkonfigurasjonen."
+
+msgid "Driver"
+msgstr "Driver"
+
+msgid "Ocorreu um erro e o driver não pode ser aplicado."
+msgstr "Det oppstod en feil, og driveren kan ikke brukes."
+
 msgid "Swap (Memória Virtual)"
 msgstr "Bytte (virtuelt minne)"
 
@@ -310,3 +295,18 @@ msgstr "Informasjon om systemet"
 
 msgid "Repositórios"
 msgstr "Repositorier"
+
+msgid ""
+"Digite sua senha para gerar um relatório removendo dados sensíveis, por "
+"exemplo, endereço de IP, ou cancele para utilizar as informações da tela "
+"anterior."
+msgstr ""
+"Skriv inn passordet ditt for å generere en rapport som fjerner sensitive "
+"data, for eksempel IP-adresse, eller avbryt for å bruke informasjonen fra "
+"forrige skjermbilde."
+
+msgid "Digite sua senha para gerar um relatório mais completo."
+msgstr "Skriv inn passordet ditt for å generere en mer fullstendig rapport."
+
+msgid "Enviando, aguarde..."
+msgstr "Sender, vennligst vent..."

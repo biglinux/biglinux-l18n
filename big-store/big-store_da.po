@@ -14,7 +14,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2022-07-23 19:21-0300\n"
+"POT-Creation-Date: 2022-08-01 06:12-0300\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -36,309 +36,6 @@ msgstr "Installer"
 msgid "Remover"
 msgstr "Fjern"
 
-msgid "Internet"
-msgstr "Internet"
-
-msgid "Navegadores"
-msgstr "Browsere"
-
-msgid "E-mail"
-msgstr "E-mail"
-
-msgid "Armazenamento nas nuvens"
-msgstr "Opbevaring i skyen"
-
-msgid "Download"
-msgstr "Download"
-
-msgid "Compartilhadores e Torrent"
-msgstr "Delere og Torrent"
-
-msgid "Mensageiros e Conferências"
-msgstr "Budbringere og konferencer"
-
-msgid "Acesso Remoto, FTP, SSH, VNC, RDP..."
-msgstr "Fjernadgang, FTP, SSH, VNC, RDP..."
-
-msgid "Ferramentas de rede"
-msgstr "Netværksværktøjer"
-
-msgid "Notícias, Feeds e RSS"
-msgstr "Notícias, Feeds e RSS"
-
-msgid "Escritório"
-msgstr "Kontor"
-
-msgid "Suíte Office"
-msgstr "Kontorpakke"
-
-msgid "Visualizadores de PDF, Epub, e-books e mais"
-msgstr "PDF, Epub, e-bogsfremvisere og meget mere"
-
-msgid "Editores de PDF"
-msgstr "PDF-udgivere"
-
-msgid "Agenda de tarefas e contatos"
-msgstr "Kalender med opgaver og kontakter"
-
-msgid "Gráficos"
-msgstr "Grafik"
-
-msgid "Visualizadores de imagem"
-msgstr "Billedfremvisere"
-
-msgid "Editores de imagem e ferramentas de desenho"
-msgstr "Billedredigeringsprogrammer og tegneværktøjer"
-
-msgid "Captura de tela (Screenshot)"
-msgstr "Skærmbillede"
-
-msgid "Converter, redimensionar ou compactar imagens"
-msgstr "Konverter, ændre størrelse eller komprimere billeder"
-
-msgid "Edição 3D e CAD"
-msgstr "3D- og CAD-redigering"
-
-msgid "Multimídia"
-msgstr "Multimedier"
-
-msgid "Reprodutores de áudio"
-msgstr "Lydafspillere"
-
-msgid "Rádio online"
-msgstr "Online radio"
-
-msgid "Gravadores e conversores de áudio"
-msgstr "Lydoptagere og lydomformere"
-
-msgid "Editores de áudio"
-msgstr "Lydredaktører"
-
-msgid "Reprodutores de vídeo"
-msgstr "Videoafspillere"
-
-msgid "Vídeo online, IPTV, Youtube..."
-msgstr "Online video, IPTV, Youtube..."
-
-msgid "Editores e compactadores de vídeo"
-msgstr "Videoreditorer og kompressorer"
-
-msgid "Gravadores e copiadores de CD e DVD"
-msgstr "CD- og DVD-optagere og kopimaskiner"
-
-msgid "Webcam, gravação de tela e transmissão de vídeo"
-msgstr "Webcam, skærmoptagelse og videostreaming"
-
-msgid "Jogos"
-msgstr "Spil"
-
-msgid "Gerenciadores de jogos"
-msgstr "Spillemanagere"
-
-msgid "Utilitários para jogos"
-msgstr "Hjælpeprogrammer til spil"
-
-msgid "Emulador Retroarch"
-msgstr "Retroarch-emulator"
-
-msgid "Emuladores"
-msgstr "Emulatorer"
-
-msgid "Criadores de jogos"
-msgstr "Spiludviklere"
-
-msgid "Ação/Arcade"
-msgstr "Action/Arcade"
-
-msgid "Cartas"
-msgstr "Breve"
-
-msgid "Educacional"
-msgstr "Uddannelse"
-
-msgid "Estratégia"
-msgstr "Strategi"
-
-msgid "Puzzles"
-msgstr "Puslespil"
-
-msgid "Tabuleiro"
-msgstr "Bestyrelsen"
-
-msgid "RPG"
-msgstr "RPG"
-
-msgid "Outros"
-msgstr "Andre"
-
-msgid "Sistema"
-msgstr "System"
-
-msgid "Armazenamento e partições"
-msgstr "Opbevaring og skillevægge"
-
-msgid "Fontes (Tipografia)"
-msgstr "Skrifttyper (typografi)"
-
-msgid "Java JRE"
-msgstr "Java JRE"
-
-msgid "Virtualização"
-msgstr "Virtualisering"
-
-msgid "Desenvolvimento"
-msgstr "Udvikling"
-
-msgid "Editores de código e IDE"
-msgstr "Kodeditorer og IDE'er"
-
-msgid "Banco de dados"
-msgstr "Database"
-
-msgid "Servidores WEB"
-msgstr "WEB-servere"
-
-msgid "Programas Nativos"
-msgstr "Indfødte programmer"
-
-msgid "Programas AUR"
-msgstr "AUR-programmer"
-
-msgid "Instalado na partição:"
-msgstr "Installeret på partitionen:"
-
-msgid "Tamanho da partição:"
-msgstr "Partitionsstørrelse:"
-
-msgid "Espaço utilizado:"
-msgstr "Anvendt plads:"
-
-msgid "Espaço livre:"
-msgstr "Rydde plads:"
-
-msgid "Data que o sistema foi instalado:"
-msgstr "Dato, hvor systemet blev installeret:"
-
-msgid "Pacotes nativos e AUR"
-msgstr "Indfødte pakker og AUR"
-
-msgid "Instalados:"
-msgstr "Installeret:"
-
-msgid "Disponíveis:"
-msgstr "Tilgængelig:"
-
-msgid "Pacotes Flatpak"
-msgstr "Flatpak-pakker"
-
-msgid "Repositórios configurados:"
-msgstr "Repositories konfigureret:"
-
-msgid "Pacotes Snap"
-msgstr "Snap-pakker"
-
-msgid "Pacotes Snap Instalados clique no pacote para remover"
-msgstr "Installerede snap-pakker Klik på den pakke, der skal fjernes"
-
-msgid "Versão: "
-msgstr "Version "
-
-msgid "Pacote: "
-msgstr "Pakke "
-
-msgid "Não informada"
-msgstr "Ikke informeret"
-
-msgid "Atualizar"
-msgstr "Opdatering"
-
-msgid "Categorias"
-msgstr "Kategorier"
-
-msgid "Versão instalada"
-msgstr "Installerede version"
-
-msgid "Versão disponível"
-msgstr "Tilgængelig version"
-
-msgid "Versão"
-msgstr "Version"
-
-msgid "Fechar"
-msgstr "Luk"
-
-msgid "Pacote .deb"
-msgstr ".deb-pakke"
-
-msgid ""
-"Esse programa está em formato .deb, que possui a melhor integração com o "
-"sistema."
-msgstr ""
-"Dette program er i .deb-format, som har den bedste integration med systemet."
-
-msgid "Mais informações"
-msgstr "Flere oplysninger"
-
-msgid "Voltar"
-msgstr "Tilbage"
-
-msgid "Dependências a instalar"
-msgstr "Afhængigheder, der skal installeres"
-
-msgid "Ver mais"
-msgstr "Se mere"
-
-msgid "Pacotes com dependências não atendidas: "
-msgstr "Pakker med uopfyldte afhængigheder "
-
-msgid "Depende de "
-msgstr "Det afhænger af "
-
-msgid "mas não vai ser instalado."
-msgstr "men det bliver ikke installeret."
-
-msgid "mas não está disponível"
-msgstr "men den er ikke tilgængelig"
-
-msgid "Programas Flatpak"
-msgstr "Flatpak-programmer"
-
-msgid "Executar"
-msgstr "Kør"
-
-msgid "Pacote:"
-msgstr "Pakke:"
-
-msgid "Versão disponível:"
-msgstr "Tilgængelig version:"
-
-msgid "Repositório:"
-msgstr "Opbevaringssted:"
-
-msgid "Cancelar"
-msgstr "Annuller"
-
-msgid "Instalando"
-msgstr "Installation af"
-
-msgid "Removendo"
-msgstr "Fjernelse af"
-
-msgid "Programas Snap"
-msgstr "Snap-programmer"
-
-msgid "Versão disponivel:"
-msgstr "Tilgængelig version:"
-
-msgid "Licença:"
-msgstr "Licens:"
-
-msgid "AUR"
-msgstr "AUR"
-
-msgid "Empacotador:"
-msgstr "Packer:"
-
 msgid ""
 "Para os programas Snap aparecerem no menu do sistema finalize a sessão e "
 "faça login novamente."
@@ -352,6 +49,9 @@ msgstr "Indstillinger"
 msgid "Pacotes"
 msgstr "Pakker"
 
+msgid "Pacotes Flatpak"
+msgstr "Flatpak-pakker"
+
 msgid "Ativado"
 msgstr "Aktiveret"
 
@@ -363,6 +63,9 @@ msgstr "Opdateringer"
 
 msgid "Atualizar seu sistema"
 msgstr "Opdater dit system"
+
+msgid "Atualizar"
+msgstr "Opdatering"
 
 msgid "Atualizar cache dos repositórios nativos"
 msgstr "Opdatere cache af native repositories"
@@ -387,6 +90,9 @@ msgstr ""
 "Opdater nøglerne til BigLinux-, Manjaro- og Archlinux-repositorierne. Husk, "
 "at hvis du har aktiveret supplerende repositorier, skal du tilføje nøglerne "
 "til disse repositorier igen."
+
+msgid "Executar"
+msgstr "Kør"
 
 msgid ""
 "Forçar atualizações, utilize essa opção se não estiver conseguindo atualizar "
@@ -488,6 +194,300 @@ msgstr "Indfødte"
 
 msgid "Início"
 msgstr "Hjem"
+
+msgid "Internet"
+msgstr "Internet"
+
+msgid "Escritório"
+msgstr "Kontor"
+
+msgid "Gráficos"
+msgstr "Grafik"
+
+msgid "Multimídia"
+msgstr "Multimedier"
+
+msgid "Jogos"
+msgstr "Spil"
+
+msgid "Sistema"
+msgstr "System"
+
+msgid "Desenvolvimento"
+msgstr "Udvikling"
+
+msgid "Navegadores"
+msgstr "Browsere"
+
+msgid "E-mail"
+msgstr "E-mail"
+
+msgid "Armazenamento nas nuvens"
+msgstr "Opbevaring i skyen"
+
+msgid "Download"
+msgstr "Download"
+
+msgid "Compartilhadores e Torrent"
+msgstr "Delere og Torrent"
+
+msgid "Mensageiros e Conferências"
+msgstr "Budbringere og konferencer"
+
+msgid "Acesso Remoto, FTP, SSH, VNC, RDP..."
+msgstr "Fjernadgang, FTP, SSH, VNC, RDP..."
+
+msgid "Ferramentas de rede"
+msgstr "Netværksværktøjer"
+
+msgid "Notícias, Feeds e RSS"
+msgstr "Notícias, Feeds e RSS"
+
+msgid "Suíte Office"
+msgstr "Kontorpakke"
+
+msgid "Visualizadores de PDF, Epub, e-books e mais"
+msgstr "PDF, Epub, e-bogsfremvisere og meget mere"
+
+msgid "Editores de PDF"
+msgstr "PDF-udgivere"
+
+msgid "Agenda de tarefas e contatos"
+msgstr "Kalender med opgaver og kontakter"
+
+msgid "Visualizadores de imagem"
+msgstr "Billedfremvisere"
+
+msgid "Editores de imagem e ferramentas de desenho"
+msgstr "Billedredigeringsprogrammer og tegneværktøjer"
+
+msgid "Captura de tela (Screenshot)"
+msgstr "Skærmbillede"
+
+msgid "Converter, redimensionar ou compactar imagens"
+msgstr "Konverter, ændre størrelse eller komprimere billeder"
+
+msgid "Edição 3D e CAD"
+msgstr "3D- og CAD-redigering"
+
+msgid "Reprodutores de áudio"
+msgstr "Lydafspillere"
+
+msgid "Rádio online"
+msgstr "Online radio"
+
+msgid "Gravadores e conversores de áudio"
+msgstr "Lydoptagere og lydomformere"
+
+msgid "Editores de áudio"
+msgstr "Lydredaktører"
+
+msgid "Reprodutores de vídeo"
+msgstr "Videoafspillere"
+
+msgid "Vídeo online, IPTV, Youtube..."
+msgstr "Online video, IPTV, Youtube..."
+
+msgid "Editores e compactadores de vídeo"
+msgstr "Videoreditorer og kompressorer"
+
+msgid "Gravadores e copiadores de CD e DVD"
+msgstr "CD- og DVD-optagere og kopimaskiner"
+
+msgid "Webcam, gravação de tela e transmissão de vídeo"
+msgstr "Webcam, skærmoptagelse og videostreaming"
+
+msgid "Gerenciadores de jogos"
+msgstr "Spillemanagere"
+
+msgid "Utilitários para jogos"
+msgstr "Hjælpeprogrammer til spil"
+
+msgid "Emulador Retroarch"
+msgstr "Retroarch-emulator"
+
+msgid "Emuladores"
+msgstr "Emulatorer"
+
+msgid "Criadores de jogos"
+msgstr "Spiludviklere"
+
+msgid "Ação/Arcade"
+msgstr "Action/Arcade"
+
+msgid "Cartas"
+msgstr "Breve"
+
+msgid "Educacional"
+msgstr "Uddannelse"
+
+msgid "Estratégia"
+msgstr "Strategi"
+
+msgid "Puzzles"
+msgstr "Puslespil"
+
+msgid "Tabuleiro"
+msgstr "Bestyrelsen"
+
+msgid "RPG"
+msgstr "RPG"
+
+msgid "Armazenamento e partições"
+msgstr "Opbevaring og skillevægge"
+
+msgid "Fontes (Tipografia)"
+msgstr "Skrifttyper (typografi)"
+
+msgid "Java JRE"
+msgstr "Java JRE"
+
+msgid "Virtualização"
+msgstr "Virtualisering"
+
+msgid "Editores de código e IDE"
+msgstr "Kodeditorer og IDE'er"
+
+msgid "Banco de dados"
+msgstr "Database"
+
+msgid "Servidores WEB"
+msgstr "WEB-servere"
+
+msgid "Programas Nativos"
+msgstr "Indfødte programmer"
+
+msgid "Programas AUR"
+msgstr "AUR-programmer"
+
+msgid "Programas Flatpak"
+msgstr "Flatpak-programmer"
+
+msgid "Programas Snap"
+msgstr "Snap-programmer"
+
+msgid "Outros"
+msgstr "Andre"
+
+msgid "Instalado na partição:"
+msgstr "Installeret på partitionen:"
+
+msgid "Tamanho da partição:"
+msgstr "Partitionsstørrelse:"
+
+msgid "Espaço utilizado:"
+msgstr "Anvendt plads:"
+
+msgid "Espaço livre:"
+msgstr "Rydde plads:"
+
+msgid "Data que o sistema foi instalado:"
+msgstr "Dato, hvor systemet blev installeret:"
+
+msgid "Pacotes nativos e AUR"
+msgstr "Indfødte pakker og AUR"
+
+msgid "Instalados:"
+msgstr "Installeret:"
+
+msgid "Disponíveis:"
+msgstr "Tilgængelig:"
+
+msgid "Repositórios configurados:"
+msgstr "Repositories konfigureret:"
+
+msgid "Pacotes Snap"
+msgstr "Snap-pakker"
+
+msgid "Pacotes Snap Instalados clique no pacote para remover"
+msgstr "Installerede snap-pakker Klik på den pakke, der skal fjernes"
+
+msgid "Versão: "
+msgstr "Version "
+
+msgid "Pacote: "
+msgstr "Pakke "
+
+msgid "Não informada"
+msgstr "Ikke informeret"
+
+msgid "Categorias"
+msgstr "Kategorier"
+
+msgid "Versão instalada"
+msgstr "Installerede version"
+
+msgid "Versão disponível"
+msgstr "Tilgængelig version"
+
+msgid "Versão"
+msgstr "Version"
+
+msgid "Fechar"
+msgstr "Luk"
+
+msgid "Pacote .deb"
+msgstr ".deb-pakke"
+
+msgid ""
+"Esse programa está em formato .deb, que possui a melhor integração com o "
+"sistema."
+msgstr ""
+"Dette program er i .deb-format, som har den bedste integration med systemet."
+
+msgid "Mais informações"
+msgstr "Flere oplysninger"
+
+msgid "Voltar"
+msgstr "Tilbage"
+
+msgid "Dependências a instalar"
+msgstr "Afhængigheder, der skal installeres"
+
+msgid "Ver mais"
+msgstr "Se mere"
+
+msgid "Pacotes com dependências não atendidas: "
+msgstr "Pakker med uopfyldte afhængigheder "
+
+msgid "Depende de "
+msgstr "Det afhænger af "
+
+msgid "mas não vai ser instalado."
+msgstr "men det bliver ikke installeret."
+
+msgid "mas não está disponível"
+msgstr "men den er ikke tilgængelig"
+
+msgid "Pacote:"
+msgstr "Pakke:"
+
+msgid "Versão disponível:"
+msgstr "Tilgængelig version:"
+
+msgid "Repositório:"
+msgstr "Opbevaringssted:"
+
+msgid "Cancelar"
+msgstr "Annuller"
+
+msgid "Instalando"
+msgstr "Installation af"
+
+msgid "Removendo"
+msgstr "Fjernelse af"
+
+msgid "Versão disponivel:"
+msgstr "Tilgængelig version:"
+
+msgid "Licença:"
+msgstr "Licens:"
+
+msgid "AUR"
+msgstr "AUR"
+
+msgid "Empacotador:"
+msgstr "Packer:"
 
 msgid "Reinstalar"
 msgstr "Geninstaller"
